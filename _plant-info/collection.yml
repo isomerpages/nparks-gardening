@@ -1,0 +1,4 @@
+collections:
+  plant-info:
+    output: true
+    order: []
