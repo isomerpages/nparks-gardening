@@ -1,4 +1,5 @@
 collections:
   plant-problems:
     output: true
-    order: []
+    order:
+      - Aphids.md
