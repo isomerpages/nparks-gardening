@@ -3,3 +3,23 @@ title: Example Title
 permalink: /plant-info/example/
 description: ""
 ---
+
+<style type="text/css">
+	h1 {
+	font-size: 11 ; 
+	font-color: #d5d5d5 ;
+	border-bottom: 5px dashed #d5d5d5;
+	margin: 0;
+	letter-spacing: -0.5pt;
+	line-height: 110%;
+	text-align: centre;
+	text-transform: uppercase;
+	} 
+	</style>
+	
+<h1> hello </h1> 
+	<font size="2pt">hello </font>
+	hello
+	<font size="8pt">hello</font>
+	
+<marquee><font color="maroon"> ATTENTION! PLEASE SAVE WATER! DRINK WATER AND WEAR HATS!</font></marquee>
