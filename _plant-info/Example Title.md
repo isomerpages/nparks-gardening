@@ -30,10 +30,6 @@ description: ""
 	}
 	
 	
-	table, tr, td {
-	border: hidden;
-	}
-	
 	</style> 
 	
 	
@@ -62,8 +58,7 @@ in the jungle the might jungle
 	
 	
 	<br>
-	
-	<table style="font-size:12pt; text-align:center; border=0">
+	<table style="background-color:#ffffff;border-color:#ffffff; border-style:solid; border-width:0px; font-family:Arial, sans-serif; font-size:14px; overflow:hidden; padding:10px 5px; text-align:center;vertical-align:top;word-break:normal">
 		<tbody>
 			<tr>
 			<td>mixing soil</td>
