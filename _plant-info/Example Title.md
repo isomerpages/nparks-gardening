@@ -30,7 +30,21 @@ description: ""
 	}
 	
 	
+  .button-primary {
+    background-color: #529c57;
+    border: 2px solid #529c57;
+    padding: 0.5rem 1rem;
+  	border-radius: 1rem;
+    color: white !important;
+	  text-decoration: none;
+  }
+	
 	</style> 
+	
+	
+<a style="text-decoration:none" class="button-primary" href="https://www.gogreen.gov.sg/grab-go-green-challenge/">
+        Find out more
+      </a>  
 	
 	
 <h1> hello </h1> 
