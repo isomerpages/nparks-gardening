@@ -6,7 +6,13 @@ description: ""
 <style type="text/css">
 	h2 {
 	line-height: 80%;
-	font-color: #215732;
+	color: #215732;
+	}
+	
+	ul {
+	line-height: 80%;
+	line-spacing: 80%;
+	color: #215732
 	}
 </style>
   
@@ -19,4 +25,9 @@ Aphids produce honeydew (a sweet fluid) as a waste product while feeding that an
 <br><br>
 Aphids largely do not cause great damage when caught early. However, if they are left unattended for a period, aphids can infest and weaken the plant, causing stunted growth, fruit deformities or even death. They also spread many viral plant diseases as they travel plant to plant to reproduce.
 <br>
+
 <h2>Symptoms</h2>
+<ul>
+	<li>Infested leaves and stems tend to curl downwards. Developing fruits may also become distorted in shape.</li>
+	<li>Leaves, stems and fruits appear sticky, and can become covered in sooty mould which is unsightly.</li>
+</ul>
