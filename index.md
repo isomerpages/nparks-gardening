@@ -12,7 +12,7 @@ sections:
       background: /images/hero-banner.png
   - infobar:
       title: New to gardening?
-      subtitle: "Gardening 101 "
+      subtitle: Gardening 101
       description: We've handpicked a few tips and tricks to get you going
       button: Let's get started!
       url: /101
@@ -21,7 +21,7 @@ sections:
       subtitle: Plant search
       description: Find a plant to grow based on your garden space!
       button: Learn more here
-      url: /tbc
+      url: /plant-search/
       alt: Image alt text
   - infopic:
       title: Digital tools for starting your garden
