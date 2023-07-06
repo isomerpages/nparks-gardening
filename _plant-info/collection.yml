@@ -1,5 +1,0 @@
-collections:
-  plant-info:
-    output: true
-    order:
-      - Example Title.md
