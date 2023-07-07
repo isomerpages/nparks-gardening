@@ -1,5 +1,5 @@
 collections:
-  plant-problems:
+  learn-more-about-gardening:
     output: true
     order:
       - Aphids.md
