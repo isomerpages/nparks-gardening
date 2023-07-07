@@ -7,9 +7,8 @@ permalink: /
 notification: testing 123
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
-      background: /images/hero-banner.png
+      title: GardeningSG
+      subtitle: let's get growing!
   - infobar:
       title: New to gardening?
       subtitle: Gardening 101
