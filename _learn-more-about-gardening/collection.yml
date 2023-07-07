@@ -2,4 +2,5 @@ collections:
   learn-more-about-gardening:
     output: true
     order:
+      - Plant problems/.keep
       - Aphids.md
