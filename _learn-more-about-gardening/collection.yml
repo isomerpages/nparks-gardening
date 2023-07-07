@@ -2,5 +2,6 @@ collections:
   learn-more-about-gardening:
     output: true
     order:
+      - Horticulture techniques/.keep
       - Plant problems/Aphids.md
       - Plant problems/.keep
