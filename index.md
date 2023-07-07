@@ -23,6 +23,7 @@ sections:
       button: Recommend a plant to me
       url: /plant-search/
       alt: Image alt text
+      image: /images/Landing_page/plantsearch.png
   - infopic:
       title: Digital tools for starting your garden
       subtitle: Cool beans
@@ -31,4 +32,5 @@ sections:
       button: try out our calculators
       url: /math
       alt: Image alt text
+      image: /images/Landing_page/plantcalculator.png
 ---
