@@ -2,4 +2,5 @@ collections:
   new-to-gardening:
     output: true
     order:
+      - Plants for beginners/.keep
       - Basic skills/.keep
