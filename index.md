@@ -17,16 +17,16 @@ sections:
       button: Let's get started!
       url: /101
   - infopic:
-      title: What plants can I grow?
-      subtitle: Plant search
+      title: Grow with the flow
+      subtitle: Not sure what to grow?
       description: Find a plant to grow based on your garden space!
-      button: Learn more here
+      button: Recommend a plant to me
       url: /plant-search/
       alt: Image alt text
   - infopic:
       title: Digital tools for starting your garden
       subtitle: Cool beans
-      description: Not sure how much soil you need or when to start sowing your seeds
+      description: Unsure how much soil you need or when to start sowing your seeds
         for a harvest?
       button: try out our calculators
       url: /math
