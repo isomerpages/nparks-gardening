@@ -11,14 +11,14 @@ description: ""
 
 <p>Aphids largely do not cause great damage when caught early. However, if they are left unattended for a period, aphids can infest and weaken the plant, causing stunted growth, fruit deformities or even death. They also spread many viral plant diseases as they travel plant to plant to reproduce.</p>
 
-<p><span style="font-family:Calibri,sans-serif"><span style="font-family:&quot;Calibri Light&quot;,sans-serif"><span style="font-size:16.0pt">Symptoms:</span></span></span></p>
+<p><span style="font-size:16.0pt">Symptoms:</span></p>
 
 <ul>
 	<li>Infested leaves and stems tend to curl downwards.&nbsp;Developing fruits may also become distorted in shape.</li>
 	<li>Leaves, stems and fruits appear sticky, and can become covered in sooty mould which is unsightly.</li>
 </ul>
 
-<p><span style="font-family:Calibri,sans-serif"><span style="font-family:&quot;Calibri Light&quot;,sans-serif"><span style="font-size:16.0pt">Preventive and control measures:</span></span></span></p>
+<p><span style="font-size:16.0pt">Preventive and control measures:</span></p>
 
 <p>Do regular checks on your plants for aphids, on the stems of the plant and underside of leaves, which may be distorted or curled.</p>
 
