@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Garden biodiversity/.keep
+      - Plants/Ornamental Plants.md
       - Plants/Edible plants.md
       - Plants/.keep
       - Horticulture techniques/.keep
