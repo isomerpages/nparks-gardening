@@ -2,6 +2,7 @@ collections:
   plants:
     output: true
     order:
+      - Biodiversity Attracting Plants/.keep
       - Edible Plants/.keep
       - Native Plants/.keep
       - Ornamental Plants/.keep
