@@ -2,5 +2,6 @@ collections:
   plants:
     output: true
     order:
+      - Edible Plants/.keep
       - Native Plants/.keep
       - Ornamental Plants/.keep
