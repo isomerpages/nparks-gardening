@@ -32,5 +32,5 @@ sections:
       button: try out our calculators
       url: /math
       alt: Image alt text
-      image: /images/Landing_page/plantcalculator.png
+      image: /images/Landing_page/plantcalculator1.png
 ---
