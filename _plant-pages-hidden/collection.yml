@@ -2,5 +2,4 @@ collections:
   plant-pages-hidden:
     output: true
     order:
-      - Ornamental Plants.md
       - Edible Plants.md
