@@ -1,4 +1,5 @@
 collections:
   digital-tools:
     output: true
-    order: []
+    order:
+      - Soil Calculator.md
