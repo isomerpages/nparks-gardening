@@ -1,5 +1,5 @@
 collections:
-  plants:
+  plant-library:
     output: true
     order:
       - Biodiversity Attracting Plants/.keep
