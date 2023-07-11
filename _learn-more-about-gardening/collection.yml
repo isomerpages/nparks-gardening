@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Garden biodiversity/.keep
+      - Plants/Biodiversity Attracting Plants.md
       - Plants/.keep
       - Plants/Edible plants.md
       - Plants/Ornamental Plants.md
