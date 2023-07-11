@@ -1,5 +1,4 @@
 collections:
   plant-pages-hidden:
     output: true
-    order:
-      - Edible Plants.md
+    order: []
