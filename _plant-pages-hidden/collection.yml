@@ -1,5 +1,5 @@
 collections:
-  plants:
+  plant-pages-hidden:
     output: true
     order:
       - Ornamental Plants.md
