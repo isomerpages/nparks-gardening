@@ -30,7 +30,7 @@ sections:
       description: Unsure how much soil you need or when to start sowing your seeds
         for a harvest?
       button: try out our calculators
-      url: /math
+      url: /digital-tools
       alt: Image alt text
       image: /images/Landing_page/plantcalculator1.png
 ---
