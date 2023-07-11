@@ -1,4 +1,4 @@
 collections:
-  plant-pages-hidden:
+  plants:
     output: true
     order: []
