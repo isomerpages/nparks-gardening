@@ -2,5 +2,5 @@ collections:
   digital-tools:
     output: true
     order:
-      - Sow to harvest time.md
       - Soil Calculator.md
+      - Sow to harvest time.md
