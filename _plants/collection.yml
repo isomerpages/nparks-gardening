@@ -2,4 +2,5 @@ collections:
   plants:
     output: true
     order:
+      - Native Plants/.keep
       - Ornamental Plants/.keep
