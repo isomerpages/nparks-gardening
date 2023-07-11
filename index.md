@@ -9,6 +9,7 @@ sections:
   - hero:
       title: GardeningSG
       subtitle: let's get growing!
+      background: /images/Landing_page/header_kailan.jpg
   - infobar:
       title: New to gardening?
       subtitle: Gardening 101
