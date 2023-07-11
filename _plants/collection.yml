@@ -1,4 +1,5 @@
 collections:
   plants:
     output: true
-    order: []
+    order:
+      - Ornamental Plants/.keep
