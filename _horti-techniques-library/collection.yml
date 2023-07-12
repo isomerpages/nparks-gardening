@@ -1,0 +1,4 @@
+collections:
+  horti-techniques-library:
+    output: true
+    order: []
