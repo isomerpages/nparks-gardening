@@ -8,5 +8,4 @@ third_nav_title: Horticulture techniques
 
 how to choose a plant 
 
-how to mix soil 
-
+how to mix soil
