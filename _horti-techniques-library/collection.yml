@@ -2,4 +2,5 @@ collections:
   horti-techniques-library:
     output: true
     order:
+      - Lighting/.keep
       - Watering/.keep
