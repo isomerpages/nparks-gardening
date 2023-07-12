@@ -1,4 +1,5 @@
 collections:
   horti-techniques-library:
     output: true
-    order: []
+    order:
+      - Watering/.keep
