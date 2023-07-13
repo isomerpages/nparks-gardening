@@ -62,8 +62,26 @@ image: ""
 
 <section>
 	<h4>Harvest cycle:</h4>
-Growing period	Sowing to germination	Germination to transplanting	Transplanting to first harvest	Total sowing to first harvest (Days)
-Approximate time	A week or less	2 to 3 weeks	2 to 3 weeks	A month to a month and a half
+	<table>
+		<thead>
+			<tr>
+				<th>Growing period</th>
+				<th>Sowing to germination</th>
+				<th>Germination to transplanting</th>
+				<th>Transplanting to first harvest</th>
+				<th>Total sowing to first harvest</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<th>Approximate time</th>
+				<td>A week or less</td>
+				<td>2 to 3 weeks</td>
+				<td>2 to 3 weeks</td>
+				<td>A month to a month and a half</td>
+			</tr>
+		</tbody>
+	</table>
 	<br>
 </section>
 
