@@ -17,7 +17,7 @@ image: ""
 <br>
 
 <section>
-<p>One of the most recognisable leafy vegetables, lettuces come in a variety of shapes and colours, with flat-leaved, curly, green, and red cultivars serving as exciting options for the edible gardener. Loose-leaf lettuces do better in the tropics and can be grown in both pots and true ground. Head lettuce is difficult to grow outdoors in Singapore due to the heat and humidity, which tends to cause the tightly bunched leaves to rot.</p>
+One of the most recognisable leafy vegetables, lettuces come in a variety of shapes and colours, with flat-leaved, curly, green, and red cultivars serving as exciting options for the edible gardener. Loose-leaf lettuces do better in the tropics and can be grown in both pots and true ground. Head lettuce is difficult to grow outdoors in Singapore due to the heat and humidity, which tends to cause the tightly bunched leaves to rot.<p></p>
 	<p>An annual crop, this plant is often grown and consumed under 2 months. Its rapid harvest cycle makes it useful for crop rotation.</p>
   <p>Due to its shallow root system, these plants are a popular choice for container gardening and corridor gardening.</p>
 	<br>
@@ -26,7 +26,9 @@ image: ""
 <section>
 	<h4>Environmental needs:</h4>
 As with most leafy vegetables, Lettuce needs about 4-6 hours of direct sunlight. Plants do best in moist, well-drained soil at least 10cm deep, making them suitable for container gardening. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe. Keep your plants cool with mulch and plenty of water to encourage growth. 
-Sowing seeds:
+	</section>
+	
+<h4>Sowing seeds:</h4>
 Sow seeds individually in a seedling tray filled with potting mix or seedling mix. Lightly mist the soil until damp, once a day. Seeds should sprout within a week.
 Watch: Sowing Seeds in 6 steps
 The seedlings will be vulnerable to high heat and heavy rain and are best kept in a sheltered propagation area or a shaded space with around 4 hours of partial or direct sunlight. 
@@ -52,4 +54,4 @@ Leaf miners are fly larvae that eat the leaves from the inside, leaving white li
 Etiolation is characterised by plants growing long and skinny, with weak stems and small leaves. The plants may also sometimes look yellowish. Plants etiolate when they do not get enough sunlight, which results in slow growth and untidy forms. To prevent this, grow plants in environments with enough light for them and make sure that each plant has enough space to prevent overcrowding. 
 
 	
-	</section>
+	
