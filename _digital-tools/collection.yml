@@ -3,4 +3,4 @@ collections:
     output: true
     order:
       - Soil Calculator.md
-      - Sow to harvest time.md
+      - Harvest Planner (Finding Sowing Date).md
