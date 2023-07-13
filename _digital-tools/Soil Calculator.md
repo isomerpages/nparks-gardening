@@ -5,8 +5,8 @@ description: ""
 ---
 To calculate:
 - The volume of your planter
-- The amount of soil to require
-- The cost of the soil required (for budgeting)
+- The amount of soil required
+- The cost of the required soil (for budgeting)
 
 ![Image of Planter Dimension]()
 
