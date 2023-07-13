@@ -42,10 +42,11 @@ image: ""
 	<h4>Transplanting:</h4>
 <p>Seedlings will be ready for transplanting into pots or true ground when they have developed 4 or more leaves, or roughly a week or two after germination. Leave 10-20cm between each plant to encourage more growth, better ventilation, and prevent etiolation. </p>
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/lItBHYjyrKg" height="315" width="560"></iframe>
-	<br><br>
+	<br>
 	</section>
 	
 <section>
+	<br>
 	<h4>Growing:</h4>
 <p>Lettuce is a rapid grower and will produce more leaves if fed with high nitrogen fertilisers. Plants can be fertilised regularly the week after transplanting for a fuller crop. </p>
 	<br>
