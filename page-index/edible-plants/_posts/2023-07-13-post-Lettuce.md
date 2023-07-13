@@ -32,12 +32,8 @@ image: ""
   <h4>Sowing seeds:</h4>
 <p>Sow seeds individually in a seedling tray filled with potting mix or seedling mix. Lightly mist the soil until damp, once a day. Seeds should sprout within a week.</p>
 	
-	NDP:
-	
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/x7J87wY7U6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
-	
 	<br>
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/x7J87wY7U6s" height="100%" width="100%"></iframe>
 
 <p>The seedlings will be vulnerable to high heat and heavy rain and are best kept in a sheltered propagation area or a shaded space with around 4 hours of partial or direct sunlight. </p>
 	<br>
@@ -87,7 +83,9 @@ image: ""
 			</tr>
 		</tbody>
 	</table>
-	<br>
+	
+<p>Check out our&nbsp;<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/digital-tools/soilcalculator/">harvest planner</a>&nbsp;to schedule your growing! </p>
+<br>
 </section>
 
 <section>
