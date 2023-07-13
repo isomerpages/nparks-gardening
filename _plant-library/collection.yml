@@ -1,9 +1,0 @@
-collections:
-  plant-library:
-    output: true
-    order:
-      - Biodiversity Attracting Plants/.keep
-      - Edible Plants/Lettuce.md
-      - Edible Plants/.keep
-      - Native Plants/.keep
-      - Ornamental Plants/.keep
