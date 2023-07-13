@@ -29,7 +29,7 @@ sections:
       subtitle: Cool beans
       description: Unsure how much soil you need or when to start sowing your seeds
         for a harvest?
-      button: try out our calculators
+      button: try out our tools
       url: /digital-tools/soilcalculator/
       alt: Image alt text
       image: /images/Landing_page/plantcalculator1.png
