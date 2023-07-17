@@ -16,7 +16,7 @@ image: ""
 </section>
 
 <section>
-	<img width="100%" height="300" src="/images/Plants/Lettuce_JacChua%20(3).jpg">
+	<img width="400" height="300" src="/images/Plants/Lettuce_JacChua%20(3).jpg">
 	
 <p>One of the most recognisable leafy vegetables, lettuces come in a variety of shapes and colours, with flat-leaved, curly, green, and red cultivars serving as exciting options for the edible gardener. Loose-leaf lettuces do better in the tropics and can be grown in both pots and true ground. Head lettuce is difficult to grow outdoors in Singapore due to the heat and humidity, which tends to cause the tightly bunched leaves to rot.</p>
 	<p>An annual crop, this plant is often grown and consumed under 2 months. Its rapid harvest cycle makes it useful for crop rotation.</p>
@@ -26,7 +26,7 @@ image: ""
 
 <section>
 	<h4>Environmental needs:</h4>
-		<img width="100%" height="300" src="/images/Horti%20techniques/ContainerPlanting_JacChua%20(3).jpg">
+		<img width="400" height="300" src="/images/Horti%20techniques/ContainerPlanting_JacChua%20(3).jpg">
 <p>Lettuce does best in more than 6 or more hours of indirect sunlight, or around 4-5 hours of direct sunlight. Plants do best in moist, well-drained soil at least 10cm deep, making them suitable for container gardening. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe. Keep your plants cool with mulch and plenty of water to encourage growth. </p>
 	<br>
 	</section>
