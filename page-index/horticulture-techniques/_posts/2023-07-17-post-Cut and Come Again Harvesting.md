@@ -8,9 +8,9 @@ description: Cut-and-Come-Again Harvesting is the technique of repeatedly
 image: ""
 ---
 <section>
-<h4>What is Cut and Come Again Harvesting?</h4>
+<h4>What is Cut-and-Come-Again Harvesting?</h4>
 <p>Cut-and-Come-Again Harvesting is the technique of repeatedly harvesting leaves and shoots of plants to prolong their production period. By harvesting only some of the plant, many edible plants can continue to grow, thus increasing your overall yield. It is a good way to have a continuous supply of vegetables throughout the year without having to always start seeds and transplant seedlings.</p>
-<p>There are two ways to do Cut and Come Again Harvesting. They are:</p>
+<p>There are two ways to do Cut-and-Come-Again Harvesting. They are:</p>
 <ul>
   <li>Harvesting the older outer leaves</li>
   <li>Harvesting the young leaves and shoots</li>
