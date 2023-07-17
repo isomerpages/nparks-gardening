@@ -22,7 +22,7 @@ description: ""
 		<td><h4>Soil Calculator</h4>
 			picture
 			<br>
-			blurb
+			blurb blablabla
 			<br><br>
 		    <a class="button-primary" href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/digital-tools/soilcalculator/">Try it now!</a></td>
 		<td><h4>Sowing Planner</h4></td>
