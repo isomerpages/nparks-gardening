@@ -19,17 +19,17 @@ description: ""
 	<table>
 		<tbody>
 			<tr>
-			<td><h4>Soil Calculator</h4>
+			<td style="width:33%"><h4>Soil Calculator</h4>
 			  <img style="width:150px; height:150px" src="/images/Digital%20Tools/3planters.png">
 				Find out the volume of soil required for your planter<br>
 			<br>
 			<a class="button-primary" href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/digital-tools/soilcalculator/">Try it now!</a></td>
-			<td><h4>Sowing Planner</h4>
+			<td style="width:33%"><h4>Sowing Planner</h4>
 				<img style="width:150px; height:150px" src="/images/Digital%20Tools/calendar.png">
 				Find out the estimated date for sowing your seeds so that you can harvest at your intended date<br>
 				<br>
 				<a class="button-primary" href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/digital-tools/pestid/">Try it now!</a></td>
-				<td><h4>Pest Identifier</h4>
+				<td style="width:33%"><h4>Pest Identifier</h4>
 				<img style="width:150px; height:150px" src="/images/Digital%20Tools/magnifypest.png">
 					Zoom into the possible culprits attacking your plants<br>
 					<br>
