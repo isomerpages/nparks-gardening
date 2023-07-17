@@ -13,7 +13,7 @@ image: ""
 		</header>
 	<br>
 </section>
-	<img src="/images/Biodiversity/aphids_jacchua%20(2).jpg">
+	<img src="/images/Biodiversity/aphids_jacchua.jpg">
 
 <section>
 <p>Aphids are sap-sucking insects that are small and pear-shaped. They come in various colors – green, yellow, brown-red or black and can be winged or wingless. Aphids have needle-like mouthparts that they use to pierce into the plant tissue to feed. They are usually found on plant stems and the undersides of leaves.</p>
