@@ -56,7 +56,7 @@ image: ""
 <p>Does your garden have a theme? Do you use your plants for therapeutic horticulture, arts and crafts, or cooking? Choosing plants for use depends on your own taste and plans, and is an exciting way to build a collection!</p>
 <p>Here are some common ways plants can be used to help you curate your own list:</p>
 <ul>
-  <li>To be eaten as a leafy vegetable, fruit, or herb/li&gt;
-  </li><li>To be admired for colourful foliage or flowers</li>
+  <li>To be eaten as a leafy vegetable, fruit, or herb</li>
+	<li>To be admired for colourful foliage or flowers</li>
   <li>To attract animals like pollinators, birds, and more </li>
     </ul></section>
