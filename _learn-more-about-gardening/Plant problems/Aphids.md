@@ -12,8 +12,6 @@ third_nav_title: Plant problems
 </section>
 
 <section>
-	<img width="400" height="300" src="/images/Biodiversity/aphids_jacchua.jpg">
-	
 <p>Aphids are sap-sucking insects that are small and pear-shaped. They come in various colors – green, yellow, brown-red or black and can be winged or wingless. Aphids have needle-like mouthparts that they use to pierce into the plant tissue to feed. They are usually found on plant stems and the undersides of leaves.</p>
 
 <p>Aphids produce honeydew (a sweet fluid) as a waste product while feeding that ants love. Hence, ants may guard and care for aphids in return for food. Therefore, when you notice ants climbing around your plant, you may want to take closer look for the presence of aphids.</p>
