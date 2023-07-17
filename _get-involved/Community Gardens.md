@@ -12,7 +12,7 @@ To see what some community gardens look like, visit our Community Garden showcas
 ### How do I join or visit a Community Garden?
 To locate a Community Garden near you, please check out the map below:
  
-<iframe height="480" width="640" src="https://www.google.com/maps/d/u/0/embed?mid=1Wq14XYkU955dfufw67TVKWcpEaG_d6o&amp;ehbc=2E312F"></iframe>
+<iframe height="415" width="100%" src="https://www.google.com/maps/d/u/0/embed?mid=1Wq14XYkU955dfufw67TVKWcpEaG_d6o&amp;ehbc=2E312F"></iframe>
 
 Once you have identified your preferred community garden(s), you may approach the gardening group directly to enquire if they have any garden visit or volunteering opportunities. 
 
