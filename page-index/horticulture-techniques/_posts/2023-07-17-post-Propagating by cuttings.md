@@ -24,7 +24,8 @@ image: ""
 	<img style="height:390px; width:520px" src="/images/Horti%20techniques/Rooting_Jacchua%20(2).jpg">
 <p>Once you have your stems, you can choose to put them in water or rooting media to get them to grow roots. Plants that can grow well in waterlogged soil or require a lot of watering generally root better in water, while plants that are drought-tolerant and require little watering root better in rooting media, and may sometimes need rooting hormone to speed up the process.</p>
 <img style="height:390px; width:520px" src="/images/Horti%20techniques/WaterRooting_Jacchua%20(3).jpg">
-<p><b>Rooting in water</b> can be done in any container, but clear ones are best for monitoring root growth. Water should be changed at least twice a week to prevent root rot and prevent mosquito breeding. Plants are ready to be transplanted to soil once the roots are at least 5-10cm long.</p>
+<p><b>Rooting in water</b> can be done in any container, but clear ones are best for monitoring root growth. Water should be changed at least twice a week to prevent root rot and prevent mosquito breeding. Leaves should be kept out of the water to prevent rot.</p> 
+<p>Plants are ready to be transplanted to soil once the roots are at least 5-10cm long.</p>
 <p>Plants that can be rooted in water include:</p>
 <ul>
   <li>Devil's Ivy (<em>Epipremnum aureum</em>)</li>
