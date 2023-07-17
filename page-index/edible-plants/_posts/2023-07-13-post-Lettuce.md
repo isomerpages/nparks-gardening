@@ -26,7 +26,7 @@ image: ""
 
 <section>
 	<h4>Environmental needs:</h4>
-		<img src="/images/containerplanting_jacchua%20(2).jpg">
+		<img src="/images/Horti%20techniques/ContainerPlanting_JacChua%20(3).jpg">
 <p>As with most leafy vegetables, Lettuce needs about 4-6 hours of direct sunlight. Plants do best in moist, well-drained soil at least 10cm deep, making them suitable for container gardening. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe. Keep your plants cool with mulch and plenty of water to encourage growth. </p>
 	<br>
 	</section>
