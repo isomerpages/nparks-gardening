@@ -60,7 +60,7 @@ image: ""
   <li>African Violet (<em>Streptocarpus ionanthus</em>)</li>
   <li>Flame violet (<em>Episcia cupreata</em>)</li>
   <li>Mother of Thousands (<em>Kalanchoe daigremontiana</em>)</li>
-  <li>Snake plant (<em>Dracaena trifasciata</em></li>
+  <li>Snake plant (<em>Dracaena trifasciata</em>)</li>
   <li>White mulberry (<em>Morus alba</em>)</li>
 </ul>
 </section>
