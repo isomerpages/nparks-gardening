@@ -11,7 +11,7 @@ image: ""
 <img style="height:390px; width:520px" src="/images/Gardeners/Pruning%20(4).jpg">
 <p>Pruning is the act of cutting off plant parts to maintain the shape, size, and health of a plant. In addition to removing dead, diseased, and pest-infesting plant parts, regular pruning will encourage new growth and promote bushiness. It is an important part of plant care for both herbaceous and woody plants, and should be done as part of regular garden maintenance. </p>
 </section>
-
+<br>
 <section>
 <h4>What is Hard Pruning?</h4>
 <img style="height:390px; width:520px" src="/images/Horti%20techniques/Pruning_Jacchua.jpg">
