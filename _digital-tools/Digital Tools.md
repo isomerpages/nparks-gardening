@@ -16,13 +16,23 @@ description: ""
 
 
 <section>
-<table>
+
+		picture
+			<br><br><br><a class="button-primary" href="">Try it now!</a><table>
 	<tbody><tr>
 		<td><h4>Soil Calculator</h4>
 			picture
 			<br>
-			blurb blablabla
+			Finding out your soil volume required for your planter!
 			<br><br>
 		    <a class="button-primary" href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/digital-tools/soilcalculator/">Try it now!</a></td>
 		<td><h4>Sowing Planner</h4></td>
-		<td><h4>Pest Identifier</h4></td></tr></tbody></table></section>
+		    
+		<td><h4>Pest Identifier</h4></td></tr></tbody></table>
+			Finding out the estimated date to sow your seeds in order to harvest at the intended date
+			</section>
+		picture
+			<br>
+			Zoom down on the possible culprits that attacking your plants!
+			<br><br>
+		    <a class="button-primary" href="">Try it now!</a>
