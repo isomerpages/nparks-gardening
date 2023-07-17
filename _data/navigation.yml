@@ -1,8 +1,9 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: "Get involved "
+    collection: get-involved
+  - title: Learn more about gardening
+    url: /permalink
+    sublinks:
+      - title: Submenu Title
+        url: /permalink
