@@ -4,8 +4,7 @@ permalink: /digital-tools/soilcalculator/
 description: ""
 ---
 To calculate:
-- The volume of your planter
-- The amount of soil required
+- The amount of soil required for the planter
 - The cost of the required soil (for budgeting)
 
 <img src="/images/Digital%20Tools/planter_diagram_lwd1.png">				
