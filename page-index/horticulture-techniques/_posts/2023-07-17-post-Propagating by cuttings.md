@@ -39,14 +39,14 @@ image: ""
 <p><b>Rooting in a rooting medium</b> is generally done in pots as water needs to drain away to prevent the cutting from rotting. Rooting mediums include cocopeat, pumice, sand, and perlite, which are soil amendments with no nutrients. Soil amendments are generally sterile and very well-draining, which reduces the chance of a cutting rotting greatly. However, the rooted cutting will need to be transferred to soil eventually to grow properly.</p>
 <p>Well-draining soil mixes can also be used as rooting mediums, but this is riskier as soil tends to contain pathogens and fungi, which can infect a fresh cutting and kill it. On the other hand, soil will have nutrients, which will speed up growth. As such, hardy cuttings can be rooted directly in soil to speed up the growth process and remove the need for transplanting.</p>
 <p>Cuttings in rooting mediums will need to be watered at least once a day to keep the cutting fresh and growing. The cutting should not dry out completely, but should not sit in water for more than an hour either. Make sure your rooting mediums and containers are able to drain.</p>
-<p>Plants with very woody stems will take longer to root. This process can be sped up with the use of rooting hormone, which is a powder applied to the end of cut stems. The hormone stimulates roots to grow quickly. Plants that do well with rooting hormone are indicated witha * in the list below.</p>
+<p>Plants with very woody stems will take longer to root. This process can be sped up with the use of rooting hormone, which is a powder applied to the end of cut stems. The hormone stimulates exposed cells in the cut to grow quickly into roots. Plants that do well with rooting hormone are indicated with a * in the list below.</p>
 <p>Plants that can be rooted in soil or rooting mediums include:</p>
 <ul> 
   <li>Curry Leaf Plant* (<em>Murraya koenigii</em>)</li>
   <li>Malayan Ixora* (<em>Ixora congesta</em>)</li>
   <li>Okinawan spinach (<em>Gynura bicolor</em>)</li>
   <li>Pagoda Flower (<em>Clerodendrum paniculatum</em>)</li>
-  <li>Tapioca (<em>Manihot esculenta</em></li>
+  <li>Tapioca (<em>Manihot esculenta</em>)</li>
   <li>White mulberry (<em>Morus alba</em>)</li>
 </ul>
 </section>
@@ -57,9 +57,10 @@ image: ""
 <p>Some plants can even be propagated from leaves! Plants with fleshy leaves are particularly good for leaf propagation, but are very vulnerable to rot. Placing leaves on a bed of well draining soil amendments like pumice, sand, or perlite and misting them once a day will encourage the leaves to develop roots. Ince the roots are about 1.5cm long, the cuttting can be transferred to well-draining soil to grow into a full plant. </p>
 <p>Plants that can be rooted from leaves include:</p>
 <ul> 
-  <li>African Violet (<em>Streptocarpus ionanthus<em>)</em></em></li><em><em>
+  <li>African Violet (<em>Streptocarpus ionanthus</em>)</li>
   <li>Flame violet (<em>Episcia cupreata</em>)</li>
   <li>Mother of Thousands (<em>Kalanchoe daigremontiana</em>)</li>
   <li>Snake plant (<em>Dracaena trifasciata</em></li>
   <li>White mulberry (<em>Morus alba</em>)</li>
-</em></em></ul></section>
+</ul>
+</section>
