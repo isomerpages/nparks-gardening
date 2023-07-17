@@ -29,7 +29,7 @@ image: ""
 
 <ul>
 	<li>Infested leaves and stems tend to curl downwards.&nbsp;Developing fruits may also become distorted in shape.</li>
-	<li>Leaves, stems and fruits appear sticky, and can become covered in sooty mould which is unsightly.</li>
+	<li>Leaves, stems and fruits appear sticky, and can become covered in sooty mold which is unsightly.</li>
 </ul>
 
 </section>
