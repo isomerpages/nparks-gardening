@@ -24,7 +24,7 @@ image: ""
     </ul>
 
 <p>As a rule of thumb, it is hardest to change the amount of light your garden gets, and therefore it would be best to choose plants that can thrive in the amount of light you have. Once you have determined that, it is easier to pick plants to suit your watering schedule, and to buy or amend soil as needed.</p>
-<p>Check out our [plant suggester tool](https://go.gov.sg/plantsuggester)plant suggester tool to get you started!</p>
+<p>Check out our <a href="https://go.gov.sg/plantsuggester/">plant suggester tool</a> to get you started!</p>
 </section>
 <br>
 <section>
