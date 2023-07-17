@@ -3,9 +3,9 @@ links:
   - title: Get involved
     collection: get-involved
   - title: Learn more about gardening
-    url: /permalink
+    url: /learn-more-about-gardening
     sublinks:
-      - title: Submenu Title
-        url: /permalink
+      - title: Plants
+        url: /learn-more-about-gardening/plants/biodiversityattractingplants/
   - title: Learn more about gardening
     collection: learn-more-about-gardening
