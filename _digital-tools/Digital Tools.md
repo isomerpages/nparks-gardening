@@ -3,7 +3,6 @@ title: Digital Tools
 permalink: /digital-tools/
 description: ""
 ---
-
 <style>
 		  .button-primary {
     background-color: #215732;
@@ -32,7 +31,6 @@ description: ""
 				Zoom into the possible culprits attacking your plants<br>
 					<br>
 				<a class="button-primary" href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/digital-tools/sowing-planner/">Try it now!</a></td>
-				
 			</tr>
 		</tbody>
 	</table>
