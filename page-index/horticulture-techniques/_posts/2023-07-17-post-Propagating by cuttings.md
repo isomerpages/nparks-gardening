@@ -55,7 +55,7 @@ image: ""
 <section>
 <h4>Leaf cuttings</h4>
 <img style="height:390px; width:520px" src="/images/Horti%20techniques/LeafPropagation_JacChua.jpg">
-<p>Some plants can even be propagated from leaves! Plants with fleshy leaves are particularly good for leaf propagation, but are very vulnerable to rot. Placing leaves on a bed of well draining soil amendments like pumice, sand, or perlite and misting them once a day will encourage the leaves to develop roots. Ince the roots are about 1.5cm long, the cuttting can be transferred to well-draining soil to grow into a full plant. </p>
+<p>Some plants can even be propagated from leaves! Plants with fleshy leaves are particularly good for leaf propagation, but are very vulnerable to rot. Placing leaves on a bed of well draining soil amendments like pumice, sand, or perlite and misting them once a day will encourage the leaves to develop roots. Once the roots are about 1.5cm long, the cutting can be transferred to well-draining soil to grow into a full plant. </p>
 <p>Plants that can be rooted from leaves include:</p>
 <ul> 
   <li>African Violet (<em>Streptocarpus ionanthus</em>)</li>
