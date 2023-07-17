@@ -17,7 +17,7 @@ image: ""
 <p>Light intensity is measured in <b>lumens (lm)</b> for most household lights. <b>Lumens</b> is a basic unit of measurement for light brightness as perceived by the human eye.</p>
 <p>However, what may seem to be bright to our eyes may not appear as bright to plants. A light fixture that has more blue and red light would have lower lumens than a green and yellow light which our eyes are more sensitive to.</p>  
 <p>The light spectrum range useful for plant growth is defined as <b>Photosynthetically Active Radiation (PAR)</b> which refers to the wavelength from 400nm to 700nm. This is shown in the graph below.
-	<img style="height:390px; width:520px" src="">
+	<img style="height:390px; width:520px" src="/images/Horti%20techniques/grow%20lights%20wavelength.png">
 </p><p>To determine how much useful light is reaching your plants, you will need to understand the <b>Photosynthetic Photon Flux Density (PPFD)</b> value. Its unit in is </p><p>µmol/m<sup>2</sup>/s, which measures the number of photons in the suitable spectra range received by the plant surface at a certain time.</p>
 <p>The larger the value, the more usable light by plants is reaching the plant surface. This value can be found in the specifications for various grow lights.</p>
 </section>
@@ -25,7 +25,7 @@ image: ""
 <section>
 <h4>Choosing the right light for your environment and plant needs</h4>
 <p>There are many types of light to choose from for your indoor plants. From the usual LED table lamp to high-intensity discharge lamps (HID), it depends on the factors shown below.</p>
-	<img style="height:390px; width:520px" src="">
+	<img style="height:390px; width:520px" src="/images/Horti%20techniques/grow%20lights%20table.png">
 </section>
 
 <section>
