@@ -60,7 +60,6 @@ image: ""
 </table>
 	
 <p>It is generally better to underestimate the amount of light you receive as too much sun is simpler to remedy by using shade netting, as opposed to a lack of light, which will require choosing a new site for use or the installation of grow lights. </p>
-	<br>
 
 
 <section>
