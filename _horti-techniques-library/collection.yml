@@ -1,7 +1,0 @@
-collections:
-  horti-techniques-library:
-    output: true
-    order:
-      - Pest Control/.keep
-      - Lighting/.keep
-      - Watering/.keep
