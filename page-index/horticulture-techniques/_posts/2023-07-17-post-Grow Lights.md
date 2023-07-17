@@ -9,8 +9,6 @@ image: ""
 <section>
 <p>The biggest hurdle to growing plants indoor is having enough light. Using a grow light can remedy many issues with indoor gardening, and give you the flexibility of growing anywhere in your home and not be reliant on sunlight coming through your windows. </p>
 </section>
-<br>
-
 <section>
 <h4>Understanding the light that plants need</h4>
 	<img style="height:390px; width:520px" src="/images/Hardscapes/Growlight_JacChua%20(2).jpg">
@@ -21,13 +19,11 @@ image: ""
 </p><p>To determine how much useful light is reaching your plants, you will need to understand the <b>Photosynthetic Photon Flux Density (PPFD)</b> value. Its unit in is <b>µmol/m<sup>2</sup>/s</b>, which measures the number of photons in the suitable spectra range received by the plant surface at a certain time.</p>
 <p>The larger the value, the more usable light by plants is reaching the plant surface. This value can be found in the specifications for various grow lights.</p>
 </section>
-<br>
 <section>
 <h4>Choosing the right light for your environment and plant needs</h4>
 <p>There are many kinds of light you can use to grow plants indoors but the most common are LED household lights, LED grow lights and metal halide bulbs. LED lights are generally preferred as they produce less heat. Plants can burn if they grow too close to or touch very hot bulbs! </p>
 	<img style="height:390px; width:520px" src="/images/Horti%20techniques/grow%20lights%20table.png">
 </section>
-<br>
 <section>
 <h4>LED household lights or grow lights?</h4>
 		<img style="height:390px; width:520px" src="/images/Hardscapes/Growlight_JacChua%20(1).jpg">
