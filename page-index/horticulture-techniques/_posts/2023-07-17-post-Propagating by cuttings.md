@@ -7,7 +7,7 @@ description: ""
 image: ""
 ---
 <section>
-<p>Many plants can be propagated by cuttings made from stems or leaves. Propagating this way is faster than seeds as cutting tend to grow and establish faster, making it a useful way to get plants quickly.</p>
+<p>Many plants can be propagated by cuttings made from stems or leaves. Propagating this way is faster than seeds as cuttings tend to grow and establish faster, making it a useful way to get plants quickly.</p>
 </section>
 <br>
 <section>
