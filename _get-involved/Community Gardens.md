@@ -27,15 +27,15 @@ Please click the following links that apply to you:
 ### What can my Community Garden do?
 Many hands make light work! Community Gardens are the ideal place for hosting and running green events and projects, which can bring your community together and inspire more people to garden. Here are some ideas for what Community Gardeners can do together:
 Events:
-•	Organise harvest sharing
-•	Run a gardening workshop
-•	Make and give away upcycled pots
-•	Run a roadshow booth to promote your garden 
-Projects:
-•	Start a community compost bin
-•	Start a plant adoption corner
-•	Observe biodiversity in your garden
-•	
+* Organise harvest sharing
+* Run a gardening workshop
+* Make and give away upcycled pots
+* Run a roadshow booth to promote your garden 
+* Projects:
+* Start a community compost bin
+* Start a plant adoption corner
+* Observe biodiversity in your garden
+
 Learning journeys
 •	To another Community Garden
 •	To Gardener’s Day Out at HortPark
