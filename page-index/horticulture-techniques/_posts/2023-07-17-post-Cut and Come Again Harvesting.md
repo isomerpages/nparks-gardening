@@ -31,7 +31,7 @@ image: ""
   <li>Pandan (<em>Pandanus amaryllifolius</em>)</li>
   <li>Chinese Mustard (<em>Brassica juncea Broad-leaf Mustard</em>)</li>
 </ul>
-<img style="height:390px; width:520px" src="images/Horti%20techniques/Pruning_JacCHua%20(2).jpg">
+<img style="height:390px; width:520px" src="/images/Horti%20techniques/Pruning_JacCHua%20(2).jpg">
 <p>Harvesting the young shoots and leaves</p>
 <ul>
   <li>Ceylon Spinach (<em>Basella alba</em>)</li>
@@ -80,5 +80,3 @@ image: ""
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/f_Uoug7ZSeg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
 	<br>
 </section>
-
-	
