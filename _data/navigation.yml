@@ -1,9 +1,11 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: "Get involved "
+  - title: Get involved
     collection: get-involved
   - title: Learn more about gardening
     url: /permalink
     sublinks:
       - title: Submenu Title
         url: /permalink
+  - title: Learn more about gardening
+    collection: learn-more-about-gardening
