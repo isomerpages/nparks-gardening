@@ -3,6 +3,9 @@ title: Allotment Gardens
 permalink: /get-involved/allotment-gardens/
 description: ""
 ---
+
+<img src="/images/Garden%20design/allotment%20garden%20at%20jurong%20lake%20gardens%20west.jpg">
+
 Allotment gardens are common green spaces where aspiring gardeners can lease gardening plots to hone their skills and grow their own greens. They can be found in various parks, heartlands, private estates and even organisations. 
 Under NParks’ Allotment Gardening Scheme, each household may apply and ballot for one garden plot to grow herbs, vegetables or any other ornamental plants. These allotment gardens are located across 25 parks and gardens in Singapore. Each plot consists of a raised planter bed (2.5m x 1m) with soil and a mini storage area for tools and may be leased for a period of up to 3 years at a charge of $57 per year (excluding prevailing GST).  
 
