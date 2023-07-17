@@ -10,6 +10,7 @@ image: ""
 <p>The ability to choose plants is the most important skill any gardener could have. Picking plants that fit your garden environment, that are healthy and suit your needs are more than half the battle.</p>
 <p>This page will give some guidelines for you to learn how to choose your own plants, but as with any skill, you will improve more with practice and with active observation of your garden. Keeping a garden log will speed up this process and help you become more discerning.</p>
 </section>
+<br>
 <section>
 <h4>Choosing plants to fit your garden environment</h4>
 <img style="height:390px; width:520px" src="/images/Gardeners/Planting%20(4).jpg">	
@@ -25,6 +26,7 @@ image: ""
 <p>As a rule of thumb, it is hardest to change the amount of light your garden gets, and therefore it would be best to choose plants that can thrive in the amount of light you have. Once you have determined that, it is easier to pick plants to suit your watering schedule, and to buy or amend soil as needed.</p>
 <p>Check out our <a href="https://go.gov.sg/plantsuggester/">plant suggester tool</a> to get you started!</p>
 </section>
+<br>
 <section>
 <h4>Choosing healthy plants</h4>
 	<img style="height:390px; width:520px" src="/images/Gardeners/Planting.jpg">	
@@ -48,9 +50,10 @@ image: ""
   </li>
 </ul>
 </section>
-
+<br>
 <section>
 <h4>Choosing plants to suit your needs</h4>
+	<img style="height:390px; width:520px" src="/images/Gardeners/Outreach%20(3).jpg">
 <p>Does your garden have a theme? Do you use your plants for therapeutic horticulture, arts and crafts, or cooking? Choosing plants for use depends on your own taste and plans, and is an exciting way to build a collection!</p>
 <p>Here are some common ways plants can be used to help you curate your own list:</p>
 <ul>
