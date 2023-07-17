@@ -19,10 +19,10 @@ Once you have identified your preferred community garden(s), you may approach th
 ### How do I start a Community Garden?
 The starting process will be different depending on where you site your garden. All gardens will need to seek permission from the relevant landowner, form a gardening group, and have a managing body for the running of the garden.
 Please click the following links that apply to you:
-•	I want to start a Community Garden in my neighbourhood
-•	I want to start a Community Garden in my school
-•	I want to start a Community Garden in my organisation 
-•	I am not sure
+* I want to start a Community Garden in my neighbourhood
+* I want to start a Community Garden in my school
+* I want to start a Community Garden in my organisation 
+* I am not sure
 
 ### What can my Community Garden do?
 Many hands make light work! Community Gardens are the ideal place for hosting and running green events and projects, which can bring your community together and inspire more people to garden. Here are some ideas for what Community Gardeners can do together:
