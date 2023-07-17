@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - Digital Tools.md
-      - Pest Identifier.md
       - Soil Calculator.md
       - Harvest Planner (Finding Sowing Date).md
+      - Pest Identifier.md
