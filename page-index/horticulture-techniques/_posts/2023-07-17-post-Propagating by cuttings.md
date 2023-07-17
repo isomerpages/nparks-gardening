@@ -13,7 +13,7 @@ image: ""
 <section>
 <h4>Stem propagation</h4>
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/wv-LZCwUArE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
-<p>Propagating by stem cuttings is one of the most straightforward ways to get plant clones from a variety of edible and ornamental plants that have soft and green or slightly woody stems. Some plants can be even propagated from stems sold in the supermarket or wet market! These stems will grow roots from their leaf nodes after being processed, and can be rooted in soil or water.</p> 
+<p>Propagating by stem cuttings is one of the most straightforward ways to get plant clones from a variety of plants that have soft or slightly woody stems. Some plants can be even propagated from stems sold in the supermarket or wet market! These stems will grow roots from their leaf nodes after being processed, and can be rooted in soil or water.</p> 
 <img style="height:390px; width:520px" src="/images/Plants/KangKong_JacChua%20(1).jpg">
 <p>Stem cuttings need to be prepared for propagation by:</p>
 <ol type="1">
