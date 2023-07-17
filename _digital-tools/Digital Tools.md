@@ -3,6 +3,7 @@ title: Digital Tools
 permalink: /digital-tools/
 description: ""
 ---
+
 <style>
 		  .button-primary {
     background-color: #215732;
@@ -14,9 +15,11 @@ description: ""
   }
 	</style>
 
+
 <section>
 	<table>
-		<tbody><tr>
+		<tbody>
+			<tr>
 			<td><h4>Soil Calculator</h4>
 			Find out the volume of soil required for your planter<br>
 			<br>
@@ -24,4 +27,13 @@ description: ""
 			<td><h4>Sowing Planner</h4>
 				Find out the estimated date for sowing your seeds so that you can harvest at your intended date<br>
 				<br>
-				<a class="button-primary" href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/digital-tools/sowing-planner/">Try it now!</a></td></tr></tbody></table></section>
+				<a class="button-primary" href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/digital-tools/pestid/">Try it now!</a></td>
+				<td><h4>Pest Identifier</h4>
+				Zoom into the possible culprits attacking your plants<br>
+					<br>
+				<a class="button-primary" href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/digital-tools/sowing-planner/">Try it now!</a></td>
+				
+			</tr>
+		</tbody>
+	</table>
+</section>
