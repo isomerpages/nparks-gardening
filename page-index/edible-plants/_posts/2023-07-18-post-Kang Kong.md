@@ -16,7 +16,7 @@ image: ""
 </section>
 
 <section>
-	<img style="height:390px; width:520px" src="/image extension link in Isomer CMS">
+	<img style="height:390px; width:520px" src="/images/Plants/KangKong_JacChua%20(2).jpg">
 	
   <p>Kang Kong is an iconic staple in a variety of Southeast Asian cuisines, and a common sight in local edible gardens around the region. It is a perennial crop that grows as a vine, making it a useful permanent addition to any edible garden. Young leaves and stems are eaten raw, stir fried or blanched. </p>
   <p>This fast-growing perennial crop can be used as an edible groundcover or a green mulch to suppress weeds and protect soil from the sun and rain. </p>
