@@ -45,7 +45,9 @@ image: ""
 <section>
 	<br>
 	<h4>Growing:</h4>
-<p>Lettuce is a rapid grower and will produce more leaves if fed with high nitrogen fertilisers. Plants can be fertilised regularly the week after transplanting for a fuller crop. </p>
+<p>Bayam is a rapid grower and will produce more leaves if fed with high nitrogen fertilisers. Plants can be fertilised regularly two weeks after germination for a fuller crop. </p>
+<p>This plant can be grown incredibly close together with many plants in a small space. If plants are thinned out and given enough ventilation, they will grow thicker stems and will grow taller and bushier. </p>
+<p>Bayam plants will die after producing seeds. Prolong your harvest by pruning off flowers when they appear.</p>
 	<br>
 </section>
 
