@@ -14,15 +14,19 @@ image: ""
   <li>The seed expiry date</li>
   <li>Recommended sowing depth, distance, and harvest cycle</li>
 </ul>
-<img style="height:390px; width:520px" src="/images/Horti%20techniques/SproutingSeeds_Jacchua.jpg">
+<img src="/images/Horti%20techniques/SproutingSeeds_Jacchua.jpg">
 <p>Seeds should be used as soon as they are bought or harvested as germination rates will decrease over time. Unused seeds should be stored in air-tight containers, and placed in cool, dry areas such as a refrigerator to extend its shelf life.</p>
 </section>
 <br>
 <section>
+	<h4>Making a seedling or seed-starting mix</h4>
+	<img src="/images/Horti%20techniques/SeedlingTray_Jacchua%20(8).jpg">
+	<p>Seedlings and seeds are vulnerable to pathogens and disease. They are also prone to rot if they are left sitting in water for too long. You can make your own well-draining seed-starting mix with sterile soil amendments. Pure cocopeat, pure perlite, or an equal mix of cocopeat and perlite are good mediums for starting seeds.</p>
+<section>
 <h4>Sowing seeds in seedling trays or seedling pots</h4>
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/x7J87wY7U6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
 <p>Sowing seeds individually in seed trays or pots is a good practice as seedlings will not compete, and it is easier to observe which seedlings are stronger and therefore easier to grow. </p>
-<img style="height:390px; width:520px" src="/images/Horti%20techniques/SeedlingTray_Jacchua%20(4).jpg">
+<img src="/images/Horti%20techniques/SeedlingTray_Jacchua%20(4).jpg">
 <p>Seedling trays or pots can be filled with sterile seed-starting mixes, which prevents pathogens like fungi and bacteria from killing vulnerable seedlings. The trays or pots can also be kept in a sheltered propagation area to keep seedlings away from pests and harsh weather. </p>
 	<img style="height:390px; width:520px" src="/images/Horti%20techniques/seedlings_cucurbit_nparks.jpg">
 <p>Seedling trays are for smaller plants and smaller seeds, while seedling pots are for larger plants with larger seeds. For example, tomatoes do well in seedling trays as their seeds are only a few millimeters across and have sprouts that are less than 5cm high, while pumpkins have large seeds up to 1.5cm across and sprouts that can quickly reach 10cm in height in a few days. A good rule of thumb is that seeds less than 0.5cm can be started in seedling trays, while seeds larger than 0.5cm can be started in seedling pots. </p>
@@ -74,4 +78,4 @@ image: ""
   <li>Cucumber(<em>Cucumis sativus</em>)</li>
   <li>Sunflower (<em>Helianthus annuus</em>)</li>
 </ul>
-</section>
+</section></section>
