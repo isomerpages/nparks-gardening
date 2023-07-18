@@ -94,7 +94,7 @@ image: ""
 
 <section>
 	<h4>Propagation:</h4>
-	<p>Lettuce is primarily grown from seeds. </p>
+	<p>Kai Lan is primarily grown from seeds. </p>
 	<br>
 </section>
 
