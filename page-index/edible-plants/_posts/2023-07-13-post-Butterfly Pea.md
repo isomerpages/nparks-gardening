@@ -52,7 +52,6 @@ As a fast-growing vine, this plant needs to be trained up a light trellis. The v
 </section>
 
 <section>
-	<br>
 	<h4>Growing:</h4>
 <p>Bean plants generally don’t require much fertilising because they are able to fix their own nitrogen. </p>
 <p>Because the vines will grow on top of each other, it is a good practice to prune regularly and remove dead leaves and vines to improve ventilation and allow light to reach more of the plant. </p>
