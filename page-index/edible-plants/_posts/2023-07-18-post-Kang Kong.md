@@ -28,7 +28,7 @@ image: ""
 
 <section>
   <h4>Environmental needs:</h4>
-  <img style="height:390px; width:520px" src="/ image extension link in Isomer CMS">
+  <img style="height:390px; width:520px" src="/images/Plants/KangKong_JacChua%20(1).jpg">
     	<p>This hardy vine thrives in full sun gardens and can grows best with 4-8 hours of direct sunlight. It can also grow in more than 6 hours of indirect sunlight, but at a slower pace.
 	Plants do best in moist, well-drained soil at least 10cm deep, making them suitable for container gardening. This plant is highly tolerant of waterlogged soils and can be used in gardens that are watered frequently, in waterlogged gardens that are prone to flooding, in areas exposed to large amounts of rain, and in ponds. 
 	As a fast-growing vine, this plant is traditionally left to sprawl on large patches of soil, but it can be also grown up a trellis. Regular pruning will encourage additional growth and improve air circulation. </p>
