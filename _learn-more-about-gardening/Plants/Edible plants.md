@@ -41,14 +41,14 @@ Click on an alphabet to find a plant by its common name!
 <br>
 
 <section>
-<h4 id="#a">a</h4>
+<h4 id="a">a</h4>
 Aloe Vera <br>
 Arrowroot <br>
 	<br><br>
 </section>
 
 <section>
-<h4 id="#b">b</h4>
+<h4 id="b">b</h4>
 Bangkuang <br>
 Bayam <br>
 Belimbling <br>
@@ -60,7 +60,7 @@ Butterfly pea <br>
 </section>
 
 <section>
-<h4 id="#c">c</h4>
+<h4 id="c">c</h4>
 Cai Xin  <br>
 Ceylon Spinach <br>
 Chiku <br>
@@ -77,12 +77,12 @@ Custard apple <br>
 </section>
 
 <section>
-<h4 id="#d">d</h4>
+<h4 id="d">d</h4>
 	<br><br>
 </section>
 
 <section>
-<h4 id="#e">e</h4>
+<h4 id="e">e</h4>
 Elephant Yam<br>
 	<br><br>
 </section>
