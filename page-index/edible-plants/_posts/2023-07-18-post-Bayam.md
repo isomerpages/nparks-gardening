@@ -58,6 +58,8 @@ image: ""
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/f_Uoug7ZSeg" height="415" width="100%"></iframe>
 <br><br>
+<p>Bayam will start to flower after a few months or so. The flowers can be self-pollinated and will form brown seed capsules. Dry, brown seed pods are mature, and can be harvested for seeds to plant.</p>
+	<br>
 </section>
 
 <section>
@@ -76,9 +78,9 @@ image: ""
 			<tr>
 				<th style="border-right:solid 1px;">Approximate time</th>
 				<td style="border-right:solid 1px;">A week or less</td>
+				<td style="border-right:solid 1px;">About a week</td>
 				<td style="border-right:solid 1px;">2 to 3 weeks</td>
-				<td style="border-right:solid 1px;">2 to 3 weeks</td>
-				<td style="border-left:solid 1px;">A month to a month and a half</td>
+				<td style="border-left:solid 1px;">3 weeks to a month</td>
 			</tr>
 		</tbody>
 	</table>
