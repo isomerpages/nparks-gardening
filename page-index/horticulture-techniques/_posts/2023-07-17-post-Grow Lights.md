@@ -25,6 +25,7 @@ image: ""
 <h4>Choosing the right light for your environment and plant needs</h4>
 <p>There are many kinds of light you can use to grow plants indoors but the most common are LED household lights, LED grow lights and metal halide bulbs. LED lights are generally preferred as they produce less heat. Plants can burn if they grow too close to or touch very hot bulbs! </p>
 	<img style="height:390px; width:520px" src="/images/Horti%20techniques/grow%20lights%20table.png">
+	<br>
 </section>
 <section>
 <h4>LED household lights or grow lights?</h4>
