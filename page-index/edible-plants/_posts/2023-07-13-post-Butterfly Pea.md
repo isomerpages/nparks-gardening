@@ -18,16 +18,24 @@ image: ""
 <section>
 	<img style="height:390px; width:520px" src="/images/Plants/BluePeaFlower_JacChua%20(2).jpg">
 	
-<p>A popular leafy vegetable in Malaysia and Indonesia, Bayam is a hardy leafy vegetable that can be grown in small, tight clusters of multiple plants around 10-20cm tall or as a large, erect plant up to 1.5m tall if given enough space. It has varieties that come in red, green or both, and is commonly eaten raw, steamed, or stir-fried.</p>
-	<p>An annual crop, this plant is often grown and consumed under 4 months. Its rapid harvest cycle makes it useful for crop rotation.</p>
-  <p>Due to its shallow root system, these plants are a popular choice for container gardening and corridor gardening.</p>
+<p>Butterfly Peas are a hardy edible flower that is used to colour drinks, desserts, and rice dishes. </p>
+	<p>An annual plant, Butterfly Peas are often grown in rotation with other fruiting climbers. </p>
+  <p>This plant is part of the 	Fabaceae or Bean family, which includes other popular edible fruits like Winged Bean, Peanut, and Sword Bean.  All members of the bean family can be used for companion planting as they can fix nitrogen into the soil. </p>
 	<br>
 </section>
 
 <section>
 	<h4>Environmental needs:</h4>
 		<img style="height:390px; width:520px" src="/images/Horti%20techniques/ContainerPlanting_JacChua%20(3).jpg">
-<p>This leafy vegetable thrives in 4-8 hours of direct sunlight, or more than 6 hours of indirect sunlight. Plants do best in moist, well-drained soil at least 10cm deep, making them suitable for container gardening. However, if planted in true ground and left with a lot of space, the plant can grow up to 1.5m high with a thick stem. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe. This plant is relatively drought tolerant and can withstand some neglect. </p>
+<p>This plant thrives in 4-8 hours of direct sunlight. Plants do best in moist, well-drained soil at least 20cm deep, or in true ground.  </p>
+<p>This vine is vulnerable to heat stress during the dry season. Water it regularly and mulch the base to prevent water loss. </p>
+<p>
+As a fast-growing vine, this plant needs to be trained up a light trellis. The vine readily produces flowers and can be used to beautify fences and arch trellises.</p>
+	
+<iframe width="100%" height="415" src="https://www.youtube.com/watch?v=SUQGxxAAcNs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
+	<br>
+
+<p>As with all members of the bean family, this plant is pollinated by bees. Growing more bee-attracting plants within the garden will encourage pollination. </p>
 	<br>
 	</section>
 
