@@ -58,8 +58,8 @@ image: ""
 
 <section>
 	<h4>Harvesting:</h4>
-<p>Plants can be harvested for leaves at any time, with younger leaves being the most tender. However, the leaves will become bitter when the plant starts to flower. Most gardeners will harvest their crop around a month and a half after sowing. </p>
-<p>The whole plant can be harvested once by cutting the head at the base or multiple times by harvesting the older leaves as per the cut-and-come-again method.</p>
+<p>Plants can be harvested for leaves and stems at any size, with younger leaves and stems being the most tender. Most gardeners will begin harvesting from Kai Lan around a month after sowing.</p>
+<p>The whole plant can be harvested once by cutting the whole stem at the base of the plant or harvested multiple times by using the cut-and-come-again method by only cutting off the top 15-20cm of stem.</p>
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/f_Uoug7ZSeg" height="415" width="100%"></iframe>
 <br><br>
@@ -82,8 +82,8 @@ image: ""
 				<th style="border-right:solid 1px;">Approximate time</th>
 				<td style="border-right:solid 1px;">A week or less</td>
 				<td style="border-right:solid 1px;">2 to 3 weeks</td>
-				<td style="border-right:solid 1px;">2 to 3 weeks</td>
-				<td style="border-left:solid 1px;">A month to a month and a half</td>
+				<td style="border-right:solid 1px;">3 weeks to a month</td>
+				<td style="border-left:solid 1px;">A month and a half to 2 months</td>
 			</tr>
 		</tbody>
 	</table>
