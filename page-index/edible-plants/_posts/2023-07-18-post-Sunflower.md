@@ -63,13 +63,15 @@ image: ""
 
 <section>
 	<h4>Propagation:</h4>
-	<p>Cranberry Hibiscus can be grown from seed, but they are usually propagated via stem cuttings rooted in soil.  </p>
+	<p>Sunflowers are grown from seed. </p>
 	<br>
 </section>
 
 <section>
 	<h4>Common problems &amp; solutions:</h4>
-<p>If your plant has little to no flowers, you try fertilising the plant with fertilisers high in Phosphorus and Potassium. These nutrients encourage root and flower growth.</p>
-<p>Aphids, mealy bugs, and spider mites often infest the plant if it is sickly or overgrown. Prune off the infested parts, or apply horticultural oils like neem oil and white summer oil to suffocate the remaining pests. Regularly prune the plant to allow light and air to reach throughout the plant, and check the plant for underlying problems like root rot, lack of sunlight, and nutrient deficiencies. </p>
+	<p>This plant is relatively resistant to pests and disease if kept healthy.</p>
+<p>Aphids, mealy bugs, and spider mites often infest the plant if it is sickly or overgrown. Prune off the infested parts, or apply horticultural oils like neem oil and white summer oil to suffocate the remaining pests. Regularly prune the plant to allow light and air to reach throughout the plant, and check the plant for underlying problems like root rot, lack of sunlight, and nutrient deficiencies.</p>
+<p>This plant is prone to rust and fungal diseases during the wet season. Prune the plant regularly to increase airflow, and remove heavily affected leaves.</p>
+<p>Wilting may occur during periods of hot weather or from the lack of watering. Regular wilting will stunt plant growth. Increase the number of times a plant is watered, or use mulch to retain moisture in the soil.</p>
 <br>
 </section>
