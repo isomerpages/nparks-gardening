@@ -32,8 +32,7 @@ image: ""
 <p>
 As a fast-growing vine, this plant needs to be trained up a light trellis. The vine readily produces flowers and can be used to beautify fences and arch trellises.</p>
 	
-<iframe width="100%" height="415" src="https://www.youtube.com/watch?v=SUQGxxAAcNs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
-	<br>
+insert trellis video
 
 <p>As with all members of the bean family, this plant is pollinated by bees. Growing more bee-attracting plants within the garden will encourage pollination. </p>
 	<br>
@@ -41,28 +40,27 @@ As a fast-growing vine, this plant needs to be trained up a light trellis. The v
 
 <section>
   <h4>Sowing seeds:</h4>
-<p>Seeds can be scattered directly into a pot or into true ground, and then covered with a layer of soil or compost. Lightly water the soil until damp, once a day. Seeds should sprout within a week.</p>
+<p>Seeds can be sown directly into pots or the ground around 15cm apart. Lightly water the soil until damp, once a day. Seeds should sprout within 10 days.</p>
 	
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/x7J87wY7U6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
 	<br>
 
-<p>The seedlings are generally resilient to most environmental factors but may be vulnerable to being eaten by snails or birds. Protect your young plants with a DIY cloche or netting.</p>
+<p>The seedlings are generally resilient to most environmental factors but may be vulnerable to being eaten by snails or birds. Protect your young plants with a DIY cloche or netting. </p>
 	<br>
 </section>
 
 <section>
 	<br>
 	<h4>Growing:</h4>
-<p>Bayam is a rapid grower and will produce more leaves if fed with high nitrogen fertilisers. Plants can be fertilised regularly two weeks after germination for a fuller crop. </p>
-<p>This plant can be grown incredibly close together with many plants in a small space. If plants are thinned out and given enough ventilation, they will grow thicker stems and will grow taller and bushier. </p>
-<p>Bayam plants will die after producing seeds. Prolong your harvest by pruning off flowers when they appear.</p>
+<p>Bean plants generally don’t require much fertilising because they are able to fix their own nitrogen. </p>
+<p>Because the vines will grow on top of each other, it is a good practice to prune regularly and remove dead leaves and vines to improve ventilation and allow light to reach more of the plant. </p>
 	<br>
 </section>
 
 <section>
 	<h4>Harvesting:</h4>
-<p>Plants can be harvested for leaves at any time, with younger leaves being the most tender. However, the leaves will become tough as they get older. Most gardeners will harvest their crop around 3 weeks after sowing.</p>
-<p>The whole plant can be harvested once by cutting the stalk at the base or multiple times by harvesting the young, tender stems from the top as per the cut-and-come-again method.</p>
+<p>Plants can be harvested for flowers at any time.</p>
+<p>Dry, brown seed pods are mature, and can be harvested for seeds to plant.</p>
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/f_Uoug7ZSeg" height="415" width="100%"></iframe>
 <br><br>
