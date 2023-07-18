@@ -126,6 +126,7 @@ Malayan Ixora<br>
 Mexican Hen and Chicks<br>
 Mexican Sedum<br>
 Mistletoe fig<br>
+Mother of Thousands<br>
 	<br><br>
 </section>
 
@@ -142,8 +143,7 @@ Mistletoe fig<br>
 <section>
 <h4 id="p">p</h4>
 Pagoda Flower<br>
-Passion Fruit<br>
-Peanut<br>
+Peace Lily<br>
 <br><br>
 </section>
 
@@ -162,19 +162,18 @@ Rose Myrtle<br>
 
 <section>
 <h4 id="s">s</h4>
+Satin Pothos<br>
 Scarlet Spiral Flag<br>
 Singapore Rhododendron<br>
-Smooth Loofah<br>
-Snake Gourd<br>
+Snake plant<br>
+Spider plant<br>
+String of beads<br>
 Sunflowers<br>
-Surinam Purslane<br>
-Sword bean<br>
 <br><br>
 </section>
 
 <section>
 <h4 id="t">t</h4>
-Tonkin Jasmine<br>
 Torch ginger<br>
 Turk's Turban<br>
 	<br><br>
@@ -182,7 +181,6 @@ Turk's Turban<br>
 
 <section>
 <h4 id="u">u</h4>
-Ulam Raja<br>
 	<br><br>
 	</section>
 
@@ -193,8 +191,9 @@ Ulam Raja<br>
 	
 <section>
 <h4 id="w">w</h4>
-Watermelon<br>
-Winged Bean<br>
+Walking Sanseveria<br>
+Wandering Jew<br>
+Window-Leaf Monstera<br>
 	<br><br>
 	</section>
 
