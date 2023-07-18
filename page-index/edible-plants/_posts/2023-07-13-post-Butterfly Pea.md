@@ -26,7 +26,7 @@ image: ""
 
 <section>
 	<h4>Environmental needs:</h4>
-		<img style="height:390px; width:520px" src="/images/Horti%20techniques/ContainerPlanting_JacChua%20(3).jpg">
+		<img style="height:390px; width:520px" src="/images/Hardscapes/Trellis_JacChua.jpg">
 	
 <p>This plant thrives in 4-8 hours of direct sunlight. Plants do best in moist, well-drained soil at least 20cm deep, or in true ground.  </p>
 <p>This vine is vulnerable to heat stress during the dry season. Water it regularly and mulch the base to prevent water loss. </p>
