@@ -27,12 +27,14 @@ image: ""
 <section>
 	<h4>Environmental needs:</h4>
 		<img style="height:390px; width:520px" src="/images/Horti%20techniques/ContainerPlanting_JacChua%20(3).jpg">
+	
 <p>This plant thrives in 4-8 hours of direct sunlight. Plants do best in moist, well-drained soil at least 20cm deep, or in true ground.  </p>
 <p>This vine is vulnerable to heat stress during the dry season. Water it regularly and mulch the base to prevent water loss. </p>
 <p>
 As a fast-growing vine, this plant needs to be trained up a light trellis. The vine readily produces flowers and can be used to beautify fences and arch trellises.</p>
 	
-insert trellis video
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/SUQGxxAAcNs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
+	<br>
 
 <p>As with all members of the bean family, this plant is pollinated by bees. Growing more bee-attracting plants within the garden will encourage pollination. </p>
 	<br>
