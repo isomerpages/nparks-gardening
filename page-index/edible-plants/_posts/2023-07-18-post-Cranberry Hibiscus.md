@@ -49,63 +49,36 @@ image: ""
 
 <section>
 	<h4>Transplanting:</h4>
-<p>Seedlings will be ready for transplanting into pots or true ground when they have developed 4 or more leaves, or roughly a week or two after germination. Leave 10-20cm between each plant to encourage more growth, better ventilation, and prevent etiolation. </p>
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/lItBHYjyrKg" height="415" width="100%"></iframe>
+<p>Seedlings will be ready for transplanting into pots or true ground when they have developed 4 or more leaves, or roughly a week or two after germination. Leave 15-30cm between each plant to encourage more growth and better ventilation.</p>
+	<br>
 	</section>
 	
 <section>
 	<br>
 	<h4>Growing:</h4>
-<p>Lettuce is a rapid grower and will produce more leaves if fed with high nitrogen fertilisers. Plants can be fertilised regularly the week after transplanting for a fuller crop. </p>
+<p>Cranberry Hibiscus will produce more flowers when fed with fertilisers high in Phosphorus and Potassium, and more leaves when fed with fertilisers high in Nitrogen. To encourage both leaves and flowers, the plants can be fed with balanced fertilisers.  Plants can be fertilised regularly a month after germination for a fuller crop. </p>
+<p>It is a good practice to prune regularly and remove dead leaves and stems to improve ventilation and allow light to reach more of the plant. Regular pruning also decreases the likelihood of pests quickly taking over the plant. </p>
+<p>This plant can grow more than 2m tall, but for the ease of harvesting it can be topped off at a manageable hight of around 1.5m.</p>
 	<br>
 </section>
 
 <section>
 	<h4>Harvesting:</h4>
-<p>Plants can be harvested for leaves at any time, with younger leaves being the most tender. However, the leaves will become bitter when the plant starts to flower. Most gardeners will harvest their crop around a month and a half after sowing. </p>
-<p>The whole plant can be harvested once by cutting the head at the base or multiple times by harvesting the older leaves as per the cut-and-come-again method.</p>
+<p>Plants can be harvested for leaves and flowers at any time.  Fruits can be harvested for seeds when they are brown and dry.</p>
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/f_Uoug7ZSeg" height="415" width="100%"></iframe>
-<br><br>
-</section>
-
-<section>
-	<h4>Harvest cycle:</h4>
-	<table>
-		<thead>
-			<tr>
-				<th style="border-bottom:0px; border-right:solid 1px;">Growing period</th>
-				<th style="border-bottom:0px; border-right:solid 1px;">Sowing to germination</th>
-				<th style="border-bottom:0px; border-right:solid 1px;">Germination to transplanting</th>
-				<th style="border-bottom:0px; border-right:solid 1px;">Transplanting to first harvest</th>
-				<th style="border-bottom:0px; border-left:solid 1px;">Total sowing to first harvest</th>
-			</tr>
-		</thead>
-		<tbody>
-			<tr>
-				<th style="border-right:solid 1px;">Approximate time</th>
-				<td style="border-right:solid 1px;">A week or less</td>
-				<td style="border-right:solid 1px;">2 to 3 weeks</td>
-				<td style="border-right:solid 1px;">2 to 3 weeks</td>
-				<td style="border-left:solid 1px;">A month to a month and a half</td>
-			</tr>
-		</tbody>
-	</table>
-	
-<p>Check out our&nbsp;<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/digital-tools/harvestplanner/">harvest planner</a>&nbsp;to schedule your growing! </p>
-<br>
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/FuWK90da0GY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
+	<br>
 </section>
 
 <section>
 	<h4>Propagation:</h4>
-	<p>Lettuce is primarily grown from seeds. </p>
+	<p>Cranberry Hibiscus can be grown from seed, but they are usually propagated via stem cuttings rooted in soil.  </p>
 	<br>
 </section>
 
 <section>
 	<h4>Common problems &amp; solutions:</h4>
-<p>Caterpillars, usually from the Diamondback moth and Tussock moth, can rapidly eat all the leaves of your plant. If your plant has lots of large holes and small brown or black poo pellets scattered around damaged leaves, you likely have a caterpillar infestation. Manually remove the caterpillars by hand and protect your plants with netting.</p>
-<p>Leaf miners are fly larvae that eat the leaves from the inside, leaving white lines or patches in their wake. Manually remove damaged leaves and use fine mesh netting to stop the adult flies from laying eggs on the plant again.</p>
-<p>Etiolation is characterised by plants growing long and skinny, with weak stems and small leaves. The plants may also sometimes look yellowish. Plants etiolate when they do not get enough sunlight, which results in slow growth and untidy forms. To prevent this, grow plants in environments with enough light for them and make sure that each plant has enough space to prevent overcrowding.</p>
+<p>If your plant has little to no flowers, you try fertilising the plant with fertilisers high in Phosphorus and Potassium. These nutrients encourage root and flower growth.</p>
+<p>Aphids, mealy bugs, and spider mites often infest the plant if it is sickly or overgrown. Prune off the infested parts, or apply horticultural oils like neem oil and white summer oil to suffocate the remaining pests. Regularly prune the plant to allow light and air to reach throughout the plant, and check the plant for underlying problems like root rot, lack of sunlight, and nutrient deficiencies. </p>
 <br>
 </section>
