@@ -4,7 +4,6 @@ permalink: /learn-more-about-gardening/plants/edibleplants/
 description: ""
 third_nav_title: Plants
 ---
-
 <h5> Navigation</h5>
 Click on an alphabet to find a plant by its common name! 
 <br>
@@ -18,5 +17,84 @@ Click on an alphabet to find a plant by its common name!
 		<td style="border-bottom:0px"><a href="#f">f</a></td>
 	</tr>
 </tbody></table>
-	
-<h4 id="#a">a</h4>
+
+<section id="#a">
+<h4>a</h4>
+Aloe Vera <br>
+Arrowroot <br>
+	<br><br>
+</section>
+
+<section id="#b">
+<h4>b</h4>
+Bangkuang 
+Bayam
+Belimbling
+Bitter Gourd
+Bottle Gourd
+Brinjal
+Butterfly pea
+Cai Xin
+Ceylon Spinach
+Chiku
+Chilli
+Chinese Mustard
+Chives
+Common pepper
+Corn
+Cranberry hibiscus
+Cucumber
+Curry Leaf Plant
+Custard apple
+Elephant Yam
+Fingerroot
+Globe Amaranth
+Guava
+Indian Borage
+Kailan
+Kale
+Kang Kong
+Kedongdong
+Lady's-finger
+Laksa
+Lemongrass
+Lettuce
+Limau Purut
+Lime
+Long bean
+Longevity Spinach
+Mexican Tarragon
+Okinawan spinach
+Pandan
+Passion Fruit
+Peanut
+Pumpkin 
+Radish
+Sand ginger
+Sawtooth Coriander
+Scarlet Spiral Flag
+Sissoo Spinach
+Smooth Loofah
+Snake Gourd
+Soursop
+Spearmint
+Sunflowers
+Surinam Purslane
+Sweet potato
+Sword bean
+Tapioca
+Taro
+Thai Basil
+Tomato
+Tonkin Jasmine
+Torch ginger
+Turmeric
+Ulam Raja
+Water Chestnut
+Watermelon
+White mulberry
+Wild pepper
+Winged Bean 
+Winter Melon
+Xiao Bai Cai
+</section>
