@@ -50,7 +50,14 @@ image: ""
 <section>
 	<br>
 	<h4>Growing:</h4>
-<p>Lettuce is a rapid grower and will produce more leaves if fed with high nitrogen fertilisers. Plants can be fertilised regularly the week after transplanting for a fuller crop. </p>
+<p>Sweet potato grows leaves and stems rapidly when fed with high nitrogen fertilisers, but this discourages it from growing tubers. Plants can be fertilised for the first two weeks after planting to help with its initial growth, and then left on its own to grow tubers after.</p>
+<p>Because the vines will grow on top of each other, it is a good practice to prune regularly to improve ventilation and allow light to reach more of the plant. Take note that the plant produces a milky sap when cut, and that the sap can irritate skin. Use gloves when pruning to protect your hands, and do not touch your face after handling cuttings with sap. </p>
+<p>This vine grows large very rapidly and can climb up to 4m if a tall enough surface is available. Prune it back to manageable heights to make harvesting and maintenance easier.</p>
+
+	<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/f_Uoug7ZSeg" height="415" width="100%"></iframe><br>
+	<br>
+	
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/jurqWpAeMSI" height="315" width="560"></iframe>
 	<br>
 </section>
 
@@ -59,8 +66,8 @@ image: ""
 <p>Plants can be harvested for leaves at any time, with younger leaves being the most tender. However, the leaves will become bitter when the plant starts to flower. Most gardeners will harvest their crop around a month and a half after sowing. </p>
 <p>The whole plant can be harvested once by cutting the head at the base or multiple times by harvesting the older leaves as per the cut-and-come-again method.</p>
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/f_Uoug7ZSeg" height="415" width="100%"></iframe>
-<br><br>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/f_Uoug7ZSeg" height="415" width="100%"></iframe><br>
+	<br>
 </section>
 
 <section>
