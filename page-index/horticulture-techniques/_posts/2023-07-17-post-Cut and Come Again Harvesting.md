@@ -20,7 +20,7 @@ image: ""
 <p>The technique you use will depend on how your plant grows. Edible plants that don’t readily grow new shoots like Cai Xin, Lettuce, Kale and Pandan usually only have one growing point, and will slow their growth if the growing point is cut, so harvesting their older outer leaves would be best.</p> 
 <p>On the other hand, plants that can quickly put out new shoots like Bayam, Sweet Potato, Kangkong and Thai Basil will benefit from the harvest of their young leaves and shoots, which are more tender than the older leaves. Regularly harvesting these young shoots will also encourage the plants to become bushier as they put out new growth.</p> 
 <p>Plants for the Cut-and-Come-Again Harvesting method</p>
-<img style="height:390px; width:520px" src="/images/Plants/leafyvegetables_jacchua.jpg">
+<img src="/images/Plants/leafyvegetables_jacchua.jpg">
 <p>Harvesting the older outer leaves</p>
 <ul>
   <li>Cai Xin (<em>Brassica rapa</em> Caisin Group)</li>
@@ -31,7 +31,7 @@ image: ""
   <li>Pandan (<em>Pandanus amaryllifolius</em>)</li>
   <li>Chinese Mustard (<em>Brassica juncea Broad-leaf Mustard</em>)</li>
 </ul>
-<img style="height:390px; width:520px" src="/images/Horti%20techniques/Pruning_JacCHua%20(2).jpg">
+<img src="/images/Horti%20techniques/Pruning_JacCHua%20(2).jpg">
 <p>Harvesting the young shoots and leaves</p>
 <ul>
   <li>Ceylon Spinach (<em>Basella alba</em>)</li>
@@ -52,7 +52,7 @@ image: ""
 
 <section>
 <h4>Encourage new growth after harvesting</h4>
-<img style="height:390px; width:520px" src="/images/Horti%20techniques/Fertiliser_Jacchua.jpg">
+<img src="/images/Horti%20techniques/Fertiliser_Jacchua.jpg">
 <p>Using high nitrogen fertilisers is the best way to encourage plants to grow more leaves and shoots. Fertilising immediately after Cut-and-Come-Again Harvesting will make sure that you will have more growth to harvest in about two weeks. Fertilising your crops around once every two weeks is also a good schedule for continuous growth of edible plants.</p> 
 <h4>Harvesting tips</h4>
 <p>Before harvesting:</p>
