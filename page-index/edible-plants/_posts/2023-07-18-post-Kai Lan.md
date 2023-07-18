@@ -52,7 +52,7 @@ image: ""
 <section>
 	<br>
 	<h4>Growing:</h4>
-<p>Lettuce is a rapid grower and will produce more leaves if fed with high nitrogen fertilisers. Plants can be fertilised regularly the week after transplanting for a fuller crop. </p>
+<p>Kai Lan is a rapid grower and will produce more leaves and thicker stems if fed with high nitrogen fertilisers. Plants can be fertilised regularly the week after transplanting for a fuller crop. </p>
 	<br>
 </section>
 
