@@ -13,7 +13,7 @@ image: ""
 <br>
 <section>
 <h4>Choosing plants to fit your garden environment</h4>
-<img style="height:390px; width:520px" src="/images/Gardeners/Planting%20(4).jpg">	
+<img src="/images/Gardeners/Planting%20(4).jpg">	
 <p>It is important to choose plants that suit your existing garden conditions. Growing plants in unsuitable environments makes them inherently weaker and more prone to pests, disease, and eventual death.</p>
 <p>The most important environmental factors you need to take note are:</p>  
 <ul>
@@ -29,7 +29,7 @@ image: ""
 <br>
 <section>
 <h4>Choosing healthy plants</h4>
-	<img style="height:390px; width:520px" src="/images/Gardeners/Planting.jpg">	
+	<img src="/images/Gardeners/Planting.jpg">	
 <p>Once you’ve identified what species will thrive in your garden, you could buy some new plants for yourself! Inspecting your plant before buying will give you the most bang for your buck.</p>
 <p>Check the following before making a purchase:</p>
 <ul>
@@ -53,7 +53,7 @@ image: ""
 <br>
 <section>
 <h4>Choosing plants to suit your needs</h4>
-	<img style="height:390px; width:520px" src="/images/Gardeners/Outreach%20(3).jpg">
+	<img src="/images/Gardeners/Outreach%20(3).jpg">
 <p>Does your garden have a theme? Do you use your plants for therapeutic horticulture, arts and crafts, or cooking? Choosing plants for use depends on your own taste and plans, and is an exciting way to build a collection!</p>
 <p>Here are some common ways plants can be used to help you curate your own list:</p>
 <ul>
