@@ -58,7 +58,7 @@ image: ""
 <p>Cranberry Hibiscus will produce more flowers when fed with fertilisers high in Phosphorus and Potassium, and more leaves when fed with fertilisers high in Nitrogen. To encourage both leaves and flowers, the plants can be fed with balanced fertilisers.  Plants can be fertilised regularly a month after germination for a fuller crop. </p>
 <p>It is a good practice to prune regularly and remove dead leaves and stems to improve ventilation and allow light to reach more of the plant. Regular pruning also decreases the likelihood of pests quickly taking over the plant. </p>
 <p>This plant can grow more than 2m tall, but for the ease of harvesting it can be topped off at a manageable hight of around 1.5m.</p>
-	<br>
+<br>
 </section>
 
 <section>
