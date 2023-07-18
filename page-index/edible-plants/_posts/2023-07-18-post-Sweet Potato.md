@@ -84,13 +84,13 @@ image: ""
 				<th style="border-bottom:0px;border-right:solid 1px;">For Leaves (Approximate time)</th>
 				<td style="border-bottom:0px;border-right:solid 1px;">A week or less</td>
 				<td style="border-bottom:0px;border-right:solid 1px;">2 to 3 months</td>
-				<td style="border-bottom:0px;border-right:solid 1px;">2 to 3 months</td>
+				<td style="border-bottom:0px;border-left:solid 1px;">2 to 3 months</td>
 			</tr>
 			<tr>
 				<th style="border-right:solid 1px;">For Tubers (Approximate time)</th>
 				<td style="border-right:solid 1px;">A week or less</td>
 				<td style="border-right:solid 1px;">4 to 5 months</td>
-				<td style="border-right:solid 1px;">4 to 5 months</td>
+				<td style="border-left:solid 1px;">4 to 5 months</td>
 			</tr>
 		</tbody>
 	</table>
