@@ -4,8 +4,7 @@ permalink: /learn-more-about-gardening/plants/edibleplants/
 description: ""
 third_nav_title: Plants
 ---
-<h5>Click on an alphabet to find a plant by its common name!</h5>
-<br>
+Click on an alphabet to find a plant by its common name!
 <table>
 	<tbody>
 		<tr>
@@ -39,6 +38,7 @@ third_nav_title: Plants
 		<td style="border-bottom:0px"><a href="#z">z</a></td>
 	</tr>
 </tbody></table>
+<br>
 
 <section id="#a">
 <h4>a</h4>
