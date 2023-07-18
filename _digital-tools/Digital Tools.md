@@ -51,27 +51,3 @@ description: ""
 					<br>
 				<a class="button-primary" href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/digital-tools/sowing-planner/">Try it now!</a></div>
 </div>
-
-<section>
-	<table>
-		<tbody>
-			<tr>
-			<td><h4>Soil Calculator</h4>
-			  <img style="height:150px; width:200px" src="/images/Digital%20Tools/soilcalc1.png">
-				Find out the volume of soil required for your planter<br>
-			<br>
-			<a class="button-primary" href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/digital-tools/soilcalculator/">Try it now!</a></td>
-			<td><h4>Sowing Planner</h4>
-				<img style="height:150px; width:200px" src="/images/Digital%20Tools/calendar1.png">
-				Find out the estimated date for sowing your seeds so that you can harvest at your intended date<br>
-				<br>
-				<a class="button-primary" href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/digital-tools/pestid/">Try it now!</a></td>
-				<td><h4>Pest Identifier</h4>
-				<img style="height:150px; width:200px" src="/images/Digital%20Tools/pestidcalc.png">
-					Zoom into the possible culprits attacking your plants<br>
-					<br>
-				<a class="button-primary" href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/digital-tools/sowing-planner/">Try it now!</a></td>
-			</tr>
-		</tbody>
-	</table>
-</section>
