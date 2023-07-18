@@ -15,7 +15,7 @@ sections:
       subtitle: Gardening 101
       description: We've handpicked a few tips and tricks to get you going
       button: Let's get started!
-      url: /101
+      url: /new-to-gardening/howcanwehelp/
   - infopic:
       title: Grow with the flow
       subtitle: Not sure what to grow?
