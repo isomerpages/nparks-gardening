@@ -11,7 +11,7 @@ image: ""
 </header>
 	
 <section>
-	<p><strong>Other common names:</strong> Other common names: Green Amaranthus, Bayam Hijau, Chinese Spinach, Tampala, Joseph's coat, 苋菜, 汗菜</p>
+	<p><strong>Other common names:</strong>Green Amaranthus, Bayam Hijau, Chinese Spinach, Tampala, Joseph's coat, 苋菜, 汗菜</p>
 	<br>
 </section>
 
