@@ -91,7 +91,8 @@ image: ""
 
 <section>
 	<h4>Propagation:</h4>
-	<p>Lettuce is primarily grown from seeds. </p>
+	<p>Bayam is primarily grown from seeds. </p>
+	<p>Bayam seeds can be readily harvested from old plants that have flowered. Rub old and dry flower spikes between your fingers to collect the seeds for planting. </p>
 	<br>
 </section>
 
