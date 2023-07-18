@@ -62,19 +62,32 @@ Butterfly pea <br>
 
 <section id="#c">
 <h4>c</h4>
-Cai Xin
-Ceylon Spinach
-Chiku
-Chilli
-Chinese Mustard
-Chives
-Common pepper
-Corn
-Cranberry hibiscus
-Cucumber
-Curry Leaf Plant
-Custard apple
-Elephant Yam
+Cai Xin  <br>
+Ceylon Spinach <br>
+Chiku <br>
+Chilli <br>
+Chinese Mustard <br>
+Chives <br>
+Common pepper <br>
+Corn <br>
+Cranberry hibiscus <br>
+Cucumber <br>
+Curry Leaf Plant <br>
+Custard apple <br>
+	 <br><br>
+</section>
+
+<section id="#d">
+<h4>d</h4>
+	<br><br>
+</section>
+
+<section id="#e">
+<h4>e</h4>
+Elephant Yam<br>
+	<br><br>
+</section>
+
 Fingerroot
 Globe Amaranth
 Guava
@@ -125,4 +138,3 @@ Wild pepper
 Winged Bean 
 Winter Melon
 Xiao Bai Cai
-</section>
