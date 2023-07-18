@@ -4,7 +4,7 @@ title: Gardening.Sg
 description: One-stop Gardening Portal for Gardeners in Singapore!
 image: /images/isomer-logo.svg
 permalink: /
-notification: Test site
+notification: "Wet weather advisory: remove standing water to prevent mosquito breeding"
 sections:
   - hero:
       title: GardeningSG
