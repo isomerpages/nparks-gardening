@@ -50,13 +50,18 @@ Arrowroot <br>
 
 <section id="#b">
 <h4>b</h4>
-Bangkuang 
-Bayam
-Belimbling
-Bitter Gourd
-Bottle Gourd
-Brinjal
-Butterfly pea
+Bangkuang <br>
+Bayam <br>
+Belimbling <br>
+Bitter Gourd <br>
+Bottle Gourd <br>
+Brinjal <br>
+Butterfly pea <br>
+	 <br><br>
+</section>
+
+<section id="#c">
+<h4>c</h4>
 Cai Xin
 Ceylon Spinach
 Chiku
