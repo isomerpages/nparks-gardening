@@ -82,9 +82,16 @@ image: ""
 		</thead>
 		<tbody>
 			<tr>
-				<th style="border-right:solid 1px;">Approximate time</th>
+				<th style="border-right:solid 1px;">For Leaves (Approximate time)</th>
 				<td style="border-right:solid 1px;">A week or less</td>
-				<td style="border-right:solid 1px;">2 to 3 weeks</td>
+				<td style="border-right:solid 1px;">2 to 3 months</td>
+				<td style="border-right:solid 1px;">2 to 3 months</td>
+				<td style="border-left:solid 1px;">A month to a month and a half</td>
+			</tr>
+			<tr>
+				<th style="border-right:solid 1px;">For Tubers (Approximate time)</th>
+				<td style="border-right:solid 1px;">A week or less</td>
+				<td style="border-right:solid 1px;">4 to 5 months</td>
 				<td style="border-right:solid 1px;">2 to 3 weeks</td>
 				<td style="border-left:solid 1px;">A month to a month and a half</td>
 			</tr>
