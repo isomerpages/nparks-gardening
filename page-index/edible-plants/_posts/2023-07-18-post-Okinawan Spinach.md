@@ -18,9 +18,10 @@ image: ""
 <section>
 	<img style="height:390px; width:520px" src="">
 	
-<p>Cranberry Hibiscus are striking plants with deep red leaves and flowers. The flowers and leaves can be brewed into tea, and the leaves can also be eaten raw or stir-fried.</p>
-<p>As large and woody perennial bush, this plant is a staple in perimeter planting, edible gardens, and low-maintenance beds.</p>
-<p>This plant is part of the Malvaceae or Hibiscus family, which includes other edible plants like Lady’s-Finger.</p>
+<p>Okinawan Spinach is a hardy, succulent vegetable that grows quickly in semi-shade. Its leaves can be eaten raw, fried, blanched, steamed, and made into soup.</p>
+<p>This plant is a small perennial crop that is easy to propagate, making it a popular choice as a groundcover, for perimeter planting, and low maintenance beds. It is also a staple crop in edible gardens and permaculture gardens.</p>
+<p>Due to its shallow root system, these plants are a popular choice for container gardening and container gardening.</p>
+<p>A native plant, it can be found along forest streams and sandy slopes.</p>
 	<br>
 </section>
 
@@ -28,56 +29,36 @@ image: ""
 	<h4>Environmental needs:</h4>
 		<img style="height:390px; width:520px" src="/images/Horti%20techniques/ContainerPlanting_JacChua%20(3).jpg">
 	
-<p>This plant does best in full sun gardens with a minimum of 6 hours of sunlight. It can also grow in gardens with more than 4 hours of direct sunlight or at least 6 hours of indirect sunlight, but its growth will be slower, and it may not flush as deep a red. </p>
-<p>Plants do best in moist, well-drained soil at least 15cm deep, or in true ground. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe.</p>
-<p>This plant can be grown year-round. </p>
-	<br>
-	</section>
-
-<section>
-  <h4>Sowing seeds:</h4>
-<p>Sow seeds individually in a seedling tray filled with potting mix or seedling mix. Lightly mist the soil until damp, once a day. Seeds should sprout within 2 weeks.</p>
+<p>This plant grows rapidly in 4-8 hours of indirect sunlight. Plants may suffer from sunburn in more than 4 hours of direct sunlight. Plants do best in moist, well-drained soil at least 10cm deep, making them suitable for container gardening and corridor gardening. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe.</p>
 	
-<iframe width="100%" height="415" src="https://www.youtube.com/embed/x7J87wY7U6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
-	<br>
-
-<p>The seedlings will be vulnerable to high heat and heavy rain and are best kept in a sheltered propagation area or a shaded space with around 4 hours of partial or direct sunlight.</p>
-<p>Seeds can be sown directly into pots or the ground around 15-30cm apart. Lightly water the soil until damp, once a day. Seeds should sprout within 10 days.</p>
-	<br>
-</section>
-
-<section>
-	<h4>Transplanting:</h4>
-<p>Seedlings will be ready for transplanting into pots or true ground when they have developed 4 or more leaves, or roughly a week or two after germination. Leave 15-30cm between each plant to encourage more growth and better ventilation.</p>
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/SfuujJwcZR8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
 	<br>
 	</section>
 	
 <section>
 	<br>
 	<h4>Growing:</h4>
-<p>Cranberry Hibiscus will produce more flowers when fed with fertilisers high in Phosphorus and Potassium, and more leaves when fed with fertilisers high in Nitrogen. To encourage both leaves and flowers, the plants can be fed with balanced fertilisers.  Plants can be fertilised regularly a month after germination for a fuller crop. </p>
-<p>It is a good practice to prune regularly and remove dead leaves and stems to improve ventilation and allow light to reach more of the plant. Regular pruning also decreases the likelihood of pests quickly taking over the plant. </p>
-<p>This plant can grow more than 2m tall, but for the ease of harvesting it can be topped off at a manageable hight of around 1.5m.</p>
+<p>Okinawan Spinach grows rapidly when young and freshly planted from cuttings. Regular harvesting will encourage the plant to grow more leaves and stems. </p>
+<p>This plant generally does not require fertilising, but it can be fed with a high nitrogen fertiliser to encourage growth after cut-and-come-again harvesting.</p>
+
 <br>
 </section>
 
 <section>
 	<h4>Harvesting:</h4>
-<p>Plants can be harvested for leaves and flowers at any time.  Fruits can be harvested for seeds when they are brown and dry.</p>
-
-<iframe width="100%" height="415" src="https://www.youtube.com/embed/FuWK90da0GY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
+<p>Plants can be harvested for young leaves at any time. They are typically harvested continuously via the cut-and-come-again method. </p>
 	<br>
 </section>
 
 <section>
 	<h4>Propagation:</h4>
-	<p>Cranberry Hibiscus can be grown from seed, but they are usually propagated via stem cuttings rooted in soil.  </p>
+	<p>Okinawan Spinach is typically propagated via stem cuttings in soil. Cuttings rooted in water are likely to rot.</p>
 	<br>
 </section>
 
 <section>
 	<h4>Common problems &amp; solutions:</h4>
-<p>If your plant has little to no flowers, you try fertilising the plant with fertilisers high in Phosphorus and Potassium. These nutrients encourage root and flower growth.</p>
-<p>Aphids, mealy bugs, and spider mites often infest the plant if it is sickly or overgrown. Prune off the infested parts, or apply horticultural oils like neem oil and white summer oil to suffocate the remaining pests. Regularly prune the plant to allow light and air to reach throughout the plant, and check the plant for underlying problems like root rot, lack of sunlight, and nutrient deficiencies. </p>
+	<p>This plant is relatively resistant to pests and disease if kept healthy.</p>
+<p>Smaller plants may be vulnerable to being eaten by snails or birds. Protect your plants with a DIY cloche or netting. </p>
 <br>
 </section>
