@@ -26,25 +26,24 @@ image: ""
 
 <section>
 	<h4>Environmental needs:</h4>
-		<img style="height:390px; width:520px" src="/images/Horti%20techniques/ContainerPlanting_JacChua%20(3).jpg">
+		<img style="height:390px; width:520px" src="/images/Plants/SunflowerJacChua%20(2).jpg">
 	
 <p>Sunflowers grow best in 6-8 hours of direct sunlight. They can tolerate 4-5 hours of direct sunlight or at least 6 hours of indirect sunlight, but may have slower or stunted growth. Plants do best in well-draining sandy loam soils at least 20cm deep but are also highly tolerant of dry soils and drought-prone environments. Taller cultivars that grow to 3m or more will require at least 50cm of soil for stability. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe. </p>
 <p>Keep your plants cool with mulch and plenty of water to encourage growth.</p>
 <p>Taller sunflowers may need staking to prevent snapping. Areas prone to strong wind may damage the plant as it grows taller.</p>
-
 	<br>
 	</section>
 
 <section>
   <h4>Sowing seeds:</h4>
-<p>Sow seeds individually in a seedling tray filled with potting mix or seedling mix. Lightly mist the soil until damp, once a day. Seeds should sprout within 2 weeks.</p>
+<p>Seeds can be sown directly into pots or the ground around 30cm apart. Lightly water the soil until damp, once a day. Seeds should sprout within a week.</p>
 	
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/x7J87wY7U6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
 	<br>
 
-<p>The seedlings will be vulnerable to high heat and heavy rain and are best kept in a sheltered propagation area or a shaded space with around 4 hours of partial or direct sunlight.</p>
-<p>Seeds can be sown directly into pots or the ground around 15-30cm apart. Lightly water the soil until damp, once a day. Seeds should sprout within 10 days.</p>
-	<br>
+<p>The seedlings will be vulnerable to high heat and heavy rain and are best kept under netting in a or a shaded space with around 4 hours of partial or direct sunlight. </p>
+<p>The seeds and seedlings may be vulnerable to being eaten by snails or birds. Protect your young plants with a DIY cloche or netting. </p>
+<br>
 </section>
 
 <section>
