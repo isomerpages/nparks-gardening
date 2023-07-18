@@ -27,27 +27,26 @@ image: ""
 <section>
 	<h4>Environmental needs:</h4>
 		<img style="height:390px; width:520px" src="/images/Horti%20techniques/ContainerPlanting_JacChua%20(3).jpg">
-<p>Lettuce does best in more than 6 or more hours of indirect sunlight, or around 4-5 hours of direct sunlight. Plants do best in moist, well-drained soil at least 10cm deep, making them suitable for container gardening. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe. Keep your plants cool with mulch and plenty of water to encourage growth. </p>
+<p>This vine thrives in both full and partial sun gardens and grows best with 4-8 hours of direct sunlight, but can also grow in 4- 6 hours of indirect sunlight but at a slower pace.</p>
+<p>Plants do best in moist, well-drained soil at least 30cm deep, or in true ground. The plant can be grown in smaller pots about 10cm deep but will not produce large tubers. Tuber growth can be encouraged by adding lots of organic material to the soil, making it soft.</p>
+<p>This plant does best when watered regularly but will not survive waterlogging. It can tolerate drought for short periods of time, but the lack of water will reduce its growth.</p>
+<p>As a fast-growing vine, this plant is traditionally left to sprawl on large patches of soil, but it can be also grown up a trellis. Regular pruning will encourage additional growth and improve air circulation.</p>
 	<br>
 	</section>
 
 <section>
   <h4>Sowing seeds:</h4>
-<p>Sow seeds individually in a seedling tray filled with potting mix or seedling mix. Lightly mist the soil until damp, once a day. Seeds should sprout within a week.</p>
+<p>This plant is typically grown from tubers or stem cuttings rooted in water or soil, but it can also be grown from seeds. </p>
+<p>Seeds can be sown directly into pots or the ground around 10cm apart. Lightly water the soil until damp, once a day. Seeds should sprout within a week. 
+</p>
 	
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/x7J87wY7U6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
 	<br>
 
-<p>The seedlings will be vulnerable to high heat and heavy rain and are best kept in a sheltered propagation area or a shaded space with around 4 hours of partial or direct sunlight. </p>
+<p>The seedlings are generally resilient to most environmental factors but may be vulnerable to being eaten by snails or birds. Protect your young plants with a DIY cloche or netting.</p>
 	<br>
 </section>
 
-<section>
-	<h4>Transplanting:</h4>
-<p>Seedlings will be ready for transplanting into pots or true ground when they have developed 4 or more leaves, or roughly a week or two after germination. Leave 10-20cm between each plant to encourage more growth, better ventilation, and prevent etiolation. </p>
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/lItBHYjyrKg" height="415" width="100%"></iframe>
-	</section>
-	
 <section>
 	<br>
 	<h4>Growing:</h4>
