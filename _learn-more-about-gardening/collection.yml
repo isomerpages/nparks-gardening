@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Learn more about gardening.md
-      - Garden biodiversity/.keep
       - Plants/.keep
       - Plants/Biodiversity Attracting Plants.md
       - Plants/Edible plants.md
@@ -11,6 +10,7 @@ collections:
       - Plants/Ornamental Plants.md
       - Example Title.md
       - Horticulture techniques/.keep
+      - Garden biodiversity/.keep
       - Plant problems/.keep
       - Plant problems/Pests.md
       - Plant problems/Aphids.md
