@@ -18,9 +18,9 @@ image: ""
 <section>
 	<img style="height:390px; width:520px" src="/images/Plants/SweetPotatoLeaves_JacChua%20(2).jpg">
 	
-<p>One of the most recognisable leafy vegetables, lettuces come in a variety of shapes and colours, with flat-leaved, curly, green, and red cultivars serving as exciting options for the edible gardener. Loose-leaf lettuces do better in the tropics and can be grown in both pots and true ground. Head lettuce is difficult to grow outdoors in Singapore due to the heat and humidity, which tends to cause the tightly bunched leaves to rot.</p>
-	<p>An annual crop, this plant is often grown and consumed under 2 months. Its rapid harvest cycle makes it useful for crop rotation.</p>
-  <p>Due to its shallow root system, these plants are a popular choice for container gardening and corridor gardening.</p>
+<p>Sweet Potatoes are a versatile crop that produces both edible leaves and tubers, both of which are popular ingredients in a wide variety of Asian dishes. The leaves come in a range of shapes and colours including deep purple, neon yellow and green. Some of these attractive varieties such as the ‘Black Heart’ and ‘Margarita’ can be used to add a pop of colour to the garden.</p>
+<p>This fast-growing perennial crop can be used as an edible groundcover or a green mulch to suppress weeds and protect soil from the sun and rain.</p>
+<p>This vine is from the Ipomoea or Morning Glory family, and in the same genus as Kang Kong.</p>
 	<br>
 </section>
 
