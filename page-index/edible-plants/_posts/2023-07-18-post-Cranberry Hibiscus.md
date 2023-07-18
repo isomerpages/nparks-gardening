@@ -6,3 +6,106 @@ layout: post
 description: ""
 image: ""
 ---
+<header>
+	<h3>Cranberry Hibiscus (<em>Hibiscus acetosella</em>)</h3>
+</header>
+	
+<section>
+	<p><strong>Other common names:</strong> False Roselle, Rose Mallow, Red-Leaf Hibiscus</p>
+	<br>
+</section>
+
+<section>
+	<img style="height:390px; width:520px" src="/images/Plants/CranberryHibiscus.jpg">
+	
+<p>Cranberry Hibiscus are striking plants with deep red leaves and flowers. The flowers and leaves can be brewed into tea, and the leaves can also be eaten raw or stir-fried.</p>
+<p>As large and woody perennial bush, this plant is a staple in perimeter planting, edible gardens, and low-maintenance beds.</p>
+<p>This plant is part of the Malvaceae or Hibiscus family, which includes other edible plants like Lady’s-Finger.</p>
+	<br>
+</section>
+
+<section>
+	<h4>Environmental needs:</h4>
+		<img style="height:390px; width:520px" src="/images/Horti%20techniques/ContainerPlanting_JacChua%20(3).jpg">
+	
+<p>This plant does best in full sun gardens with a minimum of 6 hours of sunlight. It can also grow in gardens with more than 4 hours of direct sunlight or at least 6 hours of indirect sunlight, but its growth will be slower, and it may not flush as deep a red. </p>
+<p>Plants do best in moist, well-drained soil at least 15cm deep, or in true ground. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe.</p>
+<p>This plant can be grown year-round. </p>
+	<br>
+	</section>
+
+<section>
+  <h4>Sowing seeds:</h4>
+<p>Sow seeds individually in a seedling tray filled with potting mix or seedling mix. Lightly mist the soil until damp, once a day. Seeds should sprout within 2 weeks.</p>
+	
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/x7J87wY7U6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
+	<br>
+
+<p>The seedlings will be vulnerable to high heat and heavy rain and are best kept in a sheltered propagation area or a shaded space with around 4 hours of partial or direct sunlight. </p>
+<p>The seedlings will be vulnerable to high heat and heavy rain and are best kept in a sheltered propagation area or a shaded space with around 4 hours of partial or direct sunlight.</p>
+<p>Seeds can be sown directly into pots or the ground around 15-30cm apart. Lightly water the soil until damp, once a day. Seeds should sprout within 10 days.</p>
+	<br>
+</section>
+
+<section>
+	<h4>Transplanting:</h4>
+<p>Seedlings will be ready for transplanting into pots or true ground when they have developed 4 or more leaves, or roughly a week or two after germination. Leave 10-20cm between each plant to encourage more growth, better ventilation, and prevent etiolation. </p>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/lItBHYjyrKg" height="415" width="100%"></iframe>
+	</section>
+	
+<section>
+	<br>
+	<h4>Growing:</h4>
+<p>Lettuce is a rapid grower and will produce more leaves if fed with high nitrogen fertilisers. Plants can be fertilised regularly the week after transplanting for a fuller crop. </p>
+	<br>
+</section>
+
+<section>
+	<h4>Harvesting:</h4>
+<p>Plants can be harvested for leaves at any time, with younger leaves being the most tender. However, the leaves will become bitter when the plant starts to flower. Most gardeners will harvest their crop around a month and a half after sowing. </p>
+<p>The whole plant can be harvested once by cutting the head at the base or multiple times by harvesting the older leaves as per the cut-and-come-again method.</p>
+
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/f_Uoug7ZSeg" height="415" width="100%"></iframe>
+<br><br>
+</section>
+
+<section>
+	<h4>Harvest cycle:</h4>
+	<table>
+		<thead>
+			<tr>
+				<th style="border-bottom:0px; border-right:solid 1px;">Growing period</th>
+				<th style="border-bottom:0px; border-right:solid 1px;">Sowing to germination</th>
+				<th style="border-bottom:0px; border-right:solid 1px;">Germination to transplanting</th>
+				<th style="border-bottom:0px; border-right:solid 1px;">Transplanting to first harvest</th>
+				<th style="border-bottom:0px; border-left:solid 1px;">Total sowing to first harvest</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<th style="border-right:solid 1px;">Approximate time</th>
+				<td style="border-right:solid 1px;">A week or less</td>
+				<td style="border-right:solid 1px;">2 to 3 weeks</td>
+				<td style="border-right:solid 1px;">2 to 3 weeks</td>
+				<td style="border-left:solid 1px;">A month to a month and a half</td>
+			</tr>
+		</tbody>
+	</table>
+	
+<p>Check out our&nbsp;<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/digital-tools/harvestplanner/">harvest planner</a>&nbsp;to schedule your growing! </p>
+<br>
+</section>
+
+<section>
+	<h4>Propagation:</h4>
+	<p>Lettuce is primarily grown from seeds. </p>
+	<br>
+</section>
+
+<section>
+	<h4>Common problems &amp; solutions:</h4>
+<p>Caterpillars, usually from the Diamondback moth and Tussock moth, can rapidly eat all the leaves of your plant. If your plant has lots of large holes and small brown or black poo pellets scattered around damaged leaves, you likely have a caterpillar infestation. Manually remove the caterpillars by hand and protect your plants with netting.</p>
+<p>Leaf miners are fly larvae that eat the leaves from the inside, leaving white lines or patches in their wake. Manually remove damaged leaves and use fine mesh netting to stop the adult flies from laying eggs on the plant again.</p>
+<p>Etiolation is characterised by plants growing long and skinny, with weak stems and small leaves. The plants may also sometimes look yellowish. Plants etiolate when they do not get enough sunlight, which results in slow growth and untidy forms. To prevent this, grow plants in environments with enough light for them and make sure that each plant has enough space to prevent overcrowding.</p>
+<br>
+</section>
