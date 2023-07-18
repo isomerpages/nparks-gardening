@@ -8,7 +8,7 @@ image: ""
 ---
 <section>
 	<header>
-		<h3>Aphids</h3>
+		<h3>Aphids (<em>Aphis</em> sp.)</h3>
 		<strong><em>Other common names: Plant louse, Greenfly or Ant cow</em></strong>
 		</header>
 	<br>
@@ -17,10 +17,10 @@ image: ""
 
 <section>
 <p>Aphids are sap-sucking insects that are small and pear-shaped. They come in various colors – green, yellow, brown-red or black and can be winged or wingless. Aphids have needle-like mouthparts that they use to pierce into the plant tissue to feed. They are usually found on plant stems and the undersides of leaves.</p>
-
-<p>Aphids produce honeydew (a sweet fluid) as a waste product while feeding that ants love. Hence, ants may guard and care for aphids in return for food. Therefore, when you notice ants climbing around your plant, you may want to take closer look for the presence of aphids.</p>
-
-<p>Aphids largely do not cause great damage when caught early. However, if they are left unattended for a period, aphids can infest and weaken the plant, causing stunted growth, fruit deformities or even death. They also spread many viral plant diseases as they travel plant to plant to reproduce.</p>
+<img style="height:390px; width:520px" src="/images/Plant%20problems/SootyMold_JacChua.jpg">	
+<p>Like Mealy Bugs, Aphids produce honeydew, a sweet waste fluid while feeding, which attracts ants. As a result, ants may guard and care for groups of aphids, which is how they got the common name of ant cow. Large clusters of ants can thus be indicative of an aphid infestation! Honeydew on plants also encourages the growth of sooty mold, which you are more likely to see before you spot aphids on your plants.</p>
+		<img style="height:390px; width:520px" src="/images/Biodiversity/aphids%20-%20mentha%201victorialim.jpg">
+<p>Aphids generally do not cause a lot of damage when caught early. However, if left unattended, aphids will eventually weaken your plant, causing stunted growth, fruit deformities or even death. They also spread many viral plant diseases as they travel plant to plant to reproduce.</p>
 <br>
 	</section>
 	
@@ -29,8 +29,9 @@ image: ""
 	<img style="height:390px; width:520px" src="/images/Biodiversity/aphids%20-%20mentha%20vilosavictorialim.jpg">
 
 <ul>
-	<li>Infested leaves and stems tend to curl downwards.&nbsp;Developing fruits may also become distorted in shape.</li>
-	<li>Leaves, stems and fruits appear sticky, and can become covered in sooty mold which is unsightly.</li>
+	<li>Infested leaves and stems tend to curl downwards. Developing fruits may become distorted in shape.</li>
+	<li>Leaves, stems and fruits appear sticky, and can become covered in sooty mold.</li>
+	<li>Ants are seen crawling around leaves and stems in large numbers. </li>
 </ul>
 
 </section>
@@ -38,13 +39,10 @@ image: ""
 <section>
 	<h4>Preventive and control measures:</h4>
 
-<p>Do regular checks on your plants for aphids, on the stems of the plant and underside of leaves, which may be distorted or curled.</p>
-
-<p>Onion, garlic and chili spray can serve as a repellent to prevent aphids, as these aromatics contain compounds which help to deter pests.</p>
-
-<p>When the population of aphids is still small, you may clean affected areas with a wet cloth.</p>
-
-<p>Avoid the use of pesticide applications to encourage population growth of natural predators of aphids such as the Ladybirds, Lacewings, parasitic wasps, which will feed on aphids.</p>
-
-<p>When a large part of your plant is affected, you may want to prune the affected parts with a clean pair of secateurs, or consider removing the whole plant. Bag up the infested plant or plant parts for proper disposal to prevent further spread. Do not use the removed plant waste for composting.</p>
+<p>Healthy plants are generally resilient to infestations. If you have a severe pest infestation, check your plants regularly for additional underlying problems such as root rot, lack of sunlight and nutrient deficiencies.</p>
+<p>Check your plants regularly for aphids, especially on the stems and the underside of leaves, which may be distorted or curled.</p> 
+<p>If there are only a few aphids, you can spray them off with water or use a wet cloth to wipe them away.</p>
+<p>Spraying horticultural oils such as neem oil or white oil can kill soft-bodied pests on contact.</p>
+<p>Encourage predators to establish in your garden by keeping it pesticide-free. Ladybirds and parasitic wasps feed on aphids and can keep their population under control.</p>  
+<p>Infested plant parts should be pruned off as soon as possible. Severe infestations may need the entire plant to be removed. Bag up the infested plant or plant parts securely for proper disposal to prevent further spread. Do not use the removed plant waste for composting or for consumption.</p> 
 </section>
