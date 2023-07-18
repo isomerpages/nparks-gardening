@@ -60,11 +60,12 @@ insert trellis video
 <section>
 	<h4>Harvesting:</h4>
 <p>Plants can be harvested for flowers at any time.</p>
+	
+<img style="height:390px; width:520px" src="/images/Plants/BluePeaFlower_JacChua%20(3).jpg">
+
 <p>Dry, brown seed pods are mature, and can be harvested for seeds to plant.</p>
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/f_Uoug7ZSeg" height="415" width="100%"></iframe>
-<br><br>
-<p>Bayam will start to flower after a few months or so. The flowers can be self-pollinated and will form brown seed capsules. Dry, brown seed pods are mature, and can be harvested for seeds to plant.</p>
+
 	<br>
 </section>
 
