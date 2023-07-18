@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: Title
-description: An Isomer site of the Singapore Government
+title: Gardening.Sg
+description: One-stop Gardening Portal for Gardeners in Singapore!
 image: /images/isomer-logo.svg
 permalink: /
 notification: testing 123
