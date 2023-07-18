@@ -60,8 +60,9 @@ image: ""
 
 <section>
 	<h4>Harvesting:</h4>
-<p>Plants can be harvested for leaves at any time, with younger leaves being the most tender. However, the leaves will become bitter when the plant starts to flower. Most gardeners will harvest their crop around a month and a half after sowing. </p>
-<p>The whole plant can be harvested once by cutting the head at the base or multiple times by harvesting the older leaves as per the cut-and-come-again method.</p>
+<p>Plants can be harvested for leaves and stems, with younger leaves being the most tender. Most gardeners will begin harvesting leaves and stems from their Sweet Potato plant around two months after sowing from seed or after planting cuttings or tubers. Take note that the plant produces a milky sap when cut, and that the sap can irritate skin. Use gloves when pruning and harvesting leaves. </p>
+<p>Tubers will take at least two months to form after the plant starts to produce vines, provided that the soil is soft and deep enough. Tubers can be left for up to 6 months to grow, after which they tend to be too tough and fibrous for eating. </p>
+<p>Sweet potato is typically harvested multiple times by harvesting the younger leaves and stems as per the cut-and-come-again method. This plant can live for several years if cared for properly and will continue to produce new growth year round.</p>
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/f_Uoug7ZSeg" height="415" width="100%"></iframe><br>
 	<br>
