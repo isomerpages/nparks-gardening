@@ -47,25 +47,17 @@ image: ""
 </section>
 
 <section>
-	<h4>Transplanting:</h4>
-<p>Seedlings will be ready for transplanting into pots or true ground when they have developed 4 or more leaves, or roughly a week or two after germination. Leave 15-30cm between each plant to encourage more growth and better ventilation.</p>
-	<br>
-	</section>
-	
-<section>
 	<br>
 	<h4>Growing:</h4>
-<p>Cranberry Hibiscus will produce more flowers when fed with fertilisers high in Phosphorus and Potassium, and more leaves when fed with fertilisers high in Nitrogen. To encourage both leaves and flowers, the plants can be fed with balanced fertilisers.  Plants can be fertilised regularly a month after germination for a fuller crop. </p>
-<p>It is a good practice to prune regularly and remove dead leaves and stems to improve ventilation and allow light to reach more of the plant. Regular pruning also decreases the likelihood of pests quickly taking over the plant. </p>
-<p>This plant can grow more than 2m tall, but for the ease of harvesting it can be topped off at a manageable hight of around 1.5m.</p>
+	<p>Once the plants are roughly 15cm tall, they can be exposed to full sunlight conditions. </p>
+<p>Sunflowers grow rapidly and can be fed with fertilisers high in Phosphorus and Potassium. Plants can be fertilised regularly a month after germination to encourage stronger root and flower growth. </p>
 <br>
 </section>
 
 <section>
 	<h4>Harvesting:</h4>
-<p>Plants can be harvested for leaves and flowers at any time.  Fruits can be harvested for seeds when they are brown and dry.</p>
-
-<iframe width="100%" height="415" src="https://www.youtube.com/embed/FuWK90da0GY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
+<p>This plant can be grown as a microgreen. Microgreens can be harvested the week after they sprout.</p>
+<p>Sunflower heads can be harvested for seeds when the flower heads have drooped down, and the seeds have turned dark and hard. You can test whether they are ready for harvest by pulling out some seeds before cutting the entire sunflower head.</p>
 	<br>
 </section>
 
