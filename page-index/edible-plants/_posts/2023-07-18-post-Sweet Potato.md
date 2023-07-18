@@ -7,16 +7,16 @@ description: ""
 image: ""
 ---
 <header>
-	<h3>Lettuce (<em>Lactuca sativa</em>)</h3>
+	<h3>Sweet Potato (<em>Ipomoea batatas</em>)</h3>
 </header>
 	
 <section>
-	<p><strong>Other common names:</strong> 生菜, 叶用莴苣, 玻璃菜</p>
+	<p><strong>Other common names:</strong> Sweet Potato, Keledek, 番薯</p>
 	<br>
 </section>
 
 <section>
-	<img style="height:390px; width:520px" src="/images/Plants/Lettuce_JacChua%20(3).jpg">
+	<img style="height:390px; width:520px" src="/images/Plants/SweetPotatoLeaves_JacChua%20(2).jpg">
 	
 <p>One of the most recognisable leafy vegetables, lettuces come in a variety of shapes and colours, with flat-leaved, curly, green, and red cultivars serving as exciting options for the edible gardener. Loose-leaf lettuces do better in the tropics and can be grown in both pots and true ground. Head lettuce is difficult to grow outdoors in Singapore due to the heat and humidity, which tends to cause the tightly bunched leaves to rot.</p>
 	<p>An annual crop, this plant is often grown and consumed under 2 months. Its rapid harvest cycle makes it useful for crop rotation.</p>
