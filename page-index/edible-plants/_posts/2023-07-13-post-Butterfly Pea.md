@@ -64,49 +64,19 @@ insert trellis video
 <img style="height:390px; width:520px" src="/images/Plants/BluePeaFlower_JacChua%20(3).jpg">
 
 <p>Dry, brown seed pods are mature, and can be harvested for seeds to plant.</p>
-
-
 	<br>
 </section>
 
 <section>
-	<h4>Harvest cycle:</h4>
-	<table>
-		<thead>
-			<tr>
-				<th style="border-bottom:0px; border-right:solid 1px;">Growing period</th>
-				<th style="border-bottom:0px; border-right:solid 1px;">Sowing to germination</th>
-				<th style="border-bottom:0px; border-right:solid 1px;">Germination to transplanting</th>
-				<th style="border-bottom:0px; border-right:solid 1px;">Transplanting to first harvest</th>
-				<th style="border-bottom:0px; border-left:solid 1px;">Total sowing to first harvest</th>
-			</tr>
-		</thead>
-		<tbody>
-			<tr>
-				<th style="border-right:solid 1px;">Approximate time</th>
-				<td style="border-right:solid 1px;">A week or less</td>
-				<td style="border-right:solid 1px;">About a week</td>
-				<td style="border-right:solid 1px;">2 to 3 weeks</td>
-				<td style="border-left:solid 1px;">3 weeks to a month</td>
-			</tr>
-		</tbody>
-	</table>
-	
-<p>Check out our&nbsp;<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/digital-tools/harvestplanner/">harvest planner</a>&nbsp;to schedule your growing! </p>
-<br>
-</section>
-
-<section>
 	<h4>Propagation:</h4>
-	<p>Bayam is primarily grown from seeds. </p>
-	<p>Bayam seeds can be readily harvested from old plants that have flowered. Rub old and dry flower spikes between your fingers to collect the seeds for planting. </p>
+	<p>This vine can be grown via seeds. Seeds can be taken from mature fruit for immediate planting.</p>
 	<br>
 </section>
 
 <section>
 	<h4>Common problems &amp; solutions:</h4>
-<p>Caterpillars, usually from the Diamondback moth and Tussock moth, can rapidly eat all the leaves of your plant. If your plant has lots of large holes and small brown or black poo pellets scattered around damaged leaves, you likely have a caterpillar infestation. Manually remove the caterpillars by hand and protect your plants with netting.</p>
-<p>Leaf miners are fly larvae that eat the leaves from the inside, leaving white lines or patches in their wake. Manually remove damaged leaves and use fine mesh netting to stop the adult flies from laying eggs on the plant again.</p>
-<p>Etiolation is characterised by plants growing long and skinny, with weak stems and small leaves. The plants may also sometimes look yellowish. Plants etiolate when they do not get enough sunlight, which results in slow growth and untidy forms. To prevent this, grow plants in environments with enough light for them and make sure that each plant has enough space to prevent overcrowding.</p>
+<p>Aphids, mealy bugs, and spider mites often infest the plant if it is sickly or overgrown. Prune off the infested parts, or apply horticultural oils like neem oil and white summer oil to suffocate the remaining pests. Regularly prune the plant to allow light and air to reach throughout the plant, and check the plant for underlying problems like root rot, lack of sunlight, and nutrient deficiencies. </p>
+<p>Whiteflies can infest the plant and lay eggs under its leaves. Remove affected plant parts and catch remaining adults with yellow sticky paper or treat them with citrus spray. </p>
+<p>Wilting leaves during hot weather is a sign of heat stress. Increase the number of times the plant is watered daily, and apply mulch at the base to prevent water loss. </p>
 <br>
 </section>
