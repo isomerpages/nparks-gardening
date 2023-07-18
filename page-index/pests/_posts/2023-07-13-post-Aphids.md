@@ -13,7 +13,7 @@ image: ""
 		</header>
 	<br>
 </section>
-	<img src="/images/Biodiversity/aphids_jacchua.jpg">
+<img style="height:390px; width:520px" src="/images/Biodiversity/dancing%20aphids%20on%20calotropis%20(1)victorialim.jpg">
 
 <section>
 <p>Aphids are sap-sucking insects that are small and pear-shaped. They come in various colors – green, yellow, brown-red or black and can be winged or wingless. Aphids have needle-like mouthparts that they use to pierce into the plant tissue to feed. They are usually found on plant stems and the undersides of leaves.</p>
@@ -26,6 +26,7 @@ image: ""
 	
 <section>
 	<h4>Symptoms:</h4><p></p>
+	<img style="height:390px; width:520px" src="/images/Biodiversity/aphids%20-%20mentha%20vilosavictorialim.jpg">
 
 <ul>
 	<li>Infested leaves and stems tend to curl downwards.&nbsp;Developing fruits may also become distorted in shape.</li>
@@ -45,5 +46,5 @@ image: ""
 
 <p>Avoid the use of pesticide applications to encourage population growth of natural predators of aphids such as the Ladybirds, Lacewings, parasitic wasps, which will feed on aphids.</p>
 
-<p>When a large part of your plant is affected, you may want to remove the affected area by using a clean secateur or consider removing the whole plant. Bag up the infested plant/plant parts for proper disposal to prevent further spread to the same plant and other nearby plants. Do not use the removed plant waste for composting.</p>
+<p>When a large part of your plant is affected, you may want to prune the affected parts with a clean pair of secateurs, or consider removing the whole plant. Bag up the infested plant or plant parts for proper disposal to prevent further spread. Do not use the removed plant waste for composting.</p>
 </section>
