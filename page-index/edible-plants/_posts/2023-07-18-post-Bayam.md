@@ -16,7 +16,7 @@ image: ""
 </section>
 
 <section>
-	<img style="height:390px; width:520px" src="![](/images/Horti%20techniques/Spacing_Jacchua%20(15).jpg)">
+	<img style="height:390px; width:520px" src="/images/Horti%20techniques/Spacing_Jacchua%20(15).jpg">
 	
 <p>A popular leafy vegetable in Malaysia and Indonesia, Bayam is a hardy leafy vegetable that can be grown in small, tight clusters of multiple plants around 10-20cm tall or as a large, erect plant up to 1.5m tall if given enough space. It has varieties that come in red, green or both, and is commonly eaten raw, steamed, or stir-fried.</p>
 	<p>An annual crop, this plant is often grown and consumed under 4 months. Its rapid harvest cycle makes it useful for crop rotation.</p>
@@ -26,7 +26,7 @@ image: ""
 
 <section>
 	<h4>Environmental needs:</h4>
-		<img style="height:390px; width:520px" src="/images/Horti%20techniques/ContainerPlanting_JacChua%20(3).jpg">
+		<img src="/images/Plants/bayam_ffw.jpeg">
 <p>This leafy vegetable thrives in 4-8 hours of direct sunlight, or more than 6 hours of indirect sunlight. Plants do best in moist, well-drained soil at least 10cm deep, making them suitable for container gardening. However, if planted in true ground and left with a lot of space, the plant can grow up to 1.5m high with a thick stem. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe. This plant is relatively drought tolerant and can withstand some neglect. </p>
 	<br>
 	</section>
