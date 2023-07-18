@@ -74,14 +74,14 @@ image: ""
 		<thead>
 			<tr>
 				<th style="border-bottom:0px; border-right:solid 1px;">Growing period</th>
-				<th style="border-bottom:0px; border-right:solid 1px;">Sowing to germination</th>
+				<th style="border-bottom:0px; border-right:0px;solid 1px;">Sowing to germination</th>
 				<th style="border-bottom:0px; border-right:solid 1px;">Sowing to first harvest</th>
 				<th style="border-bottom:0px; border-left:solid 1px;">Total sowing to first harvest</th>
 			</tr>
 		</thead>
 		<tbody>
 			<tr>
-				<th style="border-right:solid 1px;">For Leaves (Approximate time)</th>
+				<th style="border-bottom:0px;border-right:solid 1px;">For Leaves (Approximate time)</th>
 				<td style="border-right:solid 1px;">A week or less</td>
 				<td style="border-right:solid 1px;">2 to 3 months</td>
 				<td style="border-right:solid 1px;">2 to 3 months</td>
