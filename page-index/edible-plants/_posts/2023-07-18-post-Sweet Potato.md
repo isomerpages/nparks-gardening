@@ -54,10 +54,7 @@ image: ""
 <p>Because the vines will grow on top of each other, it is a good practice to prune regularly to improve ventilation and allow light to reach more of the plant. Take note that the plant produces a milky sap when cut, and that the sap can irritate skin. Use gloves when pruning to protect your hands, and do not touch your face after handling cuttings with sap. </p>
 <p>This vine grows large very rapidly and can climb up to 4m if a tall enough surface is available. Prune it back to manageable heights to make harvesting and maintenance easier.</p>
 
-	<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/f_Uoug7ZSeg" height="415" width="100%"></iframe><br>
-	<br>
-	
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/jurqWpAeMSI" height="315" width="560"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/jurqWpAeMS" height="415" width="100%"></iframe><br>
 	<br>
 </section>
 
