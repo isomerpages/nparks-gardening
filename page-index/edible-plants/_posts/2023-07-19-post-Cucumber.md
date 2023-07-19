@@ -64,6 +64,8 @@ Allowing the fruit to sit in water can cause rotting. Keep the underside dry by 
 <p>Ripe fruits are yellowish or fully yellow and tend to be bitter. Some varieties, like the Old Cucumber used for soups, are harvested ripe.</p>
 <p>Regularly harvest the mature and immature fruit to encourage the plant to keep producing. </p>
 <p>The plant will continuously produce fruit for about 6 months to a year before declining.</p>
+	
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/eGBg_S8yj0U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
 <br>
 </section>
 
