@@ -3,6 +3,17 @@ title: Community Gardens
 permalink: /get-involved/community-gardens/
 description: ""
 ---
+<style>
+		  .button-primary {
+    background-color: #215732;
+    border: 2px solid #215732;
+    padding: 0.5rem 1rem;
+  	border-radius: 1rem;
+    color: white !important;
+	  text-decoration: none !important;
+  }
+</style>
+
 <img src="/images/Garden%20design/Bishan%20East%20zone%206_JacChua.jpg">
 <p>Community Gardens are common green spaces managed by volunteers. They can be found in the heartlands, in private estates, schools, and organisations. Community Gardens come in many forms, and serve a wide variety of functions; from edible gardens where the community grows a wide variety of edible plant species for either self-consumption or sharing with community, biodiversity enhancing gardens where they grow plants to support local biodiversity, and ornamental gardens where they showcase expertise like orchid cultivation or bonsai growing. These gardens also support community bonding and other social activities, making them hubs for collaboration for residents, students, teachers, researchers and more.</p>
 
