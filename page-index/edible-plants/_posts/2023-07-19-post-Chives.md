@@ -26,9 +26,7 @@ image: ""
 
 <section>
 	<h4>Environmental needs:</h4>
-		<img title="Unriped Chilli. Photo by Jacqueline Chua." src="/images/Plants/Chilli_JacChua%20(2).jpg">
-<p>This plant does best in full sun gardens with a minimum of 6 hours of direct sunlight. This plant can also grow with 4-5 hours of direct sunlight and at least 6 hours of indirect sunlight, but will produce less fruits.</p>
-<p>Plants do best in moist, well-drained soil in containers that are at least 15cm deep, or in true ground.</p>
+<p>As with most herbs, Chives need about 4-6 hours of direct sunlight or 6-8 hours of indirect sunlight. This plant will grow faster in direct sunlight but will tolerate shadier conditions. Plants do best in moist, well-drained soil at least 5cm deep, making them suitable for container gardening. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe. </p>
 
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/eGBg_S8yj0U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
 	<br>
