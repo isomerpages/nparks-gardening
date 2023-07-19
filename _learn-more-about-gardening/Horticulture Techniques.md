@@ -3,6 +3,7 @@ title: Horticulture Techniques
 permalink: /learn-more-about-gardening/horticulture-techniques/
 description: ""
 ---
+<a id="top"></a>
 Click on an alphabet to learn more about different horticulture techniques!
 <table>
 	<tbody>
@@ -193,3 +194,9 @@ Weeding<br>
 <h4 id="z">z</h4>
 	<br><br>
 	</section>
+	
+<div class="float-buttons">
+	<div style="position:relative;" class="inner-wrapper-sticky">
+  <a style="text-decoration:none" class="float-buttons left" href="#top">↑back to top</a>
+	</div>
+	</div>
