@@ -68,35 +68,10 @@ image: ""
 </section>
 
 <section>
-	<h4>Harvest cycle:</h4>
-	<table>
-		<thead>
-			<tr>
-				<th style="border-bottom:0px; border-right:solid 1px;">Growing period</th>
-				<th style="border-bottom:0px; border-right:solid 1px;">Sowing to germination</th>
-				<th style="border-bottom:0px; border-right:solid 1px;">Germination to transplanting</th>
-				<th style="border-bottom:0px; border-right:solid 1px;">Transplanting to first harvest</th>
-				<th style="border-bottom:0px; border-left:solid 1px;">Total sowing to first harvest</th>
-			</tr>
-		</thead>
-		<tbody>
-			<tr>
-				<th style="border-right:solid 1px;">Approximate time</th>
-				<td style="border-right:solid 1px;">A week or less</td>
-				<td style="border-right:solid 1px;">2 to 3 weeks</td>
-				<td style="border-right:solid 1px;">2 to 3 weeks</td>
-				<td style="border-left:solid 1px;">A month to a month and a half</td>
-			</tr>
-		</tbody>
-	</table>
-	
-<p>Check out our&nbsp;<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/digital-tools/sowing-planner/">sowing planner</a>&nbsp;to schedule your growing! </p>
-<br>
-</section>
-
-<section>
 	<h4>Propagation:</h4>
-	<p>Lettuce is primarily grown from seeds. </p>
+	<p>Thai Basil can be grown from seed or propagated via stem cuttings in water or soil.</p>
+	
+	<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/wv-LZCwUArE" height="415" width="100%"></iframe><br>
 	<br>
 </section>
 
