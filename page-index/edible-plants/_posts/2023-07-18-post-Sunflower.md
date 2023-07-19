@@ -16,7 +16,7 @@ image: ""
 </section>
 
 <section>
-	<img style="height:390px; width:520px" src="/images/Plants/SunflowerJacChua%20(1).jpg">
+	<img src="/images/Plants/SunflowerJacChua%20(1).jpg">
 	
 <p>Sunflowers are large iconic flowers that will make heads turn in any garden. Not only are they beautiful, but they are also useful bee-attracting plants, and have edible seeds and can also be eaten as microgreens! </p>
 <p>There are a wide variety of cultivars, with mammoth varieties growing beyond 4m and deep red and multi-headed varieties to spice up your garden.</p>
@@ -26,7 +26,7 @@ image: ""
 
 <section>
 	<h4>Environmental needs:</h4>
-		<img style="height:390px; width:520px" src="/images/Plants/SunflowerJacChua%20(2).jpg">
+		<img src="/images/Plants/SunflowerJacChua%20(2).jpg">
 	
 <p>Sunflowers grow best in 6-8 hours of direct sunlight. They can tolerate 4-5 hours of direct sunlight or at least 6 hours of indirect sunlight, but may have slower or stunted growth. Plants do best in well-draining sandy loam soils at least 20cm deep but are also highly tolerant of dry soils and drought-prone environments. Taller cultivars that grow to 3m or more will require at least 50cm of soil for stability. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe. </p>
 <p>Keep your plants cool with mulch and plenty of water to encourage growth.</p>
