@@ -56,8 +56,9 @@ image: ""
 
 <section>
 	<h4>Harvesting:</h4>
-<p>Plants can be harvested for fruits around three months after sowing. The best time to harvest the fruit is in the early morning, before 9am.</p>
-<p>Tomatoes are generally harvested when ripe, however unripe tomatoes can also be eaten after they have been thoroughly cooked. Ripe tomatoes are shiny, glossy, and will no longer have green spots. They should be easy to pop off the stem with a gentle twist. Seeds can be used from ripe fruit for immediate planting.</p>
+<p>Plants can be harvested for fruits around 3 months after sowing. The best time to harvest the fruit is in the early morning, before 9am.</p>
+<p>Eggplants are generally eaten when they are immature. Immature fruits should be picked when they are glossy, and have a soft, spongy texture.</p>
+<p>Ripe fruits are usually a dull brown or yellow, and will rapidly become soft and wrinkly. Ripe fruit should not be eaten, but can be harvested for seeds to be used for immediate planting. </p>
 <br>
 </section>
 
