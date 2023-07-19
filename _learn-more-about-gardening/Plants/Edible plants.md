@@ -57,7 +57,7 @@ Bangkuang <br>
 Belimbling <br>
 <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/bitter-gourd/">Bitter Gourd</a><br>
 Bottle Gourd <br>
-Brinjal <br>
+<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/brinjal/">Brinjal</a><br>
 	<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/butterfly-pea/">Butterfly pea</a><br>
 	 <br><br>
 </section>
