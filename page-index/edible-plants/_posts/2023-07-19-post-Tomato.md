@@ -16,7 +16,7 @@ image: ""
 </section>
 
 <section>
-	<img style="height:390px; width:520px" src="/images/Plants/Lettuce_JacChua%20(3).jpg">
+	<img style="height:390px; width:520px" src="/images/Plants/Tomato_JacChua%20(5).jpg">
 	
 <p>Tomatoes are a popular crop grown in home and Community Gardens and are often considered one of the most desirable crops for new gardeners to try. There are many Tomato cultivars, with the most common varieties seen in Singapore being heat-tolerant cherry tomato varieties. Tomatoes are usually red but can also come in other colours like yellow or pink, and range in shape and size depending on the cultivar.</p>
 <p>Ripe Tomatoes can be eaten raw, in soup, roasted or made into sauces.</p>
