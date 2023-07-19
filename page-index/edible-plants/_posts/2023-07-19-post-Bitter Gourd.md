@@ -28,9 +28,10 @@ image: ""
 <section>
 	<h4>Environmental needs:</h4>
 		<img src="/images/Plants/Tomato_JacChua%20(3).jpg">
-<p>This vine does best in full sun gardens with a minimum of 6 hours of direct sunlight. This plant can also grow with 4-5 hours of direct sunlight and at least 6 hours of indirect sunlight, but will produce less fruits.</p>
-<p>Plants do best in moist, well-drained soil at least 15cm deep, or in true ground.</p>
-	
+<p>This vine does best in full sun gardens with a minimum of 6 hours of direct sunlight. This plant can also grow with 4-5 hours of direct sunlight and at least 6 hours of indirect sunlight but will produce less fruits.</p>
+<p>Plants do best in moist, well-drained soil at least 30cm deep, or in true ground. The plant can be grown in smaller pots about 20cm deep, but growth will be slower due to the lack of water retention in less soil and a smaller root ball. </p>
+<p>As a fast-growing vine, this plant needs a sturdy trellis to scramble on. Because the fruits hang down, it is ideal for arch-shaped trellises.</p>
+
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/eGBg_S8yj0U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
 	
 <p>Depending on the cultivar, tomatoes can grow as a vine (indeterminate) or as a small shrub (determinate). Vining varieties will need stakes or a trellis to support their growth.</p>
