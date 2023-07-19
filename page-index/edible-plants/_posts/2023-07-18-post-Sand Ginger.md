@@ -16,18 +16,17 @@ image: ""
 </section> 
  
 <section> 
-<img style="height:390px; width:520px" src=""> 
+<img src=""> 
  
   <p> Sand Gingers are small, aromatic spice used in Malaysian and Indonesian cooking. Its leaves can be consumed raw or in soups, and its rhizome, an underground horizontal stem that resembles a tuberous root, is often pounded into a powder and used to flavour sauces and curries.</p>
 <p>It is a small perennial crop that readily grows in the tropics in both true ground and in pots. This is a common plant in herb gardens, permaculture gardens, and low maintenance beds.</p>
 <p>Sand Gingers are part of the Zingiberaceae or Ginger family, which includes other popular edible plants like Torch Ginger and Fingerroot.</p>
- 
-  <br> 
+ <br> 
 </section> 
  
 <section> 
   <h4>Environmental needs:</h4> 
-  <img style="height:390px; width:520px" src="/ image extension link in Isomer CMS"> 
+  <img src="">
     	<p> Sand Ginger thrives in more than 2-4 hours of direct sun or 4-6 hours of indirect sun. Plants do best in moist, well-drained soil at least 15cm deep, making them suitable for container gardening and corridor gardening. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe.</p> 
 <br> 
 </section> 
@@ -58,6 +57,4 @@ image: ""
 <p>Wilting leaves during hot weather is a sign of heat stress. Increase the number of times the plant is watered daily, or move it to a shadier part of the garden.</p>
 <p>Plants are vulnerable to sunburn in more than 4 hours of direct sunlight. Use shade netting to protect your plants or replant in a shadier spot.</p>
 <br> 
-</section> 
- 
-
+</section>
