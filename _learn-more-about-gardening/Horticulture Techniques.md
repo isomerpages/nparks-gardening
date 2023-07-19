@@ -80,7 +80,7 @@ Fertilising<br>
 <section>
 <h4 id="g">g</h4>
 <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/gauging-light/">Gauging light</a><br>
-Grow lights<br>
+<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/growlights">Grow lights</a><br>
 Growing edibles for consumption<br>
 <br><br>
 </section>
