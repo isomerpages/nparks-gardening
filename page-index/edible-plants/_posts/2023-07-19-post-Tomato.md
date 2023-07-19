@@ -32,7 +32,6 @@ image: ""
 <p>Plants do best in moist, well-drained soil at least 15cm deep, or in true ground.</p>
 	
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/eGBg_S8yj0U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
-	<br>
 	
 <p>Depending on the cultivar, tomatoes can grow as a vine (indeterminate) or as a small shrub (determinate). Vining varieties will need stakes or a trellis to support their growth.</p>
 <p>As with all members of the Nightshade family, this plant is buzz pollinated and produces the most fruit when bees are around to pollinate it. Growing more bee-attracting plants within the garden will encourage pollination. It can be hand-pollinated, but the success rate is generally lower. </p>
