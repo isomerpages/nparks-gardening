@@ -11,16 +11,15 @@ image: ""
 </header>
 	
 <section>
-	<p><strong>Other common names:</strong> Curry Leaf Tree, Daun Kari, Indian Curry Tree, Curry Bush, Karapincha, Karwa Pale, Garupillai, Kerupulai, 咖哩叶, 调料九里香, 麻绞叶</p>
+	<p><strong>Other common names:</strong> Great Hog Plum, Golden Apple, Otaheite Apple, Yellow Plum, Jew Plum, Ambarella</p>
 	<br>
 </section>
 
 <section>
-	<img title="Photo by Jacqueline Chua." src="/images/Plants/CurryLeafTree_JacChua.jpg">
+	<img title="Photo by Jacqueline Chua." src="">
 	
-<p>A staple in many Southeast Asian gardens, Curry Leaf Plants thrive in full sun gardens and can quickly grow up to 2.5m in height. Their leaves produce highly aromatic oils that give curry its distinctive taste, and can be dried and powdered, fried, or boiled. </p>
-	<p>A large perennial crop, curry leaf trees are usually planted in true ground. </p>
-<p>Curry leaf plants are part of the Rutaceae or Rue family, which includes other popular edible plants like Limes and Limau Purut. </p>       
+<p>Kedondong trees are a common sight in Southeast Asian edible gardens, and produce edible leaves and fruit. The young leaves can be eaten raw in a salad or cooked as a vegetable, while the unripe and ripe fruits are eaten raw, pickled or processed into a juice.</p>
+<p>As a perennial tree, it is a common sight in edible gardens, permaculture gardens, and low maintenance beds. </p>       
 	<br>
 </section>
 
