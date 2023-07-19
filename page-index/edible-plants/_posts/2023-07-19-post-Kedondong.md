@@ -51,8 +51,8 @@ image: ""
 
 <section>
 	<h4>Harvesting:</h4>
-<p>Plants can be harvested for leaves at any time. Regular harvesting will encourage bushier growth and will keep the plant at a manageable height. </p>
-<p>Mature, black fruits can be harvested for seeds. Sow seeds from ripe fruit immediately after harvesting as they tend to rot quickly.</p>
+<p>Young leaves can be harvested at any time. </p>
+<p>Unripe fruits are small, hard and green while ripe fruits will become yellow and more fibrous. Unripe fruits are sour, while ripe fruits are slightly sweeter. Both ripe and unripe fruits can be harvested for consumption. Ripe fruits will have a fibrous, inedible pit that will need to be removed.</p>
 	<br>
 </section>
 
