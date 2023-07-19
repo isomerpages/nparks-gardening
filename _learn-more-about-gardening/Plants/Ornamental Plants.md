@@ -4,6 +4,7 @@ permalink: /learn-more-about-gardening/plants/ornamentalplants/
 description: ""
 third_nav_title: Plants
 ---
+<a id="top"></a>
 Click on an alphabet to find a plant by its common name!
 <table>
 	<tbody>
@@ -211,3 +212,9 @@ Window-Leaf Monstera<br>
 <h4 id="z">z</h4>
 	<br><br>
 	</section>
+	
+<div class="float-buttons">
+	<div style="position:relative;" class="inner-wrapper-sticky">
+  <a style="text-decoration:none" class="float-buttons left" href="#top">↑back to top</a>
+	</div>
+	</div>
