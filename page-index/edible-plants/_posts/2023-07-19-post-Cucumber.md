@@ -59,8 +59,11 @@ Allowing the fruit to sit in water can cause rotting. Keep the underside dry by 
 
 <section>
 	<h4>Harvesting:</h4>
-<p>Plants can be harvested for fruits around three months after sowing. The best time to harvest the fruit is in the early morning, before 9am.</p>
-<p>Tomatoes are generally harvested when ripe, however unripe tomatoes can also be eaten after they have been thoroughly cooked. Ripe tomatoes are shiny, glossy, and will no longer have green spots. They should be easy to pop off the stem with a gentle twist. Seeds can be used from ripe fruit for immediate planting.</p>
+<p>Plants can be harvested for fruits around three months after sowing. The best time to harvest the fruit is in the early morning, before 9am. </p>
+<p>Cucumbers meant to be eaten raw are best harvested when immature. Immature fruits are dark green and are best harvested after most of the spines have smoothened out. Take note that some cucumber varieties (like Japanese Cucumbers) never truly lose their spines and need to be smoothened out or peeled to be safely eaten.</p>
+<p>Ripe fruits are yellowish or fully yellow and tend to be bitter. Some varieties, like the Old Cucumber used for soups, are harvested ripe.</p>
+<p>Regularly harvest the mature and immature fruit to encourage the plant to keep producing. </p>
+<p>The plant will continuously produce fruit for about 6 months to a year before declining.</p>
 <br>
 </section>
 
