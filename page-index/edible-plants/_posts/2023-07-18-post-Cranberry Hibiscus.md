@@ -16,7 +16,7 @@ image: ""
 </section>
 
 <section>
-	<img style="height:390px; width:520px" src="/images/Plants/CranberryHibiscus.jpg">
+	<img src="/images/Plants/CranberryHibiscus.jpg">
 	
 <p>Cranberry Hibiscus are striking plants with deep red leaves and flowers. The flowers and leaves can be brewed into tea, and the leaves can also be eaten raw or stir-fried.</p>
 <p>As large and woody perennial bush, this plant is a staple in perimeter planting, edible gardens, and low-maintenance beds.</p>
@@ -26,7 +26,7 @@ image: ""
 
 <section>
 	<h4>Environmental needs:</h4>
-		<img style="height:390px; width:520px" src="/images/Horti%20techniques/ContainerPlanting_JacChua%20(3).jpg">
+		<img src="/images/Horti%20techniques/ContainerPlanting_JacChua%20(3).jpg">
 	
 <p>This plant does best in full sun gardens with a minimum of 6 hours of sunlight. It can also grow in gardens with more than 4 hours of direct sunlight or at least 6 hours of indirect sunlight, but its growth will be slower, and it may not flush as deep a red. </p>
 <p>Plants do best in moist, well-drained soil at least 15cm deep, or in true ground. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe.</p>
@@ -39,7 +39,6 @@ image: ""
 <p>Sow seeds individually in a seedling tray filled with potting mix or seedling mix. Lightly mist the soil until damp, once a day. Seeds should sprout within 2 weeks.</p>
 	
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/x7J87wY7U6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
-	<br>
 
 <p>The seedlings will be vulnerable to high heat and heavy rain and are best kept in a sheltered propagation area or a shaded space with around 4 hours of partial or direct sunlight.</p>
 <p>Seeds can be sown directly into pots or the ground around 15-30cm apart. Lightly water the soil until damp, once a day. Seeds should sprout within 10 days.</p>
@@ -53,7 +52,6 @@ image: ""
 	</section>
 	
 <section>
-	<br>
 	<h4>Growing:</h4>
 <p>Cranberry Hibiscus will produce more flowers when fed with fertilisers high in Phosphorus and Potassium, and more leaves when fed with fertilisers high in Nitrogen. To encourage both leaves and flowers, the plants can be fed with balanced fertilisers.  Plants can be fertilised regularly a month after germination for a fuller crop. </p>
 <p>It is a good practice to prune regularly and remove dead leaves and stems to improve ventilation and allow light to reach more of the plant. Regular pruning also decreases the likelihood of pests quickly taking over the plant. </p>
