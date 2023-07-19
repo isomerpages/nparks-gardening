@@ -45,14 +45,16 @@ image: ""
 
 <section>
 	<h4>Transplanting:</h4>
-<p>Seedlings will be ready for transplanting into pots or true ground when they have developed 4 or more leaves, or roughly a week or two after germination. Leave 10-20cm between each plant to encourage more growth, better ventilation, and prevent etiolation. </p>
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/lItBHYjyrKg" height="415" width="100%"></iframe>
+<p>Seedlings will be ready for transplanting into pots or true ground when they are roughly 10cm tall. Leave 15cm between each plant to encourage more growth and better ventilation.</p>
+	<br>
 	</section>
 	
 <section>
 	<br>
 	<h4>Growing:</h4>
-<p>Lettuce is a rapid grower and will produce more leaves if fed with high nitrogen fertilisers. Plants can be fertilised regularly the week after transplanting for a fuller crop. </p>
+<p>Thai Basil plants grow rapidly, especially with regular harvesting and the use of high nitrogen fertilisers will encourage the plant to grow more leaves. Plants can be fertilised once every two weeks after transplanting, or after hard pruning.</p>
+<p>Thai basil plants will die after setting seed. Prolong your harvest by pinching off flowers when they appear.
+</p>
 	<br>
 </section>
 
