@@ -16,7 +16,7 @@ image: ""
 </section>
 
 <section>
-	<img title="Chilli. Photo by Jacqueline Chua." src="/images/Plants/Chilli_JacChua.jpg">
+	<img title="Ripening Chilli. Photo by Jacqueline Chua." src="/images/Plants/Chilli_JacChua.jpg">
 	
 <p>Chillies are an essential plant in most edible gardens across South and Southeast Asia, and are famous for adding a spicy kick to sauces, stews, salads, and more! There are a wide variety of Chilli cultivars, with fruit that vary wildly in colour, shape, and size. </p>
 <p>Most varieties of Chilli can be grown as a perennial crop in Singapore.  Most small varieties of chilli can also be grown in pots. </p>
@@ -26,8 +26,9 @@ image: ""
 
 <section>
 	<h4>Environmental needs:</h4>
-		<img title="Red and green loose-leaf lettuce grown in pots. Photo by Jacqueline Chua." src="/images/Horti%20techniques/ContainerPlanting_JacChua%20(3).jpg">
-<p>Lettuce does best in more than 6 or more hours of indirect sunlight, or around 4-5 hours of direct sunlight. Plants do best in moist, well-drained soil at least 10cm deep, making them suitable for container gardening. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe. Keep your plants cool with mulch and plenty of water to encourage growth. </p>
+		<img title="Unriped Chilli. Photo by Jacqueline Chua." src="/images/Plants/Chilli_JacChua%20(2).jpg">
+<p>This plant does best in full sun gardens with a minimum of 6 hours of direct sunlight. This plant can also grow with 4-5 hours of direct sunlight and at least 6 hours of indirect sunlight, but will produce less fruits.</p>
+<p>Plants do best in moist, well-drained soil in containers that are at least 15cm deep, or in true ground.</p>
 	<br>
 	</section>
 
