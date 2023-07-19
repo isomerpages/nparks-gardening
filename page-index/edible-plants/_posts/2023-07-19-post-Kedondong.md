@@ -35,13 +35,17 @@ image: ""
 <section>
   <h4>Sowing seeds:</h4>
 <p>Seeds can be sown directly into pots or the ground. Because the plant eventually grows into a tree, it is easier to grow a few seedlings in separate pots before selecting the healthiest one to be grown in true ground.</p>
-	
+
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/x7J87wY7U6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
+
+<p>The seedlings are generally resilient to most environmental factors but may be vulnerable to being eaten by snails or birds. Protect your young plants with a DIY cloche or netting. </p>
 <br>
 </section>
 
 <section>
 	<h4>Growing:</h4>
-	<p>Curry trees are rapid growers and will need regular pruning to be maintained at manageable height. Because they already grow rapidly, they generally do not require fertilising, but a use of a high nitrogen fertiliser after hard pruning will encourage the plant to bounce back quickly. </p>
+	<p>Kedondong trees are steady growers but do benefit from being fed high potassium and phosphorus fertilisers to encourage flowering and thus fruiting. Regular pruning to promote airflow will keep the plant healthy and neat. </p>
+<p>The tree will need to be around 4 years old before it starts producing fruit if grown from seed.</p>
 <br>
 </section>
 
