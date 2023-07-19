@@ -1,4 +1,4 @@
-title: GardeningSg
+title: GardeningSG
 url: https://staging.dmhtu0pi4p9u7.amplifyapp.com
 favicon: /images/favicon-isomer.ico
 colors:
@@ -15,7 +15,7 @@ colors:
       color: "#215732"
     - title: media-color-five
       color: "#215732"
-description: One-stop Gardening Portal for Gardeners in Singapore!
+description: The one-stop gardening portal for gardeners in Singapore!
 permalink: none
 baseurl: ""
 exclude:
