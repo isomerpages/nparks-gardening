@@ -18,9 +18,9 @@ image: ""
 <section>
 	<img title="Photo by Jacqueline Chua." src="/images/Plants/CurryLeafTree_JacChua.jpg">
 	
-<p>Sunflowers are large iconic flowers that will make heads turn in any garden. Not only are they beautiful, but they are also useful bee-attracting plants, and have edible seeds and can also be eaten as microgreens! </p>
-<p>There are a wide variety of cultivars, with mammoth varieties growing beyond 4m and deep red and multi-headed varieties to spice up your garden.</p>
-<p>A large annual flower, this plant is suitable for perimeter planting, or as a feature plant. It also can be used in edible gardens, biodiversity-attracting gardens, and rooftop gardens. </p>       
+<p>A staple in many Southeast Asian gardens, Curry Leaf Plants thrive in full sun gardens and can quickly grow up to 2.5m in height. Their leaves produce highly aromatic oils that give curry its distinctive taste, and can be dried and powdered, fried, or boiled. </p>
+	<p>A large perennial crop, curry leaf trees are usually planted in true ground. </p>
+<p>Curry leaf plants are part of the Rutaceae or Rue family, which includes other popular edible plants like Limes and Limau Purut. </p>       
 	<br>
 </section>
 
