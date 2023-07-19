@@ -25,27 +25,14 @@ image: ""
 
 <section>
 	<h4>Environmental needs:</h4>
-<p>This tree does best in full sun gardens with a minimum of 6 hours of direct sunlight.</p>
-<p>Plants do best in moist, well-drained soil at least 50cm deep, or in true ground. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe. Keep your plants cool with mulch and plenty of water to encourage growth.</p>
-<p>This tree can grow up to 12m high. The tree is best maintained at roughly 2m high for easy maintenance and harvesting. </p>
-<p>This plant can be grown year-round.</p>
+<p>Laksa thrives in 4-6 hours of direct sunlight, but plants can also tolerate about 6-8 hours of indirect sunlight. Plants do best in moist, well-drained soil at least 15cm deep, making them suitable for container planting and corridor gardening. These plants can tolerate waterlogging and can be planted in garden areas prone to ponding. Keep your plants cool with mulch and plenty of water to encourage growth.</p>
 	<br>
 	</section>
 
 <section>
-  <h4>Sowing seeds:</h4>
-<p>Seeds can be sown directly into pots or the ground. Because the plant eventually grows into a tree, it is easier to grow a few seedlings in separate pots before selecting the healthiest one to be grown in true ground.</p>
-
-<iframe width="100%" height="415" src="https://www.youtube.com/embed/x7J87wY7U6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
-
-<p>The seedlings are generally resilient to most environmental factors but may be vulnerable to being eaten by snails or birds. Protect your young plants with a DIY cloche or netting. </p>
-<br>
-</section>
-
-<section>
 	<h4>Growing:</h4>
-	<p>Kedondong trees are steady growers but do benefit from being fed high potassium and phosphorus fertilisers to encourage flowering and thus fruiting. Regular pruning to promote airflow will keep the plant healthy and neat. </p>
-<p>The tree will need to be around 4 years old before it starts producing fruit if grown from seed.</p>
+	<p>Laksa plants grow rapidly, especially with regular harvesting and the use of high nitrogen fertilisers will encourage the plant to grow more leaves. Plants can be fertilised once every two weeks or after hard pruning. </p>
+<p>Laksa plants will grow leggy and untidy as the plant gets older. Encourage new growth by regularly hard pruning the plant.</p>
 <br>
 </section>
 
