@@ -56,7 +56,8 @@ image: ""
   <h4>Harvesting:</h4>
 <p>Plants can be harvested for leaves and stems, with younger leaves being the most tender. Most gardeners will begin harvesting from their Kang Kong plant around 3 weeks after sowing.</p>
 <p>Kang Kong is typically harvested multiple times by harvesting the younger leaves and stems as per the cut-and-come-again method. </p>
-<p>Watch: How to grow leafy vegetables in pots </p>
+
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/lItBHYjyrKg" height="415" width="100%"></iframe><br>
 <br>
 </section>
 
