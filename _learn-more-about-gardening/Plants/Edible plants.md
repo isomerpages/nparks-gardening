@@ -5,12 +5,16 @@ description: ""
 third_nav_title: Plants
 ---
 <style>
-	#back-to-top {
-			display: none;
+		.float-buttons {
 			position: fixed;
 			bottom: 20px;
 			right: 20px;
 			z-index: 99;
+		}
+
+		.float-buttons button {
+			display: block;
+			margin-bottom: 10px;
 			font-size: 18px;
 			background-color: #333;
 			color: #fff;
@@ -21,19 +25,21 @@ third_nav_title: Plants
 			border-radius: 50%;
 		}
 
-		#back-to-top:hover {
+		.float-buttons button:hover {
 			background-color: #555;
 		}
 
-		html:not(:target) #back-to-top {
+		html:not(:target) .float-buttons {
 			display: none;
 		}
 
-		html:target #back-to-top {
+		html:target .float-buttons {
 			display: block;
+		}
 </style>
 
 Click on an alphabet to find a plant by its common name!
+<a id="top"></a>
 <table>
 	<tbody>
 		<tr>
@@ -68,6 +74,7 @@ Click on an alphabet to find a plant by its common name!
 	</tr>
 </tbody></table>
 <br>
+
 
 <section>
 <h4 id="a">a</h4>
@@ -271,5 +278,6 @@ Xiao Bai Cai<br>
 	<br><br>
 	</section>
 	
-<a id="top"></a>
-<a href="#top"><button title="Go to top" id="back-to-top">↑</button></a>
+
+<div class="float-buttons">
+		<button title="Go to top" href="#top">↑back up</button></div>
