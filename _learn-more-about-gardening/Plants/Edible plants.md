@@ -74,7 +74,7 @@ Common pepper <br>
 Corn <br>
 	<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/cranberry-hibiscus/">Cranberry hibiscus</a> <br>
 <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/cucumber/">Cucumber</a><br>
-Curry Leaf Plant <br>
+<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/curry-leaf-plant/">Curry Leaf Plant</a><br>
 Custard apple <br>
 	 <br><br>
 </section>
@@ -110,7 +110,7 @@ Guava<br>
 
 <section>
 <h4 id="i">i</h4>
-Indian Borage<br>
+<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/indian-borage/">Indian Borage</a><br>
 <br><br>
 </section>
 
