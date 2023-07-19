@@ -12,4 +12,5 @@ Gardening is exciting because it has many topics! Browse our resources on plants
 	<li><a href="https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/hortpark/hortpark-themed-gardens">Hortpark's Themed Gardens</a></li>
 	<li><a href="https://www.nparks.gov.sg/juronglakegardens/explore-our-gardens/attractions/allotment-gardens">Jurong Lake Garden's Allotment Garden</a>
 	</li></ul>
-	
+	<p>NParks has a suite of programmes and events just for gardeners. Come down and garden with us!
+	</p>
