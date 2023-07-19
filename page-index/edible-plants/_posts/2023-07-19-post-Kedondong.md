@@ -25,15 +25,17 @@ image: ""
 
 <section>
 	<h4>Environmental needs:</h4>
-	<p>Curry Leaf Plants need at least 6 hours of direct sunlight to flourish. They can also grow in 4-6 hours of direct sunlight or in more than 6 hours of indirect sunlight, but the plant will be leggy and less lush.</p>
-<p>Plants do best in moist, well-drained soil at least 30cm deep, or in true ground. These plants are vulnerable to root rot, so ensure that your soil drains well, and that your soil has plenty of organic matter to let the roots breathe. </p>
-<p>This tree can grow up to 2.5m high, but it can be pruned down to a around a metre for easy maintenance.</p>
+<p>This tree does best in full sun gardens with a minimum of 6 hours of direct sunlight.</p>
+<p>Plants do best in moist, well-drained soil at least 50cm deep, or in true ground. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe. Keep your plants cool with mulch and plenty of water to encourage growth.</p>
+<p>This tree can grow up to 12m high. The tree is best maintained at roughly 2m high for easy maintenance and harvesting. </p>
+<p>This plant can be grown year-round.</p>
 	<br>
 	</section>
 
 <section>
   <h4>Sowing seeds:</h4>
-<p>Seeds can be sown directly into pots or the ground around 30cm-1m apart. Lightly water the soil until damp, once a day. Seeds should sprout around two weeks.</p>
+<p>Seeds can be sown directly into pots or the ground. Because the plant eventually grows into a tree, it is easier to grow a few seedlings in separate pots before selecting the healthiest one to be grown in true ground.</p>
+	
 <br>
 </section>
 
