@@ -16,7 +16,7 @@ image: ""
 </section>
 
 <section>
-	<img style="height:390px; width:520px" src="/images/Horti%20techniques/Spacing_Jacchua%20(15).jpg">
+	<img src="/images/Horti%20techniques/Spacing_Jacchua%20(15).jpg">
 	
 <p>A popular leafy vegetable in Malaysia and Indonesia, Bayam is a hardy leafy vegetable that can be grown in small, tight clusters of multiple plants around 10-20cm tall or as a large, erect plant up to 1.5m tall if given enough space. It has varieties that come in red, green or both, and is commonly eaten raw, steamed, or stir-fried.</p>
 	<p>An annual crop, this plant is often grown and consumed under 4 months. Its rapid harvest cycle makes it useful for crop rotation.</p>
@@ -36,14 +36,12 @@ image: ""
 <p>Seeds can be scattered directly into a pot or into true ground, and then covered with a layer of soil or compost. Lightly water the soil until damp, once a day. Seeds should sprout within a week.</p>
 	
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/x7J87wY7U6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
-	<br>
 
 <p>The seedlings are generally resilient to most environmental factors but may be vulnerable to being eaten by snails or birds. Protect your young plants with a DIY cloche or netting.</p>
 	<br>
 </section>
 
 <section>
-	<br>
 	<h4>Growing:</h4>
 <p>Bayam is a rapid grower and will produce more leaves if fed with high nitrogen fertilisers. Plants can be fertilised regularly two weeks after germination for a fuller crop. </p>
 <p>This plant can be grown incredibly close together with many plants in a small space. If plants are thinned out and given enough ventilation, they will grow thicker stems and will grow taller and bushier. </p>
@@ -56,9 +54,9 @@ image: ""
 <p>Plants can be harvested for leaves at any time, with younger leaves being the most tender. However, the leaves will become tough as they get older. Most gardeners will harvest their crop around 3 weeks after sowing.</p>
 <p>The whole plant can be harvested once by cutting the stalk at the base or multiple times by harvesting the young, tender stems from the top as per the cut-and-come-again method.</p>
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/f_Uoug7ZSeg" height="415" width="100%"></iframe>
-<br><br>
-		<img style="height:390px; width:520px" src="/images/Plants/Bayam_JacChua.jpg">
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/f_Uoug7ZSeg" height="415" width="100%"></iframe><br>
+	
+		<img src="/images/Plants/Bayam_JacChua.jpg">
 <p>Bayam will start to flower after a few months or so. The flowers can be self-pollinated and will form brown seed capsules. Dry, brown seed pods are mature, and can be harvested for seeds to plant.</p>
 	<br>
 </section>
