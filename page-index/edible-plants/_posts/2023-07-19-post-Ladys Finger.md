@@ -72,7 +72,8 @@ image: ""
 <p>Plants can be harvested for fruit pods around 2 months after sowing. The best time to harvest the fruit is in the early morning, before 9am. </p>
 <p>Only the immature pods of the Lady’s-Finger are edible. Harvest pods that are soft with bendable tips for better texture.</p>
 <p>Pods can be left on the plant to mature. Ripe pods are hard and woody and be harvested for seeds to be planted. </p>
-<p>Watch: How to seed save</p>
+	
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/FuWK90da0GY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
 
 <br>
 </section>
