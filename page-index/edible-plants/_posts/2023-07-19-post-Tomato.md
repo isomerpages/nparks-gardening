@@ -61,17 +61,16 @@ image: ""
 <section>
 	<br>
 	<h4>Growing:</h4>
-<p>Lettuce is a rapid grower and will produce more leaves if fed with high nitrogen fertilisers. Plants can be fertilised regularly the week after transplanting for a fuller crop. </p>
+<p>Tomatoes will produce more flowers and thus more fruit when fed with fertilisers high in Phosphorus and Potassium. Plants can be fertilised regularly a month after germination for a fuller crop. </p>
+<p>For both vining and shrub varieties, it is a good practice to prune regularly and remove dead leaves and stems to improve ventilation and allow light to reach more of the plant. Regular pruning also decreases the likelihood of pests quickly taking over the plant. Suckers can be removed as part of regular pruning and propagated via divison.</p>
 	<br>
 </section>
 
 <section>
 	<h4>Harvesting:</h4>
-<p>Plants can be harvested for leaves at any time, with younger leaves being the most tender. However, the leaves will become bitter when the plant starts to flower. Most gardeners will harvest their crop around a month and a half after sowing. </p>
-<p>The whole plant can be harvested once by cutting the head at the base or multiple times by harvesting the older leaves as per the cut-and-come-again method.</p>
-
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/f_Uoug7ZSeg" height="415" width="100%"></iframe>
-<br><br>
+<p>Plants can be harvested for fruits around three months after sowing. The best time to harvest the fruit is in the early morning, before 9am.</p>
+<p>Tomatoes are generally harvested when ripe, however unripe tomatoes can also be eaten after they have been thoroughly cooked. Ripe tomatoes are shiny, glossy, and will no longer have green spots. They should be easy to pop off the stem with a gentle twist. Seeds can be used from ripe fruit for immediate planting.</p>
+<br>
 </section>
 
 <section>
@@ -89,10 +88,10 @@ image: ""
 		<tbody>
 			<tr>
 				<th style="border-right:solid 1px;">Approximate time</th>
-				<td style="border-right:solid 1px;">A week or less</td>
-				<td style="border-right:solid 1px;">2 to 3 weeks</td>
-				<td style="border-right:solid 1px;">2 to 3 weeks</td>
-				<td style="border-left:solid 1px;">A month to a month and a half</td>
+				<td style="border-right:solid 1px;">2 weeks or less</td>
+				<td style="border-right:solid 1px;">2 weeks or less</td>
+				<td style="border-right:solid 1px;">2 to 3 months</td>
+				<td style="border-left:solid 1px;">2 to 3 months</td>
 			</tr>
 		</tbody>
 	</table>
