@@ -67,7 +67,7 @@ Bottle Gourd <br>
 	<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/cai-xin/">Cai Xin</a><br>
 Ceylon Spinach <br>
 Chiku <br>
-Chilli <br>
+<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/chilli/">Chilli</a><br>
 Chinese Mustard <br>
 Chives <br>
 Common pepper <br>
