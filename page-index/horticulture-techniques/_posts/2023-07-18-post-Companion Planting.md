@@ -20,14 +20,10 @@ image: ""
 <section>
 <h4>Growing pollinator-attracting plants</h4>
 	<img src="/images/Biodiversity/bee_nomia%20strigata_brinjal_zestinsoh.jpg">
-<p>Many crops like Tomatoes, Brinjals, Cucumbers and Long Beans need pollinators to form fruit. Providing nectar-rich flowers throughout the year in your garden will attract bees, butterflies, and birds to your garden, and ensure that your plants produce plenty of fruit. These flowering plants can be arranged as a border in your plot as part of perimeter planting or in between your crops.</p>
-<br>
-<h4>Growing legumes to improve soil</h4>
-	<img src="/images/Plants/WingedBean_JacChua%20(1).jpg">
 <p>Legumes like Long Beans, Winged Beans, and Peanuts will fix nitrogen into the soil via their root nodules. Nitrogen is a key chemical needed for plant growth, so having a few legumes near nitrogen heavy feeders like Kailan, Lettuce and other leafy vegetables will encourage these crops to grow more leaves and increase their yield. Legumes are used in a similar way in crop rotation to improve soil fertility of annual crop beds.  </p>
 <br>
 <h4>Growing groundcovers as a living mulch</h4>
-	<img src="/images/Hardscapes/PXL_20230225_024644403.jpg">
+	<img src="/images/Hardscapes/PXL_20230225_024644403.jpg" title="Alternanthera plants being used as living mulch. Photo by Jacqueline Chua">
 <p>Covering the soil with organic or inorganic mulches helps to reduce water loss, suppress weeds, and prevent soil erosion. Some groundcovers that have fast-growing vines that cover the soil can be used as a living mulch and pairing them with taller plants like Lady’s-Fingers, or Brinjals as a main crop is a good way to maximize yields while keeping the soil healthy. </p>  
 <p>However, living mulches still need water and nutrients, and thus need more watering, maintenance and fertilizing compared to non-living mulches to keep both the living mulch and the main crop productive.</p> 
 <p>Some edible living mulches include:</p>
