@@ -16,7 +16,7 @@ image: ""
 </section>
 
 <section>
-	<img style="height:390px; width:520px" src="/image extension link in Isomer CMS">
+	<img src="/images/Plants/LadiesFinger_JacChua%20(2).jpg">
 	
   <p>Lady’s-Fingers are a common crop in many Community Gardens, and are an easy plant for new edible gardeners to grow. The unripe pod of Lady’s-Finger can be eaten raw, but is often stir-fried or added to soup. The pod produces a juice with a mucus-like texture and is used to thicken soups and stews. </p>
   <p>Most varieties of Lady’s-Fingers are grown as an annual, but they have been also been grown as a perennial crop in Singapore.  </p>
@@ -27,7 +27,7 @@ image: ""
 
 <section>
   <h4>Environmental needs:</h4>
-  <img style="height:390px; width:520px" src="/ image extension link in Isomer CMS">
+  <img src="/images/Plants/LadiesFinger_JacChua%20(1).jpg">
     	<p>This plant does best in full sun gardens with a minimum of 6 hours of direct sunlight.</p>
 <p>Plants do best in moist, well-drained soil in containers that are at least 15cm deep, or in true ground. </p>
 <p>Watch: How to grow fruiting vegetables in pots </p>
