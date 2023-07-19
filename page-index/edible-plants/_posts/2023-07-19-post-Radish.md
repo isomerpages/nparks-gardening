@@ -38,27 +38,22 @@ image: ""
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/x7J87wY7U6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
 	<br>
 
-<p>The seedlings will be vulnerable to high heat and heavy rain and are best kept in a sheltered propagation area or a shaded space with around 4 hours of partial or direct sunlight. </p>
+<p>The seedlings will be vulnerable to high heat and heavy rain and are best kept under netting in a or a shaded space with around 4 hours of partial or direct sunlight.</p>
 	<br>
 </section>
 
 <section>
-	<h4>Transplanting:</h4>
-<p>Seedlings will be ready for transplanting into pots or true ground when they have developed 4 or more leaves, or roughly a week or two after germination. Leave 10-20cm between each plant to encourage more growth, better ventilation, and prevent etiolation. </p>
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/lItBHYjyrKg" height="415" width="100%"></iframe><br>
-<br>
-	</section>
-	
-<section>
 	<h4>Growing:</h4>
-<p>Lettuce is a rapid grower and will produce more leaves if fed with high nitrogen fertilisers. Plants can be fertilised regularly the week after transplanting for a fuller crop. </p>
+<p>Radish is a rapid grower and will produce larger roots if fed with fertilisers high in Potassium and Phosphorus. Plants can be fertilised regularly the week after transplanting for a fuller crop.</p>
 	<br>
 </section>
 
 <section>
 	<h4>Harvesting:</h4>
-<p>Plants can be harvested for leaves at any time, with younger leaves being the most tender. However, the leaves will become bitter when the plant starts to flower. Most gardeners will harvest their crop around a month and a half after sowing. </p>
-<p>The whole plant can be harvested once by cutting the head at the base or multiple times by harvesting the older leaves as per the cut-and-come-again method.</p>
+<p>The plant can be harvested for the fleshy root around 30 days after sowing. Leaving the plant for more than 1 ½ months usually results in a very fibrous and hard root that is unpleasant to eat. Radishes in tropical climates are usually smaller than their counterparts grown in colder climates.</p>
+<p>Plants can be harvested for leaves at any time, with younger leaves being the most tender. However, the leaves will become tough when the plant starts to flower. Older leaves can be harvested multiple times via the cut-and-come-again method. </p>
+<p>The whole plant can be harvested once by gently digging up the fleshy root with a trowel.
+</p>
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/f_Uoug7ZSeg" height="415" width="100%"></iframe>
 <br><br>
@@ -71,7 +66,6 @@ image: ""
 			<tr>
 				<th style="border-bottom:0px; border-right:solid 1px;">Growing period</th>
 				<th style="border-bottom:0px; border-right:solid 1px;">Sowing to germination</th>
-				<th style="border-bottom:0px; border-right:solid 1px;">Germination to transplanting</th>
 				<th style="border-bottom:0px; border-right:solid 1px;">Transplanting to first harvest</th>
 				<th style="border-bottom:0px; border-left:solid 1px;">Total sowing to first harvest</th>
 			</tr>
@@ -79,10 +73,9 @@ image: ""
 		<tbody>
 			<tr>
 				<th style="border-right:solid 1px;">Approximate time</th>
-				<td style="border-right:solid 1px;">A week or less</td>
-				<td style="border-right:solid 1px;">2 to 3 weeks</td>
-				<td style="border-right:solid 1px;">2 to 3 weeks</td>
-				<td style="border-left:solid 1px;">A month to a month and a half</td>
+				<td style="border-right:solid 1px;">Less than 2 weeks</td>
+				<td style="border-right:solid 1px;">1 to 1 and a half months</td>
+				<td style="border-left:solid 1px;">1 to 2 months</td>
 			</tr>
 		</tbody>
 	</table>
