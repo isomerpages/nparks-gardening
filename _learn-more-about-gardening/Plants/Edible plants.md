@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Plants
 ---
 <style>
-	  		#back-to-top {
+	#back-to-top {
 			display: none;
 			position: fixed;
 			bottom: 20px;
@@ -31,7 +31,6 @@ third_nav_title: Plants
 
 		html:target #back-to-top {
 			display: block;
-		}
 </style>
 
 Click on an alphabet to find a plant by its common name!
@@ -273,4 +272,4 @@ Xiao Bai Cai<br>
 	</section>
 	
 <a id="top"></a>
-	<button title="Go to top" href="#top" id="back-to-top">↑</button>
+<a href="#top"><button title="Go to top" id="back-to-top">↑</button></a>
