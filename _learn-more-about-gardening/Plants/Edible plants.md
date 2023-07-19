@@ -73,7 +73,7 @@ Chinese Mustard <br>
 Common pepper <br>
 Corn <br>
 	<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/cranberry-hibiscus/">Cranberry hibiscus</a> <br>
-Cucumber <br>
+<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/cucumber/">Cucumber</a><br>
 Curry Leaf Plant <br>
 Custard apple <br>
 	 <br><br>
