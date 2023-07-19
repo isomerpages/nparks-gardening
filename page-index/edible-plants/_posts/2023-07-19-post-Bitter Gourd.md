@@ -61,8 +61,6 @@ image: ""
 	<h4>Harvesting:</h4>
 <p>Plants can be harvested for immature fruits around 4 months after sowing. The best time to harvest the fruit is in the early morning, before 9am.</p>
 <p>The plant will continuously produce fruit for about 6 months to a year before declining. </p>
-	
-
 <br>
 </section>
 
@@ -82,9 +80,9 @@ image: ""
 			<tr>
 				<th style="border-right:solid 1px;">Approximate time</th>
 				<td style="border-right:solid 1px;">2 weeks or less</td>
-				<td style="border-right:solid 1px;">2 weeks or less</td>
-				<td style="border-right:solid 1px;">2 to 3 months</td>
-				<td style="border-left:solid 1px;">2 to 3 months</td>
+				<td style="border-right:solid 1px;">2 weeks</td>
+				<td style="border-right:solid 1px;">Around 3 months</td>
+				<td style="border-left:solid 1px;">Around 4 months</td>
 			</tr>
 		</tbody>
 	</table>
