@@ -124,7 +124,7 @@ Guava<br>
 	<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/kai-lan/">Kailan</a><br>
 Kale<br>
 	<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/kang-kong/">Kang Kong</a><br>
-Kedongdong<br>
+<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/kedondong/">Kedondong</a><br>
 <br><br>
 </section>
 
