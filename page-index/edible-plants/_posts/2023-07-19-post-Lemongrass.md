@@ -33,8 +33,7 @@ image: ""
 
 <section>
 	<h4>Growing:</h4>
-	<p>Laksa plants grow rapidly, especially with regular harvesting and the use of high nitrogen fertilisers will encourage the plant to grow more leaves. Plants can be fertilised once every two weeks or after hard pruning. </p>
-<p>Laksa plants will grow leggy and untidy as the plant gets older. Encourage new growth by regularly hard pruning the plant.</p>
+	<p>Lemongrass plants grow rapidly, especially with regular harvesting. They are particularly fast growers during the dry season. If planted in true ground near other plants, Lemongrass can smother its neighbours if it is not cut back regularly. </p>
 <br>
 </section>
 
