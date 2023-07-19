@@ -16,7 +16,7 @@ image: ""
 </section>
 
 <section>
-	<img style="height:390px; width:520px" src="/images/Plants/KaiLan_JacChua%20(3).jpg">
+	<img src="/images/Plants/KaiLan_JacChua%20(3).jpg">
 	
 <p>Kai Lan is a versatile vegetable that has tender leaves and a thick, crunchy stem. It can be eaten blanched, steamed, or stir-fried. The flowers, stem and leaves are edible, and are a staple in many Chinese dishes. </p>
 <p>An annual crop, this plant is often grown and consumed under 2 months. Its rapid harvest cycle makes it useful for crop rotation.</p>
@@ -27,7 +27,8 @@ image: ""
 
 <section>
 	<h4>Environmental needs:</h4>
-		<img style="height:390px; width:520px" src="/images/Horti%20techniques/ContainerPlanting_JacChua%20(3).jpg">
+		<img src="/images/Horti%20techniques/ContainerPlanting_JacChua%20(3).jpg">
+	
 <p>Kai Lan does best in more than 6 or more hours of indirect sunlight, or around 4-5 hours of direct sunlight. Plants do best in moist, well-drained soil at least 10cm deep, making them suitable for container gardening. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe. Keep your plants cool with mulch and plenty of water to encourage growth.</p>
 	<br>
 	</section>
