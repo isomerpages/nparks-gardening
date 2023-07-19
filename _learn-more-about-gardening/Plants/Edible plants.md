@@ -179,7 +179,7 @@ Radish<br>
 
 <section>
 <h4 id="s">s</h4>
-Sand ginger<br>
+	<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/sand-ginger/">Sand ginger</a><br>
 Sawtooth Coriander<br>
 Scarlet Spiral Flag<br>
 Sissoo Spinach<br>
