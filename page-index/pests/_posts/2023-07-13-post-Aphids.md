@@ -19,7 +19,7 @@ image: ""
 <p>Aphids are sap-sucking insects that are small and pear-shaped. They come in various colors – green, yellow, brown-red or black and can be winged or wingless. Aphids have needle-like mouthparts that they use to pierce into the plant tissue to feed. They are usually found on plant stems and the undersides of leaves.</p>
 <img title="A leaf covered in blacky, powdery fungus known as sooty mould. Photo by Jacqueline Chua" src="/images/Plant%20problems/SootyMold_JacChua.jpg">	
 <p>Like Mealy Bugs, Aphids produce honeydew, a sweet waste fluid while feeding, which attracts ants. As a result, ants may guard and care for groups of aphids, which is how they got the common name of ant cow. Large clusters of ants can thus be indicative of an aphid infestation! Honeydew on plants also encourages the growth of sooty mould, which you are more likely to see before you spot aphids on your plants.</p>
-		<img title="Aphids clustered on the stem of a mint plant. Photo by Victoria Lim" src="/images/Biodiversity/aphids%20-%20mentha%201victorialim.jpg">
+		<img title="Green aphids clustered on the stem of a mint plant. Photo by Victoria Lim" src="/images/Biodiversity/aphids%20-%20mentha%201victorialim.jpg">
 <p>Aphids generally do not cause a lot of damage when caught early. However, if left unattended, aphids will eventually weaken your plant, causing stunted growth, fruit deformities or even death. They also spread many viral plant diseases as they travel plant to plant to reproduce.</p>
 <br>
 	</section>
@@ -30,7 +30,7 @@ image: ""
 
 <ul>
 	<li>Infested leaves and stems tend to curl downwards. Developing fruits may become distorted in shape.</li>
-	<li>Leaves, stems and fruits appear sticky, and can become covered in sooty mold.</li>
+	<li>Leaves, stems and fruits appear sticky, and can become covered in sooty mould.</li>
 	<li>Ants are seen crawling around leaves and stems in large numbers. </li>
 </ul>
 
