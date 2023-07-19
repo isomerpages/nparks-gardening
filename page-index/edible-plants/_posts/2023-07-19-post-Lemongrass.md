@@ -18,8 +18,10 @@ image: ""
 <section>
 	<img title="Photo by Jacqueline Chua." src="/images/Plants/Lemongrass_JacChua.jpg">
 	
-<p>Laksa is an aromatic herb that is used to flavour soups and is the most important spice in its namesake dish. It is highly tolerant of heat and heavy rain, making it an easy herb for most gardeners to grow in Singapore. </p>
-<p>Laksa plants are typically treated as annual crops as older plants tend to get leggy and untidy. However, they can also be kept as perennials if they are hard pruned regularly. </p>       
+<p>Lemongrass is a large aromatic herb that grows in a grass-like clump. Oil is extracted from the stem to flavour drinks, desserts, and soups. The oils are also used as a scent for perfumes, candles, and aromatherapy products. </p>
+<p>Lemongrass is a perennial crop that readily grows in most gardens with full sunlight. Due to its large size, and rapid growth, it is recommended to plant it in true ground. </p>
+<p>Because lemongrass grows so rapidly, its leaves can be harvested to make mulch, or the plant can be used as a groundcover for low maintenance beds. </p>
+<p>As a strong-smelling herb, it can also be used for companion planting to discourage pests.</p>       
 	<br>
 </section>
 
