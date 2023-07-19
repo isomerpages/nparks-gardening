@@ -57,7 +57,7 @@ Bottom watering<br>
 Cloche<br>
 Companion planting<br>
 Composting<br>
-Cut and come again harvesting<br>
+<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/cut-and-come-again/">Cut and come again harvesting</a><br>
 	 <br><br>
 </section>
 
@@ -79,7 +79,7 @@ Fertilising<br>
 
 <section>
 <h4 id="g">g</h4>
-Gauging light<br>
+<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/gauging-light/">Gauging light</a><br>
 Grow lights<br>
 Growing edibles for consumption<br>
 <br><br>
