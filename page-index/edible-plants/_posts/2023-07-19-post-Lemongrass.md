@@ -39,7 +39,9 @@ image: ""
 
 <section>
 	<h4>Harvesting:</h4>
-<p>Plants can be harvested for leaves at any time. They are typically harvested continuously via the cut-and-come-again method. Regular harvesting via hard pruning will encourage bushiness and keep the plant productive.</p>
+<p>Plants can be harvested for stems and leaves at any time. Stems can be harvested by being cut at the base of the plant, or by twisting and pulling.</p>
+<p>Leaves can be cut at any time for use as mulch. </p>
+<p>Take note that the leaves have sharp edges and may cause skin irritation and cuts. Use arm sleeves and gloved when maintaining Lemongrass plants for safety.</p>
 	<br>
 </section>
 
