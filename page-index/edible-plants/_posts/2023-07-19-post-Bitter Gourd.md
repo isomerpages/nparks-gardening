@@ -59,6 +59,7 @@ image: ""
 
 <section>
 	<h4>Harvesting:</h4>
+<img src="/images/Plants/Bittergourd%20(5).jpg">
 <p>Plants can be harvested for immature fruits around 4 months after sowing. The best time to harvest the fruit is in the early morning, before 9am.</p>
 <p>The plant will continuously produce fruit for about 6 months to a year before declining. </p>
 <br>
