@@ -57,7 +57,7 @@ Belimbling <br>
 Bitter Gourd <br>
 Bottle Gourd <br>
 Brinjal <br>
-Butterfly pea <br>
+	<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com//page-index/edible-plants/butterfly-pea/">Butterfly pea</a><br>
 	 <br><br>
 </section>
 
@@ -132,7 +132,7 @@ Kedongdong<br>
 Lady's finger<br>
 Laksa<br>
 Lemongrass<br>
-Lettuce<br>
+	<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/lettuce/">Lettuce</a><br>
 Limau Purut<br>
 Lime<br>
 Long bean<br>
