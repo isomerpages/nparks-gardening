@@ -38,7 +38,6 @@ image: ""
 <p>Sow seeds individually in a seedling tray filled with potting mix or seedling mix. Lightly mist the soil until damp, once a day. Seeds should sprout within a week.</p>
 	
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/x7J87wY7U6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
-	<br>
 
 <p>The seedlings will be vulnerable to high heat and heavy rain and are best kept in a sheltered propagation area or a shaded space with around 4 hours of partial or direct sunlight. </p>
 	<br>
@@ -47,11 +46,10 @@ image: ""
 <section>
 	<h4>Transplanting:</h4>
 <p>Seedlings will be ready for transplanting into pots or true ground when they have developed 4 or more leaves, or roughly a week or two after germination. Leave 10-20cm between each plant to encourage more growth, better ventilation, and prevent etiolation. </p>
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/lItBHYjyrKg" height="415" width="100%"></iframe>
-	</section>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/lItBHYjyrKg" height="415" width="100%"></iframe><br><br>
+</section>
 	
 <section>
-	<br>
 	<h4>Growing:</h4>
 <p>Kai Lan is a rapid grower and will produce more leaves and thicker stems if fed with high nitrogen fertilisers. Plants can be fertilised regularly the week after transplanting for a fuller crop. </p>
 	<br>
