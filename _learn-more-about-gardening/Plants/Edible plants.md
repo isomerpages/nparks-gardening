@@ -55,7 +55,7 @@ Arrowroot <br>
 Bangkuang <br>
 	<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/bayam/">Bayam</a><br>
 Belimbling <br>
-Bitter Gourd <br>
+<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/bitter-gourd/">Bitter Gourd</a><br>
 Bottle Gourd <br>
 Brinjal <br>
 	<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/butterfly-pea/">Butterfly pea</a><br>
