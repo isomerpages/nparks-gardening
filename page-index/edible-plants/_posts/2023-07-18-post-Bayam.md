@@ -54,9 +54,9 @@ image: ""
 <p>Plants can be harvested for leaves at any time, with younger leaves being the most tender. However, the leaves will become tough as they get older. Most gardeners will harvest their crop around 3 weeks after sowing.</p>
 <p>The whole plant can be harvested once by cutting the stalk at the base or multiple times by harvesting the young, tender stems from the top as per the cut-and-come-again method.</p>
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/f_Uoug7ZSeg" height="415" width="100%"></iframe><br>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/f_Uoug7ZSeg" height="415" width="100%"></iframe><br><br>
 	
-		<img src="/images/Plants/Bayam_JacChua.jpg">
+<img src="/images/Plants/Bayam_JacChua.jpg">
 <p>Bayam will start to flower after a few months or so. The flowers can be self-pollinated and will form brown seed capsules. Dry, brown seed pods are mature, and can be harvested for seeds to plant.</p>
 	<br>
 </section>
