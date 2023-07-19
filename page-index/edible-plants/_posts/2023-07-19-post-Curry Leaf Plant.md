@@ -59,9 +59,8 @@ image: ""
 
 <section>
 	<h4>Common problems &amp; solutions:</h4>
-	<p>This plant is relatively resistant to pests and disease if kept healthy.</p>
-<p>Aphids, mealy bugs, and spider mites often infest the plant if it is sickly or overgrown. Prune off the infested parts, or apply horticultural oils like neem oil and white summer oil to suffocate the remaining pests. Regularly prune the plant to allow light and air to reach throughout the plant, and check the plant for underlying problems like root rot, lack of sunlight, and nutrient deficiencies.</p>
-<p>This plant is prone to rust and fungal diseases during the wet season. Prune the plant regularly to increase airflow, and remove heavily affected leaves.</p>
-<p>Wilting may occur during periods of hot weather or from the lack of watering. Regular wilting will stunt plant growth. Increase the number of times a plant is watered, or use mulch to retain moisture in the soil.</p>
+	<p>Like most strong-smelling herbs, this plant is relatively resistant to pests and disease if kept healthy.</p>
+<p>This plant is vulnerable to fungal diseases that form leaf spots during the wet season or when the plant is overgrown. Increase air circulation with regular pruning and remove affected leaves to reduce the spread.</p>
+<p>Aphids, may infest the plant if it is sickly or overgrown. Prune off the infested parts, or apply horticultural oils like neem oil and white summer oil to suffocate the remaining pests. Regularly prune the plant to allow light and air to reach throughout the plant, and check the plant for underlying problems like root rot, lack of sunlight, and nutrient deficiencies.</p>
 <br>
 </section>
