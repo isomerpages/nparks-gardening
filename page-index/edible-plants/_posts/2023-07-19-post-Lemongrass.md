@@ -27,7 +27,7 @@ image: ""
 
 <section>
 	<h4>Environmental needs:</h4>
-<p>Laksa thrives in 4-6 hours of direct sunlight, but plants can also tolerate about 6-8 hours of indirect sunlight. Plants do best in moist, well-drained soil at least 15cm deep, making them suitable for container planting and corridor gardening. These plants can tolerate waterlogging and can be planted in garden areas prone to ponding. Keep your plants cool with mulch and plenty of water to encourage growth.</p>
+<p>Lemongrass flourishes in 6-8 hours of direct sunlight. Plants do best in sandy, well-drained soil at least 15cm deep, making them suitable for container gardening, but the diameter of the pot will greatly limit the size of the plant. Take note that Lemongrass can grow up to 1.2m tall, and that larger pots of at least 20cm width will be needed for the plant to grow offshoots. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of organic matter and grit to let the roots breathe. </p>
 	<br>
 	</section>
 
