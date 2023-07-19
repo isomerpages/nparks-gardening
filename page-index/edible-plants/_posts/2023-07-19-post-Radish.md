@@ -16,7 +16,7 @@ image: ""
 </section>
 
 <section>
-	<img title="Loose-leaf lettuce. Photo by Jacqueline Chua." src="/images/Plants/Radish_JacChua%20(1).jpg">
+	<img title="Photo by Jacqueline Chua." src="/images/Plants/Radish_JacChua%20(1).jpg">
 	
 <p>Radishes are a popular root vegetable that is eaten raw, steamed, in soup or in sauces. Both the fleshy root and the leaves are edible and have a slightly spicy taste. </p>
 <p>An annual crop, this plant is often grown and consumed under 2 months. Its rapid harvest cycle makes it useful for crop rotation.</p>
@@ -26,7 +26,7 @@ image: ""
 
 <section>
 	<h4>Environmental needs:</h4>
-		<img title="Red and green loose-leaf lettuce grown in pots. Photo by Jacqueline Chua." src="/images/Horti%20techniques/ContainerPlanting_JacChua%20(3).jpg">
+		<img title="Photo by Jacqueline Chua." src="/images/Plants/Radish_JacChua%20(4).jpg">
 <p>As with most vegetables, Radishes need about 4-6 hours of direct sunlight. They can also grow in at least 6 hours of indirect sunlight, but may produce smaller leaves and roots. Plants do best in moist, well-drained soil at least 15cm deep, making them suitable for container gardening. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe. High organic matter content also makes the soil soft, encouraging more root growth and larger roots overall. </p>
 	<br>
 	</section>
