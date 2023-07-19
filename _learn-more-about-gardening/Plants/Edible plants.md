@@ -187,9 +187,9 @@ Smooth Loofah<br>
 Snake Gourd<br>
 Soursop<br>
 Spearmint<br>
-Sunflowers<br>
+	<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/sunflower/">Sunflowers</a><br>
 Surinam Purslane<br>
-Sweet potato<br>
+	<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/sweet-potato/">Sweet potato</a><br>
 Sword bean<br>
 <br><br>
 </section>
@@ -198,7 +198,7 @@ Sword bean<br>
 <h4 id="t">t</h4>
 Tapioca<br>
 Taro<br>
-Thai Basil<br>
+	<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/thai-basil/">Thai Basil</a><br>
 Tomato<br>
 Tonkin Jasmine<br>
 Torch ginger<br>
