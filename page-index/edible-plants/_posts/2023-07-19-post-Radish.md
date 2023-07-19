@@ -11,7 +11,7 @@ image: ""
 </header>
 	
 <section>
-	<p><strong>Other common names:</strong> 生菜, 叶用莴苣, 玻璃菜</p>
+	<p><strong>Other common names:</strong> 萝卜, 白萝卜，Lobak</p>
 	<br>
 </section>
 
