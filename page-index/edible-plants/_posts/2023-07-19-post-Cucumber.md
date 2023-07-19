@@ -85,9 +85,9 @@ Allowing the fruit to sit in water can cause rotting. Keep the underside dry by 
 			<tr>
 				<th style="border-right:solid 1px;">Approximate time</th>
 				<td style="border-right:solid 1px;">2 weeks or less</td>
-				<td style="border-right:solid 1px;">2 weeks or less</td>
-				<td style="border-right:solid 1px;">2 to 3 months</td>
-				<td style="border-left:solid 1px;">2 to 3 months</td>
+				<td style="border-right:solid 1px;">2 to 3 weeks</td>
+				<td style="border-right:solid 1px;">1 to 2 months</td>
+				<td style="border-left:solid 1px;">3 months</td>
 			</tr>
 		</tbody>
 	</table>
