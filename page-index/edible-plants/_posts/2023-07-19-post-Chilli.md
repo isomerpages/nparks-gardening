@@ -72,6 +72,9 @@ Chilli fruits can be left to ripen and dry on the plant. Dry Chillies can be har
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/FuWK90da0GY" height="415" width="100%"></iframe>
 <br><br>
+	
+<p>Chillies are hot because they produce capsaicin oil, which can cause skin irritation. Very hot varieties like the Carolina Reaper and Ghost pepper can cause acute pain if handled carelessly. Use gloves while harvesting fruits and avoid touching your face when handling Chillies.</p>
+<br>
 </section>
 
 <section>
@@ -89,10 +92,10 @@ Chilli fruits can be left to ripen and dry on the plant. Dry Chillies can be har
 		<tbody>
 			<tr>
 				<th style="border-right:solid 1px;">Approximate time</th>
-				<td style="border-right:solid 1px;">A week or less</td>
+				<td style="border-right:solid 1px;">1 to 3 weeks</td>
 				<td style="border-right:solid 1px;">2 to 3 weeks</td>
-				<td style="border-right:solid 1px;">2 to 3 weeks</td>
-				<td style="border-left:solid 1px;">A month to a month and a half</td>
+				<td style="border-right:solid 1px;">2 to 3 months</td>
+				<td style="border-left:solid 1px;">3 to 4 months</td>
 			</tr>
 		</tbody>
 	</table>
