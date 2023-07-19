@@ -18,10 +18,9 @@ image: ""
 <section>
 	<img title="Photo by Jacqueline Chua." src="/images/Plants/Cucumber_JacChua.jpg">
 	
-<p>Tomatoes are a popular crop grown in home and Community Gardens and are often considered one of the most desirable crops for new gardeners to try. There are many Tomato cultivars, with the most common varieties seen in Singapore being heat-tolerant cherry tomato varieties. Tomatoes are usually red but can also come in other colours like yellow or pink, and range in shape and size depending on the cultivar.</p>
-<p>Ripe Tomatoes can be eaten raw, in soup, roasted or made into sauces.</p>
-<p>As an annual crop, these plants do well as part of scheduled crop rotation.</p>
-<p>This plant is part of the Solanum or Nightshade family, which includes other popular edible fruits like Brinjals and Chillies.</p>
+<p>Cucumbers are a classic fruit eaten raw, in stews or preserved. They come in many cultivars with oblong fruits that range from small and green to large and yellow. Most varieties, particularly the ones eaten raw for salads, should be harvested when they are immature and not bitter .</p>
+<p>An annual crop, these plants are often grown in rotation with other fruiting climbers. </p>
+<p>This plant is part of the Cucurbita or Melon family, which includes other popular edible fruits like Bitter Gourd, Winter melon, and Pumpkin.</p>
 	<br>
 </section>
 
