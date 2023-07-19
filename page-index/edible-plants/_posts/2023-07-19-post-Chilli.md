@@ -18,9 +18,9 @@ image: ""
 <section>
 	<img title="Chilli. Photo by Jacqueline Chua." src="/images/Plants/Chilli_JacChua.jpg">
 	
-<p>One of the most recognisable leafy vegetables, lettuces come in a variety of shapes and colours, with flat-leaved, curly, green, and red cultivars serving as exciting options for the edible gardener. Loose-leaf lettuces do better in the tropics and can be grown in both pots and true ground. Head lettuce is difficult to grow outdoors in Singapore due to the heat and humidity, which tends to cause the tightly bunched leaves to rot.</p>
-	<p>An annual crop, this plant is often grown and consumed under 2 months. Its rapid harvest cycle makes it useful for crop rotation.</p>
-  <p>Due to its shallow root system, these plants are a popular choice for container gardening and corridor gardening.</p>
+<p>Chillies are an essential plant in most edible gardens across South and Southeast Asia, and are famous for adding a spicy kick to sauces, stews, salads, and more! There are a wide variety of Chilli cultivars, with fruit that vary wildly in colour, shape, and size. </p>
+<p>Most varieties of Chilli can be grown as a perennial crop in Singapore.  Most small varieties of chilli can also be grown in pots. </p>
+<p>This plant is part of the Solanum or Nightshade family, which includes other popular edible fruits like Brinjals and Tomatoes.</p>
 	<br>
 </section>
 
