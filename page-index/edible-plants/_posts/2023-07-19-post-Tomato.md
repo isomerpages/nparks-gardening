@@ -18,9 +18,10 @@ image: ""
 <section>
 	<img style="height:390px; width:520px" src="/images/Plants/Lettuce_JacChua%20(3).jpg">
 	
-<p>One of the most recognisable leafy vegetables, lettuces come in a variety of shapes and colours, with flat-leaved, curly, green, and red cultivars serving as exciting options for the edible gardener. Loose-leaf lettuces do better in the tropics and can be grown in both pots and true ground. Head lettuce is difficult to grow outdoors in Singapore due to the heat and humidity, which tends to cause the tightly bunched leaves to rot.</p>
-	<p>An annual crop, this plant is often grown and consumed under 2 months. Its rapid harvest cycle makes it useful for crop rotation.</p>
-  <p>Due to its shallow root system, these plants are a popular choice for container gardening and corridor gardening.</p>
+<p>Tomatoes are a popular crop grown in home and Community Gardens and are often considered one of the most desirable crops for new gardeners to try. There are many Tomato cultivars, with the most common varieties seen in Singapore being heat-tolerant cherry tomato varieties. Tomatoes are usually red but can also come in other colours like yellow or pink, and range in shape and size depending on the cultivar.</p>
+<p>Ripe Tomatoes can be eaten raw, in soup, roasted or made into sauces.</p>
+<p>As an annual crop, these plants do well as part of scheduled crop rotation.</p>
+<p>This plant is part of the Solanum or Nightshade family, which includes other popular edible fruits like Brinjals and Chillies.</p>
 	<br>
 </section>
 
