@@ -34,26 +34,20 @@ image: ""
 
 <section>
   <h4>Sowing seeds:</h4>
-<p>Seeds can be sown directly into pots or the ground around 30cm apart. Lightly water the soil until damp, once a day. Seeds should sprout within a week.</p>
-	
-<iframe width="100%" height="415" src="https://www.youtube.com/embed/x7J87wY7U6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
-
-<p>The seedlings will be vulnerable to high heat and heavy rain and are best kept under netting in a or a shaded space with around 4 hours of partial or direct sunlight. </p>
-<p>The seeds and seedlings may be vulnerable to being eaten by snails or birds. Protect your young plants with a DIY cloche or netting. </p>
+<p>Seeds can be sown directly into pots or the ground around 30cm-1m apart. Lightly water the soil until damp, once a day. Seeds should sprout around two weeks.</p>
 <br>
 </section>
 
 <section>
 	<h4>Growing:</h4>
-	<p>Once the plants are roughly 15cm tall, they can be exposed to full sunlight conditions. </p>
-<p>Sunflowers grow rapidly and can be fed with fertilisers high in Phosphorus and Potassium. Plants can be fertilised regularly a month after germination to encourage stronger root and flower growth. </p>
+	<p>Curry trees are rapid growers and will need regular pruning to be maintained at manageable height. Because they already grow rapidly, they generally do not require fertilising, but a use of a high nitrogen fertiliser after hard pruning will encourage the plant to bounce back quickly. </p>
 <br>
 </section>
 
 <section>
 	<h4>Harvesting:</h4>
-<p>This plant can be grown as a microgreen. Microgreens can be harvested the week after they sprout.</p>
-<p>Sunflower heads can be harvested for seeds when the flower heads have drooped down, and the seeds have turned dark and hard. You can test whether they are ready for harvest by pulling out some seeds before cutting the entire sunflower head.</p>
+<p>Plants can be harvested for leaves at any time. Regular harvesting will encourage bushier growth and will keep the plant at a manageable height. </p>
+<p>Mature, black fruits can be harvested for seeds. Sow seeds from ripe fruit immediately after harvesting as they tend to rot quickly.</p>
 	<br>
 </section>
 
