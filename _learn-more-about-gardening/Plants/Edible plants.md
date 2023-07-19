@@ -135,7 +135,7 @@ Kale<br>
 <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/lemongrass/">Lemongrass</a><br>
 <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/lettuce/">Lettuce</a><br>
 Limau Purut<br>
-Lime<br>
+<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/lime/">Lime</a><br>
 Long bean<br>
 Longevity Spinach<br>
 <br><br>
