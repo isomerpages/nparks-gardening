@@ -18,27 +18,28 @@ image: ""
 <section>
 	<img style="height:390px; width:520px" src="/images/Plants/ThaiBasil_JacChua%20(1).jpg">
 	
-<p>One of the most recognisable leafy vegetables, lettuces come in a variety of shapes and colours, with flat-leaved, curly, green, and red cultivars serving as exciting options for the edible gardener. Loose-leaf lettuces do better in the tropics and can be grown in both pots and true ground. Head lettuce is difficult to grow outdoors in Singapore due to the heat and humidity, which tends to cause the tightly bunched leaves to rot.</p>
-	<p>An annual crop, this plant is often grown and consumed under 2 months. Its rapid harvest cycle makes it useful for crop rotation.</p>
-  <p>Due to its shallow root system, these plants are a popular choice for container gardening and corridor gardening.</p>
+<p>Thai basil is a staple herb in many Southeast Asian gardens, and thrives in tropical climates. Thai basil leaves and flowers are harvested for salads, sauces, soups and stir-fries for many Thai and Vietnamese dishes.</p>
+<p>Thai Basil plants are typically treated as annual crops due to their rapid flowering, but they can also be kept as perennials if their flowers are pruned before they can set seed.</p>
+<p>Thai Basils are part of the Lamiaceae or Mint family, which includes other popular herbs like Indian Borage, and Spearmint.</p>
 	<br>
 </section>
 
 <section>
 	<h4>Environmental needs:</h4>
 		<img style="height:390px; width:520px" src="/images/Horti%20techniques/ContainerPlanting_JacChua%20(3).jpg">
-<p>Lettuce does best in more than 6 or more hours of indirect sunlight, or around 4-5 hours of direct sunlight. Plants do best in moist, well-drained soil at least 10cm deep, making them suitable for container gardening. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe. Keep your plants cool with mulch and plenty of water to encourage growth. </p>
+<p>Thai Basil thrives in 4-6 hours of direct sunlight, but plants can also tolerate about 6-8 hours of indirect sunlight. Plants do best in moist, well-drained soil at least 15cm deep, making them suitable for container gardening, and corridor gardening. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe. Keep your plants cool with mulch and plenty of water to encourage growth.</p>
 	<br>
 	</section>
 
 <section>
   <h4>Sowing seeds:</h4>
-<p>Sow seeds individually in a seedling tray filled with potting mix or seedling mix. Lightly mist the soil until damp, once a day. Seeds should sprout within a week.</p>
+<p>Sow seeds individually in a seedling tray filled with potting mix or seedling mix. Lightly mist the soil until damp, once a day. Seeds should sprout within two weeks.</p>
 	
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/x7J87wY7U6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
 	<br>
 
 <p>The seedlings will be vulnerable to high heat and heavy rain and are best kept in a sheltered propagation area or a shaded space with around 4 hours of partial or direct sunlight. </p>
+<p>Seeds can also be sown directly into pots or the ground around 15cm apart. Lightly water the soil until damp, once a day. Seeds should sprout within a week.</p>
 	<br>
 </section>
 
