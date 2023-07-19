@@ -131,7 +131,7 @@ Kale<br>
 <section>
 <h4 id="l">l</h4>
 <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/ladys-finger/">Lady's Finger</a><br>
-Laksa<br>
+<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/laksa/">Laksa</a><br>
 Lemongrass<br>
 <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/lettuce/">Lettuce</a><br>
 Limau Purut<br>
