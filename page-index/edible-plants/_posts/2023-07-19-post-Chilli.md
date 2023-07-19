@@ -106,14 +106,17 @@ Chilli fruits can be left to ripen and dry on the plant. Dry Chillies can be har
 
 <section>
 	<h4>Propagation:</h4>
-	<p>Lettuce is primarily grown from seeds. </p>
+	<p>Chillies are grown from seed. </p>
 	<br>
 </section>
 
 <section>
 	<h4>Common problems &amp; solutions:</h4>
-<p>Caterpillars, usually from the Diamondback moth and Tussock moth, can rapidly eat all the leaves of your plant. If your plant has lots of large holes and small brown or black poo pellets scattered around damaged leaves, you likely have a caterpillar infestation. Manually remove the caterpillars by hand and protect your plants with netting.</p>
-<p>Leaf miners are fly larvae that eat the leaves from the inside, leaving white lines or patches in their wake. Manually remove damaged leaves and use fine mesh netting to stop the adult flies from laying eggs on the plant again.</p>
-<p>Etiolation is characterised by plants growing long and skinny, with weak stems and small leaves. The plants may also sometimes look yellowish. Plants etiolate when they do not get enough sunlight, which results in slow growth and untidy forms. To prevent this, grow plants in environments with enough light for them and make sure that each plant has enough space to prevent overcrowding.</p>
+<p>If your plant has little to no flowers, you try fertilising the plant with fertilisers high in Phosphorus and Potassium. These nutrients encourage root and flower growth, which are important for the plant to produce more fruit.</p>
+<p>Many plants require pollinators to help them fruit. Bees, butterflies, birds and even beetles transport pollen from one flower to another, pollinating your crops and increasing their fruit yield. Attract some pollinators to your garden by growing pollinator-attracting crops, or become a pollinator yourself by hand-pollinating your plants. </p>
+<p>Aphids, mealy bugs, and spider mites often infest the plant if it is sickly or overgrown. Prune off the infested parts, or apply horticultural oils like neem oil and white summer oil to suffocate the remaining pests. Regularly prune the plant to allow light and air to reach throughout the plant, and check the plant for underlying problems like root rot, lack of sunlight, and nutrient deficiencies. </p>
+<p>Fruit flies can lay eggs in the fruit, resulting in larvae damaging the fruit and creating spots on the skin. Wrap your fruit in netting when it starts to develop from a fertilised flower, ideally after all the petals have dropped off. </p>
+<p>Wilting leaves during hot weather is a sign of heat stress. Increase the number of times the plant is watered daily, and apply mulch at the base to prevent water loss. </p>
+<p>These plants can get blossom end rot, which shows up as dark, sunken blotches at the end of fruits. It is a symptom of a lack of calcium reaching the fruit, which is usually caused by a lack of water or inconsistent watering. Keep your soil moist but not waterlogged and take care to water more often during the dry season.</p>
 <br>
 </section>
