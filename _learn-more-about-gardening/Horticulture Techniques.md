@@ -53,7 +53,7 @@ Bottom watering<br>
 
 <section>
 <h4 id="c">c</h4>
-Choosing plants<br>
+<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/choosingplants/">Choosing plants</a><br>
 Cloche<br>
 Companion planting<br>
 Composting<br>
