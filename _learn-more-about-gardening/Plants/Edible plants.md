@@ -4,6 +4,36 @@ permalink: /learn-more-about-gardening/plants/edibleplants/
 description: ""
 third_nav_title: Plants
 ---
+<style>
+	  		#back-to-top {
+			display: none;
+			position: fixed;
+			bottom: 20px;
+			right: 20px;
+			z-index: 99;
+			font-size: 18px;
+			background-color: #333;
+			color: #fff;
+			border: none;
+			outline: none;
+			cursor: pointer;
+			padding: 15px;
+			border-radius: 50%;
+		}
+
+		#back-to-top:hover {
+			background-color: #555;
+		}
+
+		html:not(:target) #back-to-top {
+			display: none;
+		}
+
+		html:target #back-to-top {
+			display: block;
+		}
+</style>
+
 Click on an alphabet to find a plant by its common name!
 <table>
 	<tbody>
@@ -241,3 +271,6 @@ Xiao Bai Cai<br>
 <h4 id="z">z</h4>
 	<br><br>
 	</section>
+	
+<a id="top"></a>
+	<button title="Go to top" href="#top" id="back-to-top">↑</button>
