@@ -18,47 +18,39 @@ image: ""
 <section>
 	<img src="/images/Plants/Brinjal_JacChua%20(2).jpg">
 	
-<p>Tomatoes are a popular crop grown in home and Community Gardens and are often considered one of the most desirable crops for new gardeners to try. There are many Tomato cultivars, with the most common varieties seen in Singapore being heat-tolerant cherry tomato varieties. Tomatoes are usually red but can also come in other colours like yellow or pink, and range in shape and size depending on the cultivar.</p>
-<p>Ripe Tomatoes can be eaten raw, in soup, roasted or made into sauces.</p>
-<p>As an annual crop, these plants do well as part of scheduled crop rotation.</p>
-<p>This plant is part of the Solanum or Nightshade family, which includes other popular edible fruits like Brinjals and Chillies.</p>
+<p>Brinjals are one of the most common crops you see in Community Gardens in Singapore as they can grow quickly into productive bushes and are relatively pest resistant. With a wide variety of cultivars, brinjals come in colours ranging from dark purple to white and even yellow, and can be round, egg-shaped, or oblong. The fruits are eaten while they are immature, and can be roasted, stewed, or made into sauces.</p>
+<p>A perennial crop, these plants are a popular mainstay in edible gardens of all sizes. Eggplants in true ground can produce fruit for a few years, while those in pots and can produce fruit for more than a year if cared for properly.</p>
+<p>This plant is part of the Solanum or Nightshade family, which includes other popular edible fruits like Tomatoes and Chillies.</p>
 	<br>
 </section>
 
 <section>
 	<h4>Environmental needs:</h4>
-		<img src="/images/Plants/Tomato_JacChua%20(3).jpg">
+		<img src="/images/Plants/Brinjal_JacChua%20(1).jpg">
 <p>This vine does best in full sun gardens with a minimum of 6 hours of direct sunlight. This plant can also grow with 4-5 hours of direct sunlight and at least 6 hours of indirect sunlight, but will produce less fruits.</p>
 <p>Plants do best in moist, well-drained soil at least 15cm deep, or in true ground.</p>
 	
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/eGBg_S8yj0U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
 	
-<p>Depending on the cultivar, tomatoes can grow as a vine (indeterminate) or as a small shrub (determinate). Vining varieties will need stakes or a trellis to support their growth.</p>
 <p>As with all members of the Nightshade family, this plant is buzz pollinated and produces the most fruit when bees are around to pollinate it. Growing more bee-attracting plants within the garden will encourage pollination. It can be hand-pollinated, but the success rate is generally lower. </p>
-<p>These plants can get blossom end rot, which shows up as dark, sunken blotches at the end of fruits. It is a symptom of a lack of calcium reaching the fruit, which is usually caused by a lack of water or inconsistent watering. Keep your soil moist but not waterlogged and take care to water more often during the dry season. </p>
+<p>These plants can get blossom end rot, which shows up as dark, sunken blotches at the end of fruits. It is a symptom of a lack of calcium reaching the fruit, which is usually caused by a lack of water or inconsistent watering. Keep your soil moist but not waterlogged and take care to water more often during the dry season.</p>
 <br>
 </section>
 
 <section>
   <h4>Sowing seeds:</h4>
-<p>Sow seeds individually in a seedling tray filled with potting mix or seedling mix. Lightly mist the soil until damp, once a day. Seeds should sprout within two weeks.</p>
+<p>Seeds can be sown directly into pots or the ground around 15-30cm apart. Lightly water the soil until damp, once a day. Seeds should sprout within two weeks. </p>
 	
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/x7J87wY7U6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
 
-<p>The seedlings will be vulnerable to high heat and heavy rain and are best kept in a sheltered propagation area or a shaded space with around 4 hours of partial or direct sunlight. </p>
+<p>The seedlings are generally resilient to most environmental factors but may be vulnerable to being eaten by snails or birds. Protect your young plants with a DIY cloche or netting.</p>
 	<br>
 </section>
 
 <section>
-	<h4>Transplanting:</h4>
-<p>Seedlings will be ready for transplanting into pots or true ground when they have developed 4 or more leaves, or roughly a week or two after germination. Leave 15-30cm between each plant to encourage more growth and better ventilation. </p>
-<br>
-	</section>
-	
-<section>
 	<h4>Growing:</h4>
-<p>Tomatoes will produce more flowers and thus more fruit when fed with fertilisers high in Phosphorus and Potassium. Plants can be fertilised regularly a month after germination for a fuller crop. </p>
-<p>For both vining and shrub varieties, it is a good practice to prune regularly and remove dead leaves and stems to improve ventilation and allow light to reach more of the plant. Regular pruning also decreases the likelihood of pests quickly taking over the plant. Suckers can be removed as part of regular pruning and propagated via divison.</p>
+<p>Brinjals will produce more flowers and thus more fruit when fed with fertilisers high in Phosphorus and Potassium. Plants can be fertilised regularly a month after germination for a fuller crop. </p>
+<p>This plant grows as a small shrub, producing large leaves on a few branches. It is a good practice to prune regularly and remove dead leaves to improve ventilation and allow light to reach more of the plant. </p>
 	<br>
 </section>
 
