@@ -26,7 +26,7 @@ image: ""
 
 <section>
 	<h4>Environmental needs:</h4>
-		<img src="/images/Horti%20techniques/ContainerPlanting_JacChua%20(3).jpg">
+		<img src="/images/Plants/ThaiBasil_JacChua%20(3).jpg">
 <p>Thai Basil thrives in 4-6 hours of direct sunlight, but plants can also tolerate about 6-8 hours of indirect sunlight. Plants do best in moist, well-drained soil at least 15cm deep, making them suitable for container gardening, and corridor gardening. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe. Keep your plants cool with mulch and plenty of water to encourage growth.</p>
 	<br>
 	</section>
@@ -49,7 +49,6 @@ image: ""
 	</section>
 	
 <section>
-	<br>
 	<h4>Growing:</h4>
 <p>Thai Basil plants grow rapidly, especially with regular harvesting and the use of high nitrogen fertilisers will encourage the plant to grow more leaves. Plants can be fertilised once every two weeks after transplanting, or after hard pruning.</p>
 <p>Thai basil plants will die after setting seed. Prolong your harvest by pinching off flowers when they appear.
