@@ -57,11 +57,9 @@ Because the vines will grow on top of each other, it is a good practice to prune
 
 <section>
 	<h4>Harvesting:</h4>
-<p>Plants can be harvested for fruits around three months after sowing. The best time to harvest the fruit is in the early morning, before 9am. </p>
-<p>Cucumbers meant to be eaten raw are best harvested when immature. Immature fruits are dark green and are best harvested after most of the spines have smoothened out. Take note that some cucumber varieties (like Japanese Cucumbers) never truly lose their spines and need to be smoothened out or peeled to be safely eaten.</p>
-<p>Ripe fruits are yellowish or fully yellow and tend to be bitter. Some varieties, like the Old Cucumber used for soups, are harvested ripe.</p>
-<p>Regularly harvest the mature and immature fruit to encourage the plant to keep producing. </p>
-<p>The plant will continuously produce fruit for about 6 months to a year before declining.</p>
+<p>Plants can be harvested for fruits around 2 months after sowing. The best time to harvest the fruit is in the early morning, before 9am. </p>
+<p>Only green, immature beans can be eaten. Dry, brown pods are mature, and can be used for seeds.
+</p>
 	
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/eGBg_S8yj0U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
 <br>
