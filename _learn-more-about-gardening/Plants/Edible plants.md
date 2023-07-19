@@ -4,36 +4,6 @@ permalink: /learn-more-about-gardening/plants/edibleplants/
 description: ""
 third_nav_title: Plants
 ---
-<style>
-      .float-buttons {
-        position: fixed;
-        bottom: 20px;
-        z-index: 99;
-        background-color: #333;
-        color: #fff;
-        border: none;
-        padding: 10px;
-        font-size: 16px;
-        cursor: pointer;
-      }
-    
-      .float-buttons:hover {
-        background-color: #555;
-      }
-    
-      .left {
-        left: 20px;
-      }
-    
-      .right {
-        right: 20px;
-      }
-    
-      .float-buttons + .float-buttons {
-        bottom: calc(20px + 50px); /* Adjust the value to match the height of your existing floating buttons */
-      }
-</style>
-
 Click on an alphabet to find a plant by its common name!
 <a id="top"></a>
 <table>
@@ -273,5 +243,9 @@ Xiao Bai Cai<br>
 <h4 id="z">z</h4>
 	<br><br>
 	</section>
-	
-  <a class="float-buttons left" href="#top">↑back up</a>
+
+<div class="float-buttons">
+	<div style="position:relative;" class="inner-wrapper-sticky">
+  <a style="text-decoration:none" class="float-buttons left" href="#top">↑back to top</a>
+	</div>
+	</div>
