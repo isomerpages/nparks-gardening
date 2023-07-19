@@ -199,7 +199,7 @@ Sword bean<br>
 Tapioca<br>
 Taro<br>
 	<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/thai-basil/">Thai Basil</a><br>
-Tomato<br>
+	<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/tomato/">Tomato</a><br>
 Tonkin Jasmine<br>
 Torch ginger<br>
 Turmeric<br>
