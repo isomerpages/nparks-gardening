@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Gardening.Sg
+title: GardeningSg
 description: One-stop Gardening Portal for Gardeners in Singapore!
 image: /images/isomer-logo.svg
 permalink: /
