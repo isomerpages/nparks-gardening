@@ -23,8 +23,8 @@ description: ""
 			<a class="button-primary" href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/digital-tools/soilcalculator/">Try it now!</a>
       </div>
 		<div class="col">
-			<h4>Basic skills</h4>
-			image<br>
+			<h4>Basic gardening skills</h4>
+	      <img style="height:150px; width:200px" src="/images/Landing_page/Gardening101/secateurs.png">
 			blurb<br><br>
 			<a class="button-primary" href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/digital-tools/soilcalculator/">Try it now!</a>
       </div>
