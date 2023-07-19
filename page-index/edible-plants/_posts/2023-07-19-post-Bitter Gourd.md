@@ -41,31 +41,28 @@ image: ""
 
 <section>
   <h4>Sowing seeds:</h4>
-<p>Sow seeds individually in a seedling tray filled with potting mix or seedling mix. Lightly mist the soil until damp, once a day. Seeds should sprout within two weeks.</p>
+<p>Seeds can be sown directly into pots or the ground around 15-30cm apart. Lightly water the soil until damp, once a day. Seeds should sprout within 2 weeks.</p>
 	
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/x7J87wY7U6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
 
-<p>The seedlings will be vulnerable to high heat and heavy rain and are best kept in a sheltered propagation area or a shaded space with around 4 hours of partial or direct sunlight. </p>
+<p>The seedlings are generally resilient to most environmental factors but may be vulnerable to being eaten by snails or birds. Protect your young plants with a DIY cloche or netting.</p>
 	<br>
 </section>
-
-<section>
-	<h4>Transplanting:</h4>
-<p>Seedlings will be ready for transplanting into pots or true ground when they have developed 4 or more leaves, or roughly a week or two after germination. Leave 15-30cm between each plant to encourage more growth and better ventilation. </p>
-<br>
-	</section>
 	
 <section>
 	<h4>Growing:</h4>
-<p>Tomatoes will produce more flowers and thus more fruit when fed with fertilisers high in Phosphorus and Potassium. Plants can be fertilised regularly a month after germination for a fuller crop. </p>
-<p>For both vining and shrub varieties, it is a good practice to prune regularly and remove dead leaves and stems to improve ventilation and allow light to reach more of the plant. Regular pruning also decreases the likelihood of pests quickly taking over the plant. Suckers can be removed as part of regular pruning and propagated via divison.</p>
+<p>Bitter gourds will produce more flowers and thus more fruit when fed with fertilisers high in phosphorus and potassium. Plants can be fertilised regularly a month after germination for a fuller crop.</p>
+<p>Because the vines will grow on top of each other, it is a good practice to prune regularly and remove dead leaves and vines to improve ventilation and allow light to reach more of the plant.</p>
+<p>Direct sunlight can damage the fruit. Allow leaves to grow over the fruit or protect it using a cloth cover.</p>
 	<br>
 </section>
 
 <section>
 	<h4>Harvesting:</h4>
-<p>Plants can be harvested for fruits around three months after sowing. The best time to harvest the fruit is in the early morning, before 9am.</p>
-<p>Tomatoes are generally harvested when ripe, however unripe tomatoes can also be eaten after they have been thoroughly cooked. Ripe tomatoes are shiny, glossy, and will no longer have green spots. They should be easy to pop off the stem with a gentle twist. Seeds can be used from ripe fruit for immediate planting.</p>
+<p>Plants can be harvested for immature fruits around 4 months after sowing. The best time to harvest the fruit is in the early morning, before 9am.</p>
+<p>The plant will continuously produce fruit for about 6 months to a year before declining. </p>
+	
+
 <br>
 </section>
 
