@@ -18,10 +18,10 @@ image: ""
 <section>
 	<img src="/images/Plants/Bittergourd%20(1).jpg">
 	
-<p>Tomatoes are a popular crop grown in home and Community Gardens and are often considered one of the most desirable crops for new gardeners to try. There are many Tomato cultivars, with the most common varieties seen in Singapore being heat-tolerant cherry tomato varieties. Tomatoes are usually red but can also come in other colours like yellow or pink, and range in shape and size depending on the cultivar.</p>
-<p>Ripe Tomatoes can be eaten raw, in soup, roasted or made into sauces.</p>
-<p>As an annual crop, these plants do well as part of scheduled crop rotation.</p>
-<p>This plant is part of the Solanum or Nightshade family, which includes other popular edible fruits like Brinjals and Chillies.</p>
+<p>Bitter Gourd, as the name implies, is a bitter fruit used in a variety of Asian dishes. Eaten as an immature fruit, it can be stewed, fried, steamed or juiced. </p>
+<p>The fruit has a lumpy appearance, with Chinese cultivars looking more warty and Indian varieties sporting spikes. The immature fruit ranges from bright green to white depending on cultivar, and the ripe fruit turns orange with bright red seeds.
+	An annual crop, these plants are often grown in rotation with other fruiting climbers.</p>
+<p>This plant is part of the Cucurbita or Melon family, which includes other popular edible fruits like Cucumber, Winter melon, and Pumpkin.</p>
 	<br>
 </section>
 
