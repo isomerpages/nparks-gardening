@@ -16,7 +16,7 @@ image: ""
 </section>
 
 <section>
-	<img style="height:390px; width:520px" src="">
+	<img src="">
 	
 <p>Okinawan Spinach is a hardy, succulent vegetable that grows quickly in semi-shade. Its leaves can be eaten raw, fried, blanched, steamed, and made into soup.</p>
 <p>This plant is a small perennial crop that is easy to propagate, making it a popular choice as a groundcover, for perimeter planting, and low maintenance beds. It is also a staple crop in edible gardens and permaculture gardens.</p>
@@ -27,7 +27,7 @@ image: ""
 
 <section>
 	<h4>Environmental needs:</h4>
-		<img style="height:390px; width:520px" src="/images/Horti%20techniques/ContainerPlanting_JacChua%20(3).jpg">
+		<img src="">
 	
 <p>This plant grows rapidly in 4-8 hours of indirect sunlight. Plants may suffer from sunburn in more than 4 hours of direct sunlight. Plants do best in moist, well-drained soil at least 10cm deep, making them suitable for container gardening and corridor gardening. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe.</p>
 	
@@ -36,12 +36,10 @@ image: ""
 	</section>
 	
 <section>
-	<br>
 	<h4>Growing:</h4>
 <p>Okinawan Spinach grows rapidly when young and freshly planted from cuttings. Regular harvesting will encourage the plant to grow more leaves and stems. </p>
 <p>This plant generally does not require fertilising, but it can be fed with a high nitrogen fertiliser to encourage growth after cut-and-come-again harvesting.</p>
-
-<br>
+	<br>
 </section>
 
 <section>
