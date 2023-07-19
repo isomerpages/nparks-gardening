@@ -30,7 +30,9 @@ image: ""
   <img src="/images/Plants/LadiesFinger_JacChua%20(1).jpg">
     	<p>This plant does best in full sun gardens with a minimum of 6 hours of direct sunlight.</p>
 <p>Plants do best in moist, well-drained soil in containers that are at least 15cm deep, or in true ground. </p>
-<p>Watch: How to grow fruiting vegetables in pots </p>
+	
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/eGBg_S8yj0U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
+	
 <p>Lady’s-finger plants are pollinated by Woodborer bees, but most varieties are self-pollinated. </p>
 <p></p>
 <br>
