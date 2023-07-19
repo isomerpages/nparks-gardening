@@ -52,18 +52,18 @@ Arrowroot <br>
 <section>
 <h4 id="b">b</h4>
 Bangkuang <br>
-Bayam <br>
+	<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/bayam/">Bayam</a><br>
 Belimbling <br>
 Bitter Gourd <br>
 Bottle Gourd <br>
 Brinjal <br>
-	<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com//page-index/edible-plants/butterfly-pea/">Butterfly pea</a><br>
+	<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/butterfly-pea/">Butterfly pea</a><br>
 	 <br><br>
 </section>
 
 <section>
 <h4 id="c">c</h4>
-Cai Xin  <br>
+	<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/cai-xin/">Cai Xin</a><br>
 Ceylon Spinach <br>
 Chiku <br>
 Chilli <br>
@@ -71,12 +71,12 @@ Chinese Mustard <br>
 Chives <br>
 Common pepper <br>
 Corn <br>
-Cranberry hibiscus <br>
+	<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/cranberry-hibiscus/">Cranberry hibiscus <br>
 Cucumber <br>
 Curry Leaf Plant <br>
 Custard apple <br>
 	 <br><br>
-</section>
+</a></section><a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/cranberry-hibiscus/">
 
 <section>
 <h4 id="d">d</h4>
@@ -127,12 +127,12 @@ Kedongdong<br>
 <br><br>
 </section>
 
-<section>
+</a><section><a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/cranberry-hibiscus/">
 <h4 id="l">l</h4>
 Lady's finger<br>
 Laksa<br>
 Lemongrass<br>
-	<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/lettuce/">Lettuce</a><br>
+	</a><a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/lettuce/">Lettuce</a><br>
 Limau Purut<br>
 Lime<br>
 Long bean<br>
