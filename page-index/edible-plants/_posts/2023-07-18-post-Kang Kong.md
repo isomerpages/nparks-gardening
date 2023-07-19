@@ -84,8 +84,8 @@ image: ""
     </tbody>
   </table>
 	
-<p>Check out our&nbsp;<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/digital-tools/harvestplanner/">harvest planner</a>&nbsp;to schedule your growing! </p>
-<br>
+<p>Check out our&nbsp;<a href="(https://staging.dmhtu0pi4p9u7.amplifyapp.com/digital-tools/sowing-planner/)">sowing and harvest planner</a>&nbsp;to schedule your growing! </p> 
+<br> 
 </section>
 
 <section>
