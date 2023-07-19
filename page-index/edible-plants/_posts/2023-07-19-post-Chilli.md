@@ -59,15 +59,16 @@ image: ""
 <section>
 	<h4>Growing:</h4>
 <p>Chillies will produce more flowers and thus more fruit when fed with fertilisers high in Phosphorus and Potassium. Plants can be fertilised regularly a month after germination for a fuller crop. </p>
-<p>Shoot tips can be pruned off¬ when the plant is around 30cm tall to encourage branching, with more branches bearing more fruit. </p>
+<p>Shoot tips can be pruned off when the plant is around 30cm tall to encourage branching, with more branches bearing more fruit. </p>
 <p>It is a good practice to prune regularly and remove dead leaves and stems to improve ventilation and allow light to reach more of the plant. Regular pruning also decreases the likelihood of pests quickly taking over the plant. </p>
 	<br>
 </section>
 
 <section>
 	<h4>Harvesting:</h4>
-<p>Plants can be harvested for leaves at any time, with younger leaves being the most tender. However, the leaves will become bitter when the plant starts to flower. Most gardeners will harvest their crop around a month and a half after sowing. </p>
-<p>The whole plant can be harvested once by cutting the head at the base or multiple times by harvesting the older leaves as per the cut-and-come-again method.</p>
+<p>Plants can be harvested for fruits around 3 months after sowing. The best time to harvest the fruit is in the early morning, before 9am.</p>
+<p>Both immature and mature Chilli fruits can be eaten and may vary in taste depending on their stage of ripening. 
+Chilli fruits can be left to ripen and dry on the plant. Dry Chillies can be harvested for seeds to be planted.</p>
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/f_Uoug7ZSeg" height="415" width="100%"></iframe>
 <br><br>
