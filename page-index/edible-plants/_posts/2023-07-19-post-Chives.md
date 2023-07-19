@@ -56,6 +56,8 @@ image: ""
 <section>
 	<h4>Harvesting:</h4>
 <p>Plants can be harvested for leaves at any time, with younger leaves being the most tender. They are typically harvested continuously via the cut-and-come-again method.</p>
+	
+<img title="Dry black seed pods of Chives. Photo by Jacqueline Chua." src="/images/Plants/Chives_JacChua%20(2).jpg">
 <p>If allowed the flower, the young, yellow flowers can also be harvested for eating. If the flowers are turn into fruit and produce dry, black seed pods, the seeds can be used to grow another crop.</p>
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/FuWK90da0GY" height="415" width="100%"></iframe>
