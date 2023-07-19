@@ -62,8 +62,8 @@ image: ""
 
 <p> he whole plant can be harvested once by cutting the head at the base or multiple times by harvesting the older leaves as per the cut-and-come-again method.</p> 
 
-<p>Watch: How to Harvest Leafy Vegetables</p>
-<br> 
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/f_Uoug7ZSeg" height="415" width="100%"></iframe>
+<br><br>
 </section> 
  
 <section> 
