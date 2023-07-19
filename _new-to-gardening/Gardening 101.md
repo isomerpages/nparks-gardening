@@ -9,4 +9,4 @@ list of resources (indiv pages that live in the sidebar)
 - resource suggestor 
 - basic skills 
 - plants for beginners 
-- 
+-
