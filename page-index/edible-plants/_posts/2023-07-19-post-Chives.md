@@ -18,9 +18,9 @@ image: ""
 <section>
 	<img title="Chives grown in pots. Photo by Jacqueline Chua." src="/images/Plants/Chives_JacChua.jpg">
 	
-<p>Chillies are an essential plant in most edible gardens across South and Southeast Asia, and are famous for adding a spicy kick to sauces, stews, salads, and more! There are a wide variety of Chilli cultivars, with fruit that vary wildly in colour, shape, and size. </p>
-<p>Most varieties of Chilli can be grown as a perennial crop in Singapore.  Most small varieties of chilli can also be grown in pots. </p>
-<p>This plant is part of the Solanum or Nightshade family, which includes other popular edible fruits like Brinjals and Tomatoes.</p>
+<p>Chives are an easy herb that grows in both semi-shade and full sun gardens, and is a popular choice for small and upcycled containers due to its shallow roots. Chives are usually harvested for their leaves, but all parts of the plant generally taste like garlic and can be added to stir-fries, salads, and soups.</p>
+<p>A perennial crop with shallow root, chives are a useful addition to any edible garden, and are often planted in containers and corridor gardens. </p>
+<p>Chives are part of the Amaryllidaceae or onion family, which includes other popular herbs like shallots and leeks.</p>
 	<br>
 </section>
 
