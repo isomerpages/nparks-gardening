@@ -19,7 +19,7 @@ Once you have identified your preferred community garden(s), you may approach th
 
 <h4> How do I start a Community Garden?</h4>
 <img src="/images/Gardeners/Outreach%20(3).jpg">
-<p>The starting process will be different depending on where you site your garden. All gardens will need to form a gardening group, have a managing body (for example, a Resident's Committee or Network, Neighbourhood Committee, School or Organisation), and to seek permission from the relevant landowner.</p>
+<p>The starting process will be different depending on where you site your garden. All gardens will need to form a gardening group, have a managing body (for example, a Residents' Committee or Network, Neighbourhood Committee, School or Organisation), and to seek permission from the relevant landowner.</p>
 <p>Ready to start a community garden? Fill out the form below and a Community In Bloom staff will get in touch with you!</p>
 <p>START A COMMUNITY GARDEN FORM HERE</p>
 
