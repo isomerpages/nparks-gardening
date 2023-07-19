@@ -12,7 +12,7 @@ sections:
       background: /images/Horti techniques/Spacing_Jacchua (15).jpg
   - infobar:
       title: New to gardening?
-      subtitle: Gardening 101
+      subtitle: sprouting green fingers
       description: We've handpicked a few tips and tricks to get you going
       button: Let's get started!
       url: /new-to-gardening/gardening101
@@ -26,7 +26,7 @@ sections:
       image: /images/Landing_page/plantsearch.png
   - infopic:
       title: Digital tools for starting your garden
-      subtitle: Cool beans
+      subtitle: the future is now
       description: Unsure how much soil you need or when to start sowing your seeds
         for a harvest?
       button: try out our tools
