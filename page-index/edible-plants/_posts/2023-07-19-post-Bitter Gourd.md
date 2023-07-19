@@ -93,14 +93,18 @@ image: ""
 
 <section>
 	<h4>Propagation:</h4>
-	<p>Lettuce is primarily grown from seeds. </p>
+	<p>This vine can be grown via seeds. Seeds can be taken from mature fruit for immediate planting.</p>
 	<br>
 </section>
 
 <section>
 	<h4>Common problems &amp; solutions:</h4>
-<p>Caterpillars, usually from the Diamondback moth and Tussock moth, can rapidly eat all the leaves of your plant. If your plant has lots of large holes and small brown or black poo pellets scattered around damaged leaves, you likely have a caterpillar infestation. Manually remove the caterpillars by hand and protect your plants with netting.</p>
-<p>Leaf miners are fly larvae that eat the leaves from the inside, leaving white lines or patches in their wake. Manually remove damaged leaves and use fine mesh netting to stop the adult flies from laying eggs on the plant again.</p>
-<p>Etiolation is characterised by plants growing long and skinny, with weak stems and small leaves. The plants may also sometimes look yellowish. Plants etiolate when they do not get enough sunlight, which results in slow growth and untidy forms. To prevent this, grow plants in environments with enough light for them and make sure that each plant has enough space to prevent overcrowding.</p>
+<p>If your vine has little to no flowers, you try fertilising the plant with fertilisers high in phosphorus and potassium. These nutrients encourage root and flower growth, which are important for the plant to produce more fruit.</p>
+<p>However, if your plant is producing lots of flowers but is not bearing fruit, you may not have female and male flowers present in the same area together. Pollen from the male flower needs to be transferred to the female flower before the female flower can become a fruit. This process is called pollination and is important or the formation of many edible fruits. Vines from the melon family generally produce male flowers before female flowers. Having at least 3 plants of varying ages in the garden will make both male and female flowers present for pollination to happen. </p>
+<p>Many plants require pollinators to help them fruit. Bees, butterflies, birds and even beetles transport pollen from one flower to another, pollinating your crops and increasing their fruit yield. Attract some pollinators to your garden by growing pollinator-attracting crops, or become a pollinator yourself by hand-pollinating your plants. </p>
+<p>Aphids, mealy bugs, and spider mites often infest the plant if it is sickly or overgrown. Prune off the infested parts, or apply horticultural oils like neem oil and white summer oil to suffocate the remaining pests. Regularly prune the plant to allow light and air to reach throughout the plant, and check the plant for underlying problems like root rot, lack of sunlight, and nutrient deficiencies. </p>
+<p>Whiteflies can infest the plant and lay eggs under its leaves. Remove affected plant parts and catch remaining adults with yellow sticky paper or treat them with citrus spray. 
+Fruit flies can lay eggs in the fruit, resulting in larvae damaging the fruit and creating spots on the skin. Wrap your fruit in netting when it starts to develop from a fertilised flower, ideally after all the petals have dropped off. </p>
+<p>All vines from the melon family tend to attract beetles, which typically attack the plant’s leaves at night. They don’t harm the fruit, but if too many leaves are eaten, the plant may slow its growth.  </p>
 <br>
 </section>
