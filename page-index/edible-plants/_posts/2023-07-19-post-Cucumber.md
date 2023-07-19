@@ -98,7 +98,7 @@ Allowing the fruit to sit in water can cause rotting. Keep the underside dry by 
 
 <section>
 	<h4>Propagation:</h4>
-	<p>Lettuce is primarily grown from seeds. </p>
+	<p>This vine can be grown via seeds. Seeds can be taken from mature fruit for immediate planting. </p>
 	<br>
 </section>
 
