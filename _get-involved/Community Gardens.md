@@ -32,7 +32,7 @@ Once you have identified your preferred community garden(s), you may approach th
 <img src="/images/Gardeners/Outreach%20(3).jpg">
 <p>The starting process will be different depending on where you site your garden. All gardens will need to form a gardening group, have a managing body (for example, a Residents' Committee or Network, Neighbourhood Committee, School or Organisation), and to seek permission from the relevant landowner.</p>
 <p>Ready to start a community garden? Fill out the form below and a Community In Bloom staff will get in touch with you!</p>
-			<a class="button-primary" href="https://form.gov.sg/64b4f14af6ce6e001153a866">Start a Community Garden now!</a>
+<a class="button-primary" href="https://form.gov.sg/64b4f14af6ce6e001153a866">Start a Community Garden now!</a>
 <br>
 
 <h4>What can I do with my Community Garden?</h4>
