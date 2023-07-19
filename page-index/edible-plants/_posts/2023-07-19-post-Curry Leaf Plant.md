@@ -53,7 +53,7 @@ image: ""
 
 <section>
 	<h4>Propagation:</h4>
-	<p>Sunflowers are grown from seed. </p>
+	<p>Curry Leaf Plants can be grown from seed or propagated via woody stem cuttings. Woody stem cuttings should be dipped in rooting hormone before being potted up in rooting media. </p>
 	<br>
 </section>
 
