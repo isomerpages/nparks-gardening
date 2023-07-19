@@ -50,11 +50,8 @@ image: ""
 
 <section>
 	<h4>Growing:</h4>
-<p>Cucumbers will produce more flowers and thus more fruit when fed with fertilisers high in Phosphorus and Potassium. Plants can be fertilised regularly a month after germination for a fuller crop. </p>
-<p>Because the vines will grow on top of each other, it is a good practice to prune regularly and remove dead leaves and vines to improve ventilation and allow light to reach more of the plant. </p>
-<p>Young fruits have prickly hairs or small spines which can irritate the skin. Use gloves when handling the plant for safety.
-Direct sunlight can damage the fruit. Allow leaves to grow over the fruit or protect it using a cloth cover. 
-Allowing the fruit to sit in water can cause rotting. Keep the underside dry by placing it on a platform if the fruit is growing on the ground.</p>
+<p>Bean plants generally don’t require much fertilising because they are able to fix their own nitrogen. 
+Because the vines will grow on top of each other, it is a good practice to prune regularly and remove dead leaves and vines to improve ventilation and allow light to reach more of the plant.</p>
 	<br>
 </section>
 
