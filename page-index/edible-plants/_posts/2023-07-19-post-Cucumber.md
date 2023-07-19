@@ -33,9 +33,7 @@ image: ""
 	
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/SUQGxxAAcNs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
 	
-<p>Depending on the cultivar, tomatoes can grow as a vine (indeterminate) or as a small shrub (determinate). Vining varieties will need stakes or a trellis to support their growth.</p>
-<p>As with all members of the Nightshade family, this plant is buzz pollinated and produces the most fruit when bees are around to pollinate it. Growing more bee-attracting plants within the garden will encourage pollination. It can be hand-pollinated, but the success rate is generally lower. </p>
-<p>These plants can get blossom end rot, which shows up as dark, sunken blotches at the end of fruits. It is a symptom of a lack of calcium reaching the fruit, which is usually caused by a lack of water or inconsistent watering. Keep your soil moist but not waterlogged and take care to water more often during the dry season. </p>
+<p>As with all members of the melon family, this plant is bee pollinated and produces male and female flowers. To encourage the formation of more fruits, it is best to have at least 3 separate plants growing in the same area to have both male and female flowers available, and to have bee-attracting plants within the garden to encourage pollination. If your garden lacks bees, the plant can also be hand pollinated.</p>
 <br>
 </section>
 
