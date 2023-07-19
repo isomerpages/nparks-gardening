@@ -127,12 +127,12 @@ Kedongdong<br>
 <br><br>
 </section>
 
-<section><a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/cranberry-hibiscus/">
+<section>
 <h4 id="l">l</h4>
 Lady's finger<br>
 Laksa<br>
 Lemongrass<br>
-	</a><a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/lettuce/">Lettuce</a><br>
+<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/lettuce/">Lettuce</a><br>
 Limau Purut<br>
 Lime<br>
 Long bean<br>
@@ -153,14 +153,14 @@ Mexican Tarragon<br>
 	
 <section>
 <h4 id="o">o</h4>
-Okinawan spinach<br>
+<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/okinawan-spinach/">Okinawan spinach</a><br>
 <br><br>
 </section>
 
 <section>
 <h4 id="p">p</h4>
-Pandan<br>
-Passion Fruit<br>
+	<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/pandan/">Pandan</a><br>
+	<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/passion-fruit/">Passion Fruit</a><br>
 Peanut<br>
 Pumpkin <br>
 <br><br>
