@@ -20,19 +20,19 @@ description: ""
      <h4>Resource suggestor</h4>
 	      <img style="height:150px; width:200px" src="/images/Landing_page/Gardening101/questionmarks.png">
 			blurb<br><br>
-			<a class="button-primary" href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/digital-tools/soilcalculator/">Try it now!</a>
+			<a class="button-primary" href="https://form.gov.sg/64afb606d9df8c00113ddcbe">Try it now!</a>
       </div>
 		<div class="col">
 			<h4>Basic gardening skills</h4>
 	      <img style="height:150px; width:200px" src="/images/Landing_page/Gardening101/secateurs.png">
 			blurb<br><br>
-			<a class="button-primary" href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/digital-tools/soilcalculator/">Try it now!</a>
+			<a class="button-primary" href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/wip">Try it now!</a>
       </div>
 		<div class="col">
 			<h4>Plants for beginners</h4>
 	      <img style="height:150px; width:200px" src="/images/Landing_page/Gardening101/pottedplant.png">
 			blurb<br><br>
-						<a class="button-primary" href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/digital-tools/soilcalculator/">Try it now!</a>
+						<a class="button-primary" href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/wip">Try it now!</a>
       </div>
 	</div>
 	</div>
