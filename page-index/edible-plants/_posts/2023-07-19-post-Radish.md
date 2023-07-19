@@ -66,7 +66,7 @@ image: ""
 			<tr>
 				<th style="border-bottom:0px; border-right:solid 1px;">Growing period</th>
 				<th style="border-bottom:0px; border-right:solid 1px;">Sowing to germination</th>
-				<th style="border-bottom:0px; border-right:solid 1px;">Transplanting to first harvest</th>
+				<th style="border-bottom:0px; border-right:solid 1px;">Germination to first harvest</th>
 				<th style="border-bottom:0px; border-left:solid 1px;">Total sowing to first harvest</th>
 			</tr>
 		</thead>
