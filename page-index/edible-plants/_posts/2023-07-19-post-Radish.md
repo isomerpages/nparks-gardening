@@ -27,13 +27,13 @@ image: ""
 <section>
 	<h4>Environmental needs:</h4>
 		<img title="Red and green loose-leaf lettuce grown in pots. Photo by Jacqueline Chua." src="/images/Horti%20techniques/ContainerPlanting_JacChua%20(3).jpg">
-<p>Lettuce does best in more than 6 or more hours of indirect sunlight, or around 4-5 hours of direct sunlight. Plants do best in moist, well-drained soil at least 10cm deep, making them suitable for container gardening. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe. Keep your plants cool with mulch and plenty of water to encourage growth. </p>
+<p>As with most vegetables, Radishes need about 4-6 hours of direct sunlight. They can also grow in at least 6 hours of indirect sunlight, but may produce smaller leaves and roots. Plants do best in moist, well-drained soil at least 15cm deep, making them suitable for container gardening. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe. High organic matter content also makes the soil soft, encouraging more root growth and larger roots overall. </p>
 	<br>
 	</section>
 
 <section>
   <h4>Sowing seeds:</h4>
-<p>Sow seeds individually in a seedling tray filled with potting mix or seedling mix. Lightly mist the soil until damp, once a day. Seeds should sprout within a week.</p>
+<p>Seeds can be sown directly into pots or the ground around 15cm apart. Lightly water the soil until damp, once a day. Seeds should sprout within a week. </p>
 	
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/x7J87wY7U6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
 	<br>
