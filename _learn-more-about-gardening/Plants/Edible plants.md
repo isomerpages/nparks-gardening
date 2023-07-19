@@ -4,8 +4,9 @@ permalink: /learn-more-about-gardening/plants/edibleplants/
 description: ""
 third_nav_title: Plants
 ---
-Click on an alphabet to find a plant by its common name!
 <a id="top"></a>
+Click on an alphabet to find a plant by its common name!
+
 <table>
 	<tbody>
 		<tr>
