@@ -5,22 +5,33 @@ description: ""
 third_nav_title: Plants
 ---
 <style>
-  .float-buttons {
-    position: fixed;
-    bottom: 20px;
-    right: 20px;
-    z-index: 99;
-    background-color: #333;
-    color: #fff;
-    border: none;
-    padding: 10px;
-    font-size: 16px;
-    cursor: pointer;
-  }
-
-  .float-buttons:hover {
-    background-color: #555;
-  }
+      .float-buttons {
+        position: fixed;
+        bottom: 20px;
+        z-index: 99;
+        background-color: #333;
+        color: #fff;
+        border: none;
+        padding: 10px;
+        font-size: 16px;
+        cursor: pointer;
+      }
+    
+      .float-buttons:hover {
+        background-color: #555;
+      }
+    
+      .left {
+        left: 20px;
+      }
+    
+      .right {
+        right: 20px;
+      }
+    
+      .float-buttons + .float-buttons {
+        bottom: calc(20px + 50px); /* Adjust the value to match the height of your existing floating buttons */
+      }
 </style>
 
 Click on an alphabet to find a plant by its common name!
@@ -263,4 +274,4 @@ Xiao Bai Cai<br>
 	<br><br>
 	</section>
 	
-<a class="float-buttons" href="#top">↑back up</a>
+  <a class="float-buttons left" href="#top">↑back up</a>
