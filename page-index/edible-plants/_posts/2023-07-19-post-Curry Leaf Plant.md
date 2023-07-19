@@ -7,7 +7,6 @@ description: ""
 image: ""
 ---
 <header>
-<header>
 	<h3>Curry Leaf Plant (<em>Murraya koenigii</em>)</h3>
 </header>
 	
@@ -73,4 +72,4 @@ image: ""
 <p>This plant is prone to rust and fungal diseases during the wet season. Prune the plant regularly to increase airflow, and remove heavily affected leaves.</p>
 <p>Wilting may occur during periods of hot weather or from the lack of watering. Regular wilting will stunt plant growth. Increase the number of times a plant is watered, or use mulch to retain moisture in the soil.</p>
 <br>
-</section></header>
+</section>
