@@ -16,7 +16,7 @@ image: ""
 </section>
 
 <section>
-	<img style="height:390px; width:520px" src="/images/Plants/BluePeaFlower_JacChua%20(2).jpg">
+	<img src="/images/Plants/BluePeaFlower_JacChua%20(2).jpg">
 	
 <p>Butterfly Peas are a hardy edible flower that is used to colour drinks, desserts, and rice dishes. </p>
 	<p>An annual plant, Butterfly Peas are often grown in rotation with other fruiting climbers. </p>
@@ -26,15 +26,13 @@ image: ""
 
 <section>
 	<h4>Environmental needs:</h4>
-		<img style="height:390px; width:520px" src="/images/Hardscapes/Trellis_JacChua.jpg">
+		<img src="/images/Plants/BluePeaFlower_JacChua.jpg">
 	
 <p>This plant thrives in 4-8 hours of direct sunlight. Plants do best in moist, well-drained soil at least 20cm deep, or in true ground.  </p>
 <p>This vine is vulnerable to heat stress during the dry season. Water it regularly and mulch the base to prevent water loss. </p>
-<p>
-As a fast-growing vine, this plant needs to be trained up a light trellis. The vine readily produces flowers and can be used to beautify fences and arch trellises.</p>
+<p>As a fast-growing vine, this plant needs to be trained up a light trellis. The vine readily produces flowers and can be used to beautify fences and arch trellises.</p>
 	
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/SUQGxxAAcNs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
-	<br>
 
 <p>As with all members of the bean family, this plant is pollinated by bees. Growing more bee-attracting plants within the garden will encourage pollination. </p>
 	<br>
@@ -45,7 +43,6 @@ As a fast-growing vine, this plant needs to be trained up a light trellis. The v
 <p>Seeds can be sown directly into pots or the ground around 15cm apart. Lightly water the soil until damp, once a day. Seeds should sprout within 10 days.</p>
 	
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/x7J87wY7U6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
-	<br>
 
 <p>The seedlings are generally resilient to most environmental factors but may be vulnerable to being eaten by snails or birds. Protect your young plants with a DIY cloche or netting. </p>
 	<br>
@@ -62,7 +59,7 @@ As a fast-growing vine, this plant needs to be trained up a light trellis. The v
 	<h4>Harvesting:</h4>
 <p>Plants can be harvested for flowers at any time.</p>
 	
-<img style="height:390px; width:520px" src="/images/Plants/BluePeaFlower_JacChua%20(3).jpg">
+<img src="/images/Plants/BluePeaFlower_JacChua%20(3).jpg">
 
 <p>Dry, brown seed pods are mature, and can be harvested for seeds to plant.</p>
 	<br>
