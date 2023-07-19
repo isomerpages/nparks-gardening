@@ -11,7 +11,7 @@ image: ""
 </header>
 	
 <section>
-	<p><strong>Other common names:</strong>Green Amaranthus, Bayam Hijau, Chinese Spinach, Tampala, Joseph's coat, 苋菜, 汗菜</p>
+	<p><strong>Other common names: </strong>Green Amaranthus, Bayam Hijau, Chinese Spinach, Tampala, Joseph's coat, 苋菜, 汗菜</p>
 	<br>
 </section>
 
@@ -82,8 +82,8 @@ image: ""
 		</tbody>
 	</table>
 	
-<p>Check out our&nbsp;<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/digital-tools/sowing-planner/">sowing planner</a>&nbsp;to schedule your growing! </p>
-<br>
+<p>Check out our&nbsp;<a href="(https://staging.dmhtu0pi4p9u7.amplifyapp.com/digital-tools/sowing-planner/)">sowing and harvest planner</a>&nbsp;to schedule your growing! </p> 
+<br> 
 </section>
 
 <section>
