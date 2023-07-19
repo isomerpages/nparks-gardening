@@ -11,24 +11,23 @@ image: ""
 </header>
 	
 <section>
-	<p><strong>Other common names:</strong>Kangkong, Swamp Cabbage, Swamp Morning-glory, Water Morning Glory, Water Spinach, Chinese Water-spinach, Water Bindweed, Water Convolvulus, 蕹菜, 空心菜</p>
+	<p><strong>Other common names:</strong> Kangkong, Swamp Cabbage, Swamp Morning-glory, Water Morning Glory, Water Spinach, Chinese Water-spinach, Water Bindweed, Water Convolvulus, 蕹菜, 空心菜</p>
 	<br>
 </section>
 
 <section>
-	<img style="height:390px; width:520px" src="/images/Plants/KangKong_JacChua%20(2).jpg">
+	<img src="/images/Plants/KangKong_JacChua%20(2).jpg">
 	
   <p>Kang Kong is an iconic staple in a variety of Southeast Asian cuisines, and a common sight in local edible gardens around the region. It is a perennial crop that grows as a vine, making it a useful permanent addition to any edible garden. Young leaves and stems are eaten raw, stir fried or blanched. </p>
   <p>This fast-growing perennial crop can be used as an edible groundcover or a green mulch to suppress weeds and protect soil from the sun and rain. </p>
   <p>Because the stem of this plant is hollow, it can float on water and can be found growing naturally along the banks of water bodies like rivers and ponds, forming a thick mat of vegetation. </p>
   <p>This vine is from the Ipomoea or Morning Glory family, and in the same genus as Sweet Potato. </p>
-
   <br>
 </section>
 
 <section>
   <h4>Environmental needs:</h4>
-  <img style="height:390px; width:520px" src="/images/Plants/KangKong_JacChua%20(1).jpg">
+  <img src="/images/Plants/KangKong_JacChua%20(1).jpg">
     	<p>This hardy vine thrives in full sun gardens and can grows best with 4-8 hours of direct sunlight. It can also grow in more than 6 hours of indirect sunlight, but at a slower pace.
 	Plants do best in moist, well-drained soil at least 10cm deep, making them suitable for container gardening. This plant is highly tolerant of waterlogged soils and can be used in gardens that are watered frequently, in waterlogged gardens that are prone to flooding, in areas exposed to large amounts of rain, and in ponds. 
 	As a fast-growing vine, this plant is traditionally left to sprawl on large patches of soil, but it can be also grown up a trellis. Regular pruning will encourage additional growth and improve air circulation. </p>
@@ -38,13 +37,10 @@ image: ""
 <section>
   <h4>Sowing seeds:</h4>
 <p>Seeds can be sown directly into pots or the ground around 10cm apart. Lightly water the soil until damp, once a day. Seeds should sprout within a week. </p>
-<p>Watch: Sowing Seeds in 6 steps </p>
 	
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/x7J87wY7U6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
-	<br>
-<p>The seedlings are generally resilient to most environmental factors but may be vulnerable to being eaten by snails or birds. Protect your young plants with a DIY cloche or netting. </p>
-<p></p>
 
+<p>The seedlings are generally resilient to most environmental factors but may be vulnerable to being eaten by snails or birds. Protect your young plants with a DIY cloche or netting. </p>
 <br>
 </section>
 	
@@ -52,8 +48,7 @@ image: ""
   <h4>Growing:</h4>
 <p>Kang Kong grows rapidly when fed with high nitrogen fertilisers. Plants can be fertilised regularly two weeks after germination for a fuller crop. </p>
 <p>Because the vines will grow on top of each other, it is a good practice to prune regularly to improve ventilation and allow light to reach more of the plant. </p>
-<p>This vine grows large very rapidly and can climb up to 3m if a tall enough surface is available. Prune it back to manageable heights and densities to make harvesting and maintenance easier.   
-</p>
+<p>This vine grows large very rapidly and can climb up to 3m if a tall enough surface is available. Prune it back to manageable heights and densities to make harvesting and maintenance easier.</p>
 <br>
 </section>
 
@@ -62,7 +57,6 @@ image: ""
 <p>Plants can be harvested for leaves and stems, with younger leaves being the most tender. Most gardeners will begin harvesting from their Kang Kong plant around 3 weeks after sowing.</p>
 <p>Kang Kong is typically harvested multiple times by harvesting the younger leaves and stems as per the cut-and-come-again method. </p>
 <p>Watch: How to grow leafy vegetables in pots </p>
-
 <br>
 </section>
 
@@ -101,8 +95,7 @@ image: ""
 
 <section>
   <h4>Common problems &amp; solutions:</h4>
-  <p>This plant is relatively resistant to pests and disease if kept healthy.
-  </p><p>Etiolation is characterised by plants growing long and skinny, with weak stems and small leaves. The plants may also sometimes look yellowish. Plants etiolate when they do not get enough sunlight, which results in slow growth and untidy forms. To prevent this, grow plants in environments with enough light for them and make sure that each plant has enough space to prevent overcrowding. 
- </p>
+  <p>This plant is relatively resistant to pests and disease if kept healthy.</p>
+	<p>Etiolation is characterised by plants growing long and skinny, with weak stems and small leaves. The plants may also sometimes look yellowish. Plants etiolate when they do not get enough sunlight, which results in slow growth and untidy forms. To prevent this, grow plants in environments with enough light for them and make sure that each plant has enough space to prevent overcrowding.</p>
 <br>
 </section>
