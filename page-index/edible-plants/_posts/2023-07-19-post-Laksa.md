@@ -44,15 +44,15 @@ image: ""
 
 <section>
 	<h4>Propagation:</h4>
-	<p>This tree is grown via seed, or via woody cuttings with rooting hormone. This tree can also be grafted. </p>
+	<p>Laksa is typically propagated via stem cuttings rooted in water.</p>
 	<br>
 </section>
 
 <section>
-	<h4>If your plant has little to no flowers, you try fertilising the plant with fertilisers high in Phosphorus and Potassium. These nutrients encourage root and flower growth, which are important for the plant to produce more fruit.<p></p>
-<p>Many plants require pollinators to help them fruit. Bees, butterflies, birds and even beetles transport pollen from one flower to another, pollinating your crops and increasing their fruit yield. Attract some pollinators to your garden by growing pollinator-attracting crops, or become a pollinator yourself by hand-pollinating your plants. </p>
-<p>Aphids, mealy bugs, and spider mites often infest the plant if it is sickly or overgrown. Prune off the infested parts, or apply horticultural oils like neem oil and white summer oil to suffocate the remaining pests. Regularly prune the plant to allow light and air to reach throughout the plant, and check the plant for underlying problems like root rot, lack of sunlight, and nutrient deficiencies. </p>
-<p>Whiteflies can infest the plant and lay eggs under its leaves. Remove affected plant parts and catch remaining adults with yellow sticky paper or treat them with citrus spray. </p>
-<p>Squirrels, birds and fruit bats may eat unripe or ripe fruit. Wrap your fruit in netting when it starts to develop from a fertilised flower, ideally after all the petals have dropped off.</p>
+	<h4>
+		Like most strong-smelling herbs, this plant is relatively resistant to pests and disease if kept healthy.
+Wilting leaves during hot weather is a sign of heat stress. Increase the number of times the plant is watered daily or move it to a shadier part of the garden.
+Aphids, mealy bugs, and spider mites often infest the plant if it is sickly or overgrown. Prune off the infested parts, or apply horticultural oils like neem oil and white summer oil to suffocate the remaining pests. Regularly prune the plant to allow light and air to reach throughout the plant, and check the plant for underlying problems like root rot, lack of sunlight, and nutrient deficiencies. 
+<p></p>
 <br>
 </h4></section>
