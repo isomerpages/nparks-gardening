@@ -55,7 +55,7 @@ Bottom watering<br>
 <h4 id="c">c</h4>
 <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/choosingplants/">Choosing plants</a><br>
 Cloche<br>
-Companion planting<br>
+<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/companionplanting">Companion planting</a><br>
 Composting<br>
 <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/cut-and-come-again/">Cut and come again harvesting</a><br>
 	 <br><br>
@@ -87,7 +87,7 @@ Growing edibles for consumption<br>
 
 <section>
 <h4 id="h">h</h4>
-Hard pruning<br>
+<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/pruning">Hard pruning</a><br>
 	<br><br>
 </section>
 
@@ -133,9 +133,9 @@ Low maintenance beds<br>
 Plant pathogens<br>
 Planting in containers<br>
 Planting in true ground<br>
-propagating via cuttings<br>
-Propagating via division<br>
-Propagating via seeds<br>
+<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/propagatingcuttings">Propagating via cuttings</a><br>
+<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/propagatingdivision">Propagating via division</a><br>
+<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/propagatingseed">Propagating via seeds</a><br>
 <br><br>
 </section>
 
