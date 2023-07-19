@@ -70,7 +70,7 @@ image: ""
 <p>Both immature and mature Chilli fruits can be eaten and may vary in taste depending on their stage of ripening. 
 Chilli fruits can be left to ripen and dry on the plant. Dry Chillies can be harvested for seeds to be planted.</p>
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/f_Uoug7ZSeg" height="415" width="100%"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/FuWK90da0GY" height="415" width="100%"></iframe>
 <br><br>
 </section>
 
