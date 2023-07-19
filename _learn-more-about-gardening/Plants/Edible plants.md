@@ -69,7 +69,7 @@ Ceylon Spinach <br>
 Chiku <br>
 <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/chilli/">Chilli</a><br>
 Chinese Mustard <br>
-Chives <br>
+	<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/chives/">Chives</a><br>
 Common pepper <br>
 Corn <br>
 	<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/cranberry-hibiscus/">Cranberry hibiscus</a> <br>
