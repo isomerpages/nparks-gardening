@@ -2,6 +2,6 @@ collections:
   new-to-gardening:
     output: true
     order:
-      - How can we help.md
+      - Resource suggestor.md
       - Plants for beginners/.keep
       - Basic skills/.keep
