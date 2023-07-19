@@ -33,21 +33,14 @@ image: ""
 	</section>
 
 <section>
-  <h4>Sowing seeds:</h4>
-<p>Seeds can be sown directly into pots or the ground around 30cm-1m apart. Lightly water the soil until damp, once a day. Seeds should sprout around two weeks.</p>
-<br>
-</section>
-
-<section>
 	<h4>Growing:</h4>
-	<p>Curry trees are rapid growers and will need regular pruning to be maintained at manageable height. Because they already grow rapidly, they generally do not require fertilising, but a use of a high nitrogen fertiliser after hard pruning will encourage the plant to bounce back quickly. </p>
+	<p>Indian borage grows rapidly when young and freshly planted from cuttings. Regular harvesting will encourage the plant to grow more leaves and stems.</p>
 <br>
 </section>
 
 <section>
 	<h4>Harvesting:</h4>
-<p>Plants can be harvested for leaves at any time. Regular harvesting will encourage bushier growth and will keep the plant at a manageable height. </p>
-<p>Mature, black fruits can be harvested for seeds. Sow seeds from ripe fruit immediately after harvesting as they tend to rot quickly.</p>
+<p>Plants can be harvested for leaves at any time. They are typically harvested continuously via the cut-and-come-again method. </p>
 	<br>
 </section>
 
