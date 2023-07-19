@@ -13,7 +13,7 @@ image: ""
 <br>
 <section>
 <h4>Choosing plants to fit your garden environment</h4>
-<img src="/images/Gardeners/Planting%20(4).jpg">	
+<img title="A gardener selecting plants to transplant. Photo by Jacqueline Chua" src="/images/Gardeners/Planting%20(4).jpg">	
 <p>It is important to choose plants that suit your existing garden conditions. Growing plants in unsuitable environments makes them inherently weaker and more prone to pests, disease, and eventual death.</p>
 <p>The most important environmental factors you need to take note are:</p>  
 <ul>
