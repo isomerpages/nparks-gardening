@@ -29,6 +29,12 @@ image: ""
 		<img title="Unriped Chilli. Photo by Jacqueline Chua." src="/images/Plants/Chilli_JacChua%20(2).jpg">
 <p>This plant does best in full sun gardens with a minimum of 6 hours of direct sunlight. This plant can also grow with 4-5 hours of direct sunlight and at least 6 hours of indirect sunlight, but will produce less fruits.</p>
 <p>Plants do best in moist, well-drained soil in containers that are at least 15cm deep, or in true ground.</p>
+
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/eGBg_S8yj0U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
+	<br>
+	
+<p>As with all members of the Nightshade family, this plant is buzz pollinated and produces the most fruit when bees are around to pollinate it. Growing more bee-attracting plants within the garden will encourage pollination. It can be hand-pollinated, but the success rate is generally lower. </p>
+<p>These plants can get blossom end rot, which shows up as dark, sunken blotches at the end of fruits. It is a symptom of a lack of calcium reaching the fruit, which is usually caused by a lack of water or inconsistent watering. Keep your soil moist but not waterlogged and take care to water more often during the dry season. </p>
 	<br>
 	</section>
 
