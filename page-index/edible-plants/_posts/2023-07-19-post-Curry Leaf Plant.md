@@ -26,11 +26,9 @@ image: ""
 
 <section>
 	<h4>Environmental needs:</h4>
-		<img src="/images/Plants/SunflowerJacChua%20(2).jpg">
-	
-<p>Sunflowers grow best in 6-8 hours of direct sunlight. They can tolerate 4-5 hours of direct sunlight or at least 6 hours of indirect sunlight, but may have slower or stunted growth. Plants do best in well-draining sandy loam soils at least 20cm deep but are also highly tolerant of dry soils and drought-prone environments. Taller cultivars that grow to 3m or more will require at least 50cm of soil for stability. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe. </p>
-<p>Keep your plants cool with mulch and plenty of water to encourage growth.</p>
-<p>Taller sunflowers may need staking to prevent snapping. Areas prone to strong wind may damage the plant as it grows taller.</p>
+	<p>Curry Leaf Plants need at least 6 hours of direct sunlight to flourish. They can also grow in 4-6 hours of direct sunlight or in more than 6 hours of indirect sunlight, but the plant will be leggy and less lush.</p>
+<p>Plants do best in moist, well-drained soil at least 30cm deep, or in true ground. These plants are vulnerable to root rot, so ensure that your soil drains well, and that your soil has plenty of organic matter to let the roots breathe. </p>
+<p>This tree can grow up to 2.5m high, but it can be pruned down to a around a metre for easy maintenance.</p>
 	<br>
 	</section>
 
