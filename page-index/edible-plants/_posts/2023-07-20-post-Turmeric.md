@@ -16,7 +16,7 @@ image: ""
 </section>
 
 <section>
-	<img title="Photo by National Parks Board." src="![](/images/Plants/turmeric_ffw_2.jpeg)">
+	<img title="Photo by Flora and Fauna Web" src="/images/Plants/turmeric_ffw_2.jpeg">
 <p>Turmeric is an important spice in South Asian and Middle Eastern cuisine that adds a bittersweet flavour and bright yellow colour to curry. It is extracted from the rhizome, an underground horizontal stem that resembles a tuberous root. Turmeric is used to flavour and colour for curries, drinks and desserts. </p>
 <p>It is a medium perennial crop that readily grows in the tropics in both true ground and in pots. </p>
 <p>Turmeric is part of the Zingiberaceae or Ginger family, which includes other popular edible plants like Torch Ginger and Fingerroot.</p>       
