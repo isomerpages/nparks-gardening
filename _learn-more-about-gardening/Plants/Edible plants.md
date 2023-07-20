@@ -136,7 +136,7 @@ Kale<br>
 <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/lettuce/">Lettuce</a><br>
 Limau Purut<br>
 <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/lime/">Lime</a><br>
-Long Bean<br>
+<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/long-bean/">Long Bean</a><br>
 Longevity Spinach<br>
 <br><br>
 </section>
