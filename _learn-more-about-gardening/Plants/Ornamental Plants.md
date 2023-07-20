@@ -81,7 +81,7 @@ Cranberry hibiscus<br>
 Fairy Washboard<br>
 False Heather<br>
 Fiddle Leaf Fig<br>
-Flame violet<br>
+Flame Violet<br>
 	<br><br>
 </section>
 
@@ -116,7 +116,7 @@ Javanese Ixora<br>
 <section>
 <h4 id="l">l</h4>
 Lawyer's Tongue<br>
-Lipstick plant<br>
+Lipstick Plant<br>
 <br><br>
 </section>
 
@@ -126,7 +126,7 @@ Maiden's Jealousy<br>
 Malayan Ixora<br>
 Mexican Hen and Chicks<br>
 Mexican Sedum<br>
-Mistletoe fig<br>
+Mistletoe Fig<br>
 Mother of Thousands<br>
 	<br><br>
 </section>
@@ -166,16 +166,16 @@ Rose Myrtle<br>
 Satin Pothos<br>
 Scarlet Spiral Flag<br>
 Singapore Rhododendron<br>
-Snake plant<br>
-Spider plant<br>
-String of beads<br>
+Snake Plant<br>
+Spider Plant<br>
+String of Beads<br>
 Sunflowers<br>
 <br><br>
 </section>
 
 <section>
 <h4 id="t">t</h4>
-Torch ginger<br>
+Torch Ginger<br>
 Turk's Turban<br>
 	<br><br>
 </section>
