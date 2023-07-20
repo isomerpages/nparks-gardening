@@ -64,17 +64,17 @@ Bottle Gourd <br>
 
 <section>
 <h4 id="c">c</h4>
-	<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/cai-xin/">Cai Xin</a><br>
+	<a href="/page-index/edible-plants/cai-xin/">Cai Xin</a><br>
 Ceylon Spinach <br>
 Chiku <br>
-<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/chilli/">Chilli</a><br>
+<a href="/page-index/edible-plants/chilli/">Chilli</a><br>
 Chinese Mustard <br>
-	<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/chives/">Chives</a><br>
+	<a href="/page-index/edible-plants/chives/">Chives</a><br>
 Common Pepper <br>
 Corn <br>
-	<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/cranberry-hibiscus/">Cranberry Hibiscus</a> <br>
-<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/cucumber/">Cucumber</a><br>
-<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/curry-leaf-plant/">Curry Leaf Plant</a><br>
+	<a href="/page-index/edible-plants/cranberry-hibiscus/">Cranberry Hibiscus</a> <br>
+<a href="/page-index/edible-plants/cucumber/">Cucumber</a><br>
+<a href="/page-index/edible-plants/curry-leaf-plant/">Curry Leaf Plant</a><br>
 Custard Apple <br>
 	 <br><br>
 </section>
@@ -110,7 +110,7 @@ Guava<br>
 
 <section>
 <h4 id="i">i</h4>
-<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/indian-borage/">Indian Borage</a><br>
+<a href="/page-index/edible-plants/indian-borage/">Indian Borage</a><br>
 <br><br>
 </section>
 
@@ -121,17 +121,17 @@ Guava<br>
 
 <section>
 <h4 id="k">k</h4>
-	<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/kai-lan/">Kailan</a><br>
+	<a href="/page-index/edible-plants/kai-lan/">Kailan</a><br>
 Kale<br>
-	<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/kang-kong/">Kang Kong</a><br>
-<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/kedondong/">Kedondong</a><br>
+	<a href="/page-index/edible-plants/kang-kong/">Kang Kong</a><br>
+<a href="/page-index/edible-plants/kedondong/">Kedondong</a><br>
 <br><br>
 </section>
 
 <section>
 <h4 id="l">l</h4>
-<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/ladys-finger/">Lady's Finger</a><br>
-<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/laksa/">Laksa</a><br>
+<a href="/page-index/edible-plants/ladys-finger/">Lady's Finger</a><br>
+<a href="/page-index/edible-plants/laksa/">Laksa</a><br>
 <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/lemongrass/">Lemongrass</a><br>
 <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/lettuce/">Lettuce</a><br>
 Limau Purut<br>
