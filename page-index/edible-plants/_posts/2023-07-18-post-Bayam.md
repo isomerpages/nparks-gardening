@@ -27,7 +27,7 @@ image: ""
 <section>
 	<h4>Environmental needs:</h4>
 		<img src="/images/Plants/bayam_ffw.jpeg">
-<p>This leafy vegetable thrives in 4-8 hours of direct sunlight, or more than 6 hours of indirect sunlight. Plants do best in moist, well-drained soil at least 10cm deep, making them suitable for container gardening. However, if planted in true ground and left with a lot of space, the plant can grow up to 1.5m high with a thick stem. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe. This plant is relatively drought tolerant and can withstand some neglect. </p>
+<p>This leafy vegetable thrives in <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/gauging-light/">4-8 hours of direct sunlight, or more than 6 hours of indirect sunlight</a>. Plants do best in moist, well-drained soil at least 10cm deep, making them suitable for container gardening. However, if planted in true ground and left with a lot of space, the plant can grow up to 1.5m high with a thick stem. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe. This plant is relatively drought tolerant and can withstand some neglect. </p>
 	<br>
 	</section>
 
@@ -45,7 +45,7 @@ image: ""
 	<h4>Growing:</h4>
 <p>Bayam is a rapid grower and will produce more leaves if fed with high nitrogen fertilisers. Plants can be fertilised regularly two weeks after germination for a fuller crop. </p>
 <p>This plant can be grown incredibly close together with many plants in a small space. If plants are thinned out and given enough ventilation, they will grow thicker stems and will grow taller and bushier. </p>
-<p>Bayam plants will die after producing seeds. Prolong your harvest by pruning off flowers when they appear.</p>
+<p>Bayam plants will die after producing seeds. Prolong your harvest by <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/pruning/">pruning</a> off flowers when they appear.</p>
 	<br>
 </section>
 
@@ -88,7 +88,7 @@ image: ""
 
 <section>
 	<h4>Propagation:</h4>
-	<p>Bayam is primarily grown from seeds. </p>
+	<p>Bayam is primarily grown from <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/propagatingseed/">seeds.</a> </p>
 	<p>Bayam seeds can be readily harvested from old plants that have flowered. Rub old and dry flower spikes between your fingers to collect the seeds for planting. </p>
 	<br>
 </section>
