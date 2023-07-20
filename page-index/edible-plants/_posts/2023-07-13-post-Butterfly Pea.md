@@ -61,20 +61,20 @@ image: ""
 	
 <img src="/images/Plants/BluePeaFlower_JacChua%20(3).jpg">
 
-<p>Dry, brown seed pods are mature, and can be harvested for seeds to plant.</p>
+	<p>Dry, brown seed pods are mature, and can be harvested for seeds to plant.</p>
 	<br>
 </section>
 
 <section>
 	<h4>Propagation:</h4>
-	<p>This vine can be grown via <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/propagatingseed/">seeds</a>. Seeds can be taken from mature fruit for immediate planting.</p>
+<p>This vine can be grown via <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/propagatingseed/">seeds</a>. Seeds can be taken from mature fruit for immediate planting.</p>
 	<br>
 </section>
 
 <section>
 	<h4>Common problems &amp; solutions:</h4>
-	<p><a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/pests/aphids/">Aphids</a>, mealy bugs, and spider mites often infest the plant if it is sickly or overgrown. <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/pruning/">Prune off</a> the infested parts, or apply horticultural oils like neem oil and white summer oil to suffocate the remaining pests. Regularly prune the plant to allow light and air to reach throughout the plant, and check the plant for underlying problems like root rot, lack of sunlight, and nutrient deficiencies. </p>
+<p><a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/pests/aphids/">Aphids</a>, mealy bugs, and spider mites often infest the plant if it is sickly or overgrown. <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/pruning/">Prune off</a> the infested parts, or apply horticultural oils like neem oil and white summer oil to suffocate the remaining pests. Regularly prune the plant to allow light and air to reach throughout the plant, and check the plant for underlying problems like root rot, lack of sunlight, and nutrient deficiencies. </p>
 <p>Whiteflies can infest the plant and lay eggs under its leaves. Remove affected plant parts and catch remaining adults with yellow sticky paper or treat them with citrus spray. </p>
 <p>Wilting leaves during hot weather is a sign of heat stress. Increase the number of times the plant is watered daily, and apply mulch at the base to prevent water loss. </p>
-<br>
+	<br>
 </section>
