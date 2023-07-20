@@ -6,3 +6,51 @@ layout: post
 description: ""
 image: ""
 ---
+<header>
+	<h3>Torch Ginger (<em>Etlingera elatior</em>)</h3>
+</header>
+	
+<section>
+	<p><strong>Other common names:</strong> Taro, Yam, Cocoyam, Dasheen, Ubi Keladi, Eddoe, Elephant's Ear, Keladi, 芋, 芋头</p>
+	<br>
+</section>
+
+<section>
+<p>Taro is a common crop with a large edible swollen stem often called tubers, which are processed into chips, flour, paste and flavouring. The young leaves can also be cooked and eaten as a vegetable.</p>
+<p>It is a versatile perennial crop that is used extensively in edible gardens, permaculture gardens and low-maintenance beds.</p>
+<p>Taro is part of the Araceae or Aroid family, which includes other edible plants like Elephant Foot Yam. Many ornamental members of the family are very popular as houseplants, including Monsteras and Devil’s Ivy. </p>       
+	<br>
+</section>
+
+<section>
+	<h4>Environmental needs:</h4>
+<p>Taro grows well in 4-6 hours of direct sunlight or 6-8 hours of indirect sunlight. Plants do best in moist, well-drained soil at least 30cm deep, but are also highly tolerant of waterlogged and flooded environments. To optimise tuber growth, add plenty of organic matter to the soil to encourage root and stem growth. </p>
+<p>This plant will not do well in hot, exposed places like on rooftop gardens, and will be prone to wilting from heat stress.</p>
+	<br>
+</section>
+
+<section>
+	<h4>Growing:</h4>
+	<p>Taro grows rapidly in the rainy season and has the potential to overwhelm neighbouring plants. Its large size and rapid growth make it a good filler plant for parts of the garden with waterlogged soil or that are prone to flooding. Grow Taro in its own garden bed or in a designated area for ease of maintenance. </p>
+<br>
+</section>
+
+<section>
+	<h4>Harvesting:</h4>
+<p>Plants can be harvested for tubers and young leaflets at any time but will need at least 4 to 10 months to produce additional tubers after being planted.  The tubers are typically harvested via division, while young leaves are harvested via the cut-and-come-again method.</p>
+<p>The tubers and leaves should not be eaten raw as they contain calcium oxalate, which is toxic. The calcium oxalate is destroyed by cooking with heat.</p>
+	<br>
+</section>
+
+<section>
+	<h4>Propagation:</h4>
+	<p>Taro is propagated via division of the tubers. </p>
+	<br>
+</section>
+
+<section>
+	<h4>Common problems &amp; solutions:</h4>
+<p>This plant is relatively resistant to pests and disease if kept healthy.</p>
+<p>Wilting leaves during hot weather is a sign of heat stress. Increase the number of times the plant is watered daily or add mulch to prevent water loss. </p>
+<br>
+</section>
