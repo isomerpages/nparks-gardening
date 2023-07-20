@@ -187,7 +187,7 @@ Sissoo Spinach<br>
 Smooth Loofah<br>
 Snake Gourd<br>
 Soursop<br>
-Spearmint<br>
+	<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/lime/">Spearmint</a><br>
 	<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/sunflower/">Sunflowers</a><br>
 Surinam Purslane<br>
 	<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/sweet-potato/">Sweet Potato</a><br>
@@ -197,13 +197,13 @@ Sword Bean<br>
 
 <section>
 <h4 id="t">t</h4>
-Tapioca<br>
-Taro<br>
+	<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/tapioca/">Tapioca</a><br>
+	<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/taro/">Taro</a><br>
 	<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/thai-basil/">Thai Basil</a><br>
 	<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/tomato/">Tomato</a><br>
 Tonkin Jasmine<br>
-Torch Ginger<br>
-Turmeric<br>
+<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/torch-ginger/">Torch Ginger</a><br>
+<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/turmeric/">Turmeric</a><br>
 	<br><br>
 </section>
 
