@@ -86,7 +86,7 @@ image: ""
 		</tbody>
 	</table>
 	
-<p>Check out our&nbsp;<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/digital-tools/sowing-planner/">sowing planner</a>&nbsp;to schedule your growing! </p>
+<p>Check out our&nbsp;<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/digital-tools/sowing-planner/">sowing and harvest planner</a>&nbsp;to schedule your growing! </p>
 <br>
 </section>
 
@@ -101,11 +101,9 @@ image: ""
 <p>If your vine has little to no flowers, you try fertilising the plant with fertilisers high in Phosphorus and Potassium. These nutrients encourage root and flower growth, which are important for the plant to produce more fruit.</p>
 <p>However, if your plant is producing lots of flowers but is not bearing fruit, you may not have female and male flowers present in the same area together. Pollen from the male flower needs to be transferred to the female flower before the female flower can become a fruit. This process is called pollination and is important or the formation of many edible fruits. Vines from the melon family generally produce male flowers before female flowers. Having at least 3 plants of varying ages in the garden will make both male and female flowers present for pollination to happen. </p>
 <p>Many plants require pollinators to help them fruit. Bees, butterflies, birds and even beetles transport pollen from one flower to another, pollinating your crops and increasing their fruit yield. Attract some pollinators to your garden by growing pollinator-attracting crops, or become a pollinator yourself by hand-pollinating your plants. </p>
-<p>Bitter immature cucumbers are usually formed when the plant is under a lot of heat stress. Mulch the plant and water it more regularly to encourage it to produce less bitter fruit. 
-Aphids, mealy bugs, and spider mites often infest the plant if it is sickly or overgrown. Prune off the infested parts, or apply horticultural oils like neem oil and white summer oil to suffocate the remaining pests. Regularly prune the plant to allow light and air to reach throughout the plant, and check the plant for underlying problems like root rot, lack of sunlight, and nutrient deficiencies. </p>
+<p>Aphids, mealy bugs, and spider mites often infest the plant if it is sickly or overgrown. Prune off the infested parts, or apply horticultural oils like neem oil and white summer oil to suffocate the remaining pests. Regularly prune the plant to allow light and air to reach throughout the plant, and check the plant for underlying problems like root rot, lack of sunlight, and nutrient deficiencies. </p>
 <p>Whiteflies can infest the plant and lay eggs under its leaves. Remove affected plant parts and catch remaining adults with yellow sticky paper or treat them with citrus spray. 
 Fruit flies can lay eggs in the fruit, resulting in larvae damaging the fruit and creating spots on the skin. Wrap your fruit in netting when it starts to develop from a fertilised flower, ideally after all the petals have dropped off. </p>
-<p>This plant is prone to mildew during the wet season. Prune the plant regularly to increase airflow, and remove heavily affected leaves. </p>
-<p>Wilting leaves during hot weather is a sign of heat stress. Increase the number of times the plant is watered daily, and apply mulch at the base to prevent water loss. </p>
+<p>All vines from the melon family tend to attract beetles, which typically attack the plant’s leaves at night. They don’t harm the fruit, but if too many leaves are eaten, the plant may slow its growth.  </p>
 <br>
 </section>
