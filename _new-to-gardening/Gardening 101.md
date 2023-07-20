@@ -20,19 +20,19 @@ description: ""
      <h4>Resource suggester</h4>
 	      <img style="height:150px; width:200px" src="/images/Landing_page/Gardening101/questionmarks.png">
 			Find relevant resources here<br><br>
-			<a class="button-primary" href="https://form.gov.sg/64afb606d9df8c00113ddcbe">Try it now!</a>
+			<a class="button-primary" href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/new-to-gardening/resource-suggester/">Try it now!</a>
       </div>
 		<div class="col">
 			<h4>Basic gardening skills</h4>
 	      <img style="height:150px; width:200px" src="/images/Landing_page/Gardening101/secateurs.png">
 			Learn key skills for gardening<br><br>
-			<a class="button-primary" href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/wip">Try it now!</a>
+			<a class="button-primary" href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/new-to-gardening/basic-gardening-skills/">Try it now!</a>
       </div>
 		<div class="col">
 			<h4>Plants for beginners</h4>
 	      <img style="height:150px; width:200px" src="/images/Landing_page/Gardening101/pottedplant.png">
 			Almost impossible to kill!<br><br>
-						<a class="button-primary" href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/wip">Try it now!</a>
+						<a class="button-primary" href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/new-to-gardening/plants-for-beginners/">Try it now!</a>
       </div>
 	</div>
 	</div>
