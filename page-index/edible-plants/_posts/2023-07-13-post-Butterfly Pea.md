@@ -20,7 +20,7 @@ image: ""
 	
 <p>Butterfly Peas are a hardy edible flower that is used to colour drinks, desserts, and rice dishes. </p>
 	<p>An annual plant, Butterfly Peas are often grown in rotation with other fruiting climbers. </p>
-  <p>This plant is part of the 	Fabaceae or Bean family, which includes other popular edible fruits like Winged Bean, Peanut, and Sword Bean.  All members of the bean family can be used for companion planting as they can fix nitrogen into the soil. </p>
+  <p>This plant is part of the 	Fabaceae or Bean family, which includes other popular edible fruits like Winged Bean, Peanut, and Sword Bean.  All members of the bean family can be used for <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/companionplanting/">companion planting</a> as they can fix nitrogen into the soil. </p>
 	<br>
 </section>
 
@@ -28,13 +28,13 @@ image: ""
 	<h4>Environmental needs:</h4>
 		<img src="/images/Plants/BluePeaFlower_JacChua.jpg">
 	
-<p>This plant thrives in 4-8 hours of direct sunlight. Plants do best in moist, well-drained soil at least 20cm deep, or in true ground.  </p>
+<p>This plant thrives in <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/gauging-light/">4-8 hours of direct sunlight</a>. Plants do best in moist, well-drained soil at least 20cm deep, or in true ground.  </p>
 <p>This vine is vulnerable to heat stress during the dry season. Water it regularly and mulch the base to prevent water loss. </p>
 <p>As a fast-growing vine, this plant needs to be trained up a light trellis. The vine readily produces flowers and can be used to beautify fences and arch trellises.</p>
 	
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/SUQGxxAAcNs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
 
-<p>As with all members of the bean family, this plant is pollinated by bees. Growing more bee-attracting plants within the garden will encourage pollination. </p>
+<p>As with all members of the bean family, this plant is pollinated by bees. Growing more <a href="/https://staging.dmhtu0pi4p9u7.amplifyapp.com/learn-more-about-gardening/plants/biodiversityattractingplants/">bee-attracting plants</a> within the garden will encourage pollination. </p>
 	<br>
 	</section>
 
@@ -51,7 +51,7 @@ image: ""
 <section>
 	<h4>Growing:</h4>
 <p>Bean plants generally don’t require much fertilising because they are able to fix their own nitrogen. </p>
-<p>Because the vines will grow on top of each other, it is a good practice to prune regularly and remove dead leaves and vines to improve ventilation and allow light to reach more of the plant. </p>
+<p>Because the vines will grow on top of each other, it is a good practice to <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/pruning/">prune regularly</a> and remove dead leaves and vines to improve ventilation and allow light to reach more of the plant. </p>
 	<br>
 </section>
 
@@ -67,13 +67,13 @@ image: ""
 
 <section>
 	<h4>Propagation:</h4>
-	<p>This vine can be grown via seeds. Seeds can be taken from mature fruit for immediate planting.</p>
+	<p>This vine can be grown via <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/propagatingseed/">seeds</a>. Seeds can be taken from mature fruit for immediate planting.</p>
 	<br>
 </section>
 
 <section>
 	<h4>Common problems &amp; solutions:</h4>
-<p>Aphids, mealy bugs, and spider mites often infest the plant if it is sickly or overgrown. Prune off the infested parts, or apply horticultural oils like neem oil and white summer oil to suffocate the remaining pests. Regularly prune the plant to allow light and air to reach throughout the plant, and check the plant for underlying problems like root rot, lack of sunlight, and nutrient deficiencies. </p>
+	<p><a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/pests/aphids/">Aphids</a>, mealy bugs, and spider mites often infest the plant if it is sickly or overgrown. <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/pruning/">Prune off</a> the infested parts, or apply horticultural oils like neem oil and white summer oil to suffocate the remaining pests. Regularly prune the plant to allow light and air to reach throughout the plant, and check the plant for underlying problems like root rot, lack of sunlight, and nutrient deficiencies. </p>
 <p>Whiteflies can infest the plant and lay eggs under its leaves. Remove affected plant parts and catch remaining adults with yellow sticky paper or treat them with citrus spray. </p>
 <p>Wilting leaves during hot weather is a sign of heat stress. Increase the number of times the plant is watered daily, and apply mulch at the base to prevent water loss. </p>
 <br>
