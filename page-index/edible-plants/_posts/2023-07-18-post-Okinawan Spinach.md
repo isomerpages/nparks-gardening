@@ -29,7 +29,7 @@ image: ""
 	<h4>Environmental needs:</h4>
 		<img title="Okinawan spinach as seen from overhead. Photo by Flora Fauna Web." src="/images/Plants/okinawan%20spinach_ffw.jpeg">
 	
-<p>This plant grows rapidly in 4-8 hours of indirect sunlight. Plants may suffer from sunburn in more than 4 hours of direct sunlight. Plants do best in moist, well-drained soil at least 10cm deep, making them suitable for container gardening and corridor gardening. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe.</p>
+<p>This plant grows rapidly in <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/gauging-light/">4-8 hours of indirect sunlight</a>. Plants may suffer from sunburn in more than 4 hours of direct sunlight. Plants do best in moist, well-drained soil at least 10cm deep, making them suitable for container gardening and corridor gardening. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe.</p>
 	
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/SfuujJwcZR8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
 	<br>
@@ -37,20 +37,20 @@ image: ""
 	
 <section>
 	<h4>Growing:</h4>
-<p>Okinawan Spinach grows rapidly when young and freshly planted from cuttings. Regular harvesting will encourage the plant to grow more leaves and stems. </p>
-<p>This plant generally does not require fertilising, but it can be fed with a high nitrogen fertiliser to encourage growth after cut-and-come-again harvesting.</p>
+<p>Okinawan Spinach grows rapidly when young and freshly planted from <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/propagatingcuttings/">cuttings</a>. Regular harvesting will encourage the plant to grow more leaves and stems. </p>
+<p>This plant generally does not require fertilising, but it can be fed with a high nitrogen fertiliser to encourage growth after <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/cut-and-come-again/">cut-and-come-again harvesting</a>.</p>
 	<br>
 </section>
 
 <section>
 	<h4>Harvesting:</h4>
-<p>Plants can be harvested for young leaves at any time. They are typically harvested continuously via the cut-and-come-again method. </p>
+<p>Plants can be harvested for young leaves at any time. They are typically harvested continuously via the <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/cut-and-come-again/">cut-and-come-again</a> method. </p>
 	<br>
 </section>
 
 <section>
 	<h4>Propagation:</h4>
-	<p>Okinawan Spinach is typically propagated via stem cuttings in soil. Cuttings rooted in water are likely to rot.</p>
+	<p>Okinawan Spinach is typically propagated via <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/propagatingcuttings/">stem cuttings</a> in soil. Cuttings rooted in water are likely to rot.</p>
 	<br>
 </section>
 
