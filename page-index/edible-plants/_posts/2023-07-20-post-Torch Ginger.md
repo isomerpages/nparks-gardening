@@ -16,9 +16,10 @@ image: ""
 </section>
 
 <section>
-<p>Taro is a common crop with a large edible swollen stem often called tubers, which are processed into chips, flour, paste and flavouring. The young leaves can also be cooked and eaten as a vegetable.</p>
-<p>It is a versatile perennial crop that is used extensively in edible gardens, permaculture gardens and low-maintenance beds.</p>
-<p>Taro is part of the Araceae or Aroid family, which includes other edible plants like Elephant Foot Yam. Many ornamental members of the family are very popular as houseplants, including Monsteras and Devil’s Ivy. </p>       
+<p>Torch Gingers are an iconic edible flower that are a key ingredient in Rojak, a Southeast Asian salad. The unopened flowers are eaten raw, in stir fries, in sauces and in stews.  
+Mature flowers are bright, showy, and long lasting, making them suitable as a cut flower. Mature flowers also attract nectivorous birds and can be used in biodiversity-attracting gardens.</p>
+<p>It is a large perennial crop that grows rapidly in the tropics. This is a common plant in herb gardens, permaculture gardens, and low maintenance beds. </p>
+<p>Torch Gingers are part of the Zingiberaceae or Ginger family, which includes other popular edible plants like Tumeric and Fingerroot.</p>       
 	<br>
 </section>
 
