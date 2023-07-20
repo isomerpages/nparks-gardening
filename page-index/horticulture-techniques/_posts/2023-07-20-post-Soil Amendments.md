@@ -7,7 +7,7 @@ description: ""
 image: ""
 ---
 <section>
-<p>Soil amendments are materials that change the properties of soil when mixed in. Soil amendments are not the same as fertilisers, which are materials that release nutrients for plant growth. </p>
+<p>Soil amendments are materials that change the <a href="/page-index/horticulture-techniques/soil/">properties of soil</a> when mixed in. Soil amendments are not the same as fertilisers, which are materials that release nutrients for plant growth. </p>
 	<iframe width="100%" height="415" src="https://www.youtube.com/embed/ZOMLfqymu5Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
 	<br>
 <p>They are largely split into organic and inorganic amendments, with some common types listed below:</p>
@@ -24,7 +24,7 @@ image: ""
 <img title="Compost is made from decomposed organic matter. Photo by Jacqueline Chua" src="/images/Horti%20techniques/Compost_Jacchua.jpg">
 	<p><b>Mature compost</b> is one of the most readily available soil amendments as it can be made at home or bought from nurseries. Mature compost should have a soft, fine texture and smell earthy. Compost with large chunks of rotting matter that smells unpleasant is immature, and not ready for use. It is important to use mature compost that is no longer decomposing as actively rotting material in immature compost can lock up nitrogen, which will stunt plant growth. Mature compost will have trace amounts of nutrients, which can also give a bit of a boost to your plants.</p>
 	<p><b>Peat moss</b> is decomposed moss harvested from the bottom of peat bogs and is traditionally a favored soil amendment as it is spongy and yet drains well. Peat moss particles are much smaller than sphagnum moss clumps, making it easier to mix into soil. Like sphagnum moss, its use has led to the degradation of peat bogs and is not sustainable in the long run. Consider replacing your peat moss use with more sustainable alternatives like mature compost or cocopeat. </p>
-	<p></p><p>Sphagnum moss is dried moss harvested live from peat bogs and is often packed into a dehydrated block like coco coir. It is stringy and spongy when rehydrated, making it a popular amendment for plants that need moisture and high drainage at the same time, like epiphytic orchids or kokedama plants. Unfortunately, harvesting sphagnum moss from peat bogs comes with a very high environmental toll, and is not sustainable in the long run. Consider replacing your sphagnum moss with more sustainable materials, like cocopeat.</p>
+	<p><b>Sphagnum moss</b> is dried moss harvested live from peat bogs and is often packed into a dehydrated block like coco coir. It is stringy and spongy when rehydrated, making it a popular amendment for plants that need moisture and high drainage at the same time, like epiphytic orchids or kokedama plants. Unfortunately, harvesting sphagnum moss from peat bogs comes with a very high environmental toll, and is not sustainable in the long run. Consider replacing your sphagnum moss with more sustainable materials, like cocopeat.</p>
 </section>
 <br>
 <section>
