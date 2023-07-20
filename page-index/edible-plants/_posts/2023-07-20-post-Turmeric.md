@@ -45,7 +45,7 @@ image: ""
 
 <section>
 	<h4>Propagation:</h4>
-	<p>Taro is propagated via division of the tubers. </p>
+	<p>Turmeric is propagated via division of the rhizome.</p>
 	<br>
 </section>
 
