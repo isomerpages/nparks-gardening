@@ -26,7 +26,7 @@ image: ""
 
 <section>
 	<h4>Environmental needs:</h4>
-	<img title="Photo by Jacqueline Chua." src="![](/images/Plants/SmoothLoofah_JacChua%20(3).jpg)">
+	<img title="Photo by Jacqueline Chua." src="/images/Plants/SmoothLoofah_JacChua%20(3).jpg">
 <p>This vine does best in full sun gardens with a minimum of 6 hours of sunlight. This plant can also grow in 4-6 hours of direct sunlight or more than 6 hours of indirect sunlight, but the plant may be less vigorous and produce less fruits. </p>
 <p>Plants do best in moist, well-drained soil at least 30cm deep, or in true ground. The plant can be grown in smaller pots about 20cm deep, but growth will be slower due to the lack of water retention in less soil and a smaller root ball. </p>
 <p>As a fast-growing vine, this plant needs a tall, sturdy trellis to scramble on. Because the fruits hang down, it is ideal for arch-shaped trellises.</p>
