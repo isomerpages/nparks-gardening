@@ -39,6 +39,6 @@ image: ""
 <li><a href="/https://staging.dmhtu0pi4p9u7.amplifyapp.com/l/page-index/edible-plants/kai-lan/">Kai lan (<em>Brassica oleracea</em> Alboglabra Group)</a></li>
 <li><a href="/https://staging.dmhtu0pi4p9u7.amplifyapp.com/l/page-index/edible-plants/kang-kong/">Kang kong (<em>Ipomoea aquatica</em>)</a></li>
 <li>Radish (<em>Raphanus raphanistrum</em> subsp. sativus cultivar)</li>
-<li>Sunflowers (<em>Helianthus annuus</em>)</li>
+<li><a href="/https://staging.dmhtu0pi4p9u7.amplifyapp.com/l/page-index/edible-plants/sunflower/">Sunflowers (<em>Helianthus annuus</em>)</a></li>
 </ul>
 </section>
