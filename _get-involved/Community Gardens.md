@@ -20,7 +20,7 @@ description: ""
 <p>Community gardeners can seek horticultural and management advice from Community In Bloom, an NParks programme that helps to start and develop community gardens islandwide.</p>
 
 <p>To see what some community gardens look like, visit our Community Garden showcase page.</p>
-
+	
 <h4>How do I join or visit a Community Garden?</h4>
 <p>To locate a Community Garden near you, please check out the map below:</p>
  
@@ -32,8 +32,11 @@ Once you have identified your preferred community garden(s), you may approach th
 <img src="/images/Gardeners/Outreach%20(3).jpg">
 <p>The starting process will be different depending on where you site your garden. All gardens will need to form a gardening group, have a managing body (for example, a Residents' Committee or Network, Neighbourhood Committee, School or Organisation), and to seek permission from the relevant landowner.</p>
 <p>Ready to start a community garden? Fill out the form below and a Community In Bloom staff will get in touch with you!</p>
-<a class="button-primary" href="https://form.gov.sg/64b78ef1a218a40012387fa4">Start a Community Garden now!</a>
-<br>
+<table>
+	<tbody><tr>
+		<td><a class="button-primary" href="https://form.gov.sg/64b78ef1a218a40012387fa4">Start a Community Garden now!</a></td>
+	</tr>
+</tbody></table>
 
 <h4>What can I do with my Community Garden?</h4>
 <img src="/images/Gardeners/Harvesting%20(1).jpg">
