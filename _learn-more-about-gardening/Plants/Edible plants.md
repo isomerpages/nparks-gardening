@@ -132,11 +132,11 @@ Kale<br>
 <h4 id="l">l</h4>
 <a href="/page-index/edible-plants/ladys-finger/">Lady's Finger</a><br>
 <a href="/page-index/edible-plants/laksa/">Laksa</a><br>
-<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/lemongrass/">Lemongrass</a><br>
-<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/lettuce/">Lettuce</a><br>
+<a href="/page-index/edible-plants/lemongrass/">Lemongrass</a><br>
+<a href="/page-index/edible-plants/lettuce/">Lettuce</a><br>
 Limau Purut<br>
-<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/lime/">Lime</a><br>
-<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/long-bean/">Long Bean</a><br>
+<a href="/page-index/edible-plants/lime/">Lime</a><br>
+<a href="/page-index/edible-plants/long-bean/">Long Bean</a><br>
 Longevity Spinach<br>
 <br><br>
 </section>
@@ -154,14 +154,14 @@ Mexican Tarragon<br>
 	
 <section>
 <h4 id="o">o</h4>
-<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/okinawan-spinach/">Okinawan Spinach</a><br>
+<a href="/page-index/edible-plants/okinawan-spinach/">Okinawan Spinach</a><br>
 <br><br>
 </section>
 
 <section>
 <h4 id="p">p</h4>
-	<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/pandan/">Pandan</a><br>
-	<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/passion-fruit/">Passion Fruit</a><br>
+	<a href="/page-index/edible-plants/pandan/">Pandan</a><br>
+	<a href="/page-index/edible-plants/passion-fruit/">Passion Fruit</a><br>
 Peanut<br>
 Pumpkin <br>
 <br><br>
@@ -174,31 +174,31 @@ Pumpkin <br>
 	
 <section>
 <h4 id="r">r</h4>
-	<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/radish/">Radish</a><br>
+	<a href="/page-index/edible-plants/radish/">Radish</a><br>
 <br><br>
 </section>
 
 <section>
 <h4 id="s">s</h4>
-	<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/sand-ginger/">Sand Ginger</a><br>
+	<a href="/page-index/edible-plants/sand-ginger/">Sand Ginger</a><br>
 Sawtooth Coriander<br>
 Scarlet Spiral Flag<br>
-<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/sissoo-spinach/">Sissoo Spinach</a><br>
-<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/smooth-loofah/">Smooth Loofah</a><br>
+<a href="/page-index/edible-plants/sissoo-spinach/">Sissoo Spinach</a><br>
+<a href="/page-index/edible-plants/smooth-loofah/">Smooth Loofah</a><br>
 Snake Gourd<br>
 Soursop<br>
-	<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/lime/">Spearmint</a><br>
-	<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/sunflower/">Sunflowers</a><br>
+	<a href="/page-index/edible-plants/lime/">Spearmint</a><br>
+	<a href="/page-index/edible-plants/sunflower/">Sunflowers</a><br>
 Surinam Purslane<br>
-	<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/sweet-potato/">Sweet Potato</a><br>
+	<a href="/page-index/edible-plants/sweet-potato/">Sweet Potato</a><br>
 Sword Bean<br>
 <br><br>
 </section>
 
 <section>
 <h4 id="t">t</h4>
-	<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/tapioca/">Tapioca</a><br>
-	<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/taro/">Taro</a><br>
+	<a href="/page-index/edible-plants/tapioca/">Tapioca</a><br>
+	<a href="/page-index/edible-plants/taro/">Taro</a><br>
 	<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/thai-basil/">Thai Basil</a><br>
 	<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/tomato/">Tomato</a><br>
 Tonkin Jasmine<br>
