@@ -39,8 +39,8 @@ image: ""
 
 <section>
 	<h4>Harvesting:</h4>
-<p>Plants can be harvested for leaves at any time. Regular harvesting will encourage bushier growth and will keep the plant at a manageable height. </p>
-<p>Mature, black fruits can be harvested for seeds. Sow seeds from ripe fruit immediately after harvesting as they tend to rot quickly.</p>
+	<p>Young leaves can be harvested at any time.</p>
+	<p>Ripe fruits are pink, dark purple or white, depending on the variety. Ripe fruits should be harvested for immediate consumption.</p>
 	<br>
 </section>
 
