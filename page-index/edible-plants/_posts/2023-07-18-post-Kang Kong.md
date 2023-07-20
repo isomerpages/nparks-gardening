@@ -27,9 +27,10 @@ image: ""
 
 <section>
   <h4>Environmental needs:</h4>
-	<img src="/images/Hardscapes/P3190049.jpg" title="Kang kong (right) growing alongside Chinese Mustard (Left). Photo by Jacqueline Chua">This hardy vine thrives in full sun gardens and can grows best with <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/gauging-light/">4-8 hours of direct sunlight</a>. It can also grow in more than 6 hours of indirect sunlight, but at a slower pace.
-	Plants do best in moist, well-drained soil at least 10cm deep, making them suitable for container gardening. This plant is highly tolerant of waterlogged soils and can be used in gardens that are watered frequently, in waterlogged gardens that are prone to flooding, in areas exposed to large amounts of rain, and in ponds. 
-	As a fast-growing vine, this plant is traditionally left to sprawl on large patches of soil, but it can be also grown up a trellis. Regular pruning will encourage additional growth and improve air circulation. <p></p>
+	<img src="/images/Hardscapes/P3190049.jpg" title="Kang kong (right) growing alongside Chinese Mustard (Left). Photo by Jacqueline Chua">
+	<p>This hardy vine thrives in full sun gardens and can grows best with <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/gauging-light/">4-8 hours of direct sunlight</a>. It can also grow in more than 6 hours of indirect sunlight, but at a slower pace.</p>
+<p>Plants do best in moist, well-drained soil at least 10cm deep, making them suitable for container gardening. This plant is highly tolerant of waterlogged soils and can be used in gardens that are watered frequently, in waterlogged gardens that are prone to flooding, in areas exposed to large amounts of rain, and in ponds. </p> 
+<p>As a fast-growing vine, this plant is traditionally left to sprawl on large patches of soil, but it can be also grown up a trellis. Regular pruning will encourage additional growth and improve air circulation.</p>
 <br>
 </section>
 
@@ -90,8 +91,8 @@ image: ""
 
 <section>
   <h4>Propagation:</h4>
-	 <img src="/images/Plants/KangKong_JacChua%20(1).jpg" title="Kang kong growing roots along leaf nodes. Photo by Jacqueline Chua.>
-<p>This vine can be grown via <a href=">seeds or by <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/propagatingcuttings/">stem cuttings</a> rooted in water or soil. <p></p>
+	 <img title="Kang kong growing roots along leaf nodes. Photo by Jacqueline Chua" src="/images/Plants/KangKong_JacChua%20(1).jpg">
+<p>This vine can be grown via <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/propagatingcuttings/">seeds</a> or by <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/propagatingcuttings/">stem cuttings</a> rooted in water or soil. </p><p></p>
 <br>
 </section>
 
