@@ -16,7 +16,7 @@ image: ""
 </section>
 
 <section>
-	<img title="Photo by Jacqueline Chua." src="">
+	<img title="Photo by Jacqueline Chua." src="/images/Plants/Tapioca_JacChua.jpg">
 	
 <p>Tapiocas are a common root vegetable that is extensively grown and consumed across Southeast Asia. The starchy roots are processed into a variety of snacks and desserts and is a key ingredient in bubble tea pearls. The leaves are often steamed and eaten as a vegetable.</p>
 <p>A large perennial crop, Tapioca is often found in heritage gardens, permaculture gardens, rooftop gardens and edible gardens.</p>       
@@ -25,8 +25,7 @@ image: ""
 
 <section>
 	<h4>Environmental needs:</h4>
-<p>Spearmints are usually grown in about 4-8 hours of indirect sunlight, or 2-6 hours of direct sunlight if watered frequently. Spearmints are vulnerable to heat stress, and need to be watered frequently during the dry season or if they are grown in more than 4 hours of direct sunlight. </p>
-<p>Plants do best in moist, well-drained soil at least 5cm deep, making them suitable for container gardening. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe.</p>
+<p>Tapioca is a hardy crop that can grows well in well in 4-6 hours of direct sunlight or at least 6 hours of indirect sunlight. Plants do best in well-draining sandy loam soils at least 30cm deep but are also highly tolerant of dry soils and drought-prone environments. To optimise tuber growth, add plenty of organic matter to the soil to encourage root and stem growth.</p>
 	<br>
 	</section>
 
