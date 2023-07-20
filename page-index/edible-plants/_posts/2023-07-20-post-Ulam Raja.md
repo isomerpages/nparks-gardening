@@ -39,25 +39,24 @@ image: ""
 </section>
 
 <section>
-	<h4>Transplanting</h4><h4>
+	<h4>Transplanting:</h4>
 <p>Seedlings will be ready for transplanting into pots or true ground when they have developed 4 or more leaves, or roughly a week or two after germination. Leave 15cm between each plant to encourage more growth and better ventilation.</p>
 	<br>
-</h4></section>
+</section>
 
 <section>
 	<h4>Growing:</h4>
-<p>Bean plants generally don’t require much fertilising because they are able to fix their own nitrogen. </p>
-<p>Because the vines will grow on top of each other, it is a good practice to <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/pruning/">prune regularly</a> and remove dead leaves and vines to improve ventilation and allow light to reach more of the plant. </p>
+<p>Ulam Raja plants grow rapidly, especially with regular harvesting and the use of high nitrogen fertilisers will encourage the plant to grow more leaves. Plants can be fertilised once every two weeks after transplanting, or after hard pruning. </p>
+<p>Ulam Raja plants will die after producing seeds. Prolong your harvest by pinching off flowers when they appear.</p>
 	<br>
 </section>
 
 <section>
 	<h4>Harvesting:</h4>
-<p>Plants can be harvested for flowers at any time.</p>
+<p>Plants can be harvested for leaves at any time.  Fruits can be harvested for seeds when they are brown and dry.</p>
 	
-<img src="/images/Plants/BluePeaFlower_JacChua%20(3).jpg">
+<img title="Photo by Jacqueline Chua" src="/images/Plants/UlamRaja_JacChua.jpg">
 
-<p>Dry, brown seed pods are mature, and can be harvested for seeds to plant.</p>
 	<br>
 </section>
 
