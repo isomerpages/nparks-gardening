@@ -16,7 +16,7 @@ image: ""
 </section>
 
 <section>
-	<img src="/images/Horti%20techniques/Spacing_Jacchua%20(8).jpg" title="Kang kong seedlings grown in rows spaced 10cm apart. Photo by Jacqueline Chua">
+	<img title="Kang kong seedlings grown in rows spaced 10cm apart. Photo by Jacqueline Chua" src="/images/Horti%20techniques/Spacing_Jacchua%20(8).jpg">
 	
   <p>Kang Kong is an iconic staple in a variety of Southeast Asian cuisines, and a common sight in local edible gardens around the region. It is a perennial crop that grows as a vine, making it a useful permanent addition to any edible garden. Young leaves and stems are eaten raw, stir fried or blanched. </p>
   <p>This fast-growing perennial crop can be used as an edible groundcover or a <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/companionplanting/">green mulch</a> to suppress weeds and protect soil from the sun and rain. </p>
@@ -27,18 +27,18 @@ image: ""
 
 <section>
   <h4>Environmental needs:</h4>
-    	<p>This hardy vine thrives in full sun gardens and can grows best with <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/gauging-light/">4-8 hours of direct sunlight</a>. It can also grow in more than 6 hours of indirect sunlight, but at a slower pace.
+	<img src="/images/Hardscapes/P3190049.jpg" title="Kang kong (right) growing alongside Chinese Mustard (Left). Photo by Jacqueline Chua">This hardy vine thrives in full sun gardens and can grows best with <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/gauging-light/">4-8 hours of direct sunlight</a>. It can also grow in more than 6 hours of indirect sunlight, but at a slower pace.
 	Plants do best in moist, well-drained soil at least 10cm deep, making them suitable for container gardening. This plant is highly tolerant of waterlogged soils and can be used in gardens that are watered frequently, in waterlogged gardens that are prone to flooding, in areas exposed to large amounts of rain, and in ponds. 
-	As a fast-growing vine, this plant is traditionally left to sprawl on large patches of soil, but it can be also grown up a trellis. Regular pruning will encourage additional growth and improve air circulation. </p>
+	As a fast-growing vine, this plant is traditionally left to sprawl on large patches of soil, but it can be also grown up a trellis. Regular pruning will encourage additional growth and improve air circulation. <p></p>
 <br>
 </section>
 
 <section>
   <h4>Sowing seeds:</h4>
-	<img src="/images/Horti%20techniques/SowingSeed_Jacchua.jpg" title="Kang kong seedlings grown in rows spaced 10cm apart. Photo by Jacqueline Chua">
+	<img title="Kang kong seedlings grown in rows spaced 10cm apart. Photo by Jacqueline Chua" src="/images/Horti%20techniques/SowingSeed_Jacchua.jpg">
 <p><a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/propagatingseed/">Seeds can be sown directly into pots or the ground</a> around 10cm apart. Seeds can also be scattered on rows spaced 10cm apart, with the seedlings thinned to individual plants spaced 10cm apart two weeks after germination. Lightly water the soil until damp, once a day. Seeds should sprout within a week. </p>
 	
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/x7J87wY7U6s" height="415" width="100%"></iframe>	<br>
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/x7J87wY7U6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
 
 <p>The seedlings are generally resilient to most environmental factors but may be vulnerable to being eaten by snails or birds. Protect your young plants with a DIY cloche or netting. </p>
 <br>
@@ -57,7 +57,7 @@ image: ""
 <p>Plants can be harvested for leaves and stems, with younger leaves being the most tender. Most gardeners will begin harvesting from their Kang Kong plant around 3 weeks after sowing.</p>
 <p>Kang Kong is typically harvested multiple times by harvesting the younger leaves and stems as per the <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/cut-and-come-again/">cut-and-come-again</a> method. </p>
 
-<iframe width="100%" height="415" src="https://www.youtube.com/embed/lItBHYjyrKg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe><br>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/lItBHYjyrKg" height="415" width="100%"></iframe><br>
 <br>
 </section>
 
@@ -90,8 +90,8 @@ image: ""
 
 <section>
   <h4>Propagation:</h4>
-	 <img src="/images/Plants/KangKong_JacChua%20(1).jpg">
-<p>This vine can be grown via <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/propagatingseed/">seeds</a> or by <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/propagatingcuttings/">stem cuttings</a> rooted in water or soil. </p>
+	 <img src="/images/Plants/KangKong_JacChua%20(1).jpg" title="Kang kong growing roots along leaf nodes. Photo by Jacqueline Chua.>
+<p>This vine can be grown via <a href=">seeds or by <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/propagatingcuttings/">stem cuttings</a> rooted in water or soil. <p></p>
 <br>
 </section>
 
