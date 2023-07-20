@@ -16,8 +16,6 @@ image: ""
 </section>
 
 <section>
-	<img title="Photo by Jacqueline Chua." src="">
-	
 <p>Spearmint is a common herb that grows well in semi-shade gardens and is a popular choice for small and upcycled containers due to its shallow roots. Spearmint is harvested for its leaves and is used to flavour teas, desserts, and salads.</p>
 <p>This plant can grow as a perennial crop when used as a groundcover in true ground as it readily produces runners with plantlets that repropagates itself. However, it behaves as an annual in pots and will need to be regularly repropagated from cuttings. </p>
 <p>Spearmints are part of the Lamiaceae or Mint family, which includes other popular herbs like Indian Borage, Thai Basil, and Chin Chow.</p>       
