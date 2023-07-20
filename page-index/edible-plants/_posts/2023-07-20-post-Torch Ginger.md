@@ -52,7 +52,8 @@ Mature flowers are bright, showy, and long lasting, making them suitable as a cu
 
 <section>
 	<h4>Common problems &amp; solutions:</h4>
-<p>This plant is relatively resistant to pests and disease if kept healthy.</p>
-<p>Wilting leaves during hot weather is a sign of heat stress. Increase the number of times the plant is watered daily or add mulch to prevent water loss. </p>
+	<p>This plant is relatively resistant to pests and disease if kept healthy.</p>
+<p>Wilting leaves during hot weather is a sign of heat stress. Increase the number of times the plant is watered daily, or move it to a shadier part of the garden.</p>
+<p>Aphids, mealy bugs, and spider mites often infest the plant if it is sickly or overgrown. Prune off the infested parts, or apply horticultural oils like neem oil and white summer oil to suffocate the remaining pests. Regularly prune the plant to allow light and air to reach throughout the plant, and check the plant for underlying problems like root rot, lack of sunlight, and nutrient deficiencies.</p>
 <br>
 </section>
