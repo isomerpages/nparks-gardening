@@ -16,7 +16,7 @@ image: ""
 </section>
 
 <section>
-	<img title="Photo by Jacqueline Chua." src="">
+	<img title="Laksa growing in an upcycled wooden planter. Photo by Jacqueline Chua." src="/images/Hardscapes/ContainerGardening_JacChua%20(11).jpg">
 	
 <p>Laksa is an aromatic herb that is used to flavour soups and is the most important spice in its namesake dish. It is highly tolerant of heat and heavy rain, making it an easy herb for most gardeners to grow in Singapore. </p>
 <p>Laksa plants are typically treated as annual crops as older plants tend to get leggy and untidy. However, they can also be kept as perennials if they are hard pruned regularly. </p>       
