@@ -24,9 +24,9 @@ description: ""
 			<a class="button-primary" href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/digital-tools/soilcalculator/">Try it now!</a>
     </div>
     <div class="col">
-      <h4>Sowing Planner</h4>
+      <h4>Harvest Planner</h4>
 				<img style="height:150px; width:200px" src="/images/Digital%20Tools/calendar1.png">
-				Find out the estimated date for sowing your seeds so that you can harvest at your intended date<br>
+				Work out your harvest or sowing schedule with our planner<br>
 				<br>
 				<a class="button-primary" href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/digital-tools/sowing-planner/">Try it now!</a>
     </div>
