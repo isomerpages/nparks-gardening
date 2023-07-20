@@ -34,19 +34,20 @@ image: ""
 
 <section>
 	<h4>Growing:</h4>
-	<p>Indian borage grows rapidly when young and freshly planted from cuttings. Regular harvesting will encourage the plant to grow more leaves and stems.</p>
+	<p>Sissoo Spinach grows rapidly when young and freshly planted from cuttings. Regular pruning will encourage the plant to grow more leaves and stems.</p>
+<p>This plant generally does not require fertilising, but it can be fed with a high nitrogen fertiliser to encourage growth.</p>
 <br>
 </section>
 
 <section>
 	<h4>Harvesting:</h4>
-<p>Plants can be harvested for leaves at any time. They are typically harvested continuously via the cut-and-come-again method. </p>
+<p>Plants can be harvested for young leaves at any time. They are typically harvested continuously via the cut-and-come-again method. </p>
 	<br>
 </section>
 
 <section>
 	<h4>Propagation:</h4>
-	<p>Indian borage is typically propagated via stem cuttings in soil. Stem cuttings rooted in water are likely to rot.</p>
+	<p>Sissoo Spinach is typically propagated via stem cuttings in soil or water.</p>
 	<br>
 </section>
 
