@@ -16,7 +16,7 @@ image: ""
 </section>
 
 <section>
-	<img title="Photo by Jacqueline Chua." src="/images/Plants/Cucumber_JacChua.jpg">
+	<img title="Photo by Jacqueline Chua." src="/images/Plants/SmoothLoofah_JacChua.jpg">
 	
 <p>Cucumbers are a classic fruit eaten raw, in stews or preserved. They come in many cultivars with oblong fruits that range from small and green to large and yellow. Most varieties, particularly the ones eaten raw for salads, should be harvested when they are immature and not bitter .</p>
 <p>An annual crop, these plants are often grown in rotation with other fruiting climbers. </p>
