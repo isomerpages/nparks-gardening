@@ -11,7 +11,7 @@ image: ""
 </header>
 	
 <section>
-	<p><strong>Other common names:</strong> English Mint, 留兰香</p>
+	<p><strong>Other common names:</strong> Ubi Kayu, Bitter Cassava, Manihot, Manioc, Mandioca, Gari, 木薯</p>
 	<br>
 </section>
 
