@@ -21,7 +21,7 @@ image: ""
 <p>A staple vegetable in many Chinese homes, Cai Xin is a tender leafy vegetable that can be blanched, stir-fried, or added to soup. The green variety is most common in markets, but some gardeners have also been growing a purple variety from seed!</p>
 <p>An annual crop, this plant is often grown and consumed under 2 months. Its rapid harvest cycle makes it useful for crop rotation.</p>
 <p>Due to its shallow root system, these plants are a popular choice for container gardening and corridor gardening.</p>
-<p>Cai Xin is part of the Brassica or cabbage family, which also includes other popular vegetables like Kai Lan and Xiao Bai Cai. Like a cabbage, Cai Xin will produce a head of leaves that can be harvested all at once. You can prolong your harvest by instead harvesting individual older leaves via the cut-and-come-again method.</p>
+<p>Cai Xin is part of the Brassica or cabbage family, which also includes other popular vegetables like Kai Lan and Xiao Bai Cai. Like a cabbage, Cai Xin will produce a head of leaves that can be harvested all at once. You can prolong your harvest by instead harvesting individual older leaves via the <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/cut-and-come-again/">cut-and-come-again</a> method.</p>
   <br> 
 </section> 
  
@@ -29,13 +29,13 @@ image: ""
   <h4>Environmental needs:</h4> 
   <img style="height:390px; width:520px" src="/images/Plants/Caixin_JacChua.jpg"> 
 
-<p> Cai Xin does best in more than 6 or more hours of indirect sunlight, or around 4-5 hours of direct sunlight. Plants do best in moist, well-drained soil at least 10cm deep, making them suitable for container gardening. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe. Keep your plants cool with mulch and plenty of water to encourage growth.</p> 
+<p> Cai Xin does best in  <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/gauging-light/">more than 6 or more hours of indirect sunlight, or around 4-5 hours of direct sunlight</a>. Plants do best in moist, well-drained soil at least 10cm deep, making them suitable for container gardening. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe. Keep your plants cool with mulch and plenty of water to encourage growth.</p> 
 <br> 
 </section> 
  
 <section> 
   <h4>Sowing seeds:</h4> 
-<p>Sow seeds individually in a seedling tray filled with potting mix or seedling mix. Lightly mist the soil until damp, once a day. Seeds should sprout within two weeks.</p> 
+<p><a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/propagatingseed/">Sow seeds</a> individually in a seedling tray filled with potting mix or seedling mix. Lightly mist the soil until damp, once a day. Seeds should sprout within two weeks.</p> 
 
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/x7J87wY7U6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
 
@@ -60,7 +60,7 @@ image: ""
   <h4>Harvesting:</h4> 
 <p>Plants can be harvested for leaves at any time, with younger leaves being the most tender. However, the leaves will become tough when the plant starts to flower. Most gardeners will harvest their crop around three weeks to a month after sowing.</p> 
 
-<p> he whole plant can be harvested once by cutting the head at the base or multiple times by harvesting the older leaves as per the cut-and-come-again method.</p> 
+<p>The whole plant can be harvested once by cutting the head at the base or multiple times by harvesting the older leaves as per the <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/cut-and-come-again/">cut-and-come-again</a> method.</p> 
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/f_Uoug7ZSeg" height="415" width="100%"></iframe>
 <br><br>
@@ -95,7 +95,7 @@ image: ""
  
 <section> 
   <h4>Propagation:</h4> 
-<p>Cai Xin is primarily grown from seed.</p> 
+<p>Cai Xin is primarily grown from <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/propagatingseed/">seed</a>.</p> 
 <br> 
 </section> 
  
