@@ -46,6 +46,8 @@ image: ""
 <section>
 	<h4>Propagation:</h4>
 	<p>Spearmint is usually propagated via stem cuttings rooted in water or division. </p>
+	
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/wv-LZCwUArE" height="415" width="100%"></iframe><br>
 	<br>
 </section>
 
