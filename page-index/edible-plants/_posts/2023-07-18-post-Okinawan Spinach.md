@@ -16,7 +16,7 @@ image: ""
 </section>
 
 <section>
-	<img src="">
+	<img title="A closeup of Okinawan Spinach. Photo from Flora and Fauna Web." src="/images/Plants/okinawanspinach.jpeg">
 	
 <p>Okinawan Spinach is a hardy, succulent vegetable that grows quickly in semi-shade. Its leaves can be eaten raw, fried, blanched, steamed, and made into soup.</p>
 <p>This plant is a small perennial crop that is easy to propagate, making it a popular choice as a groundcover, for perimeter planting, and low maintenance beds. It is also a staple crop in edible gardens and permaculture gardens.</p>
@@ -27,7 +27,7 @@ image: ""
 
 <section>
 	<h4>Environmental needs:</h4>
-		<img src="">
+		<img title="Okinawan spinach as seen from overhead. Photo by Flora Fauna Web." src="/images/Plants/okinawan%20spinach_ffw.jpeg">
 	
 <p>This plant grows rapidly in 4-8 hours of indirect sunlight. Plants may suffer from sunburn in more than 4 hours of direct sunlight. Plants do best in moist, well-drained soil at least 10cm deep, making them suitable for container gardening and corridor gardening. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe.</p>
 	
