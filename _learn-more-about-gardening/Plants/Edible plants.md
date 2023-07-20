@@ -202,14 +202,14 @@ Sword Bean<br>
 	<a href="/page-index/edible-plants/thai-basil/">Thai Basil</a><br>
 	<a href="/page-index/edible-plants/tomato/">Tomato</a><br>
 Tonkin Jasmine<br>
-<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/torch-ginger/">Torch Ginger</a><br>
-<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/turmeric/">Turmeric</a><br>
+<a href="/page-index/edible-plants/torch-ginger/">Torch Ginger</a><br>
+<a href="/page-index/edible-plants/turmeric/">Turmeric</a><br>
 	<br><br>
 </section>
 
 <section>
 <h4 id="u">u</h4>
-<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/ulam-raja/">Ulam Raja</a><br>
+<a href="/page-index/edible-plants/ulam-raja/">Ulam Raja</a><br>
 	<br><br>
 	</section>
 
@@ -222,9 +222,9 @@ Tonkin Jasmine<br>
 <h4 id="w">w</h4>
 Water Chestnut<br>
 Watermelon<br>
-<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/white-mulberry/">White Mulberry</a><br>
+<a href="/page-index/edible-plants/white-mulberry/">White Mulberry</a><br>
 Wild Pepper<br>
-<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/winged-bean/">Winged Bean</a><br>
+<a href="/page-index/edible-plants/winged-bean/">Winged Bean</a><br>
 Winter Melon<br>
 	<br><br>
 	</section>
