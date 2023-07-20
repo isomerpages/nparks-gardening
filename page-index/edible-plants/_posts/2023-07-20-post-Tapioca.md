@@ -31,27 +31,29 @@ image: ""
 
 <section>
 	<h4>Growing:</h4>
-	<p>Spearmint grows rapidly when young and freshly propagated from cuttings. Regular harvesting and the use of high nitrogen fertilisers will encourage the plant to grow more leaves.</p>
+	<p>Tapioca is a rapid grower and generally does not need fertilizing. Plants can grow up to 4m high with enough sunlight, and is prone to snapping. Prune the plant to around 1.5m for ease of maintenance.</p>
 <br>
 </section>
 
 <section>
 	<h4>Harvesting:</h4>
-<p>Plants can be harvested for leaves at any time. They are typically harvested continuously via the cut-and-come-again method. </p>
+<p>The plant can be harvested for the tuber around a year after planting. Harvesting the tubers after may result in them being very fibrous and hard root that is unpleasant to eat.
+Plants can be harvested for leaves at any time, with younger leaves being the most tender. Young leaves can be harvested multiple times via the cut-and-come-again method. </p>
+<p>The whole plant can be harvested once by digging up the fleshy root with a spade. </p>
+	<p>All plants parts must be thoroughly cooked as the tuber and the leaves contain toxins. </p>
 	<br>
 </section>
 
 <section>
 	<h4>Propagation:</h4>
-	<p>Spearmint is usually propagated via stem cuttings rooted in water or division. </p>
-	
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/wv-LZCwUArE" height="415" width="100%"></iframe><br>
+	<p>Tapiocas are primarily grown from woody stem cuttings rooted directly into soil or division of the tubers. </p>
 	<br>
 </section>
 
 <section>
 	<h4>Common problems &amp; solutions:</h4>
-<p>Like most strong-smelling herbs, this plant is relatively resistant to pests and disease if kept healthy.</p><p>
-</p><p>Wilting leaves during hot weather is a sign of heat stress. Increase the number of times the plant is watered daily, or move it to a shadier part of the garden.</p>
+<p>This plant is relatively resistant to pests and disease if kept healthy.</p>
+<p>Aphids, mealy bugs, and spider mites often infest the plant if it is sickly or overgrown. Prune off the infested parts, or apply horticultural oils like neem oil and white summer oil to suffocate the remaining pests. Regularly prune the plant to allow light and air to reach throughout the plant, and check the plant for underlying problems like root rot, lack of sunlight, and nutrient deficiencies.</p>
+<p>This plant is prone to rust during the wet season. Prune the plant regularly to increase airflow, and remove heavily affected leaves. </p>
 <br>
 </section>
