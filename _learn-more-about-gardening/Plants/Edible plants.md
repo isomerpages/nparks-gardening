@@ -199,8 +199,8 @@ Sword Bean<br>
 <h4 id="t">t</h4>
 	<a href="/page-index/edible-plants/tapioca/">Tapioca</a><br>
 	<a href="/page-index/edible-plants/taro/">Taro</a><br>
-	<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/thai-basil/">Thai Basil</a><br>
-	<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/tomato/">Tomato</a><br>
+	<a href="/page-index/edible-plants/thai-basil/">Thai Basil</a><br>
+	<a href="/page-index/edible-plants/tomato/">Tomato</a><br>
 Tonkin Jasmine<br>
 <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/torch-ginger/">Torch Ginger</a><br>
 <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/turmeric/">Turmeric</a><br>
