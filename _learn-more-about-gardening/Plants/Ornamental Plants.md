@@ -51,7 +51,7 @@ Aloe Vera<br>
 
 <section>
 <h4 id="b">b</h4>
-Bamboo orchid<br>
+<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/ornamental-plants/bamboo-orchid/">Bamboo Orchid</a><br>
 Brazilian Tea<br>
 	 <br><br>
 </section>
