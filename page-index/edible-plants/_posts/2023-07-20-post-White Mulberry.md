@@ -46,7 +46,7 @@ image: ""
 
 <section>
 	<h4>Propagation:</h4>
-	<p>Curry Leaf Plants can be grown from seed or propagated via woody stem cuttings. Woody stem cuttings should be dipped in rooting hormone before being potted up in rooting media. </p>
+	<p>This tree can be grown via seed but are usually propagated via woody cuttings with rooting hormone.</p>
 	<br>
 </section>
 
