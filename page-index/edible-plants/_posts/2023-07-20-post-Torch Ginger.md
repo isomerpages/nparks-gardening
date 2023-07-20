@@ -11,7 +11,7 @@ image: ""
 </header>
 	
 <section>
-	<p><strong>Other common names:</strong> Taro, Yam, Cocoyam, Dasheen, Ubi Keladi, Eddoe, Elephant's Ear, Keladi, 芋, 芋头</p>
+	<p><strong>Other common names:</strong> Philippine Waxflower, Painted Net Leaf, Nerve Plant, Bunga Kantan, 玫瑰姜, 火炬姜, 瓷玫瑰</p>
 	<br>
 </section>
 
