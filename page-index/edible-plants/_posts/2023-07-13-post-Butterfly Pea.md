@@ -26,7 +26,7 @@ image: ""
 
 <section>
 	<h4>Environmental needs:</h4>
-		<img src="/images/Plants/BluePeaFlower_JacChua.jpg">
+<img src="/images/Plants/BluePeaFlower_JacChua.jpg">
 	
 <p>This plant thrives in <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/gauging-light/">4-8 hours of direct sunlight</a>. Plants do best in moist, well-drained soil at least 20cm deep, or in true ground.  </p>
 <p>This vine is vulnerable to heat stress during the dry season. Water it regularly and mulch the base to prevent water loss. </p>
