@@ -47,7 +47,7 @@ image: ""
  
 <section> 
   <h4>Propagation:</h4> 
-<p>Sang ginger is propagated via division of the rhizome.</p> 
+<p>Sand ginger is propagated via division of the rhizome.</p> 
 <br> 
 </section> 
  
