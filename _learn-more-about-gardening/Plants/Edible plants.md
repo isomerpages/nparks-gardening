@@ -209,7 +209,7 @@ Turmeric<br>
 
 <section>
 <h4 id="u">u</h4>
-Ulam Raja<br>
+<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/ulam-raja/">Ulam Raja</a><br>
 	<br><br>
 	</section>
 
@@ -222,9 +222,9 @@ Ulam Raja<br>
 <h4 id="w">w</h4>
 Water Chestnut<br>
 Watermelon<br>
-White Mulberry<br>
+<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/white-mulberry/">White Mulberry</a><br>
 Wild Pepper<br>
-Winged Bean<br>
+<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/winged-bean/">Winged Bean</a><br>
 Winter Melon<br>
 	<br><br>
 	</section>
