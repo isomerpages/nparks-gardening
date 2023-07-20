@@ -16,25 +16,24 @@ image: ""
 </section>
 
 <section>
-	<img title="Photo by Jacqueline Chua." src="/images/Plants/CurryLeafTree_JacChua.jpg">
-	
-<p>A staple in many Southeast Asian gardens, Curry Leaf Plants thrive in full sun gardens and can quickly grow up to 2.5m in height. Their leaves produce highly aromatic oils that give curry its distinctive taste, and can be dried and powdered, fried, or boiled. </p>
-	<p>A large perennial crop, curry leaf trees are usually planted in true ground. </p>
-<p>Curry leaf plants are part of the Rutaceae or Rue family, which includes other popular edible plants like Limes and Limau Purut. </p>       
+	<p>White Mulberry trees are a common addition to Southeast Asian edible gardens and produce edible leaves and fruit. The leaves can be dried and made into tea, while the ripe and unripe fruits are eaten raw or part of desserts.</p>
+	<p>As a perennial tree, it is a common sight in edible gardens, permaculture gardens, and low maintenance beds.</p>       
 	<br>
 </section>
 
 <section>
 	<h4>Environmental needs:</h4>
-	<p>Curry Leaf Plants need at least 6 hours of direct sunlight to flourish. They can also grow in 4-6 hours of direct sunlight or in more than 6 hours of indirect sunlight, but the plant will be leggy and less lush.</p>
-<p>Plants do best in moist, well-drained soil at least 30cm deep, or in true ground. These plants are vulnerable to root rot, so ensure that your soil drains well, and that your soil has plenty of organic matter to let the roots breathe. </p>
-<p>This tree can grow up to 2.5m high, but it can be pruned down to a around a metre for easy maintenance.</p>
+	<p>This tree does best in full sun gardens with a minimum of 6 hours of sunlight.</p>
+	<p>Plants do best in moist, well-drained soil at least 30cm deep, or in true ground. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe. Keep your plants cool with mulch and plenty of water to encourage growth.</p>
+	<p>This tree can grow up to 15m high. The tree is best maintained at roughly 1.5m high for easy maintenance and harvesting.</p>
+	<p>This plant can be grown year-round.</p>
 	<br>
-	</section>
+</section>
 
 <section>
   <h4>Sowing seeds:</h4>
-<p>Seeds can be sown directly into pots or the ground around 30cm-1m apart. Lightly water the soil until damp, once a day. Seeds should sprout around two weeks.</p>
+	<p>Mulberry trees are rapid growers and generally do not require fertilising. Regular hard pruning will keep the plant at a manageable size and encourage fruiting.</p>
+	<p>The tree will need to be around 4 years old before it starts producing fruit if grown from seed. Rooted cuttings can produce fruit after a month if taken from a mature tree.</p>
 <br>
 </section>
 
