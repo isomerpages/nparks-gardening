@@ -58,7 +58,7 @@ image: ""
 	<p>Plants can be harvested for fruits around 2 months after sowing. The best time to harvest the fruit is in the early morning, before 9am.</p>
 	<p>Only green, immature beans can be eaten. Dry, brown pods are mature, and can be used for seeds.</p>
 	
-<iframe width="100%" height="415" src="https://www.youtube.com/embed/eGBg_S8yj0U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/FuWK90da0GY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
 <br>
 </section>
 
@@ -79,8 +79,8 @@ image: ""
 				<th style="border-right:solid 1px;">Approximate time</th>
 				<td style="border-right:solid 1px;">Less than 2 weeks</td>
 				<td style="border-right:solid 1px;">1 to 2 weeks</td>
-				<td style="border-right:solid 1px;">1 to 2 months</td>
-				<td style="border-left:solid 1px;">2 to 3 months</td>
+				<td style="border-right:solid 1px;">3 to 6 months</td>
+				<td style="border-left:solid 1px;">4 to 8 months</td>
 			</tr>
 		</tbody>
 	</table>
@@ -91,7 +91,7 @@ image: ""
 
 <section>
 	<h4>Propagation:</h4>
-	<p>This vine can be grown via seeds. </p>
+	<p>This vine can be grown via seeds. Seeds can be taken from mature fruit for immediate planting.</p>
 	<br>
 </section>
 
