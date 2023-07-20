@@ -16,7 +16,7 @@ image: ""
 </section> 
  
 <section> 
-<img style="height:390px; width:520px" src="/images/Plants/bambooorchid_ffw.jpg"> 
+<img style="height:520px; width:390px" src="/images/Plants/bambooorchid_ffw.jpg"> 
  
 <p>Bamboo Orchids are a hardy free-flowering plant that is commonly seen in rewilding areas, nature parks, in roadside gardens, and biodiversity-attracting gardens. The flowers can be stir-fried, and have a taste similar to bittergourd. This plant is also native to Singapore and is naturally found growing along forest streams and grassy areas.</p>
 <p>A perennial flower, Bamboo Orchids are useful as bee-attracting plants and perimeter plants to add a pop of colour to any garden.</p> 
