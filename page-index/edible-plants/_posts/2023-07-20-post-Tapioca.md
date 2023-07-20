@@ -25,6 +25,7 @@ image: ""
 
 <section>
 	<h4>Environmental needs:</h4>
+	<img title="Photo by Jacqueline Chua." src="/images/Plants/Tapioca_JacChua%20(2).jpg">
 <p>Tapioca is a hardy crop that can grows well in well in 4-6 hours of direct sunlight or at least 6 hours of indirect sunlight. Plants do best in well-draining sandy loam soils at least 30cm deep but are also highly tolerant of dry soils and drought-prone environments. To optimise tuber growth, add plenty of organic matter to the soil to encourage root and stem growth.</p>
 	<br>
 	</section>
