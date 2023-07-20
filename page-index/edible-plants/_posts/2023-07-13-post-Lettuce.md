@@ -27,7 +27,7 @@ image: ""
 <section>
 	<h4>Environmental needs:</h4>
 		<img title="Red and green loose-leaf lettuce grown in pots. Photo by Jacqueline Chua." src="/images/Horti%20techniques/ContainerPlanting_JacChua%20(3).jpg">
-<p>Lettuce does best in <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/gauging-light/">more than 6 or more hours of indirect sunlight, or around 4-5 hours of direct sunlight</a>. Plants do best in moist, well-drained soil at least 10cm deep, making them suitable for container gardening. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe. Keep your plants cool with mulch and plenty of water to encourage growth. </p>
+<p>Lettuce does best in <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/gauging-light/">more than 6 or more hours of indirect sunlight, or around 4-5 hours of direct sunlight</a>. Plants do best in <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/soil/">moist, well-drained soil</a> at least 10cm deep, making them suitable for container gardening. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe. Keep your plants cool with mulch and plenty of water to encourage growth. </p>
 	<br>
 	</section>
 
@@ -87,15 +87,15 @@ image: ""
 		</tbody>
 	</table>
 	
-<p>Check out our&nbsp;<a href="(https://staging.dmhtu0pi4p9u7.amplifyapp.com/digital-tools/sowing-planner/)">sowing and harvest planner</a>&nbsp;to schedule your growing! </p> 
+<p>Check out our <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/digital-tools/sowing-planner/">sowing and harvest planner</a> to schedule your growing! </p> 
 <br> 
 </section>
 
 <section>
 	<h4>Propagation:</h4>
-	<p>Lettuce is primarily grown from <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/propagatingseed/">seeds. </a></p><a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/propagatingseed/">
+	<p>Lettuce is primarily grown from <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/propagatingseed/">seeds. </a>
 	<br>
-</a></section><a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/propagatingseed/">
+</p></section>
 
 <section>
 	<h4>Common problems &amp; solutions:</h4>
@@ -103,4 +103,4 @@ image: ""
 <p>Leaf miners are fly larvae that eat the leaves from the inside, leaving white lines or patches in their wake. Manually remove damaged leaves and use fine mesh netting to stop the adult flies from laying eggs on the plant again.</p>
 <p>Etiolation is characterised by plants growing long and skinny, with weak stems and small leaves. The plants may also sometimes look yellowish. Plants etiolate when they do not get enough sunlight, which results in slow growth and untidy forms. To prevent this, grow plants in environments with enough light for them and make sure that each plant has enough space to prevent overcrowding.</p>
 <br>
-</section></a>
+</section>
