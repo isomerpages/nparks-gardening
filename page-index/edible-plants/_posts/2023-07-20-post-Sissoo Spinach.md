@@ -53,8 +53,8 @@ image: ""
 
 <section>
 	<h4>Common problems &amp; solutions:</h4>
-<p>Like most strong-smelling herbs, this plant is relatively resistant to pests and disease if kept healthy.</p>
-<p>The stems are liable to snap if they get too long. Regularly prune the plant to keep stems short. </p>
-<p>This plant is very vulnerable to root rot from soil with a high clay content. Ensure that your soil drains well and has plenty of grit. </p>
+<p>This plant is relatively resistant to pests and disease if kept healthy.</p>
+<p>Smaller plants may be vulnerable to being eaten by snails or birds. Protect your plants with a DIY cloche or netting. 
+</p>
 <br>
 </section>
