@@ -30,11 +30,7 @@ image: ""
 		<img src="/images/Plants/Bittergourd%20(4).jpg">
 <p>This vine does best in full sun gardens with a minimum of 6 hours of direct sunlight. This plant can also grow with 4-5 hours of direct sunlight and at least 6 hours of indirect sunlight but will produce less fruits.</p>
 <p>Plants do best in moist, well-drained soil at least 30cm deep, or in true ground. The plant can be grown in smaller pots about 20cm deep, but growth will be slower due to the lack of water retention in less soil and a smaller root ball. </p>
-<p>As a fast-growing vine, this plant needs a sturdy trellis to scramble on. Because the fruits hang down, it is ideal for arch-shaped trellises.</p>
-
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/SUQGxxAAcNs" height="415" width="100%"></iframe>	<br>
-	
-<p>Depending on the cultivar, tomatoes can grow as a vine (indeterminate) or as a small shrub (determinate). Vining varieties will need stakes or a trellis to support their growth.</p>
+<p>As a fast-growing vine, this plant needs a sturdy trellis to scramble on. Because the fruits hang down, it is ideal for arch-shaped trellises.</p>	
 <p>As with all members of the melon family, this plant is bee-pollinated and produces male and female flowers. To encourage the formation of more fruits, it is best to have at least 3 separate plants growing in the same area to have both male and female flowers available, and to have bee-attracting plants within the garden to encourage pollination. If your garden lacks bees, the plant can also be hand pollinated.</p>
 <br>
 </section>
