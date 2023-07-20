@@ -61,7 +61,7 @@ image: ""
 	
 <img src="/images/Plants/BluePeaFlower_JacChua%20(3).jpg">
 
-	<p>Dry, brown seed pods are mature, and can be harvested for seeds to plant.</p>
+<p>Dry, brown seed pods are mature, and can be harvested for seeds to plant.</p>
 	<br>
 </section>
 
