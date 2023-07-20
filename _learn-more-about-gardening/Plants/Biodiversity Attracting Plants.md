@@ -49,11 +49,11 @@ Adap-adap<br>
 
 <section>
 <h4 id="b">b</h4>
-Bamboo orchid<br>
+<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/ornamental-plants/bayam/">Bamboo Orchid</a><br>
 Bangkuang<br>
 Bottle Gourd<br>
 Brazilian Tea<br>
-Butterfly pea<br>
+Butterfly Pea<br>
 	 <br><br>
 </section>
 
@@ -110,7 +110,7 @@ Javanese Ixora<br>
 
 <section>
 <h4 id="l">l</h4>
-Lipstick plant<br>
+Lipstick Plant<br>
 <br><br>
 </section>
 
@@ -118,7 +118,7 @@ Lipstick plant<br>
 <h4 id="m">m</h4>
 Maiden's Jealousy<br>
 Malayan Ixora<br>
-Mistletoe fig<br>
+Mistletoe Fig<br>
 	<br><br>
 </section>
 
@@ -161,14 +161,14 @@ Smooth Loofah<br>
 Snake Gourd<br>
 Sunflowers<br>
 Surinam Purslane<br>
-Sword bean<br>
+Sword Bean<br>
 <br><br>
 </section>
 
 <section>
 <h4 id="t">t</h4>
 Tonkin Jasmine<br>
-Torch ginger<br>
+Torch Ginger<br>
 Turk's Turban<br>
 	<br><br>
 </section>
