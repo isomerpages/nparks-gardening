@@ -31,15 +31,9 @@ image: ""
 </section>
 
 <section>
-  <h4>Sowing seeds:</h4>
+  <h4>Growing:</h4>
 	<p>Mulberry trees are rapid growers and generally do not require fertilising. Regular hard pruning will keep the plant at a manageable size and encourage fruiting.</p>
 	<p>The tree will need to be around 4 years old before it starts producing fruit if grown from seed. Rooted cuttings can produce fruit after a month if taken from a mature tree.</p>
-<br>
-</section>
-
-<section>
-	<h4>Growing:</h4>
-	<p>Curry trees are rapid growers and will need regular pruning to be maintained at manageable height. Because they already grow rapidly, they generally do not require fertilising, but a use of a high nitrogen fertiliser after hard pruning will encourage the plant to bounce back quickly. </p>
 <br>
 </section>
 
