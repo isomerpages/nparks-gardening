@@ -32,7 +32,7 @@ image: ""
 
 <section>
 	<h4>Growing:</h4>
-	<p>Taro grows rapidly in the rainy season and has the potential to overwhelm neighbouring plants. Its large size and rapid growth make it a good filler plant for parts of the garden with waterlogged soil or that are prone to flooding. Grow Taro in its own garden bed or in a designated area for ease of maintenance. </p>
+	<p>Turmeric naturally grows in clusters as the plant grows more rhizomes. Thin plants out to give them around 5-10cm of space to encourage the production of more rhizomes.</p>
 <br>
 </section>
 
