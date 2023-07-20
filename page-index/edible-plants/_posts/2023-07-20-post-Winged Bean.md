@@ -26,39 +26,37 @@ image: ""
 
 <section>
 	<h4>Environmental needs:</h4>
-<p>This vine does best in full sun gardens with a minimum of 6 hours of direct sunlight. It can also grow in 4-6hours of direct sunlight or more than 6 hours of indirect sunlight, but the plant may be less lush and produce less fruits. </p>
-<p>Plants do best in moist, well-drained soil at least 30cm deep, or in true ground. </p>
-<p>This vine is vulnerable to heat stress during the dry season. Water it regularly and mulch the base to prevent water loss.</p>
-<p>As a fast-growing vine, this plant can be grown on the ground or trained up a sturdy trellis. The fruits are quite long and often exceed 30cm, so they do best on tall trellises. </p>
+	<p>This vine does best in full sun gardens with a minimum of 6 hours of sunlight. It can also grow in gardens with more than 4 hours of direct sunlight or at least 6 hours of indirect sunlight, but it may grow slower and produce less fruit.</p>
+	<p>Plants do best in moist, well-drained soil at least 30cm deep, or in true ground. These plants are vulnerable to root rot, so ensure that your soil drains well, and that your soil has plenty of organic matter to let the roots breathe. Keep your plants cool with mulch and plenty of water to encourage growth.</p>
+	<p>As a fast-growing vine, this plant can be grown on the ground or trained up a sturdy trellis.</p>
 	
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/SUQGxxAAcNs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
-	
-<p>As with all members of the bean family, this plant is pollinated by bees. Growing more bee-attracting plants within the garden will encourage pollination. </p>
-<br>
+	<br>
+	<p>As with all members of the bean family, this plant is pollinated by bees. Growing more bee-attracting plants within the garden will encourage pollination. If your garden lacks bees, the plant can also be hand pollinated.</p>
+	<br>
 </section>
 
 <section>
   <h4>Sowing seeds:</h4>
-<p>Seeds can be sown directly into pots or the ground around 15-30cm apart. Lightly water the soil until damp, once a day. Seeds should sprout within 2 weeks. </p>
+	<p>Seeds can be sown directly into pots or the ground around 15-30cm apart. Lightly water the soil until damp, once a day. Seeds should sprout within 10 days.</p>
 	
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/x7J87wY7U6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
-
-<p>The seedlings are generally resilient to most environmental factors but may be vulnerable to being eaten by snails or birds. Protect your young plants with a DIY cloche or netting. </p>
+<br>
+	<p>The seedlings are generally resilient to most environmental factors but may be vulnerable to being eaten by snails or birds. Protect your young plants with a DIY cloche or netting.</p>
 	<br>
 </section>
 
 <section>
 	<h4>Growing:</h4>
-<p>Bean plants generally don’t require much fertilising because they are able to fix their own nitrogen. 
-Because the vines will grow on top of each other, it is a good practice to prune regularly and remove dead leaves and vines to improve ventilation and allow light to reach more of the plant.</p>
+	<p>Bean plants generally don’t require much fertilising because they are able to fix their own nitrogen.</p>
+	<p>Because the vines will grow on top of each other, it is a good practice to prune regularly and remove dead leaves and vines to improve ventilation and allow light to reach more of the plant.</p>
 	<br>
 </section>
 
 <section>
 	<h4>Harvesting:</h4>
-<p>Plants can be harvested for fruits around 2 months after sowing. The best time to harvest the fruit is in the early morning, before 9am. </p>
-<p>Only green, immature beans can be eaten. Dry, brown pods are mature, and can be used for seeds.
-</p>
+	<p>Plants can be harvested for fruits around 2 months after sowing. The best time to harvest the fruit is in the early morning, before 9am.</p>
+	<p>Only green, immature beans can be eaten. Dry, brown pods are mature, and can be used for seeds.</p>
 	
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/eGBg_S8yj0U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
 <br>
