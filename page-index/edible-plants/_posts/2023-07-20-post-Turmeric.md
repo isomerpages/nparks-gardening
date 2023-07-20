@@ -25,8 +25,8 @@ image: ""
 
 <section>
 	<h4>Environmental needs:</h4>
-<p>Torch Gingers thrive in 4-8 hours of direct sunlight, or 6-8 hours of indirect sunlight. Plants do best in moist, well-drained soil at least 30cm deep, making them best suited for true ground planting. These plants are vulnerable to root rot, so ensure that your soil drains well, and that your soil has plenty of organic matter to let the roots breathe. </p><p>
-	</p><p>This plant will not do well in places with a lot of wind, like on rooftop gardens. Protect the plant with other larger plants nearby to block off the wind. </p>
+<p>Turmeric thrives in 2-6 hours of direct sunlight, but plants can also tolerate about 4-8 hours of indirect sunlight. Plants do best in moist, well-drained soil at least 15cm deep, making them suitable for container gardening and corridor gardening. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe. </p>
+<p>This plant will not do well in places with a lot of wind, like on rooftop gardens or corridor gardens on high floors. Protect the plant with other larger plants nearby to block off the wind.</p>
 	<br>
 </section>
 
