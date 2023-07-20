@@ -53,12 +53,12 @@ Arrowroot <br>
 <section>
 <h4 id="b">b</h4>
 Bangkuang <br>
-	<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/bayam/">Bayam</a><br>
+	<a href="/page-index/edible-plants/bayam/">Bayam</a><br>
 Belimbling <br>
-<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/bitter-gourd/">Bitter Gourd</a><br>
+<a href="/page-index/edible-plants/bitter-gourd/">Bitter Gourd</a><br>
 Bottle Gourd <br>
 <a href="/page-index/edible-plants/brinjal/">Brinjal</a><br>
-	<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/butterfly-pea/">Butterfly Pea</a><br>
+	<a href="/page-index/edible-plants/butterfly-pea/">Butterfly Pea</a><br>
 	 <br><br>
 </section>
 
