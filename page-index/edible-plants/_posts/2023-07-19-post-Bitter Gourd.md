@@ -37,7 +37,7 @@ image: ""
 
 <section>
   <h4>Sowing seeds:</h4>
-<p>Seeds can be sown directly into pots or the ground around 15-30cm apart. Lightly water the soil until damp, once a day. Seeds should sprout within 2 weeks.</p>
+<p><a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/propagatingseed/">Seeds can be sown directly into pots or the ground around 15-30cm apart</a>. Lightly water the soil until damp, once a day. Seeds should sprout within 2 weeks.</p>
 	
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/x7J87wY7U6s" height="415" width="100%"></iframe>	<br>
 
