@@ -38,8 +38,8 @@ image: ""
 
 <section>
 	<h4>Harvesting:</h4>
-<p>Plants can be harvested for tubers and young leaflets at any time but will need at least 4 to 10 months to produce additional tubers after being planted.  The tubers are typically harvested via division, while young leaves are harvested via the cut-and-come-again method.</p>
-<p>The tubers and leaves should not be eaten raw as they contain calcium oxalate, which is toxic. The calcium oxalate is destroyed by cooking with heat.</p>
+<p>Plants can be harvested for rhizomes at any time. They are typically harvested continuously via division.</p> 
+<p>Take note that the yellow sap can stain clothes and skin and is notoriously hard to remove. Use gloves and a gardening apron to avoid this.</p>
 	<br>
 </section>
 
