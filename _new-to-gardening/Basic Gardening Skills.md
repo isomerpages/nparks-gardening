@@ -14,8 +14,7 @@ description: ""
 	<li>Weeding</li>
 	<li>Spacing plants</li>
 	<li>Fertilising</li>
-	<li>Identifying soil</li>
-	<li>Mixing soil</li>
+	<li><a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/soil/">Identifying and mixing soil</a></li>
 	<li><a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/digital-tools/pestid/">Identifying pests</a></li>
 	<li>Integrated Pest management</li>
 </ul>
