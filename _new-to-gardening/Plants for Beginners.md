@@ -17,12 +17,12 @@ description: ""
 <section>
 	<p>If that list is too overwhelming, here are some plants that are able to survive in a large range of conditions in Singapore, and are generally pest-resistant:</p>
 	<ul>
-	<li>Bayam</li>
-	<li>Indian Borage</li>
-	<li>Laksa</li>
+		<li><a href="/page-index/edible-plants/bayam/">Bayam</a></li>
+		<li><a href="/page-index/edible-plants/indian-borage/">Indian Borage</a></li>
+		<li><a href="/page-index/edible-plants/laksa/">Laksa</a></li>
 	<li>Mother of Thousands</li>
 	<li>Snake Plant</li>
-	<li>Thai Basil</li>
-	<li>Turmeric</li>
+		<li><a href="/page-index/edible-plants/thai-basil/">Thai Basil</a></li>
+		<li><a href="/page-index/edible-plants/turmeric/">Turmeric</a></li>
 	</ul>
 </section>
