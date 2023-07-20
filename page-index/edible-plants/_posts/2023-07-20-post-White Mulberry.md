@@ -16,6 +16,7 @@ image: ""
 </section>
 
 <section>
+	<img title="Mulberry fruits in varying stages of ripeness. Photo by Jacqueline Chua" src="/images/Plants/Mulberry_JacChua.jpg">
 	<p>White Mulberry trees are a common addition to Southeast Asian edible gardens and produce edible leaves and fruit. The leaves can be dried and made into tea, while the ripe and unripe fruits are eaten raw or part of desserts.</p>
 	<p>As a perennial tree, it is a common sight in edible gardens, permaculture gardens, and low maintenance beds.</p>       
 	<br>
@@ -32,6 +33,7 @@ image: ""
 
 <section>
   <h4>Growing:</h4>
+	<img title="Gardeners purining a mulberry bush. Photo by Jacqueline Chua" src="/images/Gardeners/Oasis%20Terraces%20(20).jpg">
 	<p>Mulberry trees are rapid growers and generally do not require fertilising. Regular hard pruning will keep the plant at a manageable size and encourage fruiting.</p>
 	<p>The tree will need to be around 4 years old before it starts producing fruit if grown from seed. Rooted cuttings can produce fruit after a month if taken from a mature tree.</p>
 <br>
