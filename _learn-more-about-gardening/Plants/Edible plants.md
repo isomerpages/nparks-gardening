@@ -58,7 +58,7 @@ Belimbling <br>
 <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/bitter-gourd/">Bitter Gourd</a><br>
 Bottle Gourd <br>
 <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/brinjal/">Brinjal</a><br>
-	<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/butterfly-pea/">Butterfly pea</a><br>
+	<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/butterfly-pea/">Butterfly Pea</a><br>
 	 <br><br>
 </section>
 
@@ -70,12 +70,12 @@ Chiku <br>
 <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/chilli/">Chilli</a><br>
 Chinese Mustard <br>
 	<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/chives/">Chives</a><br>
-Common pepper <br>
+Common Pepper <br>
 Corn <br>
-	<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/cranberry-hibiscus/">Cranberry hibiscus</a> <br>
+	<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/cranberry-hibiscus/">Cranberry Hibiscus</a> <br>
 <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/cucumber/">Cucumber</a><br>
 <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/curry-leaf-plant/">Curry Leaf Plant</a><br>
-Custard apple <br>
+Custard Apple <br>
 	 <br><br>
 </section>
 
@@ -136,7 +136,7 @@ Kale<br>
 <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/lettuce/">Lettuce</a><br>
 Limau Purut<br>
 <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/lime/">Lime</a><br>
-Long bean<br>
+Long Bean<br>
 Longevity Spinach<br>
 <br><br>
 </section>
@@ -154,7 +154,7 @@ Mexican Tarragon<br>
 	
 <section>
 <h4 id="o">o</h4>
-<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/okinawan-spinach/">Okinawan spinach</a><br>
+<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/okinawan-spinach/">Okinawan Spinach</a><br>
 <br><br>
 </section>
 
@@ -180,7 +180,7 @@ Radish<br>
 
 <section>
 <h4 id="s">s</h4>
-	<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/sand-ginger/">Sand ginger</a><br>
+	<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/sand-ginger/">Sand Ginger</a><br>
 Sawtooth Coriander<br>
 Scarlet Spiral Flag<br>
 Sissoo Spinach<br>
@@ -190,8 +190,8 @@ Soursop<br>
 Spearmint<br>
 	<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/sunflower/">Sunflowers</a><br>
 Surinam Purslane<br>
-	<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/sweet-potato/">Sweet potato</a><br>
-Sword bean<br>
+	<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/sweet-potato/">Sweet Potato</a><br>
+Sword Bean<br>
 <br><br>
 </section>
 
@@ -202,7 +202,7 @@ Taro<br>
 	<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/thai-basil/">Thai Basil</a><br>
 	<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/tomato/">Tomato</a><br>
 Tonkin Jasmine<br>
-Torch ginger<br>
+Torch Ginger<br>
 Turmeric<br>
 	<br><br>
 </section>
@@ -222,8 +222,8 @@ Ulam Raja<br>
 <h4 id="w">w</h4>
 Water Chestnut<br>
 Watermelon<br>
-White mulberry<br>
-Wild pepper<br>
+White Mulberry<br>
+Wild Pepper<br>
 Winged Bean<br>
 Winter Melon<br>
 	<br><br>
