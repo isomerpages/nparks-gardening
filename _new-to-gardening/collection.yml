@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - Gardening 101.md
-      - Resource suggester.md
+      - Resource Suggester.md
       - Basic Gardening Skills.md
       - Plants for Beginners.md
