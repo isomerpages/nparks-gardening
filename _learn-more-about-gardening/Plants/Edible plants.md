@@ -174,7 +174,7 @@ Pumpkin <br>
 	
 <section>
 <h4 id="r">r</h4>
-Radish<br>
+	<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/radish/">Radish</a><br>
 <br><br>
 </section>
 
@@ -183,8 +183,8 @@ Radish<br>
 	<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/sand-ginger/">Sand Ginger</a><br>
 Sawtooth Coriander<br>
 Scarlet Spiral Flag<br>
-Sissoo Spinach<br>
-Smooth Loofah<br>
+<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/sissoo-spinach/">Sissoo Spinach</a><br>
+<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/smooth-loofah/">Smooth Loofah</a><br>
 Snake Gourd<br>
 Soursop<br>
 	<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/lime/">Spearmint</a><br>
