@@ -25,7 +25,7 @@ image: ""
 	<h4>Environmental needs:</h4>
 <p>Ulam Raja grows well in 6-8 hours of direct sunlight. Plants do best in moist, well-drained soil at least 20cm deep, making them suitable for container gardening. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe.</p>
 	<br>
-	</section>
+</section>
 
 <section>
   <h4>Sowing seeds:</h4>
@@ -37,6 +37,12 @@ image: ""
 <p>Seeds can be sown directly into pots or the ground around 15cm apart. Lightly water the soil until damp, once a day. Seeds should sprout within 10 days.</p>
 	<br>
 </section>
+
+<section>
+	<h4>Transplanting</h4><h4>
+<p>Seedlings will be ready for transplanting into pots or true ground when they have developed 4 or more leaves, or roughly a week or two after germination. Leave 15cm between each plant to encourage more growth and better ventilation.</p>
+	<br>
+</h4></section>
 
 <section>
 	<h4>Growing:</h4>
