@@ -16,7 +16,7 @@ image: ""
 </section> 
  
 <section> 
-<img style="height:390px; width:520px" src="![](/images/Plants/bambooorchid_ffw.jpg)"> 
+<img src="/images/Plants/bambooorchid_ffw.jpg"> 
  
 <p>Bamboo Orchids are a hardy free-flowering plant that is commonly seen in rewilding areas, nature parks, in roadside gardens, and biodiversity-attracting gardens. The flowers can be stir-fried, and have a taste similar to bittergourd. This plant is also native to Singapore and is naturally found growing along forest streams and grassy areas.</p>
 <p>A perennial flower, Bamboo Orchids are useful as bee-attracting plants and perimeter plants to add a pop of colour to any garden.</p> 
@@ -25,7 +25,6 @@ image: ""
  
 <section> 
   <h4>Environmental needs:</h4> 
-  <img style="height:390px; width:520px" src="/ image extension link in Isomer CMS"> 
     	<p> This plant thrives in 4-8 hours of direct sunlight, but can also grow in at least 6 hours of indirect sunlight but may flower less. Plants do best in moist, well-drained soil at least 15cm deep making them suitable for container gardening. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe.</p><p> 
 
 </p></section>
