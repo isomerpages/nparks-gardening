@@ -11,7 +11,7 @@ image: ""
 </header>
 	
 <section>
-	<p><strong>Other common names:</strong> Blue Pea, Blue Vine, Pigeon Wings, Mussel Shell Creeper, Bunga Telang, 蝶豆, 蝴蝶花豆</p>
+	<p><strong>Other common names:</strong> Wild Cosmos, Cosmos, Ulam Raja, Pelampong, 帝皇乌蓝</p>
 	<br>
 </section>
 
