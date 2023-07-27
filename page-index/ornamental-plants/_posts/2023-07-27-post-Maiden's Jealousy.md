@@ -7,7 +7,7 @@ description: ""
 image: ""
 ---
 <header> 
-	<h3>Brazilian Tea (<em>Stachytarpheta jamaicensis</em>)</h3> 
+	<h3>Brazilian Tea (<em>Tristellateia australasiae</em>)</h3> 
 </header> 
  
 <section> 
