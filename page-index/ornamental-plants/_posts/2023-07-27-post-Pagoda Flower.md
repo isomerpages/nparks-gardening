@@ -7,11 +7,11 @@ description: ""
 image: ""
 ---
 <header> 
-	<h3>Malayan Ixora (<em>Ixora congesta</em>)</h3> 
+	<h3>Pagoda Flower (<em>Clerodendrum paniculatum</em>)</h3> 
 </header> 
  
 <section> 
-	<p><strong>Other common names:</strong> Jarum-jarum, Khem Deang</p> 
+	<p><strong>Other common names:</strong> 圆锥大青</p> 
 	<br> 
 </section> 
  
