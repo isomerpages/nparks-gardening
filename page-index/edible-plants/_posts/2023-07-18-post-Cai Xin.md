@@ -7,29 +7,27 @@ description: ""
 image: ""
 ---
 <header> 
-<h3>Cai Xin (<em>Brassica rapa Caisin Group</em>)</h3> 
+	<h3>Cai Xin (<em>Brassica rapa Caisin Group</em>)</h3> 
 </header> 
  
 <section> 
-<p><strong>Other common names:</strong> Sawi, Chinese Flowering Cabbage, Choy sum, 菜心</p> 
-<br> 
+	<p><strong>Other common names:</strong> Sawi, Chinese Flowering Cabbage, Choy sum, 菜心</p> 
+	<br> 
 </section> 
  
 <section> 
-<img src="/images/Plants/CaiXin_JacChua%20(2).jpg"> 
- 
-<p>A staple vegetable in many Chinese homes, Cai Xin is a tender leafy vegetable that can be blanched, stir-fried, or added to soup. The green variety is most common in markets, but some gardeners have also been growing a purple variety from seed!</p>
-<p>An annual crop, this plant is often grown and consumed under 2 months. Its rapid harvest cycle makes it useful for crop rotation.</p>
-<p>Due to its shallow root system, these plants are a popular choice for container gardening and corridor gardening.</p>
-<p>Cai Xin is part of the Brassica or cabbage family, which also includes other popular vegetables like Kai Lan and Xiao Bai Cai. Like a cabbage, Cai Xin will produce a head of leaves that can be harvested all at once. You can prolong your harvest by instead harvesting individual older leaves via the <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/cut-and-come-again/">cut-and-come-again</a> method.</p>
+	<img src="/images/Plants/CaiXin_JacChua%20(2).jpg"> 
+	<p>A staple vegetable in many Chinese homes, Cai Xin is a tender leafy vegetable that can be blanched, stir-fried, or added to soup. The green variety is most common in markets, but some gardeners have also been growing a purple variety from seed!</p>
+	<p>An annual crop, this plant is often grown and consumed under 2 months. Its rapid harvest cycle makes it useful for crop rotation.</p>
+	<p>Due to its shallow root system, these plants are a popular choice for container gardening and corridor gardening.</p>
+	<p>Cai Xin is part of the Brassica or cabbage family, which also includes other popular vegetables like Kai Lan and Xiao Bai Cai. Like a cabbage, Cai Xin will produce a head of leaves that can be harvested all at once. You can prolong your harvest by instead harvesting individual older leaves via the <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/cut-and-come-again/">cut-and-come-again</a> method.</p>
   <br> 
 </section> 
  
 <section> 
   <h4>Environmental needs:</h4> 
-  <img style="height:390px; width:520px" src="/images/Plants/Caixin_JacChua.jpg"> 
-
-<p> Cai Xin does best in  <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/gauging-light/">more than 6 or more hours of indirect sunlight, or around 4-5 hours of direct sunlight</a>. Plants do best in moist, well-drained soil at least 10cm deep, making them suitable for container gardening. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe. Keep your plants cool with mulch and plenty of water to encourage growth.</p> 
+		<img title="Photo by Jacqueline Chua" src="/images/Plants/Caixin_JacChua.jpg">
+		<p> Cai Xin does best in  <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/gauging-light/">more than 6 or more hours of indirect sunlight, or around 4-5 hours of direct sunlight</a>. Plants do best in moist, well-drained soil at least 10cm deep, making them suitable for container gardening. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe. Keep your plants cool with mulch and plenty of water to encourage growth.</p> 
 <br> 
 </section> 
  
