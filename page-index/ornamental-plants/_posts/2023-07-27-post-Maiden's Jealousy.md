@@ -11,7 +11,7 @@ image: ""
 </header> 
  
 <section> 
-	<p><strong>Other common names:</strong> Brazilian Tea, Rooter Comb, Verbena Cimarrona, Gervao, Blue Porter Weed</p> 
+	<p><strong>Other common names:</strong> Galphimia Vine, Golden Rod, Australian Gold Vine, 三星果</p> 
 	<br> 
 </section> 
  
