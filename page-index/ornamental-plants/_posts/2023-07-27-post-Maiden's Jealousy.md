@@ -7,7 +7,7 @@ description: ""
 image: ""
 ---
 <header> 
-	<h3>Brazilian Tea (<em>Tristellateia australasiae</em>)</h3> 
+	<h3>Maiden's Jealousy (<em>Tristellateia australasiae</em>)</h3> 
 </header> 
  
 <section> 
@@ -29,19 +29,19 @@ image: ""
 
 <section> 
   <h4>Growing:</h4> 
-		<p>Brazilian Tea plants are rapid growers and generally does not need fertilizing. The shrub can rapidly grow up to 1m in height and will need to be hard pruned regularly. Regular pruning to promote airflow will keep the plant healthy and neat.</p> 
+		<p>Maiden’s Jealousy are rapid growers and generally does not need fertilizing. The vine can rapidly grow up to 10m in height if it has a high enough trellis and will need to be pruned regularly. Regular pruning to promote airflow will keep the plant healthy and neat.</p> 
 	<br> 
 </section> 
 
 <section> 
   <h4>Propagation:</h4> 
-		<p>Brazilian Tea plants can be grown from seed or stem cuttings rooted in water or soil.</p> 
+		<p>Maiden’s Jealousy can be grown from seed or woody cuttings with rooting hormone.</p> 
 	<br> 
 </section> 
  
 <section> 
   <h4>Common problems &amp; solutions:</h4> 
 		<p>This plant is relatively resistant to pests and disease if kept healthy.</p>
-		<p>This plant can be considered weedy if left unmanaged. Regularly prune the plant to maintain its size and remove accidental seedlings if found.</p>
+		<p>If the plant does not receive enough light, it will stop producing flowers. Prune surrounding plants or move the plant to a sunnier spot to promote flower growth.</p>
 	<br> 
 </section>
