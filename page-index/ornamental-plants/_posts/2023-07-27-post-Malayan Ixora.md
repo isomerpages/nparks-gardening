@@ -29,19 +29,20 @@ image: ""
 
 <section> 
   <h4>Growing:</h4> 
-		<p>Maiden’s Jealousy are rapid growers and generally does not need fertilizing. The vine can rapidly grow up to 10m in height if it has a high enough trellis and will need to be pruned regularly. Regular pruning to promote airflow will keep the plant healthy and neat.</p> 
+		<p>Malayan Ixoras are steady growers and generally does not need fertilising. This shrub can grow up to 7m in height and will need to be pruned regularly. Regular pruning to promote airflow will keep the plant healthy and neat.</p> 
 	<br> 
 </section> 
 
 <section> 
   <h4>Propagation:</h4> 
-		<p>Maiden’s Jealousy can be grown from seed or woody cuttings with rooting hormone.</p> 
+		<p>Malayan Ixoras can be grown from seed or woody cuttings with rooting hormone.</p> 
 	<br> 
 </section> 
  
 <section> 
   <h4>Common problems &amp; solutions:</h4> 
 		<p>This plant is relatively resistant to pests and disease if kept healthy.</p>
+		<p>Malayan Ixoras may look leggy when young. Encourage bushiness with regular pruning.</p>
 		<p>If the plant does not receive enough light, it will stop producing flowers. Prune surrounding plants or move the plant to a sunnier spot to promote flower growth.</p>
 	<br> 
 </section>
