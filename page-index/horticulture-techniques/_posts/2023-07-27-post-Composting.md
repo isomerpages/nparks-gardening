@@ -13,7 +13,7 @@ image: ""
 <section>
 <h4>What can you compost?</h4>
 <p>Compost is usually made from plant materials that are categorized into <b>“Greens”</b> and <b>“Browns”</b>. </p>
-	<img title="Leafy greens and uncooked vegetable scraps to be used for composting. Photo by Jacqueline Chua." src="/images/Horti%20techniques/Composting_Greens_Jacchua%20(1).jpg">
+	<img title="Fresh leaves, leafy greens, uncooked vegetable scraps to be used for composting. Photo by Jacqueline Chua." src="/images/Horti%20techniques/Composting_Greens_Jacchua%20(1).jpg">
 <p><b>“Greens”</b> are materials with a lot of nitrogen and tend to be fresh and sappy. Some examples found at home and in the garden are:</p>
 <ul>
 <li>Freshly pruned leaves</li>
