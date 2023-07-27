@@ -37,7 +37,7 @@ image: ""
 <li>Cardboard</li>	
 <li>Woody stems and soft wood*</li>
 	<ul>
-		<li>*Make sure these materials are broken down into small pieces as they take the longest to decompose</li>
+		<li>*Make sure these materials are broken down into small pieces before you add them to your compost as they take the longest to decompose</li>
 	</ul>
 </ul>
 <p>Organic materials will break down faster if they are in smaller pieces, so it is best practice to cut up them up before adding new materials to your compost.</p>
