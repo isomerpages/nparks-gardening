@@ -50,7 +50,7 @@ image: ""
 <h4>What should I compost in, and where?</h4>
 <p>Gardeners in rural areas used to dig large holes to bury composting materials in directly. However, actively rotting compost uses up nitrogen as it is being broken down, which tend to result in plants growing nearby to suffer nutrient deficiencies until the compost decomposes fully and becomes mature. Soil biodiversity like bacteria and fungi that are causing the decomposition process can also affect plants to cause root rot or other problems. In addition, pests can dig up buried compost piles, making a mess and hindering the composting process. With this in mind, designating a space separate from your growing area for composting is the most practical solution.</p>
 <p>Composting is usually be done in a container of some kind, usually made of plastic that can be drilled to make holes for aeration and still protect the compost from pests. Compost can also be made in a heap and covered with a tarp, but this is less secure from animals, generally messier, and will need a large space. </p>
-<p>Compost should also be left in a shady area out of the rain to prevent it from getting too dry or wet. Dry compost will stop decomposing, while overly wet compost may start becoming anaerobic, and produce unpleasant smells. </p>
+<p>Compost should be left in a shady area out of the rain to prevent it from getting too dry or wet. Dry compost will stop decomposing, while overly wet compost may start becoming anaerobic, and produce unpleasant smells. </p>
 </section>
 <br>
 <section>
