@@ -23,7 +23,7 @@ image: ""
  
 <section> 
   <h4>Environmental needs:</h4> 
-    	<p>This plant thrives in 4-8 hours of direct sunlight. It can also tolerate areas with more than 6 hours of indirect sunlight, but may produce less flowers. Plants do best in moist, well-drained soil. These plants are vulnerable to root rot, so ensure that your soil has plenty of organic matter to let the roots breathe. This plant is a versatile climber that does well on a variety of trellises.</p> 
+    	<p>This plant thrives in less than 6 hours of direct sunlight or 4-8 hours of indirect sunlight. Plants do best in moist, well-drained soil.</p> 
 	<br>
 </section>
 
