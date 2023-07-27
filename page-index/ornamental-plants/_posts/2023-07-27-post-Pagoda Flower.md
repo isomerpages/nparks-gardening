@@ -29,20 +29,21 @@ image: ""
 
 <section> 
   <h4>Growing:</h4> 
-		<p>Malayan Ixoras are steady growers and generally does not need fertilising. This shrub can grow up to 7m in height and will need to be pruned regularly. Regular pruning to promote airflow will keep the plant healthy and neat.</p> 
+		<p>Pagoda flowers are rapid growers but do benefit from being fed high potassium and phosphorus fertilisers to encourage flowering. This shrub can grow up to 1.5m in height and will need to be pruned regularly. Regular pruning after flowering will keep the plant healthy and neat, and encourage a bushier growth. Remove suckers regularly to manage its spread.</p> 
 	<br> 
 </section> 
 
 <section> 
   <h4>Propagation:</h4> 
-		<p>Malayan Ixoras can be grown from seed or woody cuttings with rooting hormone.</p> 
+		<p>Pagoda flowers can be propagated from suckers or woody cuttings with rooting hormone.</p> 
 	<br> 
 </section> 
  
 <section> 
   <h4>Common problems &amp; solutions:</h4> 
 		<p>This plant is relatively resistant to pests and disease if kept healthy.</p>
-		<p>Malayan Ixoras may look leggy when young. Encourage bushiness with regular pruning.</p>
+		<p>Pagoda Flowers will grow leggy when left unmanaged. Encourage bushiness with regular pruning.</p>
+		<p>Aphids, mealy bugs, and spider mites often infest the plant if it is sickly or overgrown. Prune off the infested parts, or apply horticultural oils like neem oil and white summer oil to suffocate the remaining pests. Regularly prune the plant to allow light and air to reach throughout the plant, and check the plant for underlying problems like root rot, lack of sunlight, and nutrient deficiencies.</p>
 		<p>If the plant does not receive enough light, it will stop producing flowers. Prune surrounding plants or move the plant to a sunnier spot to promote flower growth.</p>
 	<br> 
 </section>
