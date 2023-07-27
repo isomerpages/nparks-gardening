@@ -16,14 +16,14 @@ image: ""
 </section> 
  
 <section> 
-	<p>Malayan Ixoras are a hardy shrub that is commonly seen in rewilding areas, nature parks, in roadside gardens, and biodiversity-attracting gardens. The nectar-filled flowers is highly attractive to a wide range of insects, including butterflies, ants and moths. The berry-like fruits are attractive birds and small mammals. This plant is also native to Singapore and is naturally found growing along primary and secondary forests.</p>
-	<p>A perennial shrub, Malayan Ixoras are useful as biodiversity-attracting plants and perimeter plants to add a pop of colour to any garden.</p>
+	<p>Pagoda flowers are a hardy shrub that is commonly seen in low-maintenance beds and biodiversity-attracting gardens. The showy, nectar-filled flowers are highly attractive to butterflies and nectivorous birds.</p>
+	<p>A perennial shrub, Pagoda Flowers are useful as biodiversity-attracting plants and perimeter plants to add a pop of colour to any garden.</p><p>
 	 <br> 
-</section> 
+</p></section> 
  
 <section> 
   <h4>Environmental needs:</h4> 
-    	<p>This plant thrives in less than 6 hours of direct sunlight or 4-8 hours of indirect sunlight. Plants do best in moist, well-drained soil.</p> 
+    	<p>This plant thrives in 4-6 hours of direct sunlight and more than 6 hours of indirect sunlight. This plant does not do well with more than 6 hours of direct sunlight and is not suitable for exposed gardens like on rooftops.  Plants do best in moist, well-drained soil at least 30cm deep, making them suitable for large pots. However, if planted in true ground and left with a lot of space, the plant can rapidly grow suckers and spread. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe. This plant is relatively drought tolerant and can withstand some neglect.</p> 
 	<br>
 </section>
 
