@@ -71,6 +71,7 @@ image: ""
 <br>
 <section>
 <h4>Vermicomposting</h4>
+	<img title="Hands holding red wiggler composting worms and vermicompost. Photo by Jacqueline Chua" src="/images/Biodiversity/Earthworm_RedWigglers_JacChua.jpg">
 <p><b>Vermicomposting</b> is similar to traditional composting, but with the addition of composting earthworms. These worms are not the same species as the ones found naturally in garden beds as they are adapted to living in mostly organic matter and not true ground itself. Composting earthworms eat the decaying organic material, producing vermicasts as they digest their food. Vermicasts are a useful organic fertiliser that can be used as a source of nitrogen for plants. </p>
 <p>There are custom worm bins that can be bought to protect the earthworms from predators and to make the collection of vermicasts and mature compost easier. They come in various sizes and are usually much smaller than traditional composting bins. They need plenty of air holes to keep the earthworms healthy, and a drainage mechanism to remove excess liquid produced by the earthworms. This liquid is called worm leachate, and like vermicasts, can be used as organic fertiliser. </p>
 <p>Earthworms will break down most kinds of leafy kitchen waste and fruit peels very quickly, but are sensitive to acidic materials like citrus peels, as well as strong-smelling produce like onions and garlic. They also eat pulpy brown materials like cardboard and newspapers. Unlike traditional compost, more greens can be added periodically as the worms eat these materials first. </p>
