@@ -7,6 +7,7 @@ description: ""
 image: ""
 ---
 <section>
+	<img title="Gardeners with freshly transplanted plants in true ground. Photo by Jacqueline Chua." src="/images/Garden%20design/JalanKayu_JacChua.jpg">
 <p><b>True ground planting</b> requires a lot of hard work and the luxury of space. This is because most sites in Singapore naturally have heavy clay soil that is difficult to work with and will need gradual improvement. However, soil will naturally improve the longer that it has been planted in, and your true ground planting will yield many benefits in the long run. </p>
 </section>
 <br>
