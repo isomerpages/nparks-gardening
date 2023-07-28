@@ -36,3 +36,8 @@ image: ""
 <p>Via <b>watering</b>, in which fertiliser is mixed with water and applied directly to plant roots. Care needs to be taken to avoid touching leaves with fertiliser liquid, which can cause burns.</p>
 <p>Take care to always apply fertiliser in moderation, as overuse of fertiliser can cause algal blooms in waterways and encourage the growth of weeds!</p>
 </section>
+<br>
+<section>
+<h4>When do I fertilise my plants?</h4>
+<p>It is best to fertilise your plants during dry weather, as rain can wash your freshly applied fertiliser away. Plants also will benefit from fertilisers during times of stress, like after transplanting or hard pruning. </p>
+</section>
