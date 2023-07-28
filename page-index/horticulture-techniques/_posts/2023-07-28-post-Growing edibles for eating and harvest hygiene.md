@@ -31,6 +31,6 @@ image: ""
 	<br>
 <p>Edible plants should be harvested with a clean pair of secateurs or scissors to prevent the spread of plant diseases. Rotting and damaged leaves or fruit should be trimmed off.</p>
 <p>Wash all harvested plants thoroughly to remove soil, pests and environmental contaminants from your crops. Dry your harvest with clean paper towels and store in a cool dry place or the fridge before consumption. </p>
-	<img title="A checklist of goos practices to grow and harvest crops safely." src="/images/Horti%20techniques/good%20food%20safety%20practices_poster.png">
+	<img width="1000" title="A checklist of goos practices to grow and harvest crops safely." src="/images/Horti%20techniques/good%20food%20safety%20practices_poster.png">
 	<p> Download and print out our <a href="/files/good%20food%20safety%20practices%20when%20growing%20edibles%20poster.pdf">checklist for the safe growing and harvesting of edible plants</a>!</p>
 </section>
