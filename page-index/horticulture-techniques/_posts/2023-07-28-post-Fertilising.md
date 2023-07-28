@@ -30,7 +30,7 @@ image: ""
 <p>Fertilisers will generally come with instructions for application and will vary based on product. The most common ways are:</p>
 <img title="A Community Gardener scattering fertiliser onto a new planting bed as top dressing. Photo by NParks." src="/images/Gardeners/Fertilising.jpg">
 <p>As <b>top dressing</b> in which fertilisers are scattered on the surface of the ground around plants, and then watered in. This is a fast way to spread fertiliser, but care needs to be taken to avoid touching leaves with fertiliser pellets or powders, which can cause burns. </p>
-<img title="A Community Gardeners mixing soil. Photo by Jacqueline Chua." src="/images/Gardeners/Digging%20(4).jpg">
+<img title="Community Gardeners mixing soil. Photo by Jacqueline Chua." src="/images/Gardeners/Digging%20(4).jpg">
 <p>As <b>base dressing</b>, in which fertilisers are directly mixed into soil. The best time to add base dressing to soil is before new plants are transplanted into their permanent growing place. </p>
 <img title="A Community Gardener watering plants with diluted liquid fertiliser. Photo by NParks." src="/images/Gardeners/Planting%20(1).jpg">
 <p>Via <b>watering</b>, in which fertiliser is mixed with water and applied directly to plant roots. Care needs to be taken to avoid touching leaves with fertiliser liquid, which can cause burns.</p>
