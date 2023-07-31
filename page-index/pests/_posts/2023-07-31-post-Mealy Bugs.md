@@ -7,13 +7,8 @@ description: ""
 image: ""
 ---
 <header>
-	<h3>Leaf Miners (<em>Liriomyza</em> sp.)</h3>
+	<h3>Mealy Bugs (<em>Pseudococcidae</em>)</h3>
 </header>
-	
-<section>
-	<p><strong>Other common names:</strong> Plant louse, Greenfly or Ant cow</p>
-	<br>
-</section>
 
 <section>
 	<img title="Photo by Jacqueline Chua." src="/images/Biodiversity/LeafMiner_JacChua.jpg">
