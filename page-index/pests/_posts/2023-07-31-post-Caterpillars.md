@@ -19,7 +19,7 @@ image: ""
 </section>
 		
 <section>
-<h4>Symptoms</h4>
+	<h4>Symptoms</h4>
 	<img title="A Kai lan leaf skeletonised by caterpillars. Photo by Jacqueline Chua." src="/images/Biodiversity/CaterpillarDamage_JacChua%20(2).jpg">
 <p>Affected leaves can become skeletonised by the caterpillars, which are voracious feeders in their last stage.</p>
 		<img title="Caterpillar faecal pellets found under extensively eaten leaves. photo by Victoria Lim." src="/images/Biodiversity/caterpillar%20damage%20on%20cabbage%20leaf%20-%20frass%20(1)victorialim.jpg">
@@ -30,10 +30,10 @@ image: ""
 </section>
 
 <section>
-<h4>Preventive and control measures:</h4>
+	<h4>Preventive and control measures:</h4>
 	<img title="A lime caterpillar next to a partially eaten leaf. Lime caterpillars are often reared by schools for science class. Photo by Jacqueline Chua." src="/images/Biodiversity/Caterpillar_LimeCaterpillar_JacChua%20(1).jpg">
 <p>Remove caterpillars and eggs by hand as soon as they are spotted. Preschools and primary schools near you may want to adopt them!</p>
 <p>A microbial insecticide containing the soil borne bacterium Bacillus thuringiensis kurstaki (BtK) can be applied to the infected plant. Once eaten by the caterpillar, the formulated BtK is broken down into particles that damage the guts of the caterpillar and cause death around a day.</p>
 	<img title="A dead caterpillar in a potter wasp nest. Potter wasps will feed caterpillars to their young. Photo by Jacqueline Chua." src="/images/Biodiversity/CaterpillarInPotterWaspNest_JacChua%20(1).jpg">
-<p>Encourage predators to establish in your garden by keeping it pesticide-free. Wasps, dragonflies and birds feed on caterpillars and can keep their population under control. </p>
+	<p>Encourage predators to establish in your garden by keeping it pesticide-free. Wasps, dragonflies and birds feed on caterpillars and can keep their population under control. </p><br>
 </section>
