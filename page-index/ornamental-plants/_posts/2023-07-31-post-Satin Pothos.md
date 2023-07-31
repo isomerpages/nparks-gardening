@@ -23,7 +23,7 @@ image: ""
  
 <section> 
   <h4>Environmental needs:</h4> 
-    	<p>This plant thrives in partial shade or bright, filtered light and require moderate watering. Plants do well in a wide variety of soil types, from fertile loamy soil to well-drained soil to moist soil.</p> 
+    	<p>This plant thrives in areas with at least 4 hours of indirect sunlight and requires moderate watering. Plants do best in moist, well-drained soil at least 10cm deep, making them suitable for container gardening.</p> 
 	<br>
 </section>
 
