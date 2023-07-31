@@ -7,11 +7,11 @@ description: ""
 image: ""
 ---
 <header> 
-	<h3>Scarlet Spiral Flag (<em>Costus woodsonii</em>)</h3> 
+	<h3>African Violet (<em>Streptocarpus ionanthus</em>)</h3> 
 </header> 
  
 <section> 
-	<p><strong>Other common names:</strong> Red Button Ginger</p> 
+	<p><strong>Other common names:</strong> 非洲堇, 非洲紫罗兰</p> 
 	<br> 
 </section> 
  
