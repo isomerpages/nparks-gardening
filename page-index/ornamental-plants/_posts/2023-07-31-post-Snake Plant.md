@@ -23,7 +23,7 @@ image: ""
  
 <section> 
   <h4>Environmental needs:</h4> 
-    	<p>This plant thrives in partial shade or bright, filtered light and require moderate watering. Plants do well in a wide variety of soil types, from fertile loamy soil to well-drained soil to moist soil.</p> 
+    	<p>This plant thrives in full sun to semi-shaded areas and does not require a lot of watering. Snake plant do well in a wide variety of soils ranging from fertile loamy soil, well-drained soil to poor infertile soil.</p> 
 	<br>
 </section>
 
