@@ -11,7 +11,7 @@ image: ""
 </header>
 
 <section>
-	<img title="Photo by Jacqueline Chua." src="/images/Biodiversity/Grasshopper_JacChua.jpg">
+	<img title="Photo by Victoria Lim." src="/images/Biodiversity/Grasshopper_JacChua.jpg">
 	<p>Grasshoppers, Crickets and Katydids are chewing insects with strong hind legs that allow them to hop or jump from plant to plant. They are general feeders, but they prefer young green plants, such as lettuce and beans. Their chewing mouthparts removes large sections of leaves and flowers, sometimes even destroying the whole plant.</p>
 	<p>The most common of the three found in Singapore’s gardens are grasshoppers. Grasshoppers are active during the day and can fly or jump quickly through the garden, meaning that you usually only get a glimpse if they are fleeing.Sometimes, you will see them steadily chewing your plants!</p>
 	<p>Grasshopper outbreaks are sporadic as they need drier conditions to hatch. The females deposit their eggs in dry, undisturbed soil, with each clutch ranging from 20 to more than 100 eggs. Young grasshoppers can thus suddenly appear in large numbers during the dry season and rapidly consume your plants!</p>
@@ -21,10 +21,8 @@ image: ""
 
 <section>
 	<h4>Symptoms</h4>
-		<p>Cotton-like material may be present on affected parts of the plant.</p>
-		<p>Leaves, stems, and fruits appear sticky, and can become covered in sooty mold.</p>
-		<p>Ants are seen crawling around leaves and stems in large numbers.</p>
-		<p>Yellow or wilting foliage may be a sign of a plant infested with root mealy bugs.</p>
+		<img title="Photo by Victoria Lim." src="/images/Biodiversity/grasshopper%20damage%20on%20dendrolobium%20'aurea'%20-%20ppn%20(1)victorialim.jpg">
+		<p>Grasshoppers leave behind waxy bite marks with smooth margins. They are not host-specific; hence bite marks can appear on any plant, especially on younger leaves and shoots.</p>
 	<br>
 </section>
 
