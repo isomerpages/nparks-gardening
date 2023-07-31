@@ -29,9 +29,11 @@ image: ""
 
 <section>
 	<h4>Preventive and control measures:</h4>
-		<p>Infested plant parts should be pruned off as soon as possible. Severe infestations may need the entire plant to be removed. Bag up the infested plant or plant parts securely for proper disposal to prevent further spread. Do not use the removed plant waste for composting or for consumption.
-		</p><p>Netting with very fine mesh can be installed over vulnerable plants.</p>
-		<p>Rotation of crops with other types of plants may help to interrupt the insect lifecycle.</p>
-		<p>Yellow sticky traps can be placed in the vicinity of the affect plants to catch adult flies, hindering them from reproducing on plants.</p>
+		<p>Always isolate and inspect newly bought plants for pests before introducing them to your plant collection.</p>
+		<p>Isolate affected plants immediately if mealy bugs are found.</p>
+		<p>Healthy plants are generally resilient to infestations. If you have a severe pest infestation, check your plants regularly for additional underlying problems such as root rot, lack of sunlight and nutrient deficiencies.</p>
+		<p>Spraying horticultural oils such as neem oil or white oil can kill soft-bodied pests on contact.</p>
+		<p>Expose infested soil to direct sunlight for at least a month to kill off remaining mealybugs or replace the soil entirely.</p>
+		<p>Infested plant parts should be pruned off as soon as possible. Severe infestations may need the entire plant to be removed. Bag up the infested plant or plant parts securely for proper disposal to prevent further spread. Do not use the removed plant waste for composting or for consumption.</p>
 	<br>
 </section>
