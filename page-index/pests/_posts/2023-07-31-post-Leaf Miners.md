@@ -6,14 +6,12 @@ layout: post
 description: ""
 image: ""
 ---
-<section>
-	<header>
-		<h3>Aphids (<em>Aphis</em> sp.)</h3>
-	</header>
-<section>
+<header>
+	<h3>Leaf Miners (<em>Liriomyza</em> sp.)</h3>
+</header>
 	
 <section>
-		<strong><em>Other common names: Plant louse, Greenfly or Ant cow</em></strong>
+	<p><strong>Other common names:</strong> Plant louse, Greenfly or Ant cow</p>
 	<br>
 </section>
 
@@ -38,4 +36,4 @@ image: ""
 		<p>Rotation of crops with other types of plants may help to interrupt the insect lifecycle.</p>
 		<p>Yellow sticky traps can be placed in the vicinity of the affect plants to catch adult flies, hindering them from reproducing on plants.</p>
 	<br>
-</section></section></section>
+</section>
