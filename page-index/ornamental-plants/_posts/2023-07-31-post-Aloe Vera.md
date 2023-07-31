@@ -7,7 +7,7 @@ description: ""
 image: ""
 ---
 <header> 
-	<h3>Aloe (<em>Aloe vera</em>)</h3> 
+	<h3>Aloe vera (<em>Aloe vera</em>)</h3> 
 </header> 
  
 <section> 
@@ -36,5 +36,11 @@ image: ""
 <section> 
   <h4>Propagation:</h4> 
 		<p>Aloe Vera can be grown from the division of suckers/offshoots.</p> 
+	<br> 
+</section>
+
+<section> 
+  <h4>Common problems &amp; solutions:</h4> 
+		<p>Aloe Vera is largely pest resistant. At times it could be attacked by scales or spider mites. A good thorough wash of the plant and a treatment of horticultural oils like neem oil and white summer oil would be sufficient to remove pests.</p>
 	<br> 
 </section>
