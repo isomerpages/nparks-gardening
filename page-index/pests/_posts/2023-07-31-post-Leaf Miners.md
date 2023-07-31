@@ -8,14 +8,14 @@ image: ""
 ---
 <section>
 	<img title="Photo by Jacqueline Chua." src="/images/Biodiversity/LeafMiner_JacChua.jpg">
-<p>Caterpillars are the larvae of moths and butterflies and feed heavily on leaves, either in groups or individually.</p>
-<p>They come in many different forms, colours, and sizes, with some even sporting stinging hairs to deter predators! </p>
-<p>Certain species of caterpillars will only feed on specific plants. For example, Lime butterfly caterpillars will only feed on plants from the citrus family, like Lime and Limau Purut, and cabbage white caterpillars will feed on plants from the Brassica genus like Cai Xin, Kai Lan and Xiao Bai Cai. These are called host plants and can be used to attract more butterflies into your garden.  </p>
-</section>
+<p>Leaf miners are tiny greyish flies whose larvae feed under the surface of leaves, creating worm-like tunnels within the leaf.  There are hundreds of species of leaf miners, but the most common leaf miners present in Singapore are Liriomyza sativae (Vegetable leafminer) and Liriomyza trifolii (American serpentine leafminer).</p>
+<p>Most leafy vegetables and fruiting vegetables are susceptible to leaf miner larvae, such as Xiao Bai Cai, Lady’s Finger and cucumbers.</p>
+<p>Leaf miner damage at a large scale can reduces the amount of light the plant can capture to produce food, which makes them susceptible to plant diseases. Leaves with leaf miner damage also reduces the yield of leafy vegetables since damaged leaves are generally not fit for consumption due to the presence of the larvae in the leaf.</p>
 <br>
+</section>
+
 <section>
 <h4>Symptoms</h4>
-	<img title="A Kai lan leaf skeletonised by caterpillars. Photo by Jacqueline Chua." src="/images/Biodiversity/CaterpillarDamage_JacChua%20(2).jpg">
 <p>Affected leaves can become skeletonised by the caterpillars, which are voracious feeders in their last stage.</p>
 		<img title="Caterpillar faecal pellets found under extensively eaten leaves. photo by Victoria Lim." src="/images/Biodiversity/caterpillar%20damage%20on%20cabbage%20leaf%20-%20frass%20(1)victorialim.jpg">
 <p>Small faecal pellets can be found in large numbers near leaves that have been eaten.</p>
