@@ -29,7 +29,7 @@ image: ""
 
 <section> 
   <h4>Growing:</h4> 
-		<p>It is easy to grow and is low maintenance. Fertilise with a balanced NPK ratio. Prune back long, sparse vines to encourage new growth and make it fuller. Water when the top surface of the soil is dry. Keep the plant in bright indirect light for green leaves with nice variegation. The leaves will lose their variegation and get scorched if light is too strong. Ensure that its environment is of high humidity.</p> 
+		<p>It is easy to grow and is low maintenance. Due to its ability to withstand drought, it is better to underwater the plant to prevent potential rot. As it is slow growing, it does not require frequent fertilising. A balanced liquid fertiliser once a month or slow releasing fertiliser is sufficient.</p> 
 	<br> 
 </section> 
 
