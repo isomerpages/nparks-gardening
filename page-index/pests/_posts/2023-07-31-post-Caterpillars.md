@@ -26,8 +26,9 @@ image: ""
 <p>Small faecal pellets can be found in large numbers near leaves that have been eaten.</p>
 <img title="A bagworm caterpillar in its leaf covering next to a hole made by the caterpillar. Photo by Victoria Lim." src="/images/Biodiversity/bagworm%20on%20diospyros%20malabarica%20-%20hortpark%205victorialim.jpg">
 <p>Rolled up leaves or small pieces of bark bound together with silk might have a caterpillar inside!</p>
-</section>
 <br>
+</section>
+
 <section>
 <h4>Preventive and control measures:</h4>
 	<img title="A lime caterpillar next to a partially eaten leaf. Lime caterpillars are often reared by schools for science class. Photo by Jacqueline Chua." src="/images/Biodiversity/Caterpillar_LimeCaterpillar_JacChua%20(1).jpg">
