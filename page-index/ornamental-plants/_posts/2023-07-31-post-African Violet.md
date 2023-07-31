@@ -29,7 +29,7 @@ image: ""
 
 <section> 
   <h4>Growing:</h4> 
-		<p>Scarlet Spiral Flags grow naturally in clusters as the plant grows more rhizomes, an underground horizontal stem that resembles a tuberous root. Regular pruning and thinning plants will increase airflow and reduce the incidence of pests.</p> 
+		<p>A dilute fertiliser that has a higher Phosphorous and Potassium content would help encourage flowering. Water when the surface of the soil is dry. Avoid wetting any part of the plant when watering as they are susceptible to rotting. Take care to water directly onto the soil or do bottom-up watering. To encourage more flowering, you can deadhead spent flowers.</p> 
 	<br> 
 </section> 
 
