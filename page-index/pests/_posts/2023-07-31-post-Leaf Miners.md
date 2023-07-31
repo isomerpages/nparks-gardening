@@ -7,6 +7,17 @@ description: ""
 image: ""
 ---
 <section>
+	<header>
+		<h3>Aphids (<em>Aphis</em> sp.)</h3>
+	</header>
+<section>
+	
+<section>
+		<strong><em>Other common names: Plant louse, Greenfly or Ant cow</em></strong>
+	<br>
+</section>
+
+<section>
 	<img title="Photo by Jacqueline Chua." src="/images/Biodiversity/LeafMiner_JacChua.jpg">
 	<p>Leaf miners are tiny greyish flies whose larvae feed under the surface of leaves, creating worm-like tunnels within the leaf.  There are hundreds of species of leaf miners, but the most common leaf miners present in Singapore are Liriomyza sativae (Vegetable leafminer) and Liriomyza trifolii (American serpentine leafminer).</p>
 	<p>Most leafy vegetables and fruiting vegetables are susceptible to leaf miner larvae, such as Xiao Bai Cai, Lady’s Finger and cucumbers.</p>
@@ -27,4 +38,4 @@ image: ""
 		<p>Rotation of crops with other types of plants may help to interrupt the insect lifecycle.</p>
 		<p>Yellow sticky traps can be placed in the vicinity of the affect plants to catch adult flies, hindering them from reproducing on plants.</p>
 	<br>
-</section>
+</section></section></section>
