@@ -15,7 +15,7 @@ image: ""
 	<br> 
 </section> 
  
-<section> 
+<section>
 	<p>African Violets are herbaceous plants with a low, compact growth form. It has succulent leaves that are round to oval shaped, dark green covered with short white hairs, giving it a velvety texture.</p>
 	<p>A perennial flower, African Violets are great for indoor gardens or as a ground cover in semi shaded areas. It has short, tubular, violet-blue or white in colour, contrasting nicely against their dark green leaves. Other cultivars of the African Violet have flowers that come in shades of purple, red and white. Growing different cultivars together makes any indoor space more vibrant and colourful.</p>
 	 <br> 
