@@ -16,20 +16,20 @@ image: ""
 </section> 
  
 <section> 
-	<p>Snake Plant grows in a rosette formation and has smooth, leathery, succulent leaves that are variegated with green, silver and yellow hues. It has white- and cream-coloured flowers that grow on a very long flower stalk.</p>
-	A perennial plant, Snake plants are great for indoor, outdoor and even rooftop gardens, due to its ability to tolerate a wide range of environmental conditions. Its attractive, white-yellow variegated leaves provide texture and colours to landscape designs.<p></p>
+	<p>Snake Plants have leathery, succulent leaves that are variegated with green, silver and yellow hues that grow in a rosette. It has white- and cream-coloured flowers that grow on a very long flower stalk.</p>
+	<p>A perennial plant, Snake plants are versatile and can grow indoors, outdoors and even on rooftop gardens due to its ability to tolerate a wide range of environmental conditions. Its attractive, white-yellow variegated leaves provide texture and colours to landscape designs.</p>
 	 <br> 
 </section> 
  
 <section> 
   <h4>Environmental needs:</h4> 
-    	<p>This plant thrives in full sun to semi-shaded areas and does not require a lot of watering. Snake plant do well in a wide variety of soils ranging from fertile loamy soil, well-drained soil to poor infertile soil.</p> 
+    	<p>This plant thrives in at least 2 hours of direct sunlight or with a minimum of 4 hours of indirect sunlight. It does not require a lot of watering. Snake plants do well in a wide variety of soils ranging from moist, well-drained soil to sandy soil at least 10cm deep, making them suitable for container gardening.</p> 
 	<br>
 </section>
 
 <section> 
   <h4>Growing:</h4> 
-		<p>It is easy to grow and is low maintenance. Due to its ability to withstand drought, it is better to underwater the plant to prevent potential rot. As it is slow growing, it does not require frequent fertilising. A balanced liquid fertiliser once a month or slow releasing fertiliser is sufficient.</p> 
+		<p>It is easy to grow and is low maintenance. Due to its ability to withstand drought, it is better to underwater the plant to prevent potential root rot. As it is slow growing, it does not require frequent fertilising. A balanced liquid fertiliser once a month or slow releasing fertiliser is sufficient. As with all potted plants, regular repotting once a year will prevent it from becoming root bound.</p> 
 	<br> 
 </section> 
 
@@ -41,6 +41,7 @@ image: ""
  
 <section> 
   <h4>Common problems &amp; solutions:</h4> 
-		<p>This plant is relatively resistant to pests and disease if kept healthy. Occasionally, mealy bugs or spider mites may bother this plant. A good thorough wash of the plant and a treatment of horticultural oils like neem oil and white summer oil would be sufficient to remove pests. In the event of root mealybugs infestation, wash the plant roots with a strong current to dislodge pests and repot in fresh soil, or consider removing the whole plant to prevent the spread of the pest to other plants.</p>
+		<p>This plant is relatively resistant to pests and disease if kept healthy.</p>
+		<p>Aphids, mealy bugs, and spider mites often infest the plant if it is sickly or overgrown. Prune off the infested parts, or apply horticultural oils like neem oil and white summer oil to suffocate the remaining pests. Regularly prune the plant to allow light and air to reach throughout the plant, and check the plant for underlying problems like root rot, lack of sunlight, and nutrient deficiencies.</p>
 	<br> 
 </section>
