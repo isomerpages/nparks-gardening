@@ -23,8 +23,7 @@ image: ""
  
 <section> 
   <h4>Environmental needs:</h4> 
-    	<p>Scarlet Spiral Flags thrive in less than 4 hours of direct sunlight, or 4-6 hours of indirect sunlight. Plants do best in true ground planting. These plants are vulnerable to root rot, so ensure that your soil drains well, and that your soil has plenty of organic matter to let the roots breathe.</p>
-		<p>This plant will not do well in places with a lot of direct sunlight, like on rooftop gardens.</p> 
+    	<p>This plant thrives in partial shade or bright filtered sunlight. Plants do best in porous, well-drained soil and require moderate watering.</p> 
 	<br>
 </section>
 
