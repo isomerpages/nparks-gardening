@@ -41,6 +41,6 @@ image: ""
 
 <section> 
   <h4>Common problems &amp; solutions:</h4> 
-		<p>Aloe Vera is largely pest resistant. At times it could be attacked by scales or spider mites. A good thorough wash of the plant and a treatment of horticultural oils like neem oil and white summer oil would be sufficient to remove pests.</p>
+		<p>Aloe vera are susceptible to sucking pests such as aphids and mealy bugs. Infested parts can be pruned off or apply horticultural oils like neem oil and white summer oil to suffocate the remaining pests. If severe infestation occurs, total removal of the infect plant should be considered.</p>
 	<br> 
 </section>
