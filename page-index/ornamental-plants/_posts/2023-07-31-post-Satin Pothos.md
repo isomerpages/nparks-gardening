@@ -23,24 +23,24 @@ image: ""
  
 <section> 
   <h4>Environmental needs:</h4> 
-    	<p>This plant thrives in partial shade. Plants do best in moist, well-draining soil and require regular watering. It also enjoys high humidity.</p> 
+    	<p>This plant thrives in partial shade or bright, filtered light and require moderate watering. Plants do well in a wide variety of soil types, from fertile loamy soil to well-drained soil to moist soil.</p> 
 	<br>
 </section>
 
 <section> 
   <h4>Growing:</h4> 
-		<p>A dilute fertiliser that has a higher Phosphorous and Potassium content would help encourage flowering. Water when the surface of the soil is dry. Avoid wetting any part of the plant when watering as they are susceptible to rotting. Take care to water directly onto the soil or do bottom-up watering. Make sure that your Flame Violets get enough bright, indirect light to encourage flowering. Avoid direct sun as it may burn its leaves. Ensure that the Flame Violet are placed in an area that has high humidity.</p> 
+		<p>It is easy to grow and is low maintenance. Fertilise with a balanced NPK ratio. Prune back long, sparse vines to encourage new growth and make it fuller. Water when the top surface of the soil is dry. Keep the plant in bright indirect light for green leaves with nice variegation. The leaves will lose their variegation and get scorched if light is too strong. Ensure that its environment is of high humidity.</p> 
 	<br> 
 </section> 
 
 <section> 
   <h4>Propagation:</h4> 
-		<p>Flame Violets can be propagated by stem or stolon cuttings.</p> 
+		<p>Satin Pothos can be propagated by stem cuttings or seeds.</p> 
 	<br> 
 </section> 
  
 <section> 
   <h4>Common problems &amp; solutions:</h4> 
-		<p>Flame Violets are susceptible to aphids and mealy bugs. Infested parts can be pruned off or apply horticultural oils like neem oil and white summer oil to suffocate the remaining pests. If severe infestation occurs, total removal of the infect plant should be considered. Fungal leaf spots, stem blights and root rots can occasionally occur, hence it is important to water only when surface of the soil is dry.</p>
+		<p>Satin Pothos is largely pest resistant. At times it could be attacked by scales or spider mites. A good thorough wash of the plant and a treatment of horticultural oils like neem oil and white summer oil would be sufficient to remove pests. You could also clean the dust of the leaves periodically as a preventive measure against pests.</p>
 	<br> 
 </section>
