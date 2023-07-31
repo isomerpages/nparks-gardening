@@ -16,9 +16,8 @@ image: ""
 </section> 
  
 <section> 
-	<p>Scarlet Spiral Flags a hardy shrub that is commonly seen in low-maintenance beds and biodiversity-attracting gardens. The nectar-filled flowers are highly attractive to butterflies and nectivorous birds. The yellow flowers are also edible, and are usually eaten raw.</p>
-	<p>A perennial shrub, Scarlet Spiral Flags are useful as biodiversity-attracting plants and perimeter plants to add a pop of colour to any garden.</p>
-	<p>Scarlet Spiral Flags are part of the Zingiberaceae or Ginger family, which includes other popular edible plants like Tumeric and Fingerroot.</p>
+	<p>African Violets are herbaceous plants with a low, compact growth form. It has succulent leaves that are round to oval shaped, dark green covered with short white hairs, giving it a velvety texture.</p>
+	<p>A perennial flower, African Violets are great for indoor gardens or as a ground cover in semi shaded areas. It has short, tubular, violet-blue or white in colour, contrasting nicely against their dark green leaves. Other cultivars of the African Violet have flowers that come in shades of purple, red and white. Growing different cultivars together makes any indoor space more vibrant and colourful.</p>
 	 <br> 
 </section> 
  
