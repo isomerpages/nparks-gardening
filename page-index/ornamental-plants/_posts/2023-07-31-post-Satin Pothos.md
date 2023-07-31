@@ -29,7 +29,7 @@ image: ""
 
 <section> 
   <h4>Growing:</h4> 
-		<p>It is easy to grow and is low maintenance. Fertilise with a balanced NPK ratio. Prune back long, sparse vines to encourage new growth and make it fuller. Water when the top surface of the soil is dry. Keep the plant in bright indirect light for green leaves with nice variegation. The leaves will lose their variegation and get scorched if light is too strong. Ensure that its environment is of high humidity.</p> 
+		<p>This plant grows quickly and generally does not need fertilising, but an occasional feed of balanced fertiliser will boost its growth and make it fuller. Water when the top surface of the soil is dry. Keep the plant in bright indirect light for green leaves with variegation. The leaves will lose their variegation and get burned if light is too strong. Ensure that its environment is of high humidity. As with all potted plants, regular repotting once a year will prevent it from becoming root bound.</p> 
 	<br> 
 </section> 
 
@@ -41,6 +41,7 @@ image: ""
  
 <section> 
   <h4>Common problems &amp; solutions:</h4> 
-		<p>Satin Pothos is largely pest resistant. At times it could be attacked by scales or spider mites. A good thorough wash of the plant and a treatment of horticultural oils like neem oil and white summer oil would be sufficient to remove pests. You could also clean the dust of the leaves periodically as a preventive measure against pests.</p>
+		<p>This plant is relatively resistant to pests and disease if kept healthy.</p>
+		<p>Aphids, mealy bugs, and spider mites can infest the plant if it is sickly or overgrown. Prune off the infested parts, or apply horticultural oils like neem oil and white summer oil to suffocate the remaining pests. Regularly prune the plant to allow light and air to reach throughout the plant, and check the plant for underlying problems like overwatering, lack of sunlight, and nutrient deficiencies.</p>
 	<br> 
 </section>
