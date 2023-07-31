@@ -35,13 +35,13 @@ image: ""
 
 <section> 
   <h4>Propagation:</h4> 
-		<p>Scarlet Spiral Flags are propagated via division of the rhizome, or by propagating plantlets that form at the base of the spent flowering stalks.</p> 
+		<p>African Violets can be grown from seed, division of clumps or leaf cuttings.</p> 
 	<br> 
 </section> 
  
 <section> 
   <h4>Common problems &amp; solutions:</h4> 
-		<p>This plant is relatively resistant to pests and disease if kept healthy.</p>
-		<p>Leaves may burn if they are exposed to long periods of direct sunlight. Replant under shade or install shade netting to prevent this.</p>
+		<p>African Violets leaves are susceptible to rot and fungal spots if kept in high humidity. Powdery Mildew may also happen. Hence, bottom watering would be the best to avoid getting excess water on its foliage.</p>
+		<p>Spider mites and Cyclamen mites often infect African Violets. It is usually difficult to eradicate it entirely hence it is recommended that severely infected plant is to be disposed entirely and isolate nearby plants. Infested parts can be pruned off or apply horticultural oils like neem oil and white summer oil to suffocate the remaining pests.</p>
 	<br> 
 </section>
