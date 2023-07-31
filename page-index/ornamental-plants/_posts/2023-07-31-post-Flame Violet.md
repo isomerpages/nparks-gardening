@@ -24,24 +24,25 @@ image: ""
  
 <section> 
   <h4>Environmental needs:</h4> 
-    	<p>This plant thrives in partial shade. Plants do best in moist, well-draining soil and require regular watering. It also enjoys high humidity.</p> 
+    	<p>This plant thrives in areas with at least 4 hours of indirect sunlight. partial shade. Plants do best in moist, well-drained soil at least 10cm deep, making them suitable for container gardening.</p> 
 	<br>
 </section>
 
 <section> 
   <h4>Growing:</h4> 
-		<p>A dilute fertiliser that has a higher Phosphorous and Potassium content would help encourage flowering. Water when the surface of the soil is dry. Avoid wetting any part of the plant when watering as they are susceptible to rotting. Take care to water directly onto the soil or do bottom-up watering. Make sure that your Flame Violets get enough bright, indirect light to encourage flowering. Avoid direct sun as it may burn its leaves. Ensure that the Flame Violet are placed in an area that has high humidity.</p> 
+		<p>Regular application of a dilute fertiliser with a higher Phosphorous and Potassium content will help encourage flowering. Water when the surface of the soil is dry. Take care to water directly onto the soil or do bottom-up watering as water on the leaves causes rot. Make sure that your Flame Violets get enough bright, indirect light to encourage flowering. Avoid direct sun as it may burn its leaves. Ensure that the Flame Violet are placed in an area that has high humidity. As with all potted plants, regular repotting once a year will prevent it from becoming root bound.</p> 
 	<br> 
 </section> 
 
 <section> 
   <h4>Propagation:</h4> 
-		<p>Flame Violets can be propagated by stem or stolon cuttings.</p> 
+		<p>Flame Violets can be propagated by stem cuttings or plantlets.</p> 
 	<br> 
 </section> 
  
 <section> 
   <h4>Common problems &amp; solutions:</h4> 
-		<p>Flame Violets are susceptible to aphids and mealy bugs. Infested parts can be pruned off or apply horticultural oils like neem oil and white summer oil to suffocate the remaining pests. If severe infestation occurs, total removal of the infect plant should be considered. Fungal leaf spots, stem blights and root rots can occasionally occur, hence it is important to water only when surface of the soil is dry.</p>
+		<p>Aphids, mealy bugs, and spider mites often infest the plant if it is sickly or overgrown. Prune off the infested parts, or apply horticultural oils like neem oil and white summer oil to suffocate the remaining pests. Regularly prune the plant to allow light and air to reach throughout the plant, and check the plant for underlying problems like root rot, lack of sunlight, and nutrient deficiencies.</p>
+		<p>Fungal leafspots, stem blights and root rotting can occur when the plant is overwatered. Water only when the surface of the soil is dry.</p>
 	<br> 
 </section>
