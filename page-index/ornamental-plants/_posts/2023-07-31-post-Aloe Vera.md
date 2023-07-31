@@ -23,7 +23,7 @@ image: ""
  
 <section> 
   <h4>Environmental needs:</h4> 
-    	<p>This plant thrives in full sun to semi-shaded areas and does not require a lot of watering. Snake plant do well in a wide variety of soils ranging from fertile loamy soil, well-drained soil to poor infertile soil.</p> 
+    	<p>This plant thrives in full sun to light shade areas. Plants do best in porous, well-drained soil and require moderate watering.</p> 
 	<br>
 </section>
 
@@ -35,7 +35,6 @@ image: ""
 
 <section> 
   <h4>Propagation:</h4> 
-		<p>Snake plant can be propagated by stem cuttings or division.</p> 
+		<p>Aloe Vera can be grown from the division of suckers/offshoots.</p> 
 	<br> 
-</section> 
- 
+</section>
