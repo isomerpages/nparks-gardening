@@ -6,11 +6,9 @@ layout: post
 description: ""
 image: ""
 ---
-<section>
-	<header>
-		<h3>Aphids (<em>Aphis</em> sp.)</h3>
-	</header>
-</section>
+<header>
+	<h3>Aphids (<em>Aphis</em> sp.)</h3>
+</header>
 
 <section>
 		<p><strong>Other common names:</strong> Plant louse, Greenfly or Ant cow</p>
