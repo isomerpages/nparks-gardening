@@ -35,12 +35,12 @@ image: ""
 
 <section> 
   <h4>Propagation:</h4> 
-		<p>Satin Pothos can be propagated by stem cuttings or seeds.</p> 
+		<p>Snake plant can be propagated by stem cuttings or division.</p> 
 	<br> 
 </section> 
  
 <section> 
   <h4>Common problems &amp; solutions:</h4> 
-		<p>Satin Pothos is largely pest resistant. At times it could be attacked by scales or spider mites. A good thorough wash of the plant and a treatment of horticultural oils like neem oil and white summer oil would be sufficient to remove pests. You could also clean the dust of the leaves periodically as a preventive measure against pests.</p>
+		<p>This plant is relatively resistant to pests and disease if kept healthy. Occasionally, mealy bugs or spider mites may bother this plant. A good thorough wash of the plant and a treatment of horticultural oils like neem oil and white summer oil would be sufficient to remove pests. In the event of root mealybugs infestation, wash the plant roots with a strong current to dislodge pests and repot in fresh soil, or consider removing the whole plant to prevent the spread of the pest to other plants.</p>
 	<br> 
 </section>
