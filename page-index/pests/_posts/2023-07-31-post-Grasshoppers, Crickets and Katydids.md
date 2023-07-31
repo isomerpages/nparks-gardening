@@ -12,11 +12,10 @@ image: ""
 
 <section>
 	<img title="Photo by Jacqueline Chua." src="/images/Biodiversity/Grasshopper_JacChua.jpg">
-	<p>Grasshoppers, Crickets and Katydids are chewing insects with strong hind legs that allow them to hop or jump from plant to plant. They are general feeders, but they prefer young green plants, such as lettuce and beans. Their chewing mouthparts removes large sections of leaves and flowers, sometimes even destroying the whole plant.
-The most common of the three found in Singapore’s gardens are grasshoppers. Grasshoppers are active during the day and can fly or jump quickly through the garden, meaning that you usually only get a glimpse if they are fleeing. Sometimes, you will see them steadily chewing your plants!
-Grasshopper outbreaks are sporadic as they need drier conditions to hatch. The females deposit their eggs in dry, undisturbed soil, with each clutch ranging from 20 to more than 100 eggs. Young grasshoppers can thus suddenly appear in large numbers during the dry season and rapidly consume your plants!
-Because Singapore is relatively humid, adult grasshoppers generally do not form large swarms to devastate plants like they do in drier climates, particularly during periods of drought. 
-</p>
+	<p>Grasshoppers, Crickets and Katydids are chewing insects with strong hind legs that allow them to hop or jump from plant to plant. They are general feeders, but they prefer young green plants, such as lettuce and beans. Their chewing mouthparts removes large sections of leaves and flowers, sometimes even destroying the whole plant.</p>
+	<p>The most common of the three found in Singapore’s gardens are grasshoppers. Grasshoppers are active during the day and can fly or jump quickly through the garden, meaning that you usually only get a glimpse if they are fleeing.Sometimes, you will see them steadily chewing your plants!</p>
+	<p>Grasshopper outbreaks are sporadic as they need drier conditions to hatch. The females deposit their eggs in dry, undisturbed soil, with each clutch ranging from 20 to more than 100 eggs. Young grasshoppers can thus suddenly appear in large numbers during the dry season and rapidly consume your plants!</p>
+	<p>Because Singapore is relatively humid, adult grasshoppers generally do not form large swarms to devastate plants like they do in drier climates, particularly during periods of drought.</p>
 	<br>
 </section>
 
