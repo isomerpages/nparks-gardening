@@ -11,10 +11,12 @@ image: ""
 </header>
 
 <section>
-	<img title="Photo by Jacqueline Chua." src="/images/Biodiversity/Mealybugs_JacChua.jpg">
-	<p>Mealy Bugs are small, white soft-bodied insects with a cotton-like covering. The cotton-like covering is waxy and generally chemical-proof, making mealybugs hard to treat with chemicals or organic pesticides. They are sap-sucking insects that can feed on feed on a variety of plants, and are most often found on stems, on the underside of leaves, and on roots.</p> 
-	<p>Mealy bugs tend to deposit yellow eggs within a white, cottony, thread-like mass. The young mealy bugs tend to hide themselves in stems crotches, leaf folds and other locations on the plant where water or pesticides cannot reach. This makes infestations hard to remove, making mealybugs a common reoccurrence in a garden once they establish.</p>
-	<p>Like aphids, Mealy bugs produce honeydew, a sweet waste fluid, which attracts ants. As a result, ants may guard and care for groups of Mealy bugs. Large clusters of ants can thus be indicative of a  Mealy bug infestation! Honeydew on plants also encourages the growth of sooty mold, which you are more likely to see before you spot Mealy bugs on your plants.</p>
+	<img title="Photo by Jacqueline Chua." src="/images/Biodiversity/Grasshopper_JacChua.jpg">
+	<p>Grasshoppers, Crickets and Katydids are chewing insects with strong hind legs that allow them to hop or jump from plant to plant. They are general feeders, but they prefer young green plants, such as lettuce and beans. Their chewing mouthparts removes large sections of leaves and flowers, sometimes even destroying the whole plant.
+The most common of the three found in Singapore’s gardens are grasshoppers. Grasshoppers are active during the day and can fly or jump quickly through the garden, meaning that you usually only get a glimpse if they are fleeing. Sometimes, you will see them steadily chewing your plants!
+Grasshopper outbreaks are sporadic as they need drier conditions to hatch. The females deposit their eggs in dry, undisturbed soil, with each clutch ranging from 20 to more than 100 eggs. Young grasshoppers can thus suddenly appear in large numbers during the dry season and rapidly consume your plants!
+Because Singapore is relatively humid, adult grasshoppers generally do not form large swarms to devastate plants like they do in drier climates, particularly during periods of drought. 
+</p>
 	<br>
 </section>
 
