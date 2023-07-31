@@ -11,16 +11,19 @@ image: ""
 </header>
 
 <section>
-	<img title="Photo by Jacqueline Chua." src="/images/Biodiversity/LeafMiner_JacChua.jpg">
-	<p>Leaf miners are tiny greyish flies whose larvae feed under the surface of leaves, creating worm-like tunnels within the leaf.  There are hundreds of species of leaf miners, but the most common leaf miners present in Singapore are Liriomyza sativae (Vegetable leafminer) and Liriomyza trifolii (American serpentine leafminer).</p>
-	<p>Most leafy vegetables and fruiting vegetables are susceptible to leaf miner larvae, such as Xiao Bai Cai, Lady’s Finger and cucumbers.</p>
-	<p>Leaf miner damage at a large scale can reduces the amount of light the plant can capture to produce food, which makes them susceptible to plant diseases. Leaves with leaf miner damage also reduces the yield of leafy vegetables since damaged leaves are generally not fit for consumption due to the presence of the larvae in the leaf.</p>
+	<img title="Photo by Jacqueline Chua." src="/images/Biodiversity/Mealybugs_JacChua.jpg">
+	<p>Mealy Bugs are small, white soft-bodied insects with a cotton-like covering. The cotton-like covering is waxy and generally chemical-proof, making mealybugs hard to treat with chemicals or organic pesticides. They are sap-sucking insects that can feed on feed on a variety of plants, and are most often found on stems, on the underside of leaves, and on roots.</p> 
+	<p>Mealy bugs tend to deposit yellow eggs within a white, cottony, thread-like mass. The young mealy bugs tend to hide themselves in stems crotches, leaf folds and other locations on the plant where water or pesticides cannot reach. This makes infestations hard to remove, making mealybugs a common reoccurrence in a garden once they establish.</p>
+	<p>Like aphids, Mealy bugs produce honeydew, a sweet waste fluid, which attracts ants. As a result, ants may guard and care for groups of Mealy bugs. Large clusters of ants can thus be indicative of a  Mealy bug infestation! Honeydew on plants also encourages the growth of sooty mold, which you are more likely to see before you spot Mealy bugs on your plants.</p>
 	<br>
 </section>
 
 <section>
 	<h4>Symptoms</h4>
-		<p>Infested leaves have translucent, winding trails within the leaf. Severely mined leaves may shrivel and die. </p>
+		<p>Cotton-like material may be present on affected parts of the plant.</p>
+		<p>Leaves, stems, and fruits appear sticky, and can become covered in sooty mold.</p>
+		<p>Ants are seen crawling around leaves and stems in large numbers.</p>
+		<p>Yellow or wilting foliage may be a sign of a plant infested with root mealy bugs.</p>
 	<br>
 </section>
 
