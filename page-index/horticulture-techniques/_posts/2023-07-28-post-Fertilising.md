@@ -8,7 +8,7 @@ image: ""
 ---
 <section>
 	<img title="Fertiliser being added as top dressing to a Lady's-Finger plant. Photo by Jacqueline Chua." src="/images/Horti%20techniques/Fertilising_Jacchua.jpg">
-<p>Fertilisers are substances packed with nutrients for plants, and can come in the form of pellets, liquid, granules or powders. They are used to improve plant growth and yields and can also be used to address nutrient deficiencies. They can be made from chemicals or derived from organic sources. Fertilisers from organic sources should be processes as part of growing edibles safe for consumption as raw animal products can carry disease and pathogens. </p>
+<p>Fertilisers are substances packed with nutrients for plants, and can come in the form of pellets, liquid, granules or powders. They are used to improve plant growth and yields and can also be used to address nutrient deficiencies. They can be made from chemicals or derived from organic sources. Fertilisers from organic sources should be processed before use, as raw manure, bones, or blood can carry pathogens or cause disease.  </p>
 </section>
 <br>
 <section>
