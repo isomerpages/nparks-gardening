@@ -21,6 +21,14 @@ image: ""
 <h4>Growing pollinator-attracting plants</h4>
 	<img title="Asian Honey Bees visiting a sunflower. Photo by Zestin Soh." src="/images/Biodiversity/bee_apiscerana_zestinsoh.jpg">
 	<p>Many crops like Tomatoes, Brinjals, Cucumbers and Long Beans need pollinators to form fruit. Providing nectar-rich flowers throughout the year in your garden will attract bees, butterflies, and birds to your garden, and ensure that your plants produce plenty of fruit. These flowering plants can be arranged as a border in your plot as part of perimeter planting or in between your crops.</p>
+	<p>Some common pollinator-attracting plants include:</p>
+	<ul>
+		<li>Brazilian Tea</li>
+		<li>False Heather</li>
+		<li>Golden Dewdrops</li>
+		<li>Sunflowers</li>
+		<li>Thai Basil</li>
+	</ul>
 	<h4>Growing legumes to fix nitrogen</h4>
 	<img title="Butterfly peas are an easy legume to grow, and produce edible flowers. Photo by Jacqueline Chua." src="/images/Plants/BluePeaFlower_JacChua%20(2).jpg">
 <p>Legumes like Long Beans, Winged Beans, and Peanuts will fix nitrogen into the soil via their root nodules. Nitrogen is a key chemical needed for plant growth, so having a few legumes near nitrogen heavy feeders like Kailan, Lettuce and other leafy vegetables will encourage these crops to grow more leaves and increase their yield. Legumes are used in a similar way in crop rotation to improve soil fertility of annual crop beds.  </p>
@@ -28,6 +36,9 @@ image: ""
 	<ul>
 		<li>Butterfly Pea</li>
 		<li>Peanuts</li>
+		<li>Winged Bean</li>
+		<li>Long bean</li>
+	</ul>
 <br>
 <h4>Growing groundcovers as a living mulch</h4>
 	<img src="/images/Hardscapes/PXL_20230225_024644403.jpg" title="Alternanthera plants being used as living mulch. Photo by Jacqueline Chua">
@@ -44,4 +55,4 @@ image: ""
   <li>Spearmint (<em>Mentha spicata</em>)</li>
   <li>Sweet potato (<em>Ipomoea batatas</em>)</li>
   <li>Turmeric (<em>Curcuma longa</em>)</li>
-</ul></ul></section>
+</ul></section>
