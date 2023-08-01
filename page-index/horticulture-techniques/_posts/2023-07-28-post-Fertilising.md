@@ -15,8 +15,8 @@ image: ""
 <h4>Major nutrients</h4>
 <p>The main nutrients fertilisers provide are <b>nitrogen (N), phosphorus (P)</b> and <b>potassium (K)</b>. They are displayed as a ratio on the packaging of most fertilisers in that order. The ratios will indicate whether the fertiliser has more of one nutrient than the others.</p>
 <p><b>Balanced fertilisers</b> (for example, 5:5:5) will be used to generally boost plant growth.</p>
-<p><b>High nitrogen fertilisers</b> (for example, 5:3:3) encourages more leaf growth. Organic fertilisers high in nitrogen include those made from manure like chicken, cow or goat. </p>
-<p><b>High phosphorus and potassium fertilisers</b> (for example, 3:5:5) are used to encourage flowering, fruiting and root growth. Organic fertilisers high in phosphorus and potassium include those made from seaweed and bone meal. </p>
+<p><b>High nitrogen fertilisers</b> (for example, 5:3:3) encourages more leaf growth. Organic fertilisers high in nitrogen include those made from manure, with common sources being chickens, cows, or goats. </p>
+<p><b>High phosphorus and potassium fertilisers</b> (for example, 3:5:5) are used to encourage flowering, fruiting and root growth. Organic fertilisers high in phosphorus and potassium include those made from seaweed, blood, and bones. </p>
 </section>
 <br>
 <section>
