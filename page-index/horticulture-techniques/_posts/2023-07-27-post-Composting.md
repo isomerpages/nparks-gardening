@@ -63,7 +63,7 @@ image: ""
 <p>Greens and browns are slowly added over time in a 1:2 ratio to fill the bin. The immature compost should be mixed at least once a week to keep it airy. Mixing can be done with a garden fork, or tumbled in a commercial composter like the one above. Over at least 6 months, the older composting material will fully break down, and become mature. </p>  
 	<img title="Mature compost is fine, soft, and pleasent smelling. Immature compost still has large, rotting chunks that can be removed with a screen. Photo by Jacqueline Chua." src="/images/Horti%20techniques/Compost_Jacchua.jpg">
 <p>Because of the mixing and continuous adding of materials, mature and immature compost will be mixed in your bin with larger materials that have not decomposed. Mature compost tends to settle at the bottom of a bin, so some gardeners will flip the entire bin or pile and dig out mature compost to use. Mature compost can also be filtered out from immature compost by using a screen. Mature compost should feel soft and fine with a pleasant, earthy smell. If the compost feels chunky and has an acidic, unpleasant smell, it is not ready for use, and can be returned to the compost bin. </p>
-<p></p><p>Need a step-by-step reference on how to make traditional compost? <a href="/files/traditional%20composting%20(readable).pdf">Download our brochure on how to set up your own traditional compost bin here!</a></p>
+<p>Need a step-by-step reference on how to make traditional compost? <a href="/files/traditional%20composting%20(readable).pdf">Download our brochure on how to set up your own traditional compost bin here!</a></p>
 </section>
 <br>
 <section>
