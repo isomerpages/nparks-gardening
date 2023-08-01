@@ -8,7 +8,7 @@ image: ""
 ---
 <section>
 <p>Companion planting is the practice of growing different species of plants together to have them benefit off each other. Having a variety of plants grown together is called polyculture, and it is a more resilient method of cultivation compared to traditional monoculture, which features garden beds that only grow one kind of crop.</p>
-	<img src="/images/Garden%20design/BishanEastZone6_JacChua%20(2).jpg">
+	<img title="A planter bed on a rooftop growing a variety of companion plants. Photo by Jacqueline Chua." src="/images/Garden%20design/BishanEastZone6_JacChua%20(2).jpg">
 <p>There are many ways to companion plant, but the most common are:</p>
  <ul>
   <li>Growing pollinator-attracting plants with fruiting vegetables to increase fruit set</li>
@@ -19,8 +19,15 @@ image: ""
 <br>
 <section>
 <h4>Growing pollinator-attracting plants</h4>
-	<img src="/images/Biodiversity/bee_nomia%20strigata_brinjal_zestinsoh.jpg">
+	<img title="Asian Honey Bees visiting a sunflower. Photo by Zestin Soh." src="/images/Biodiversity/bee_apiscerana_zestinsoh.jpg">
+	<p>Many crops like Tomatoes, Brinjals, Cucumbers and Long Beans need pollinators to form fruit. Providing nectar-rich flowers throughout the year in your garden will attract bees, butterflies, and birds to your garden, and ensure that your plants produce plenty of fruit. These flowering plants can be arranged as a border in your plot as part of perimeter planting or in between your crops.</p>
+	<h4>Growing legumes to fix nitrogen</h4>
+	<img title="Butterfly peas are an easy legume to grow, and produce edible flowers. Photo by Jacqueline Chua." src="/images/Plants/BluePeaFlower_JacChua%20(2).jpg">
 <p>Legumes like Long Beans, Winged Beans, and Peanuts will fix nitrogen into the soil via their root nodules. Nitrogen is a key chemical needed for plant growth, so having a few legumes near nitrogen heavy feeders like Kailan, Lettuce and other leafy vegetables will encourage these crops to grow more leaves and increase their yield. Legumes are used in a similar way in crop rotation to improve soil fertility of annual crop beds.  </p>
+	<p>Some legumes used for companion planting include:</p>
+	<ul>
+		<li>Butterfly Pea</li>
+		<li>Peanuts</li>
 <br>
 <h4>Growing groundcovers as a living mulch</h4>
 	<img src="/images/Hardscapes/PXL_20230225_024644403.jpg" title="Alternanthera plants being used as living mulch. Photo by Jacqueline Chua">
@@ -37,4 +44,4 @@ image: ""
   <li>Spearmint (<em>Mentha spicata</em>)</li>
   <li>Sweet potato (<em>Ipomoea batatas</em>)</li>
   <li>Turmeric (<em>Curcuma longa</em>)</li>
-</ul></section>
+</ul></ul></section>
