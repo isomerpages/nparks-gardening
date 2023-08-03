@@ -19,7 +19,7 @@ image: ""
 	<img src="/images/Plants/Tomato_JacChua%20(5).jpg">
 	
 <p>Tomatoes are a popular crop grown in home and Community Gardens and are often considered one of the most desirable crops for new gardeners to try. There are many Tomato cultivars, with the most common varieties seen in Singapore being heat-tolerant cherry tomato varieties. Tomatoes are usually red but can also come in other colours like yellow or pink, and range in shape and size depending on the cultivar.</p>
-<p>Ripe Tomatoes can be eaten raw, in soup, roasted or made into sauces.</p>
+<p>Immature tomatoes can be eaten after they have been cooked, with the most common methods being frying or making them into chutney. Ripe Tomatoes can be eaten raw, in soup, roasted or made into sauces.</p>
 <p>As an annual crop, these plants do well as part of scheduled crop rotation.</p>
 <p>This plant is part of the Solanum or Nightshade family, which includes other popular edible fruits like Brinjals and Chillies.</p>
 	<br>
@@ -35,6 +35,7 @@ image: ""
 	
 <p>Depending on the cultivar, tomatoes can grow as a vine (indeterminate) or as a small shrub (determinate). Vining varieties will need stakes or a trellis to support their growth.</p>
 <p>As with all members of the Nightshade family, this plant is buzz pollinated and produces the most fruit when bees are around to pollinate it. Growing more bee-attracting plants within the garden will encourage pollination. It can be hand-pollinated, but the success rate is generally lower. </p>
+	<p> Tomato plants need to be watered consistently, and have good soil drainage. Plants in waterlogged soil or pots with poor drainage tend to get root rot easily, resulting in the plant dying quickly. Plants that lack water or are watered inconsistently tend to wilt, particularly at the hottest part of the day, and may get blossom end rot. Blossom end rot looks like dark, sunken patches at the end of fruits, and is a symptom of a lack of calcium. Most soils in Singapore have plenty of calcium, but inconsistant</p>
 <p>These plants can get blossom end rot, which shows up as dark, sunken blotches at the end of fruits. It is a symptom of a lack of calcium reaching the fruit, which is usually caused by a lack of water or inconsistent watering. Keep your soil moist but not waterlogged and take care to water more often during the dry season. </p>
 <br>
 </section>
