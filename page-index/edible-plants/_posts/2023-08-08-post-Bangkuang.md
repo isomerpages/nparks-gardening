@@ -52,8 +52,10 @@ image: ""
 
 <section>
 	<h4>Harvesting:</h4>
-	<p>Plants can be harvested for fruits around 2 months after sowing. The best time to harvest the fruit is in the early morning, before 9am.</p>
-	<p>Only green, immature beans can be eaten. Dry, brown pods are mature, and can be used for seeds.</p>
+	<p>Tubers can be harvested around 5 months after sowing. Take note that once tubers are harvested, the rest of the plant will die.</p>
+	<p>Be aware that the skin of the tuber, leaves, fruits, flowers and stem are highly toxic. Ensure that the tuber has been scraped clean of skin before consumption. 
+	<img src="/images/Plants/BangKwang_JacChua.jpg">
+	</p><p>Dry, brown pods are mature, and can be used for seeds.</p>
 	
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/FuWK90da0GY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
 <br>
@@ -76,14 +78,13 @@ image: ""
 				<th style="border-right:solid 1px;">Approximate time</th>
 				<td style="border-right:solid 1px;">Less than 2 weeks</td>
 				<td style="border-right:solid 1px;">1 to 2 weeks</td>
-				<td style="border-right:solid 1px;">3 to 6 months</td>
-				<td style="border-left:solid 1px;">4 to 8 months</td>
+				<td style="border-right:solid 1px;">4 to 5 months</td>
+				<td style="border-left:solid 1px;">5 to 6 months</td>
 			</tr>
 		</tbody>
 	</table>
-	
-<p>Check out our&nbsp;<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/digital-tools/sowing-planner/">sowing and harvest planner</a>&nbsp;to schedule your growing! </p>
-<br>
+	<p>Check out our&nbsp;<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/digital-tools/sowing-planner/">sowing and harvest planner</a>&nbsp;to schedule your growing! </p>
+	<br>
 </section>
 
 <section>
@@ -96,6 +97,6 @@ image: ""
 	<h4>Common problems &amp; solutions:</h4>
 	<p>Aphids, mealy bugs, and spider mites often infest the plant if it is sickly or overgrown. Prune off the infested parts, or apply horticultural oils like neem oil and white summer oil to suffocate the remaining pests. Regularly prune the plant to allow light and air to reach throughout the plant, and check the plant for underlying problems like root rot, lack of sunlight, and nutrient deficiencies.</p>
 	<p>Whiteflies can infest the plant and lay eggs under its leaves. Remove affected plant parts and catch remaining adults with yellow sticky paper or treat them with citrus spray.</p>
-<p>Wilting leaves during hot weather is a sign of heat stress. Increase the number of times the plant is watered daily, and apply mulch at the base to prevent water loss.</p>
+	<p>Wilting leaves during hot weather is a sign of heat stress. Increase the number of times the plant is watered daily, and apply mulch at the base to prevent water loss.</p>
 	<br>
 </section>
