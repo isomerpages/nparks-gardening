@@ -48,9 +48,8 @@ image: ""
 <br>
 <section>
 <h4>What should I compost in, and where?</h4>
-<p>Gardeners in rural areas used to dig large holes to bury composting materials in directly. However, actively rotting compost uses up nitrogen as it is being broken down, which tends to result in plants growing nearby to suffer nutrient deficiencies until the compost decomposes fully and becomes mature. Soil biodiversity like bacteria and fungi that are causing the decomposition process can also affect plants to cause root rot or other problems. In addition, pests can dig up buried compost piles, making a mess and hindering the composting process. With this in mind, designating a space separate from your growing area for composting is the most practical solution.</p>
-<p>Composting in urban areas is usually be done in a container of some kind, usually made of plastic that can be drilled to make holes for aeration and still protect the compost from pests. Compost can also be made in a heap and covered with a tarp, but this is less secure from animals, generally messier, and will need a large space. </p>
-<p>Compost should be left in a shady area out of the rain to prevent it from getting too dry or wet. Dry compost will stop decomposing, while overly wet compost may start becoming anaerobic, and produce unpleasant smells. </p>
+<p>Composting in gardens and homes is usually be done in a container of some kind, usually made of plastic that can be drilled to make holes for aeration and still protect the compost from pests. Compost can also be made in a heap and covered with a tarp, but this is less secure from animals, generally messier, and will need a large space. </p>
+<p>Compost should be left in a shady area out of the rain or sun to prevent it from getting too dry or wet. Dry compost will stop decomposing, while overly wet compost may start becoming anaerobic, and produce unpleasant smells. </p>
 </section>
 <br>
 <section>
@@ -81,5 +80,6 @@ image: ""
 <p>In the past, people used to simply bury their composting material directly into their planting areas. However, the decomposition process tends to use up nitrogen while it is happening, resulting in plants growing near actively decomposing compost to become nutrient deficient and vulnerable to pathogens that might be in the immature compost. Containing the compost in a pipe directly in your growing area is a more practical way to keep immature compost away from sensitive plant roots, and helps to feed your soil biodiversity.</p>
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/stVtUD6rcWk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
 	<br>
-<p><b>Worm towers</b> are basically pipes or pots cut in half to contain composting material above ground, encouraging earthworms that live in true ground beds to eat and bury the material throughout your growing area. Take note that thease earthworms are different from the worms used in vermicomposting because they are adapted to living in proper soil with clay components, and not purely organic material.</p>
+<p><b>Worm towers</b> are pipes or pots cut in half to contain composting material above ground, encouraging earthworms that live in true ground beds to eat and bury the material throughout your growing area. Take note that these earthworms are different from the worms used in vermicomposting because they are adapted to living in proper soil with clay components, and not purely organic material.</p>
+	<p>Worm towers need very little maintenance as they don't require mixing and the compost is automatically added to your growing area, but the size of the pipe or pot does limit how much compost can be made at any one time. The pipe or pot will also need to be covered with a lid to prevent pests from digging up unfinished compost and making a mess.  </p> 
 </section>
