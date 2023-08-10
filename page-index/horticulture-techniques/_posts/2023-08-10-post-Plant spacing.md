@@ -22,8 +22,7 @@ image: ""
 <li>2 metres or more for small trees like Guava and Chiku</li>
 </ul>
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/f_Uoug7ZSeg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
-	<br>  
-<p>Measuring out your planting space and marking how many plants you can grow beforehand will make direct seed sowing or transplanting more straightforward. However, poor spacing can also be relatively easily fixed by thinning your plants for overcrowded areas, or interplanting for plants that are growing too far apart. </p>
+<p>Measuring out your planting space and marking how many plants you can grow beforehand will make direct seed sowing or transplanting more straightforward. However, poor spacing can also be relatively fixed by thinning your plants for overcrowded areas, or interplanting for plants that are growing too far apart. </p>
 </section>
 <br>
 <section>
