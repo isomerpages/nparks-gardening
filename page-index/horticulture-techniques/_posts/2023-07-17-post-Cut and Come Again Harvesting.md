@@ -17,10 +17,10 @@ image: ""
 </ul>
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/2rZacCyvU6Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
 	<br>
-<p>The technique you use will depend on how your plant grows. Edible plants that don’t readily grow new shoots like Cai Xin, Lettuce, Kale and Pandan usually only have one growing point, and will slow their growth if the growing point is cut, so harvesting their older outer leaves would be best.</p> 
-<p>On the other hand, plants that can quickly put out new shoots like Bayam, Sweet Potato, Kangkong and Thai Basil will benefit from the harvest of their young leaves and shoots, which are more tender than the older leaves. Regularly harvesting these young shoots will also encourage the plants to become bushier as they put out new growth.</p> 
-<p>Plants for the Cut-and-Come-Again Harvesting method</p>
-<img src="/images/Plants/leafyvegetables_jacchua.jpg">
+<p>The technique you use will depend on how your plant grows. Edible plants that don’t readily grow new shoots like Cai Xin, Lettuce, Kale and Pandan usually only have one growing point, and will slow their growth if the growing point is cut. Because of this, it is best to harvest their older outer leaves, and encourage the existing growing point to keep producing new leaves.</p> 
+<p>On the other hand, plants that can quickly put out new shoots like Bayam, Sweet Potato, Kangkong and Thai Basil will benefit from the harvest of their young leaves and shoots. Regularly harvesting these young shoots will also encourage the plants to become bushier as they put out new growth.</p> 
+<h4>Plants for the Cut-and-Come-Again Harvesting method</h4>
+<img src="/images/Horti%20techniques/cutandcomeagain_lettuce_jacquelinechua.jpg">
 <p>Harvesting the older outer leaves</p>
 <ul>
   <li>Cai Xin (<em>Brassica rapa</em> Caisin Group)</li>
