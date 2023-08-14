@@ -29,11 +29,9 @@ image: ""
 	<h4>Symptoms:</h4>
 	<img title="Curled leaves on a mint plant. Photo by Victoria Lim" src="/images/Biodiversity/aphids%20-%20mentha%20vilosavictorialim.jpg"><br>
 
-<ul>
-	<li>Infested leaves and stems tend to curl downwards. Developing fruits may become distorted in shape.</li>
-	<li>Leaves, stems and fruits appear sticky, and can become covered in sooty mould.</li>
-	<li>Ants are seen crawling around leaves and stems in large numbers. </li>
-</ul>
+<p>Infested leaves and stems tend to curl downwards. Developing fruits may become distorted in shape.</p>
+	<p>Leaves, stems and fruits appear sticky, and can become covered in sooty mould.</p>
+	<p>Ants are seen crawling around leaves and stems in large numbers. </p>
 <br>
 </section>
 
