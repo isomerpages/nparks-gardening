@@ -21,7 +21,8 @@ image: ""
 <section>
 	<h4>Making a seedling or seed-starting mix</h4>
 	<img src="/images/Horti%20techniques/SeedlingTray_Jacchua%20(8).jpg">
-	<p>Seedlings and seeds are vulnerable to pathogens and disease. They are also prone to rot if they are left sitting in water for too long. You can make your own well-draining seed-starting mix with sterile soil amendments. Pure cocopeat, pure perlite, or an equal mix of cocopeat and perlite are good mediums for starting seeds.</p>
+	<p>Seedlings and seeds are vulnerable to pathogens and disease. They are also prone to rot if they are left sitting in water for too long. You can make your own well-draining seed-starting mix with sterile soil amendments.</p> 
+	<p>Pure cocopeat, pure perlite, or an equal mix of cocopeat and perlite are good mixes for starting seeds.</p>
 <section>
 <h4>Sowing seeds in seedling trays or seedling pots</h4>
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/x7J87wY7U6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
