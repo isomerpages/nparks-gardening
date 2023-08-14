@@ -11,7 +11,7 @@ image: ""
 </header>
 
 <section>
-	<img title="Photo by Jacqueline Chua." src="/images/Biodiversity/spidermite_paulinetay.jpg">
+	<img title="Spider mites as seen under a microscope. Photo by Plant Science and Health, NParks." src="/images/Biodiversity/spidermites%20(1)_plantscienceandhealth_nparks.jpg">
 	<p>Spider Mites are microscopic, sap-sucking arachnids that are smaller than aphids. To the naked eye, they usually look like moving dots of various colours – red, yellow, or brown. You will need a 10X handheld lens be able to spot them clearly. They have needle like mouthparts to pierce through plant tissue to feed off the sap.</p>
 	<p>They usually live in colonies on the underside of leaves in hot, dry and dusty conditions. Colonies can be identified by spotting the pests among white webbing.  Plants under water stress are highly vulnerable to a spider mites. Leafy vegetables such as Bayam, Kangkong and various fruiting vegetables like Brinjal, Chili and Cucumber are susceptible to spider mites during the dry season.</p>
 	<br>
@@ -19,8 +19,10 @@ image: ""
 
 <section>
 	<h4>Symptoms</h4>
-		<p>Spider mites can be found on new, young shoots and buds, on the underside of leaves and on fruits.</p>
-		<p>Infected leaves may appear bronze or yellow, and curled. Affected fruits may have corky tissue. Usually, webbing is present on the surface which spider mites are feeding on.</p>
+	<img title="Spider mites on a leaf. Photo by Victoria Lim." src="/images/Biodiversity/spider%20mites%20-%20solanum%20melongena%202victorialim.jpg">
+		<p>Spider mites can be found on new, young shoots and buds, or on the underside of leaves and on fruits. They appear as tiny red dots to the naked eye.</p>
+		<p>Infected leaves may appear bronze or yellow, and curled. Affected fruits may have corky tissue.</p>
+	<p>Webbing is usually present on the surface which spider mites are feeding on.</p>
 	<br>
 </section>
 
