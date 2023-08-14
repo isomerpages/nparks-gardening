@@ -19,8 +19,9 @@ image: ""
 <br>
 <section>
 <h4>How to weed</h4>
-	<img title="Gardeners weeding as part of their general maintenance. Photo by Jacqueline Chua." src="/images/Gardeners/GeneralMaintainence_JacChua%20(1).jpg">
-<p>Weed control should be done early and regularly, especially if you have exposed soil or young plants. Use a spade or a gardening fork to pull out the entire weed, including its roots. Some weeds are hardy enough to regrow from even a tiny bit of stem left behind! Use a pair of gloves to protect yourself from thorns, stones and sap. </p>
+	<img title="A gardener removing a weed from a bed of lettuce. Photo by Jacqueline Chua." src="/images/Horti%20techniques/weeding_jacquelinechua.jpg">
+<p>Weed control should be done early and regularly, especially if you have exposed soil or young plants. Try to remove as much of the weed as possible, as many can grow back from small pieces of stem or roots left behind.</p>
+	<p>Most weeds can be gently pulled out by the base to remove the entire plant, including the roots. Persistent or deeply rooted weeds can be pulled with a gardening fork or a spade. Use a pair of gloves to protect yourself from thorns, stones and sap. </p>
 <p>You can also use mulch to kill and suppress weeds. Mulch will deprive weeds and their seedlings of light, thus killing them. </p>
 <p>Avoid using broad-spectrum herbicides as they are harmful for the environment. </p>
 </section>
