@@ -21,6 +21,7 @@ image: ""
 
 <section>
 	<h4>Symptoms</h4>
+	<img title="Leaf miner larvae extracted from a damaged leaf. Photo by Plant Science and Health, NParks" src="/images/Biodiversity/leafminer%20(1)_plantscienceandhealth_nparks.jpg">
 		<p>Infested leaves have translucent, winding trails within the leaf. Severely mined leaves may shrivel and die. </p>
 	<br>
 </section>
