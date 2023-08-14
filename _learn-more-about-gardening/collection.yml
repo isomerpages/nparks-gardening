@@ -2,6 +2,7 @@ collections:
   learn-more-about-gardening:
     output: true
     order:
+      - Glossary.md
       - Learn more about gardening.md
       - Plants/.keep
       - Plants/Biodiversity Attracting Plants.md
