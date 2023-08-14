@@ -2,7 +2,6 @@ collections:
   learn-more-about-gardening:
     output: true
     order:
-      - Glossary.md
       - Learn more about gardening.md
       - Plants/.keep
       - Plants/Biodiversity Attracting Plants.md
@@ -15,3 +14,4 @@ collections:
       - Plant problems/Pests.md
       - Plant problems/Root Rot.md
       - Plant problems/Wilting.md
+      - Glossary.md
