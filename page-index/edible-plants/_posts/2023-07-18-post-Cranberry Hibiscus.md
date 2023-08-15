@@ -27,7 +27,7 @@ image: ""
 	<h4>Environmental needs:</h4>
 		<img title="Cranberry hibiscus growing in a vertical planting system. Photo by Jacqueline Chua" src="/images/Hardscapes/ContainerGardening_JacChua%20(5).jpg">
 	<p>This plant does best in full sun gardens with a minimum of <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/gauging-light/">6 hours of sunlight</a>. It can also grow in gardens with more than 4 hours of direct sunlight or at least 6 hours of indirect sunlight, but its growth will be slower, and it may not flush as deep a red.</p>
-	<p>Plants do best in moist, well-drained soil at least 15cm deep, or in true ground. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe.</p>
+	<p>Plants do best in <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/soil/">loamy soil</a> at least 15cm deep, or in true ground. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe.</p>
 	<br>
 </section>
 
