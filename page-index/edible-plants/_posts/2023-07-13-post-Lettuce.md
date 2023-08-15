@@ -26,7 +26,7 @@ image: ""
 <section>
 	<h4>Environmental needs:</h4>
 		<img title="Red and green loose-leaf lettuce grown in pots. Photo by Jacqueline Chua." src="/images/Horti%20techniques/ContainerPlanting_JacChua%20(3).jpg">
-		<p>Lettuce does best in <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/gauging-light/">more than 6 or more hours of indirect sunlight, or around 4-5 hours of direct sunlight</a>. Plants do best in <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/soil/">moist, well-drained soil</a> at least 10cm deep, making them suitable for container gardening. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe. Keep your plants cool with mulch and plenty of water to encourage growth.</p>
+		<p>Lettuce does best in <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/gauging-light/">more than 6 or more hours of indirect sunlight, or around 4-5 hours of direct sunlight</a>. Plants do best in <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/soil/">loamy soil</a> at least 10cm deep, making them suitable for container gardening. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe. Keep your plants cool with mulch and plenty of water to encourage growth.</p>
 	<br>
 </section>
 
