@@ -28,7 +28,7 @@ image: ""
 	<h4>Environmental needs:</h4>
 	<img title="Photo by Jacqueline Chua." src="/images/Plants/WingedBean_JacChua%20(2).jpg">
 	<p>This vine does best in full sun gardens with a minimum of 6 hours of sunlight. It can also grow in gardens with more than 4 hours of direct sunlight or at least 6 hours of indirect sunlight, but it may grow slower and produce less fruit.</p>
-	<p>Plants do best in moist, well-drained soil at least 30cm deep, or in true ground. These plants are vulnerable to root rot, so ensure that your soil drains well, and that your soil has plenty of organic matter to let the roots breathe. Keep your plants cool with mulch and plenty of water to encourage growth.</p>
+	<p>Plants do best in <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/soil/">loamy soil</a> at least 30cm deep, or in true ground. These plants are vulnerable to root rot, so ensure that your soil drains well, and that your soil has plenty of organic matter to let the roots breathe. Keep your plants cool with mulch and plenty of water to encourage growth.</p>
 	<p>As a fast-growing vine, this plant can be grown on the ground or trained up a sturdy trellis.</p>
 	
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/SUQGxxAAcNs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
