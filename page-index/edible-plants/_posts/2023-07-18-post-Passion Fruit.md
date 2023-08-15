@@ -28,7 +28,7 @@ image: ""
 		<img src="/images/Plants/Passionfruit_JacChua%20(2).jpg">
 	
 <p>This vine does best in full sun gardens with a minimum of 6 hours of sunlight. It can also grow in gardens with more than 4 hours of direct sunlight or at least 6 hours of indirect sunlight, but it may grow slower and produce less fruit. </p>
-<p>Plants do best in moist, well-drained soil at least 30cm deep, or in true ground. The plant can also be readily grown in smaller pots about 20cm deep. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe. Keep your plants cool with mulch and plenty of water to encourage growth. </p>
+<p>Plants do best in moist, <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/soil/">loamy soil</a> at least 30cm deep, or in true ground. The plant can also be readily grown in smaller pots about 20cm deep. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe. Keep your plants cool with mulch and plenty of water to encourage growth. </p>
 <p>As a fast-growing vine, this plant needs a tall, sturdy trellis to scramble on. Because the fruits hang down, it is ideal for arch-shaped trellises.</p>
 
 	
