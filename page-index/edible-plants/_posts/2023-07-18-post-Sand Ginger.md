@@ -27,7 +27,7 @@ image: ""
 <section> 
   <h4>Environmental needs:</h4> 
   <img src="">
-    	<p> Sand Ginger thrives in more than 2-4 hours of direct sun or 4-6 hours of indirect sun. Plants do best in moist, well-drained soil at least 15cm deep, making them suitable for container gardening and corridor gardening. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe.</p> 
+    	<p> Sand Ginger thrives in more than 2-4 hours of direct sun or 4-6 hours of indirect sun. Plants do best in <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/soil/">sandy soil</a> at least 15cm deep, making them suitable for container gardening and corridor gardening. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of grit to let the roots breathe.</p> 
 <br> 
 </section> 
 
