@@ -27,8 +27,8 @@ image: ""
 <section>
 	<h4>Environmental needs:</h4>
 		<img src="images/Plants/SweetPotato_JacChua.jpg">
-<p>This vine thrives in both full and partial sun gardens and grows best with 4-8 hours of direct sunlight, but can also grow in 4- 6 hours of indirect sunlight but at a slower pace.</p>
-<p>Plants do best in moist, well-drained soil at least 30cm deep, or in true ground. The plant can be grown in smaller pots about 10cm deep but will not produce large tubers. Tuber growth can be encouraged by adding lots of organic material to the soil, making it soft.</p>
+<p>This vine thrives in both full and partial sun gardens and grows best with <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/gauging-light/">4-8 hours of direct sunlight, but can also grow in 4- 6 hours of indirect sunlight</a> but at a slower pace.</p>
+<p>Plants do best in <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/soil/">loamy soil</a> at least 30cm deep, or in true ground. The plant can be grown in smaller pots about 10cm deep but will not produce large tubers. Tuber growth can be encouraged by adding lots of organic material to the soil, making it soft.</p>
 <p>This plant does best when watered regularly but will not survive waterlogging. It can tolerate drought for short periods of time, but the lack of water will reduce its growth.</p>
 <p>As a fast-growing vine, this plant is traditionally left to sprawl on large patches of soil, but it can be also grown up a trellis. Regular pruning will encourage additional growth and improve air circulation.</p>
 	<br>
