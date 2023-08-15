@@ -27,7 +27,7 @@ image: ""
 <section>
 	<h4>Environmental needs:</h4>
 		<img title="Okinawan spinach as seen from overhead. Photo by Flora Fauna Web." src="/images/Plants/okinawan%20spinach_ffw.jpeg">
-		<p>This plant grows rapidly in <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/gauging-light/">4-8 hours of indirect sunlight</a>. Plants may suffer from sunburn in more than 4 hours of direct sunlight. Plants do best in moist, well-drained soil at least 10cm deep, making them suitable for container gardening and corridor gardening. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe.</p>
+		<p>This plant grows rapidly in <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/gauging-light/">4-8 hours of indirect sunlight</a>. Plants may suffer from sunburn in more than 4 hours of direct sunlight. Plants do best in <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/soil/">loamy soil</a> at least 10cm deep, making them suitable for container gardening and corridor gardening. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe.</p>
 		<iframe width="100%" height="415" src="https://www.youtube.com/embed/SfuujJwcZR8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe><br>
 	<br>
 </section>
