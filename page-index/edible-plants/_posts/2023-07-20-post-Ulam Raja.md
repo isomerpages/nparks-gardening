@@ -23,7 +23,7 @@ image: ""
 
 <section>
 	<h4>Environmental needs:</h4>
-	<p>Ulam Raja grows well in 6-8 hours of direct sunlight. Plants do best in moist, well-drained soil at least 20cm deep, making them suitable for container gardening. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe.</p>
+	<p>Ulam Raja grows well in 6-8 hours of direct sunlight. Plants do best in <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/soil/">loamy soil</a> at least 20cm deep, or in true ground. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe.</p>
 	<br>
 </section>
 
