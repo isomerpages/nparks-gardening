@@ -24,7 +24,7 @@ image: ""
  
 <section> 
   <h4>Environmental needs:</h4> 
-		 <p> Pandan does well in less than 4 hours of direct sunlight or 6-8 hours of indirect sunlight. Plants do best in moist, well-drained soil at least 10cm deep, making them suitable for container gardening. Pandan will also readily grow in heavy clay soil, along large waterbodies, and in heavily waterlogged areas.</p>
+		 <p> Pandan does well in less than 4 hours of direct sunlight or 6-8 hours of indirect sunlight. Plants do best in <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/soil/">loamy soil</a> at least 10cm deep, making them suitable for container gardening. Pandan will also readily grow in <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/soil/">clayey soil</a>, along large waterbodies, and in heavily waterlogged areas.</p>
 		<p>Pandan can withstand periods of drought, but the lack of water will stunt its growth.</p> 
 	<br> 
 </section> 
