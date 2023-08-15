@@ -28,7 +28,7 @@ image: ""
 	<h4>Environmental needs:</h4>
 
 <img title="Photo by Jacqueline Chua" src="/images/Plants/IndianBorage_JacChua%20(2).jpg">
-	<p>As with most herbs, Indian Borage are usually grown in about 4-8 hours of indirect sunlight, or 2-6 hours of direct sunlight Plants do best in sandy, well-drained soil at least 10cm deep, making them suitable for container gardening. These plants are also highly drought tolerant, making them very low maintenance. However, they are very vulnerable to root rot, so ensure that your pots drain well and have plenty of grit. </p>
+	<p>As with most herbs, Indian Borage are usually grown in about 4-8 hours of indirect sunlight, or 2-6 hours of direct sunlight Plants do best in s<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/soil/">sandy soil</a> at least 10cm deep, making them suitable for container gardening. These plants are also highly drought tolerant, making them very low maintenance. However, they are very vulnerable to root rot, so ensure that your pots drain well and have plenty of grit. </p>
 	<br>
 	</section>
 
