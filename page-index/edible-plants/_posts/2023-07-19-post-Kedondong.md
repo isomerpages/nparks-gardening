@@ -26,7 +26,7 @@ image: ""
 <section>
 	<h4>Environmental needs:</h4>
 <p>This tree does best in full sun gardens with a minimum of 6 hours of direct sunlight.</p>
-<p>Plants do best in moist, well-drained soil at least 50cm deep, or in true ground. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe. Keep your plants cool with mulch and plenty of water to encourage growth.</p>
+<p>Plants do best in <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/soil/">loamy soil</a> at least 50cm deep, or in true ground. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe. Keep your plants cool with mulch and plenty of water to encourage growth.</p>
 <p>This tree can grow up to 12m high. The tree is best maintained at roughly 2m high for easy maintenance and harvesting. </p>
 <p>This plant can be grown year-round.</p>
 	<br>
