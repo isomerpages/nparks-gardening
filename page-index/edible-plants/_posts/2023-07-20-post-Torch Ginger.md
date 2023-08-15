@@ -26,7 +26,7 @@ Mature flowers are bright, showy, and long lasting, making them suitable as a cu
 
 <section>
 	<h4>Environmental needs:</h4>
-<p>Torch Gingers thrive in 4-8 hours of direct sunlight, or 6-8 hours of indirect sunlight. Plants do best in moist, well-drained soil at least 30cm deep, making them best suited for true ground planting. These plants are vulnerable to root rot, so ensure that your soil drains well, and that your soil has plenty of organic matter to let the roots breathe. </p><p>
+<p>Torch Gingers thrive in 4-8 hours of direct sunlight, or 6-8 hours of indirect sunlight. Plants do best in <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/soil/">loamy soil</a> at least 30cm deep, making them best suited for true ground planting. These plants are vulnerable to root rot, so ensure that your soil drains well, and that your soil has plenty of organic matter to let the roots breathe. </p><p>
 	</p><p>This plant will not do well in places with a lot of wind, like on rooftop gardens. Protect the plant with other larger plants nearby to block off the wind. </p>
 	<br>
 </section>
