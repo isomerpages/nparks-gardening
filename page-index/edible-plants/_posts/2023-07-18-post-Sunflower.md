@@ -28,7 +28,7 @@ image: ""
 	<h4>Environmental needs:</h4>
 		<img src="/images/Plants/SunflowerJacChua%20(2).jpg">
 	
-<p>Sunflowers grow best in 6-8 hours of direct sunlight. They can tolerate 4-5 hours of direct sunlight or at least 6 hours of indirect sunlight, but may have slower or stunted growth. Plants do best in well-draining sandy loam soils at least 20cm deep but are also highly tolerant of dry soils and drought-prone environments. Taller cultivars that grow to 3m or more will require at least 50cm of soil for stability. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe. </p>
+<p>Sunflowers grow best in 6-8 hours of direct sunlight. They can tolerate 4-5 hours of direct sunlight or at least 6 hours of indirect sunlight, but may have slower or stunted growth. Plants do best in <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/soil/">sandy soil</a> at least 20cm deep. Taller cultivars that grow to 3m or more will require at least 50cm of soil for stability. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of grit to let the roots breathe. </p>
 <p>Keep your plants cool with mulch and plenty of water to encourage growth.</p>
 <p>Taller sunflowers may need staking to prevent snapping. Areas prone to strong wind may damage the plant as it grows taller.</p>
 	<br>
