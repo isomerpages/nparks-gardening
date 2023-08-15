@@ -28,7 +28,7 @@ image: ""
 <section>
 	<h4>Environmental needs:</h4>
 <p>This vine does best in full sun gardens with a minimum of 6 hours of direct sunlight. It can also grow in 4-6hours of direct sunlight or more than 6 hours of indirect sunlight, but the plant may be less lush and produce less fruits. </p>
-<p>Plants do best in moist, well-drained soil at least 30cm deep, or in true ground. </p>
+<p>Plants do best in <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/soil/">loamy soil</a> at least 30cm deep, or in true ground. </p>
 <p>This vine is vulnerable to heat stress during the dry season. Water it regularly and mulch the base to prevent water loss.</p>
 <p>As a fast-growing vine, this plant can be grown on the ground or trained up a sturdy trellis. The fruits are quite long and often exceed 30cm, so they do best on tall trellises. </p>
 	
