@@ -27,7 +27,7 @@ image: ""
 <section>
 	<h4>Environmental needs:</h4>
 		<img title="Photo by Jacqueline Chua." src="/images/Plants/Radish_JacChua%20(4).jpg">
-<p>As with most vegetables, Radishes need about 4-6 hours of direct sunlight. They can also grow in at least 6 hours of indirect sunlight, but may produce smaller leaves and roots. Plants do best in moist, well-drained soil at least 15cm deep, making them suitable for container gardening. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe. High organic matter content also makes the soil soft, encouraging more root growth and larger roots overall. </p>
+<p>As with most vegetables, Radishes need about 4-6 hours of direct sunlight. They can also grow in at least 6 hours of indirect sunlight, but may produce smaller leaves and roots. Plants do best in <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/soil/">loamy soil</a> at least 15cm deep, making them suitable for container gardening. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe. High organic matter content also makes the soil soft, encouraging more root growth and larger roots overall. </p>
 	<br>
 	</section>
 
