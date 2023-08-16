@@ -97,7 +97,7 @@ Ground Covers are plants that creep along the ground, growing horizontally and t
 <section>
 <h4 id="h">h</h4>
 	<div id="heat-stress"><b><u>Heat stress</u></b></div>
-	paragraph
+Heat stress is defined as damage caused by an increase in temperature. This results in plants rapidly losing water through evaporation, and causes wilting, stunted growth, and if severe, death. 
 	<br><br><br>
 </section>
 
