@@ -54,7 +54,7 @@ image: ""
 
 <section>
 	<h4>Propagation:</h4>
-	<p>This tree can be grown via seed but are usually propagated via woody cuttings with rooting hormone.</p>
+	<p>This tree is grown via seed.</p>
 	<br>
 </section>
 
@@ -62,6 +62,5 @@ image: ""
 	<h4>Common problems &amp; solutions:</h4>
 	<p>Aphids, mealy bugs, and spider mites often infest the plant if it is sickly or overgrown. Prune off the infested parts, or apply horticultural oils like neem oil and white summer oil to suffocate the remaining pests. Regularly prune the plant to allow light and air to reach throughout the plant, and check the plant for underlying problems like root rot, lack of sunlight, and nutrient deficiencies.</p>
 	<p>Whiteflies can infest the plant and lay eggs under its leaves. Remove affected plant parts and catch remaining adults with yellow sticky paper or treat them with citrus spray.</p>
-	<p>Squirrels, birds and fruit bats may eat unripe or ripe fruit. Wrap your fruit in netting when it starts to develop from a fertilised flower, ideally after all the petals have dropped off.</p>
-<br>
+	<br>
 </section>
