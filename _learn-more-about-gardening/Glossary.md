@@ -64,7 +64,7 @@ Horticulturally, this refers to undeveloped shoots at the base of leaves or on t
 	Corms are short, vertical, underground plant stems that store starch for plants. A number of them can be cooked and eaten, and they can also be used for propagation via division.
 	<br><br>
 		<div id="cultivar"><b><u>Cultivar</u></b></div>
-	paragraph
+	Cultivars are plant types that have been produced by breeding by people in cultivation, as opposed to being produced via natural selection in the wild. Many commercial plant cultivars have been bred to make them more appealing, with larger fruits, showier flowers, or resistance to heat or pests. 
 	<br><br><br>
 </section>
 
@@ -76,21 +76,21 @@ Horticulturally, this refers to undeveloped shoots at the base of leaves or on t
 <section>
 <h4 id="e">e</h4>
 	<div id="establish"><b><u>Establish</u></b></div>
-	paragraph
+	Establishing refers to how plants stabilise after being transplanted, propagated, or pruned. Plants that are establishing are recovering, and will need more care to ensure that they bounce back. 
 	<br><br><br>
 </section>
 
 <section>
 <h4 id="f">f</h4>
 	<div id="flower"><b><u>Flower</u></b></div>
-	paragraph
+	Flowers are the reproductive structure of a plant. The "male" parts or a flower  produce pollen, while "female" parts  consist of the stigma and ovule, which become fruits and seeds when pollen is brought to the stigma in a process called pollination. Plants can have flowers that are male, female, or both. 
 	<br><br><br>
 </section>
 
 <section>
 <h4 id="g">g</h4>
 	<div id="ground-cover"><b><u>Ground cover</u></b></div>
-	paragraph
+Ground Covers are plants that creep along the ground, growing horizontally and thus covering the ground. Ground covers can be used to protect soil, prevent erosion and serve as the lowest layer in mixed planting. 
 	<br><br><br>
 </section>
 
