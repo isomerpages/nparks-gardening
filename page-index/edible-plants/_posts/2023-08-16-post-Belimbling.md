@@ -11,13 +11,12 @@ image: ""
 </header>
 	
 <section>
-	<p><strong>Other common names:</strong> Tut, Bebesaran, 桑</p>
+	<p><strong>Other common names:</strong> Bilimbi, Belimbing Buloh, Cucumber Tree, Belimbing, 木胡瓜</p>
 	<br>
 </section>
 
 <section>
-	<img title="Mulberry fruits in varying stages of ripeness. Photo by Jacqueline Chua" src="/images/Plants/Mulberry_JacChua.jpg">
-	<p>White Mulberry trees are a common addition to Southeast Asian edible gardens and produce edible leaves and fruit. The leaves can be dried and made into tea, while the ripe and unripe fruits are eaten raw or part of desserts.</p>
+	<p>Belimbing trees are small fruit trees that produce numerous small, oblong green fruits that are very sour. The fruits can be eaten raw as a relish, stewed with chilli, or blended into sauces. Its numerous flowers are very attractive to bees and butterflies.</p>
 	<p>As a perennial tree, it is a common sight in edible gardens, permaculture gardens, and low maintenance beds.</p>       
 	<br>
 </section>
@@ -25,9 +24,14 @@ image: ""
 <section>
 	<h4>Environmental needs:</h4>
 	<p>This tree does best in full sun gardens with a minimum of 6 hours of sunlight.</p>
-	<p>Plants do best in <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/soil/">loamy soil</a> at least 30cm deep, or in true ground. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe. Keep your plants cool with mulch and plenty of water to encourage growth.</p>
-	<p>This tree can grow up to 15m high. The tree is best maintained at roughly 1.5m high for easy maintenance and harvesting.</p>
+	<p>Plants do best in moist, well-drained soil at least 50cm deep, or in true ground. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe.</p>
+	<p>This tree can grow up to 10m high, but because the fruits form along the stem, it is best to prune it down to around 2 or 3m for easy harvesting.</p>
+ <p>This plant can be grown year-round.</p>
 	<br>
+</section>
+
+<section>
+	
 </section>
 
 <section>
