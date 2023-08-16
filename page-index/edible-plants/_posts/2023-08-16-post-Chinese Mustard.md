@@ -15,7 +15,8 @@ image: ""
 	<br> 
 </section> 
  
-<section> 
+<section>
+	<img src="/images/Plants/ChineseMustard%20(1).jpg">
 	<p>Chinese Mustard is a resilient crop that is great for beginners. Both its leaves and seeds pack a spicy kick, which make them relatively pest resilient and an interesting vegetable to grow in your edible garden. Leaves can be eaten raw in salads or added to soup, and sprouted seeds are eaten as microgreens.</p>
 	<p>An annual crop, this plant is often grown and consumed under 2 months. Its rapid harvest cycle makes it useful for crop rotation.</p>
 	<p>Due to its shallow root system, these plants are a popular choice for container gardening and corridor gardening.</p>
