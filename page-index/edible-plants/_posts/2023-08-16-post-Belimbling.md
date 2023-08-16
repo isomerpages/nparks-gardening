@@ -47,8 +47,8 @@ image: ""
 
 <section>
 	<h4>Harvesting:</h4>
-	<p>Young leaves can be harvested at any time.</p>
-	<p>Ripe fruits are pink, dark purple or white, depending on the variety. Ripe fruits should be harvested for immediate consumption.</p>
+	<p>Immature green fruits and mature white fruits can both be harvested for consumption, although most dishes use the immature green fruit. The tree produces fruit continuously throughout the year.</p>
+	<p>The fruits have a very delicate and thin skin and requires hand-picking. They will rot 4-5 days after harvest and are therefore usually eaten immediately or pickled.</p>
 	<br>
 </section>
 
