@@ -18,7 +18,7 @@ image: ""
 <section>
 	<img title="Loose-leaf lettuce. Photo by Jacqueline Chua." src="/images/Plants/Lettuce_JacChua%20(3).jpg">
 	<p>One of the most recognisable leafy vegetables, lettuces come in a variety of shapes and colours, with flat-leaved, curly, green, and red cultivars serving as exciting options for the edible gardener. Loose-leaf lettuces do better in the tropics and can be grown in both pots and true ground. Head lettuce is difficult to grow outdoors in Singapore due to the heat and humidity, which tends to cause the tightly bunched leaves to rot.</p>
-	<p>An <a href="/learn-more-about-gardening/glossary/#annual">annual</a> crop, this plant is often grown and consumed under 2 months. Its rapid harvest cycle makes it useful for crop rotation.</p>
+	<p>An <a href="/learn-more-about-gardening/glossary/#a">annual</a> crop, this plant is often grown and consumed under 2 months. Its rapid harvest cycle makes it useful for crop rotation.</p>
   <p>Due to its shallow root system, these plants are a popular choice for container gardening and corridor gardening.</p>
 	<br>
 </section>
