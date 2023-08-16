@@ -17,11 +17,9 @@ image: ""
 </section> 
  
 <section> 
-	<img src="/images/Plants/CaiXin_JacChua%20(2).jpg"> 
-	<p>A staple vegetable in many Chinese homes, Cai Xin is a tender leafy vegetable that can be blanched, stir-fried, or added to soup. The green variety is most common in markets, but some gardeners have also been growing a purple variety from seed!</p>
-	<p>An annual crop, this plant is often grown and consumed under 2 months. Its rapid harvest cycle makes it useful for crop rotation.</p>
-	<p>Due to its shallow root system, these plants are a popular choice for container gardening and corridor gardening.</p>
-	<p>Cai Xin is part of the Brassica or cabbage family, which also includes other popular vegetables like Kai Lan and Xiao Bai Cai. Like a cabbage, Cai Xin will produce a head of leaves that can be harvested all at once. You can prolong your harvest by instead harvesting individual older leaves via the <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/cut-and-come-again/">cut-and-come-again</a> method.</p>
+	<p>Ceylon spinach is a striking vine that is harvested for its leaves, stems, and fruits.  Young leaves and stems are harvested for salads and stews, with the sticky sap used as a thickening agent for soups. Cooked leaves taste like spinach, with a slippery texture similar to Lady’s Finger.</p>
+	<p>The plant produces purple fruits which are used to colour jellies, pastries, and sweets. The natural dye produced from the berries were used in China to make inks for seals by court officials, which is why the plant is also known as Emperor Sprouts (帝皇苗).</p>
+	<p>As a large perennial crop that grows as a vine, it is a common sight in edible gardens, permaculture gardens, and low maintenance beds.</p>
   <br> 
 </section> 
  
