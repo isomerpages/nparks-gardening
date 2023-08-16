@@ -31,14 +31,17 @@ image: ""
 </section>
 
 <section>
-	
+	<h4>Sowing Seeds</h4>
+	<p>Seeds can be sown directly into pots or the ground. Because the plant eventually grows into a tree, it is easier to grow a few seedlings in separate pots before selecting the healthiest one to be grown in true ground.</p>
+	<iframe width="100%" height="415" src="https://www.youtube.com/embed/x7J87wY7U6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
+	<p>The seedlings are generally resilient to most environmental factors but may be vulnerable to being eaten by snails or birds. Protect your young plants with a DIY cloche or netting.</p>
+	<br>
 </section>
 
 <section>
   <h4>Growing:</h4>
-	<img title="Gardeners purining a mulberry bush. Photo by Jacqueline Chua" src="/images/Gardeners/Oasis%20Terraces%20(20).jpg">
-	<p>Mulberry trees are rapid growers and generally do not require fertilising. Regular hard pruning will keep the plant at a manageable size and encourage fruiting.</p>
-	<p>The tree will need to be around 4 years old before it starts producing fruit if grown from seed. Rooted cuttings can produce fruit after a month if taken from a mature tree.</p>
+	<p>Belimbing trees are steady growers and generally does not need fertilising. The tree can grow up to 10m high but because the fruits form along the stems and trunk, it is best to prune it down to around 1.5-3m for easy harvesting. Regular pruning to promote airflow will keep the plant healthy and neat.</p>
+	<p>The tree will need to be around 4 years old before it starts producing fruit.</p>
 <br>
 </section>
 
