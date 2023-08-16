@@ -107,7 +107,7 @@ Heat stress is defined as damage caused by an increase in temperature. This resu
 	Leaves are specialised plant parts grown above ground for photosynthesis. They are usually flat and green, but some plants can also have them in other shapes and colours, like how succulent leaves can range from pink to purple and have a more 3D shape. 
 	<br><br>
 		<div id="leggy"><b><u>Leggy</u></b></div>
-	paragraph
+Leggy plants are very tall with few leaves, and are usually etoilated or in need of pruning. 
 	<br><br><br>
 </section>
 
@@ -119,14 +119,14 @@ Heat stress is defined as damage caused by an increase in temperature. This resu
 <section>
 <h4 id="n">n</h4>
 	<div id="nodes"><b><u>Nodes</u></b></div>
-	paragraph
+Nodeas are areas of a stem where buds are located, and are where new stems, leaves, flowers, or roots can form when exposed to different environmental factors. For example, a node that used to produce leaves can instead grow roots when submerged in water of soil, which is how plants are propagated from cuttings. 
 	<br><br><br>
 </section>
 
 <section>
 <h4 id="o">o</h4>
 	<div id="offshoot"><b><u>Offshoot</u></b></div>
-	paragraph
+Offshoots are lateral shoots that are produced from the main stem of a plant, and can produce small plants at the end. They are also sometimes known as "pups" or "suckers", and can be divided from the mother plant to be propagated.  
 	<br><br><br>
 </section>
 
@@ -136,10 +136,10 @@ Heat stress is defined as damage caused by an increase in temperature. This resu
 Perennial plants traditionally refer to plants that survive beyond one season. Tropical climates don't really have seasons, so in Singapore's context, perennial plants are plants that can survive beyond a year.
 	<br><br>
 	<div id="perimeter-plants"><b><u>Perimeter plants</u></b></div>
-	paragraph
+Perimeter plants are plants grown along the borders of a garden, and serve as demarcation to define the edge of a space. 
 	<br><br>
 	<div id="pollination"><b><u>Pollination</u></b></div>
-	paragraph
+Pollination refers to the transport of pollen to the stigma of a plant, which is key to the formation of fruit. Some plants can self-pollinate if the pollen and stigma are in the same flower, but plants with pollen and stigmas in separate flowers will need to be pollinated by wind, insects, or other means. 
 	<br><br>
 	<div id="propagation"><b><u>Propagation</u></b></div>
 	paragraph
