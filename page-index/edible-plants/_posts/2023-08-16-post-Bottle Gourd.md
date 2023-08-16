@@ -11,33 +11,25 @@ image: ""
 </header>
 	
 <section>
-	<p><strong>Other common names:</strong> 蕃茄, தக்காளி</p>
+	<p><strong>Other common names:</strong> Labu Ayer Puteh, Calabash Gourd, 葫 芦</p>
 	<br>
 </section>
 
 <section>
-	<img src="/images/Plants/Tomato_JacChua%20(5).jpg">
-	
-<p>Tomatoes are a popular crop grown in home and Community Gardens and are often considered one of the most desirable crops for new gardeners to try. There are many Tomato cultivars, with the most common varieties seen in Singapore being heat-tolerant cherry tomato varieties. Tomatoes are usually red but can also come in other colours like yellow or pink, and range in shape and size depending on the cultivar.</p>
-<p>Immature tomatoes can be eaten after they have been cooked, with the most common methods being frying or making them into chutney. Ripe Tomatoes can be eaten raw, in soup, roasted or made into sauces.</p>
-<p>As an annual crop, these plants do well as part of scheduled crop rotation.</p>
-<p>This plant is part of the Solanum or Nightshade family, which includes other popular edible fruits like Brinjals and Chillies.</p>
+	<img src="/images/Plants/BottleGourd_JacChua.jpg">
+	<p>Bottle Gourds are an hourglass-shaped fruit that have edible flesh and seeds. Young fruit and seeds are fried, stewed, boiled, or steamed in a variety of Chinese and Indian dishes. Mature fruit have very hard skin, which can then be dried and processed into containers and musical instruments.</p> 
+	<p>An annual crop, these plants are often grown in rotation with other fruiting climbers.</p>
+	<p>This plant is part of the Cucurbita or Melon family, which includes other popular edible fruits like Cucumber, Winter melon, and Pumpkin.</p>
 	<br>
 </section>
 
 <section>
 	<h4>Environmental needs:</h4>
 		<img src="/images/Plants/Tomato_JacChua%20(3).jpg">
-<p>This vine does best in full sun gardens with a minimum of 6 hours of direct sunlight. This plant can also grow with 4-5 hours of direct sunlight and at least 6 hours of indirect sunlight, but will produce less fruits.</p>
-<p>Plants do best in <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/soil/">loamy soil</a> at least 15cm deep, or in true ground.</p>
+	<p>This vine does best in full sun gardens with a minimum of 6 hours of sunlight. This plant can also grow in areas with at least 6 hours of indirect sunlight, but growth will be slower, and the vine will produce less fruit.</p>
+	<p>Plants do best in moist, well-drained soil at least 30cm deep, or in true ground. The plant can be grown in smaller pots about 20cm deep, but growth will be slower due to the lack of water retention in less soil and a smaller root ball.</p>
+	<p>As a fast-growing vine, this plant needs a sturdy trellis to scramble on. Because the fruits hang down, it is ideal for arch-shaped trellises.</p>
 	
-<iframe width="100%" height="415" src="https://www.youtube.com/embed/eGBg_S8yj0U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
-	
-<p>Depending on the cultivar, tomatoes can grow as a vine (indeterminate) or as a small shrub (determinate). Vining varieties will need stakes or a trellis to support their growth.</p>
-<p>As with all members of the Nightshade family, this plant is buzz-pollinated and produces the most fruit when bees are around to pollinate it. Growing more bee-attracting plants within the garden will encourage pollination. It can be hand-pollinated, but the success rate is generally lower. </p>
-	<p> Tomato plants need to be watered consistently, and have good soil drainage. Plants in waterlogged soil or pots with poor drainage tend to get root rot easily, resulting in the plant dying quickly. Tomatoes exposed to a lot of water suddenly, like during the first storm of the monsoon season, may have their fruits crack. Plants that lack water or are watered inconsistently tend to wilt, particularly at the hottest part of the day, and may get blossom end rot. Blossom end rot looks like dark, sunken patches at the end of fruits, and is a symptom of a lack of calcium. Most soils in Singapore have plenty of calcium, but a lack of water will prevent it from reaching the fruit.</p>
-	<p>All of these watering-related problems can be managed by planting tomatoes in well-draining soil with plenty of organic matter like compost and cocopeat. This is because organic matter soaks water up like a sponge, but will allow excess water to drain away, thus making sure that the roots can breathe and prevents root rot. With such well-draining soil, the plants can then be watered by hand or via an irrigation system twice a day to keep the soil moist, and the plant well-watered. Plants grown during the monsoon season can be protected by a shelter to prevent the large influx of water during storms from cracking fruits.</p>
-
 <br>
 </section>
 
