@@ -52,9 +52,10 @@ image: ""
 
 <section>
 	<h4>Harvesting:</h4>
-<p>Plants can be harvested for fruits around three months after sowing. The best time to harvest the fruit is in the early morning, before 9am.</p>
-<p>Tomatoes are generally harvested when ripe, however unripe tomatoes can also be eaten after they have been thoroughly cooked. Ripe tomatoes are shiny, glossy, and will no longer have green spots. They should be easy to pop off the stem with a gentle twist. Seeds can be used from ripe fruit for immediate planting.</p>
-<br>
+<p>Plants can be harvested for immature, green fruits for eating around 60 days after sowing. The best time to harvest the fruit is in the early morning, before 9am.
+Fruits can be left on the vine to harden and mature if they are to be used for seeds or decorative purposes. The fruit will become hard and brown, with the supporting vine shrivelling when ripe.</p>
+	<p>The plant will continuously produce fruit for about 3 months to a year before declining.</p>
+	<br>
 </section>
 
 <section>
@@ -72,34 +73,30 @@ image: ""
 		<tbody>
 			<tr>
 				<th style="border-right:solid 1px;">Approximate time</th>
-				<td style="border-right:solid 1px;">2 weeks or less</td>
-				<td style="border-right:solid 1px;">2 weeks or less</td>
-				<td style="border-right:solid 1px;">2 to 3 months</td>
+				<td style="border-right:solid 1px;">less than a week</td>
+				<td style="border-right:solid 1px;">2 to 3 weeks</td>
+				<td style="border-right:solid 1px;">1 to 2 months</td>
 				<td style="border-left:solid 1px;">2 to 3 months</td>
 			</tr>
 		</tbody>
 	</table>
-	
-<p>Check out our&nbsp;<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/digital-tools/sowing-planner/">sowing planner</a>&nbsp;to schedule your growing! </p>
-<br>
+	<p>Check out our&nbsp;<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/digital-tools/sowing-planner/">sowing planner</a>&nbsp;to schedule your growing! </p>
+	<br>
 </section>
 
 <section>
 	<h4>Propagation:</h4>
-	<p>Tomatoes are grown from seed or via division of suckers. </p>
+	<p>This vine can be grown via seeds. Seeds can be taken from mature fruit for immediate planting.</p>
 	<br>
 </section>
 
 <section>
 	<h4>Common problems &amp; solutions:</h4>
-<p>If your plant has little to no flowers, you try fertilising the plant with fertilisers high in Phosphorus and Potassium. These nutrients encourage root and flower growth, which are important for the plant to produce more fruit.</p>
-<p>This plant is buzz-pollinated by bees. If you have a lot of flowers and no fruit, you may need to attract bees to your garden by growing some pollinator-attracting plants.</p>  
-<p>Fruits can be vulnerable to blossom end rot, which shows up as dark blotches on the ends of fruit. To prevent this, make sure that the soil is constantly moist by not waterlogged through regular watering.</p>
-<p>Fruits might crack if the plant is exposed to a lot of water suddenly, like during the first rain of the monsoon season. Protect your plants with a shelter and manage watering by hand, or via an irrigation system.</p>
-<p>Aphids, mealy bugs, and spider mites often infest the plant if it is sickly or overgrown. Prune off the infested parts, or apply horticultural oils like neem oil and white summer oil to suffocate the remaining pests. Regularly prune the plant to allow light and air to reach throughout the plant, and check the plant for underlying problems like root rot, lack of sunlight, and nutrient deficiencies.</p> 
-<p>Fruit flies can lay eggs in the fruit, resulting in larvae damaging the fruit and creating spots on the skin. Wrap your fruit in netting when it starts to develop from a fertilised flower, ideally after all the petals have dropped off. </p>
-<p>This plant is susceptible to root-knot nematodes which cause the plant to have galls on its roots which result in leaf wilting and root decay. Rotate your crops and change the soil to remedy the infestation. </p>
-<p>Wilting leaves during hot weather is a sign of heat stress. Increase the number of times the plant is watered daily, and apply mulch at the base to prevent water loss. </p>
-<p>This plant is vulnerable to both heat stress and root rot. Both can be mitigated by having well-drained soil mix that is watered regularly, particularly during the dry season or in exposed gardens.</p>
-<br>
+	<p>If your vine has little to no flowers, you try fertilising the plant with fertilisers high in Phosphorus and Potassium. These nutrients encourage root and flower growth, which are important for the plant to produce more fruit.</p><p>
+	</p><p>However, if your plant is producing lots of flowers but is not bearing fruit, you may not have female and male flowers present in the same area together. Pollen from the male flower needs to be transferred to the female flower before the female flower can become a fruit. This process is called pollination and is important or the formation of many edible fruits. Vines from the melon family generally produce male flowers before female flowers. Having at least 3 plants of varying ages in the garden will make both male and female flowers present for pollination to happen.</p>
+	<p>Many plants require pollinators to help them fruit. Bees, butterflies, birds and even beetles transport pollen from one flower to another, pollinating your crops and increasing their fruit yield. Attract some pollinators to your garden by growing pollinator-attracting crops, or become a pollinator yourself by hand-pollinating your plants.</p>
+	<p>Aphids, mealy bugs, and spider mites often infest the plant if it is sickly or overgrown. Prune off the infested parts, or apply horticultural oils like neem oil and white summer oil to suffocate the remaining pests. Regularly prune the plant to allow light and air to reach throughout the plant, and check the plant for underlying problems like root rot, lack of sunlight, and nutrient deficiencies.</p>
+	<p>Whiteflies can infest the plant and lay eggs under its leaves. Remove affected plant parts and catch remaining adults with yellow sticky paper or treat them with citrus spray. 
+Fruit flies can lay eggs in the fruit, resulting in larvae damaging the fruit and creating spots on the skin. Wrap your fruit in netting when it starts to develop from a fertilised flower, ideally after all the petals have dropped off.</p>
+	<br>
 </section>
