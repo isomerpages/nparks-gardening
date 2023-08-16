@@ -54,14 +54,14 @@ Click on an alphabet to navigate the glossary!
 Plants that produce materials that attracts animals, like food or nesting materials. Food materials include nectar, pollen, and fruit, while nesting materials include hollow twigs, leaves for lining nests, or large branches. 
 	<br><br>
 		<div id="bud"><b><u>Bud</u></b></div>
-	paragraph
+Horticulturally, this refers to undeveloped shoots at the base of leaves or on the tip of stems. They can develop into flowers or additional stems. 
 	<br><br><br>
 </section>
 
 <section>
 <h4 id="c">c</h4>
 	<div id="corm"><b><u>Corm</u></b></div>
-	paragraph
+	Corms are short, vertical, underground plant stems that store starch for plants. A number of them can be cooked and eaten, and they can also be used for propagation via division.
 	<br><br>
 		<div id="cultivar"><b><u>Cultivar</u></b></div>
 	paragraph
