@@ -142,7 +142,7 @@ Perimeter plants are plants grown along the borders of a garden, and serve as de
 Pollination refers to the transport of pollen to the stigma of a plant, which is key to the formation of fruit. Some plants can self-pollinate if the pollen and stigma are in the same flower, but plants with pollen and stigmas in separate flowers will need to be pollinated by wind, insects, or other means. 
 	<br><br>
 	<div id="propagation"><b><u>Propagation</u></b></div>
-	paragraph
+	Propagation is the process in which new plants can be grown from various plant parts. Most gardeners propagate plants via seeds, leaf cuttings, stem cuttings, or the division of offshoots, rhizomes, tubers, and corms. 
 	<br><br><br>
 </section>
 
