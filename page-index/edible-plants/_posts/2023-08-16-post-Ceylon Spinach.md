@@ -39,22 +39,17 @@ image: ""
 </section> 
  
 <section> 
-  <h4>Transplanting:</h4> 
-		<p>Seedlings will be ready for transplanting into pots or true ground when they have developed 4 or more leaves, or roughly a week or two after germination. Leave 10-20cm between each plant to encourage more growth, better ventilation, and no etiolation.</p> 
-		<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/lItBHYjyrKg" height="415" width="100%"></iframe><br>
-	<br>
-</section>
- 
-<section> 
   <h4>Growing:</h4> 
-		<p>Cai Xin is a rapid grower and will produce more leaves if fed with high nitrogen fertilisers. Plants can be fertilised regularly the week after transplanting for a fuller crop.</p> 
+		<p>Ceylon spinach grows rapidly when fed with high nitrogen fertilisers. Plants can be fertilised regularly two weeks after germination for a fuller crop.</p>
+	<p>Because the vines will grow on top of each other, it is a good practice to prune regularly to improve ventilation and allow light to reach more of the plant.</p>
+	<p>This vine grows large very rapidly and can climb up to 10m if a tall enough surface is available. Prune it back to manageable heights (around 1.5m) to make harvesting and maintenance easier.</p> 
 	<br> 
 </section> 
  
 <section> 
   <h4>Harvesting:</h4> 
-		<p>Plants can be harvested for leaves at any time, with younger leaves being the most tender. However, the leaves will become tough when the plant starts to flower. Most gardeners will harvest their crop around three weeks to a month after sowing.</p> 
-		<p>The whole plant can be harvested once by cutting the head at the base or multiple times by harvesting the older leaves as per the <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/cut-and-come-again/">cut-and-come-again</a> method.</p> 
+	<p>Plants can be harvested for leaves and stems, with younger leaves being the most tender. Most gardeners will begin harvesting from their Ceylon Spinach plant around 2 months after sowing.</p>
+	<p>Ceylon Spinach is typically harvested multiple times by harvesting the younger leaves and stems as per the <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/cut-and-come-again/">cut-and-come-again</a> method.</p> 
 		<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/f_Uoug7ZSeg" height="415" width="100%"></iframe><br>
 	<br>
 </section> 
@@ -65,8 +60,7 @@ image: ""
     <thead> 
       <tr> 
         <th style="border-bottom:0px; border-right:solid 1px;">Growing period</th> 
-        <th style="border-bottom:0px; border-right:solid 1px;">Sowing to germination</th> 
-        <th style="border-bottom:0px; border-right:solid 1px;">Germination to transplanting</th> 
+        <th style="border-bottom:0px; border-right:solid 1px;">Sowing to germination</th>
         <th style="border-bottom:0px; border-right:solid 1px;">Transplanting to first harvest</th> 
         <th style="border-bottom:0px; border-left:solid 1px;">Total sowing to first harvest</th> 
       </tr> 
@@ -75,9 +69,8 @@ image: ""
       <tr> 
         <th style="border-right:solid 1px;">Approximate time</th> 
         <td style="border-right:solid 1px;">A week or less</td> 
-        <td style="border-right:solid 1px;">About a week</td> 
-        <td style="border-right:solid 1px;">2 to 3 weeks</td> 
-        <td style="border-left:solid 1px;">A month</td> 
+        <td style="border-right:solid 1px;">A month and a half</td> 
+        <td style="border-left:solid 1px;">Around 2 months</td> 
       </tr> 
     </tbody> 
   </table> 
@@ -87,15 +80,17 @@ image: ""
  
 <section> 
   <h4>Propagation:</h4> 
-		<p>Cai Xin is primarily grown from <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/propagatingseed/">seed</a>.</p> 
+		<p>This vine can be grown via seeds or by stem cuttings rooted in water or soil.</p> 
 	<br> 
 </section> 
  
 <section> 
   <h4>Common problems &amp; solutions:</h4> 
-		<p>Caterpillars, usually from the Diamondback moth and Tussock moth, can rapidly eat all the leaves of your plant. If your plant has lots of large holes and small brown or black faecal pellets scattered around damaged leaves, you likely have a caterpillar infestation. Manually remove the caterpillars by hand and protect your plants with netting.</p>
-		<p>Leaf miners are fly larvae that eat the leaves from the inside, leaving white lines or patches in their wake. Manually remove damaged leaves and use fine mesh netting to stop the adult flies from laying eggs on the plant again.</p>
-		<p>Etiolation is characterised by plants growing long and skinny, with weak stems and small leaves. The plants may also sometimes look yellowish. Plants etiolate when they do not get enough sunlight, which results in slow growth and untidy forms. To prevent this, grow plants in environments with enough light for them and make sure that each plant has enough space to prevent overcrowding.</p>
-		<p>These plants are vulnerable to sunburn in more than 6 hours of direct sunlight. Use shade netting to protect your plants or replant in a shadier spot.</p>
+	<p>This plant is relatively resistant to pests and disease if kept healthy.</p>
+	<p>This plant is vulnerable to fungal diseases that form leaf spots during the wet season or when the plant is overgrown. Increase air circulation with regular pruning and remove affected leaves to reduce the spread.</p>
+	<p>This plant is susceptible to root-knot nematodes which cause the plant to have galls on its roots which result in leaf wilting and root decay. Rotate your crops and change the soil to remedy the infestation.</p>
+	<p>Etiolation is characterised by plants growing long and skinny, with weak stems and small leaves. The plants may also sometimes look yellowish. Plants etiolate when they do not get enough sunlight, which results in slow growth and untidy forms. To prevent this, grow plants in environments with enough light for them and make sure that each plant has enough space to prevent overcrowding.</p>
+	<p>Aphids, mealy bugs, and spider mites often infest the plant if it is sickly or overgrown. Prune off the infested parts or apply horticultural oils like neem oil and white summer oil to suffocate the remaining pests. Regularly prune the plant to allow light and air to reach throughout the plant, and check the plant for underlying problems like root rot, lack of sunlight, and nutrient deficiencies.</p>
+	<p>Whiteflies can infest the plant and lay eggs under its leaves. Remove affected plant parts and catch remaining adults with yellow sticky paper or treat them with citrus spray.</p>
 	<br> 
 </section>
