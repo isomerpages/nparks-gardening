@@ -154,36 +154,33 @@ Pollination refers to the transport of pollen to the stigma of a plant, which is
 <section>
 <h4 id="r">r</h4>
 	<div id="rhizome"><b><u>Rhizome</u></b></div>
-	paragraph
-	<br><br>
-	<div id="root-bound"><b><u>Root bound</u></b></div>
-	paragraph
+	Rhizomes are underground plant stems that grow horizontally, and can continuously put out new roots and shoots from its nodes. Some rhizomes can store starch, and are edible. Rhizomes can be used for propagation via division. 
 	<br><br>
 	<div id="rooting-hormone"><b><u>Rooting hormone</u></b></div>
-	paragraph
+	Rooting hormones are substances that are used to stimulate root growth on cuttings. It usually comes as a powder, and can be bought in commercial nurseries. 
 	<br><br><br>
 </section>
 
 <section>
 <h4 id="s">s</h4>
 	<div id="stem"><b><u>Stem</u></b></div>
-	paragraph
+	The main stalk of a plant, where leaves, flowers and fruits can grow from nodes.
 	<br><br>
 	<div id="sucker"><b><u>Sucker</u></b></div>
-	paragraph
+Shoots that are produced from the main stem of a plant, and  can be divided from the mother plant to be propagated. Sometimes also known as "Offshoots".  
 	<br><br><br>
 </section>
 
 <section>
 <h4 id="t">t</h4>
 	<div id="thinning"><b><u>Thinning</u></b></div>
-	paragraph
+Thinning is the act of removing plants, branches, or plant parts to create more space for remaining plants to grow. Thinning is an important part of maintenance for ground covers, seedlings, and young plants. 
 	<br><br>
 	<div id="tuber"><b><u>Tuber</u></b></div>
-	paragraph
+Tubers are large underground roots that contain starch and other nutrients for plants. Many tubers are edible, and can also be used for propagating plants via division. 
 	<br><br>
 	<div id="turgid"><b><u>Turgid</u></b></div>
-	paragraph
+	Turgid is a descriptive term referring to plant parts that are full of water, and are thus rigid. Healthy plants will have turgid stems and leaves, while plants that are under heat stress, unhealthy or damaged will lose their turgidity and will wilt. 
 	<br><br><br>
 </section>
 
