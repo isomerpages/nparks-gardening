@@ -43,15 +43,15 @@ Click on an alphabet to navigate the glossary!
 
 <section>
 <h4 id="a">a</h4>
-	<div id="annual"><b><u>Annual</u></b></div>
-	paragraph
+	<div id="annual"><b><u>Annual plants</u></b></div>
+	Annual plants are plants that will die at the end of a growing season, and will need to be replanted or regrown. Tropical climates don't really have seasons, so in Singapore's context, annual plants are plants that will die within a year.
 	<br><br><br>
 </section>
 
 <section>
 <h4 id="b">b</h4>
-	<div id="biodiversity-attracting"><b><u>Biodiversity-attracting</u></b></div>
-	paragraph
+	<div id="biodiversity-attracting"><b><u>Biodiversity-attracting plants</u></b></div>
+Plants that produce materials that attracts animals, like food or nesting materials. Food materials include nectar, pollen, and fruit, while nesting materials include hollow twigs, leaves for lining nests, or large branches. 
 	<br><br>
 		<div id="bud"><b><u>Bud</u></b></div>
 	paragraph
@@ -132,8 +132,8 @@ Click on an alphabet to navigate the glossary!
 
 <section>
 <h4 id="p">p</h4>
-	<div id="perennial"><b><u>Perennial</u></b></div>
-	paragraph
+	<div id="perennial"><b><u>Perennial plants</u></b></div>
+Perennial plants traditionally refer to plants that survive beyond one season. Tropical climates don't really have seasons, so in Singapore's context, perennial plants are plants that can survive beyond a year.
 	<br><br>
 	<div id="perimeter-plants"><b><u>Perimeter plants</u></b></div>
 	paragraph
