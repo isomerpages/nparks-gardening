@@ -104,7 +104,7 @@ Heat stress is defined as damage caused by an increase in temperature. This resu
 <section>
 <h4 id="l">l</h4>
 	<div id="leaf"><b><u>Leaf</u></b></div>
-	paragraph
+	Leaves are specialised plant parts grown above ground for photosynthesis. They are usually flat and green, but some plants can also have them in other shapes and colours, like how succulent leaves can range from pink to purple and have a more 3D shape. 
 	<br><br>
 		<div id="leggy"><b><u>Leggy</u></b></div>
 	paragraph
