@@ -25,33 +25,34 @@ image: ""
 
 <section>
 	<h4>Environmental needs:</h4>
-	<p>Elephant Foot Yam grows well in 2-4 hours of direct sunlight or more than 6 hours of indirect sunlight. Plants do best in moist, well-drained soil at least 60cm deep, making them most suitable for true ground planting. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe.</p>
-	<p>This plant will not do well in places with a lot of sun and is vulnerable to sunburn.</p>
+	<p>Fingerroot grows well in 4-6 hours of direct sunlight or 6-8 hours of indirect sunlight. Plants do best in moist, well-drained soil at least 15cm deep, making them suitable for container gardening and corridor gardening. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe.</p>
+	<p>This plant will not do well in places with a lot of wind, like on rooftop gardens or corridor gardens on high floors. Protect the plant with other larger plants nearby to block off the wind.</p>
 	<br>
 </section>
 
 <section>
   <h4>Growing:</h4>
-	<p>Elephant Foot Yams grow as singular leaf stalks that fan out into an umbrella-shaped canopy like a small tree. Its large size can crowd out nearby plants, so it is best planted by itself in an area of 2 meters by 2 meters. The leaf stalk may die back after some time, and the corm will produce a new one. The plant will also produce additional small corms around itself, which can be harvested for replanting or for consumption.</p>
+	<p>Fingerroot naturally grows in clusters as the plant grows more rhizomes. Thin plants out to give them around 5-10cm of space to encourage the production of more rhizomes.</p>
 	<br>
 </section>
 
 <section>
 	<h4>Harvesting:</h4>
-	<p>Plants can be harvested for corms and young leaflets at any time. The corms are typically harvested via division, while leaflets are harvested via the cut-and-come-again method. The plant takes up to a year to produce new corms for harvest.</p>
+	<p>Plants can be harvested for rhizomes at any time. They are typically harvested continuously via division.</p>
 	<br>
 </section>
 
 <section>
 	<h4>Propagation:</h4>
-	<p>Elephant Foot Yams are propagated via division of the corm.</p>
+	<p>Fingerroot is propagated via division of the rhizome.</p>
 	<br>
 </section>
 
 <section>
 	<h4>Common problems &amp; solutions:</h4>
 	<p>This plant is relatively resistant to pests and disease if kept healthy.</p>
-	<p>Wilting leaves during hot weather is a sign of heat stress. Increase the number of times the plant is watered daily or add mulch to prevent water loss.</p>
-	<p>This plant is susceptible to nematodes which cause the plant to have galls on its roots which result in leaf wilting and root decay. Rotate your crops and change the soil to remedy the infestation.</p>
+	<p>Wilting leaves during hot weather is a sign of heat stress. Increase the number of times the plant is watered daily, or move it to a shadier part of the garden.</p>
+	<p>This plant’s leaves may develop brown, dry patches if exposed to too much sunlight. Prevent sun burn by planting it in shade or cover it with shade netting.</p>
+	<p>Aphids, mealy bugs, and spider mites often infest the plant if it is sickly or overgrown. Prune off the infested parts, or apply horticultural oils like neem oil and white summer oil to suffocate the remaining pests. Regularly prune the plant to allow light and air to reach throughout the plant, and check the plant for underlying problems like root rot, lack of sunlight, and nutrient deficiencies.</p>
 	<br>
 </section>
