@@ -35,7 +35,7 @@ image: ""
  
 <section> 
   <h4>Harvesting:</h4> 
-		<p>The plant can be harvested for young leaves via the <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/cut-and-come-again/">cut-and-come-again-method </a> at any time.</p> 
+		<p>The plant can be harvested for young leaves via the <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/cut-and-come-again/">cut-and-come-again-method</a> at any time.</p> 
 	<br> 
 </section> 
   
@@ -47,8 +47,8 @@ image: ""
  
 <section> 
   <h4>Common problems &amp; solutions:</h4> 
-		<p> Like most strong-smelling herbs, this plant is relatively resistant to pests and disease if kept healthy.</p>
-		<p>Aphids, mealy bugs, and spider mites can the plant if it is sickly or overgrown. Prune off the infested parts, or apply horticultural oils like neem oil and white summer oil to suffocate the remaining pests. Regularly prune the plant to allow light and air to reach throughout the plant, and check the plant for underlying problems like root rot, lack of sunlight, and nutrient deficiencies.</p>
-		<p>This plant can grow long and leggy, especially if it has been harvested from for a long time. Prop the top up with stakes or remove the leggy stem to allow offshoots to replace it.</p>
+	<p> This plant is relatively resistant to pests and disease if kept healthy.</p>
+	<p>The plant tends to get leggy with age. Prune the plant down and fertilise with a high nitrogen fertiliser to encourage bushiness.</p>
+	<p>Aphids, mealy bugs, and spider mites often infest the plant if it is sickly or overgrown. Prune off the infested parts, or apply horticultural oils like neem oil and white summer oil to suffocate the remaining pests. Regularly prune the plant to allow light and air to reach throughout the plant, and check the plant for underlying problems like root rot, lack of sunlight, and nutrient deficiencies.</p>
 	<br> 
 </section>
