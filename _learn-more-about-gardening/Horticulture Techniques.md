@@ -47,17 +47,21 @@ Click on an alphabet to learn more about different horticulture techniques!
 
 <section>
 <h4 id="b">b</h4>
-Bottom watering<br>
+	<a href="/page-index/horticulture-techniques/bottom-watering/">Bottom watering</a><br>
 	 <br><br>
 </section>
 
 <section>
 <h4 id="c">c</h4>
-<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/choosingplants/">Choosing plants</a><br>
-Cloche<br>
-<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/companionplanting">Companion planting</a><br>
-Composting<br>
-<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/cut-and-come-again/">Cut and come again harvesting</a><br>
+<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/choosingplants/">Choosing plants</a>
+	<br>
+	<a href="/page-index/horticulture-techniques/cloches/">Cloche</a>
+	<br>
+<a href="/page-index/horticulture-techniques/companionplanting">Companion planting</a>
+	<br>
+<a href="/page-index/horticulture-techniques/composting/">Composting</a>
+	<br>
+<a href="/page-index/horticulture-techniques/cut-and-come-again/">Cut and come again harvesting</a><br>
 	 <br><br>
 </section>
 
@@ -73,7 +77,8 @@ Composting<br>
 
 <section>
 <h4 id="f">f</h4>
-Fertilising<br>
+	<a href="/page-index/horticulture-techniques/fertilising/">Fertilising</a><br>
+	<a href="/page-index/horticulture-techniques/finding-pests/">Finding pests</a><br>
 	<br><br>
 </section>
 
@@ -81,7 +86,7 @@ Fertilising<br>
 <h4 id="g">g</h4>
 <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/gauging-light/">Gauging light</a><br>
 <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/growlights">Grow lights</a><br>
-Growing edibles for consumption<br>
+	<a href="/page-index/horticulture-techniques/harvesting-hygiene/">Growing edibles for consumption</a><br>
 <br><br>
 </section>
 
@@ -93,7 +98,7 @@ Growing edibles for consumption<br>
 
 <section>
 <h4 id="i">i</h4>
-Integrated pest management<br>
+	<a href="/page-index/horticulture-techniques/ipm">Integrated pest management</a><br>
 	<br><br>
 </section>
 
@@ -130,9 +135,10 @@ Low maintenance beds<br>
 
 <section>
 <h4 id="p">p</h4>
+	<a href="/page-index/horticulture-techniques/pest-control/">Pest control</a><br>
 Plant pathogens<br>
 Planting in containers<br>
-Planting in true ground<br>
+	<a href="/page-index/horticulture-techniques/true-ground/">Planting in true ground</a><br>
 <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/propagatingcuttings">Propagating via cuttings</a><br>
 <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/propagatingdivision">Propagating via division</a><br>
 <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/propagatingseed">Propagating via seeds</a><br>
@@ -151,10 +157,9 @@ Planting in true ground<br>
 
 <section>
 <h4 id="s">s</h4>
-Saving seeds<br>
-Soil<br>
-Soil amendments<br>
-Spacing<br>
+	<a href="/page-index/horticulture-techniques/soil/">Soil</a><br>
+	<a href="/page-index/horticulture-techniques/soil-amendments/">Soil amendments</a><br>
+	<a href="/page-index/horticulture-techniques/plant-spacing/">Spacing</a><br>
 <br><br>
 </section>
 
@@ -175,8 +180,8 @@ Spacing<br>
 	
 <section>
 <h4 id="w">w</h4>
-Watering<br>
-Weeding<br>
+	<a href="/page-index/horticulture-techniques/watering/">Watering</a><br>
+	<a href="/page-index/horticulture-techniques/weeding/">Weeding</a><br>
 	<br><br>
 	</section>
 
