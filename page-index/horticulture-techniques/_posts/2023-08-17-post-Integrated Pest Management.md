@@ -20,7 +20,7 @@ image: ""
 <ul>
 <li>Check your garden regularly for plant pests, ideally whenever you visit the garden.</li>
 <li>Plants that are overgrown, with distorted or holey leaves, discoloration, damaged stems, or slow growth might be harbouring pests! Look for them wherever something looks amiss.</li>
-<li>Not sure how to find pests? Learn how to observe and trap pests in your garden.</li>
+	<li>Not sure how to find pests? Learn how to <a href="/page-index/horticulture-techniques/finding-pests/">observe and trap pests</a> in your garden.</li>
 </ul>
 <p>3. Tolerance</p>
 <li>Strive for ecological balance rather than perfect aesthetics.</li>
@@ -29,12 +29,12 @@ image: ""
 <p>4. Prevention</p>
 <ul>
 <li>The first line of pest control is to prevent the pest from becoming a threat.</li>
-<li>•	Keeping plants healthy, using hardscapes like netting, quarentining new plants, regular pest checks and general maintenance are good ways to prevent pests from taking over your garden. </li>
+<li>Keeping plants healthy, using hardscapes like netting, quarentining new plants, regular pest checks and general maintenance are good ways to prevent pests from taking over your garden. </li>
 </ul>
 <p>4. Control</p>
 <ul>
 <li>There are various methods for controlling pests, including cultural, mechanical, biological and chemical. </li>
 <li>Chemical control should always be the last resort, as improper use of pesticides may cause damage to your health and the environment.</li>
-<li>Learn about different pest control methods, and how they should be used.<p></p>
+	<li>Learn about <a href="/page-index/horticulture-techniques/pest-control/">different pest control methods</a>, and how they should be used.<p></p>
 </li></ul>
 </section>
