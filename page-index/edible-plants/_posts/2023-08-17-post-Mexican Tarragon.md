@@ -35,7 +35,7 @@ image: ""
  
 <section> 
   <h4>Harvesting:</h4> 
-		<p>The plant can be harvested for young leaves via the <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/cut-and-come-again/">cut-and-come-again-method </a> at any time.</p> 
+		<p>The plant can be harvested for young leaves via the <a href="page-index/horticulture-techniques/cut-and-come-again/">cut-and-come-again-method </a> at any time.</p> 
 	<br> 
 </section> 
   
