@@ -41,31 +41,27 @@ This plant can be grown year-round.</p>
 
 <section>
   <h4>Growing:</h4>
-	<p>Chiku trees are steady growers but do benefit from being fed high potassium and phosphorus fertilisers to encourage flowering and thus fruiting. Regular pruning to promote airflow will keep the plant healthy and neat. Cut stems will produce sap that can irritate the skin. Wear gloves while maintaining the plant to prevent this.</p>
-	<p>The tree will need to be around 5 years old before it starts producing fruit if grown from seed. Air-layered plants take around 2 years to fruit.</p>
+	<p>Limau Purut trees are steady growers and generally does not need fertilizing. Regular pruning to promote airflow will keep the plant healthy and neat.</p>
+	<p>The tree will need to be around 5 years old before it starts producing fruit.</p>
 	<br>
 </section>
 
 <section>
 	<h4>Harvesting:</h4>
-	<p>Fruits are ripe when the brown skin becomes slightly wrinkly and soft. Mushy fruits are over-ripe. Fruits can be harvested unripe then left to ripen off the tree, or harvested ripe for immediate consumption. Fresh fruit and cut stems will produce sap that can irritate the skin. Harvest the fruit while wearing gloves to prevent this.</p>
-	<p>Seeds can induce vomiting when ingested and should be removed before serving.</p>
+	<p>Leaves can be harvested at any time. Mature fruits are wrinkly and dark green, and can be harvested for juicing and for the rind. The tree produces fruit continuously throughout the year.</p>
 	<br>
 </section>
 
 <section>
 	<h4>Propagation:</h4>
-	<p>This tree is grown via seed, or via woody cuttings with rooting hormone.</p>
+	<p>This tree is grown via seed, or via woody cuttings with rooting hormone. This tree can also be grafted.</p>
 	<br>
 </section>
 
 <section>
 	<h4>Common problems &amp; solutions:</h4>
-	<p>If your plant has little to no flowers, you try fertilising the plant with fertilisers high in Phosphorus and Potassium. These nutrients encourage root and flower growth, which are important for the plant to produce more fruit.</p>
-	<p>Many plants require pollinators to help them fruit. Bees, butterflies, birds and even beetles transport pollen from one flower to another, pollinating your crops and increasing their fruit yield. Attract some pollinators to your garden by growing pollinator-attracting crops, or become a pollinator yourself by hand-pollinating your plants.</p>
 	<p>Aphids, mealy bugs, and spider mites often infest the plant if it is sickly or overgrown. Prune off the infested parts, or apply horticultural oils like neem oil and white summer oil to suffocate the remaining pests. Regularly prune the plant to allow light and air to reach throughout the plant, and check the plant for underlying problems like root rot, lack of sunlight, and nutrient deficiencies.</p>
-	<p>Whiteflies can infest the plant and lay eggs under its leaves. Remove affected plant parts and catch remaining adults with yellow sticky paper or treat them with citrus spray. 
-Fruit flies can lay eggs in the fruit, resulting in larvae damaging the fruit and creating spots on the skin. Wrap your fruit in netting when it starts to develop from a fertilised flower, ideally after all the petals have dropped off.</p>
-	<p>Squirrels, birds and fruit bats may eat unripe or ripe fruit. Wrap your fruit in netting when it starts to develop from a fertilised flower, ideally after all the petals have dropped off.</p>
+	<p>Caterpillars, usually from the Lime Butterfly, can rapidly eat all the leaves of your plant. If your plant has lots of large holes and small brown or black faecal pellets scattered around damaged leaves, you likely have a caterpillar infestation. Manually remove the caterpillars by hand and protect your plants with netting.</p>
+	<p>Whiteflies can infest the plant and lay eggs under its leaves. Remove affected plant parts and catch remaining adults with yellow sticky paper or treat them with citrus spray.</p>
 	<br>
 </section>
