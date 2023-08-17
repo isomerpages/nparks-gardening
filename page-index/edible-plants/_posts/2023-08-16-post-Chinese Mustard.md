@@ -7,7 +7,7 @@ description: ""
 image: ""
 ---
 <header> 
-<h3>Chinese Mustard (<em>Brassica juncea Broad-leaf Mustard Group</em>)</h3> 
+<h3>Chinese Mustard (<em>Brassica juncea</em> Broad-leaf Mustard Group)</h3> 
 </header> 
  
 <section> 
