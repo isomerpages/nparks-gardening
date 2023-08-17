@@ -25,6 +25,7 @@ image: ""
 <br>
 <section>
 <h4>Mechanical or physical control</h4>
+	<img title="Crops enclosed inside netting, protecting them from pests. Photo by Jacqueline Chua." src="/images/Hardscapes/Netting%20(1).jpg">
 <p>Mechanical control, also known as physical control, involves the use of hardscapes or tools to physically remove or stop pests from reaching the plants. 
 </p><p>Some common methods are:</p>
 <ul>
@@ -36,6 +37,7 @@ image: ""
 <br>
 <section>
 <h4>Biological control</h4>
+	<img title="Ladybug larvae eating scale insects Photo by Victoria Lim." src="/images/Biodiversity/lady%20bug%20larva%20-%20nerium%20oleander%20-%20ppn%201victorialim.jpg">
 <p>Biological control takes advantage of natural predators and pathogens to keep pest populations in check. Learning about garden predators and making habitat for them will help keep pest populations down. </p>
 <p>Some pathogens can also be used to control pests. These pathogens will specifically target certain species of pests, and will not affect other forms of biodiversity in your garden. </p>
 <p><b>Bacillus thuringiensis (Bt)</b> a soil borne bacterium that affects insects in their larval stage. Bti – Bacillus thuringiensis israelensis (Bti) comes in pellets or granules, and is used to kill mosquito larvae in ponds, water reservoirs, and other sources of standing water. Bacillus thuringiensis kurstaki (Btk) is used to kill caterpillars, and is generally applied as a spray. </p>
