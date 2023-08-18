@@ -126,38 +126,38 @@ Click on an alphabet to find a plant by its common name!
 <a href="/page-index/ornamental-plants/malayan-ixora/">Malayan Ixora</a><br>
 <a href="/page-index/ornamental-plants/mexican-hen-and-chicks/">Mexican Hen and Chicks</a><br>
 <a href="/page-index/ornamental-plants/mexican-sedum/">Mexican Sedum</a><br>
-Mistletoe Fig<br>
-Mother of Thousands<br>
+<a href="/page-index/ornamental-plants/mistletoe-fig/">Mistletoe Fig</a><br>
+<a href="/page-index/ornamental-plants/mother-of-thousands/">Mother of Thousands</a><br>
 	<br><br>
 </section>
 
 <section>
-<h4 id="n">n</h4>
+<h4 id="n">N</h4>
 <br><br>
 	</section>
 	
 <section>
-<h4 id="o">o</h4>
+<h4 id="o">O</h4>
 <br><br>
 </section>
 
 <section>
-<h4 id="p">p</h4>
-Pagoda Flower<br>
-Peace Lily<br>
+<h4 id="p">P</h4>
+<a href="/page-index/ornamental-plants/pagoda-flower/">Pagoda Flower</a><br>
+<a href="/page-index/ornamental-plants/peace-lily/">Peace Lily</a><br>
 <br><br>
 </section>
 
 <section>
-<h4 id="q">q</h4>
+<h4 id="q">Q</h4>
 <br><br>
 	</section>
 	
 <section>
-<h4 id="r">r</h4>
-Red Leea<br>
-River Tarenna<br>
-Rose Myrtle<br>
+<h4 id="r">R</h4>
+<a href="/page-index/ornamental-plants/red-leea/">Red Leea</a><br>
+<a href="/page-index/ornamental-plants/river-tarenna/">River tarenna</a><br>
+<a href="/page-index/ornamental-plants/rose-myrtle/">Rose Myrtle</a><br>
 	<br><br>
 </section>
 
