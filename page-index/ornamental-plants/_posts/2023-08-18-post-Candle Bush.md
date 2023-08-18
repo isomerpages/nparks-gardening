@@ -24,19 +24,19 @@ image: ""
  
 <section> 
   <h4>Environmental needs:</h4> 
-    	<p>This plant thrives in 4-8 hours of direct sunlight. This plant can also be grown in at least 6 hours of indirect sunlight, but the plant will flower less. Plants do best in loamy soil. This plant is also highly tolerant clayey soils and can survive both waterlogged soils and drought, making it an incredibly hardy plant that can adapt to most garden conditions.</p> 
+  <p>This plant thrives in 4-8 hours of direct sunlight. This plant can also be grown in at least 6 hours of indirect sunlight, but the plant will flower less. Plants do best in loamy soil. This plant is also highly tolerant clayey soils and can survive both waterlogged soils and drought, making it an incredibly hardy plant that can adapt to most garden conditions.</p> 
 	<br>
 </section>
 
 <section> 
   <h4>Growing:</h4> 
-		<p>Candle Bushes are rapid growers and generally does not need fertilizing. The shrub can rapidly grow up to 4m in height and will need to be hard pruned regularly. It is a large and broad plant that can rapidly overwhelm neighbouring plants. Regular pruning to promote airflow will keep the plant healthy, neat, and in control.ry other month will keep the plant lush and growing steadily.</p> 
+	<p>Candle Bushes are rapid growers and generally does not need fertilizing. The shrub can rapidly grow up to 4m in height and will need to be hard pruned regularly. It is a large and broad plant that can rapidly overwhelm neighbouring plants. Regular pruning to promote airflow will keep the plant healthy, neat, and in control.ry other month will keep the plant lush and growing steadily.</p> 
 	<br> 
 </section> 
 
 <section> 
   <h4>Propagation:</h4> 
-		<p>BCandle Bushes can be grown from seed or woody cuttings with rooting hormone.</p> 
+	<p>Candle Bushes can be grown from seed or woody cuttings with rooting hormone.</p> 
 	<br> 
 </section> 
  
