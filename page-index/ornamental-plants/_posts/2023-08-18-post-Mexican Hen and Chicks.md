@@ -7,7 +7,7 @@ description: ""
 image: ""
 ---
 <header> 
-	<h3>Mexican Hen and Chicks (<em>Echeveria spp. and cultivars</em>)</h3> 
+	<h3>Mexican Hen and Chicks (<em>Echeveria</em> spp. and cultivars)</h3> 
 </header>
 
 <section>
