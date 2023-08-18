@@ -162,54 +162,53 @@ Click on an alphabet to find a plant by its common name!
 </section>
 
 <section>
-<h4 id="s">s</h4>
-Satin Pothos<br>
-Scarlet Spiral Flag<br>
-Singapore Rhododendron<br>
-Snake Plant<br>
-Spider Plant<br>
-String of Beads<br>
-Sunflowers<br>
+<h4 id="s">S</h4>
+<a href="/page-index/ornamental-plants/satin-pothos/">Satin Pothos</a><br>
+<a href="/page-index/ornamental-plants/scarlet-spiral-flag /">Scarlet Spiral Flag</a><br>
+<a href="/page-index/ornamental-plants/singapore-rhododendron/">Singapore Rhododendron</a><br>
+<a href="/page-index/ornamental-plants/snake-plant/">Snake Plant</a><br>
+<a href="/page-index/ornamental-plants/spider-plant/">Spider Plant</a><br>
+<a href="/page-index/ornamental-plants/string-of-beads/">String of Beads</a><br>
+<a href="/page-index/ornamental-plants/sunflower/">Sunflower</a><br>
 <br><br>
 </section>
 
 <section>
-<h4 id="t">t</h4>
-Torch Ginger<br>
-Turk's Turban<br>
+<h4 id="t">T</h4>
+<a href="/page-index/ornamental-plants/torch-ginger/">Torch Ginger</a><br>
+<a href="/page-index/ornamental-plants/turks-turban/">Turk's Turban</a><br>
 	<br><br>
 </section>
 
 <section>
-<h4 id="u">u</h4>
+<h4 id="u">U</h4>
 	<br><br>
 	</section>
 
 <section>
-<h4 id="v">v</h4>
+<h4 id="v">V</h4>
 	<br><br>
 	</section>
 	
 <section>
-<h4 id="w">w</h4>
-Walking Sanseveria<br>
-Wandering Jew<br>
-Window-Leaf Monstera<br>
+<h4 id="w">W</h4>
+<a href="/page-index/ornamental-plants/walking-sansevieria/">Walking Sansevieria</a><br>
+<a href="/page-index/ornamental-plants/wandering-jew/">Wandering Jew</a><br>
 	<br><br>
 	</section>
 
 <section>
-<h4 id="x">x</h4>
+<h4 id="x">X</h4>
 	<br><br>
 	</section>
 	
 <section>
-<h4 id="y">y</h4>
+<h4 id="y">Y</h4>
 	<br><br>
 	</section>
 	
 <section>
-<h4 id="z">z</h4>
+<h4 id="z">Z</h4>
 	<br><br>
 	</section>
 	
