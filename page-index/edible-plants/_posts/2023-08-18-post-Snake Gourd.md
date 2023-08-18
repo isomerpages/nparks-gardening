@@ -44,20 +44,15 @@ image: ""
 
 <section>
 	<h4>Growing:</h4>
-	<img title="Photo by Jacqueline Chua." src="/images/Plants/Pumpkin_JacChua%20(2).jpg">
-<p>Pumpkins will produce more flowers and thus more fruit when fed with fertilisers high in Phosphorus and Potassium. Plants can be fertilised regularly a month after germination for a fuller crop.</p>
+	<p>Snake gourds will produce more flowers and thus more fruit when fed with fertilisers high in Phosphorus and Potassium. Plants can be fertilised regularly a month after germination for a fuller crop.</p>
 	<p>Because the vines will grow on top of each other, it is a good practice to prune regularly and remove dead leaves and vines to improve ventilation and allow light to reach more of the plant.</p>
-	<p>Direct sunlight can damage the fruit. Allow leaves to grow over the fruit, or protect it using a cloth cover.</p>
-	<p>Allowing the fruit to sit in water can cause rotting. Keep the underside dry by placing it on a platform if the fruit is growing on the ground.</p>
 	<br>
 </section>
 
 <section>
 	<h4>Harvesting:</h4>
-	<p>Plants can be harvested for fruits around 4 months after sowing. The best time to harvest young shoots, stems and ripe fruit is in the early morning, before 9am.</p>
-	<p>Pumpkin fruits are ripe for harvesting when the stalk holding the fruit starts to shrivel and turn brown. Both the flesh and seeds of ripe fruit can be eaten.</p>
-	<p>Regularly harvest the mature fruit to encourage the plant to keep producing.</p>
-	<p>The plant will continuously produce fruit for about 6 months to a year before declining.</p>
+	<p>Plants can be harvested for immature fruits around 2 months after sowing. The best time to harvest the fruit is in the early morning, before 9am.</p>
+	<p>The plant will continuously produce fruit for about 3 months to a year before declining.</p>
 	<iframe width="100%" height="415" src="https://www.youtube.com/embed/eGBg_S8yj0U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
 	<br>
 </section>
@@ -69,16 +64,18 @@ image: ""
 			<tr>
 				<th style="border-bottom:0px; border-right:solid 1px;">Growing period</th>
 				<th style="border-bottom:0px; border-right:solid 1px;">Sowing to germination</th>
-				<th style="border-bottom:0px; border-right:solid 1px;">Germination to first harvest</th>
+				<th style="border-bottom:0px; border-right:solid 1px;">Germination to transplanting</th>
+				<th style="border-bottom:0px; border-right:solid 1px;">Transplanting to first harvest</th>
 				<th style="border-bottom:0px; border-left:solid 1px;">Total sowing to first harvest</th>
 			</tr>
 		</thead>
 		<tbody>
 			<tr>
 				<th style="border-right:solid 1px;">Approximate time</th>
-				<td style="border-right:solid 1px;">A week or less</td>
-				<td style="border-right:solid 1px;">3 to 4 months</td>
-				<td style="border-left:solid 1px;">Around 3 to 4 months</td>
+				<td style="border-right:solid 1px;">Less than a week</td>
+				<td style="border-right:solid 1px;">2 to 3 weeks</td>
+				<td style="border-right:solid 1px;">1 to 3 months</td>
+				<td style="border-left:solid 1px;">2 to 4 months</td>
 			</tr>
 		</tbody>
 	</table>
@@ -99,7 +96,6 @@ image: ""
 	<p>Many plants require pollinators to help them fruit. Bees, butterflies, birds and even beetles transport pollen from one flower to another, pollinating your crops and increasing their fruit yield. Attract some pollinators to your garden by growing pollinator-attracting crops, or become a pollinator yourself by hand-pollinating your plants.</p>
 	<p>Aphids, mealy bugs, and spider mites often infest the plant if it is sickly or overgrown. Prune off the infested parts, or apply horticultural oils like neem oil and white summer oil to suffocate the remaining pests. Regularly prune the plant to allow light and air to reach throughout the plant, and check the plant for underlying problems like root rot, lack of sunlight, and nutrient deficiencies.</p>
 	<p>Whiteflies can infest the plant and lay eggs under its leaves. Remove affected plant parts and catch remaining adults with yellow sticky paper or treat them with citrus spray. 
-The fruit is prone to rotting if it is left in contact with the wet ground. Consider placing the fruit on a well-draining platform or grow the plant up a trellis to encourage the fruits to hang downwards.</p>
-	<p>Wilting leaves during hot weather is a sign of heat stress. Increase the number of times the plant is watered daily, and apply mulch at the base to prevent water loss.</p>
-<br>
+Fruit flies can lay eggs in the fruit, resulting in larvae damaging the fruit and creating spots on the skin. Wrap your fruit in netting when it starts to develop from a fertilised flower, ideally after all the petals have dropped off.</p>
+	<br>
 </section>
