@@ -90,7 +90,7 @@ Corn <br>
 </section>
 
 <section>
-<h4 id="f">f</h4>
+<h4 id="f">F</h4>
 <a href="/page-index/edible-plants/fingerroot/">Fingerroot</a><br>
 <br><br>
 </section>
@@ -102,23 +102,23 @@ Corn <br>
 </section>
 
 <section>
-<h4 id="h">h</h4>
+<h4 id="h">H</h4>
 <br>
 </section>
 
 <section>
-<h4 id="i">i</h4>
+<h4 id="i">I</h4>
 <a href="/page-index/edible-plants/indian-borage/">Indian Borage</a><br>
 <br><br>
 </section>
 
 <section>
-<h4 id="j">j</h4>
+<h4 id="j">J</h4>
 	<br><br>
 	</section>
 
 <section>
-<h4 id="k">k</h4>
+<h4 id="k">K</h4>
 	<a href="/page-index/edible-plants/kai-lan/">Kailan</a><br>
 Kale<br>
 	<a href="/page-index/edible-plants/kang-kong/">Kang Kong</a><br>
@@ -127,21 +127,21 @@ Kale<br>
 </section>
 
 <section>
-<h4 id="l">l</h4>
+<h4 id="l">L</h4>
 <a href="/page-index/edible-plants/ladys-finger/">Lady's Finger</a><br>
 <a href="/page-index/edible-plants/laksa/">Laksa</a><br>
 <a href="/page-index/edible-plants/lemongrass/">Lemongrass</a><br>
 <a href="/page-index/edible-plants/lettuce/">Lettuce</a><br>
-Limau Purut<br>
+<a href="/page-index/edible-plants/limau-purut/">Limau Purut</a><br>
 <a href="/page-index/edible-plants/lime/">Lime</a><br>
 <a href="/page-index/edible-plants/long-bean/">Long Bean</a><br>
-Longevity Spinach<br>
+<a href="/page-index/edible-plants/longevity-spinach/">Longevity Spinach</a><br>
 <br><br>
 </section>
 
 <section>
-<h4 id="m">m</h4>
-Mexican Tarragon<br>
+<h4 id="m">M</h4>
+<a href="/page-index/edible-plants/mexican-tarragon/">Mexican Tarragon</a><br>
 <br><br>
 </section>
 
