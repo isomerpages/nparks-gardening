@@ -11,7 +11,7 @@ image: ""
 </header>
 
 <section>
-	<p><strong>Other Common names:</strong> Red Ixora, Jungle Flame, Jungle Geranium, Pecah Periuk</p>
+	<p><strong>Other common names:</strong> Red Ixora, Jungle Flame, Jungle Geranium, Pecah Periuk</p>
 	<br>
 </section>
  
