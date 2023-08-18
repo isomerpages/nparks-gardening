@@ -65,58 +65,58 @@ Click on an alphabet to find a plant by its common name!
 </section>
 
 <section>
-<h4 id="d">d</h4>
-	Devil's Ivy<br>
+<h4 id="d">D</h4>
+<a href="/page-index/ornamental-plants/devils-ivy/">Devil's Ivy</a><br>
 	<br><br>
 </section>
 
 <section>
-<h4 id="e">e</h4>
-	Elephant Bush<br>
+<h4 id="e">E</h4>
+<a href="/page-index/ornamental-plants/elephant-bush/">Elephant Bush</a><br>
 	<br><br>
 </section>
 
 <section>
-<h4 id="f">f</h4>
-Fairy Washboard<br>
-False Heather<br>
-Fiddle Leaf Fig<br>
-Flame Violet<br>
+<h4 id="f">F</h4>
+<a href="/page-index/ornamental-plants/fairy-washboard/">Fairy Washboard</a><br>
+<a href="/page-index/ornamental-plants/false-heather/">False Heather</a><br>
+<a href="/page-index/ornamental-plants/fiddle-leaf-fig/">Fiddle Leaf Fig</a><br>
+<a href="/page-index/ornamental-plants/flame-violet/">Flame Violet</a><br>
 	<br><br>
 </section>
 
 <section>
-<h4 id="g">g</h4>
-Globe Amaranth<br>
-Golden Dewdrop<br>
+<h4 id="g">G</h4>
+<a href="/page-index/ornamental-plants/globe-amaranth/">Globe Amaranth</a><br>
+<a href="/page-index/ornamental-plants/golden-dewdrop/">Golden Dewdrop</a><br>
 <br><br>
 </section>
 
 <section>
-<h4 id="h">h</h4>
+<h4 id="h">H</h4>
 <br>
 </section>
 
 <section>
-<h4 id="i">i</h4>
+<h4 id="i">I</h4>
 <br><br>
 </section>
 
 <section>
-<h4 id="j">j</h4>
-Javanese Ixora<br>
+<h4 id="j">J</h4>
+<a href="/page-index/ornamental-plants/javanese-ixora/">Javanese Ixora</a><br>
 	<br><br>
 	</section>
 
 <section>
-<h4 id="k">k</h4>
+<h4 id="k">K</h4>
 <br><br>
 </section>
 
 <section>
-<h4 id="l">l</h4>
-Lawyer's Tongue<br>
-Lipstick Plant<br>
+<h4 id="l">L</h4>
+<a href="/page-index/ornamental-plants/lawyers-tongue/">Lawyer's Tongue</a><br>
+<a href="/page-index/ornamental-plants/lipstick-plant/">Lipstick Plant</a><br>
 <br><br>
 </section>
 
