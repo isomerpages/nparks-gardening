@@ -35,7 +35,7 @@ image: ""
 	
 <p>As with all members of the melon family, this plant is bee pollinated and produces male and female flowers. To encourage the formation of more fruits, it is best to have at least 3 separate plants growing in the same area to have both male and female flowers available, and to have bee-attracting plants within the garden to encourage pollination. If your garden lacks bees, the plant can also be hand pollinated.</p>
 	<p>This plant can be grown year-round.</p>
-<br>
+	<br>
 </section>
 
 <section>
@@ -105,5 +105,5 @@ image: ""
 	<p>Whiteflies can infest the plant and lay eggs under its leaves. Remove affected plant parts and catch remaining adults with yellow sticky paper or treat them with citrus spray. 
 The fruit is prone to rotting if it is left in contact with the wet ground. Consider placing the fruit on a well-draining platform or grow the plant up a trellis to encourage the fruits to hang downwards.</p>
 	<p>Wilting leaves during hot weather is a sign of heat stress. Increase the number of times the plant is watered daily, and apply mulch at the base to prevent water loss.</p>
-<br>
+	<br>
 </section>
