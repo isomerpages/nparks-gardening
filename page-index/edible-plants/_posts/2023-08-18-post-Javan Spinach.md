@@ -1,0 +1,8 @@
+---
+title: Javan Spinach
+permalink: /page-index/edible-plants/javan-spinach/
+date: 2023-08-18
+layout: post
+description: ""
+image: ""
+---
