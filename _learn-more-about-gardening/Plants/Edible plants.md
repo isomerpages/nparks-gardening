@@ -91,14 +91,13 @@ Corn <br>
 
 <section>
 <h4 id="f">f</h4>
-Fingerroot<br>
+<a href="/page-index/edible-plants/fingerroot/">Fingerroot</a><br>
 <br><br>
 </section>
 
 <section>
-<h4 id="g">g</h4>
-Globe Amaranth<br>
-Guava<br>
+<h4 id="g">G</h4>
+<a href="/page-index/edible-plants/guava/">Guava</a><br>
 <br><br>
 </section>
 
