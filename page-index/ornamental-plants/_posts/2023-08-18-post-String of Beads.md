@@ -23,13 +23,13 @@ image: ""
  
 <section> 
   <h4>Environmental needs:</h4> 
-  <p>This plant thrives in 2-6 hours of indirect sunlight, and will burn in direct sun. Plants do best in loamy soil. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe. This plant is prone to wilting, and will need consistently moist soil to grow well.</p> 
+  <p>String of beads thrive in 4-6 hours of indirect sunlight or around 4 hours of direct sun. They are best planted in sandy soil around 10-15cm deep, making them suitable for container gardening. This plant is vulnerable to root rot, and will need soil with plenty of grit for good drainage. The leaves of String of Beads can split open if it is suddenly exposed to a lot of water, and is thus best kept out of direct rain, especially during the monsoon season.</p> 
 	<br>
 </section>
 
 <section> 
   <h4>Growing:</h4> 
-	<p>Peace Lilies are low maintenance plants that can be fertilised monthly with a balanced liquid fertiliser. Peace lilies will wilt dramatically when underwatered and will also quickly bounce back once they have been watered. As with all potted plants, regular repotting once a year will prevent it from becoming root bound.</p> 
+	<p>String of beads does not need frequent fertilising. A balanced slow releasing fertiliser every few months would be sufficient. Allow the soil to dry out completely before watering. This plant does well with bottom watering.</p> 
 	<br> 
 </section> 
 
