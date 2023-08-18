@@ -24,10 +24,10 @@ image: ""
 
 <section>
 	<h4>Environmental needs:</h4>
-	<p>This tree does best in full sun gardens with a minimum of 6 hours of sunlight. It can also grow in gardens with a minimum of 6 hours of indirect sunlight, but the growth will be slow and the plant will have less fruits.</p>
-	<p>Plants do best in moist, well-drained soil at least 50cm deep, or in true ground. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe. Root rot and poor drainage will also lead to a poor fruit yield. This tree is drought-tolerant.</p>
-	<p>This tree can grow up to 15m high. The tree is best maintained at roughly 1-1.5m high for easy maintenance and harvesting.</p>
-	<p>This plant can be grown year-round.</p>
+	<p>This tree does best in full sun gardens with a minimum of 6 hours of direct sunlight.</p>
+	<p>Plants do best in moist, well-drained soil at least 50cm deep, or in true ground. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe. Keep your plants cool with mulch and plenty of water to encourage growth.</p>
+	<p>This tree can grow up to 10m high. The tree is best maintained at roughly 2m high for easy maintenance and harvesting.</p>
+	<p>It is currently unclear what pollinates Soursop trees in Singapore, but in their native range they are pollinated by beetles. Flowers can be hand-pollinated if male flowers are harvested from another tree.</p>
 	<br>
 </section>
 
@@ -41,15 +41,14 @@ image: ""
 
 <section>
   <h4>Growing:</h4>
-	<p>Custard Apple trees are steady growers but do benefit from being fed high potassium and phosphorus fertilisers to encourage flowering and thus fruiting. Regular pruning to promote airflow will keep the plant healthy and neat. 
-The tree will need to be around 3 years old before it starts producing fruit if grown from seed.</p>
+	<p>Soursop trees are steady growers but do benefit from being fed high potassium and phosphorus fertilisers to encourage flowering and thus fruiting. Regular pruning to promote airflow will keep the plant healthy and neat.</p>
+	<p>The tree will need to be around 3 years old before it starts producing fruit if grown from seed.</p>
 	<br>
 </section>
 
 <section>
 	<h4>Harvesting:</h4>
-	<p>Fruits are considered ripe when they are slightly soft to the touch but are not mushy. Different varieties may also darken to dull green, yellow or purple. Fruits can be harvested unripe then left to ripen off the tree or harvested ripe for immediate consumption.</p>
-	<p>Seeds are toxic when ingested and should be removed before serving.</p>
+	<p>Fruits are considered ripe when the spines are far apart, and the skin of the fruit darkens to a dull green or yellowish green. Fruits should be harvested ripe for immediate consumption.</p>
 	<br>
 </section>
 
@@ -61,10 +60,11 @@ The tree will need to be around 3 years old before it starts producing fruit if 
 
 <section>
 	<h4>Common problems &amp; solutions:</h4>
-	<p>If your plant has little to no flowers, you try fertilising the plant with fertilisers high in Phosphorus and Potassium. These nutrients encourage root and flower growth, which are important for the Many plants require pollinators to help them fruit. Bees, butterflies, birds and even beetles transport pollen from one flower to another, pollinating your crops and increasing their fruit yield. Attract some pollinators to your garden by growing pollinator-attracting crops or become a pollinator yourself by hand-pollinating your plants.</p>
-	<p>Aphids, mealy bugs, and spider mites often infest the plant if it is sickly or overgrown. Prune off the infested parts, or apply horticultural oils like neem oil and white summer oil to suffocate the remaining pests. Regularly prune the plant to allow light and air to reach throughout the plant and check the plant for underlying problems like root rot, lack of sunlight, and nutrient deficiencies.</p>
-	<p>Whiteflies can infest the plant and lay eggs under its leaves. Remove affected plant parts and catch remaining adults with yellow sticky paper or treat them with citrus spray. 
-Fruit flies can lay eggs in the fruit, resulting in larvae damaging the fruit and creating spots on the skin. Wrap your fruit in netting when it starts to develop from a fertilised flower, ideally after all the petals have dropped off.</p>
+	<p>If your plant has little to no flowers, you try fertilising the plant with fertilisers high in Phosphorus and Potassium. These nutrients encourage root and flower growth, which are important for the plant to produce more fruit.</p>
+	<p>Many plants require pollinators to help them fruit. Bees, butterflies, birds and even beetles transport pollen from one flower to another, pollinating your crops and increasing their fruit yield. Attract some pollinators to your garden by growing pollinator-attracting crops, or become a pollinator yourself by hand-pollinating your plants.</p>
+	<p>Aphids, mealy bugs, and spider mites often infest the plant if it is sickly or overgrown. Prune off the infested parts, or apply horticultural oils like neem oil and white summer oil to suffocate the remaining pests. Regularly prune the plant to allow light and air to reach throughout the plant, and check the plant for underlying problems like root rot, lack of sunlight, and nutrient deficiencies.</p>
+	<p>Whiteflies can infest the plant and lay eggs under its leaves. Remove affected plant parts and catch remaining adults with yellow sticky paper or treat them with citrus spray.</p>
+	<p>Fruit flies can lay eggs in the fruit, resulting in larvae damaging the fruit and creating spots on the skin. Wrap your fruit in netting when it starts to develop from a fertilised flower, ideally after all the petals have dropped off.</p> 
 	<p>Squirrels, birds and fruit bats may eat unripe or ripe fruit. Wrap your fruit in netting when it starts to develop from a fertilised flower, ideally after all the petals have dropped off.</p>
 	<br>
 </section>
