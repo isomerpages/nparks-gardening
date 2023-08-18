@@ -11,6 +11,7 @@ image: ""
 </header>
 
 <section>
+	<img title="Photo by Jacqueline Chua." src="/images/Plants/Spiderplant_JacChua.jpg">
 	<p>Spider Plants are a clump forming shrub with green linear leaves. The leaves arch backwards to form a fountain-like shape. It has star-shaped flowers and its plantlets grow along a thin inflorescent stalk which hangs downward, reminiscent of spiders dangling from a thread. After flowering, more leaves are produced at the tip of the stem, forming small plantlets.</p>
 	<p>A perennial plant, Spider Plants are great indoor plants as they grow well in pots in shady areas. Their fountain-like shape and hanging plantlets make them a popular choice for hanging pots.</p>
 	 <br> 
@@ -30,6 +31,7 @@ image: ""
 
 <section> 
   <h4>Propagation:</h4> 
+	<img title="Photo by Jacqueline Chua." src="/images/Plants/Spiderplant_JacChua%20(3).jpg">
 	<p>Spider plants can be propagated by plantlets or division.</p> 
 	<br> 
 </section> 
