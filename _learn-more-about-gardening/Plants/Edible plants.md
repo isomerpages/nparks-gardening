@@ -50,12 +50,12 @@ Click on an alphabet to find a plant by its common name!
 </section>
 
 <section>
-<h4 id="b">b</h4>
-Bangkuang <br>
+<h4 id="b">B</h4>
+<a href="/page-index/edible-plants/bang-kwang/">Bang Kwang</a><br>
 	<a href="/page-index/edible-plants/bayam/">Bayam</a><br>
-Belimbling <br>
+<a href="/page-index/edible-plants/belimbing/">Belimbing</a><br>
 <a href="/page-index/edible-plants/bitter-gourd/">Bitter Gourd</a><br>
-Bottle Gourd <br>
+<a href="/page-index/edible-plants/bottle-gourd/">Bottle Gourd</a><br>
 <a href="/page-index/edible-plants/brinjal/">Brinjal</a><br>
 	<a href="/page-index/edible-plants/butterfly-pea/">Butterfly Pea</a><br>
 	 <br><br>
