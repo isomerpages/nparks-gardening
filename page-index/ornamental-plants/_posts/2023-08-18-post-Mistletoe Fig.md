@@ -16,32 +16,31 @@ image: ""
 </section>
 
 <section>
-	<p>Mexican Sedum is a creeping succulent groundcover that can grow up to 10cm tall. It has bright green fleshy leaves on upright stems that creep to form dense mats. The leaves are linear and needle-like, arranged in whorls of 4-5 around stems.</p>
-	<p>A perennial succulent plant, it is a useful groundcover plant, a foreground plant in a shallow succulent dish arrangement, or a feature plant for hanging containers. Its drought tolerance and love for full sun has made it a suitable candidate for green roofs and has been used widely in Singapore.</p>
+	<p>Mistletoe Figs are a small, hardy free-fruiting shrub that is commonly seen in rewilding areas, nature parks, in roadside gardens, and biodiversity-attracting gardens. The fruits are attractive to birds and small mammals. This plant is also native to Singapore and is naturally found growing along scrub and areas with sandy soil.</p>
+	<p>A perennial shrub, Mistletoe Figs are useful as biodiversity-attracting plants and perimeter plants to add a pop of colour to any garden. They are also highly drought resistant and will do well in exposed gardens such as those on rooftops.</p>
 	 <br> 
 </section> 
  
 <section> 
   <h4>Environmental needs:</h4> 
-  <p>Mexican Sedum thrives in more than 4 hours of direct sunlight. It can also grow in more than 6 hours of indirect sunlight, but growth will be slow and the colour less vibrant. It grows best in sandy soil at least 5cm deep with plenty of drainage, making it suitable for containers, rooftops, and other exposed areas. It will not tolerate waterlogging, and can die quickly if left standing in water.</p> 
+  <p>This plant thrives in 4-8 hours of direct sunlight, and can also grow in at least 6 hours of indirect sunlight, but at a slower pace. Plants do best in sandy soil at least 10cm deep, making them suitable for container gardening. These plants are vulnerable to root rot, so ensure that your soil has plenty of grit to let the roots breathe.</p> 
 	<br>
 </section>
 
 <section> 
   <h4>Growing:</h4> 
-	<p>Mexican Sedum can be grown in shallow pots with well-draining, gritty soil. Allow the soil to dry out completely before watering deeply. As this plant is rather fast growing, it will benefit from a balanced organic fertiliser occasionally, around once every 3 or 4 months. Too much fertiliser can result in a leggy plant. Regular pruning will encourage bushier growth.</p> 
+	<p>Mistletoe Figs are steady growers and generally does not need fertilizing. The shrub can grow up to 7m in height and will need to be pruned regularly. Regular pruning to promote airflow will keep the plant healthy and neat.</p> 
 	<br> 
 </section> 
 
 <section> 
   <h4>Propagation:</h4> 
-	<p>Mexican Sedum can be grown from stem and leaf cuttings.</p> 
+	<p>Mistletoe figs can be grown from stem cuttings rooted in soil.</p> 
 	<br> 
 </section> 
  
 <section> 
   <h4>Common problems &amp; solutions:</h4> 
-	<p>Mexican Sedum are largely resistant to most pests.</p>
-	<p>This plant is susceptible to root and stem rot if overwatered. To prevent rot, allow the plant to dry out between waterings. Frequent pruning of the plant to promote air circulation will also help to decrease the chance of rot.</p>
+	<p>This plant is relatively resistant to pests and disease if kept healthy.</p>
 	<br> 
 </section>
