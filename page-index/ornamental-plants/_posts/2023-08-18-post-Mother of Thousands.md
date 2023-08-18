@@ -6,3 +6,42 @@ layout: post
 description: ""
 image: ""
 ---
+<header> 
+	<h3>Mother of Thousands (<em>Kalanchoe daigremontiana</em>)</h3> 
+</header>
+
+<section>
+	<p><strong>Other common names:</strong>Mother-of-Millions, Bryophyllum</p>
+	<br>
+</section>
+
+<section>
+	<p>Mother of Thousands is a succulent shrub that can grow up to 1m tall but is usually kept as a groundcover less than 30cm tall. It has fleshy green leaves with a silvery grey sheen with a reddish tinge on the leaf margin. Small plantlets with roots develop along the leaf margins.</p>
+	<p>An incredibly hardy perennial shrub, this plant is suitable for container planting and green roofs, often covering the whole surface as the plantlets drop off from the mother plant’s leaves. Its ability to be planted in shallow media makes it a versatile plant for a variety of gardens and containers. This is an excellent plant for beginners to try!</p>
+	 <br> 
+</section> 
+ 
+<section> 
+  <h4>Environmental needs:</h4> 
+  <p>Mother of Thousands thrives in a wide variety of light conditions, from at least two hours of direct sunlight to a minimum of 4 hours of indirect sunlight.  They can be planted in a variety of soil types including well-draining loamy soil, sandy soils, and even clayey soils.</p> 
+	<br>
+</section>
+
+<section> 
+  <h4>Growing:</h4> 
+	<p>Mother of Thousands does not require regular fertilising. Remove excess plantlets that have dropped to prevent overcrowding and improve air circulation.</p> 
+	<br> 
+</section> 
+
+<section> 
+  <h4>Propagation:</h4> 
+	<p>Mother of Thousands can be grown from stem and leaf cuttings rooted directly into soil, or by the aerial plantlets growing on the leaves.</p> 
+	<br> 
+</section> 
+ 
+<section> 
+  <h4>Common problems &amp; solutions:</h4> 
+	<p>Mother of Thousands are largely resistant to most pests.</p>
+	<p>These plants are susceptible to root rot if grown in waterlogged soil. To prevent rot, allow the plant to dry out between waterings and ensure that there is enough air circulation.</p>
+	<br> 
+</section>
