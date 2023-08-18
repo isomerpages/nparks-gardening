@@ -18,7 +18,7 @@ image: ""
  
 <section> 
   <h4>Environmental needs:</h4> 
-  <p>This plant thrives in 2-6 hours of indirect sunlight, and will burn in direct sun. Plants do best in loamy soil. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe. This plant is prone to wilting, and will need consistently moist soil to grow well.</p> 
+  <p>Walking Sansevieria thrives in 4-6 hours of indirect sunlight, but may burn in direct sun. They are best planted in sandy soil with plenty of grit as they are vulnerable to root rot.</p> 
 	<br>
 </section>
 
