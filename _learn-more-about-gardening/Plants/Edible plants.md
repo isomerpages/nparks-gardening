@@ -10,43 +10,42 @@ Click on an alphabet to find a plant by its common name!
 <table>
 	<tbody>
 		<tr>
-		<td style="width:0; border-bottom:0px"><a href="#a">a</a></td>
-		<td style="width:0; border-bottom:0px"><a href="#b">b</a></td>
-		<td style="width:0; border-bottom:0px"><a href="#c">c</a></td>
-		<td style="width:0; border-bottom:0px"><a href="#d">d</a></td>
-		<td style="width:0; border-bottom:0px"><a href="#e">e</a></td>
-		<td style="width:0; border-bottom:0px"><a href="#f">f</a></td>
-		<td style="width:0; border-bottom:0px"><a href="#g">g</a></td>
-		<td style="width:0; border-bottom:0px"><a href="#h">h</a></td>
-		<td style="width:0; border-bottom:0px"><a href="#i">i</a></td>
-		<td style="width:0; border-bottom:0px"><a href="#j">j</a></td>
-		<td style="width:0; border-bottom:0px"><a href="#k">k</a></td>
-		<td style="width:0; border-bottom:0px"><a href="#l">l</a></td>
-		<td style="border-bottom:0px"><a href="#m">m</a></td>
+		<td style="width:0; border-bottom:0px"><a href="#a">A</a></td>
+		<td style="width:0; border-bottom:0px"><a href="#b">B</a></td>
+		<td style="width:0; border-bottom:0px"><a href="#c">C</a></td>
+		<td style="width:0; border-bottom:0px"><a href="#d">D</a></td>
+		<td style="width:0; border-bottom:0px"><a href="#e">E</a></td>
+		<td style="width:0; border-bottom:0px"><a href="#f">F</a></td>
+		<td style="width:0; border-bottom:0px"><a href="#g">G</a></td>
+		<td style="width:0; border-bottom:0px"><a href="#h">H</a></td>
+		<td style="width:0; border-bottom:0px"><a href="#i">I</a></td>
+		<td style="width:0; border-bottom:0px"><a href="#j">J</a></td>
+		<td style="width:0; border-bottom:0px"><a href="#k">K</a></td>
+		<td style="width:0; border-bottom:0px"><a href="#l">L</a></td>
+		<td style="border-bottom:0px"><a href="#m">M</a></td>
 	</tr>
 		<tr>
-		<td style="width:0; border-bottom:0px"><a href="#n">n</a></td>
-		<td style="width:0; border-bottom:0px"><a href="#o">o</a></td>
-		<td style="width:0; border-bottom:0px"><a href="#p">p</a></td>
-		<td style="width:0; border-bottom:0px"><a href="#q">q</a></td>
-		<td style="width:0; border-bottom:0px"><a href="#r">r</a></td>
-		<td style="width:0; border-bottom:0px"><a href="#s">s</a></td>
-		<td style="width:0; border-bottom:0px"><a href="#t">t</a></td>
-		<td style="width:0; border-bottom:0px"><a href="#u">u</a></td>
-		<td style="width:0; border-bottom:0px"><a href="#v">v</a></td>
-		<td style="width:0; border-bottom:0px"><a href="#w">w</a></td>
-		<td style="width:0; border-bottom:0px"><a href="#x">x</a></td>
-		<td style="width:0; border-bottom:0px"><a href="#y">y</a></td>
-		<td style="border-bottom:0px"><a href="#z">z</a></td>
+		<td style="width:0; border-bottom:0px"><a href="#n">N</a></td>
+		<td style="width:0; border-bottom:0px"><a href="#o">O</a></td>
+		<td style="width:0; border-bottom:0px"><a href="#p">P</a></td>
+		<td style="width:0; border-bottom:0px"><a href="#q">Q</a></td>
+		<td style="width:0; border-bottom:0px"><a href="#r">R</a></td>
+		<td style="width:0; border-bottom:0px"><a href="#s">S</a></td>
+		<td style="width:0; border-bottom:0px"><a href="#t">T</a></td>
+		<td style="width:0; border-bottom:0px"><a href="#u">U</a></td>
+		<td style="width:0; border-bottom:0px"><a href="#v">V</a></td>
+		<td style="width:0; border-bottom:0px"><a href="#w">W</a></td>
+		<td style="width:0; border-bottom:0px"><a href="#x">X</a></td>
+		<td style="width:0; border-bottom:0px"><a href="#y">Y</a></td>
+		<td style="border-bottom:0px"><a href="#z">Z</a></td>
 	</tr>
 </tbody></table>
 <br>
 
 
 <section>
-<h4 id="a">a</h4>
-Aloe Vera <br>
-Arrowroot <br>
+<h4 id="a">A</h4>
+<a href="/page-index/edible-plants/arrow-root/">Arrowroot</a><br>
 	<br><br>
 </section>
 
