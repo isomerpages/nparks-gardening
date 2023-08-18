@@ -114,6 +114,7 @@ Click on an alphabet to find a plant by its common name!
 
 <section>
 <h4 id="j">J</h4>
+<a href="/page-index/edible-plants/javan-spinach/">Javan Spinach</a><br>
 	<br><br>
 	</section>
 
