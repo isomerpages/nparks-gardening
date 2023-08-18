@@ -120,7 +120,7 @@ Click on an alphabet to find a plant by its common name!
 <section>
 <h4 id="k">K</h4>
 	<a href="/page-index/edible-plants/kai-lan/">Kailan</a><br>
-Kale<br>
+<a href="/page-index/edible-plants/kale/">Kale</a><br>
 	<a href="/page-index/edible-plants/kang-kong/">Kang Kong</a><br>
 <a href="/page-index/edible-plants/kedondong/">Kedondong</a><br>
 <br><br>
