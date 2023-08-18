@@ -121,11 +121,11 @@ Click on an alphabet to find a plant by its common name!
 </section>
 
 <section>
-<h4 id="m">m</h4>
-Maiden's Jealousy<br>
-Malayan Ixora<br>
-Mexican Hen and Chicks<br>
-Mexican Sedum<br>
+<h4 id="m">M</h4>
+<a href="/page-index/ornamental-plants/maidens-jealousy/">Maiden's Jealousy</a><br>
+<a href="/page-index/ornamental-plants/malayan-ixora/">Malayan Ixora</a><br>
+<a href="/page-index/ornamental-plants/mexican-hen-and-chicks/">Mexican Hen and Chicks</a><br>
+<a href="/page-index/ornamental-plants/mexican-sedum/">Mexican Sedum</a><br>
 Mistletoe Fig<br>
 Mother of Thousands<br>
 	<br><br>
