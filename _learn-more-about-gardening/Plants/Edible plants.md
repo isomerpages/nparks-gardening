@@ -70,7 +70,7 @@ Click on an alphabet to find a plant by its common name!
 <a href="/page-index/edible-plants/chinese-mustard/">Chinese Mustard</a><br>
 	<a href="/page-index/edible-plants/chives/">Chives</a><br>
 <a href="/page-index/edible-plants/common-pepper/">Common Pepper</a><br>
-Corn <br>
+<a href="/page-index/edible-plants/corn/">Corn</a><br>
 	<a href="/page-index/edible-plants/cranberry-hibiscus/">Cranberry Hibiscus</a> <br>
 <a href="/page-index/edible-plants/cucumber/">Cucumber</a><br>
 <a href="/page-index/edible-plants/curry-leaf-plant/">Curry Leaf Plant</a><br>
