@@ -45,7 +45,7 @@ Click on an alphabet to find a plant by its common name!
 
 <section>
 <h4 id="a">A</h4>
-<a href="/page-index/edible-plants/arrow-root/">Arrowroot</a><br>
+<a href="/page-index/edible-plants/arrowroot">Arrowroot</a><br>
 	<br><br>
 </section>
 
