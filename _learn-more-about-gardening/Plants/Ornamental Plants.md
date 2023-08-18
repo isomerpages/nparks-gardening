@@ -42,25 +42,25 @@ Click on an alphabet to find a plant by its common name!
 <br>
 
 <section>
-<h4 id="a">a</h4>
-Adap-adap<br>
-African Violet<br>
-Aloe Vera<br>
+<h4 id="a">A</h4>
+<a href="/page-index/ornamental-plants/adap-adap/">Adap-Adap</a><br>
+<a href="/page-index/ornamental-plants/african-violet/">African Violet</a><br>
+<a href="/page-index/ornamental-plants/aloe-vera/">Aloe Vera</a><br>
 	<br><br>
 </section>
 
 <section>
-<h4 id="b">b</h4>
-<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/ornamental-plants/bamboo-orchid/">Bamboo Orchid</a><br>
-Brazilian Tea<br>
+<h4 id="b">B</h4>
+<a href="/page-index/ornamental-plants/bamboo-orchid/">Bamboo Orchid</a><br>
+<a href="/page-index/ornamental-plants/brazilian-tea/">Brazilian Tea</a><br>
 	 <br><br>
 </section>
 
 <section>
-<h4 id="c">c</h4>
-Candle Bush<br>
-Coral Vine<br>
-Cranberry hibiscus<br>
+<h4 id="c">C</h4>
+<a href="/page-index/ornamental-plants/candle-bush/">Candle Bush</a><br>
+<a href="/page-index/ornamental-plants/coral-bush/">Coral Bush</a><br>
+<a href="/page-index/ornamental-plants/cranberry-hibiscus/">Cranberry Hibiscus</a><br>
 	 <br><br>
 </section>
 
