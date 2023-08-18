@@ -62,30 +62,30 @@ Click on an alphabet to find a plant by its common name!
 </section>
 
 <section>
-<h4 id="c">c</h4>
+<h4 id="c">C</h4>
 	<a href="/page-index/edible-plants/cai-xin/">Cai Xin</a><br>
-Ceylon Spinach <br>
-Chiku <br>
+<a href="/page-index/edible-plants/ceylon-spinach/">Ceylon Spinach</a><br>
+<a href="/page-index/edible-plants/chiku/">Chiku</a><br>
 <a href="/page-index/edible-plants/chilli/">Chilli</a><br>
-Chinese Mustard <br>
+<a href="/page-index/edible-plants/chinese-mustard/">Chinese Mustard</a><br>
 	<a href="/page-index/edible-plants/chives/">Chives</a><br>
-Common Pepper <br>
+<a href="/page-index/edible-plants/common-pepper/">Common Pepper</a><br>
 Corn <br>
 	<a href="/page-index/edible-plants/cranberry-hibiscus/">Cranberry Hibiscus</a> <br>
 <a href="/page-index/edible-plants/cucumber/">Cucumber</a><br>
 <a href="/page-index/edible-plants/curry-leaf-plant/">Curry Leaf Plant</a><br>
-Custard Apple <br>
+<a href="/page-index/edible-plants/custard-apple/">Custard Apple</a><br>
 	 <br><br>
 </section>
 
 <section>
-<h4 id="d">d</h4>
+<h4 id="d">D</h4>
 	<br><br>
 </section>
 
 <section>
-<h4 id="e">e</h4>
-Elephant Yam<br>
+<h4 id="e">E</h4>
+<a href="/page-index/edible-plants/elephant-foot-yam/">Elephant Foot Yam</a><br>
 	<br><br>
 </section>
 
