@@ -12,35 +12,36 @@ image: ""
 
 <section>
 	<p><strong>Other Common names:</strong> Hawaiian Heather, Elfin Herb, Elfin Plant, Cuphea, Clammy Cuphea, Corail, Tarweed, Mexican Heather, Heather, 细叶雪茄花, 满天星</p>
+	<br>
 </section>
  
 <section>
-	<p>Fairy Washboards are small hardy succulents that grow in a rosettes up to 10cm wide. They have deep green leaves with ridges resembling a washboard.</p>
-	<p>A perennial, succulent plant, this is a good beginner indoor plant that can be used for succulent arrangements. There are a number of variegated varieties that have a mix of bright yellow or cream, with dark green stripes that make this a striking centrepiece for your indoor garden.</p>
+	<p>False Heather is a hardy, free-flowering groundcover that is commonly seen in roadside gardens and biodiversity-attracting gardens. The nectar-filled flowers are highly attractive bees and butterflies.</p>
+	<p>A perennial groundcover, False Heather is useful as a biodiversity-attracting plant and perimeter plant to add a pop of colour to any garden.</p>
 	 <br> 
 </section> 
  
 <section> 
   <h4>Environmental needs:</h4> 
-  <p>Fairy Washboards thrive in 4-6 hours of indirect sunlight, but are vulnerable to sunburn in areas with more than 4 hours of direct sunlight. They are best planted in sandy soil that drains well. This plant requires very little water and is vulnerable to root rot. Water only when the soil is dry, and consider bottom watering this plant once a week or less to reduce the chances of rot.</p> 
+  <p>This plant thrives in 4-8 hours of direct sunlight. This plant can also grow in at least 6 hours of indirect sunlight, but at a slower pace.  Plants do best in loamy soil at least 10cm deep, making them suitable for container gardening. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe.</p> 
 	<br>
 </section>
 
 <section> 
   <h4>Growing:</h4> 
-	<p>Fairy Washboards are slow-growing and generally low maintenance. They do well with slow-release balanced fertilisers once a year during repotting, and will flower occasionally. Prune off spent flowers to keep the plant neat.</p> 
+	<p>False Heather is a steady grower and does well with frequent and light fertilising with balanced fertilisers. This shrub can grow up to 0.6m in height and looks best when pruned regularly. Regular pruning to promote new growth will keep the plant healthy and neat.</p> 
 	<br> 
 </section> 
 
 <section> 
   <h4>Propagation:</h4> 
-	<p>Fairy Washboards can be grown from seeds or division of offsets.</p> 
+	<p>False Heather can be grown from woody cuttings with rooting hormone.</p> 
 	<br> 
 </section> 
  
 <section> 
   <h4>Common problems &amp; solutions:</h4> 
-	<p>These plants are usually quite resistant to pests if kept healthy.</p>
-	<p>Mealy bugs often infest the plant if it is sickly or overgrown. Prune off the infested parts, or apply horticultural oils like neem oil and white summer oil to suffocate the remaining pests. Regularly prune the plant to allow light and air to reach throughout the plant, and check the plant for underlying problems like root rot, lack of sunlight, and nutrient deficiencies.</p>
+	<p>This plant is relatively resistant to pests and disease if kept healthy.</p>
+	<p>If the plant does not receive enough light, it will stop producing flowers. Prune surrounding plants or move the plant to a sunnier spot to promote flower growth.</p>
 	<br> 
 </section>
