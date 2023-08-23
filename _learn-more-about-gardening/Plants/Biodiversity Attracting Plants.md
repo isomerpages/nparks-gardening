@@ -42,167 +42,167 @@ Click on an alphabet to find a plant by its common name!
 <br>
 
 <section>
-<h4 id="a">a</h4>
-Adap-adap<br>
+<h4 id="a">A</h4>
+<a href="/page-index/ornamental-plants/adap-adap/">Adap-Adap</a><br>
 	<br><br>
 </section>
 
 <section>
-<h4 id="b">b</h4>
-<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/ornamental-plants/bayam/">Bamboo Orchid</a><br>
-Bangkuang<br>
-Bottle Gourd<br>
-Brazilian Tea<br>
-Butterfly Pea<br>
+<h4 id="b">B</h4>
+<a href="/page-index/ornamental-plants/bamboo-orchid/">Bamboo Orchid</a><br>
+<a href="/page-index/edible-plants/bang-kwang/">Bang Kwang</a><br>
+<a href="/page-index/edible-plants/bottle-gourd/">Bottle Gourd</a><br>
+<a href="/page-index/ornamental-plants/brazilian-tea/">Brazilian Tea</a><br>
+<a href="/page-index/edible-plants/butterfly-pea/">Butterfly Pea</a><br>
 	 <br><br>
 </section>
 
 <section>
-<h4 id="c">c</h4>
-Candle Bush<br>
-Coral Vine<br>
+<h4 id="c">C</h4>
+<a href="/page-index/ornamental-plants/candle-bush/">Candle Bush</a><br>
+<a href="/page-index/ornamental-plants/coral-bush/">Coral Vine</a><br>
 	 <br><br>
 </section>
 
 <section>
-<h4 id="d">d</h4>
+<h4 id="d">D</h4>
 	<br><br>
 </section>
 
 <section>
-<h4 id="e">e</h4>
+<h4 id="e">E</h4>
 	<br><br>
 </section>
 
 <section>
-<h4 id="f">f</h4>
-False Heather<br>
+<h4 id="f">F</h4>
+<a href="/page-index/ornamental-plants/false-heather/">False Heather</a><br>
+	<br><br>
+</section>
+
+<section>
+<h4 id="g">G</h4>
+<a href="/page-index/ornamental-plants/globe-amaranth/">Globe Amaranth</a><br>
+<a href="/page-index/ornamental-plants/golden-dewdrop/">Golden Dewdrop</a><br>
 <br><br>
 </section>
 
 <section>
-<h4 id="g">g</h4>
-Globe Amaranth<br>
-Golden Dewdrop<br>
-<br><br>
-</section>
-
-<section>
-<h4 id="h">h</h4>
+<h4 id="h">H</h4>
 <br>
 </section>
 
 <section>
-<h4 id="i">i</h4>
+<h4 id="i">I</h4>
 <br><br>
 </section>
 
 <section>
-<h4 id="j">j</h4>
-Javanese Ixora<br>
+<h4 id="j">J</h4>
+<a href="/page-index/edible-plants/javan-spinach/">Javan Spinach</a><br>
+<a href="/page-index/ornamental-plants/javanese-ixora/">Javanese Ixora</a><br>
 	<br><br>
 	</section>
 
 <section>
-<h4 id="k">k</h4>
+<h4 id="k">K</h4>
 <br><br>
 </section>
 
 <section>
-<h4 id="l">l</h4>
-Lipstick Plant<br>
+<h4 id="l">L</h4>
+<a href="/page-index/ornamental-plants/lipstick-plant/">Lipstick Plant</a><br>
 <br><br>
 </section>
 
 <section>
-<h4 id="m">m</h4>
-Maiden's Jealousy<br>
-Malayan Ixora<br>
-Mistletoe Fig<br>
+<h4 id="m">M</h4>
+<a href="/page-index/ornamental-plants/maidens-jealousy/">Maiden's Jealousy</a><br>
+<a href="/page-index/ornamental-plants/malayan-ixora/">Malayan Ixora</a><br>
+<a href="/page-index/ornamental-plants/mistletoe-fig/">Mistletoe Fig</a><br>
 	<br><br>
 </section>
 
 <section>
-<h4 id="n">n</h4>
-<br><br>
-	</section>
-	
-<section>
-<h4 id="o">o</h4>
-<br><br>
-</section>
-
-<section>
-<h4 id="p">p</h4>
-Pagoda Flower<br>
-Passion Fruit<br>
-Peanut<br>
-<br><br>
-</section>
-
-<section>
-<h4 id="q">q</h4>
+<h4 id="n">N</h4>
 <br><br>
 	</section>
 	
 <section>
-<h4 id="r">r</h4>
-Red Leea<br>
-River Tarenna<br>
-Rose Myrtle<br>
-	<br><br>
-</section>
-
-<section>
-<h4 id="s">s</h4>
-Scarlet Spiral Flag<br>
-Singapore Rhododendron<br>
-Smooth Loofah<br>
-Snake Gourd<br>
-Sunflowers<br>
-Surinam Purslane<br>
-Sword Bean<br>
+<h4 id="o">O</h4>
 <br><br>
 </section>
 
 <section>
-<h4 id="t">t</h4>
-Tonkin Jasmine<br>
-Torch Ginger<br>
-Turk's Turban<br>
+<h4 id="p">P</h4>
+<a href="/page-index/ornamental-plants/pagoda-flower/">Pagoda Flower</a><br>
+<a href="/page-index/edible-plants/passion-fruit/">Passion Fruit</a><br>
+<a href="/page-index/edible-plants/peanut/">Peanut</a><br>
+<br><br>
+</section>
+
+<section>
+<h4 id="q">Q</h4>
+<br><br>
+	</section>
+	
+<section>
+<h4 id="r">R</h4>
+<a href="/page-index/ornamental-plants/red-leea/">Red Leea</a><br>
+<a href="/page-index/ornamental-plants/river-tarenna/">River tarenna</a><br>
+<a href="/page-index/ornamental-plants/rose-myrtle/">Rose Myrtle</a><br>
 	<br><br>
 </section>
 
 <section>
-<h4 id="u">u</h4>
-Ulam Raja<br>
+<h4 id="s">S</h4>
+<a href="/page-index/ornamental-plants/scarlet-spiral-flag /">Scarlet Spiral Flag</a><br>
+<a href="/page-index/ornamental-plants/singapore-rhododendron/">Singapore Rhododendron</a><br>
+<a href="/page-index/edible-plants/smooth-loofah/">Smooth Loofah</a><br>
+<a href="/page-index/ornamental-plants/snake-gourd/">Snake Gourd</a><br>
+<a href="/page-index/ornamental-plants/sunflower/">Sunflower</a><br>
+<a href="/page-index/edible-plants/sword-bean/">Sword Bean</a><br>
+<br><br>
+</section>
+
+<section>
+<h4 id="t">T</h4>
+<a href="/page-index/ornamental-plants/tonkin-jasmine/">Tonkin Jasmine</a><br>
+<a href="/page-index/ornamental-plants/torch-ginger/">Torch Ginger</a><br>
+<a href="/page-index/ornamental-plants/turks-turban/">Turk's Turban</a><br>
+	<br><br>
+</section>
+
+<section>
+<h4 id="u">U</h4>
+<a href="/page-index/edible-plants/ulam-raja/">Ulam Raja</a><br>
 	<br><br>
 	</section>
 
 <section>
-<h4 id="v">v</h4>
+<h4 id="v">V</h4>
 	<br><br>
 	</section>
 	
 <section>
-<h4 id="w">w</h4>
-Watermelon<br>
-Winged Bean<br>
+<h4 id="w">W</h4>
+<a href="/page-index/edible-plants/watermelon/">Watermelon</a><br>
+<a href="/page-index/edible-plants/winged-bean/">Winged Bean</a><br>
 	<br><br>
 	</section>
 
 <section>
-<h4 id="x">x</h4>
+<h4 id="x">X</h4>
 	<br><br>
 	</section>
 	
 <section>
-<h4 id="y">y</h4>
+<h4 id="y">Y</h4>
 	<br><br>
 	</section>
 	
 <section>
-<h4 id="z">z</h4>
+<h4 id="z">Z</h4>
 	<br><br>
 	</section>
 	
