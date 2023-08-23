@@ -29,7 +29,7 @@ image: ""
 <p>4. Prevention</p>
 <ul>
 <li>The first line of pest control is to prevent the pest from becoming a threat.</li>
-<li>Keeping plants healthy, using hardscapes like netting, quarentining new plants, regular pest checks and general maintenance are good ways to prevent pests from taking over your garden. </li>
+<li>Keeping plants healthy, using hardscapes like netting, quarantining new plants, regular pest checks and general maintenance are good ways to prevent pests from taking over your garden. </li>
 </ul>
 <p>4. Control</p>
 <ul>
