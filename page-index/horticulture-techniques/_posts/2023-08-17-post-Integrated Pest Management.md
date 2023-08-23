@@ -8,8 +8,10 @@ image: ""
 ---
 <section>
 	<img title="Community Gardeners checking their plants for pests. Photo by Jacqueline Chua." src="/images/Gardeners/Pruning%20(1).jpg">
-<p>As troublesome as pests can be, they are a big part of nature and play important roles in our ecosystem. Embracing this idea, Integrated Pest Management (IPM) is a strategy that aims to keep plant pests’ population low, rather than eradicating them completely. This is done through a combination of techniques that is less harmful to the ecosystem, environmentally friendly and affordable.</p>
-			<iframe width="100%" height="415" src="https://www.youtube.com/embed/tb0N7ffgwGs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
+	<p>As troublesome as pests can be, they are a big part of nature and play important roles in our ecosystem. Embracing this idea, Integrated Pest Management (IPM) is a strategy that aims to keep plant pests’ population low, rather than eradicating them completely. This is done through a combination of techniques that is less harmful to the ecosystem, environmentally friendly and affordable.</p>
+		<iframe width="100%" height="415" src="https://www.youtube.com/embed/tb0N7ffgwGs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
+		<br>
+</section>
 
 <section>
 <h4>The Integrated Pest Management (IPM) Approach</h4>
@@ -45,4 +47,4 @@ image: ""
 			<li>Learn about <a href="/page-index/horticulture-techniques/pest-control/">different pest control methods</a>, and how they should be used.</li>
 		</ul>
 </ol>
-</section></section>
+</section>
