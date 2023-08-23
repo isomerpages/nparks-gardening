@@ -28,9 +28,9 @@ image: ""
 
 <section>
 	<h4>Preventive and control measures:</h4>
+			<p><a href="/page-index/horticulture-techniques/pest-control/#mechanical_control">Mechanical control</a> methods like using netting or cloches to protect young plants  will protect your plants from chewing insects in general.</p>
 		<p>If the population is small, pick out the grasshoppers by hand and kill or release them far away from your garden.</p>
 		<p><a href="/page-index/horticulture-techniques/pest-control/#chemical_control">Onion, garlic and chili spray</a> can be used as a repellent to deter grasshoppers from feasting on the foliage of your plants.</p>
-		<p><a href="/page-index/horticulture-techniques/pest-control/#mechanical_control">Mechanical control</a> methods like placing netting over planter beds can protect your plants from chewing insects in general.</p>
 		<p>Encourage predators to establish in your garden by keeping it pesticide-free. Wasps, Birds and dragonflies feed on grasshoppers and can keep their population under control.</p>
 	<br>
 </section>
