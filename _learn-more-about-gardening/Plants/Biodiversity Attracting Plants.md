@@ -159,8 +159,8 @@ Click on an alphabet to find a plant by its common name!
 <a href="/page-index/ornamental-plants/scarlet-spiral-flag /">Scarlet Spiral Flag</a><br>
 <a href="/page-index/ornamental-plants/singapore-rhododendron/">Singapore Rhododendron</a><br>
 <a href="/page-index/edible-plants/smooth-loofah/">Smooth Loofah</a><br>
-<a href="/page-index/ornamental-plants/snake-gourd/">Snake Gourd</a><br>
-<a href="/page-index/ornamental-plants/sunflower/">Sunflower</a><br>
+<a href="/page-index/edible-plants/snake-gourd/">Snake Gourd</a><br>
+<a href="/page-index/edible-plants/sunflower/">Sunflower</a><br>
 <a href="/page-index/edible-plants/sword-bean/">Sword Bean</a><br>
 <br><br>
 </section>
@@ -168,7 +168,7 @@ Click on an alphabet to find a plant by its common name!
 <section>
 <h4 id="t">T</h4>
 <a href="/page-index/ornamental-plants/tonkin-jasmine/">Tonkin Jasmine</a><br>
-<a href="/page-index/ornamental-plants/torch-ginger/">Torch Ginger</a><br>
+<a href="/page-index/edible-plants/torch-ginger/">Torch Ginger</a><br>
 <a href="/page-index/ornamental-plants/turks-turban/">Turk's Turban</a><br>
 	<br><br>
 </section>
