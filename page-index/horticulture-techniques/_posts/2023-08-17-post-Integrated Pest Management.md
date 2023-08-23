@@ -34,7 +34,7 @@ image: ""
 		<ul>
 			<li>Strive for ecological balance rather than perfect aesthetics.</li>
 			<li>It is generally not possible to have a garden completely free of pests without also affecting beneficial biodiversity, like pollinators.</li>
-	</ul>
+		</ul>
 	<li>Prevention</li>
 		<ul>
 			<li>The first line of pest control is to prevent the pest from becoming a threat.</li>
