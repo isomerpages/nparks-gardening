@@ -36,7 +36,7 @@ image: ""
 </section>
 <br>
 <section>
-<h4>Biological control</h4>
+<h4 id="biological_control">Biological control</h4>
 	<img title="Ladybug larvae eating scale insects Photo by Victoria Lim." src="/images/Biodiversity/lady%20bug%20larva%20-%20nerium%20oleander%20-%20ppn%201victorialim.jpg">
 <p>Biological control takes advantage of natural predators and pathogens to keep pest populations in check. Learning about garden predators and making habitat for them will help keep pest populations down. </p>
 <p>Some pathogens can also be used to control pests. These pathogens will specifically target certain species of pests, and will not affect other forms of biodiversity in your garden. </p>
