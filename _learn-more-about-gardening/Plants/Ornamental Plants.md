@@ -60,7 +60,7 @@ Click on an alphabet to find a plant by its common name!
 <h4 id="c">C</h4>
 <a href="/page-index/ornamental-plants/candle-bush/">Candle Bush</a><br>
 <a href="/page-index/ornamental-plants/coral-bush/">Coral Bush</a><br>
-<a href="/page-index/ornamental-plants/cranberry-hibiscus/">Cranberry Hibiscus</a><br>
+<a href="/page-index/edible-plants/cranberry-hibiscus/">Cranberry Hibiscus</a><br>
 	 <br><br>
 </section>
 
@@ -169,13 +169,13 @@ Click on an alphabet to find a plant by its common name!
 <a href="/page-index/ornamental-plants/snake-plant/">Snake Plant</a><br>
 <a href="/page-index/ornamental-plants/spider-plant/">Spider Plant</a><br>
 <a href="/page-index/ornamental-plants/string-of-beads/">String of Beads</a><br>
-<a href="/page-index/ornamental-plants/sunflower/">Sunflower</a><br>
+<a href="/page-index/edible-plants/sunflower/">Sunflower</a><br>
 <br><br>
 </section>
 
 <section>
 <h4 id="t">T</h4>
-<a href="/page-index/ornamental-plants/torch-ginger/">Torch Ginger</a><br>
+<a href="/page-index/edible-plants/torch-ginger/">Torch Ginger</a><br>
 <a href="/page-index/ornamental-plants/turks-turban/">Turk's Turban</a><br>
 	<br><br>
 </section>
