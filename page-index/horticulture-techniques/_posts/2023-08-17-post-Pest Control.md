@@ -24,7 +24,7 @@ image: ""
 </section>
 <br>
 <section>
-<h4>Mechanical or physical control</h4>
+<h4 id="mechanical_control">Mechanical or physical control</h4>
 	<img title="Crops enclosed inside netting, protecting them from pests. Photo by Jacqueline Chua." src="/images/Hardscapes/Netting%20(1).jpg">
 <p>Mechanical control, also known as physical control, involves the use of hardscapes or tools to physically remove or stop pests from reaching the plants. 
 </p><p>Some common methods are:</p>
@@ -46,7 +46,7 @@ image: ""
 </section>
 <br>
 <section>
-<h4>Chemical control</h4>
+<h4 id="chemical_control">Chemical control</h4>
 <p>Any chemical substance that is meant to kill or repel plant pests is a pesticide. It can be made synthetically or from natural sources, usually other plants. When used in excess, pesticides can become harmful to the environment and garden biodiversity. Pesticides take time to wash away or wear off and can be harmful to humans upon consumption if it is applied too close to harvest. Because pesticides can have such extreme effects, chemical control should be only used as a last resort. </p>
 <p>Most chemical controls are applied as a spray. Chemicals can wash off the plant during rain or watering, and are thus best applied during the dry season, or after watering when the leaves are dry. Strong chemicals can also burn plants if applied in large amounts if they are left too long on the leaves, or exposed to strong sunlight. A good rule of thumb is to test the amount on a small area for up to two days before applying chemical controls on more plants. Always follow manufacturer instructions while applying pesticides on your plants. </p>
 <p>Some common chemical controls made from natural sources are:</p>
