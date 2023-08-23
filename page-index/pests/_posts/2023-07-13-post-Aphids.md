@@ -40,8 +40,8 @@ image: ""
 <p>Healthy plants are generally resilient to infestations. If you have a severe pest infestation, check your plants regularly for additional underlying problems such as root rot, lack of sunlight and nutrient deficiencies.</p>
 <p>Check your plants regularly for aphids, especially on the stems and the underside of leaves, which may be distorted or curled.</p> 
 <p>If there are only a few aphids, you can spray them off with water or use a wet cloth to wipe them away.</p>
-<p>Spraying horticultural oils such as neem oil or white oil can kill soft-bodied pests on contact.</p>
+	<p>Infested plant parts should be pruned off as soon as possible. Severe infestations may need the entire plant to be removed. Bag up the infested plant or plant parts securely for proper disposal to prevent further spread. Do not use the removed plant waste for composting or for consumption.</p>
+<p>Horticultural oils and sulphur soap sprays can kill soft-bodied pests on contact. Use chemical controls like these sparingly as they tend to also affect other types of biodiversity.</p>
 <p>Encourage predators to establish in your garden by keeping it pesticide-free. Ladybirds and parasitic wasps feed on aphids and can keep their population under control.</p>  
-<p>Infested plant parts should be pruned off as soon as possible. Severe infestations may need the entire plant to be removed. Bag up the infested plant or plant parts securely for proper disposal to prevent further spread. Do not use the removed plant waste for composting or for consumption.</p>
 <br>
 </section>
