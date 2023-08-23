@@ -45,6 +45,7 @@ Click on an alphabet to find a plant by its common name!
 
 <section>
 <h4 id="a">A</h4>
+<a href="/page-index/ornamental-plants/aloe-vera/">Aloe Vera</a><br>
 <a href="/page-index/edible-plants/arrowroot/">Arrowroot</a><br>
 	<br><br>
 </section>
@@ -97,6 +98,7 @@ Click on an alphabet to find a plant by its common name!
 
 <section>
 <h4 id="g">G</h4>
+<a href="/page-index/ornamental-plants/globe-amaranth/">Globe Amaranth</a><br>
 <a href="/page-index/edible-plants/guava/">Guava</a><br>
 <br><br>
 </section>
@@ -181,6 +183,7 @@ Click on an alphabet to find a plant by its common name!
 <h4 id="s">S</h4>
 	<a href="/page-index/edible-plants/sand-ginger/">Sand Ginger</a><br>
 <a href="/page-index/edible-plants/sawtooth-corriander/">Sawtooth Corriander</a><br>
+<a href="/page-index/edible-plants/scarlet-spiral-flag/">Scarlet Spiral Flag</a><br>
 <a href="/page-index/edible-plants/sissoo-spinach/">Sissoo Spinach</a><br>
 <a href="/page-index/edible-plants/smooth-loofah/">Smooth Loofah</a><br>
 <a href="/page-index/edible-plants/snake-gourd/">Snake Gourd</a><br>
