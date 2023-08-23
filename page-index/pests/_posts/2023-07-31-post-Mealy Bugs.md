@@ -36,6 +36,6 @@ image: ""
 		<p>Isolate affected plants immediately if mealy bugs are found, and prune off infested parts for disposal. Severe infestations may need the entire plant to be removed. Bag up the infested plant or plant parts securely for proper disposal to prevent further spread. Do not use the removed plant waste for composting or for consumption</p>
 		<p>Healthy plants are generally resilient to infestations. If you have a severe pest infestation, check your plants regularly for additional underlying problems such as root rot or a lack of sunlight.</p>
 <p>Horticultural oils, rubbing alcohol, hydrogen peroxide and sulphur soap sprays can kill soft-bodied pests on contact. Use <a href="/page-index/horticulture-techniques/pest-control/#chemical_control">chemical controls</a> like these sparingly as they tend to also affect other types of biodiversity.</p>
-		<p>Expose infested soil to direct sunlight for at least two weeks to kill off remaining mealybugs or replace the soil entirely.</p>
+		<p>Expose infested soil to direct sunlight for at least two weeks to kill off remaining mealy bugs or replace the soil entirely.</p>
 	<br>
 </section>
