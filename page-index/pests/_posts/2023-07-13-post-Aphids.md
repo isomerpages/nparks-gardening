@@ -22,7 +22,7 @@ image: ""
 <p>Like Mealy Bugs, Aphids produce honeydew, a sweet waste fluid while feeding, which attracts ants. As a result, ants may guard and care for groups of aphids, which is how they got the common name of ant cow. Large clusters of ants can thus be indicative of an aphid infestation! Honeydew on plants also encourages the growth of sooty mould, which you are more likely to see before you spot aphids on your plants.</p>
 		<img title="Green aphids clustered on the stem of a mint plant. Photo by Victoria Lim" src="/images/Biodiversity/aphids%20-%20mentha%201victorialim.jpg">
 <p>Aphids generally do not cause a lot of damage when caught early. However, if left unattended, aphids will eventually weaken your plant, causing stunted growth, fruit deformities or even death. They also spread many viral plant diseases as they travel plant to plant to reproduce.</p>
-	<p> As with all pests, aphids generally attack plants that are already unhealthy. Check your plant for additional problems such as root rot from waterlogging, etoilation from a lack of sunlight, or competition with other plants due to a lack of space.  <a href="#cultural_control"> Cultural control</a> methods should be implemented to prevent your plants from becoming unhealthy in the first place. </p>
+	<p> As with all pests, aphids generally attack plants that are already unhealthy. Check your plant for additional problems such as root rot from waterlogging, etoilation from a lack of sunlight, or competition with other plants due to a lack of space.  <a href="/page-index/horticulture-techniques/pest-control/#cultural_control"> Cultural control</a> methods should be implemented to prevent your plants from becoming unhealthy in the first place. </p>
 <br>
 </section>
 	
@@ -42,7 +42,7 @@ image: ""
 <p>Check your plants regularly for aphids, especially on the stems and the underside of leaves, which may be distorted or curled.</p> 
 <p>If there are only a few aphids, you can spray them off with water or use a wet cloth to wipe them away.</p>
 	<p>Heavily infested plant parts should be pruned off as soon as possible. Severe infestations may need the entire plant to be removed. Bag up the infested plant or plant parts securely for proper disposal to prevent further spread. Do not use the removed plant waste for composting or for consumption.</p>
-<p>Horticultural oils and sulphur soap sprays can kill soft-bodied pests on contact. Use <a href="#chemical_control">chemical controls</a> like these sparingly as they tend to also affect other types of biodiversity.</p>
+<p>Horticultural oils and sulphur soap sprays can kill soft-bodied pests on contact. Use <a href="/page-index/horticulture-techniques/pest-control/#chemical_control">chemical controls</a> like these sparingly as they tend to also affect other types of biodiversity.</p>
 <p>Encourage predators to establish in your garden by keeping it pesticide-free. Ladybirds and parasitic wasps feed on aphids and can keep their population under control.</p>  
 <br>
 </section>
