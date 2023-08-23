@@ -12,7 +12,7 @@ image: ""
 </section>
 <br>
 <section>
-<h4>Cultural control, or preventative control</h4>
+<h4 id="cultural_control">Cultural control, or preventative control</h4>
 	<img title="Community Gardeners checking their plants for pests. Photo by Jacqueline Chua." src="/images/Gardeners/Harvesting_JacChua%20(2).jpg">
 <p>Cultural Control starts with the intention to maintain high standards of garden hygiene and maintenance to keep your plants healthy, and your garden manageable. This ongoing form of control depends on consistent work so that pests are easier to spot and treat before they become a massive infestation. Unhealthy plants will attract pests, which will then affect other plants in your garden. </p>
 <p>Here’s how you can keep your plants healthy:</p>
