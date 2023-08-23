@@ -12,7 +12,7 @@ image: ""
 </section>
 <br>
 <section>
-<h4>Cultural control, or having good gardening habits</h4>
+<h4>Cultural control, or preventative control</h4>
 	<img title="Community Gardeners checking their plants for pests. Photo by Jacqueline Chua." src="/images/Gardeners/Harvesting_JacChua%20(2).jpg">
 <p>Cultural Control starts with the intention to maintain high standards of garden hygiene and maintenance to keep your plants healthy, and your garden manageable. This ongoing form of control depends on consistent work so that pests are easier to spot and treat before they become a massive infestation. Unhealthy plants will attract pests, which will then affect other plants in your garden. </p>
 <p>Here’s how you can keep your plants healthy:</p>
@@ -48,7 +48,7 @@ image: ""
 <section>
 <h4>Chemical control</h4>
 <p>Any chemical substance that is meant to kill or repel plant pests is a pesticide. It can be made synthetically or from natural sources, usually other plants. When used in excess, pesticides can become harmful to the environment and garden biodiversity. Pesticides take time to wash away or wear off and can be harmful to humans upon consumption if it is applied too close to harvest. Because pesticides can have such extreme effects, chemical control should be only used as a last resort. </p>
-<p>Most chemical controls are applied as a spray. Chemicals can wash off the plant during rain or watering, and are thus best applied during the dry season, or after watering when the leaves are dry. Strong chemicals can also burn plants if applied in large amounts, if they are left too long on the leaves, or exposed to strong sunlight. A good rule of thumb is to test the amount on a small area for up to two days before applying chemical controls on more plants. Always follow manufacturer instructions while applying pesticides on your plants. </p>
+<p>Most chemical controls are applied as a spray. Chemicals can wash off the plant during rain or watering, and are thus best applied during the dry season, or after watering when the leaves are dry. Strong chemicals can also burn plants if applied in large amounts if they are left too long on the leaves, or exposed to strong sunlight. A good rule of thumb is to test the amount on a small area for up to two days before applying chemical controls on more plants. Always follow manufacturer instructions while applying pesticides on your plants. </p>
 <p>Some common chemical controls made from natural sources are:</p>
 <p><b>Chrysanthemum sprays</b>, which can be made by boiling 100g of dried chrysanthemum flowers in 4L of water for 20 minutes, allowing it to steep overnight, and then sieved for use. The spray will degrade and lose its effectiveness within a week. This spray can be used to kill most insects, and unfortunately also affects beneficial insects like bees and ladybirds. Spray the solution directly onto target pests and use in moderation. </p>
 <p><b>Dilute milk sprays</b>, which can be made by mixing 1 part milk to 10 parts water. Proteins and enzymes in milk can be used as a fungicide, and is used to treat black sooty mould, rust and powdery mildew. Spray the dilute milk onto affected plant parts to kill the fungus or mould. </p>
