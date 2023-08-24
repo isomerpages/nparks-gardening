@@ -34,7 +34,7 @@ image: ""
 	<h4>What can I grow as microgreens?</h4>
 	<p>A wide range of edible plants can be grown as microgreens. Some common ones are:</p>
 	<ul>
-		<li><a href="/https://staging.dmhtu0pi4p9u7.amplifyapp.com/l/page-index/edible-plants/bayam/">Bayam (<em>Amaranthus tricolor</em>)</a></li>
+		<li><a href="/page-index/edible-plants/bayam/">Bayam (<em>Amaranthus tricolor</em>)</a></li>
 		<li><a href="/https://staging.dmhtu0pi4p9u7.amplifyapp.com/l/page-index/edible-plants/cai-xin/">Cai Xin (<em>Brassica rapa</em> Caisin Group)</a></li>
 		<li><a href="/https://staging.dmhtu0pi4p9u7.amplifyapp.com/l/page-index/edible-plants/kai-lan/">Kai lan (<em>Brassica oleracea</em> Alboglabra Group)</a></li>
 		<li><a href="/https://staging.dmhtu0pi4p9u7.amplifyapp.com/l/page-index/edible-plants/kang-kong/">Kang kong (<em>Ipomoea aquatica</em>)</a></li>
