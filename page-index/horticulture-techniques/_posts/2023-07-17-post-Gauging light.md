@@ -11,7 +11,7 @@ image: ""
   <p>Sunlight is essential for plant growth. It provides energy for plants to photosynthesise, a process where plants convert water, carbon dioxide and light energy to sugars, which drives their growth. The amount of light your garden gets will determine what plants can grow. </p>
   <p>As a tropical country near the equator, Singapore’s daylight is roughly 12 hours year-round. Of the 12 hours, around 8 hours is of direct sunlight. Depending on what is surrounding your garden, the time of year, and seasonal cloud cover, you may get different hours of direct or indirect sunlight for your plants.</p>
 	<p>Knowing where and how much sunlight you get will be the first step in planning your garden and will also be important in helping you to troubleshoot your plant problems. </p>
-<br>
+	<br>
 </section>
 
 <section>
@@ -30,37 +30,35 @@ image: ""
 <section>
 	<h4>What is considered full sun, partial sun and full shade?</h4>
 	<p>Depending on what kind of sunlight you get and for how long, you can estimate whether you have full sun, partial sun or full shade. Observe your garden at 9am, 12noon, and 5pm on a cloudless day to count how many hours and what kind of sunlight you get.</p>
+	<table>
+		<thead>
+			<tr>
+				<th></th>
+				<th>Hours of direct sunlight</th>
+				<th>Hours of indirect sunlight or dappled shade</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<th style="background-color:#FFE83B">Full sun</th>
+				 <td>4, minimum</td>
+				 <td>6, minimum</td>
+			</tr>
+			<tr>
+				<th style="background-color:#D0B700">Partial shade</th>
+				<td>2-4</td>
+				<td>4-6</td>
+			</tr>
+			<tr>
+				<th style="background-color:#746600; color:white">Full shade</th>
+				<td>Less than 2</td>
+				<td>Less than 4</td>
+			</tr>
+		</tbody>
+	</table>
+	<p>It is better to underestimate the amount of light you receive as too much sun is easily remedied by using shade netting. A lack of light is much harder to deal with, as it will require choosing a new site for use or the installation of grow lights. </p>
 	<br>
 </section>
-<table>
-	<thead>
-		<tr>
-			<th></th>
-			<th>Hours of direct sunlight</th>
-			<th>Hours of indirect sunlight or dappled shade</th>
-		</tr>
-	</thead>
-	<tbody>
-		<tr>
-	  	<th style="background-color:#FFE83B">Full sun</th>
-			 <td>4, minimum</td>
-			 <td>6, minimum</td>
-		</tr>
-		<tr>
-			<th style="background-color:#D0B700">Partial shade</th>
-			<td>2-4</td>
-			<td>4-6</td>
-		</tr>
-		<tr>
-			<th style="background-color:#746600; color:white">Full shade</th>
-			<td>Less than 2</td>
-			<td>Less than 4</td>
-		</tr>
-	</tbody>
-</table>
-	
-<p>It is better to underestimate the amount of light you receive as too much sun is easily remedied by using shade netting. A lack of light is much harder to deal with, as it will require choosing a new site for use or the installation of grow lights. </p>
-
 
 <section>
 	<h4>How do I measure sunlight for my garden?</h4>
@@ -69,5 +67,5 @@ Add the four cardinal directions (North, South, East, West), preferably on the t
 	<img src="/images/Garden%20design/WoodlandsZone5_JacChua.jpg">
 	<p>Visit your garden at 9:00am, 12:00noon, 3:00pm and 6:00pm on a sunny day and take and overview photo to see where there are shadows. If you can’t take an overhead shot, you can also take photos of the shadow you cast while in different parts of the garden. </p>
 	<p>Match your photos to your garden map to see which parts are full sun, partial shade or full shade. Now that you know how much sun you get, you can select your plants accordingly!</p>
-
+	<br>
 </section>
