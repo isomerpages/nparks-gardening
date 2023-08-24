@@ -65,7 +65,7 @@ image: ""
 	<p>Draw a simple map of your garden. Take note of existing buildings, structures, trees and waterbodies, as well as your garden boundaries.
 Add the four cardinal directions (North, South, East, West), preferably on the top corner of your map.</p>
 	<img src="/images/Garden%20design/WoodlandsZone5_JacChua.jpg">
-	<p>Visit your garden at 9:00am, 12:00noon, 3:00pm and 6:00pm on a sunny day and take and overview photo to see where there are shadows. If you can’t take an overhead shot, you can also take photos of the shadow you cast while in different parts of the garden. </p>
+	<p>Visit your garden at 9:00 AM, 12:00 Noon, 3:00 PM and 6:00 PM on a sunny day and take and overview photo to see where there are shadows. If you can’t take an overhead shot, you can also take photos of the shadow you cast while in different parts of the garden. </p>
 	<p>Match your photos to your garden map to see which parts are full sun, partial shade or full shade. Now that you know how much sun you get, you can select your plants accordingly!</p>
 	<br>
 </section>
