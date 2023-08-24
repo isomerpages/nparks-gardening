@@ -34,31 +34,31 @@ image: ""
 	<p>Once you’ve identified what species will thrive in your garden, you could buy some new plants for yourself! Inspecting your plant before buying will give you the most bang for your buck.</p>
 	<p>Check the following before making a purchase:</p>
 	<ul>
-		<li>New shoots and leaves
+		<li>New shoots and leaves</li>
 			<ul>
 				<li>Healthy plants will have many points of growth, and a young plant with many new shoots is more likely to adapt to your garden than a large, old one that has less new growth</li>
 			</ul>
-  </li>
-  <li>The underside of leaves and the joint between leaves and stems
-    <ul>
-      <li>Pests like mealybugs, scale insects, spider mites and aphids may hide here, and can spread to the rest of your garden if they come home with you!</li>
-    </ul>
-  </li>
-<li>Signs of disease or nutrient deficiency on leaves
-    <ul>
-      <li>Yellowing, spots and dead leaves can be signs that a plant is unhealthy</li>
-    </ul>
-  </li>
-</ul>
+		<li>The underside of leaves and the joint between leaves and stems</li>
+			<ul>
+				<li>Pests like mealybugs, scale insects, spider mites and aphids may hide here, and can spread to the rest of your garden if they come home with you!</li>
+			</ul>
+		<li>Signs of disease or nutrient deficiency on leaves</li>
+			<ul>
+				<li>Yellowing, spots and dead leaves can be signs that a plant is unhealthy</li>
+			</ul>
+	</ul>
+	<br>
 </section>
-<br>
+
 <section>
-<h4>Choosing plants to suit your needs</h4>
+	<h4>Choosing plants to suit your needs</h4>
 	<img src="/images/Gardeners/Outreach%20(3).jpg">
-<p>Does your garden have a theme? Do you use your plants for therapeutic horticulture, arts and crafts, or cooking? Choosing plants for use depends on your own taste and plans, and is an exciting way to build a collection!</p>
-<p>Here are some common ways plants can be used to help you curate your own list:</p>
-<ul>
-  <li>To be eaten as a leafy vegetable, fruit, or herb</li>
-	<li>To be admired for colourful foliage or flowers</li>
-  <li>To attract animals like pollinators, birds, and more </li>
-    </ul></section>
+	<p>Does your garden have a theme? Do you use your plants for therapeutic horticulture, arts and crafts, or cooking? Choosing plants for use depends on your own taste and plans, and is an exciting way to build a collection!</p>
+	<p>Here are some common ways plants can be used to help you curate your own list:</p>
+	<ul>
+		<li>To be eaten as a leafy vegetable, fruit, or herb</li>
+		<li>To be admired for colourful foliage or flowers</li>
+		<li>To attract animals like pollinators, birds, and more </li>
+  </ul>
+	<br>
+</section>
