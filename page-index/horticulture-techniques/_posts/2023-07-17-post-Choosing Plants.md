@@ -29,7 +29,7 @@ image: ""
 </section>
 
 <section>
-<h4>Choosing healthy plants</h4>
+	<h4>Choosing healthy plants</h4>
 	<img src="/images/Gardeners/Planting.jpg">	
 	<p>Once you’ve identified what species will thrive in your garden, you could buy some new plants for yourself! Inspecting your plant before buying will give you the most bang for your buck.</p>
 	<p>Check the following before making a purchase:</p>
