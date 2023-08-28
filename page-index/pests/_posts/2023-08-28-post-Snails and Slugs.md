@@ -20,7 +20,7 @@ image: ""
 
 <section>
 	<h4>Symptoms</h4>
-	<img title="Photo by Jacqueline Chua." src="/images/Biodiversity/awl%20snail%20affecting%20red-%20jlg%202victorialim.jpg">
+	<img title="Photo by Victoria Lim." src="/images/Biodiversity/awl%20snail%20affecting%20red-%20jlg%202victorialim.jpg">
 		<p>Slugs and snail leave behind large, ragged holes on tender leaves and flowers, and can sometimes completely eat shoots.</p>
 <p>They leave behind slime trails that are often spotted in the morning, but tend to dry out by the early afternoon.</p>
 	<br>
