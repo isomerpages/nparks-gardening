@@ -9,7 +9,7 @@ sections:
   - hero:
       title: GardeningSG
       subtitle: let's get growing!
-      background: /images/Landing_page/banner_test.png
+      background: /images/Landing_page/banner_test2.png
   - infobar:
       title: New to gardening?
       subtitle: sprouting green fingers
