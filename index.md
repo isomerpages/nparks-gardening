@@ -9,7 +9,7 @@ sections:
   - hero:
       title: GardeningSG
       subtitle: let's get growing!
-      background: /images/Horti techniques/Spacing_Jacchua (15).jpg
+      background: /images/Landing_page/banner_test.png
   - infobar:
       title: New to gardening?
       subtitle: sprouting green fingers
