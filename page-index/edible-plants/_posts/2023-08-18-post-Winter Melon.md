@@ -17,14 +17,14 @@ image: ""
 
 <section>
 	<p>Winter Melons are one of the most impressive crops an edible gardener can grow, with singular fruit growing as heavy as 30kg! The fruit is typically steamed or stewed, but the flesh can also be candied, and the seeds made into a sweet paste.</p>
-		<p>An annual crop, these plants are often grown in rotation with other fruiting climbers.</p>
+	<p>An <a href="/learn-more-about-gardening/glossary/#a">annual</a> crop, these plants are often grown in rotation with other fruiting climbers.</p>
 	<p>This plant is part of the Cucurbita or Melon family, which includes other popular edible fruits like Bitter Gourd, Pumpkin, and Cucumber.</p>
 	<br>
 </section>
 
 <section>
 	<h4>Environmental needs:</h4>
-	<p>This vine does best in full sun gardens with a minimum of 6 hours of direct sunlight. This plant can also grow with 4-5 hours of direct sunlight and at least 6 hours of indirect sunlight, but will produce less fruits.</p>
+	<p>This vine does best in full sun gardens with a minimum of <a href="/page-index/horticulture-techniques/gauging-light/">6 hours of direct sunlight</a>. This plant can also grow with 4-5 hours of direct sunlight and at least 6 hours of indirect sunlight, but will produce less fruits.</p>
 	<p>Plants do best in moist, well-drained soil at least 30cm deep, or in true ground.</p>
 	<p>This vine is vulnerable to heat stress during the dry season. Water it regularly and mulch the base to prevent water loss.</p>
 	<p>As a fast-growing vine, this plant can be grown on the ground or trained up a sturdy trellis. The fruits can get quite heavy if they are hanging off a trellis and can be supported with a cradle to prevent damage to the rest of the plant.</p>
