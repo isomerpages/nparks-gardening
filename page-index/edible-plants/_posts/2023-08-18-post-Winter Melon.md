@@ -44,7 +44,7 @@ image: ""
 
 <section>
 	<h4>Growing:</h4>
-	<p>Winter Melons will produce more flowers and thus more fruit when fed with fertilisers high in Phosphorus and Potassium. Plants can be fertilised regularly a month after germination for a fuller crop.</p>
+	<p>Winter Melons will produce more <a href="/learn-more-about-gardening/glossary/#flower">flowers</a> and thus more fruit when fed with fertilisers high in Phosphorus and Potassium. Plants can be fertilised regularly a month after germination for a fuller crop.</p>
 	<p>Because the vines will grow on top of each other, it is a good practice to prune regularly and remove dead leaves and vines to improve ventilation and allow light to reach more of the plant.</p>
 	<p>Direct sunlight can damage the fruit. Allow leaves to grow over the fruit or protect it using a cloth cover.</p>
 	<br>
