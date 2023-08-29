@@ -93,8 +93,8 @@ image: ""
 
 <section>
 	<h4>Common problems &amp; solutions:</h4>
-		<p>Caterpillars, usually from the Diamondback moth and Tussock moth, can rapidly eat all the leaves of your plant. If your plant has lots of large holes and small brown or black poo pellets scattered around damaged leaves, you likely have a caterpillar infestation. Manually remove the caterpillars by hand and protect your plants with netting.</p>
-		<p>Leaf miners are fly larvae that eat the leaves from the inside, leaving white lines or patches in their wake. Manually remove damaged leaves and use fine mesh netting to stop the adult flies from laying eggs on the plant again.</p>
+		<p><a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/pests/caterpillars/">Caterpillars</a>, usually from the Diamondback moth and Tussock moth, can rapidly eat all the leaves of your plant. If your plant has lots of large holes and small brown or black poo pellets scattered around damaged leaves, you likely have a caterpillar infestation. Manually remove the caterpillars by hand and protect your plants with netting.</p>
+		<p><a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/pests/leaf-miner/">Leaf miners</a> are fly larvae that eat the leaves from the inside, leaving white lines or patches in their wake. Manually remove damaged leaves and use fine mesh netting to stop the adult flies from laying eggs on the plant again.</p>
 		<p>Etiolation is characterised by plants growing long and skinny, with weak stems and small leaves. The plants may also sometimes look yellowish. Plants etiolate when they do not get enough sunlight, which results in slow growth and untidy forms. To prevent this, grow plants in environments with enough light for them and make sure that each plant has enough space to prevent overcrowding.</p>
 	<br>
 </section>
