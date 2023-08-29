@@ -17,7 +17,7 @@ image: ""
 
 <section>
 	<p>Watermelons are popular fruits typically eaten raw, but they are also added to juices and desserts. There are many cultivars with flesh ranging from classic red to yellow and can grow to a variety of sizes.</p>
-	<p>An annual crop, these plants are often grown in rotation with other fruiting climbers.</p>
+	<p>An <a href="/learn-more-about-gardening/glossary/#a/">annual</a> crop, these plants are often grown in rotation with other fruiting climbers.</p>
 	<p>This plant is part of the Cucurbita or Melon family, which includes other popular edible fruits like Bitter Gourd, Winter melon, and Pumpkin.</p>
 	<br>
 </section>
