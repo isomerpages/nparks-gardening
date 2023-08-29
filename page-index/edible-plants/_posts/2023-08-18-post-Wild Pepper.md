@@ -17,13 +17,13 @@ image: ""
 
 <section>
 	<p>Wild pepper is a common herb grown both for consumption in edible gardens but also as an ornamental plant as part of landscaping in shady urban areas. Wild pepper leaves have a peppery taste, and it is typically cooked raw with rice or meat. This plant is also native to Singapore and is naturally found growing in the understory of forests.</p>
-	<p>This plant is a perennial crop that is easy to propagate, making it a popular choice for herb borders, perimeter planting, and low maintenance beds. It can also be used as an edible mulch to suppress weeds and keep the soil cool as part of companion planting.</p>
+	<p>This plant is a <a href="/learn-more-about-gardening/glossary/#p/">perennial crop</a> that is easy to propagate, making it a popular choice for herb borders, perimeter planting, and low maintenance beds. It can also be used as an edible mulch to suppress weeds and keep the soil cool as part of companion planting.</p>
 	<br>
 </section>
 
 <section>
 	<h4>Environmental needs:</h4>
-	<p>This plant thrives in 4-6 hours of indirect sunlight, but can also grow in 2-4 hours of direct sunlight. Plants do best in moist, well-drained soil at least 10cm deep, making them suitable for container gardening and corridor gardening. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe.</p>
+	<p>This plant thrives in <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/gauging-light/">4-6 hours of indirect sunlight</a>, but can also grow in 2-4 hours of direct sunlight. Plants do best in moist, well-drained soil at least 10cm deep, making them suitable for container gardening and corridor gardening. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe.</p>
 	<br>
 </section>
 
