@@ -23,7 +23,7 @@ image: ""
 
 <section>
 	<h4>Earthworms</h4>
-	<img src="![](/images/Biodiversity/Earthworm_JacChua.jpg)">
+	<img title="Photo by Jacqueline Chua." src="/images/Biodiversity/Earthworm_JacChua.jpg">
 	<p>Often found in burrowing in true ground soils, earthworms are key to keeping soil porous, fertile and well-mixed with organic matter. Earthworms eat decaying organic matter like leaf litter and dead roots, and their waste product, knows as worm- or vermicast, have nutrients that plants readily absorb. The tunnels they dig also creates drainage and aeration in the soil, with the earthworms creating and dropping vermicast along the way.</p>
 	<p>Earthworms will naturally appear in true ground beds as more plants and organic matter is introduced. Keeping the soil cool with organic mulches, regularly watering your plants and resolving waterlogging will encourage earthworms to settle in your garden.</p>
 	<p>Do note that earthworms used for vermicomposting are different from worms found naturally in true ground. Vermicomposting earthworms are adapted to living in pure compost and may not survive in Singapore’s naturally clayey soil. Likewise, wild earthworms from your garden are unlikely to survive living in your vermicomposting setup!</p>
@@ -40,12 +40,10 @@ image: ""
 
 <section>
 	<h4>Millipedes</h4>
+
 	<p>These many-legged creatures are often found in parks and gardens that use mulch and compost with a lot of woody material. They are harmless, but they can produce an unpleasant smell if startled.</p>
 	<p>Another decomposer, millipedes eat decaying wood and leaf litter. Their eggs can sometimes be brought into a garden via unheated compost or in woody mulch, and adults generally appear during the wet season.</p>
 	<p>Millipedes are generally not considered a pest, although their waste products can cause burns on young leafy vegetables if they are present in a garden in high numbers. Millipedes can be removed by hand, and their population controlled by using less woody material in the garden.</p>
 	<p>Download a Research Technical Note on Millipedes in Singapore <a href="https://www.nparks.gov.sg/-/media/cuge/pdf/rtn-11-2012---urban-millipedes-in-singapore.ashx">here</a>.</p>
-
-
-
-
+	<br>
 </section>
