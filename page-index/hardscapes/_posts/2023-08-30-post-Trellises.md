@@ -68,4 +68,16 @@ image: ""
 			</tr>
 		</tbody>
 	</table>
+	<br>
+</section>
+
+<section>
+	<h4>Trellis Shapes</h4>
+	<ul>
+		<li>Arch Trellis</li>
+		<li>Teepee Trellis</li>
+		<li>Square Trellis</li>
+		<li>Fence Trellis</li>
+	</ul>
+	<br>
 </section>
