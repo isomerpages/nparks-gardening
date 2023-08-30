@@ -27,7 +27,7 @@ image: ""
 	<p>Often found in burrowing in true ground soils, earthworms are key to keeping soil porous, fertile and well-mixed with organic matter. Earthworms eat decaying organic matter like leaf litter and dead roots, and their waste product, knows as worm- or vermicast, have nutrients that plants readily absorb. The tunnels they dig also creates drainage and aeration in the soil, with the earthworms creating and dropping vermicast along the way.</p>
 	<p>Earthworms will naturally appear in true ground beds as more plants and organic matter is introduced. Keeping the soil cool with organic mulches, regularly watering your plants and resolving waterlogging will encourage earthworms to settle in your garden.</p>
 	<p>Do note that earthworms used for vermicomposting are different from worms found naturally in true ground. Vermicomposting earthworms are adapted to living in pure compost and may not survive in Singapore’s naturally clayey soil. Likewise, wild earthworms from your garden are unlikely to survive living in your vermicomposting setup!</p>
-	<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/stVtUD6rcWk?si=MAgFIZPDpfFI-p5p" height="315" width="560"></iframe><br>
+	<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/stVtUD6rcWk?si=MAgFIZPDpfFI-p5p" height="415" width="100%"></iframe><br>
 	<br>
 </section>
 
