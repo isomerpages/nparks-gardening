@@ -36,6 +36,7 @@ image: ""
 
 <section>
 	<h3>Birds</h3>
+	<img title="Photo by Victoria Lim." src="/images/Biodiversity/OliveBackedSunbird_VictoriaLim.jpg">
 	<p>Nectivorous or nectar-loving birds like sunbirds and flowerpeckers are also pollinators as they readily visit flowers to drink nectar. Like butterflies, these birds love long tubular flowers like Torch Gingers, Lipstick Plants and Turk’s Turbans that produce lots of nectar. These colourful birds are often feeding and displaying in the morning while calling, making them an engaging visitor to any garden. Sunbirds are commonly found nesting in gardens, including those along corridors!</p>
 	<p>Join a citizen science survey of garden birds here.</p>
 	<br>
