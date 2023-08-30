@@ -7,6 +7,7 @@ description: ""
 image: ""
 ---
 <section>
+	<img src="/images/Hardscapes/Trellis%20(10).jpg">
 	<p>Trellises are support structures made of metal, wood or plastic, that are used as support for climbing plants. Plants such as Butterfly Peas, Bitter gourd and Long Beans have weak stems and tendrils that naturally twirl and climb around nearby structures, making a trellis an important hardscape for growing these plants. These trellises, depending on the size, should be stabilised properly with deep-set poles or weights such as concrete footing and embedded into the ground to keep them safe and upright.</p>
 	<br>
 </section>
