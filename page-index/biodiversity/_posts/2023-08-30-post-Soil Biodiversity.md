@@ -40,7 +40,6 @@ image: ""
 
 <section>
 	<h4>Millipedes</h4>
-
 	<p>These many-legged creatures are often found in parks and gardens that use mulch and compost with a lot of woody material. They are harmless, but they can produce an unpleasant smell if startled.</p>
 	<p>Another decomposer, millipedes eat decaying wood and leaf litter. Their eggs can sometimes be brought into a garden via unheated compost or in woody mulch, and adults generally appear during the wet season.</p>
 	<p>Millipedes are generally not considered a pest, although their waste products can cause burns on young leafy vegetables if they are present in a garden in high numbers. Millipedes can be removed by hand, and their population controlled by using less woody material in the garden.</p>
