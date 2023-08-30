@@ -8,51 +8,51 @@ Click on an alphabet to learn more about different horticulture techniques!
 <table>
 	<tbody>
 		<tr>
-		<td style="width:0; border-bottom:0px"><a href="#a">a</a></td>
-		<td style="width:0; border-bottom:0px"><a href="#b">b</a></td>
-		<td style="width:0; border-bottom:0px"><a href="#c">c</a></td>
-		<td style="width:0; border-bottom:0px"><a href="#d">d</a></td>
-		<td style="width:0; border-bottom:0px"><a href="#e">e</a></td>
-		<td style="width:0; border-bottom:0px"><a href="#f">f</a></td>
-		<td style="width:0; border-bottom:0px"><a href="#g">g</a></td>
-		<td style="width:0; border-bottom:0px"><a href="#h">h</a></td>
-		<td style="width:0; border-bottom:0px"><a href="#i">i</a></td>
-		<td style="width:0; border-bottom:0px"><a href="#j">j</a></td>
-		<td style="width:0; border-bottom:0px"><a href="#k">k</a></td>
-		<td style="width:0; border-bottom:0px"><a href="#l">l</a></td>
-		<td style="border-bottom:0px"><a href="#m">m</a></td>
+		<td style="width:0; border-bottom:0px"><a href="#a">A</a></td>
+		<td style="width:0; border-bottom:0px"><a href="#b">B</a></td>
+		<td style="width:0; border-bottom:0px"><a href="#c">C</a></td>
+		<td style="width:0; border-bottom:0px"><a href="#d">D</a></td>
+		<td style="width:0; border-bottom:0px"><a href="#e">E</a></td>
+		<td style="width:0; border-bottom:0px"><a href="#f">F</a></td>
+		<td style="width:0; border-bottom:0px"><a href="#g">G</a></td>
+		<td style="width:0; border-bottom:0px"><a href="#h">H</a></td>
+		<td style="width:0; border-bottom:0px"><a href="#i">I</a></td>
+		<td style="width:0; border-bottom:0px"><a href="#j">J</a></td>
+		<td style="width:0; border-bottom:0px"><a href="#k">K</a></td>
+		<td style="width:0; border-bottom:0px"><a href="#l">L</a></td>
+		<td style="border-bottom:0px"><a href="#m">M</a></td>
 	</tr>
 		<tr>
-		<td style="width:0; border-bottom:0px"><a href="#n">n</a></td>
-		<td style="width:0; border-bottom:0px"><a href="#o">o</a></td>
-		<td style="width:0; border-bottom:0px"><a href="#p">p</a></td>
-		<td style="width:0; border-bottom:0px"><a href="#q">q</a></td>
-		<td style="width:0; border-bottom:0px"><a href="#r">r</a></td>
-		<td style="width:0; border-bottom:0px"><a href="#s">s</a></td>
-		<td style="width:0; border-bottom:0px"><a href="#t">t</a></td>
-		<td style="width:0; border-bottom:0px"><a href="#u">u</a></td>
-		<td style="width:0; border-bottom:0px"><a href="#v">v</a></td>
-		<td style="width:0; border-bottom:0px"><a href="#w">w</a></td>
-		<td style="width:0; border-bottom:0px"><a href="#x">x</a></td>
-		<td style="width:0; border-bottom:0px"><a href="#y">y</a></td>
-		<td style="border-bottom:0px"><a href="#z">z</a></td>
+		<td style="width:0; border-bottom:0px"><a href="#n">N</a></td>
+		<td style="width:0; border-bottom:0px"><a href="#o">O</a></td>
+		<td style="width:0; border-bottom:0px"><a href="#p">P</a></td>
+		<td style="width:0; border-bottom:0px"><a href="#q">Q</a></td>
+		<td style="width:0; border-bottom:0px"><a href="#r">R</a></td>
+		<td style="width:0; border-bottom:0px"><a href="#s">S</a></td>
+		<td style="width:0; border-bottom:0px"><a href="#t">T</a></td>
+		<td style="width:0; border-bottom:0px"><a href="#u">U</a></td>
+		<td style="width:0; border-bottom:0px"><a href="#v">V</a></td>
+		<td style="width:0; border-bottom:0px"><a href="#w">W</a></td>
+		<td style="width:0; border-bottom:0px"><a href="#x">X</a></td>
+		<td style="width:0; border-bottom:0px"><a href="#y">Y</a></td>
+		<td style="border-bottom:0px"><a href="#z">Z</a></td>
 	</tr>
 </tbody></table>
 <br>
 
 <section>
-<h4 id="a">a</h4>
+<h4 id="a">A</h4>
 	<br><br>
 </section>
 
 <section>
-<h4 id="b">b</h4>
+<h4 id="b">B</h4>
 	<a href="/page-index/horticulture-techniques/bottom-watering/">Bottom watering</a><br>
 	 <br><br>
 </section>
 
 <section>
-<h4 id="c">c</h4>
+<h4 id="c">C</h4>
 <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/choosingplants/">Choosing plants</a>
 	<br>
 	<a href="/page-index/horticulture-techniques/cloches/">Cloche</a>
@@ -66,24 +66,24 @@ Click on an alphabet to learn more about different horticulture techniques!
 </section>
 
 <section>
-<h4 id="d">d</h4>
+<h4 id="d">D</h4>
 	<br><br>
 </section>
 
 <section>
-<h4 id="e">e</h4>
+<h4 id="e">E</h4>
 	<br><br>
 </section>
 
 <section>
-<h4 id="f">f</h4>
+<h4 id="f">F</h4>
 	<a href="/page-index/horticulture-techniques/fertilising/">Fertilising</a><br>
 	<a href="/page-index/horticulture-techniques/finding-pests/">Finding pests</a><br>
 	<br><br>
 </section>
 
 <section>
-<h4 id="g">g</h4>
+<h4 id="g">G</h4>
 <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/gauging-light/">Gauging light</a><br>
 <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/growlights">Grow lights</a><br>
 	<a href="/page-index/horticulture-techniques/harvesting-hygiene/">Growing edibles for consumption</a><br>
@@ -91,50 +91,50 @@ Click on an alphabet to learn more about different horticulture techniques!
 </section>
 
 <section>
-<h4 id="h">h</h4>
+<h4 id="h">H</h4>
 <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/pruning">Hard pruning</a><br>
 	<br><br>
 </section>
 
 <section>
-<h4 id="i">i</h4>
+<h4 id="i">I</h4>
 	<a href="/page-index/horticulture-techniques/ipm">Integrated pest management</a><br>
 	<br><br>
 </section>
 
 <section>
-<h4 id="j">j</h4>
+<h4 id="j">J</h4>
 	<br><br>
 	</section>
 
 <section>
-<h4 id="k">k</h4>
+<h4 id="k">K</h4>
 <br><br>
 </section>
 
 <section>
-<h4 id="l">l</h4>
+<h4 id="l">L</h4>
 Low maintenance beds<br>
 <br><br>
 </section>
 
 <section>
-<h4 id="m">m</h4>
+<h4 id="m">M</h4>
 	<br><br>
 </section>
 
 <section>
-<h4 id="n">n</h4>
+<h4 id="n">N</h4>
 <br><br>
 	</section>
 	
 <section>
-<h4 id="o">o</h4>
+<h4 id="o">O</h4>
 <br><br>
 </section>
 
 <section>
-<h4 id="p">p</h4>
+<h4 id="p">P</h4>
 	<a href="/page-index/horticulture-techniques/pest-control/">Pest control</a><br>
 Plant pathogens<br>
 Planting in containers<br>
@@ -146,17 +146,17 @@ Planting in containers<br>
 </section>
 
 <section>
-<h4 id="q">q</h4>
+<h4 id="q">Q</h4>
 <br><br>
 	</section>
 	
 <section>
-<h4 id="r">r</h4>
+<h4 id="r">R</h4>
 	<br><br>
 </section>
 
 <section>
-<h4 id="s">s</h4>
+<h4 id="s">S</h4>
 	<a href="/page-index/horticulture-techniques/soil/">Soil</a><br>
 	<a href="/page-index/horticulture-techniques/soil-amendments/">Soil amendments</a><br>
 	<a href="/page-index/horticulture-techniques/plant-spacing/">Spacing</a><br>
@@ -164,39 +164,39 @@ Planting in containers<br>
 </section>
 
 <section>
-<h4 id="t">t</h4>
+<h4 id="t">T</h4>
 	<br><br>
 </section>
 
 <section>
-<h4 id="u">u</h4>
+<h4 id="u">U</h4>
 	<br><br>
 	</section>
 
 <section>
-<h4 id="v">v</h4>
+<h4 id="v">V</h4>
 	<br><br>
 	</section>
 	
 <section>
-<h4 id="w">w</h4>
+<h4 id="w">W</h4>
 	<a href="/page-index/horticulture-techniques/watering/">Watering</a><br>
 	<a href="/page-index/horticulture-techniques/weeding/">Weeding</a><br>
 	<br><br>
 	</section>
 
 <section>
-<h4 id="x">x</h4>
+<h4 id="x">X</h4>
 	<br><br>
 	</section>
 	
 <section>
-<h4 id="y">y</h4>
+<h4 id="y">Y</h4>
 	<br><br>
 	</section>
 	
 <section>
-<h4 id="z">z</h4>
+<h4 id="z">Z</h4>
 	<br><br>
 	</section>
 	
