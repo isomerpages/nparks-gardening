@@ -34,12 +34,14 @@ image: ""
 
 <section>
 	<h4>Dragonflies</h4>
+	<img title="Photo by Jacqueline Chua." src="/images/Biodiversity/Dragonfly_JacChua.jpg">
 	<p>Dragonflies are dazzlingly fast predators that feed on a wide variety of insects, including common garden pests like grasshoppers, fruit flies, and beetles. They are usually found near freshwater bodies like ponds and rivers as their larvae are aquatic. Their larvae are also predators that eat a wide range of prey, most notably mosquito larvae.</p>
 	<br>
 </section>
 
 <section>
 	<h4>Birds</h4>
+	<img title="Photo by Jacqueline Chua." src="/images/Biodiversity/bird_pinkneckgreenpigeon_jacchua.jpg">
 	<p>Birds are naturally drawn to green spaces, and are a common sight in most gardens regardless of the type. Some common species like Kingfishers, Oriental Magpie-robins, and Black-Naped Orioles will prey on larger garden pests like grasshoppers, caterpillars, and beetles.</p>
 	<br>
 </section>
