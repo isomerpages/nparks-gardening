@@ -18,24 +18,24 @@ image: ""
 	<table>
 		<thead>
 			<tr>
-				<th style="border-bottom:0px; border-right:solid 1px;">Material</th>
-				<th style="border-bottom:0px; border-right:solid 1px;">Notes</th>
-				<th style="border-bottom:0px; border-left:solid 1px;">Longevity</th>
+				<th style="border-right:solid 1px;">Material</th>
+				<th style="border-right:solid 1px;">Notes</th>
+				<th style="border-left:solid 1px;">Longevity</th>
 			</tr>
 		</thead>
 		<tbody>
 			<tr>
-				<td style="border-bottom:0px; border-right:solid 1px;">Plastic</td>
-				<td style="border-bottom:0px; border-right:solid 1px;">
+				<td style="border-right:solid 1px;">Plastic</td>
+				<td style="border-right:solid 1px;">
 				<ul>
 					<li>Flexible, light and easily modifiable</li>
 					<li>Can last for a long time, but will eventually break down due to sun exposure making it brittle</li>
 				</ul></td>
-				<td style="border-bottom:0px; border-left:solid 1px;">1-10 years</td>
+				<td style="border-left:solid 1px;">1-10 years</td>
 			</tr>
 			<tr>
-				<td style="border-bottom:0px; border-right:solid 1px;">Metal</td>
-				<td style="border-bottom:0px; border-right:solid 1px;">
+				<td style="border-right:solid 1px;">Metal</td>
+				<td style="border-right:solid 1px;">
 					<ul>
 						<li>Heavy but resilient, strong and modifiable</li>
 						<li>Can last for a long time but will rust eventually due to exposure to rain. Rusting can be prevented with the application of plaint, glaze and other materials</li>
@@ -45,27 +45,27 @@ image: ""
 							</ul>
 					</ul>
 				</td>
-				<td style="border-bottom:0px; border-left:solid 1px;">3-10 years</td>
+				<td style="border-left:solid 1px;">3-10 years</td>
 			</tr>
 			<tr>
-				<td style="border-bottom:0px; border-right:solid 1px;">Wood</td>
-				<td style="border-bottom:0px; border-right:solid 1px;">
+				<td style="border-right:solid 1px;">Wood</td>
+				<td style="border-right:solid 1px;">
 				<ul>
 					<li>Flexible, light and easily modifiable</li>
 					<li>Biodegradable</li>
 					<li>Only lasts for about 3-5 years, even when coated with resin and other materials</li>
 				</ul></td>
-				<td style="border-bottom:0px; border-left:solid 1px;">3-5 years</td>
+				<td style="border-left:solid 1px;">3-5 years</td>
 			</tr>
 			<tr>
-				<td style="border-bottom:0px; border-right:solid 1px;">Bamboo</td>
-				<td style="border-bottom:0px; border-right:solid 1px;">
+				<td style="border-right:solid 1px;">Bamboo</td>
+				<td style="border-right:solid 1px;">
 				<ul>
 					<li>Flexible, light and easily modifiable</li>
 					<li>Biodegradable</li>
 					<li>If sealed and stained, bamboo can last several years</li>
 				</ul></td>
-				<td style="border-bottom:0px; border-left:solid 1px;">1 year without sealing</td>
+				<td style="border-left:solid 1px;">1 year without sealing</td>
 			</tr>
 		</tbody>
 	</table>
