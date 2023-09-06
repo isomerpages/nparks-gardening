@@ -13,5 +13,8 @@ links:
         url: /learn-more-about-gardening/plant-problems/pests/
       - title: Submenu Title
         url: /permalink
+  - title: Garden Management
+    url: /permalink
+    sublinks: []
   - title: Index
     url: /page-index/
