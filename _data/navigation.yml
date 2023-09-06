@@ -17,6 +17,12 @@ links:
         url: /permalink
   - title: Garden Management
     url: /permalink
-    sublinks: []
+    sublinks:
+      - title: Housekeeping
+        url: /permalink
+      - title: Managing your garden group
+        url: /permalink
+      - title: Organise garden activities
+        url: /permalink
   - title: Index
     url: /page-index/
