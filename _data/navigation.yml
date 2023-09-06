@@ -11,20 +11,7 @@ links:
         url: /learn-more-about-gardening/horticulture-techniques
       - title: Plant Problems
         url: /learn-more-about-gardening/plant-problems/pests/
-  - title: Plants
-    url: /learn-more-about-gardening/plants/biodiversityattractingplants
-    sublinks: []
-  - title: Horticulture Techniques
-    url: /permalink
-    sublinks: []
-  - title: Plant Problems
-    url: /permalink
-    sublinks: []
-  - title: Garden Biodiversity
-    url: /permalink
-  - title: Garden Designs
-    url: /permalink
-    sublinks: []
+      - title: Submenu Title
+        url: /permalink
   - title: Index
-    url: /permalink
-    sublinks: []
+    url: /page-index/
