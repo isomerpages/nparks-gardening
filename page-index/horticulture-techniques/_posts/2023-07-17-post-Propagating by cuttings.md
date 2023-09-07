@@ -29,12 +29,12 @@ image: ""
 	<p>Plants are ready to be transplanted to soil once the roots are at least 5-10cm long.</p>
 	<p>Plants that can be rooted in water include:</p>
 	<ul>
-		<li>Devil's Ivy (<em>Epipremnum aureum</em>)</li>
-		<li>Kang Kong (<em>Ipomoea aquatica</em>)</li>
-		<li>Laksa (<em>Persicaria ordorata</em>)</li>
-		<li>Spearmint (<em>Mentha spicata</em>)</li>
-		<li>Sweet Potato (<em>Ipomoea batatas</em>)</li>
-		<li>Thai Basil (<em>Ocimum basilicum</em>)</li>
+		<li><a href="/page-index/ornamental-plants/devils-ivy/">Devil's Ivy</a> (<em>Epipremnum aureum</em>)</li>
+		<li><a href="/page-index/edible-plants/kang-kong/">Kang Kong</a> (<em>Ipomoea aquatica</em>)</li>
+		<li><a href="/page-index/edible-plants/laksa/">Laksa</a> (<em>Persicaria ordorata</em>)</li>
+		<li><a href="/page-index/edible-plants/spearmint/">Spearmint</a> (<em>Mentha spicata</em>)</li>
+		<li><a href="/page-index/edible-plants/sweet-potato/">Sweet Potato</a> (<em>Ipomoea batatas</em>)</li>
+		<li><a href="/page-index/edible-plants/thai-basil/">Thai Basil</a> (<em>Ocimum basilicum</em>)</li>
 	</ul>
 	<img src="/images/Hardscapes/ContainerGardening_JacChua%20(16).jpg">
 	<p><b>Rooting in a rooting medium</b> is generally done in pots as water needs to drain away to prevent the cutting from rotting. Rooting mediums include cocopeat, pumice, sand, and perlite, which are soil amendments with no nutrients. Soil amendments are generally sterile and very well-draining, which reduces the chance of a cutting rotting greatly. However, the rooted cutting will need to be transferred to soil eventually to grow properly.</p>
