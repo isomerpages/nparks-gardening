@@ -24,7 +24,7 @@ image: ""
 	<h4>Direct Sowing of seeds</h4>
 	<img title="Seeds being sown in a furrow directly in true ground." src="">
 	<p>Furrows or planting holes can be made for direct seed sowing with specialized tools, a spade handle, or even chopsticks. Fill the bottom of the furrow or hole halfway with compost or seed starting mix, add your seeds, and cover them again with the compost or seed starting mix. Take care not to over-bury your seeds; most small seeds like those of Bayam or Tomatoes just need to be covered by about 0.5-1cm of soil, while larger seeds like those of Cucumbers and Kang Kong can be buried by 1-2cm of soil.</p>
-	<p>Water the seeds lightly after direct sowing and observe your newly sown seeds regularly. Young plants tend to be targeted by pests like slugs, snails, rodents or birds, and can be protected with a DIY cloche or netting.</p>
+	<p>Water the seeds lightly after direct sowing and observe your newly sown seeds regularly. Young plants tend to be targeted by pests like slugs, snails, rodents or birds, and can be protected with a <a href="/page-index/horticulture-techniques/cloches/">DIY cloche</a> or netting.</p>
 	<br>
 </section>
 
