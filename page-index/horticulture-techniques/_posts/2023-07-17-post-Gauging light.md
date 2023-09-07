@@ -34,25 +34,25 @@ image: ""
 		<thead>
 			<tr>
 				<th></th>
-				<th>Hours of direct sunlight</th>
-				<th>Hours of indirect sunlight or dappled shade</th>
+				<th style="text-align:center">Hours of direct sunlight</th>
+				<th style="text-align:center">Hours of indirect sunlight or dappled shade</th>
 			</tr>
 		</thead>
 		<tbody>
 			<tr>
-				<th style="background-color:#FFE83B">Full sun</th>
-				 <td>4, minimum</td>
-				 <td>6, minimum</td>
+				<th style="background-color:#FFE83B; text-align:center">Full sun</th>
+				 <td style="text-align:center">4, minimum</td>
+				 <td style="text-align:center">6, minimum</td>
 			</tr>
 			<tr>
-				<th style="background-color:#D0B700">Partial shade</th>
-				<td>2-4</td>
-				<td>4-6</td>
+				<th style="background-color:#D0B700; text-align:center">Partial shade</th>
+				<td style="text-align:center">2-4</td>
+				<td style="text-align:center">4-6</td>
 			</tr>
 			<tr>
-				<th style="background-color:#746600; color:white">Full shade</th>
-				<td>Less than 2</td>
-				<td>Less than 4</td>
+				<th style="background-color:#746600; color:white; text-align:center">Full shade</th>
+				<td style="text-align:center">Less than 2</td>
+				<td style="text-align:center">Less than 4</td>
 			</tr>
 		</tbody>
 	</table>
