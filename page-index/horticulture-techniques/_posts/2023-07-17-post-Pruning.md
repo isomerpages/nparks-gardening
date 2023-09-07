@@ -19,7 +19,7 @@ image: ""
 	<p>Hard pruning is where large proportion of the main stems are pruned off, usually to rejuvenate the plant by encouraging new growth of healthier and more vigorous stems. This method of pruning is not suitable for all types of plants. It works best on multi-stemmed, woody shrubs and trees, or plants with very rapid growth. </p>  
 	<p>Some plants that benefit from regular hard pruning are:</p>
 	<ul>
-		<li>Curry Leaf Plant (<em>Murraya koenigii</em>)</li>
+		<li><a href="/page-index/edible-plants/curry-leaf-plant">Curry Leaf Plant</a> (<em>Murraya koenigii</em>)</li>
 		<li>Spearmint (<em>Mentha spicata</em>)</li>
 		<li>Laksa (<em>Persicaria ordorata</em>)</li>
 		<li>Sissoo Spinach (<em>Alternanthera sissoo</em>)</li>
