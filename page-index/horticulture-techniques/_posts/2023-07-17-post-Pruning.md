@@ -20,12 +20,12 @@ image: ""
 	<p>Some plants that benefit from regular hard pruning are:</p>
 	<ul>
 		<li><a href="/page-index/edible-plants/curry-leaf-plant">Curry Leaf Plant</a> (<em>Murraya koenigii</em>)</li>
-		<li>Spearmint (<em>Mentha spicata</em>)</li>
-		<li>Laksa (<em>Persicaria ordorata</em>)</li>
-		<li>Sissoo Spinach (<em>Alternanthera sissoo</em>)</li>
-		<li>White Mulberry (<em>Morus alba</em>)</li>
-		<li>Red Leea (<em>Leea rubra</em>)</li>
-		<li>Brazilian Tea (<em>Stachytarpheta jamaicensis</em>)</li>
+		<li><a href="/page-index/edible-plants/spearmint/">Spearmint</a> (<em>Mentha spicata</em>)</li>
+		<li><a href="/plant-index/edible-plants/laksa/">Laksa</a> (<em>Persicaria ordorata</em>)</li>
+		<li><a href="/page-index/edible-plants/sissoo-spinach">Sissoo Spinach</a> (<em>Alternanthera sissoo</em>)</li>
+		<li><a href="page-index/edible-plants/white-mulberry">White Mulberry</a> (<em>Morus alba</em>)</li>
+		<li><a href="/page-index/ornamental-plants/red-leea/">Red Leea</a> (<em>Leea rubra</em>)</li>
+		<li><a href="/page-index/ornamental-plants/brazilian-tea/">Brazilian Tea</a> (<em>Stachytarpheta jamaicensis</em>)</li>
 	</ul>
 	<br>
 </section>
