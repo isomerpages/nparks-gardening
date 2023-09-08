@@ -43,12 +43,12 @@ image: ""
 	<p>Plants with very woody stems will take longer to root. This process can be sped up with the use of rooting hormone, which is a powder applied to the end of cut stems. The hormone stimulates exposed cells in the cut to grow quickly into roots. Plants that do well with rooting hormone are indicated with a * in the list below.</p>
 	<p>Plants that can be rooted in soil or rooting mediums include:</p>
 	<ul> 
-		<li>Curry Leaf Plant* (<em>Murraya koenigii</em>)</li>
-		<li>Malayan Ixora* (<em>Ixora congesta</em>)</li>
-		<li>Okinawan spinach (<em>Gynura bicolor</em>)</li>
-		<li>Pagoda Flower (<em>Clerodendrum paniculatum</em>)</li>
-		<li>Tapioca (<em>Manihot esculenta</em>)</li>
-		<li>White mulberry (<em>Morus alba</em>)</li>
+		<li><a href="/page-index/edible-plants/curry-leaf-plant/">Curry Leaf Plant</a>* (<em>Murraya koenigii</em>)</li>
+		<li><a href="/page-index/ornamental-plants/malayan-ixora/">Malayan Ixora</a>* (<em>Ixora congesta</em>)</li>
+		<li><a href="/page-index/edible-plants/okinawan-spinach/">Okinawan spinach</a> (<em>Gynura bicolor</em>)</li>
+		<li><a href="/page-index/ornamental-plants/pagoda-flower/">Pagoda Flower</a> (<em>Clerodendrum paniculatum</em>)</li>
+		<li><a href="/page-index/edible-plants/tapioca/">Tapioca</a> (<em>Manihot esculenta</em>)</li>
+		<li><a href="/page-index/edible-plants/white-mulberry/">White mulberry</a> (<em>Morus alba</em>)</li>
 	</ul>
 	<br>
 </section>
@@ -59,11 +59,11 @@ image: ""
 	<p>Some plants can even be propagated from leaves! Plants with fleshy leaves are particularly good for leaf propagation, but are very vulnerable to rot. Placing leaves on a bed of well draining soil amendments like pumice, sand, or perlite and misting them once a day will encourage the leaves to develop roots. Once the roots are about 1.5cm long, the cutting can be transferred to well-draining soil to grow into a full plant. </p>
 	<p>Plants that can be rooted from leaves include:</p>
 	<ul> 
-		<li>African Violet (<em>Streptocarpus ionanthus</em>)</li>
-		<li>Flame violet (<em>Episcia cupreata</em>)</li>
-		<li>Mother of Thousands (<em>Kalanchoe daigremontiana</em>)</li>
-		<li>Snake plant (<em>Dracaena trifasciata</em>)</li>
-		<li>White mulberry (<em>Morus alba</em>)</li>
+		<li><a href="/page-index/ornamental-plants/african-violet/">African Violet</a> (<em>Streptocarpus ionanthus</em>)</li>
+		<li><a href="/page-index/ornamental-plants/flame-violet/">Flame violet</a> (<em>Episcia cupreata</em>)</li>
+		<li><a href="/page-index/ornamental-plants/mother-of-thouands/">Mother of Thousands</a> (<em>Kalanchoe daigremontiana</em>)</li>
+		<li><a href="/page-index/ornamental-plants/snake-plant/">Snake plant</a> (<em>Dracaena trifasciata</em>)</li>
+		<li><a href="/page-index/edible-plants/white-mulberry/">White mulberry</a> (<em>Morus alba</em>)</li>
 	</ul>
 	<br>
 </section>
