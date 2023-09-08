@@ -50,12 +50,11 @@ image: ""
 	</ol>
 	<p>This method of sowing seeds is particularly good for the following plants:</p>
 	<ul>
-		<li>Cai Xin (<em>Brassica rapa</em> Caisin Group)</li>
-		<li>Chinese Mustard (<em>Brassica juncea Broad-leaf Mustard</em>)</li>
-		<li>Kale (<em>Brassica oleracea</em> Acephala Group)</li>
-		<li>Lettuce (<em>Lactuca sativa</em>)</li>
-		<li>Kailan (<em>Brassica oleracea</em> Alboglabra Group)</li>
-		<li>Chinese Mustard (<em>Brassica juncea Broad-leaf Mustard</em>)</li>
+		<li><a href="/page-index/edible-plants/cai-xin/">Cai Xin</a> (<em>Brassica rapa</em> Caisin Group)</li>
+		<li><a href="/page-index/edible-plants/chinese-mustard/">Chinese Mustard</a> (<em>Brassica juncea Broad-leaf Mustard</em>)</li>
+		<li><a href="/page-index/edible-plants/kale/">Kale</a> (<em>Brassica oleracea</em> Acephala Group)</li>
+		<li><a href="/page-index/edible-plants/lettuce/">Lettuce</a> (<em>Lactuca sativa</em>)</li>
+		<li><a href="/page-index/edible-plants/kai-lan/">Kai Lan</a> (<em>Brassica oleracea</em> Alboglabra Group)</li>
 	</ul>
 	<br>
 </section>
@@ -78,10 +77,10 @@ image: ""
 	</ol>
 	<p>This method of sowing seeds is particularly good for the following plants:</p>
 	<ul>
-		<li>Bayam (<em>Amaranthus tricolor</em>)</li>
-		<li>Kang Kong (<em>Ipomoea aquatica</em>)</li>
-		<li>Cucumber(<em>Cucumis sativus</em>)</li>
-		<li>Sunflower (<em>Helianthus annuus</em>)</li>
+		<li><a href="/page-index/edible-plants/bayam/">Bayam</a> (<em>Amaranthus tricolor</em>)</li>
+		<li><a href="/page-index/edible-plants/kang-kong/">Kang Kong</a> (<em>Ipomoea aquatica</em>)</li>
+		<li><a href="/page-index/edible-plants/cucumber/">Cucumber</a> (<em>Cucumis sativus</em>)</li>
+		<li><a href="/page-index/edible-plants/sunflower/">Sunflower</a> (<em>Helianthus annuus</em>)</li>
 	</ul>
 	<br>
 </section>
