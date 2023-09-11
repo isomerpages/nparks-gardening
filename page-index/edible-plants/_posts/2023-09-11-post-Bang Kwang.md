@@ -24,9 +24,12 @@ image: ""
 
 <section>
 	<h4>Environmental needs:</h4>
-	<p>This tree does best in full sun gardens with a minimum of 6 hours of sunlight. This plant can also grow in areas with at least 6 hours of indirect sunlight, but growth will be slow and the plant will produce less fruits.</p>
-	<p>Plants do best in moist, well-drained soil at least 50cm deep, or in true ground. This tree is highly tolerant of a wide variety of soil types, from sandy to waterlogged.</p>
-	<p>This tree can grow up to 10m high. The tree is best maintained at roughly 2m high for easy maintenance and harvesting.</p>
+	<p>This vine does best in full sun gardens with a minimum of 6 hours of sunlight. It can also grow in areas with at least 6 hours of indirect sunlight, but growth may be slower.</p>
+	<p>Plants do best in moist, well-drained soil at least 30cm deep, or in true ground.</p>
+	<p>This vine is vulnerable to heat stress during the dry season. Water it regularly and mulch the base to prevent water loss.</p>
+	<p>As a fast-growing vine, this plant can be grown on the ground or trained up a sturdy trellis.</p>
+	<iframe width="100%" height="415" src="https://www.youtube.com/embed/SUQGxxAAcNs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
+	<p>As with all members of the bean family, this plant is pollinated by bees. Growing more bee-attracting plants within the garden will encourage pollination.</p>
 	<br>
 </section>
 
