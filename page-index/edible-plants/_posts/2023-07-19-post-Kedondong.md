@@ -15,9 +15,7 @@ image: ""
 	<br>
 </section>
 
-<section>
-	<img title="Photo by Jacqueline Chua." src="">
-	
+<section>	
 <p>Kedondong trees are a common sight in Southeast Asian edible gardens, and produce edible leaves and fruit. The young leaves can be eaten raw in a salad or cooked as a vegetable, while the unripe and ripe fruits are eaten raw, pickled or processed into a juice.</p>
 <p>As a perennial tree, it is a common sight in edible gardens, permaculture gardens, and low maintenance beds. </p>       
 	<br>
@@ -25,10 +23,10 @@ image: ""
 
 <section>
 	<h4>Environmental needs:</h4>
-<p>This tree does best in full sun gardens with a minimum of 6 hours of direct sunlight.</p>
-<p>Plants do best in <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/soil/">loamy soil</a> at least 50cm deep, or in true ground. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe. Keep your plants cool with mulch and plenty of water to encourage growth.</p>
-<p>This tree can grow up to 12m high. The tree is best maintained at roughly 2m high for easy maintenance and harvesting. </p>
-<p>This plant can be grown year-round.</p>
+	<p>This tree does best in full sun gardens with a minimum of 6 hours of direct sunlight.</p>
+	<p>Plants do best in <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/soil/">loamy soil</a> at least 50cm deep, or in true ground. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe. Keep your plants cool with mulch and plenty of water to encourage growth.</p>
+	<p>This tree can grow up to 12m high. The tree is best maintained at roughly 2m high for easy maintenance and harvesting. </p>
+	<p>This plant can be grown year-round.</p>
 	<br>
 	</section>
 
