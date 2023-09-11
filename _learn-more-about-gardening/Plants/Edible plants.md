@@ -183,7 +183,7 @@ Click on an alphabet to find a plant by its common name!
 <h4 id="s">S</h4>
 	<a href="/page-index/edible-plants/sand-ginger/">Sand Ginger</a><br>
 <a href="/page-index/edible-plants/sawtooth-corriander/">Sawtooth Corriander</a><br>
-<a href="/page-index/edible-plants/scarlet-spiral-flag/">Scarlet Spiral Flag</a><br>
+<a href="/page-index/ornamental-plants/scarlet-spiral-flag/">Scarlet Spiral Flag</a><br>
 <a href="/page-index/edible-plants/sissoo-spinach/">Sissoo Spinach</a><br>
 <a href="/page-index/edible-plants/smooth-loofah/">Smooth Loofah</a><br>
 <a href="/page-index/edible-plants/snake-gourd/">Snake Gourd</a><br>
