@@ -35,37 +35,65 @@ image: ""
 
 <section>
 	<h4>Sowing Seeds</h4>
-	<p>Seeds can be sown directly into pots or the ground. Because the plant eventually grows into a tree, it is easier to grow a few seedlings in separate pots before selecting the healthiest one to be grown in true ground.</p>
+	<p>Seeds can be sown directly into pots or the ground around 15-30cm apart. Lightly water the soil until damp, once a day. Seeds should sprout within 10 days.</p>
+	<iframe width="100%" height="415" src="https://www.youtube.com/embed/x7J87wY7U6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
 	<p>The seedlings are generally resilient to most environmental factors but may be vulnerable to being eaten by snails or birds. Protect your young plants with a DIY cloche or netting.</p>
 	<br>
 </section>
 
 <section>
   <h4>Growing:</h4>
-	<p>Guava trees are steady growers but do benefit from being fed high potassium and phosphorus fertilisers to encourage flowering and thus fruiting. Regular pruning to promote airflow will keep the plant healthy and neat.</p>
-	<p>The tree will need to be around 5 years old before it starts producing fruit if grown from seed.</p>
+	<p>Bean plants generally don’t require much fertilising because they are able to fix their own nitrogen.</p>
+	<p>Because the vines will grow on top of each other, it is a good practice to prune regularly and remove dead leaves and vines to improve ventilation and allow light to reach more of the plant.</p>
 	<br>
 </section>
 
 <section>
 	<h4>Harvesting:</h4>
-	<p>Fruits are considered ripe when they are slightly soft to the touch but are not mushy. Ripe fruits will also have a strong, sweet fragrance. Fruits can be harvested unripe then left to ripen off the tree or harvested ripe for immediate consumption.</p>
+	<p>Tubers can be harvested around 5 months after sowing. Take note that once tubers are harvested, the rest of the plant will die.</p>
+	<p>Be aware that the skin of the tuber, leaves, fruits, flowers and stem are highly toxic. Ensure that the tuber has been scraped clean of skin before consumption.</p>
+	<p>Dry, brown pods are mature, and can be used for seeds.</p>
+	<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/FuWK90da0GY" height="415" width="100%"></iframe><br>
 	<br>
 </section>
 
 <section>
+<h4>Harvest cycle:</h4>
+  <table>
+    <thead>
+      <tr>
+        <th style="border-bottom:0px; border-right:solid 1px;">Growing period</th>
+        <th style="border-bottom:0px; border-right:solid 1px;">Sowing to germination</th>
+        <th style="border-bottom:0px; border-right:solid 1px;">Germination to transplanting</th>
+        <th style="border-bottom:0px; border-right:solid 1px;">Transplanting to first harvest</th>
+        <th style="border-bottom:0px; border-left:solid 1px;">Total sowing to first harvest</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <th style="border-right:solid 1px;">Approximate time</th>
+        <td style="border-right:solid 1px;">Less than 2 weeks</td>
+        <td style="border-right:solid 1px;">1 to 2 weeks</td>
+        <td style="border-right:solid 1px;">4-5 months</td>
+        <td style="border-left:solid 1px;">5 to 6 months</td>
+      </tr>
+    </tbody>
+  </table>
+	
+<p>Check out our&nbsp;<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/digital-tools/sowing-planner/">sowing &amp; harvest planner</a>&nbsp;to schedule your growing! </p>
+<br>
+</section>
+
+<section>
 	<h4>Propagation:</h4>
-	<p>This tree is grown via seed, or via woody cuttings with rooting hormone.</p>
+	<p>This vine can be grown via seeds. Seeds can be taken from mature fruit for immediate planting.</p>
 	<br>
 </section>
 
 <section>
 	<h4>Common problems &amp; solutions:</h4>
-	<p>If your plant has little to no flowers, you try fertilising the plant with fertilisers high in Phosphorus and Potassium. These nutrients encourage root and flower growth, which are important for the plant to produce more fruit.</p>
-	<p>Many plants require pollinators to help them fruit. Bees, butterflies, birds and even beetles transport pollen from one flower to another, pollinating your crops and increasing their fruit yield. Attract some pollinators to your garden by growing pollinator-attracting crops, or become a pollinator yourself by hand-pollinating your plants.</p>
 	<p>Aphids, mealy bugs, and spider mites often infest the plant if it is sickly or overgrown. Prune off the infested parts, or apply horticultural oils like neem oil and white summer oil to suffocate the remaining pests. Regularly prune the plant to allow light and air to reach throughout the plant, and check the plant for underlying problems like root rot, lack of sunlight, and nutrient deficiencies.</p>
-	<p>Whiteflies can infest the plant and lay eggs under its leaves. Remove affected plant parts and catch remaining adults with yellow sticky paper or treat them with citrus spray. 
-Fruit flies can lay eggs in the fruit, resulting in larvae damaging the fruit and creating spots on the skin. Wrap your fruit in netting when it starts to develop from a fertilised flower, ideally after all the petals have dropped off.</p>
-	<p>Squirrels, birds and fruit bats may eat unripe or ripe fruit. Wrap your fruit in netting when it starts to develop from a fertilised flower, ideally after all the petals have dropped off.</p>
+	<p>Whiteflies can infest the plant and lay eggs under its leaves. Remove affected plant parts and catch remaining adults with yellow sticky paper or treat them with citrus spray.</p> 
+	<p>Wilting leaves during hot weather is a sign of heat stress. Increase the number of times the plant is watered daily, and apply mulch at the base to prevent water loss.</p>
 	<br>
 </section>
