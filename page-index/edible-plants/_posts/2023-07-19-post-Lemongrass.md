@@ -16,8 +16,6 @@ image: ""
 </section>
 
 <section>
-	<img title="Photo by Jacqueline Chua." src="/images/Plants/Lemongrass_JacChua.jpg">
-	
 <p>Lemongrass is a large aromatic herb that grows in a grass-like clump. Oil is extracted from the stem to flavour drinks, desserts, and soups. The oils are also used as a scent for perfumes, candles, and aromatherapy products. </p>
 <p>Lemongrass is a perennial crop that readily grows in most gardens with full sunlight. Due to its large size, and rapid growth, it is recommended to plant it in true ground. </p>
 <p>Because lemongrass grows so rapidly, its leaves can be harvested to make mulch, or the plant can be used as a groundcover for low maintenance beds. </p>
