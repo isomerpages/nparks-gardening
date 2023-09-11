@@ -52,6 +52,7 @@ image: ""
 	<h4>Harvesting:</h4>
 	<p>Tubers can be harvested around 5 months after sowing. Take note that once tubers are harvested, the rest of the plant will die.</p>
 	<p>Be aware that the skin of the tuber, leaves, fruits, flowers and stem are highly toxic. Ensure that the tuber has been scraped clean of skin before consumption.</p>
+	<img title="Photo by Jacqueline Chua." src="/images/Plants/BangKwang_JacChua.jpg">
 	<p>Dry, brown pods are mature, and can be used for seeds.</p>
 	<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/FuWK90da0GY" height="415" width="100%"></iframe><br>
 	<br>
