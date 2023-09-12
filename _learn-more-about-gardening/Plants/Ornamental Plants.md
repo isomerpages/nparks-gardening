@@ -44,6 +44,7 @@ Click on an alphabet to find a plant by its common name!
 <section>
 <h4 id="a">A</h4>
 <a href="/page-index/ornamental-plants/adap-adap/">Adap-Adap</a><br>
+<a href="/page-index/ornamental-plants/adansons-monstera/">Adanson's Monstera</a><br>
 <a href="/page-index/ornamental-plants/african-violet/">African Violet</a><br>
 <a href="/page-index/ornamental-plants/aloe-vera/">Aloe Vera</a><br>
 	<br><br>
