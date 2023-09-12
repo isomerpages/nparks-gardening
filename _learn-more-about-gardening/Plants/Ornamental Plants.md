@@ -166,7 +166,7 @@ Click on an alphabet to find a plant by its common name!
 <section>
 <h4 id="s">S</h4>
 <a href="/page-index/ornamental-plants/satin-pothos/">Satin Pothos</a><br>
-<a href="/page-index/ornamental-plants/scarlet-spiral-flag /">Scarlet Spiral Flag</a><br>
+<a href="/page-index/ornamental-plants/scarlet-spiral-flag/">Scarlet Spiral Flag</a><br>
 <a href="/page-index/ornamental-plants/singapore-rhododendron/">Singapore Rhododendron</a><br>
 <a href="/page-index/ornamental-plants/snake-plant/">Snake Plant</a><br>
 <a href="/page-index/ornamental-plants/spider-plant/">Spider Plant</a><br>
