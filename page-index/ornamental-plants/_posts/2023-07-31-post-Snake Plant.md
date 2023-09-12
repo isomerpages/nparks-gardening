@@ -15,7 +15,8 @@ image: ""
 	<br> 
 </section> 
  
-<section> 
+<section>
+	<img title="Photo by Zara Chin." src="/images/Plants/snake_plant(4)_zara_chin.jpg">
 	<p>Snake Plants have leathery, succulent leaves that are variegated with green, silver and yellow hues that grow in a rosette. It has white- and cream-coloured flowers that grow on a very long flower stalk.</p>
 	<p>A perennial plant, Snake plants are versatile and can grow indoors, outdoors and even on rooftop gardens due to its ability to tolerate a wide range of environmental conditions. Its attractive, white-yellow variegated leaves provide texture and colours to landscape designs.</p>
 	 <br> 
