@@ -52,7 +52,8 @@ Click on an alphabet to find a plant by its common name!
 <section>
 <h4 id="b">B</h4>
 <a href="/page-index/ornamental-plants/bamboo-orchid/">Bamboo Orchid</a><br>
-<a href="/page-index/ornamental-plants/brazilian-tea/">Brazilian Tea</a><br>
+	<a href="/page-index/ornamental-plants/brazilian-tea/">Brazilian Tea</a><br>
+	<a href="/page-index/ornamental-plants/burros-tail/">Burro's Tail</a>
 	 <br><br>
 </section>
 
