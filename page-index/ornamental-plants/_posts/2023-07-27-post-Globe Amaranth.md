@@ -16,6 +16,7 @@ image: ""
 </section>
 
 <section>
+	<img title="Photo by Flora and Fauna Web." src="/images/Plants/globeamaranth_ffw.jfif">
 	<p>Globe Amaranths produce small, striking white, purple or pink flowers that can be boiled into tea, or preserved to be used in cut flower arrangements. The flowers also attract a variety of bees and butterflies.</p>
 	<p>A small annual shrub, Globe Amaranths are typically grown as part of perimeter planting, or in ornamental gardens, edible gardens, and biodiversity-attracting gardens.</p>
 	<br>
