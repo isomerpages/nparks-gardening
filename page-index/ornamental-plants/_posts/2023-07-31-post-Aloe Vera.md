@@ -15,7 +15,8 @@ image: ""
 	<br> 
 </section> 
  
-<section> 
+<section>
+	<img title="Photo by Flora and Fauna Web." src="/images/Plants/aloevera_ffw.jfif">
 	<p>Aloe Vera is a succulent herb that grows usually up to 0.3 – 0.6m but can be 1.2m tall in the wild. It has long fleshy triangular leaves arranged in a rosette and is drought tolerant. The smooth leaves are light green with white spots and a spiny leaf margin. It has golden yellow flowers that grows in a cluster, forming an inflorescence.</p>
 	<p>A perennial, fleshy herb, Aloe Veras are great plants to grown in containers outdoors. Or in gardens with sandy soil. Historically, Aloe Vera gel has been used for a wide range of skin conditions and was thought to promote wound healing and soothe inflammations. The jelly-like flesh of the leaves is also edible, and often used in beverages and desserts.</p>
 	 <br> 
