@@ -16,6 +16,7 @@ image: ""
 </section>
 
 <section>
+	<img title="Photo by Flora and Fauna Web." src="/images/Plants/limaupurut_ffw.jfif">
 	<p>Limau Purut fruit rinds and leaves are key ingredients in several Southeast Asian dishes, with the most famous being Thai Tom Yum. Unfortunately, the fruit itself is rather dry and produces very little pulp and juice.</p>
 	<p>As a perennial tree, it is a common sight in edible gardens, permaculture gardens, and low maintenance beds.</p>
 	<p>The plant is part of the citrus family, which also includes limes. All citrus plants are host plants for the lime butterfly and can be part of the planting palette for biodiversity-attracting gardens.</p>       
