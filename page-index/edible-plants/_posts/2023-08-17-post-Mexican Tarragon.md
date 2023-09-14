@@ -16,6 +16,7 @@ image: ""
 </section> 
  
 <section>
+	<img title="Photo by Flora and Fauna Web." src="/images/Plants/mexicantarragon_ffw.jfif">
 	<p>Mexican Tarragon is a free-flowering herb that has edible flowers and leaves. Flowers are eaten raw in salads, and leaves are cooked with eggs or fish.</p>
 	<p>A perennial herb, Mexican Tarragon can be used as a perimeter plant or as part of an herb border.</p>
   <br> 
