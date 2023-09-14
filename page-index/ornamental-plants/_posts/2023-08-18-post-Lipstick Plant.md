@@ -16,6 +16,7 @@ image: ""
 </section>
  
 <section>
+	<img title="Photo by Flora and Fauna Web." src="/images/Plants/lipstickplant_ffw.jfif">
 	<p>Lipstick plants are a hardy free-flowering epiphyte that is commonly seen growing on larger trees in rewilding areas, nature parks, in roadside gardens, and biodiversity-attracting gardens. The flowers are highly attractive to butterflies and birds. This plant is also native to Singapore and is naturally found growing along lowland dipterocarp forests and peat swamp forests.</p>
 	<p>This perennial plant is suitable for hanging baskets and can be grown as an indoor plant.</p>
 	 <br> 
