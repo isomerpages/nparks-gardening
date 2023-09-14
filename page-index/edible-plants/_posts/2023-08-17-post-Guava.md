@@ -16,6 +16,7 @@ image: ""
 </section>
 
 <section>
+	<img title="Photo by Flora and Fauna Web." src="/images/Plants/guava_ffw.jfif">
 	<p>Guava trees are common fruit trees in home and community gardens as they can grow in a wide range of soils and produce fruit all year long. Guava fruits are typically eaten raw, processed into desserts or candy, or drunk as a juice.</p>
 	<p>As a perennial tree, it is a common sight in edible gardens, permaculture gardens, and low maintenance beds.</p>       
 	<br>
