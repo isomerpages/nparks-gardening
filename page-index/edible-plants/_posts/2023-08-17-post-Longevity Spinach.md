@@ -16,6 +16,7 @@ image: ""
 </section>
 
 <section>
+	<img title="Photo by Flora and Fauna Web." src="/images/Plants/longevityspinach_ffw.jfif">
 	<p>Longevity spinach is a hardy, succulent vegetable that grows well in semi-shade. Its leaves can be eaten raw, blanched, steamed, and made into soup.</p>
 	<p>This plant is a small perennial crop that is easy to propagate, making it a popular choice as a groundcover, for perimeter planting, and low maintenance beds. It is also a staple crop in edible gardens and permaculture gardens.</p>
 		<p>Due to its shallow root system, these plants are a popular choice for container gardening.</p>
