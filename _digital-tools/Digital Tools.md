@@ -39,8 +39,8 @@ description: ""
     </div>
 		<div class="col">
       <h4>Plant Search</h4>
-				<img style="height:150px; width:200px" src="/images/Digital%20Tools/pestidcalc.png">
-					Zoom into the possible culprits attacking your plants<br>
+				<img style="height:150px; width:200px" src="">
+					Find a plant to grow based on your garden conditions!<br>
 					<br>
 				<a class="button-primary" href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/digital-tools/plant-search/">Try it now!</a>
   </div>
