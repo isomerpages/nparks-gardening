@@ -16,6 +16,7 @@ image: ""
 </section>
 
 <section>
+	<img title="Photo by Jacqueline Chua." src="/images/Plants/SingaporeRhododendron_JacChua.jpg">
 	<p>Singapore Rhododendrons are hardy free-flowering shrubs that are commonly seen in rewilding areas, nature parks, in roadside gardens, and biodiversity-attracting gardens. The flowers are highly attractive to bees, while the fruits attract birds and small mammals. The fruits and leaves are also edible. This plant is native to Singapore and is naturally found growing along secondary rainforest and open fields.</p>
 	<p>A perennial shrub, Singapore Rhododendrons are useful as biodiversity-attracting plants and perimeter plants to add a pop of colour to any garden.</p>
 	 <br> 
