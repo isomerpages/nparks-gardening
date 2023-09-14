@@ -15,7 +15,8 @@ image: ""
 	<br> 
 </section> 
  
-<section> 
+<section>
+	<img title="Photo by Flora and Fauna Web." src="/images/Plants/scarletspiralflag_ffw.jfif">
 	<p>Scarlet Spiral Flags a hardy shrub that is commonly seen in low-maintenance beds and biodiversity-attracting gardens. The nectar-filled flowers are highly attractive to butterflies and nectivorous birds. The yellow flowers are also edible, and are usually eaten raw.</p>
 	<p>A perennial shrub, Scarlet Spiral Flags are useful as biodiversity-attracting plants and perimeter plants to add a pop of colour to any garden.</p>
 	<p>Scarlet Spiral Flags are part of the Zingiberaceae or Ginger family, which includes other popular edible plants like Tumeric and Fingerroot.</p>
