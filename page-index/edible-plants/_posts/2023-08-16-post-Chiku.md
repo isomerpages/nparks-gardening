@@ -16,6 +16,7 @@ image: ""
 </section>
 
 <section>
+	<img title="Photo by Flora and Fauna Web." src="/images/Plants/chiku_ffw.jfif">
 	<p>Chiku trees are a popular and hardy tropical fruit that grows in a variety of soil types, including notoriously poor ones. The fruit is traditionally eaten raw, and the sap was harvested to make chewing gum before the invention of synthetic substitutes.</p>
 	<p>As a perennial tree, it is a common sight in edible gardens, permaculture gardens, and low maintenance beds.</p>       
 	<br>
