@@ -16,6 +16,7 @@ image: ""
 </section>
 
 <section>
+	<img title="Photo by Flora and Fauna Web." src="/images/Plants/ulamraja_ffw.jfif">
 	<p>Ulam Raja are large bushy plants with edible leaves that are eaten raw and are a key ingredient in Nasi Ulam, a rice salad eaten in Southeast Asia. The plant also produces small pink flowers that attract a variety of butterflies and bees.</p>
 	<p>This large annual shrub produces many small wind-dispersed seeds that sprout quickly, with plants quickly growing around the garden. This makes it a popular choice for edible gardens, biodiversity-attracting gardens and low-maintenance beds.</p>
 	<br>
