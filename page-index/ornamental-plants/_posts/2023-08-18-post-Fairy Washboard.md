@@ -11,6 +11,7 @@ image: ""
 </header> 
  
 <section>
+	<img title="Photo by Flora and Fauna Web." src="/images/Plants/fairywashboard_ffw.jfif">
 	<p>Fairy Washboards are small hardy succulents that grow in a rosettes up to 10cm wide. They have deep green leaves with ridges resembling a washboard.</p>
 	<p>A perennial, succulent plant, this is a good beginner indoor plant that can be used for succulent arrangements. There are a number of variegated varieties that have a mix of bright yellow or cream, with dark green stripes that make this a striking centrepiece for your indoor garden.</p>
 	 <br> 
