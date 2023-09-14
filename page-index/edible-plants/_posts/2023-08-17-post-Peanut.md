@@ -16,6 +16,7 @@ image: ""
 </section>
 
 <section>
+	<img title="Photo by Flora and Fauna Web." src="/images/Plants/peanut_ffw.jfif">
 	<p>Peanut plants are grown for their underground fruit which have edible seeds that can be eaten raw, salted, fried, or steamed. The seeds are also processed into products, the most famous being peanut butter.</p>
 	<p>A small to medium-sized shrubby annual crop, this plant is often used for crop rotation. It grows rapidly and can also be used as a groundcover.</p>
 	<p>This plant is part of the 	Fabaceae or Bean family, which includes other popular edible fruits like Winged Bean, Peanut, and Sword Bean.  All members of the bean family can be used for companion planting as they can fix nitrogen into the soil.</p>
