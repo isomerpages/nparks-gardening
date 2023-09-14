@@ -12,11 +12,6 @@ description: ""
     color: white !important;
 	  text-decoration: none !important;
   }
-	
-		.col {
-	column-gap: 20px;
-	}
-	
 </style>
 
 <div class="container">
