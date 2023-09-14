@@ -16,6 +16,7 @@ image: ""
 </section>
 
 <section>
+	<img title="Photo by Flora and Fauna Web." src="/images/Plants/peacelily_ffw.jfif">
 	<p>The Peace Lilies are herbaceous plants that can grow up to 50cm tall and wide. It has glossy, dark green leaves and elegant white flowers. This is a common flowering indoor plant that is easy to care for.</p>
 	<p>A perennial evergreen plant, it is a great choice for container planting as it grows in clumps, rapidly filling out pots.</p>
 	 <br> 
