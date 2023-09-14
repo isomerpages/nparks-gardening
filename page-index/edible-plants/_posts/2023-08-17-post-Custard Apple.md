@@ -16,6 +16,7 @@ image: ""
 </section>
 
 <section>
+	<img title="Photo by Flora and Fauna Web." src="/images/Plants/custardapple_ffw.jfif">
 	<p>Custard Apples are small trees with fragrant flowers and edible fruits. It is a popular tree to grow in many home and edible gardens as it can fruit even when kept at a small size and requires very little maintenance. The fruits are typically eaten raw or added to smoothies and desserts.</p>
 	<p>As a perennial tree, it is a common sight in edible gardens, permaculture gardens, and low maintenance beds.</p>       
 	<br>
