@@ -16,6 +16,7 @@ image: ""
 </section>
 
 <section>
+	<img title="Photo by Flora and Fauna Web." src="/images/Plants/tokinjasmine_ffw.jfif">
 	<p>Tonkin Jasmine is an elegant creeper that produces fragrant edible flowers. The flowers are typically stir-fried or boiled in soup. Oil from the flowers can also be extracted to make perfumes.</p>
 	<p>As a perennial vine, it is a common sight in edible gardens, permaculture gardens, and low maintenance beds.</p>       
 	<br>
