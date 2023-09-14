@@ -16,6 +16,7 @@ image: ""
 </section>
 
 <section>
+	<img title="Photo by Flora and Fauna Web." src="/images/Plants/wanderingjew_ffw.jfif">
 	<p>The Wandering Jew is a creeping, herbaceous shrub that can grow up to 15cm tall. It has hairy leaves with silver and purple stripes on its upper side, while the underside is uniformly purple. Its stems are green and have purple shoots.</p>
 	<p>A perennial plant, the Wandering Jew is a great for indoor plant that is suitable for hanging planters and containers.</p>
 	 <br> 
