@@ -15,7 +15,8 @@ image: ""
 	<br> 
 </section> 
  
-<section> 
+<section>
+	<img title="Photo by Flora and Fauna Web." src="/images/Plants/braziliantea_ffw.jfif">
 	<p>Brazilian Tea plants are hard hardy free-flowering shrubs that are commonly seen in rewilding areas, nature parks, in roadside gardens, and biodiversity-attracting gardens. The flowers are highly attractive to bees, butterflies, and birds.</p>
 	<p>A perennial shrub, Brazilian Tea plants are useful as biodiversity-attracting plants and perimeter plants to add a pop of colour to any garden.</p>
 	 <br> 
