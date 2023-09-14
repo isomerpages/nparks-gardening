@@ -16,6 +16,7 @@ image: ""
 </section>
  
 <section>
+	<img title="Photo by Flora and Fauna Web." src="/images/Plants/goldendewdrop_ffw.jfif">
 	<p>Golden Dewdrops are large, hardy, free-flowering shrubs that are commonly seen in roadside gardens, perimeter planting and biodiversity-attracting gardens. The blue nectar-filled flowers are highly attractive bees and butterflies, and the hard, bright yellow fruits are very visually attractive.</p>
 	<p>A perennial shrub, Golden Dewdrops are useful as a biodiversity-attracting plant and perimeter plant to add a pop of colour to any garden.</p>
 	 <br> 
