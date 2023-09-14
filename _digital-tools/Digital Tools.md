@@ -12,6 +12,10 @@ description: ""
     color: white !important;
 	  text-decoration: none !important;
   }
+	
+		.col {
+	column-gap: 1rem;
+	}
 </style>
 
 <div class="container">
