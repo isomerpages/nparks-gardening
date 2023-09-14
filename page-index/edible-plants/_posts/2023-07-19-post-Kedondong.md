@@ -15,9 +15,10 @@ image: ""
 	<br>
 </section>
 
-<section>	
-<p>Kedondong trees are a common sight in Southeast Asian edible gardens, and produce edible leaves and fruit. The young leaves can be eaten raw in a salad or cooked as a vegetable, while the unripe and ripe fruits are eaten raw, pickled or processed into a juice.</p>
-<p>As a perennial tree, it is a common sight in edible gardens, permaculture gardens, and low maintenance beds. </p>       
+<section>
+	<img title="Photo by Flora and Fauna Web." src="/images/Plants/kedondong_ffw.jfif">
+	<p>Kedondong trees are a common sight in Southeast Asian edible gardens, and produce edible leaves and fruit. The young leaves can be eaten raw in a salad or cooked as a vegetable, while the unripe and ripe fruits are eaten raw, pickled or processed into a juice.</p>
+	<p>As a perennial tree, it is a common sight in edible gardens, permaculture gardens, and low maintenance beds. </p>       
 	<br>
 </section>
 
