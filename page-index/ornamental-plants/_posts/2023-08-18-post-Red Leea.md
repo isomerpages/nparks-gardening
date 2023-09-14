@@ -16,6 +16,7 @@ image: ""
 </section>
 
 <section>
+	<img title="Photo by Flora and Fauna Web." src="/images/Plants/redleea_ffw.jfif">
 	<p>Red Leeas are a hardy free-flowering shrub that is commonly seen in rewilding areas, nature parks, in roadside gardens, and biodiversity-attracting gardens. The flowers are highly attractive to bees and butterflies, while the fruits attract birds and small mammals. This plant is also native to Singapore and is naturally found growing along primary and secondary forests.</p>
 	<p>A perennial flower, Red Leeas are useful as biodiversity-attracting plants and perimeter plants to add a pop of colour to any garden.</p>
 	 <br> 
