@@ -16,6 +16,7 @@ image: ""
 </section>
 
 <section>
+	<img title="Photo by Flora and Fauna Web." src="/images/Plants/sawtoothcoriander_ffw.jfif">
 	<p>Sawtooth Coriander is such a common herb in many gardens that some may even consider it a weed. It tastes like true Coriander (Coriandrum sativum) but is much more tolerant of tropical weather. The leaves have a very strong taste and can be used as a replacement for true coriander in soups and stir-fries.</p>
 	<p>Sawtooth Coriander grows as a perennial crop in Southeast Asia, but because the leaves get much tougher and less juicy after flowering it is often cultivated as an annual. It readily flowers and sets seed, making it a useful self-propagating herb that can be used for interplanting or as an edible groundcover. Its shallow root system also makes it a popular choice for pots and corridor gardening.</p>
 	<br>
