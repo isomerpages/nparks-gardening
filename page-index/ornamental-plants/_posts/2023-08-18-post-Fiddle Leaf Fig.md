@@ -16,6 +16,7 @@ image: ""
 </section>
  
 <section>
+	<img title="Photo by Flora and Fauna Web." src="/images/Plants/fiddleleaffig_ffw.jfif">
 	<p>The Fiddle Leaf Fig is a small to medium sized tree that can grow up to 12m tall when grown in true ground, but it is usually kept as a small potted shrub around 30cm tall or a small tree at 2m or less. Its large leathery leaves have a wavy leaf margin and are a glossy dark green colour with prominent yellow veins on its upper surface. It has bark that is greyish with shallow fissures.</p>
 	<p>A perennial evergreen tree, the Fiddle Leaf Fig is a popular plant to grow both indoors and outdoors. Its interesting leaf shape and striking leaf venation adds character to a home or garden.</p>
 	 <br> 
