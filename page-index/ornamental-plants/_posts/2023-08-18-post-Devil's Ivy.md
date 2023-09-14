@@ -7,7 +7,7 @@ description: ""
 image: ""
 ---
 <header> 
-	<h3>Devil's Ivy(<em>Epipremnum aureum</em>)</h3> 
+	<h3>Devil's Ivy (<em>Epipremnum aureum</em>)</h3> 
 </header> 
  
 <section> 
