@@ -16,6 +16,7 @@ image: ""
 </section>
 
 <section>
+	<img title="Photo by Flora and Fauna Web." src="/images/Plants/motherofthousands_ffw.jfif">
 	<p>Mother of Thousands is a succulent shrub that can grow up to 1m tall but is usually kept as a groundcover less than 30cm tall. It has fleshy green leaves with a silvery grey sheen with a reddish tinge on the leaf margin. Small plantlets with roots develop along the leaf margins.</p>
 	<p>An incredibly hardy perennial shrub, this plant is suitable for container planting and green roofs, often covering the whole surface as the plantlets drop off from the mother plant’s leaves. Its ability to be planted in shallow media makes it a versatile plant for a variety of gardens and containers. This is an excellent plant for beginners to try!</p>
 	 <br> 
