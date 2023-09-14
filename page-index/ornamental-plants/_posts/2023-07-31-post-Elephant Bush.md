@@ -15,7 +15,8 @@ image: ""
 	<br> 
 </section> 
  
-<section> 
+<section>
+	<img title="Photo by Flora and Fauna Web." src="/images/Plants/elephantbush_ffw.jfif">
 	<p>The Elephant Bush is a succulent shrub that grows up to 5m tall in the wild, but is usually kept to less than 20cm tall in cultivation. It has small and fleshy leaves with rounded edges that are oppositely arranged and reddish brown woody stems.</p>
 	<p>A perennial, succulent shrub, its ability to tolerate shallow soils makes it suitable to be grown in a variety of containers, and can be used for bonsai. It also comes in a variegated form, where the leaves are a light green with hues of white and pink.</p>
 	 <br> 
