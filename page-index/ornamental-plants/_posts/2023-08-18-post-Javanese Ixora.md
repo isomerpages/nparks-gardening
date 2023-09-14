@@ -16,6 +16,7 @@ image: ""
 </section>
  
 <section>
+	<img title="Photo by Flora and Fauna Web." src="/images/Plants/javaneseixora_ffw.jfif">
 	<p>Javanese Ixoras are a hardy shrub that is commonly seen in roadside gardens and biodiversity-attracting gardens. The nectar-filled flowers are highly attractive to a wide range of insects, including butterflies, ants, and moths. The berry-like fruits are attractive birds and small mammals.</p>
 	<p>A perennial shrub, Javanese Ixoras are useful as biodiversity-attracting plants and perimeter plants to add a pop of colour to any garden.</p>
 	 <br> 
