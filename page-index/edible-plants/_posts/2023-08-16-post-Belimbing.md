@@ -16,6 +16,7 @@ image: ""
 </section>
 
 <section>
+	<img title="Photo by Flora and Fauna Web." src="/images/Plants/belimbing_ffw.jfif">
 	<p>Belimbing trees are small fruit trees that produce numerous small, oblong green fruits that are very sour. The fruits can be eaten raw as a relish, stewed with chilli, or blended into sauces. Its numerous flowers are very attractive to bees and butterflies.</p>
 	<p>As a perennial tree, it is a common sight in edible gardens, permaculture gardens, and low maintenance beds.</p>       
 	<br>
