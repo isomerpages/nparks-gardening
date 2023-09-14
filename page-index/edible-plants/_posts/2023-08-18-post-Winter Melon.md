@@ -16,6 +16,7 @@ image: ""
 </section>
 
 <section>
+	<img title="Photo by Flora and Fauna Web." src="/images/Plants/wintermelon(1)_ffw.jfif">
 	<p>Winter Melons are one of the most impressive crops an edible gardener can grow, with singular fruit growing as heavy as 30kg! The fruit is typically steamed or stewed, but the flesh can also be candied, and the seeds made into a sweet paste.</p>
 	<p>An <a href="/learn-more-about-gardening/glossary/#a">annual</a> crop, these plants are often grown in rotation with other fruiting climbers.</p>
 	<p>This plant is part of the Cucurbita or Melon family, which includes other popular edible fruits like Bitter Gourd, Pumpkin, and Cucumber.</p>
@@ -24,6 +25,7 @@ image: ""
 
 <section>
 	<h4>Environmental needs:</h4>
+	<img title="Photo by Flora and Fauna Web." src="/images/Plants/wintermelon(2)_ffw.jfif">
 	<p>This vine does best in full sun gardens with a minimum of <a href="/page-index/horticulture-techniques/gauging-light/">6 hours of direct sunlight</a>. This plant can also grow with 4-5 hours of direct sunlight and at least 6 hours of indirect sunlight, but will produce less fruits.</p>
 	<p>Plants do best in moist, well-drained soil at least 30cm deep, or in true ground.</p>
 	<p>This vine is vulnerable to heat stress during the dry season. Water it regularly and mulch the base to prevent water loss.</p>
