@@ -16,6 +16,7 @@ image: ""
 </section>
  
 <section>
+	<img title="Photo by Flora and Fauna Web." src="/images/Plants/falseheather_ffw.jfif">
 	<p>False Heather is a hardy, free-flowering groundcover that is commonly seen in roadside gardens and biodiversity-attracting gardens. The nectar-filled flowers are highly attractive bees and butterflies.</p>
 	<p>A perennial groundcover, False Heather is useful as a biodiversity-attracting plant and perimeter plant to add a pop of colour to any garden.</p>
 	 <br> 
