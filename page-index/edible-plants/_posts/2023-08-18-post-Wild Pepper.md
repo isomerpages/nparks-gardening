@@ -16,6 +16,7 @@ image: ""
 </section>
 
 <section>
+	<img title="Photo by Flora and Fauna Web." src="/images/Plants/wildpepper_ffw.jfif">
 	<p>Wild pepper is a common herb grown both for consumption in edible gardens but also as an ornamental plant as part of landscaping in shady urban areas. Wild pepper leaves have a peppery taste, and it is typically cooked raw with rice or meat. This plant is also native to Singapore and is naturally found growing in the understory of forests.</p>
 	<p>This plant is a <a href="/learn-more-about-gardening/glossary/#p/">perennial crop</a> that is easy to propagate, making it a popular choice for herb borders, perimeter planting, and low maintenance beds. It can also be used as an edible mulch to suppress weeds and keep the soil cool as part of companion planting.</p>
 	<br>
