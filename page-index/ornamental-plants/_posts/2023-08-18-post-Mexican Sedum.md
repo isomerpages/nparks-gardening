@@ -11,6 +11,7 @@ image: ""
 </header>
 
 <section>
+	<img title="Photo by Flora and Fauna Web." src="/images/Plants/mexicansedum_ffw.jfif">
 	<p>Mexican Sedum is a creeping succulent groundcover that can grow up to 10cm tall. It has bright green fleshy leaves on upright stems that creep to form dense mats. The leaves are linear and needle-like, arranged in whorls of 4-5 around stems.</p>
 	<p>A perennial succulent plant, it is a useful groundcover plant, a foreground plant in a shallow succulent dish arrangement, or a feature plant for hanging containers. Its drought tolerance and love for full sun has made it a suitable candidate for green roofs and has been used widely in Singapore.</p>
 	 <br> 
