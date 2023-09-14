@@ -16,11 +16,10 @@ image: ""
 </section>
 
 <section>
-	<img title="Photo by Jacqueline Chua." src="">
-	
-<p>Long beans are a hardy and productive crop suitable for new gardeners who want to grow a fruiting climber. Immature long beans can be eaten raw, stir-fried or steamed. </p>
-<p>An annual crop, these plants are often grown in rotation with other fruiting climbers. </p>
-<p>This plant is part of the 	Fabaceae or Bean family, which includes other popular edible fruits like Winged Bean, Peanut, and Sword Bean.  All members of the bean family can be used for companion planting as they can fix nitrogen into the soil. 
+	<img title="Photo by Flora and Fauna Web." src="/images/Plants/longbean_ffw.jfif">
+	<p>Long beans are a hardy and productive crop suitable for new gardeners who want to grow a fruiting climber. Immature long beans can be eaten raw, stir-fried or steamed.</p>
+	<p>An annual crop, these plants are often grown in rotation with other fruiting climbers. </p>
+	<p>This plant is part of the 	Fabaceae or Bean family, which includes other popular edible fruits like Winged Bean, Peanut, and Sword Bean.  All members of the bean family can be used for companion planting as they can fix nitrogen into the soil. 
 </p>
 	<br>
 </section>
