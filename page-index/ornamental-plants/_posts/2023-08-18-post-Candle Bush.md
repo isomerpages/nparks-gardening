@@ -16,6 +16,7 @@ image: ""
 </section> 
  
 <section>
+	<img title="Photo by Flora and Fauna Web." src="/images/Plants/candlebush_ffw.jfif">
 	<p>Candle bushes are large, hardy free-flowering shrubs that are commonly seen in rewilding areas, nature parks, in roadside gardens, and biodiversity-attracting gardens. The flowers are highly attractive to bees.</p>
 	<p>A perennial shrub, Candle Bushes are useful as biodiversity-attracting plants to add a pop of colour to any garden.</p>
 	<p>This plant is part of the 	Fabaceae or Bean family, which includes other popular edible fruits like Winged Bean, Peanut, and Sword Bean. All members of the bean family can be used for companion planting as they can fix nitrogen into the soil.</p>
