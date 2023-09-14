@@ -14,8 +14,9 @@ description: ""
   }
 	
 		.col {
-	column-gap: 1rem;
+	column-gap: 20px;
 	}
+	
 </style>
 
 <div class="container">
