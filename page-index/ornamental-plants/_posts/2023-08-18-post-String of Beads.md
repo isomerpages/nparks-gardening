@@ -16,6 +16,7 @@ image: ""
 </section>
 
 <section>
+	<img title="Photo by Flora and Fauna Web." src="/images/Plants/stringofbeads_ffw.jfif">
 	<p>String of beads is a trailing succulent with thick spherical fleshy leaves that are arranged along its stems. Each shiny light green leaf has a transparent ‘window’ that allows light to penetrate the leaf interior to allow for photosynthesis while minimising water loss.</p>
 	<p>A perennial succulent vine, its long pendulous stems make it an attractive plant for growing in hanging or tall planters.</p>
 	 <br> 
