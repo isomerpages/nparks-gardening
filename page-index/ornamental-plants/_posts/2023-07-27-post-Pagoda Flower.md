@@ -15,7 +15,8 @@ image: ""
 	<br> 
 </section> 
  
-<section> 
+<section>
+	<img title="Photo by Flora and Fauna Web." src="/images/Plants/pagodaflower_ffw.jfif">
 	<p>Pagoda flowers are a hardy shrub that is commonly seen in low-maintenance beds and biodiversity-attracting gardens. The showy, nectar-filled flowers are highly attractive to butterflies and nectivorous birds.</p>
 	<p>A perennial shrub, Pagoda Flowers are useful as biodiversity-attracting plants and perimeter plants to add a pop of colour to any garden.</p><p>
 	 <br> 
