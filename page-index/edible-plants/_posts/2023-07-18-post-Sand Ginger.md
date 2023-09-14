@@ -16,8 +16,7 @@ image: ""
 </section> 
  
 <section> 
-<img src=""> 
- 
+	<img title="Photo by Flora and Fauna Web." src="/images/Plants/sandginger_ffw.jfif"> 
   <p> Sand Gingers are small, aromatic spice used in Malaysian and Indonesian cooking. Its leaves can be consumed raw or in soups, and its rhizome, an underground horizontal stem that resembles a tuberous root, is often pounded into a powder and used to flavour sauces and curries.</p>
 <p>It is a small perennial crop that readily grows in the tropics in both true ground and in pots. This is a common plant in herb gardens, permaculture gardens, and low maintenance beds.</p>
 <p>Sand Gingers are part of the Zingiberaceae or Ginger family, which includes other popular edible plants like Torch Ginger and Fingerroot.</p>
