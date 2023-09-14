@@ -11,6 +11,7 @@ image: ""
 </header>
 
 <section>
+	<img title="Photo by Flora and Fauna Web." src="/images/Plants/walkingsanevieria_ffw.jfif">
 	<p>Walking Sansevieria is a slow growing plant with thick attractive leaves can grow up to 30cm wide. When young, its thick, fleshy leaves are arranged in a rosette. As the plant matures, the leaf arrangement changes to two rows opposite each other. The leaves are bluish to grey with reddish margins. This plant is named as such because it will grow offshoots with stilt-like roots that resemble legs walking away from the parent plant.</p>
 	<p>A perennial, succulent shrub, Walking Sansevieria is good for planting in containers, either on its own or as part of a succulent dish garden.</p>
 	 <br> 
