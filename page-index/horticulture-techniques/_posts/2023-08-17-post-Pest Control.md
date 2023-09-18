@@ -7,7 +7,9 @@ description: ""
 image: ""
 ---
 <section>
-	<p>There are various ways to control pests, with the most common being cultural, mechanical, biological, and chemical. General strategies can be used to tackle many kinds of pests at once, but these methods tend to also affect beneficial biodiversity like pollinators and garden predators, making them less eco-friendly than specific strategies, which target specific pests and keeps the garden safe for other beneficial wildlife.</p>
+	<p>There are various ways to control pests, with the most common being cultural, mechanical, biological, and chemical.
+	
+	</p><p>General strategies can be used to tackle many kinds of pests at once, but these methods tend to also affect beneficial biodiversity like pollinators and garden predators, making them less eco-friendly than specific strategies, which target specific pests and keeps the garden safe for other beneficial wildlife.</p>
 	<p>Depending on the kind of pests present, it might be useful to employ more than one kind of pest control. Experiment with the methods below to find what works for your garden! </p>
 	<br>
 </section>
