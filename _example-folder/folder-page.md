@@ -2,13 +2,11 @@
 title: Folder Page
 permalink: /example-folder/folder-page/
 ---
-
-
 <style>
 .wrapper {
   display: grid;
   border:solid 1px;
-  grid-template-columns:1fr 1fr 1fr;
+  grid-template-columns: repeat(autofit, minmax(100px, 1fr));
   grid-auto-rows: 200px;
   column-gap: 10px;
   row-gap: 10px;
