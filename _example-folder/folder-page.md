@@ -6,7 +6,7 @@ permalink: /example-folder/folder-page/
 .wrapper {
   display: grid;
   border:solid 1px;
-  grid-template-columns: repeat(autofit, minmax(100px, 1fr));
+  grid-template-column: repeat(3, 300px);
   grid-auto-rows: 200px;
   column-gap: 10px;
   row-gap: 10px;
