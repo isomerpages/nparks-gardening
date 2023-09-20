@@ -33,7 +33,7 @@ permalink: /example-folder/folder-page/
 	     <img style="height:150px; width:200px; display: inline" src="/images/Digital%20Tools/soilcalc1.png"><br>
 				Find out the volume of soil required for your planter<br>
 			<br>
-			<a class="button-primary" href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/digital-tools/soilcalculator/">Try it now!</a>
+			<a class="button-primary" href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/digital-tools/soilcalculator/">Try it now!</a><br>
 	</div>
   <div class="box">
 		<h4>Harvest Planner</h4>
