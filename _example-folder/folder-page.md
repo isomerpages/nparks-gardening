@@ -9,13 +9,13 @@ permalink: /example-folder/folder-page/
 		grid-template-rows: auto-fit;
 		column-gap: 10px;
 		row-gap: 10px;
-		align-items: start;
 	}
 
 	.box{
 		border: dotted 1px;
 		border-radius: 5px;
 		padding: 10px;
+		align-items: start;
 	}
 	
 	.button-primary {
