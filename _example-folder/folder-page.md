@@ -15,7 +15,6 @@ permalink: /example-folder/folder-page/
 		border: dotted 1px;
 		border-radius: 5px;
 		padding: 10px;
-		align-items: start;
 	}
 	
 	.button-primary {
@@ -29,10 +28,10 @@ permalink: /example-folder/folder-page/
 </style>
 
 <div class="wrapper">
-  <div class="box">
+  <div style="align:left" class="box">
 		<h4>Soil Calculator</h4>
-	      <img style="height:150px; width:200px" src="/images/Digital%20Tools/soilcalc1.png">
-		Find out the volume of soil required for your planter<br>
+	     <img align="left" style="height:150px; width:200px" src="/images/Digital%20Tools/soilcalc1.png">
+				Find out the volume of soil required for your planter<br>
 			<br>
 			<a class="button-primary" href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/digital-tools/soilcalculator/">Try it now!</a>
 	</div>
