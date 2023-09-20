@@ -14,7 +14,7 @@ permalink: /example-folder/folder-page/
 	.box{
 		border: dotted 1px;
 		border-radius: 5px;
-		padding: 15px;
+		padding: 5px 10px 15px 10px;
 	}
 	
 	.button-primary {
