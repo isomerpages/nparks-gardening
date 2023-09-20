@@ -37,11 +37,18 @@ description: ""
 					<br>
 				<a class="button-primary" href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/digital-tools/pestid/">Try it now!</a>
     </div>
-		<div class="col">
+	</div>
+		<div class="row">
+			<div class="col">
       <h4>Plant Search</h4>
 				<img style="height:150px; width:200px" src="">
 					Find a plant to grow based on your garden conditions!<br>
 					<br>
 				<a class="button-primary" href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/digital-tools/plant-search/">Try it now!</a>
   </div>
-</div></div>
+						<div class="col">
+			</div>
+						<div class="col">
+			</div>
+	</div>
+</div>
