@@ -5,12 +5,10 @@ permalink: /example-folder/folder-page/
 <style>
 .wrapper {
   display: grid;
-  border:solid 1px;
-  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
   grid-auto-rows: 200px;
   column-gap: 10px;
   row-gap: 10px;
-  padding:10px
 }
 
 .box{
