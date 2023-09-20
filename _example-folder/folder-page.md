@@ -9,6 +9,7 @@ permalink: /example-folder/folder-page/
 		grid-template-rows: auto-fit;
 		column-gap: 10px;
 		row-gap: 10px;
+		align-items: start;
 	}
 
 	.box{
@@ -30,8 +31,8 @@ permalink: /example-folder/folder-page/
 <div class="wrapper">
   <div class="box">
 		<h4>Soil Calculator</h4>
-	      <img align="left" style="height:150px; width:200px" src="/images/Digital%20Tools/soilcalc1.png">
-				 Find out the volume of soil required for your planter<br>
+	      <img style="height:150px; width:200px" src="/images/Digital%20Tools/soilcalc1.png">
+		Find out the volume of soil required for your planter<br>
 			<br>
 			<a class="button-primary" href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/digital-tools/soilcalculator/">Try it now!</a>
 	</div>
