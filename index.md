@@ -42,10 +42,11 @@ sections:
       alt: Image alt text
       image: /images/Landing_page/plantcalculator1.png
   - infopic:
-      title: Infopic
-      subtitle: a
+      title: Plant Problems
+      subtitle: Identify, mitigate, prevent
       id: infopic
-      description: Infopic description
-      button: Button Text
+      description: Find out what problems your plant is suffering from
+      button: Seek your answers here!
       alt: Image alt text
+      url: learn-more-about-gardening/plant-problems/pests/
 ---
