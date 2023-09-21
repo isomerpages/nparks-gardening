@@ -34,7 +34,10 @@ description: ""
 			<h5>Soft-bodied Sucking Pests</h5>
 			<img style="height:150px; width:200px; display: inline" src=""><br>
 			<ul>
-				<li>Aphids</li>
+				<li><a href="/page-index/pests/aphids/">Aphids</a></li>
+				<li><a href="/page-index/pests/mealy-bugs/">Mealy Bugs</a></li>
+				<li><a href="/page-index/pests/scale-insects/">Scale Insects</a></li>
+				<li><a href="/page-index/pests/spider-mites/">Spider mites</a></li>
 			</ul>
 			<br>
 		</div>
@@ -42,7 +45,9 @@ description: ""
 			<h5>Large Chewing Pests</h5>
 			<img style="height:150px; width:200px; display: inline" src=""><br>
 			<ul>
-				<li>Caterpillars</li>
+				<li><a href="/page-index/pests/caterpillars/">Caterpillars</a></li>
+				<li><a href="/page-index/pests/grasshoppers-crickets-and-katydids/">Grasshoppers, Crickets and Katydids</a></li>
+				<li><a href="/page-index/pests/snails-and-slugs/">Snails and slugs</a></li>
 			</ul>
 			<br>
 		</div>
@@ -50,7 +55,8 @@ description: ""
 			<h5>"Burrowing" Pests</h5>
 			<img style="height:150px; width:200px; display: inline" src=""><br>
 			<ul>
-				<li>Leaf Miners</li>
+				<li><a href="/page-index/pests/leaf-miner/">Leaf Miners</a></li>
+				<li><a href="/page-index/pests/oriental-fruit-flies/">Oriental Fruit Flies</a></li>
 			</ul>
 			<br>
 		</div>
@@ -59,6 +65,7 @@ description: ""
 			<img style="height:150px; width:200px; display: inline" src=""><br>
 			<ul>
 				<li>Birds</li>
+				<li>Rodents</li>
 			</ul>
 			<br>
 		</div>
@@ -69,3 +76,9 @@ description: ""
 <header>
 	<h3>Other Plant Problems</h3>
 </header>
+
+<section>
+	<p> Apart from pests, your plants may be suffering from other problems that might cause them to look sickly. Here are some for you to explore.</p>
+	<ul>
+		<li><a href="/page-index/plant-problems/root-rot/">Root Rot</a></li>
+		<li><a href="/page-index/plant-problems/wilting/">Wilting</a></li></ul></section>
