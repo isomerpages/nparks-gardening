@@ -6,7 +6,7 @@ description: ""
 <style>
 	.wrapper {
 		display: grid;
-		grid-template-columns: repeat(auto-fit, minmax(201px, 1fr));
+		grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
 		grid-template-rows: auto-fit;
 		column-gap: 10px;
 		row-gap: 10px;
