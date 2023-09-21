@@ -48,5 +48,5 @@ sections:
       description: Find out what problems your plant is suffering from
       button: Seek your answers here!
       alt: Image alt text
-      url: learn-more-about-gardening/plant-problems/pests/
+      url: learn-more-about-gardening/plant-problems
 ---
