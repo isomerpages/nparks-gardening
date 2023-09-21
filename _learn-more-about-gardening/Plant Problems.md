@@ -32,7 +32,7 @@ description: ""
 	<div class="wrapper">
 		<div class="box">
 			<h5>Soft-bodied Sucking Pests</h5>
-			<img style="height:150px; width:200px; display: inline" src=""><br>
+			<img style="height:150px; width:200px; display: inline" src="/images/Biodiversity/aphids%20(2)_plantscienceandhealth_nparks.jpg"><br>
 			<ul>
 				<li><a href="/page-index/pests/aphids/">Aphids</a></li>
 				<li><a href="/page-index/pests/mealy-bugs/">Mealy Bugs</a></li>
