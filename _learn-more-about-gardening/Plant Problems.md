@@ -31,37 +31,37 @@ description: ""
 <section>
 	<div class="wrapper">
 		<div class="box">
-			<h4>Soft-bodied Sucking Pests</h4>
-				 <img style="height:150px; width:200px; display: inline" src=""><br>
-					<ul>
-						<li>Aphids</li>
+			<h5>Soft-bodied Sucking Pests</h5>
+			<img style="height:150px; width:200px; display: inline" src=""><br>
+			<ul>
+				<li>Aphids</li>
 			</ul>
 			<br>
 		</div>
 		<div class="box">
-			<h4>Large Chewing Pests</h4>
-				<img style="height:150px; width:200px; display: inline" src=""><br>
-					<ul>
-						<li>Caterpillars</li>
-					</ul>
-				<br>
+			<h5>Large Chewing Pests</h5>
+			<img style="height:150px; width:200px; display: inline" src=""><br>
+			<ul>
+				<li>Caterpillars</li>
+			</ul>
+			<br>
 		</div>
-			<div class="box">
-				<h4>"Burrowing" Pests</h4>
-							<img style="height:150px; width:200px; display: inline" src=""><br>
-							<ul>
-								<li>Leaf Miners</li>
-							</ul>
-				<br>
-			</div>
 		<div class="box">
-				<h4>Large Animals</h4>
-							<img style="height:150px; width:200px; display: inline" src=""><br>
-						<ul>
-							<li>Birds</li>
-						</ul>
-				<br>
-			</div>
+			<h5>"Burrowing" Pests</h5>
+			<img style="height:150px; width:200px; display: inline" src=""><br>
+			<ul>
+				<li>Leaf Miners</li>
+			</ul>
+			<br>
+		</div>
+		<div class="box">
+			<h5>Large Animals</h5>
+			<img style="height:150px; width:200px; display: inline" src=""><br>
+			<ul>
+				<li>Birds</li>
+			</ul>
+			<br>
+		</div>
 	</div>
 	<br>
 </section>
