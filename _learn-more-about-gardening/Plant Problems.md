@@ -43,7 +43,7 @@ description: ""
 		</div>
 		<div class="box">
 			<h5>Large Chewing Pests</h5>
-			<img style="height:150px; width:200px; display: inline" src=""><br>
+			<img style="height:150px; width:200px; display: inline" src="/images/Biodiversity/Caterpillar_LimeCaterpillar_JacChua%20(2).jpg"><br>
 			<ul>
 				<li><a href="/page-index/pests/caterpillars/">Caterpillars</a></li>
 				<li><a href="/page-index/pests/grasshoppers-crickets-and-katydids/">Grasshoppers, Crickets and Katydids</a></li>
