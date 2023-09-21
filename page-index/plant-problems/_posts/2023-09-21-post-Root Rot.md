@@ -6,3 +6,33 @@ layout: post
 description: ""
 image: ""
 ---
+<section>
+	<p><b>Root rot</b> happens when the root system of a plant decays and breaks down, causing it to wilt and eventually die. It is primarily caused by a lack of oxygen around the roots and can be further complicated with a fungal or bacterial infection. It is characterized by mushy black roots that smell bad.</p>
+	<p>Root rot typically occurs in pots with little or no drainage, in heavily waterlogged soil and in hydroponics systems that are not properly aerated. Cuttings that are being rooted in water can also suffer from root rot if the water is not changed regularly.</p>
+	<br>
+</section>
+
+<section>
+	<h4>Symptoms</h4>
+  <p>Above-ground symptoms tend to only show after the root is heavily rotted. Classic signs include wilting despite regular watering, stunted growth, yellowing leaves, and the rapid shedding of leaves.</p>
+  <p>Removing soil around the plant will reveal mushy black roots, or no roots at all, with the rot sometimes extending to the root collar and base stem. </p>
+	<p>Roots suspended in water will also turn dark brown or black and may produce foul-smelling slime. </p>
+	<br>
+</section>
+
+<section>
+	<h4>Treatment</h4>
+  <p>Remove the affected plant and wash soil off the roots to check how extensive the damage is. If the roots are slimy and produce bacterial ooze when placed in water, they will need to be cut off to prevent the rot from spreading further up the plant. Remove any rotting parts with a clean pair of secateurs.</p><p>
+	</p><p>If the plant is left with little to no roots, consider repropagating it via cuttings if appropriate, or apply rooting hormone to the remaining stump to encourage root regrowth.</p>
+	<p>Repot the plant again in new soil after it has grown new roots in soil that drains well, and in pots with drainage holes.</p>
+	<p>Affected soil should be solarized, or left exposed to the sun for a month, before reuse to removing any remaining pests, fungal spores or bacteria. Drainage should be improved with the mixing in of organic matter or grit.</p>
+	<br>
+</section>
+
+<section>
+	<h4>Prevention</h4>
+	<p>Use pots with drainage holes to ensure that potted plants are not left standing in water.</p>
+	<p>Improve heavy clay soils with organic matter or grit to improve drainage.</p> 
+	<p>Water your plants only when the top 3cm of soil is dry.</p>
+	<p>Change the water used for rooting cuttings once every three days.</p> 
+</section>
