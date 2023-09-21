@@ -33,25 +33,24 @@ description: ""
 		<h4>Edible Plants</h4>
 	     <img align="left" style="height:150px; width:200px; margin-right: 70px" src=""><br>
 			<br>
-			<a class="button-primary" href="/learn-more-about-gardening/plants/edible-plants/">Search now!</a><br>
+			<a class="button-primary" href="/page-index/glossary/edible-plants/">Search now!</a><br>
 	</div>
 	<div class="box">
 		<h4>Ornamental Plants</h4>
 	     <img align="left" style="height:150px; width:200px; margin-right: 70px" src=""><br>
 			<br>
-			<a class="button-primary" href="/learn-more-about-gardening/plants/ornamental-plants/">Search now!</a><br>
+			<a class="button-primary" href="/page-index/glossary/ornamental-plants/">Search now!</a><br>
 	</div>
 	<div class="box">
 		<h4>Native Plants</h4>
 	     <img align="left" style="height:150px; width:200px; margin-right: 70px" src=""><br>
 			<br>
-			<a class="button-primary" href="/learn-more-about-gardening/plants/native-plants/">Search now!</a><br>
+			<a class="button-primary" href="/page-index/glossary/native-plants/">Search now!</a><br>
 	</div>
 	<div class="box">
 		<h4>Biodiversity Attracting Plants</h4>
 	     <img align="left" style="height:150px; width:200px; margin-right: 70px" src=""><br>
 			<br>
-			<a class="button-primary" href="/learn-more-about-gardening/plants/biodiversity-attracting-plants/">Search now!</a><br>
+			<a class="button-primary" href="/page-index/glossary/biodiversity-attracting-plants/">Search now!</a><br>
 	</div>
 </div>
-	
