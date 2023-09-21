@@ -25,6 +25,14 @@ sections:
       alt: Image alt text
       image: /images/Landing_page/plantsearch.png
   - infopic:
+      title: Horticulture Techniques
+      subtitle: Improve your gardening skills
+      id: infopic
+      description: Looking to learn new gardening skills?
+      button: Click here
+      url: learn-more-about-gardening/horticulture-techniques
+      alt: Image alt text
+  - infopic:
       title: Digital tools for starting your garden
       subtitle: the future is now
       description: Unsure how much soil you need or when to start sowing your seeds
@@ -33,4 +41,11 @@ sections:
       url: /digital-tools/
       alt: Image alt text
       image: /images/Landing_page/plantcalculator1.png
+  - infopic:
+      title: Infopic
+      subtitle: a
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
