@@ -3,6 +3,22 @@ title: Plant Problems
 permalink: /learn-more-about-gardening/plant-problems/
 description: ""
 ---
+<style>
+	.wrapper {
+		display: grid;
+		grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+		grid-template-rows: auto-fit;
+		column-gap: 10px;
+		row-gap: 10px;
+	}
+
+	.box{
+		border: dotted 1px;
+		border-radius: 5px;
+		padding: 5px 10px 15px 10px;
+	}
+</style>
+
 <header>
 	<h3>Pests</h3>
 </header>
@@ -13,6 +29,27 @@ description: ""
 </section>
 
 <section>
+	<div class="wrapper">
+		<div class="box">
+			<h4>Sucking Pests</h4>
+				 <img style="height:150px; width:200px; display: inline" src=""><br>
+					Find out the volume of soil required for your planter<br>
+				<br>
+		</div>
+		<div class="box">
+			<h4>Chewing Pests</h4>
+				<img style="height:150px; width:200px; display: inline" src=""><br>
+					Work out your harvest or sowing schedule with our planner<br>
+				<br>
+		</div>
+			<div class="box">
+				<h4>Large Pests</h4>
+							<img style="height:150px; width:200px; display: inline" src=""><br>
+								Zoom into the possible culprits attacking your plants<br>
+				<br>
+			</div>
+	</div>
+	<br>
 </section>
 
 <header>
