@@ -31,25 +31,25 @@ description: ""
 <div class="wrapper">
   <div class="box">
 		<h4>Edible Plants</h4>
-	     <img style="height:150px; width:200px" src=""><br>
+	     <img align="left" style="height:150px; width:200px" src=""><br>
 			<br>
 		<a class="button-primary" href="/page-index/glossary/edible-plants/">Search now!</a>
 	</div>
 	<div class="box">
 		<h4>Ornamental Plants</h4>
-	     <img style="height:150px; width:200px" src=""><br>
+	     <img align="left" style="height:150px; width:200px" src=""><br>
 			<br>
 			<a class="button-primary" href="/page-index/glossary/ornamental-plants/">Search now!</a><br>
 	</div>
 	<div class="box">
 		<h4>Native Plants</h4>
-	     <img style="height:150px; width:200px" src=""><br>
+	     <img align="left" style="height:150px; width:200px" src=""><br>
 			<br>
 			<a class="button-primary" href="/page-index/glossary/native-plants/">Search now!</a><br>
 	</div>
 	<div class="box">
 		<h4>Biodiversity Attracting Plants</h4>
-	     <img style="height:150px; width:200px" src=""><br>
+	     <img align="left" style="height:150px; width:200px" src=""><br>
 			<br>
 			<a class="button-primary" href="/page-index/glossary/biodiversity-attracting-plants/">Search now!</a><br>
 	</div>
