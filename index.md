@@ -23,7 +23,7 @@ sections:
       button: Recommend a plant to me
       url: /learn-more-about-gardening/plants
       alt: Image alt text
-      image: /images/Landing_page/plantsearch.png
+      image: /images/Landing_page/updatedplantsearch.png
   - infopic:
       title: Horticulture Techniques
       subtitle: Improve your gardening skills
@@ -32,6 +32,7 @@ sections:
       button: Click here
       url: learn-more-about-gardening/horticulture-techniques
       alt: Image alt text
+      image: /images/Landing_page/updatedhorttechniques.png
   - infopic:
       title: Digital tools for starting your garden
       subtitle: the future is now
@@ -40,7 +41,7 @@ sections:
       button: try out our tools
       url: /digital-tools/
       alt: Image alt text
-      image: /images/Landing_page/plantcalculator1.png
+      image: /images/Landing_page/updateddigitaltools.png
   - infopic:
       title: Plant Problems
       subtitle: Identify, mitigate, prevent
@@ -49,4 +50,5 @@ sections:
       button: Seek your answers here!
       alt: Image alt text
       url: learn-more-about-gardening/plant-problems/
+      image: /images/Landing_page/updatedplantproblems.png
 ---
