@@ -33,7 +33,7 @@ description: ""
 		<h4>Edible Plants</h4>
 	     <img align="left" style="height:150px; width:200px; margin-right: 70px" src=""><br>
 			<br>
-			<a class="button-primary" href="/page-index/glossary/edible-plants/">Search now!</a><br>
+		<a class="button-primary" href="/page-index/glossary/edible-plants/">Search now!</a>
 	</div>
 	<div class="box">
 		<h4>Ornamental Plants</h4>
