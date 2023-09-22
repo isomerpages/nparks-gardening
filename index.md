@@ -17,11 +17,11 @@ sections:
       button: Let's get started!
       url: /new-to-gardening/gardening101
   - infopic:
-      title: Grow with the flow
-      subtitle: Not sure what to grow?
+      title: Not sure what to grow?
+      subtitle: Grow with the flow
       description: Find a plant to grow based on your garden space!
       button: Recommend a plant to me
-      url: /plant-search/
+      url: /learn-more-about-gardening/plants
       alt: Image alt text
       image: /images/Landing_page/plantsearch.png
   - infopic:
