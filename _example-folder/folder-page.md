@@ -14,9 +14,9 @@ permalink: /example-folder/folder-page/
 		flex: 0 1 calc(33.3% - 0.5rem)!important;
 		flex-direction: column;
 		justify-content: space-between;
+		align-items:center;
 		border: solid 1px;
 		padding:5px;
-		align-items: center;
 	}
 	
 	.button-primary {
