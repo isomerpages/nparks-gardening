@@ -14,7 +14,6 @@ permalink: /example-folder/folder-page/
 		flex: 0 1 calc(33.3% - 0.5rem)!important;
 		flex-direction: column;
 		justify-content: space-between;
-		align-items:center;
 		border: solid 1px;
 		padding:5px;
 	}
@@ -24,6 +23,7 @@ permalink: /example-folder/folder-page/
     border: 2px solid #215732;
     padding: 0.5rem 1rem;
   	border-radius: 1rem;
+		width: fit-content;
     color: white !important;
 	  text-decoration: none !important;
 	}
