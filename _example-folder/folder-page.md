@@ -16,6 +16,14 @@ permalink: /example-folder/folder-page/
 		justify-content: space-between;
 	}
 	
+	.button-primary {
+    background-color: #215732;
+    border: 2px solid #215732;
+    padding: 0.5rem 1rem;
+  	border-radius: 1rem;
+    color: white !important;
+	  text-decoration: none !important;
+	}
 </style>
 
 <div class="flexbox">
