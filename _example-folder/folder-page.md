@@ -33,15 +33,15 @@ permalink: /example-folder/folder-page/
 <div class="flexbox">
   <div class="item">
 		<h4>Soil Calculator</h4>
-	     <img style="height:150px; width:200px" src="/images/Digital%20Tools/soilcalc1.png"><br>
-				Find out the volume of soil required for your planter<br>
-			<br>
-			<a class="button-primary" href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/digital-tools/soilcalculator/">Try it now!</a><br>
+	  <img style="height:150px; width:200px" src="/images/Digital%20Tools/soilcalc1.png"><br>
+		Find out the volume of soil required for your planter<br>
+		<br>
+		<a class="button-primary" href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/digital-tools/soilcalculator/">Try it now!</a><br>
 	</div>
   <div class="item">
 		<h4>Harvest Planner</h4>
-			<img style="height:150px; width:200px" src="/images/Digital%20Tools/calendar1.png"><br>
-				Work out your harvest or sowing schedule with our planner<br>
+		<img style="height:150px; width:200px" src="/images/Digital%20Tools/calendar1.png"><br>
+		Work out your harvest or sowing schedule with our planner<br>
 			<br>
 			<a class="button-primary" href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/digital-tools/sowing-planner/">Try it now</a>
 	</div>
@@ -49,14 +49,14 @@ permalink: /example-folder/folder-page/
 			<h4>Pest Identifier</h4>
 						<img style="height:150px; width:200px" src="/images/Digital%20Tools/pestidcalc.png"><br>
 							Zoom into the possible culprits attacking your plants<br>
-						<br>
-						<a class="button-primary" href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/digital-tools/pestid/">Try it now!</a>
-		</div>
+					<br>
+					<a class="button-primary" href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/digital-tools/pestid/">Try it now!</a>
+	</div>
   <div class="item">
 		<h4>Plant Search</h4>
-				<img style="height:150px; width:200px" src=""><br>
-					Find a plant to grow based on your garden conditions!<br>
-				<br>
-				<a class="button-primary" href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/digital-tools/plant-search/">Try it now!</a>
+		<img style="height:150px; width:200px" src=""><br>
+		Find a plant to grow based on your garden conditions!<br>
+		<br>
+		<a class="button-primary" href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/digital-tools/plant-search/">Try it now!</a>
 	</div> 
 </div>
