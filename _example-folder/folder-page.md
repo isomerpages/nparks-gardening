@@ -11,7 +11,7 @@ permalink: /example-folder/folder-page/
 	
 	.item {
 		display: flex;
-		flex: 0 1 calc(33.3% - 0.5rem)!important;
+		flex: 0 1 calc(33% - 0.5rem)!important;
 		flex-direction: column;
 		justify-content: space-between;
 		border-radius: 5px;
