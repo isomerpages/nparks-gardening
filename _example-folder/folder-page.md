@@ -6,7 +6,7 @@ permalink: /example-folder/folder-page/
 	.flexbox {
 		display: flex;
 		flex-wrap:wrap;
-		gap: 1rem;
+		gap: 10px;
 	}
 	
 	.item {
