@@ -16,7 +16,7 @@ permalink: /example-folder/folder-page/
 		justify-content: space-between;
 		border-radius: 5px;
 		border: solid 1px #215732;
-		padding:5px;
+		padding:0px 5px 0px;
 	}
 	
 	.button-primary {
