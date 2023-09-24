@@ -24,7 +24,7 @@ description: ""
 </header>
 
 <section>
-	<p>Pests comes in various shapes and sizes, and their mode of damage to the plant varies as well. You may click <a href="page-index/pests/pests/">here</a> to learn more about the different types of pests.</p>
+	<p>Pests comes in various shapes and sizes, and their mode of damage to the plant varies as well. You may click <a href="/page-index/pests/pests">here</a> to learn more about the different types of pests.</p>
 	<br>
 </section>
 
