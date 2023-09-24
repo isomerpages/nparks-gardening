@@ -16,6 +16,7 @@ description: ""
 		border: dotted 1px;
 		border-radius: 5px;
 		padding: 5px 10px 15px 10px;
+		justify-content: stretch;
 	}
 	
 	.button-primary {
