@@ -13,7 +13,7 @@ description: ""
 	}
 
 	.box{
-		border: solid 1px;
+		border: solid 1px #215732;
 		border-radius: 5px;
 		padding: 5px 10px 15px 10px;
 	}
