@@ -39,7 +39,6 @@ description: ""
 				<li><a href="/page-index/pests/scale-insects/">Scale Insects</a></li>
 				<li><a href="/page-index/pests/spider-mites/">Spider mites</a></li>
 			</ul>
-			<br>
 		</div>
 		<div class="box">
 			<h5>Large Chewing Pests</h5>
@@ -49,7 +48,6 @@ description: ""
 				<li><a href="/page-index/pests/grasshoppers-crickets-and-katydids/">Grasshoppers, Crickets and Katydids</a></li>
 				<li><a href="/page-index/pests/snails-and-slugs/">Snails and slugs</a></li>
 			</ul>
-			<br>
 		</div>
 		<div class="box">
 			<h5>"Burrowing" Pests</h5>
@@ -58,7 +56,6 @@ description: ""
 				<li><a href="/page-index/pests/leaf-miner/">Leaf Miners</a></li>
 				<li><a href="/page-index/pests/oriental-fruit-flies/">Oriental Fruit Flies</a></li>
 			</ul>
-			<br>
 		</div>
 		<div class="box">
 			<h5>Large Animals</h5>
@@ -67,7 +64,6 @@ description: ""
 				<li>Birds</li>
 				<li>Rodents</li>
 			</ul>
-			<br>
 		</div>
 	</div>
 	<br>
