@@ -6,7 +6,7 @@ description: ""
 <style>
 	.wrapper {
 		display: grid;
-		grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+		grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
 		grid-template-rows: auto-fit;
 		column-gap: 10px;
 		row-gap: 10px;
@@ -16,7 +16,7 @@ description: ""
 		border: dotted 1px;
 		border-radius: 5px;
 		padding: 5px 10px 15px 10px;
-		justify-content: stretch;
+		justify-content: left;
 	}
 	
 	.button-primary {
