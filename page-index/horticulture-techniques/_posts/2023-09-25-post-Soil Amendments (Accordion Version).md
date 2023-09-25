@@ -52,13 +52,31 @@ image: ""
 <section>
 	<h4>Inorganic soil amendments</h4>
 	<p>Inorganic soil amendments are usually made from materials that are mined or man-made. They are generally used to increase the drainage and aeration of the soil and to create air pockets to help roots breathe. These soil amendments will not decompose and generally only need to be added once. They come in different granule sizes, with large, coarse grain sizes used for large containers and raised beds, and smaller grain sizes used for seed starting and small containers. </p>
-	<img title="Burnt earth is hard, porous and well draining. Photo by Jacqueline Chua" src="/images/Horti%20techniques/SoilAmendment_BurntEarth_Jacchua.jpg">
-	<p><b>Burnt earth</b> consists of chunks of clay that has been exposed to heat, making it porous and granular. It allows for better drainage and more air to reach the roots because it maintains its crumbly texture when fresh but may revert to being wet and sticky with prolonged use. Large chunks are preferred for mixing into soil as fine grains and dust from burnt earth tends to stick together in a thick layer at the bottom of the pot. Sieve out the larger parts from the dust before use. Burnt earth can be used in the place of clay soil to make a loamy soil mix from scratch. </p>
-	<img title="Pumice is a lightweight and porous rock that comes in various grain sizes. Photo by Jacqueline Chua" src="/images/Horti%20techniques/SoilAmendment_Grit_Jacchua%20(4).jpg">
-	<p><b>Pumice</b> refers to a lightweight volcanic rock that is highly porous. It increases drainage and aeration when mixed into soil, and is a popular soil additive for succulent, cacti and bonsai mixes. Pumice has lots of pores that can help to hold some water for plant roots to absorb, but allows excess water to drain away, thus preventing root rot. It is often used in rooting cuttings and in container gardening. </p>
-	<img title="" src="/images/Horti%20techniques/Soil_Sandy_Jacchua.jpg">
-	<p><b>Horticultural Sand</b> generally refers to river sand or coarse sand with grains larger than 2mm. It should not clump together when wet, and helps to increase the drainage and aeration of soil when mixed in. Coarser grains are generally preferred as fine sand mixed with clay soils will make a medium like concrete.  It can get heavy and dense in large amounts and should generally be mixed with organic amendments like compost to make a lighter soil mix that roots can grow through. </p>
-	<p><b>Perlite</b>, or expanded pyrite, is a lightweight volcanic rock that is highly porous and resembles styrofoam. It is made by heating pyrite until it “pops” like popcorn. It drastically increases drainage and aeration when mixed into soil and keeps it loose. Perlite grains also have lots of crevices that can help to hold some water for plant roots to absorb, but allows excess water to drain away, thus preventing root rot. It is often used in rooting cuttings, seed-starting mixes and in container gardening. Unfortunately, because it is so light, perlite tends to float to the top in lightweight soil mixes during watering and can be blown away by the wind. It needs to be mixed back into the soil periodically. Cheaper bags of perlite might have dust, which can cause irritation when inhaled. Use gloves and a face mask when handling it for safety.</p>
-	<p><b>Vermiculite</b> is a mineral that expands when heated, forming lightweight flakes that are highly porous. It increases drainage when mixed into soil and keeps it loose. Vermiculite flakes also absorb water like a sponge, making it a useful material to keep plants moist. It is often used in rooting cuttings, seed-starting mixes and in container gardening. Unfortunately, because it is so light, vermiculite tends to float to the top in lightweight soil mixes during watering and can be blown away by the wind. It needs to be mixed back into the soil periodically.</p>
-	<br>
 </section>
+
+<ul class="jekyllcodex_accordion">
+	<li><input type="checkbox" id="accordion1">
+		<label for="accordian1">Burnt Earth</label><div>
+		<img title="Burnt earth is hard, porous and well draining. Photo by Jacqueline Chua" src="/images/Horti%20techniques/SoilAmendment_BurntEarth_Jacchua.jpg">
+	<p><b>Burnt earth</b> consists of chunks of clay that has been exposed to heat, making it porous and granular. It allows for better drainage and more air to reach the roots because it maintains its crumbly texture when fresh but may revert to being wet and sticky with prolonged use. Large chunks are preferred for mixing into soil as fine grains and dust from burnt earth tends to stick together in a thick layer at the bottom of the pot. Sieve out the larger parts from the dust before use. Burnt earth can be used in the place of clay soil to make a loamy soil mix from scratch. </p>
+	</div></li>
+	<li><input type="checkbox" id="accordion2">
+		<label for="accordion2">Pumice</label><div>
+		<img title="Pumice is a lightweight and porous rock that comes in various grain sizes. Photo by Jacqueline Chua" src="/images/Horti%20techniques/SoilAmendment_Grit_Jacchua%20(4).jpg">
+	<p><b>Pumice</b> refers to a lightweight volcanic rock that is highly porous. It increases drainage and aeration when mixed into soil, and is a popular soil additive for succulent, cacti and bonsai mixes. Pumice has lots of pores that can help to hold some water for plant roots to absorb, but allows excess water to drain away, thus preventing root rot. It is often used in rooting cuttings and in container gardening. </p>
+	</div></li>
+	<li><input type="checkbox" id="accordion3">
+		<label for="accordion3">Horticultural Sand</label><div>
+		<img title="" src="/images/Horti%20techniques/Soil_Sandy_Jacchua.jpg">
+		<p><b>Horticultural Sand</b> generally refers to river sand or coarse sand with grains larger than 2mm. It should not clump together when wet, and helps to increase the drainage and aeration of soil when mixed in. Coarser grains are generally preferred as fine sand mixed with clay soils will make a medium like concrete.  It can get heavy and dense in large amounts and should generally be mixed with organic amendments like compost to make a lighter soil mix that roots can grow through. </p>
+		</div></li>
+		<li><input type="checkbox" id="accordion4">
+			<label for="accordion4">Perlite</label><div>
+			<p><b>Perlite</b>, or expanded pyrite, is a lightweight volcanic rock that is highly porous and resembles styrofoam. It is made by heating pyrite until it “pops” like popcorn. It drastically increases drainage and aeration when mixed into soil and keeps it loose. Perlite grains also have lots of crevices that can help to hold some water for plant roots to absorb, but allows excess water to drain away, thus preventing root rot. It is often used in rooting cuttings, seed-starting mixes and in container gardening. Unfortunately, because it is so light, perlite tends to float to the top in lightweight soil mixes during watering and can be blown away by the wind. It needs to be mixed back into the soil periodically. Cheaper bags of perlite might have dust, which can cause irritation when inhaled. Use gloves and a face mask when handling it for safety.</p>
+	</div></li>
+	<li><input type="checkbox" id="accordion5">
+		<label for="accordion5">Vermiculite</label><div>
+		<p><b>Vermiculite</b> is a mineral that expands when heated, forming lightweight flakes that are highly porous. It increases drainage when mixed into soil and keeps it loose. Vermiculite flakes also absorb water like a sponge, making it a useful material to keep plants moist. It is often used in rooting cuttings, seed-starting mixes and in container gardening. Unfortunately, because it is so light, vermiculite tends to float to the top in lightweight soil mixes during watering and can be blown away by the wind. It needs to be mixed back into the soil periodically.</p>
+	</div></li>
+</ul>
+<br>
