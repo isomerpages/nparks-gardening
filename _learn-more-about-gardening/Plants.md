@@ -9,7 +9,7 @@ description: ""
 		grid-template-columns: repeat(auto-fit, minmax(275px, 1fr));
 		grid-template-rows: auto-fit;
 		column-gap: 20px;
-		row-gap: 10px;
+		row-gap: 20px;
 	}
 
 	.box{
