@@ -1,7 +1,8 @@
 logo: /images/Landing_page/nparks_logo.jpg
 links:
-  - title: Get involved
-    collection: get-involved
+  - title: Get Involved
+    url: /get-involved/get-involved
+    sublinks: []
   - title: Learn more about gardening
     url: /learn-more-about-gardening
     sublinks:
