@@ -8,4 +8,12 @@ description: ""
 		<label for="accordion1">Programmes</label><div>
 		<p></p>
 	</div></li>
+	<li><input type="checkbox" id="accordion1">
+		<label for="accordion1">Events</label><div>
+		<p></p>
+	</div></li>
+	<li><input type="checkbox" id="accordion1">
+		<label for="accordion1">Volunteer</label><div>
+		<p></p>
+	</div></li>
 </ul>
