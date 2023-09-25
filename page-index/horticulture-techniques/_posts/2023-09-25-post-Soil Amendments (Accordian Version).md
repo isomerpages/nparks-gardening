@@ -21,12 +21,12 @@ image: ""
 <ul class="jekyllcodex_accordion">
 	<li><input type="checkbox" id="accordian1">
 		<label for="accordian1">Cocopeat/Coco Coir</label><div>
-		<p><img title="Cocopeat and coco coir is made from shredding and processing coconut husks. Photo by Jacqueline Chua" src="/images/Horti%20techniques/Soil_Amendment_Cocopeat.jpg"></p>
+		<img title="Cocopeat and coco coir is made from shredding and processing coconut husks. Photo by Jacqueline Chua" src="/images/Horti%20techniques/Soil_Amendment_Cocopeat.jpg">
 		<p><b>Cocopeat or coco coir</b> is a by-product of coconut husks and looks like fine brown particles that can rapidly expand in water. It is usually sold in dehydrated blocks that can expand up to 7 times their original volume when placed in water for rehydration. Rehydrated coco coir can be mixed into soil as an alternative to compost or peat. Coco coir is also much more sterile than compost and can be used for starting seeds.</p>
 	</div></li>
 	<li><input type="checkbox" id="accordian2">
 		<label for="accordian2">Coco Fibre</label><div>
-		<p><img title="Coco fibre is made from shredding coconut husks, and can be mixed into soil or used as mulch. Photo by Jacqueline Chua" src="/images/Horti%20techniques/Mulch_JacChua%20(1).jpg"></p>
+		<img title="Coco fibre is made from shredding coconut husks, and can be mixed into soil or used as mulch. Photo by Jacqueline Chua" src="/images/Horti%20techniques/Mulch_JacChua%20(1).jpg">
 		<p><b>Coco fibre</b> is also made from coconut husks, but the material is not ground down as finely and still looks like clumps of rough hair or chips. Coco fibre can also be directly mixed in with soil, but it is much chunkier and will not mix as readily as coco coir. Coco fibre is usually used as a lining for pots, or as a mulch. It can also be used as an alternative to sphagnum moss.</p>
 	</div></li>
 	<li><input type="checkbox" id="accordian3">
