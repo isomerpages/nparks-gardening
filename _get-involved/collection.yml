@@ -2,6 +2,7 @@ collections:
   get-involved:
     output: true
     order:
+      - Get Involved.md
       - Community in Bloom.md
       - Community Gardens.md
       - Allotment Gardens.md
