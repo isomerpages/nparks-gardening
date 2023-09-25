@@ -19,31 +19,31 @@ image: ""
 </section>
 
 <ul class="jekyllcodex_accordion">
-	<li><input type="checkbox" id="accordian1">
-		<label for="accordian1">Cocopeat/Coco Coir</label><div>
+	<li><input type="checkbox" id="accordion1">
+		<label for="accordion1">Cocopeat/Coco Coir</label><div>
 		<img title="Cocopeat and coco coir is made from shredding and processing coconut husks. Photo by Jacqueline Chua" src="/images/Horti%20techniques/Soil_Amendment_Cocopeat.jpg">
 		<p><b>Cocopeat or coco coir</b> is a by-product of coconut husks and looks like fine brown particles that can rapidly expand in water. It is usually sold in dehydrated blocks that can expand up to 7 times their original volume when placed in water for rehydration. Rehydrated coco coir can be mixed into soil as an alternative to compost or peat. Coco coir is also much more sterile than compost and can be used for starting seeds.</p>
 	</div></li>
-	<li><input type="checkbox" id="accordian2">
-		<label for="accordian2">Coco Fibre</label><div>
+	<li><input type="checkbox" id="accordion2">
+		<label for="accordion2">Coco Fibre</label><div>
 		<img title="Coco fibre is made from shredding coconut husks, and can be mixed into soil or used as mulch. Photo by Jacqueline Chua" src="/images/Horti%20techniques/Mulch_JacChua%20(1).jpg">
 		<p><b>Coco fibre</b> is also made from coconut husks, but the material is not ground down as finely and still looks like clumps of rough hair or chips. Coco fibre can also be directly mixed in with soil, but it is much chunkier and will not mix as readily as coco coir. Coco fibre is usually used as a lining for pots, or as a mulch. It can also be used as an alternative to sphagnum moss.</p>
 	</div></li>
-	<li><input type="checkbox" id="accordian3">
-		<label for="accordian3">Charcoal</label><div>
+	<li><input type="checkbox" id="accordion3">
+		<label for="accordion3">Charcoal</label><div>
 		<p><b>Charcoal</b> is made from burned woody matter, like hardwoods or coconut husks. It can be bought in various sizes, from large logs to shards. It is very porous and can be used to improve soil drainage and aeration when mixed in. Larger pieces are often used as a medium for epiphytic plants like orchids to attach their roots to. It can also be used to absorb odours up to a point, making it a useful addition to unbalanced compost piles and terrariums. However, it is very alkaline and can change the pH of your soil and can also absorb and bind to fertilisers so strongly that your plants don’t get to absorb any!</p>
 	</div></li>
-	<li><input type="checkbox" id="accordian4">
-		<label for="accordian4">Mature Compost</label><div>
+	<li><input type="checkbox" id="accordion4">
+		<label for="accordion4">Mature Compost</label><div>
 		<img title="Compost is made from decomposed organic matter. Photo by Jacqueline Chua" src="/images/Horti%20techniques/Compost_Jacchua.jpg">
 		<p><b>Mature compost</b> is one of the most readily available soil amendments as it can be made at home or bought from nurseries. Mature compost should have a soft, fine texture and smell earthy. Compost with large chunks of rotting matter that smells unpleasant is immature, and not ready for use. It is important to use mature compost that is no longer decomposing as actively rotting material in immature compost can lock up nitrogen, which will stunt plant growth. Mature compost will have trace amounts of nutrients, which can also give a bit of a boost to your plants.</p>
 	</div></li>
-	<li><input type="checkbox" id="accordian5">
-		<label for="accordian5">Coco Fibre</label><div>
+	<li><input type="checkbox" id="accordion5">
+		<label for="accordion5">Coco Fibre</label><div>
 		<p><b>Peat moss</b> is decomposed moss harvested from the bottom of peat bogs and is traditionally a favored soil amendment as it is spongy and yet drains well. Peat moss particles are much smaller than sphagnum moss clumps, making it easier to mix into soil. Like sphagnum moss, its use has led to the degradation of peat bogs and is not sustainable in the long run. Consider replacing your peat moss use with more sustainable alternatives like mature compost or cocopeat. </p>
 	</div></li>
-	<li><input type="checkbox" id="accordian6">
-		<label for="accordian6">Sphagnum Moss</label><div>
+	<li><input type="checkbox" id="accordion6">
+		<label for="accordion6">Sphagnum Moss</label><div>
 		<p><b>Sphagnum moss</b> is dried moss harvested live from peat bogs and is often packed into a dehydrated block like coco coir. It is stringy and spongy when rehydrated, making it a popular amendment for plants that need moisture and high drainage at the same time, like epiphytic orchids or kokedama plants. Unfortunately, harvesting sphagnum moss from peat bogs comes with a very high environmental toll, and is not sustainable in the long run. Consider replacing your sphagnum moss with more sustainable materials, like cocopeat.</p>
 	</div></li>
 </ul>
