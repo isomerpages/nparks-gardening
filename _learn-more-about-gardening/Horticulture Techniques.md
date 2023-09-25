@@ -159,6 +159,7 @@ Planting in containers<br>
 <h4 id="s">S</h4>
 	<a href="/page-index/horticulture-techniques/soil/">Soil</a><br>
 	<a href="/page-index/horticulture-techniques/soil-amendments/">Soil amendments</a><br>
+	<a href="/page-index/horticulture-techniques/soil-amendments-2/">Soil amendments (Accordion Ver)</a><br>
 	<a href="/page-index/horticulture-techniques/plant-spacing/">Spacing</a><br>
 <br><br>
 </section>
