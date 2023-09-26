@@ -3,11 +3,17 @@ title: accordion test
 permalink: /example-folder/accordion/
 description: ""
 ---
-<ul class="jekyll_codex_accordion">
-	<li><input type="checkbox" id="accordion1">
-		<label for="accordion1">Hello</label>
-		<div>
-			<p>HELLO HELLO</p>
-		</div>
-	</li>
-</ul>
+<style>
+		div .button-round {
+			background-color: green;
+			border: solid 1px green;
+			color: white;
+			padding: 5px 10px 5px;
+			border-radius:50%;
+			text-align:center;
+	}
+</style>
+
+<div>
+<a class="button-round" href="/page-index/">hi</a>
+</div>
