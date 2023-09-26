@@ -15,6 +15,7 @@ description: ""
 	
 	table {
 		background-color: #7a9a01;
+		text-align: center;
 	}
 </style>
 
