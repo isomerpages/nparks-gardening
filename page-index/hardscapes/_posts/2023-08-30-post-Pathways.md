@@ -6,3 +6,33 @@ layout: post
 description: ""
 image: ""
 ---
+<section>
+	<img title="A Community Garden with a stepping stone pathway. Photo by Jacqueline Chua." src="/images/Garden%20design/YioChuKang_JacChua%20(1).jpg">
+<p>Pathways are the backbone of all garden designs. They need to be laid before all other garden amenities, and they will define how gardeners use their garden space. Paths made from true ground tend to become slippery and muddy quickly due to the high clay content, making moving in the garden messy and dangerous. Building proper pathways will make the garden more accessible and functional for the long run.</p>
+</section>
+<br>
+<section>
+<h4>Pathway materials</h4>
+<p>Pathways in the tropics need to be weatherproof if they are to be long-lasting. Inorganic materials are usually better long-time investments for paths as organic materials will break down quickly and get overtaken by weeds if they are not regularly maintained.</p>
+<p>Here are some materials you can consider when making paths:
+<img title="A community garden with a brick pathway. Photo by Jacqueline Chua." src="/images/Garden%20design/zhenghuaSegar_JacChua.jpg">
+</p><p><b>Concrete and brick</b>, which can last for decades if built well. These pathways may need annual scrubbing as algae does tend to grow on the surface during the wet season. These pathways are also wheelchair-friendly if wide enough.</p> 
+<img title="Grass pathways between planting beds in a Community Garden. Photo by Jacqueline Chua." src="/images/Garden%20design/WoodlandsSwimmingComplex_JacChua.jpg">
+<p><b>Grass</b> is a classic material for garden paths, but because it is still a living plant, it will also need regular maintenance. Cow grass (<em>Axonopus compressus</em>) is one of hardiest species in Singapore, but it will still die back if a path is used too often. If grass dies back, it will expose the true ground underneath, which may make the path slippery and unsafe. Grass is not a wheelchair-friendly material.</p> 
+<img title="" src="">
+<p><b>Gravel</b> is an aesthetic material to make paths, with less weeding than stepping stones. Gravel paths are very easy to install,  but the stones may get kicked around by gardeners and may need topping up after a few years. These paths are not wheelchair-friendly.</p> 
+<img title="" src="">
+<p><b>Stepping</b> stones made from actual stone slabs or concrete pavers are an aesthetic way to make paths in a garden. However, this type of path will require regular weeding in between the stones, and annual scrubbing as algae does tend to grow on the surface during the wet season. This pathway is also not wheelchair-friendly.</p>
+</section>
+<br>
+<section>
+<h4>Designing pathways</h4>
+<img title="" src="">
+<p><b>Larger pathways</b> typically mean less space for planting, so a fine line needs to be walked in deciding how wide a path should be. Different areas can be defined for different users, which will also help to guide what kind of path is needed to get there. All paths should be wide enough to be comfortably walked on, and stable enough for squatting and bending to ensure safety as gardeners work.</p> 
+<img title="" src="">
+<p><b>Wheelchair-friendly paths</b> need to be made of high-quality concrete and be wide enough for wheelchairs to turn around or have another person next to them, which is usually 1.5m-2m wide. They also cannot have steps or edges that wheelchairs might mount. Most wheelchair-friendly paths are made with concrete and brick. You can read up more on designing amenities in the garden for wheelchairs in our guide here.</p> 
+<img title="" src="">
+<p><b>Areas with high traffic</b> (e.g., major garden amenities like water points, tool sheds and entrances) will need wider paths, usually at least 0.9m wide. These are called primary paths since they are the most important. Resilient materials like concrete and brick or gravel can withstand high footfall, and will need occasional maintenance.</p> 
+<img title="" src="">
+<p>Smaller secondary paths can lead to maintenance areas, individual planter beds, or other areas in the garden that need to be accessed but have less traffic. These paths are usually at least 0.45m, and  can be made from more aesthetic materials, like stepping stones, or grass. 
+</p></section>
