@@ -21,4 +21,8 @@ description: ""
 		<label for="accordion3">Volunteer</label><div>
 		<p>Want to volunteer as a gardener in a public park? Join us in maintaining our green spaces today by signing up for a <a href="https://www.volunteer.gov.sg/volunteer/agencies/agency_details?code=NParks#tab-mccy">gardening activity via SG cares!</a></p>
 	</div></li>
-</ul>
+	<li><input type="checkbox" id="accordion4">
+		<label for="accordion4">Professional development and qualifications</label><div>
+		<img title="NParks staff conducting a therapeutic horticulture session. Photo by Jacqueline Chua." src="/images/Gardeners/TherapeuticGardening_JacChua%20(3).jpg">
+		<p>The <a href="https://www.nparks.gov.sg/cuge">Centre for Urban Greenery and Ecology (CUGE)</a> offers a wide range of programmes to train and develop horticulturalists to work in the landscape industry. This includes Workforce Skill Qualifications, Skyrise Greenery Certification, ISA arborist certification, and more. Join a course today!  </p>
+</div></li></ul>
