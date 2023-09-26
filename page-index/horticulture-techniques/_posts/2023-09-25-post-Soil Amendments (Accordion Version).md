@@ -56,7 +56,7 @@ image: ""
 
 <ul class="jekyllcodex_accordion">
 	<li><input type="checkbox" id="accordion1">
-		<label for="accordian1">Burnt Earth</label><div>
+		<label for="accordion1">Burnt Earth</label><div>
 		<img title="Burnt earth is hard, porous and well draining. Photo by Jacqueline Chua" src="/images/Horti%20techniques/SoilAmendment_BurntEarth_Jacchua.jpg">
 		<p><b>Burnt earth</b> consists of chunks of clay that has been exposed to heat, making it porous and granular. It allows for better drainage and more air to reach the roots because it maintains its crumbly texture when fresh but may revert to being wet and sticky with prolonged use. Large chunks are preferred for mixing into soil as fine grains and dust from burnt earth tends to stick together in a thick layer at the bottom of the pot. Sieve out the larger parts from the dust before use. Burnt earth can be used in the place of clay soil to make a loamy soil mix from scratch.</p>
 	</div></li>
