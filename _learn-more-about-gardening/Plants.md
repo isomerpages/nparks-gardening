@@ -20,7 +20,8 @@ description: ""
 	}
 	
 	.plantsearch {
-		grid-template-columns:1, minmax(275px;1fr));
+		grid-column-start:1;
+		grid-column-end: 3;
 		grid-auto-rows: 50px;
 		background-color: #7a9a01;
 		border: 2px solid #215732;
