@@ -25,4 +25,5 @@ description: ""
 		<label for="accordion4">Professional development and qualifications</label><div>
 		<img title="NParks staff conducting a therapeutic horticulture session. Photo by Jacqueline Chua." src="/images/Gardeners/TherapeuticGardening_JacChua%20(3).jpg">
 		<p>The <a href="https://www.nparks.gov.sg/cuge">Centre for Urban Greenery and Ecology (CUGE)</a> offers a wide range of programmes to train and develop horticulturalists to work in the landscape industry. This includes Workforce Skill Qualifications, Skyrise Greenery Certification, ISA arborist certification, and more. Join a course today!  </p>
-</div></li></ul>
+	</div></li>
+</ul>
