@@ -41,7 +41,7 @@ image: ""
 
 <section>
 	<h4>Birds</h4>
-	<img title="Photo by Jacqueline Chua." src="/images/Biodiversity/bird_pinkneckgreenpigeon_jacchua.jpg">
-	<p>Birds are naturally drawn to green spaces, and are a common sight in most gardens regardless of the type. Some common species like Kingfishers, Oriental Magpie-robins, and Black-Naped Orioles will prey on larger garden pests like grasshoppers, caterpillars, and beetles.</p>
+	<img title="A white-throated kingfisher. Photo by Jacqueline Chua." src="/images/Biodiversity/whitethroatedkingfisher.jpg">
+	<p>Birds are naturally drawn to green spaces, and are a common sight in most gardens regardless of the type. Some common species like Kingfishers, Oriental Magpie-robins, and Black-Naped Orioles will prey on larger garden pests like grasshoppers, caterpillars, and beetles. Large raptors like owls and eagles will control populations of rodents like rats and squirrels, and are an exciting visitor to any garden!</p>
 	<br>
 </section>
