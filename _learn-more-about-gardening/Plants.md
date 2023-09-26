@@ -21,8 +21,10 @@ description: ""
 	
 	.plantsearch {
 		grid-column-start: 1;
-		grid-column-end: 2;
-		grid-auto-row: 50px;
+		grid-column-end: 3;
+		grid-auto-rows: 50px;
+		background-color: #215732;
+		border: 2px solid #215732;
 	}
 	
 	.button-primary {
@@ -36,6 +38,9 @@ description: ""
 </style>
 
 <div class="wrapper">
+	<div class="plantsearch">
+		<p>
+	</p></div>
   <div class="box">
 		<h4>Edible Plants</h4>
 	     <img style="height:150px; width:200px; display: inline" src=""><br>
