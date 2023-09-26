@@ -14,7 +14,7 @@ image: ""
 
 <section>
 	<h4>Why bottom water?</h4>
-	<img title="A diagram on how capillary action sucks water up from the bottom of the pot till all the soil is moist." src="">
+	<img title="A diagram on how capillary action sucks water up from the bottom of the pot till all the soil is moist." src="/images/Horti%20techniques/bottom%20watering.gif">
 	<p>Bottom watering works by capillary action, in which dry soil will soak up water until it can’t hold any more, which is known as the point of saturation. Because the bottom of the pot is sitting in water, water will be sucked upwards by the dry soil until all the soil in the pot is moist. Fully saturated loamy and sandy soils will hold moisture that plants can use but will not hold excess water that could cause root rot. Soaking up water via capillary action is also more consistent than traditional watering, where water may only run down the sides of a pot and leave the centre dry. </p>
 	<br>
 </section>
