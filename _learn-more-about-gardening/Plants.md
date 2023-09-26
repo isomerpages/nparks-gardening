@@ -25,8 +25,8 @@ description: ""
 		grid-auto-rows: 50px;
 		background-color: #215732;
 		border: 2px solid #215732;
-		padding: 0.5rem 1rem;
-  	border-radius: 1rem;
+		padding: 5px;
+  	border-radius: 10px;
     color: white !important;
 	  text-decoration: none !important;
 	}
@@ -42,9 +42,9 @@ description: ""
 </style>
 
 <div class="wrapper">
-	<div class="plantsearch">
-		<p>Not sure what plants to start with? You may use our plant search to guide you!
-	</p></div>
+	<a href="/digital-tools/plant-search/" class="plantsearch">
+		<p>Not sure what plants to start with? You may use our plant search to guide you!</p>
+	</a>
   <div class="box">
 		<h4>Edible Plants</h4>
 	     <img style="height:150px; width:200px; display: inline" src=""><br>
