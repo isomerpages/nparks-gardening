@@ -19,7 +19,7 @@ description: ""
 </style>
 
 <a id="top"></a>
-Click on an alphabet to learn more about different horticulture techniques!
+<strong>Click on an alphabet to learn more about different horticulture techniques!</strong>
 <table>
 	<tbody>
 		<tr>
