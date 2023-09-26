@@ -43,7 +43,7 @@ description: ""
 </style>
 
 <a href="/digital-tools/plant-search/" class="plantsearch">
-		<p>Click here to use our plant search if you have no clue what is suitable for your garden!</p>
+		Click here to use our plant search if you have no clue what is suitable for your garden!
 	</a>
 	
 <div class="wrapper">
