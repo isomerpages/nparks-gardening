@@ -42,10 +42,6 @@ description: ""
   }
 </style>
 
-<a href="/digital-tools/plant-search/" class="plantsearch">
-		Click here to use our plant search if you have no clue what is suitable for your garden!
-	</a>
-	
 <div class="wrapper">
   <div class="box">
 		<h4>Edible Plants</h4>
@@ -71,4 +67,10 @@ description: ""
 			<br>
 			<a class="button-primary" href="/page-index/glossary/biodiversity-attracting-plants/">Search now!</a><br>
 	</div>
+	<br>
 </div>
+
+<a href="/digital-tools/plant-search/" class="plantsearch">
+		Click here to use our plant search if you have no clue what is suitable for your garden!
+	</a>
+	
