@@ -23,6 +23,7 @@ description: ""
 		display: grid;
 		grid-template-columns:1fr;
 		grid-auto-rows: 35px;
+		text-align:center;
 		background-color: #7a9a01;
 		border: 2px solid #215732;
 		padding: 5px;
@@ -42,7 +43,7 @@ description: ""
 </style>
 
 <a href="/digital-tools/plant-search/" class="plantsearch">
-		<p style="text-align: center">Click here to use our plant search if you have no clue what is suitable for your garden!</p>
+		<p>Click here to use our plant search if you have no clue what is suitable for your garden!</p>
 	</a>
 	
 <div class="wrapper">
