@@ -22,7 +22,7 @@ description: ""
 	.plantsearch {
 		display: grid;
 		grid-template-columns:1fr;
-		grid-auto-rows: 35px;
+		grid-template-rows: 1fr;
 		text-align:center;
 		background-color: #7a9a01;
 		border: 2px solid #215732;
