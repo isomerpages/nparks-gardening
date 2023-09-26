@@ -25,13 +25,17 @@ description: ""
 		grid-auto-rows: 50px;
 		background-color: #215732;
 		border: 2px solid #215732;
+		padding: 0.5rem 1rem;
+  	border-radius: 1rem;
+    color: white !important;
+	  text-decoration: none !important;
 	}
 	
 	.button-primary {
     background-color: #215732;
     border: 2px solid #215732;
-    padding: 0.5rem 1rem;
-  	border-radius: 1rem;
+    padding: 10px;
+  	border-radius: 10px;
     color: white !important;
 	  text-decoration: none !important;
   }
@@ -39,7 +43,7 @@ description: ""
 
 <div class="wrapper">
 	<div class="plantsearch">
-		<p>
+		<p>Not sure what plants to start with? You may use our plant search to guide you!
 	</p></div>
   <div class="box">
 		<h4>Edible Plants</h4>
