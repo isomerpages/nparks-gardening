@@ -154,9 +154,9 @@ Low maintenance beds<br>
 Plant pathogens<br>
 Planting in containers<br>
 	<a href="/page-index/horticulture-techniques/true-ground/">Planting in true ground</a><br>
-<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/propagatingcuttings">Propagating via cuttings</a><br>
-<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/propagatingdivision">Propagating via division</a><br>
-<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/propagatingseed">Propagating via seeds</a><br>
+<a href="/page-index/horticulture-techniques/propagatingcuttings">Propagating via cuttings</a><br>
+<a href="/page-index/horticulture-techniques/propagatingdivision">Propagating via division</a><br>
+<a href="/page-index/horticulture-techniques/propagatingseed">Propagating via seeds</a><br>
 <br><br>
 </section>
 
