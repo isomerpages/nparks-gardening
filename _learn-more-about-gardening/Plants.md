@@ -43,7 +43,7 @@ description: ""
 
 <div class="wrapper">
 	<a href="/digital-tools/plant-search/" class="plantsearch">
-		<p>Not sure what plants to start with? You may use our plant search to guide you!</p>
+		<p style="text-align: center">Not sure what plants to start with? Click here to use our plant search to guide you!</p>
 	</a>
   <div class="box">
 		<h4>Edible Plants</h4>
