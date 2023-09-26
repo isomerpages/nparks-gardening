@@ -31,7 +31,7 @@ description: ""
 <section>
 	<div class="wrapper">
 		<div class="box">
-			<h5>Soft-bodied Sucking Pests</h5>
+			<h5>Sucking Pests</h5>
 			<img style="height:150px; width:200px; display: inline" src="/images/Biodiversity/aphids%20(2)_plantscienceandhealth_nparks.jpg"><br>
 			<ul>
 				<li><a href="/page-index/pests/aphids/">Aphids</a></li>
@@ -41,7 +41,7 @@ description: ""
 			</ul>
 		</div>
 		<div class="box">
-			<h5>Large Chewing Pests</h5>
+			<h5>Chewing Pests</h5>
 			<img style="height:150px; width:200px; display: inline" src="/images/Biodiversity/Caterpillar_LimeCaterpillar_JacChua%20(2).jpg"><br>
 			<ul>
 				<li><a href="/page-index/pests/caterpillars/">Caterpillars</a></li>
