@@ -23,7 +23,7 @@ image: ""
 </style>
 
 <a id="top"></a>
-Click on an alphabet to find a plant by its common name!
+<strong>Click on an alphabet to find a plant by its common name!</strong>
 <table>
 	<tbody>
 		<tr>
