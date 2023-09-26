@@ -31,28 +31,28 @@ description: ""
 <div class="wrapper">
   <div class="box">
 		<h5>Soil Calculator</h5>
-	     <img style="height:150px; width:200px; display: inline" src="/images/Digital%20Tools/soilcalc1.png"><br>
+	     <img style="display: inline" src="/images/Digital%20Tools/soilcalculator_square.png"><br>
 				Find out the volume of soil required for your planter<br>
 			<br>
 			<a class="button-primary" href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/digital-tools/soilcalculator/">Try it now!</a><br>
 	</div>
   <div class="box">
 		<h5>Harvest Planner</h5>
-			<img style="height:150px; width:200px; display: inline" src="/images/Digital%20Tools/calendar1.png"><br>
+			<img style="display: inline" src="/images/Digital%20Tools/calendar_square.png"><br>
 				Work out your harvest or sowing schedule with our planner<br>
 			<br>
 			<a class="button-primary" href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/digital-tools/sowing-planner/">Try it now</a>
 	</div>
 		<div class="box">
 			<h5>Pest Identifier</h5>
-						<img style="height:150px; width:200px; display: inline" src="/images/Digital%20Tools/pestidcalc.png"><br>
+						<img style="display: inline" src="/images/Digital%20Tools/pestidcalc_square.png"><br>
 							Zoom into the possible culprits attacking your plants<br>
 						<br>
 						<a class="button-primary" href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/digital-tools/pestid/">Try it now!</a>
 		</div>
   <div class="box">
 		<h5>Plant Search</h5>
-				<img style="height:150px; width:200px;display: inline" src=""><br>
+				<img style="display: inline" src="/images/Digital%20Tools/plantsearchicon_square.png"><br>
 					Find a plant to grow based on your garden conditions!<br>
 				<br>
 				<a class="button-primary" href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/digital-tools/plant-search/">Try it now!</a>
