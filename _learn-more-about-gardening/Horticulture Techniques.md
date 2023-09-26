@@ -13,7 +13,7 @@ description: ""
 		color:white;
 	}
 	
-	td {
+	table {
 		background-color: #7a9a01;
 		text-align: center;
 	}
