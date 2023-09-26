@@ -226,6 +226,6 @@ Click on an alphabet to find a plant by its common name!
 	
 <div class="float-buttons">
 	<div style="position:relative;" class="inner-wrapper-sticky">
-  <a style="text-decoration:none" class="float-buttons left" href="#top">↑back to top</a>
+  <a style="text-decoration:none" class="float-buttons left" href="#top">↑ Back to top</a>
 	</div>
 </div>
