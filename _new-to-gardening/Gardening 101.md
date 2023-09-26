@@ -38,7 +38,7 @@ description: ""
 	</div>
 	<div class="box">
 		<h4>Basic Gardening Skills</h4>
-			<img style="height:150px; width:200px" src="/images/Landing_page/Gardening101/secateurs.png"><br>
+			<img style="height:150px; width:200px; display: inline" src="/images/Landing_page/Gardening101/secateurs.png"><br>
 			Learn key skills for gardening<br><br>
 			<a class="button-primary" href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/new-to-gardening/basic-gardening-skills/">Try it now!</a>
 	</div>
