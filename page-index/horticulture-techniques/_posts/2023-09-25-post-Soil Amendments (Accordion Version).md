@@ -25,7 +25,7 @@ image: ""
 		<p><b>Cocopeat or coco coir</b> is a by-product of coconut husks and looks like fine brown particles that can rapidly expand in water. It is usually sold in dehydrated blocks that can expand up to 7 times their original volume when placed in water for rehydration. Rehydrated coco coir can be mixed into soil as an alternative to compost or peat. Coco coir is also much more sterile than compost and can be used for starting seeds.</p>
 	</div></li>
 	<li><input type="checkbox" id="accordion2">
-		<label for="accordion2">Coco Fibre</label><div>
+		<label for="accordion2">Coco Fiber</label><div>
 		<img title="Coco fibre is made from shredding coconut husks, and can be mixed into soil or used as mulch. Photo by Jacqueline Chua" src="/images/Horti%20techniques/Mulch_JacChua%20(1).jpg">
 		<p><b>Coco fibre</b> is also made from coconut husks, but the material is not ground down as finely and still looks like clumps of rough hair or chips. Coco fibre can also be directly mixed in with soil, but it is much chunkier and will not mix as readily as coco coir. Coco fibre is usually used as a lining for pots, or as a mulch. It can also be used as an alternative to sphagnum moss.</p>
 	</div></li>
@@ -39,7 +39,7 @@ image: ""
 		<p><b>Mature compost</b> is one of the most readily available soil amendments as it can be made at home or bought from nurseries. Mature compost should have a soft, fine texture and smell earthy. Compost with large chunks of rotting matter that smells unpleasant is immature, and not ready for use. It is important to use mature compost that is no longer decomposing as actively rotting material in immature compost can lock up nitrogen, which will stunt plant growth. Mature compost will have trace amounts of nutrients, which can also give a bit of a boost to your plants.</p>
 	</div></li>
 	<li><input type="checkbox" id="accordion5">
-		<label for="accordion5">Coco Fibre</label><div>
+		<label for="accordion5">Peat Moss</label><div>
 		<p><b>Peat moss</b> is decomposed moss harvested from the bottom of peat bogs and is traditionally a favored soil amendment as it is spongy and yet drains well. Peat moss particles are much smaller than sphagnum moss clumps, making it easier to mix into soil. Like sphagnum moss, its use has led to the degradation of peat bogs and is not sustainable in the long run. Consider replacing your peat moss use with more sustainable alternatives like mature compost or cocopeat. </p>
 	</div></li>
 	<li><input type="checkbox" id="accordion6">
@@ -58,12 +58,12 @@ image: ""
 	<li><input type="checkbox" id="accordion1">
 		<label for="accordian1">Burnt Earth</label><div>
 		<img title="Burnt earth is hard, porous and well draining. Photo by Jacqueline Chua" src="/images/Horti%20techniques/SoilAmendment_BurntEarth_Jacchua.jpg">
-	<p><b>Burnt earth</b> consists of chunks of clay that has been exposed to heat, making it porous and granular. It allows for better drainage and more air to reach the roots because it maintains its crumbly texture when fresh but may revert to being wet and sticky with prolonged use. Large chunks are preferred for mixing into soil as fine grains and dust from burnt earth tends to stick together in a thick layer at the bottom of the pot. Sieve out the larger parts from the dust before use. Burnt earth can be used in the place of clay soil to make a loamy soil mix from scratch. </p>
+	<p><b>Burnt earth</b> consists of chunks of clay that has been exposed to heat, making it porous and granular. It allows for better drainage and more air to reach the roots because it maintains its crumbly texture when fresh but may revert to being wet and sticky with prolonged use. Large chunks are preferred for mixing into soil as fine grains and dust from burnt earth tends to stick together in a thick layer at the bottom of the pot. Sieve out the larger parts from the dust before use. Burnt earth can be used in the place of clay soil to make a loamy soil mix from scratch.</p>
 	</div></li>
 	<li><input type="checkbox" id="accordion2">
 		<label for="accordion2">Pumice</label><div>
 		<img title="Pumice is a lightweight and porous rock that comes in various grain sizes. Photo by Jacqueline Chua" src="/images/Horti%20techniques/SoilAmendment_Grit_Jacchua%20(4).jpg">
-	<p><b>Pumice</b> refers to a lightweight volcanic rock that is highly porous. It increases drainage and aeration when mixed into soil, and is a popular soil additive for succulent, cacti and bonsai mixes. Pumice has lots of pores that can help to hold some water for plant roots to absorb, but allows excess water to drain away, thus preventing root rot. It is often used in rooting cuttings and in container gardening. </p>
+	<p><b>Pumice</b> refers to a lightweight volcanic rock that is highly porous. It increases drainage and aeration when mixed into soil, and is a popular soil additive for succulent, cacti and bonsai mixes. Pumice has lots of pores that can help to hold some water for plant roots to absorb, but allows excess water to drain away, thus preventing root rot. It is often used in rooting cuttings and in container gardening.</p>
 	</div></li>
 	<li><input type="checkbox" id="accordion3">
 		<label for="accordion3">Horticultural Sand</label><div>
@@ -79,4 +79,3 @@ image: ""
 		<p><b>Vermiculite</b> is a mineral that expands when heated, forming lightweight flakes that are highly porous. It increases drainage when mixed into soil and keeps it loose. Vermiculite flakes also absorb water like a sponge, making it a useful material to keep plants moist. It is often used in rooting cuttings, seed-starting mixes and in container gardening. Unfortunately, because it is so light, vermiculite tends to float to the top in lightweight soil mixes during watering and can be blown away by the wind. It needs to be mixed back into the soil periodically.</p>
 	</div></li>
 </ul>
-<br>
