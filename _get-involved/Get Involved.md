@@ -3,6 +3,7 @@ title: Get Involved
 permalink: /get-involved/get-involved/
 description: ""
 ---
+<p>Looking to grow your green fingers? Join Singapore's community of gardeners by joining a gardening programme, participating in a gardening event, volunteer in a green space, or by getting certified!</p>
 <ul class="jekyllcodex_accordion">
 	<li><input type="checkbox" id="accordion1">
 		<label for="accordion1">Programmes</label><div>
