@@ -4,9 +4,10 @@ permalink: /learn-more-about-gardening/horticulture-techniques/
 description: ""
 ---
 <style>
-	a {
-		color: #215732;
-{
+	a:link {
+		color: black;
+		text-decoration:none;
+	}
 
 </style>
 
