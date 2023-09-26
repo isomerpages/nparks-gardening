@@ -20,8 +20,9 @@ description: ""
 	}
 	
 	.plantsearch {
-		grid-template-columns: repeat(auto-fit, minmax(550px, 1fr));
-		grid-auto-rows: 50px;
+		display: grid;
+		grid-template-columns:1fr;
+		grid-auto-rows: 35px;
 		background-color: #7a9a01;
 		border: 2px solid #215732;
 		padding: 5px;
@@ -40,10 +41,11 @@ description: ""
   }
 </style>
 
-<div class="wrapper">
-	<a href="/digital-tools/plant-search/" class="plantsearch">
+<a href="/digital-tools/plant-search/" class="plantsearch">
 		<p style="text-align: center">Click here to use our plant search if you have no clue what is suitable for your garden!</p>
 	</a>
+	
+<div class="wrapper">
   <div class="box">
 		<h4>Edible Plants</h4>
 	     <img style="height:150px; width:200px; display: inline" src=""><br>
