@@ -3,6 +3,13 @@ title: Horticulture Techniques
 permalink: /learn-more-about-gardening/horticulture-techniques/
 description: ""
 ---
+<style>
+	a {
+		color: #215732;
+{
+
+</style>
+
 <a id="top"></a>
 Click on an alphabet to learn more about different horticulture techniques!
 <table>
