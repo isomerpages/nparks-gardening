@@ -12,11 +12,17 @@ description: ""
 		row-gap: 20px;
 	}
 
-	.box{
+	.box {
 		border: solid 1px #215732 ;
 		border-radius: 5px;
 		padding: 5px 10px 15px 10px;
 		justify-self: stretch;
+	}
+	
+	.plantsearch {
+		grid-column-start: 1;
+		grid-column-end: 2;
+		grid-auto-row: 50px;
 	}
 	
 	.button-primary {
