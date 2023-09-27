@@ -7,7 +7,7 @@ description: ""
 image: ""
 ---
 <section>
-	<img src="/images/Hardscapes/Trellis%20(10).jpg">
+	<img title="An Arch trellis with snake gourds. Photo by Jacqueline Chua." src="/images/Hardscapes/Trellis%20(10).jpg">
 	<p>Trellises are support structures made of metal, wood or plastic, that are used as support for climbing plants. Plants such as Butterfly Peas, Bitter gourd and Long Beans have weak stems and tendrils that naturally twirl and climb around nearby structures.  Trellises can support multiple plants, and are best used with plants that naturally climb over each other. If a trellis is tall and wide enough to work as a shelter when plants are grown over it, it is called a pergola, and can be used as a focal point within the garden.</p> 
 </section>
 <br>
