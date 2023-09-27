@@ -23,7 +23,6 @@ description: ""
   	padding:10px;
 	  border-radius: 95px 11px;
 	  transform: rotate(deg);
-		boxing-sizing: border-box;
     display:in-line;
 	  color: white !important; 
   	text-decoration: none !important; 
