@@ -13,7 +13,7 @@ image: ""
 <br>
 <section>
 <h4>Types of Shelters</h4>
-<img title="" src="">
+<img title="" src="/images/Hardscapes/shelter_jacchua.jpg">
 <p><b>Pavilions</b> are simple shelters with a solid roof and no walls. These are ideal for providing seating and storage options as gardeners will naturally gather under these shelters. Pavilions should be installed by contractors to ensure safety and resilience against the elements.</p> 
 <img title="" src="">
 <p>Pergolas are usually made of wood or metal, and have a slatted roof for vines to grow over. These shelters will not protect you from rain, but are ideal for providing dappled sunlight conditions for a rest area or to grow plants that need more shade.</p> 
