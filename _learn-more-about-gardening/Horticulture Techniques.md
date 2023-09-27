@@ -4,7 +4,7 @@ permalink: /learn-more-about-gardening/horticulture-techniques/
 description: ""
 ---
 <style>
-	section a:link, a:visited {
+	body a:link, a:visited {
 		color: black;
 		text-decoration:none;
 	}
@@ -67,18 +67,18 @@ description: ""
 </tbody></table>
 <br>
 
-<section>
+<section class="body">
 <h4 id="a">A</h4>
 	<br><br>
 </section>
 
-<section>
+<section class="body">
 <h4 id="b">B</h4>
 	<a href="/page-index/horticulture-techniques/bottom-watering/">Bottom watering</a><br>
 	 <br><br>
 </section>
 
-<section>
+<section class="body">
 <h4 id="c">C</h4>
 <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/choosingplants/">Choosing plants</a>
 	<br>
@@ -92,24 +92,24 @@ description: ""
 	 <br><br>
 </section>
 
-<section>
+<section class="body">
 <h4 id="d">D</h4>
 	<br><br>
 </section>
 
-<section>
+<section class="body">
 <h4 id="e">E</h4>
 	<br><br>
 </section>
 
-<section>
+<section class="body">
 <h4 id="f">F</h4>
 	<a href="/page-index/horticulture-techniques/fertilising/">Fertilising</a><br>
 	<a href="/page-index/horticulture-techniques/finding-pests/">Finding pests</a><br>
 	<br><br>
 </section>
 
-<section>
+<section class="body">
 <h4 id="g">G</h4>
 <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/gauging-light/">Gauging light</a><br>
 <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/growlights">Grow lights</a><br>
@@ -117,50 +117,50 @@ description: ""
 <br><br>
 </section>
 
-<section>
+<section class="body">
 <h4 id="h">H</h4>
 <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/pruning">Hard pruning</a><br>
 	<br><br>
 </section>
 
-<section>
+<section class="body">
 <h4 id="i">I</h4>
 	<a href="/page-index/horticulture-techniques/ipm">Integrated pest management</a><br>
 	<br><br>
 </section>
 
-<section>
+<section class="body">
 <h4 id="j">J</h4>
 	<br><br>
 	</section>
 
-<section>
+<section class="body">
 <h4 id="k">K</h4>
 <br><br>
 </section>
 
-<section>
+<section class="body">
 <h4 id="l">L</h4>
 Low maintenance beds<br>
 <br><br>
 </section>
 
-<section>
+<section class="body">
 <h4 id="m">M</h4>
 	<br><br>
 </section>
 
-<section>
+<section class="body">
 <h4 id="n">N</h4>
 <br><br>
 	</section>
 	
-<section>
+<section class="body">
 <h4 id="o">O</h4>
 <br><br>
 </section>
 
-<section>
+<section class="body">
 <h4 id="p">P</h4>
 	<a href="/page-index/horticulture-techniques/pest-control/">Pest control</a><br>
 Plant pathogens<br>
@@ -172,17 +172,17 @@ Planting in containers<br>
 <br><br>
 </section>
 
-<section>
+<section class="body">
 <h4 id="q">Q</h4>
 <br><br>
 	</section>
 	
-<section>
+<section class="body">
 <h4 id="r">R</h4>
 	<br><br>
 </section>
 
-<section>
+<section class="body">
 <h4 id="s">S</h4>
 	<a href="/page-index/horticulture-techniques/soil/">Soil</a><br>
 	<a href="/page-index/horticulture-techniques/soil-amendments/">Soil amendments</a><br>
@@ -191,39 +191,39 @@ Planting in containers<br>
 <br><br>
 </section>
 
-<section>
+<section class="body">
 <h4 id="t">T</h4>
 	<br><br>
 </section>
 
-<section>
+<section class="body">
 <h4 id="u">U</h4>
 	<br><br>
 	</section>
 
-<section>
+<section class="body">
 <h4 id="v">V</h4>
 	<br><br>
 	</section>
 	
-<section>
+<section class="body">
 <h4 id="w">W</h4>
 	<a href="/page-index/horticulture-techniques/watering/">Watering</a><br>
 	<a href="/page-index/horticulture-techniques/weeding/">Weeding</a><br>
 	<br><br>
 	</section>
 
-<section>
+<section class="body">
 <h4 id="x">X</h4>
 	<br><br>
 	</section>
 	
-<section>
+<section class="body">
 <h4 id="y">Y</h4>
 	<br><br>
 	</section>
 	
-<section>
+<section class="body">
 <h4 id="z">Z</h4>
 	<br><br>
 	</section>
