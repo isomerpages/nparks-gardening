@@ -59,10 +59,12 @@ description: ""
 		<ul>
 			<li><a href="https://www.hdb.gov.sg/community/getting-involved/lively-places-programme/lively-places-fund-and-challenge"> HDB's Lively Places fund</a></li>
 		</ul>
-		<ul>Gardens in the South West CDC:
+		<strong>Gardens in the South West CDC:</strong>
+		<ul>
 			<li><a href="https://southwest.cdc.gov.sg/what-we-do/for-environment/ecofund/">South West CDC's Eco Fund Plus</a></li>
 		</ul>
-		<ul>Gardens in the South East CDC:
+		<strong>Gardens in the South East CDC:</strong>
+		<ul>
 			<li><a href="https://southeast.cdc.gov.sg/what-we-do/future-ready/sustainable-living-south-east/"> Sustainable Living @ South East Grant </a></li>
 			</ul>																																															</div></li>
 </ul>
