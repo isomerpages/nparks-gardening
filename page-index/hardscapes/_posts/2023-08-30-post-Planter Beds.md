@@ -76,10 +76,15 @@ image: ""
 <section>
 <h4>Planter bed designs</h4>
 <p>Creative gardeners have made planter beds from all sorts of materials, and customized them to suit a wide variety of needs. Browse the gallery below to get some inspiration for planter beds of your own!</p> 
-<img title="Shallow, wooden planter beds upcycled from pallet wood" src="/images/Hardscapes/PlanterBed%20(12).jpg"> 
-	<p>Shallow, wooden planter beds upcycled from pallet wood.</p>
-<img title="Planter beds upcycled from wooden posts and oil drums. Photo by Jacqueline Chua" src="/images/Hardscapes/Upcycling_JacChua%20(4).jpg"> 
-	<p>Planter beds upcycled from wooden posts and oil drums.</p>
+	<p></p>
 	<img title="Planter beds made from brick and concrete that look like a flower when seen from above. Photo by Chai Weili." src="/images/Garden%20design/WoodlandsZone5_JacChua.jpg"> 
 	<p>Planter beds made from brick and concrete that look like a flower when seen from above.</p>
+<img title="Shallow planter beds made from upcycled pallet wood and concrete slabs. Photo by Jacqueline Chua" src="/images/Hardscapes/PlanterBed%20(12).jpg"> 
+	<p>Shallow planter beds made from upcycled pallet wood and concrete slabs.</p>
+<img title="Planter beds upcycled from wooden posts and oil drums. Photo by Jacqueline Chua" src="/images/Hardscapes/Upcycling_JacChua%20(4).jpg"> 
+	<p>Planter beds upcycled from wooden posts and oil drums.</p>
+	<img title="Concrete planter beds that are wheelchair-accessible, with an in-built storage unit below. Photo by Jacqueline Chua." src="/images/Garden%20design/TampinesArcadia_JacChua%20(2).jpg">
+	<p>Concrete planter beds that are wheelchair-accessible, with an in-built storage unit below. </p>
+	<img title="PEG tray planter beds arranged in pleasing shapes on a rooftop Community Garden. Photo by Jacqueline Chua." src="/images/Garden%20design/BuonaVistaZoneC_JacChua.jpg">
+	<p>PEG tray planter beds arranged in pleasing shapes on a rooftop Community Garden.</p>
 	</section>
