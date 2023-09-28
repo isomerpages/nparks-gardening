@@ -163,8 +163,6 @@ Low maintenance beds<br>
 <section class="body">
 <h4 id="p">P</h4>
 	<a href="/page-index/horticulture-techniques/pest-control/">Pest control</a><br>
-Plant pathogens<br>
-Planting in containers<br>
 	<a href="/page-index/horticulture-techniques/true-ground/">Planting in true ground</a><br>
 <a href="/page-index/horticulture-techniques/propagatingcuttings">Propagating via cuttings</a><br>
 <a href="/page-index/horticulture-techniques/propagatingdivision">Propagating via division</a><br>
@@ -232,4 +230,4 @@ Planting in containers<br>
 	<div style="position:relative;" class="inner-wrapper-sticky">
   <a style="text-decoration:none" class="float-buttons left" href="#top">↑ Back to top</a>
 	</div>
-	</div>
+</div>
