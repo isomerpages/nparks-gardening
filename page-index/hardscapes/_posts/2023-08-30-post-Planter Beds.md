@@ -37,33 +37,32 @@ image: ""
 <p>Shallow planter beds can also be raised on legs to gain the height needed for accessibility while reducing the amount of material needed to fill the bed itself. These legs can be bolted to the ground for stability or have wheels for flexibility in planter beds placement. Planter beds on legs are also more comfortable for wheelchair users as they can put their legs under the planter bed itself.</p> 
 	<img title="Planter bed heights for wheelchairs. Graphic by NParks." src="/images/picture2.png">
 <p></p><p>Planter beds can also be specially designed for wheelchair users, whether for general gardening, horticultural therapy or for ease of viewing. To make the beds accessible for wheelchair users to garden, the height of the bed must enable the wheelchair users to reach across to access the plants.</p> 
-<img title="Shallow planter beds raised on legs to make them more accessible. Photo by Jacqueline Chua." src="/images/Hardscapes/TablePlanterBed_JacChua%20(4).jpg"> 
 </section>
 <br>
 <section>
 <h4>Managing drainage</h4>
-<img title="" src=""> 
+<img title="A diagram on how planter beds should be filled to ensure drainage. Graphic by NParks." src="/images/picture3.png"> 
 <p>Water naturally flows down, and planter beds with drainage cells or pipes on the bottom will encourage water to flow out, reducing waterlogging within the bed. However, beds with no drainage, blocked drainage or too much clay soil on the bottom can have water pooling within the bed, which can result in root rot and the collection of stagnant water.  It is best practice to build a drainage layer at the bottom of your planter bed with drainage cells and geotextile that leads to an outlet, or incorporate a layer of stones or other inorganic soil amendments in the true ground underneath the planter bed itself to keep water flowing out.</p> 
 </section>
 <br>
 <section>
 <h4>Filling planter beds</h4>
-<img title="" src=""> 
+<img title="A planter bed filled with soil and growing vegetables. Photo by Jacqueline Chua." src="/images/Horti%20techniques/Spacing_JacChua%20(1).jpg"> 
 <p>Planter beds should ideally have loamy soil to grow a wide range of plants. The soil used to fill planter beds can also be easily enriched with organic fertilisers and additional organic materials, making it easier to work with than hard, compacted, and waterlogged true ground.</p> 
 <p>However, like in containers, soil will compress and compact over time as the organic matter in it decomposes, especially if it is left exposed to wind, rain and sun for long periods of time. This will look like your soil level is “sinking” down into your planter bed. Top up your soil occasionally with more loamy soil, or mix in more organic matter to refresh it.</p> 
 <p>The depth of soil in your planter bed will determine the kind of plants you can grow. Small plants like Xiao Bai Cai only need 10-15cm of soil, larger shrubs like Pagoda flowers will need 15-30cm of soil, and trees like River Tarennas and vines like Smooth Loofahs will need at least 30-50cm of soil to flourish. Find out how much soil you would need to fill up your planter bed with our soil calculator!</p> 
 <p>If your planter bed is much deeper than the depth needed to grow your desired plant, you can consider filling up the bottom with well-draining filler materials to reduce the amount of soil needed to fill the bed.</p>
 <p>You can consider these filler materials for lining the bottom of the planter beds:</p>
-<img title="" src=""> 
+<img title="Woody organic filler material for planter beds" src="/images/Horti%20techniques/Mulch_PineBark_Jacchua.jpg"> 
 <ul>
-<li>Large chunks of wood and wood chips</li>
+<li>Large chunks of wood, wood chips, cocochips</li>
 	<ul>
 	<li>Will eventually decompose into organic material that plants can use</li>
 	<li>Will cause the soil level to drop as decomposition takes place, and will need additional soil for topping up in a few years</li>
 	<li>Untreated woody material may harbour millipede eggs. Take care to choose heat-treated wood, wood chips and wood compost to prevent introducing too many millipedes to your garden.</li>
 	</ul>
 </ul>
-<img title="" src=""> 
+<img title="Stones used to line the bottom of planter beds. Photo by Jacqueline Chua." src="/images/Horti%20techniques/SoilAmendment_Grit_Jacchua%20(4).jpg"> 
 <ul>
 <li>Inorganic soil amendments</li>
 	<ul>
@@ -77,8 +76,10 @@ image: ""
 <section>
 <h4>Planter bed designs</h4>
 <p>Creative gardeners have made planter beds from all sorts of materials, and customized them to suit a wide variety of needs. Browse the gallery below to get some inspiration for planter beds of your own!</p> 
-<img title="" src=""> 
-<img title="" src=""> 
-<img title="" src=""> 
-<img title="" src=""> 
-<img title="" src=""> </section>
+<img title="Shallow, wooden planter beds upcycled from pallet wood" src="/images/Hardscapes/PlanterBed%20(12).jpg"> 
+	<p>Shallow, wooden planter beds upcycled from pallet wood.</p>
+<img title="Planter beds upcycled from wooden posts and oil drums. Photo by Jacqueline Chua" src="/images/Hardscapes/Upcycling_JacChua%20(4).jpg"> 
+	<p>Planter beds upcycled from wooden posts and oil drums.</p>
+	<img title="Planter beds made from brick and concrete that look like a flower when seen from above. Photo by Chai Weili." src="/images/Garden%20design/WoodlandsZone5_JacChua.jpg"> 
+	<p>Planter beds made from brick and concrete that look like a flower when seen from above.</p>
+	</section>
