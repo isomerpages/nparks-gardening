@@ -14,12 +14,13 @@ description: ""
   }
 </style>
 
-<img src="/images/Garden%20design/Bishan%20East%20zone%206_JacChua.jpg">
-<p>Community Gardens are common green spaces managed by volunteers. They can be found in the heartlands, in private estates, schools, and organisations. Community Gardens come in many forms, and serve a wide variety of functions; from edible gardens where the community grows a wide variety of edible plant species for either self-consumption or sharing with community, biodiversity enhancing gardens where they grow plants to support local biodiversity, and ornamental gardens where they showcase expertise like orchid cultivation or bonsai growing. These gardens also support community bonding and other social activities, making them hubs for collaboration for residents, students, teachers, researchers and more.</p>
-
-<p>Community gardeners can seek horticultural and management advice from <a href="/get-involved/communityinbloom/">Community In Bloom</a>, an NParks programme that helps to start and develop community gardens islandwide.</p>
-
-<p>To see what some community gardens look like, visit our Community Garden showcase page.</p>
+<section>
+	<img src="/images/Garden%20design/Bishan%20East%20zone%206_JacChua.jpg">
+	<p>Community Gardens are common green spaces managed by volunteers. They can be found in the heartlands, in private estates, schools, and organisations. Community Gardens come in many forms, and serve a wide variety of functions; from edible gardens where the community grows a wide variety of edible plant species for either self-consumption or sharing with community, biodiversity enhancing gardens where they grow plants to support local biodiversity, and ornamental gardens where they showcase expertise like orchid cultivation or bonsai growing. These gardens also support community bonding and other social activities, making them hubs for collaboration for residents, students, teachers, researchers and more.</p>
+	<p>Community gardeners can seek horticultural and management advice from Community In Bloom, an NParks programme that helps to start and develop community gardens islandwide.</p>
+	<p>To see what some community gardens look like, visit our Community Garden showcase page.</p>
+	<br>
+</section>
 
 <ul class="jekyllcodex_accordion">
 	<li><input type="checkbox" id="accordion1">
