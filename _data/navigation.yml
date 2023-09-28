@@ -1,5 +1,16 @@
 logo: /images/Landing_page/nparks logo (new  tagline) - colour.png
 links:
+  - title: Get Involved
+    url: /get-involved/community-gardens
+    sublinks:
+      - title: Community Gardens
+        url: /get-involved/community-gardening
+      - title: Allotment Gardens
+        url: /get-involved/allotment-gardens
+      - title: Events
+        url: /get-involved/events
+      - title: Volunteer
+        url: https://www.volunteer.gov.sg/volunteer/agencies/agency_details?code=NParks#tab-mccy
   - title: Learn more about gardening
     url: /learn-more-about-gardening
     sublinks:
@@ -13,6 +24,8 @@ links:
         url: /learn-more-about-gardening/garden-biodiversity
       - title: Garden Design
         url: /permalink
+      - title: Professional Development
+        url: https://www.nparks.gov.sg/cuge
   - title: Garden Management
     url: /permalink
     sublinks:
@@ -24,14 +37,3 @@ links:
         url: /permalink
   - title: Index
     url: /page-index/
-  - title: Get Involved
-    url: /get-involved/community-gardens
-    sublinks:
-      - title: Community Gardens
-        url: /get-involved/community-gardening
-      - title: Allotment Gardens
-        url: /get-involved/allotment-gardens
-      - title: Events
-        url: /get-involved/events
-      - title: Volunteer
-        url: https://www.volunteer.gov.sg/volunteer/agencies/agency_details?code=NParks#tab-mccy
