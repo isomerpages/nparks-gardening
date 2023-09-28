@@ -15,11 +15,11 @@ image: ""
 <h4>Storage types</h4>
 <p>There are many storage systems available on the market, but deciding on the size and type of storage is very much up to each gardener’s personal taste. Here are some examples of storage to inspire you:</p> 
 <img title="A garden shed. Photo by Jacqueline Chua." src="/images/Hardscapes/Storage_JacChua%20(6).jpg">
-<p>Garden sheds are best for large gardens or gardens with a lot of common tools and materials. These large storage solutions enable gardens to save money by providing space for items bought in bulk. </p> 
+	<p><b>Garden sheds</b> are best for large gardens or gardens with a lot of common tools and materials. These large storage solutions enable gardens to save money by providing space for items bought in bulk. </p> 
 <img title="An outdoor cupboard in a Community Garden. Photo by Jacqueline Chua." src="/images/Hardscapes/Storage_JacChua%20(1).jpg">
-<p>Waterproof outdoor cupboards or shelves can also store a variety of materials, but in smaller quantities. Cupboards with doors or drawers provide more protection and look neater, while open shelves are easier to take stock of and are cheaper.</p>  
+	<p><b>Waterproof outdoor cupboards or shelves</b> can also store a variety of materials, but in smaller quantities. Cupboards with doors or drawers provide more protection and look neater, while open shelves are easier to take stock of and are cheaper.</p>  
 <img title="Planter beds with built-in storage units underneath. Photo by Jacqueline Chua." src="/images/Garden%20design/TampinesArcadia_JacChua%20(2).jpg">
-<p>Boxes and in-built storage spaces can be very convenient as they are small enough to be kept close to various gardening areas. They can be used to separate specific tools from general gardening materials or hold personal gardening items like gloves and hats.</p>  
+	<p><b>Boxes and in-built storage spaces</b> can be very convenient as they are small enough to be kept close to various gardening areas. They can be used to separate specific tools from general gardening materials or hold personal gardening items like gloves and hats.</p>  
 </section>
 <br>
 <section>
