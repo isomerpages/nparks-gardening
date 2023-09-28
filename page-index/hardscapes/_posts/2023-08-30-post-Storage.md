@@ -7,6 +7,7 @@ description: ""
 image: ""
 ---
 <section>
+	<img title="A storage shed with a Community GArdener arranging tools. Photo by Jacqueline Chua." src="/images/Hardscapes/Storage_JacChua%20(5).jpg">
 <p>Keeping tools in dedicated storage spaces will keep your garden neat and extend the life of your tools and garden materials. Bagged compost, fertilisers, pots, seeds, tools, hardscape materials, and pest control materials are just some of the things that should be kept in storage to keep them functional. </p> 
 </section>
 <br>
