@@ -64,6 +64,5 @@ description: ""
 		</ul>
 		<ul>Gardens in the South East CDC:
 			<li><a href="https://southeast.cdc.gov.sg/what-we-do/future-ready/sustainable-living-south-east/"> Sustainable Living @ South East Grant </a></li>
-		</ul>
-																																																			 </div></li>
-																																																			 </ul>
+			</ul>																																															</div></li>
+</ul>
