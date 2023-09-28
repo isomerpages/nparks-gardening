@@ -17,7 +17,7 @@ description: ""
 <img src="/images/Garden%20design/Bishan%20East%20zone%206_JacChua.jpg">
 <p>Community Gardens are common green spaces managed by volunteers. They can be found in the heartlands, in private estates, schools, and organisations. Community Gardens come in many forms, and serve a wide variety of functions; from edible gardens where the community grows a wide variety of edible plant species for either self-consumption or sharing with community, biodiversity enhancing gardens where they grow plants to support local biodiversity, and ornamental gardens where they showcase expertise like orchid cultivation or bonsai growing. These gardens also support community bonding and other social activities, making them hubs for collaboration for residents, students, teachers, researchers and more.</p>
 
-<p>Community gardeners can seek horticultural and management advice from Community In Bloom, an NParks programme that helps to start and develop community gardens islandwide.</p>
+<p>Community gardeners can seek horticultural and management advice from <a href="/get-involved/communityinbloom/">Community In Bloom</a>, an NParks programme that helps to start and develop community gardens islandwide.</p>
 
 <p>To see what some community gardens look like, visit our Community Garden showcase page.</p>
 
@@ -33,7 +33,7 @@ description: ""
 		<img src="/images/Gardeners/Outreach%20(3).jpg">
 		<p>The starting process will be different depending on where you site your garden. All gardens will need to form a gardening group, have a managing body (for example, a Residents' Committee or Network, Neighbourhood Committee, School or Organisation), and to seek permission from the relevant landowner.</p>
 		<p>Ready to start a community garden? Fill out the form below and a Community In Bloom staff will get in touch with you!</p>
-		<a class="button-primary" href="https://form.gov.sg/64b78ef1a218a40012387fa4">Start a Community Garden now!</a>
+		<a class="button-primary" href="https://form.gov.sg/64b78ef1a218a40012387fa4">Start a Community Garden now!</a><br>
 	</div></li>
 	<li><input type="checkbox" id="accordion3">
 		<label for="accordion3">What can I do with my Community Garden?</label><div>
