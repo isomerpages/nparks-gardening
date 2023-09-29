@@ -62,10 +62,9 @@ image: ""
 				<li><a href="/page-index/edible-plants/longevity-spinach">	Longevity spinach</a></li>
 			</ul>
 		</div></li>
-	<ul>
-Watch: Growing herbs for corridor gardens
-Watch: Shade-loving edible plants
-	<br>
+	<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/eVBFePei-Bk?si=rz827tqlwF7jGvPC" height="315" width="560"></iframe><br>
+	<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/SfuujJwcZR8?si=EWSB8tRBBKU4mpPi" height="315" width="560"></iframe><br>
+	</ul>
 	<p>Here are some ornamental plants to grow along your corridor</p>
 	<ul class="jekyllcodex_accordion">
 		<li><input type="checkbox" id="accordion1">
@@ -95,4 +94,4 @@ Watch: Shade-loving edible plants
 		</div></li>
 	</ul>
 		<p>Download our indoor gardening guide <a href="https://www.nparks.gov.sg/-/media/nparks-real-content/gardening/community-in-bloom/cib-indoor-gardening/introduction-to-indoor-gardening.ashx">here</a>.</p>
-</ul></ul></section>
+</section>
