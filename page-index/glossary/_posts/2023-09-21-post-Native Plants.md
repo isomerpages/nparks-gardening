@@ -7,9 +7,14 @@ description: ""
 image: ""
 ---
 <style>
-	a:link.body; a:visited.body {
+	a:link.body {
 		color: black;
 		text-decoration: none;
+	}
+	
+	a:hover.body {
+		color: #215732;
+		text-decoration:underline;
 	}
 	
 	table a:link {
