@@ -27,8 +27,8 @@ image: ""
 	<h4>Environmental needs:</h4>
 		<img src="/images/Plants/BluePeaFlower_JacChua.jpg">
 		<p>This plant thrives in <a href="/page-index/horticulture-techniques/gauging-light/">4-8 hours of direct sunlight</a>. Plants do best in <a href="/page-index/horticulture-techniques/soil/">loamy soil</a> at least 20cm deep, or in true ground.</p>
-		<p>This vine is vulnerable to heat stress during the dry season. Water it regularly and mulch the base to prevent water loss.</p>
-		<p>As a fast-growing vine, this plant needs to be trained up a light trellis. The vine readily produces flowers and can be used to beautify fences and arch trellises.</p>
+		<p>This vine is vulnerable to heat stress during the dry season. Water it regularly and <a href="/page-index/horticulture-techniques/mulching/">mulch</a> the base to prevent water loss.</p>
+	<p>As a fast-growing vine, this plant needs to be trained up a light <a href="/page-index/hardscapes/trellises/">trellis</a>. The vine readily produces flowers and can be used to beautify fences and arch trellises.</p>
 		<iframe width="100%" height="415" src="https://www.youtube.com/embed/SUQGxxAAcNs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
 		<p>As with all members of the bean family, this plant is pollinated by bees. Growing more <a href="/page-index/glossary/biodiversity-attracting-plants/">bee-attracting plants</a> within the garden will encourage pollination.</p>
 	<br>
@@ -38,14 +38,14 @@ image: ""
   <h4>Sowing seeds:</h4>
 		<p>Seeds can be sown directly into pots or the ground around 15cm apart. Lightly water the soil until damp, once a day. Seeds should sprout within 10 days.</p>
 		<iframe width="100%" height="415" src="https://www.youtube.com/embed/x7J87wY7U6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
-		<p>The seedlings are generally resilient to most environmental factors but may be vulnerable to being eaten by snails or birds. Protect your young plants with a DIY cloche or netting.</p>
+		<p>The seedlings are generally resilient to most environmental factors but may be vulnerable to being eaten by snails or birds. Protect your young plants with a DIY <a href="/page-index/horticulture-techniques/cloches/">cloche</a> or <a href="/page-index/hardscapes/netting/">netting</a>.</p>
 	<br>
 </section>
 
 <section>
 	<h4>Growing:</h4>
 		<p>Bean plants generally don’t require much fertilising because they are able to fix their own nitrogen.</p>
-		<p>Because the vines will grow on top of each other, it is a good practice to <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/pruning/">prune regularly</a> and remove dead leaves and vines to improve ventilation and allow light to reach more of the plant.</p>
+		<p>Because the vines will grow on top of each other, it is a good practice to <a href="/page-index/horticulture-techniques/pruning/">prune regularly</a> and remove dead leaves and vines to improve ventilation and allow light to reach more of the plant.</p>
 	<br>
 </section>
 
@@ -59,14 +59,14 @@ image: ""
 
 <section>
 	<h4>Propagation:</h4>
-		<p>This vine can be grown via <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/propagatingseed/">seeds</a>. Seeds can be taken from mature fruit for immediate planting.</p>
+		<p>This vine can be grown via <a href="/horticulture-techniques/propagating-by-seed/">seeds</a>. Seeds can be taken from mature fruit for immediate planting.</p>
 	<br>
 </section>
 
 <section>
 	<h4>Common problems &amp; solutions:</h4>
-		<p><a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/pests/aphids/">Aphids</a>, mealy bugs, and spider mites often infest the plant if it is sickly or overgrown. <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/pruning/">Prune off</a> the infested parts, or apply horticultural oils like neem oil and white summer oil to suffocate the remaining pests. Regularly prune the plant to allow light and air to reach throughout the plant, and check the plant for underlying problems like root rot, lack of sunlight, and nutrient deficiencies.</p>
-		<p>Whiteflies can infest the plant and lay eggs under its leaves. Remove affected plant parts and catch remaining adults with yellow sticky paper or treat them with citrus spray.</p>
-		<p>Wilting leaves during hot weather is a sign of heat stress. Increase the number of times the plant is watered daily, and apply mulch at the base to prevent water loss.</p>
+		<p><a href="/page-index/pests/aphids/">Aphids</a>, <a href="/page-index/pests/mealy-bugs/">mealy bugs</a>, and <a href="/page-index/pests/spider-mites/">spider mites</a> often infest the plant if it is sickly or overgrown. <a href="/page-index/horticulture-techniques/pruning/">Prune off</a> the infested parts, or apply horticultural oils like neem oil and white summer oil to suffocate the remaining pests. Regularly prune the plant to allow light and air to reach throughout the plant, and check the plant for underlying problems like root rot, lack of sunlight, and nutrient deficiencies.</p>
+	<p>Whiteflies can infest the plant and lay eggs under its leaves. Remove affected plant parts and catch remaining adults with yellow sticky paper or treat them with citrus spray.</p>
+	<p><a href="/page-index/plant-problems/wilting/">Wilting</a> leaves during hot weather is a sign of heat stress. Increase the number of times the plant is watered daily, and apply mulch at the base to prevent water loss.</p>
 	<br>
 </section>
