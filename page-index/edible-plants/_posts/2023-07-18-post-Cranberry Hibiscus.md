@@ -70,6 +70,6 @@ image: ""
 <section>
 	<h4>Common problems &amp; solutions:</h4>
 		<p>If your plant has little to no flowers, you try fertilising the plant with fertilisers high in Phosphorus and Potassium. These nutrients encourage root and flower growth.</p>
-		<p><a href="/page-index/pests/aphids/">Aphids</a>, mealy bugs, and spider mites often infest the plant if it is sickly or overgrown. Prune off the infested parts, or apply horticultural oils like neem oil and white summer oil to suffocate the remaining pests. Regularly prune the plant to allow light and air to reach throughout the plant, and check the plant for underlying problems like root rot, lack of sunlight, and nutrient deficiencies.</p>
+		<p><a href="/page-index/pests/aphids/">Aphids</a>, <a href="/page-index/pests/mealy-bugs/">mealy bugs</a>, and <a href="/page-index/pests/spider-mites/">spider mites</a> often infest the plant if it is sickly or overgrown. Prune off the infested parts, or apply horticultural oils like neem oil and white summer oil to suffocate the remaining pests. Regularly prune the plant to allow light and air to reach throughout the plant, and check the plant for underlying problems like root rot, lack of sunlight, and nutrient deficiencies.</p>
 	<br>
 </section>
