@@ -7,17 +7,18 @@ description: ""
 image: ""
 ---
 <style>
-	a:link; a:visited {
+	a:link.body; a:visited.body {
 		color: black;
-		text-decoration:none;
+		text-decoration: none;
 	}
 	
 	table a:link {
-		color:white;
+		color: white;
+		text-decoration: none;
 	}
 	
 	table {
-		background-color: #7a9a01;
+		background-color: #215732;
 		text-align: center;
 	}
 </style>
