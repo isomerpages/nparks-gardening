@@ -4,7 +4,7 @@ permalink: /learn-more-about-gardening/horticulture-techniques/
 description: ""
 ---
 <style>
-a:link.body {
+	a:link.body, a:visited.body {
 		color: black;
 		text-decoration: none;
 	}
@@ -79,11 +79,11 @@ a:link.body {
 	<a class="body" href="/page-index/horticulture-techniques/bottom-watering/">Bottom watering</a><br>
 	 <br><br>
 <h4 id="c">C</h4>
-<a class="body" href="/page-index/horticulture-techniques/choosingplants/">Choosing plants</a>
+<a class="body" href="/page-index/horticulture-techniques/choosing-plants/">Choosing plants</a>
 	<br>
 	<a class="body" href="/page-index/horticulture-techniques/cloches/">Cloche</a>
 	<br>
-<a class="body" href="/page-index/horticulture-techniques/companionplanting">Companion planting</a>
+<a class="body" href="/page-index/horticulture-techniques/companion-planting">Companion planting</a>
 	<br>
 <a class="body" href="/page-index/horticulture-techniques/composting/">Composting</a>
 	<br>
@@ -99,7 +99,7 @@ a:link.body {
 	<br><br>
 <h4 id="g">G</h4>
 <a class="body" href="/page-index/horticulture-techniques/gauging-light/">Gauging light</a><br>
-<a class="body" href="/page-index/horticulture-techniques/growlights">Grow lights</a><br>
+<a class="body" href="/page-index/horticulture-techniques/grow-lights">Grow lights</a><br>
 	<a class="body" href="/page-index/horticulture-techniques/harvesting-hygiene/">Growing edibles for consumption</a><br>
 <br><br>
 <h4 id="h">H</h4>
@@ -124,9 +124,9 @@ Low maintenance beds<br>
 <h4 id="p">P</h4>
 	<a class="body" href="/page-index/horticulture-techniques/pest-control/">Pest control</a><br>
 	<a class="body" href="/page-index/horticulture-techniques/true-ground/">Planting in true ground</a><br>
-<a class="body" href="/page-index/horticulture-techniques/propagatingcuttings">Propagating via cuttings</a><br>
-<a class="body" href="/page-index/horticulture-techniques/propagatingdivision">Propagating via division</a><br>
-<a class="body" href="/page-index/horticulture-techniques/propagatingseed">Propagating via seeds</a><br>
+<a class="body" href="/page-index/horticulture-techniques/propagating-by-cuttings">Propagating via cuttings</a><br>
+<a class="body" href="/page-index/horticulture-techniques/propagating-by-division">Propagating via division</a><br>
+<a class="body" href="/page-index/horticulture-techniques/propagating-by-seed">Propagating via seeds</a><br>
 <br><br>
 <h4 id="q">Q</h4>
 <br><br>
