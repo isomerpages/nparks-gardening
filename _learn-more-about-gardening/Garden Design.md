@@ -14,7 +14,7 @@ description: ""
 	<ol>
 		<li>Gather your community, and assess their needs</li>
 		<ul>
-			<li>Gardeners may have varied interests, fitness levels, and horticultural know-how</li>
+			<li>Gardeners may have varied interests, mobility levels, and horticultural know-how.</li>
 			<li>Listing down specific wants (e.g., a space to grow edible plants) and needs (e.g., a wheelchair-accessible path) will help with site selection and the final design.</li>
 		</ul>
 		<li>Select a site</li>
@@ -42,8 +42,14 @@ description: ""
 		</ul>
 		<li>Sketch your garden design and measure out major amenities</li>
 		<ul>
-			<li>The most important parts of a garden are the planting areas, either in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a> or <a href="/page-index/hardscapes/planter-beds/">planter beds</a>. Planting areas should be no wider than 2m across to ensure easy access by the gardeners. Planting areas should be placed where there is the most sun in the garden. </li>
-			<li>Other major amenities like <a href="/page-index/hardscapes/storage/">storage</a>, <a href="/page-index/hardscapes/water-points/">water points</a> and <a href="/page-index/hardscapes/shelters/">shelters</a> can be then allocated to the shadier parts of the garden. </li>
-			<li>Once all the major amenities have been placed, <a href="/page-index/hardscapes/pathways/">pathways</a> can be drawn to link them all up. Larger, primary pathways should lead between the entrance and major amenities, while smaller pathways can be used to access the rest of the garden.</li>
+			<li>The most important parts of a garden are the planting areas, either in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a> or <a href="/page-index/hardscapes/planter-beds/">planter beds</a>.
+			<ul>
+				<li>Planting areas should be no wider than 2m across to ensure easy access by the gardeners.</li>
+				<li>Planting areas should be placed where there is the most sun in the garden. </li>
+				</ul>
+			</li><li>Other major amenities like <a href="/page-index/hardscapes/storage/">storage</a>, <a href="/page-index/hardscapes/water-points/">water points</a> and <a href="/page-index/hardscapes/shelters/">shelters</a> can be then allocated to the shadier parts of the garden. </li>
+			<li>Once all the major amenities have been placed, <a href="/page-index/hardscapes/pathways/">pathways</a> can be drawn to link them all up. Larger, primary pathways should lead between the entrance and major amenities, while smaller, secondary pathways can be used to access the rest of the garden.</li>
+		</ul></ol>
+<p>Browse our <a href="https://www.nparks.gov.sg/gardening/community-gardens/start-a-community-garden">template designs</a> to see how to put things all together!
 		
-	</ul></ol></section>
+</p></section>
