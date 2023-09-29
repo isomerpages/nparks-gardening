@@ -17,7 +17,7 @@ image: ""
 	}
 	
 	table {
-		background-color: #7a9a01;
+		background-color: #215732;
 		text-align: center;
 	}
 </style>
