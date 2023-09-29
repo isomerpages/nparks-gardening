@@ -71,37 +71,37 @@ description: ""
 <h4 id="a">A</h4>
 	<br><br>
 <h4 id="b">B</h4>
-	<a href="/page-index/horticulture-techniques/bottom-watering/">Bottom watering</a><br>
+	<a class="body" href="/page-index/horticulture-techniques/bottom-watering/">Bottom watering</a><br>
 	 <br><br>
 <h4 id="c">C</h4>
-<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/choosingplants/">Choosing plants</a>
+<a class="body" href="/page-index/horticulture-techniques/choosingplants/">Choosing plants</a>
 	<br>
-	<a href="/page-index/horticulture-techniques/cloches/">Cloche</a>
+	<a class="body" href="/page-index/horticulture-techniques/cloches/">Cloche</a>
 	<br>
-<a href="/page-index/horticulture-techniques/companionplanting">Companion planting</a>
+<a class="body" href="/page-index/horticulture-techniques/companionplanting">Companion planting</a>
 	<br>
-<a href="/page-index/horticulture-techniques/composting/">Composting</a>
+<a class="body" href="/page-index/horticulture-techniques/composting/">Composting</a>
 	<br>
-<a href="/page-index/horticulture-techniques/cut-and-come-again/">Cut and come again harvesting</a><br>
+<a class="body" href="/page-index/horticulture-techniques/cut-and-come-again/">Cut and come again harvesting</a><br>
 	 <br><br>
 <h4 id="d">D</h4>
 	<br><br>
 <h4 id="e">E</h4>
 	<br><br>
 <h4 id="f">F</h4>
-	<a href="/page-index/horticulture-techniques/fertilising/">Fertilising</a><br>
-	<a href="/page-index/horticulture-techniques/finding-pests/">Finding pests</a><br>
+	<a class="body" href="/page-index/horticulture-techniques/fertilising/">Fertilising</a><br>
+	<a class="body" href="/page-index/horticulture-techniques/finding-pests/">Finding pests</a><br>
 	<br><br>
 <h4 id="g">G</h4>
-<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/gauging-light/">Gauging light</a><br>
-<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/growlights">Grow lights</a><br>
-	<a href="/page-index/horticulture-techniques/harvesting-hygiene/">Growing edibles for consumption</a><br>
+<a class="body" href="/page-index/horticulture-techniques/gauging-light/">Gauging light</a><br>
+<a class="body" href="/page-index/horticulture-techniques/growlights">Grow lights</a><br>
+	<a class="body" href="/page-index/horticulture-techniques/harvesting-hygiene/">Growing edibles for consumption</a><br>
 <br><br>
 <h4 id="h">H</h4>
-<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/pruning">Hard pruning</a><br>
+<a class="body" href="/page-index/horticulture-techniques/pruning">Hard pruning</a><br>
 	<br><br>
 <h4 id="i">I</h4>
-	<a href="/page-index/horticulture-techniques/ipm">Integrated pest management</a><br>
+	<a class="body" href="/page-index/horticulture-techniques/ipm">Integrated pest management</a><br>
 	<br><br>
 <h4 id="j">J</h4>
 	<br><br>
@@ -117,21 +117,21 @@ Low maintenance beds<br>
 <h4 id="o">O</h4>
 <br><br>
 <h4 id="p">P</h4>
-	<a href="/page-index/horticulture-techniques/pest-control/">Pest control</a><br>
-	<a href="/page-index/horticulture-techniques/true-ground/">Planting in true ground</a><br>
-<a href="/page-index/horticulture-techniques/propagatingcuttings">Propagating via cuttings</a><br>
-<a href="/page-index/horticulture-techniques/propagatingdivision">Propagating via division</a><br>
-<a href="/page-index/horticulture-techniques/propagatingseed">Propagating via seeds</a><br>
+	<a class="body" href="/page-index/horticulture-techniques/pest-control/">Pest control</a><br>
+	<a class="body" href="/page-index/horticulture-techniques/true-ground/">Planting in true ground</a><br>
+<a class="body" href="/page-index/horticulture-techniques/propagatingcuttings">Propagating via cuttings</a><br>
+<a class="body" href="/page-index/horticulture-techniques/propagatingdivision">Propagating via division</a><br>
+<a class="body" href="/page-index/horticulture-techniques/propagatingseed">Propagating via seeds</a><br>
 <br><br>
 <h4 id="q">Q</h4>
 <br><br>
 <h4 id="r">R</h4>
 	<br><br>
 <h4 id="s">S</h4>
-	<a href="/page-index/horticulture-techniques/soil/">Soil</a><br>
-	<a href="/page-index/horticulture-techniques/soil-amendments/">Soil amendments</a><br>
-	<a href="/page-index/horticulture-techniques/soil-amendments-2/">Soil amendments (Accordion Ver)</a><br>
-	<a href="/page-index/horticulture-techniques/plant-spacing/">Spacing</a><br>
+	<a class="body" href="/page-index/horticulture-techniques/soil/">Soil</a><br>
+	<a class="body" href="/page-index/horticulture-techniques/soil-amendments/">Soil amendments</a><br>
+	<a class="body" href="/page-index/horticulture-techniques/soil-amendments-2/">Soil amendments (Accordion Ver)</a><br>
+	<a class="body" href="/page-index/horticulture-techniques/plant-spacing/">Spacing</a><br>
 <br><br>
 <h4 id="t">T</h4>
 	<br><br>
@@ -140,8 +140,8 @@ Low maintenance beds<br>
 <h4 id="v">V</h4>
 	<br><br>
 <h4 id="w">W</h4>
-	<a href="/page-index/horticulture-techniques/watering/">Watering</a><br>
-	<a href="/page-index/horticulture-techniques/weeding/">Weeding</a><br>
+	<a class="body" href="/page-index/horticulture-techniques/watering/">Watering</a><br>
+	<a class="body" href="/page-index/horticulture-techniques/weeding/">Weeding</a><br>
 	<br><br>
 <h4 id="x">X</h4>
 	<br><br>
