@@ -94,5 +94,5 @@ Watch: Shade-loving edible plants
 			</ul>
 		</div></li>
 	</ul>
-	<p>Download our indoor gardening guide here.</p>
+		<p>Download our indoor gardening guide <a href="https://www.nparks.gov.sg/-/media/nparks-real-content/gardening/community-in-bloom/cib-indoor-gardening/introduction-to-indoor-gardening.ashx">here</a>.</p>
 </ul></ul></section>
