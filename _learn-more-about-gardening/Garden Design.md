@@ -21,7 +21,29 @@ description: ""
 		<ul> 
 			<li>Gardens need sunlight, and ideally should be in an area with <a href="/page-index/horticulture-techniques/gauging-light/">full sun</a> to maximise what can be grown. Areas with <a href="/page-index/horticulture-techniques/gauging-light/">partial sun</a> can also work, but will have less planting choices. Areas in <a href="/page-index/horticulture-techniques/gauging-light/">full shade</a> should be avoided entirely as plants will not be able to grow. </li>
 			<li>Sites will need to be accessible to gardeners, and should ideally be near major walkways and existing pathways. These pathways should also be wheelchair- or trolley- accessible to make it easier to get to and from the garden.</li>
+			<li>Some sites will have better <a href="/page-index/horticulture-techniques/soil/">soil</a> than others. Gardens with decent soil can have <a href="/page-index/horticulture-techniques/true-ground/">true ground planting</a>, while sites with poor or no soil will require <a href="/page-index/hardscapes/planter-beds/">planter beds.</a></li>
 			<li>The site will need at least one <a href="/page-index/hardscapes/water-points/">water point</a>. Water point can usually be found near existing facilities like void decks, but if one is not available, communities will have to work with the landowner to build one.</li>
 		</ul>
-		<li>
-			</li></ol></section>
+		<li>Get approval for your site, and decide on your garden's footprint</li>
+	<ul>
+		<li>Landowners must be in agreement with Community Groups on the designated site and garden size.</li>
+		<li>Communities can work with their grassroots, organisations or educational institutions to find out who their landowners are, or use <a href="https://www.onemap.gov.sg/">OneMap</a>.
+		</li></ul>
+		<li>Brainstorming and getting inspiration</li>
+	<ul>
+		<li>Using the list from step 1, communities can now look at how other gardens have been designed to achieve the desired look, feel and functionality of their own garden.</li>
+		<li>Visiting other <a href="/get-involved/community-gardens/">Community Gardens</a> and asking the Community Gardeners about their own garden design journey is a great place to start.</li>
+		<li>There are also public parks and gardens that the public can visit to get more inspiration. Some popular gardens are:</li>
+		<ul>
+			<li>The <a href="https://www.nparks.gov.sg/juronglakegardens">Jurong Lake Gardens</a>, which has an edible garden, allotment garden and therapeutic garden;</li>
+			<li><a href="https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/hortpark">HortPark</a>, with a Nature Playgarden, multiple edible gardens and ornamental show gardens;</li>
+			<li>The <a href="">Singapore Botanic Gardens</a>, which features extensive and unique themed gardens including an ethnobotany garden, a ginger garden, and the National Orchid Garden.</li>
+		</ul>
+		</ul>
+		<li>Sketch your garden design and measure out major amenities</li>
+		<ul>
+			<li>The most important parts of a garden are the planting areas, either in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a> or <a href="/page-index/hardscapes/planter-beds/">planter beds</a>. Planting areas should be no wider than 2m across to ensure easy access by the gardeners. Planting areas should be placed where there is the most sun in the garden. </li>
+			<li>Other major amenities like <a href="/page-index/hardscapes/storage/">storage</a>, <a href="/page-index/hardscapes/water-points/">water points</a> and <a href="/page-index/hardscapes/shelters/">shelters</a> can be then allocated to the shadier parts of the garden. </li>
+			<li>Once all the major amenities have been placed, <a href="/page-index/hardscapes/pathways/">pathways</a> can be drawn to link them all up. Larger, primary pathways should lead between the entrance and major amenities, while smaller pathways can be used to access the rest of the garden.</li>
+		
+	</ul></ol></section>
