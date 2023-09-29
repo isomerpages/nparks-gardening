@@ -20,6 +20,6 @@ image: ""
 	<p><b>Pergolas</b> are usually made of wood or metal, and have a slatted roof for vines to grow over. These shelters will not protect you from rain, but are ideal for providing dappled sunlight conditions for a rest area or to grow plants that need more shade.</p> 
 	<img title="A propagation station made of PVC pipes and plastic sheets. Photo by Jacqueline Chua." src="/images/Hardscapes/Shelter_JacChua%20(1).jpg">
 	<p><b>Propagation stations</b> are usually small shelters built to protect vulnerable seedlings and cuttings from direct sun and rain. These stations can be standalone or incorporated as part of a larger structure. Propagation stations can have a solid roof, or a simple netting with fine mesh.</p>  
-	<iframe width="100%" height="415" src="https://www.youtube.com/embed/AYcnBctE27M?si=aiSLJPeQh4RDnSWR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
+	<iframe width="100%" height="415" src="https://www.youtube.com/embed/AYcnBctE27M?si=aiSLJPeQh4RDnSWR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe><br>
 	<br>
 </section>
