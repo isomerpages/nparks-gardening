@@ -47,6 +47,6 @@ description: ""
 			</li><li>Other major amenities like <a href="/page-index/hardscapes/storage/">storage</a>, <a href="/page-index/hardscapes/water-points/">water points</a> and <a href="/page-index/hardscapes/shelters/">shelters</a> can be then allocated to the shadier parts of the garden. </li>
 			<li>Once all the major amenities have been placed, <a href="/page-index/hardscapes/pathways/">pathways</a> can be drawn to link them all up. Larger, primary pathways should lead between the entrance and major amenities, while smaller, secondary pathways can be used to access the rest of the garden.</li>
 		</ul></ol>
-<p>Browse our <a href="https://www.nparks.gov.sg/gardening/community-gardens/start-a-community-garden">template designs</a> to see how to put things all together!
+<p><a download="" href="/files/community%20garden%20template%20designs.pdf">Download our template designs</a> to see how to put things all together!
 </p>
 </section>
