@@ -19,4 +19,9 @@ description: ""
 		</ul>
 		<li>Select a site</li>
 		<ul> 
-			<li></li></ul></ol></section>
+			<li>Gardens need sunlight, and ideally should be in an area with <a href="/page-index/horticulture-techniques/gauging-light/">full sun</a> to maximise what can be grown. Areas with <a href="/page-index/horticulture-techniques/gauging-light/">partial sun</a> can also work, but will have less planting choices. Areas in <a href="/page-index/horticulture-techniques/gauging-light/">full shade</a> should be avoided entirely as plants will not be able to grow. </li>
+			<li>Sites will need to be accessible to gardeners, and should ideally be near major walkways and existing pathways. These pathways should also be wheelchair- or trolley- accessible to make it easier to get to and from the garden.</li>
+			<li>The site will need at least one <a href="/page-index/hardscapes/water-points/">water point</a>. Water point can usually be found near existing facilities like void decks, but if one is not available, communities will have to work with the landowner to build one.</li>
+		</ul>
+		<li>
+			</li></ol></section>
