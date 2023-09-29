@@ -19,18 +19,18 @@ image: ""
 	<img src="/images/Plants/BluePeaFlower_JacChua%20(2).jpg">
 	<p>Butterfly Peas are a hardy edible flower that is used to colour drinks, desserts, and rice dishes.</p>
 	<p>An annual plant, Butterfly Peas are often grown in rotation with other fruiting climbers.</p>
-  <p>This plant is part of the 	Fabaceae or Bean family, which includes other popular edible fruits like Winged Bean, Peanut, and Sword Bean.  All members of the bean family can be used for <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/companionplanting/">companion planting</a> as they can fix nitrogen into the soil.</p>
+  <p>This plant is part of the 	Fabaceae or Bean family, which includes other popular edible fruits like Winged Bean, Peanut, and Sword Bean.  All members of the bean family can be used for <a href="/page-index/horticulture-techniques/companion-planting/">companion planting</a> as they can fix nitrogen into the soil.</p>
 	<br>
 </section>
 
 <section>
 	<h4>Environmental needs:</h4>
 		<img src="/images/Plants/BluePeaFlower_JacChua.jpg">
-		<p>This plant thrives in <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/gauging-light/">4-8 hours of direct sunlight</a>. Plants do best in <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/soil/">loamy soil</a> at least 20cm deep, or in true ground.</p>
+		<p>This plant thrives in <a href="/page-index/horticulture-techniques/gauging-light/">4-8 hours of direct sunlight</a>. Plants do best in <a href="/page-index/horticulture-techniques/soil/">loamy soil</a> at least 20cm deep, or in true ground.</p>
 		<p>This vine is vulnerable to heat stress during the dry season. Water it regularly and mulch the base to prevent water loss.</p>
 		<p>As a fast-growing vine, this plant needs to be trained up a light trellis. The vine readily produces flowers and can be used to beautify fences and arch trellises.</p>
 		<iframe width="100%" height="415" src="https://www.youtube.com/embed/SUQGxxAAcNs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
-		<p>As with all members of the bean family, this plant is pollinated by bees. Growing more <a href="/https://staging.dmhtu0pi4p9u7.amplifyapp.com/learn-more-about-gardening/plants/biodiversityattractingplants/">bee-attracting plants</a> within the garden will encourage pollination.</p>
+		<p>As with all members of the bean family, this plant is pollinated by bees. Growing more <a href="/page-index/glossary/biodiversity-attracting-plants/">bee-attracting plants</a> within the garden will encourage pollination.</p>
 	<br>
 </section>
 
