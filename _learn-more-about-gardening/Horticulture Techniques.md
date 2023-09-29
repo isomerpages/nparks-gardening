@@ -79,15 +79,17 @@ description: ""
 	<a class="body" href="/page-index/horticulture-techniques/bottom-watering/">Bottom watering</a><br>
 	 <br><br>
 <h4 id="c">C</h4>
-<a class="body" href="/page-index/horticulture-techniques/choosing-plants/">Choosing plants</a>
+	<a class="body" href="/page-index/horticulture-techniques/choosing-plants/">Choosing plants</a>
 	<br>
 	<a class="body" href="/page-index/horticulture-techniques/cloches/">Cloche</a>
 	<br>
-<a class="body" href="/page-index/horticulture-techniques/companion-planting">Companion planting</a>
+	<a class="body" href="/page-index/horticulture-techniques/companion-planting">Companion planting</a>
 	<br>
-<a class="body" href="/page-index/horticulture-techniques/composting/">Composting</a>
+	<a class="body" href="/page-index/horticulture-techniques/composting/">Composting</a>
 	<br>
-<a class="body" href="/page-index/horticulture-techniques/cut-and-come-again/">Cut and come again harvesting</a><br>
+	<a class="body" href="/page-index/horticulture-techniques/container-planting/">Container Planting</a>
+	<br>
+	<a class="body" href="/page-index/horticulture-techniques/cut-and-come-again/">Cut and come again harvesting</a><br>
 	 <br><br>
 <h4 id="d">D</h4>
 	<br><br>
@@ -113,7 +115,6 @@ description: ""
 <h4 id="k">K</h4>
 <br><br>
 <h4 id="l">L</h4>
-Low maintenance beds<br>
 <br><br>
 <h4 id="m">M</h4>
 	<br><br>
