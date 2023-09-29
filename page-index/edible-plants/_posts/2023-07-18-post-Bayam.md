@@ -18,7 +18,7 @@ image: ""
 <section>
 	<img src="/images/Horti%20techniques/Spacing_Jacchua%20(15).jpg">
 	<p>A popular leafy vegetable in Malaysia and Indonesia, Bayam is a hardy leafy vegetable that can be grown in small, tight clusters of multiple plants around 10-20cm tall or as a large, erect plant up to 1.5m tall if given enough space. It has varieties that come in red, green or both, and is commonly eaten raw, steamed, or stir-fried.</p>
-	<p>An annual crop, this plant is often grown and consumed under 4 months. Its rapid harvest cycle makes it useful for crop rotation.</p>
+	<p>An <a href="learn-more-about-gardening/glossary/#a/">annual</a> crop, this plant is often grown and consumed under 4 months. Its rapid harvest cycle makes it useful for crop rotation.</p>
   <p>Due to its shallow root system, these plants are a popular choice for container gardening and corridor gardening.</p>
 	<br>
 </section>
