@@ -62,8 +62,8 @@ image: ""
 				<li><a href="/page-index/edible-plants/longevity-spinach">	Longevity spinach</a></li>
 			</ul>
 		</div></li>
-	<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/eVBFePei-Bk?si=rz827tqlwF7jGvPC" height="315" width="560"></iframe><br>
-	<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/SfuujJwcZR8?si=EWSB8tRBBKU4mpPi" height="315" width="560"></iframe><br>
+	<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/eVBFePei-Bk?si=rz827tqlwF7jGvPC" width="100%" height="415"></iframe><br>
+	<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/SfuujJwcZR8?si=EWSB8tRBBKU4mpPi" width="100%" height="415"></iframe><br>
 	</ul>
 	<p>Here are some ornamental plants to grow along your corridor</p>
 	<ul class="jekyllcodex_accordion">
