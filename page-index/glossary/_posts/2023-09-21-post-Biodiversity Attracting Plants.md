@@ -14,6 +14,7 @@ image: ""
 	
 	table a:link {
 		color:white;
+		text-decoration:none;
 	}
 	
 	table {
