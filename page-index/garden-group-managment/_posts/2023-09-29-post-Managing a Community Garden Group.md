@@ -39,8 +39,8 @@ image: ""
 				<li>Create content for flyers, brochures and social media posts to promote the garden and engage members of the group</li>
 			</ul>
 		</div></li>
-		<li><input type="checkbox" id="accordion3">
-		<label for="accordion3">Volunteer and Recruitment Coordinator</label><div>
+		<li><input type="checkbox" id="accordion4">
+		<label for="accordion4">Volunteer and Recruitment Coordinator</label><div>
 			<ul>
 				<li>Recruit new volunteers and create a contact log for communication purposes</li>
 			</ul>
