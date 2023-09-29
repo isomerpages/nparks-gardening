@@ -7,6 +7,7 @@ description: ""
 image: ""
 ---
 <section>
+	<img title="Bukit Batok Zone 2 'Cosy Garden'. Photo by Jacqueline Chua." src="/images/Garden%20design/BukitBatokZone2_JacChua.jpg">
 	<p>Keeping gardens neat is a never-ending process, but having some standardized habits and goals will make it easier. A neat garden is less stressful to manage, looks great and is functional. Here are some tips on how to keep your garden neat the easy way.</p>
 	<br>
 </section>
