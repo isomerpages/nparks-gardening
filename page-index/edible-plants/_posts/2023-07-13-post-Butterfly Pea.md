@@ -18,7 +18,7 @@ image: ""
 <section>
 	<img src="/images/Plants/BluePeaFlower_JacChua%20(2).jpg">
 	<p>Butterfly Peas are a hardy edible flower that is used to colour drinks, desserts, and rice dishes.</p>
-	<p>An annual plant, Butterfly Peas are often grown in rotation with other fruiting climbers.</p>
+	<p>An <a href="/learn-more-about-gardening/glossary/#a">annual</a> plant, Butterfly Peas are often grown in rotation with other fruiting climbers.</p>
   <p>This plant is part of the 	Fabaceae or Bean family, which includes other popular edible fruits like Winged Bean, Peanut, and Sword Bean.  All members of the bean family can be used for <a href="/page-index/horticulture-techniques/companion-planting/">companion planting</a> as they can fix nitrogen into the soil.</p>
 	<br>
 </section>
