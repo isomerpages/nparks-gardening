@@ -27,7 +27,7 @@ image: ""
 
 <section>
 	<h4>Choosing plants for your corridor</h4>
-	<p>As with any other garden, it is best to figure out how much space you can work with, and how much light you receive throughout the year before you choose your plants.  In this case, small plants that thrive in containers that can also tolerate shade would be the best choice for most corridors. Do take note that your pot placement will also affect how much light and space your plant will get. For the most amount of light, try to place your racks or pot stands flush against the parapet.</p>
+	<p>As with any other garden, it is best to figure out how much space you can work with, and <a href="/page-index/horticulture-techniques/gauging-light">how much light</a> you receive throughout the year before you choose your plants.  In this case, small plants that thrive in containers that can also tolerate shade would be the best choice for most corridors. Do take note that your pot placement will also affect how much light and space your plant will get. For the most amount of light, try to place your racks or pot stands flush against the parapet.</p>
 	<p>Because corridors also have a lot of traffic, it is also important to choose plants that are not thorny, sharp, or otherwise dangerous to keep you and your neighbours safe.</p>
 	<p>Here are some edible plants to grow along your corridor:</p>
 	<ul class="jekyllcodex_accordion">
