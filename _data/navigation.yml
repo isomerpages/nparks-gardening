@@ -31,7 +31,7 @@ links:
     sublinks:
       - title: Housekeeping
         url: /permalink
-      - title: Managing your garden group
-        url: /permalink
+      - title: Garden Group Management
+        url: /garden-management/garden-group-management
   - title: Index
     url: /page-index/
