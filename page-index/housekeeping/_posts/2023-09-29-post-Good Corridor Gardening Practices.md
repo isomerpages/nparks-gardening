@@ -43,41 +43,56 @@ image: ""
 				<li><a href="/page-index/edible-plants/chinese-mustard">Chinese Mustard</a></li>
 				<li><a href="/page-index/edible-plants/chilli">Chilli</a></li>
 				<li><a href="/page-index/edible-plants/chives">Chives</a></li>
-				<li><a href="/page-index/edible-plants/thai-basil">Thai Basi</a>l</li>
-
-•	For &gt;4 hours of direct sunlight or 4-8 hours of indirect sunlight:
-o	English Mint
-o	Indian Borage
-o	Sawtooth Coriander
-o	Thai Basil
-o	Turmeric
-o	Fingerroot
-o	Sissoo Spinach
-o	Wild pepper
-o	Sand ginger
-o	Okinawan spinach
-o	Longevity spinach
+				<li><a href="/page-index/edible-plants/thai-basil">Thai Basil</a></li>
+			</ul>
+		</div></li>
+		<li><input type="checkbox" id="accordion2">
+		<label for="accordion2">For 4 hours of direct sunlight or 4-8 hours of indirect sunlight</label><div>
+			<ul>
+				<li><a href="/page-index/edible-plants/english-mint">English Mint</a></li>
+				<li><a href="/page-index/edible-plants/indian-borage">Indian Borage</a></li>
+				<li><a href="/page-index/edible-plants/sawtooth-coriander">Sawtooth Coriander</a></li>
+				<li><a href="/page-index/edible-plants/thai-basil">Thai Basil</a></li>
+				<li><a href="/page-index/edible-plants/turmeric">Turmeric</a></li>
+				<li><a href="/page-index/edible-plants/fingerroot">Fingerroot</a></li>
+				<li><a href="/page-index/edible-plants/sissoo-spinach">Sissoo Spinach</a></li>
+				<li><a href="/page-index/edible-plants/wild-pepper">Wild pepper</a></li>
+				<li><a href="/page-index/edible-plants/sand-ginger">Sand ginger</a></li>
+				<li><a href="/page-index/edible-plants/okinawan-spinach">Okinawan spinach</a></li>
+				<li><a href="/page-index/edible-plants/longevity-spinach">	Longevity spinach</a></li>
+			</ul>
+		</div></li>
+	<ul>
 Watch: Growing herbs for corridor gardens
 Watch: Shade-loving edible plants
-Here are some ornamental plants to grow along your corridor: 
-•	For 4-8 hours of direct sunlight:
-o	Portulaca
-o	Burro's Tail
-o	Elephant Bush
-o	Fairy Washboard
-o	Mexican Hen and Chicks
-o	Mexican Sedum
-o	String of beads
-
-•	For &gt;4 hours of direct sunlight or 4-8 hours of indirect sunlight:
-o	African Violet
-o	Flame violet
-o	Satin Pothos
-o	Snake plant
-o	Spider plant
-o	Devil's Ivy
-o	Fairy Washboard
-o	Mother of Thousands
-o	Lawyer's Tongue
-o	Walking Sanseveria
-Download our indoor gardening guide here</ul></div></li></ul></section>
+	<br>
+	<p>Here are some ornamental plants to grow along your corridor</p>
+	<ul class="jekyllcodex_accordion">
+		<li><input type="checkbox" id="accordion1">
+		<label for="accordion1">For 4-8 hours of direct sunlight</label><div>
+			<ul>
+				<li><a href="/page-index/ornamental-plants/burros-tail">Burro's Tail</a></li>
+				<li><a href="/page-index/ornamental-plants/elephant-bush">Elephant Bush</a></li>
+				<li><a href="/page-index/ornamental-plants/fairy-washboard">Fairy Washboard</a></li>
+				<li><a href="/page-index/ornamental-plants/mexican-hen-and-chicks">Mexican Hen and Chicks</a></li>
+				<li><a href="/page-index/ornamental-plants/mexican-sedum">Mexican Sedum</a></li>
+				<li><a href="/page-index/ornamental-plants/string-of-beads">String of beads</a></li>
+			</ul>
+		</div></li>
+		<li><input type="checkbox" id="accordion2">
+		<label for="accordion2">For 4 hours of direct sunlight or 4-8 hours of indirect sunlight</label><div>
+			<ul>
+				<li><a href="/page-index/ornamental-plants/burros-tail">African Violet</a></li>
+				<li><a href="/page-index/ornamental-plants/elephant-bush">Flame violet</a></li>
+				<li><a href="/page-index/ornamental-plants/fairy-washboard">Satin Pothos</a></li>
+				<li><a href="/page-index/ornamental-plants/mexican-hen-and-chicks">Snake plant</a></li>
+				<li><a href="/page-index/ornamental-plants/mexican-sedum">Spider plant</a></li>
+				<li><a href="/page-index/ornamental-plants/string-of-beads">Fairy Washboard</a></li>
+				<li><a href="/page-index/ornamental-plants/string-of-beads">Mother of Thousands</a></li>
+				<li><a href="/page-index/ornamental-plants/string-of-beads">Lawyer's Tongue</a></li>
+				<li><a href="/page-index/ornamental-plants/string-of-beads">Walking Sanseveria</a></li>
+			</ul>
+		</div></li>
+	</ul>
+	<p>Download our indoor gardening guide here.</p>
+</ul></ul></section>
