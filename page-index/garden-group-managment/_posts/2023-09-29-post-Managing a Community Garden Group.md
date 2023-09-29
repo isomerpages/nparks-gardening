@@ -53,7 +53,7 @@ image: ""
 	<h5>Goal setting and calendar of events</h5>
 	<p>Setting goals is a good way to keep your gardening group united and on track. Working as a team, volunteers can discuss and coordinate to plan projects for the year and beyond.</p>
 	<p>Based on the goals and objectives discussed, the community can then plan a calendar of events and activities. This calendar will help you break down a bigger goal into numerous, more manageable short-term steps towards the final goal. Below is a sample calendar of events for reference:</p>
-	<img src="">
+	<img src="/images/sample%20calendar_managingcommunitygardengroup.jpg">
 	<br>
 </section>
 
