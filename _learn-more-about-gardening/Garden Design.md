@@ -37,7 +37,7 @@ description: ""
 			<li>The <a href="">Singapore Botanic Gardens</a>, which features extensive and unique themed gardens including an ethnobotany garden, a ginger garden, and the National Orchid Garden.</li>
 		</ul>
 		</ul>
-		<li>Sketch your garden design and measure out major amenities</li>
+		<li>Sketch your garden design and measure out major <a href="/page-index/hardscapes/">hardscapes</a></li>
 		<ul>
 			<li>The most important parts of a garden are the planting areas, either in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a> or <a href="/page-index/hardscapes/planter-beds/">planter beds</a>.
 			<ul>
