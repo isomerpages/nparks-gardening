@@ -11,7 +11,7 @@ description: ""
 	<li>Checking your plants for <a href="/learn-more-about-gardening/plant-problems/">problems</a>, like <a href="/page-index/pests/pests/">pests</a></li>
 	<li>Removing stagnant water to <a href="/page-index/housekeeping/keeping-gardens-mosquito-free/">prevent mosquito breeding</a></li>
 	</ul>
-	<p>Strategies for housekeeping can look like:</p>
+<p>Strategies for housekeeping can look like:</p>
 	<ul>
 	<li><a href="/learn-more-about-gardening/plants/">Choosing plants</a> appropriate for your garden environment, thus the incidence of plant problems</li>
 	<li>Having <a href="/page-index/hardscapes/storage/">dedicated storage spaces</a> to reduce clutter from tools and other materials</li>
