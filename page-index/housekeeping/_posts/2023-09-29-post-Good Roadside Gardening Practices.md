@@ -77,5 +77,6 @@ image: ""
 			<li><a href="/page-index/ornamental-plants/peace-lily">Peace Lily</a></li>
 			<li><a href="/page-index/ornamental-plants/wild-pepper">Wild pepper</a></li>
 		</ul></div></li>
+	</ul>
 	<br>
-</ul></section>
+</section>
