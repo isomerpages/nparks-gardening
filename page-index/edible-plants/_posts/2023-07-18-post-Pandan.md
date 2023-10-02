@@ -25,20 +25,20 @@ image: ""
  
 <section> 
   <h4>Environmental needs:</h4> 
-		 <p> Pandan does well in less than 4 hours of direct sunlight or 6-8 hours of indirect sunlight. Plants do best in <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/soil/">loamy soil</a> at least 10cm deep, making them suitable for container gardening. Pandan will also readily grow in <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/soil/">clayey soil</a>, along large waterbodies, and in heavily waterlogged areas.</p>
+		 <p> Pandan does well in less than 4 hours of direct sunlight or 6-8 hours of indirect sunlight. Plants do best in <a href="/page-index/horticulture-techniques/soil/">loamy soil</a> at least 10cm deep, making them suitable for container gardening. Pandan will also readily grow in <a href="/page-index/horticulture-techniques/soil/">clayey soil</a>, along large waterbodies, and in heavily waterlogged areas.</p>
 		<p>Pandan can withstand periods of drought, but the lack of water will stunt its growth.</p> 
 	<br> 
 </section> 
   
 <section> 
   <h4>Growing:</h4> 
-		<p>Pandan grows rapidly and are particularly fast growers during the wet season. If planted in true ground near other plants, Pandan can smother its neighbours if it is not hard pruned regularly.</p> 
+		<p>Pandan grows rapidly and are particularly fast growers during the wet season. If planted in <a href="/page-index/horticulture-techniques/true-ground">true ground</a> near other plants, Pandan can smother its neighbours if it is not hard pruned regularly.</p> 
 	<br> 
 </section> 
  
 <section> 
   <h4>Harvesting:</h4> 
-		<p>Plants can be harvested for leaves at any time. Older Leaves should be harvested from the bottom of the plant, as per cut-and-come-again harvesting, with new leaves left intact to ensure more growth.</p>
+	<p>Plants can be <a href="/page-index/horticulture-techniques/harvest-hygiene">harvested</a> for leaves at any time. Older Leaves should be harvested from the bottom of the plant, as per cut-and-come-again harvesting, with new leaves left intact to ensure more growth.</p>
 		<p>Take note that the leaves have sharp edges and may cause skin irritation and cuts. Use arm sleeves and gloves when maintaining this plant for safety.</p> 
 	<br> 
 </section> 
