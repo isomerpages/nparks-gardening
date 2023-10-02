@@ -13,6 +13,7 @@ image: ""
 </style>
 
 <section>
+	<img title="A garden volunteer showcasing a DIY Aquaponics system. Photo by Jacqueline Chua." src="/images/Gardeners/Outreach%20(7).jpg">
 	<p>Volunteers are the lifeblood of any Community Garden, so attracting and retaining them are important for keeping the garden running. While most volunteers will be needed to maintain the garden, some volunteers can also play other roles, such as managing social media or organising logistics for learning journeys.</p>
 	<p>Here are some tips to help you attract more volunteers for your Community Garden:</p>
 	<ol>
