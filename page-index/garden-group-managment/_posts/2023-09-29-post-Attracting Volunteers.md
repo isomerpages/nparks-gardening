@@ -6,6 +6,12 @@ layout: post
 description: ""
 image: ""
 ---
+<style>
+	ol li {
+	 padding: 10px;
+	}
+</style>
+
 <section>
 	<p>Volunteers are the lifeblood of any Community Garden, so attracting and retaining them are important for keeping the garden running. While most volunteers will be needed to maintain the garden, some volunteers can also play other roles, such as managing social media or organising logistics for learning journeys.</p>
 	<p>Here are some tips to help you attract more volunteers for your Community Garden:</p>
