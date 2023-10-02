@@ -87,8 +87,6 @@ description: ""
 	<br>
 	<a class="body" href="/page-index/horticulture-techniques/composting/">Composting</a>
 	<br>
-	<a class="body" href="/page-index/horticulture-techniques/container-planting/">Container Planting</a>
-	<br>
 	<a class="body" href="/page-index/horticulture-techniques/cut-and-come-again/">Cut and come again harvesting</a><br>
 	 <br><br>
 <h4 id="d">D</h4>
