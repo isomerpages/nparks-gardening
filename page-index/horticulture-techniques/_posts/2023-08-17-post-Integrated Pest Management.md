@@ -6,6 +6,12 @@ layout: post
 description: ""
 image: ""
 ---
+<style>
+	ol li {
+		padding: 10px;
+	}
+</style>
+
 <section>
 	<img title="Community Gardeners checking their plants for pests. Photo by Jacqueline Chua." src="/images/Gardeners/Pruning%20(1).jpg">
 	<p>As troublesome as pests can be, they are a big part of nature and play important roles in our ecosystem. Embracing this idea, Integrated Pest Management (IPM) is a strategy that aims to keep plant pests’ population low, rather than eradicating them completely. This is done through a combination of techniques that is less harmful to the ecosystem, environmentally friendly and affordable.</p>
@@ -19,28 +25,28 @@ image: ""
 	
 <section>
 	<ol>
-		<li>Identify your pests</li>
+		<li><strong>Identify your pests</strong></li>
 			<ul>
 				<li>Identifying pests correctly is the most important part of pest management. Different pests will need different management methods, so being specific is the most efficient way.</li>
 				<li>Use our <a href="/digital-tools/pestid/">Pest identifier tool</a> and <a href="/learn-more-about-gardening/plant-problems/pests/">pest pages</a> to learn about pests and their life cycles!</li>
 			</ul>
-		<li>Monitor for pests</li>
+		<li><strong>Monitor for pests</strong></li>
 			<ul>
 				<li>Check your garden regularly for plant pests, ideally whenever you visit the garden.</li>
 				<li>Plants that are overgrown, with distorted or holey leaves, discoloration, damaged stems, or slow growth might be harbouring pests! Look for them wherever something looks amiss.</li>
 				<li>Not sure how to find pests? Learn how to <a href="/page-index/horticulture-techniques/finding-pests/">observe and trap pests</a> in your garden.</li>
 			</ul>
-		<li>Tolerance</li>
+		<li><strong>Tolerance</strong></li>
 			<ul>
 				<li>Strive for ecological balance rather than perfect aesthetics.</li>
 				<li>It is generally not possible to have a garden completely free of pests without also affecting beneficial biodiversity, like pollinators.</li>
 			</ul>
-		<li>Prevention</li>
+		<li><strong>Prevention</strong></li>
 			<ul>
 				<li>The first line of pest control is to prevent the pest from becoming a threat.</li>
 				<li>Keeping plants healthy, using hardscapes like netting, quarantining new plants, regular pest checks and general maintenance are good ways to prevent pests from taking over your garden. </li>
 			</ul>
-		<li>Control</li>
+		<li><strong>Control</strong></li>
 			<ul>
 				<li>There are various methods for controlling pests, including cultural, mechanical, biological and chemical. </li>
 				<li>Chemical control should always be the last resort, as improper use of pesticides may cause damage to your health and the environment.</li>
