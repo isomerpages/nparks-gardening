@@ -13,6 +13,7 @@ image: ""
 </style>
 
 <section>
+	<img title="A roadside garden in a private estate. Photo by Jacqueline Chua." src="/images/Hardscapes/Nim%20roadside%20(2).jpg">
 	<p>Roadside gardening is a fun way to add colour and character to your roadside verge. Gardening in this small space needs a keen eye for aesthetics, knowledge of hardy plants and lots of passion to keep your green space neat and tidy. Because road verges are near foot traffic and vehicles, it is important to keep your garden safe and accessible.</p>
 <p>Download our <a href="https://www.nparks.gov.sg/-/media/nparks-real-content/gardening/gardening-resources/garden-etiquette/good-roadside-gardening-practices.pdf?la=en&amp;hash=044F8D7D3102134073E5C2E18A75EDA243E27966#:~:text=Choose%20small%20plants%20that%20will,are%20ideal%20for%20roadside%20gardening.">Good Roadside Gardening Practices here</a>.</p>
 	<p>If done well, roadside gardens can bring your neighbourhood together. If you would like to start a roadside community garden within your estate, you can read about the starting process and contact NParks to get guidance and advice.</p>
