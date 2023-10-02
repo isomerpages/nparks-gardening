@@ -13,7 +13,7 @@ image: ""
 </style>
 
 <section>
-		<img title="Community Gardeners posing together in their orchid garden. Photo by Jacqueline Chua." src="/images/Gardeners/Posing%20(12).jpg">
+		<img title="An Allotment garden sign stating the rule that visitos should not harvest plants without the gardener's permission. Photo by Jacqueline Chua." src="/images/Hardscapes/PXL_20230225_024540757.jpg">
 	<p>Garden rules are essential for the day-to-day running of a Community Garden, and will help structure expectations of gardeners and stakeholders alike. Because every garden is unique, the rules that govern it can also change and evolve over time to meet the community’s needs.</p>
 	<p>As a rule of thumb, garden rules should include topics such as safety, housekeeping etiquette, management expectations and a contact for gardeners to follow up with should they have questions or suggestions.</p>
 	<p>Here is a sample of a set of garden rules that you can use as reference as you create your own!</p>
