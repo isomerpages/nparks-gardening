@@ -60,17 +60,22 @@ image: ""
 				<li><a href="/page-index/ornamental-plants/golden-dewdrop">Golden Dewdrop</a></li>
 			</ul>
 		</div></li>
-		
-•	For &gt;4 hours of direct sunlight or 4-8 hours of indirect sunlight:
-o	African Violet
-o	Flame violet
-o	Satin Pothos
-o	Snake plant
-o	Spider plant
-o	Devil's Ivy
-o	Fairy Washboard
-o	Mother of Thousands
-o	Lawyer's Tongue
-o	Walking Sanseveria
-o	Peace Lily
-o	Wild pepper</ul></section>
+		<li><input type="checkbox" id="accordion2">
+		<label for="accordion2">For 4 hours of direct sunlight or 4-8 hours of indirect sunlight:</label><div>
+			<ul>
+			<li><a href="/page-index/ornamental-plants/african-violet">African Violet</a></li>
+
+			<li><a href="/page-index/ornamental-plants/flame-violet">Flame violet</a></li>
+			<li><a href="/page-index/ornamental-plants/satin-pothos">Satin Pothos</a></li>
+			<li><a href="/page-index/ornamental-plants/snake-plant">Snake plant</a></li>
+			<li><a href="/page-index/ornamental-plants/spider-plant">Spider plant</a></li>
+			<li><a href="/page-index/ornamental-plants/devils-ivy">Devil's Ivy</a></li>
+			<li><a href="/page-index/ornamental-plants/fairy-washboard">Fairy Washboard</a></li>
+			<li><a href="/page-index/ornamental-plants/mother-of-thousands">Mother of Thousands</a></li>
+			<li><a href="/page-index/ornamental-plants/lawyers-tongue">Lawyer's Tongue</a></li>
+			<li><a href="/page-index/ornamental-plants/walking-sanseveria">Walking Sanseveria</a></li>
+			<li><a href="/page-index/ornamental-plants/peace-lily">Peace Lily</a></li>
+			<li><a href="/page-index/ornamental-plants/wild-pepper">Wild pepper</a></li>
+		</ul></div></li>
+	<br>
+</ul></section>
