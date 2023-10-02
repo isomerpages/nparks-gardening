@@ -23,10 +23,9 @@ image: ""
 		<li>Soft fruit peels, like from bananas and mangoes</li>
 		<li>Tea leaves</li>
 		<li>Coffee grounds*</li>
-			<ul>
-				<li>*Do not use coffee grounds that have been roasted in oil, as the oil will turn rancid in your compost</li>
-			</ul>
+			*Do not use coffee grounds that have been roasted in oil, as the oil will turn rancid in your compost
 	</ul>
+	<br>
 	<img title="Woody materials, dry leaves and twigs to be used for composting. Photo by Jacqueline Chua." src="/images/Horti%20techniques/Composting_Browns_Jacchua%20(2).jpg">
 	<p><b>“Browns”</b> are mostly made of carbon and are dry and pulpy. Some examples found at home and in the garden are:</p>
 	<ul>
@@ -37,9 +36,7 @@ image: ""
 		<li>Paper</li>
 		<li>Cardboard</li>	
 		<li>Woody stems and soft wood*</li>
-			<ul>
-				<li>*Make sure these materials are broken down into small pieces before you add them to your compost as they take the longest to decompose</li>
-			</ul>
+			*Make sure these materials are broken down into small pieces before you add them to your compost as they take the longest to decompose
 	</ul>
 	<p>Organic materials will break down faster if they are in smaller pieces, so it is best practice to cut up them up before adding new materials to your compost.</p>
 	<p>A good rule of thumb is to add 1:2 greens to browns to keep the compost healthy. Too many greens can result in anaerobic decomposition, in which the liquid released by the greens prevents oxygen from reaching the middle of the compost, resulting in unpleasant smells and slimy material. Too many browns can result in the compost becoming too dry and slowing the decomposition process dramatically. </p>
