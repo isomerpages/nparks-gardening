@@ -42,23 +42,25 @@ image: ""
 	<p>Roadside garden plants should ideally be smaller than 1m, be colourful and easy to maintain. Do take note of how much light and space your plants will get and factor that into your plant choice to aid your planning.</p>
 	<p>Because roadsides have a lot of traffic, it is also important to choose plants that are not thorny, sharp, or otherwise dangerous to keep you and your neighbours safe.</p>
 	<p>Here are some plants to grow along your roadside:</p>
-•	For 4-8 hours of direct sunlight:
-o	Portulaca
-o	Burro's Tail
-o	Elephant Bush
-o	Mexican Sedum
-o	Lemongrass
-o	Sunflower
-o	Bamboo orchid
-o	Globe Amaranth
-o	Mistletoe Fig
-o	Rose Myrtle
-o	Singapore Rhododendron
-o	Brazilian Tea
-o	False Heather
-o	Javanese Ixora
-o	Golden Dewdrop
-
+	<ul class="jekyllcodex_accordion">
+		<li><input type="checkbox" id="accordion1">
+		<label for="accordion1">For 4-8 hours of direct sunlight:</label><div>
+			<ul>
+				<li><a href="/page-index/ornamental-plants/burros-tail">Burro's Tail</a></li>
+				<li><a href="/page-index/ornamental-plants/elephant-bush">Elephant Bush</a></li>
+				<li><a href="/page-index/edible-plants/lemongrass">Lemongrass</a></li>
+				<li><a href="/page-index/ornamental-plants/sunflower">Sunflower</a></li>
+				<li><a href="/page-index/ornamental-plants/bamboo-orchid">Bamboo orchid</a></li>
+				<li><a href="/page-index/ornamental-plants/globe-amaranth">Globe Amaranth</a></li>
+				<li><a href="/page-index/ornamental-plants/rose-myrtle">Rose Myrtle</a></li>
+				<li><a href="/page-index/ornamental-plants/singapore-rhododendron">Singapore Rhododendron</a></li>
+				<li><a href="/page-index/ornamental-plants/brazilian-tea">Brazilian Tea</a></li>
+				<li><a href="/page-index/ornamental-plants/false-heather">False Heather</a></li>
+				<li><a href="/page-index/ornamental-plants/javanese-ixora">Javanese Ixora</a></li>
+				<li><a href="/page-index/ornamental-plants/golden-dewdrop">Golden Dewdrop</a></li>
+			</ul>
+		</div></li>
+		
 •	For &gt;4 hours of direct sunlight or 4-8 hours of indirect sunlight:
 o	African Violet
 o	Flame violet
@@ -71,4 +73,4 @@ o	Mother of Thousands
 o	Lawyer's Tongue
 o	Walking Sanseveria
 o	Peace Lily
-o	Wild pepper</section>
+o	Wild pepper</ul></section>
