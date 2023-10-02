@@ -1,0 +1,4 @@
+collections:
+  garden-management:
+    output: true
+    order: []
