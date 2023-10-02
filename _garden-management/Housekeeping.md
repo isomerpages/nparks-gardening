@@ -3,6 +3,7 @@ title: Housekeeping
 permalink: /garden-management/housekeeping/
 description: ""
 ---
+<section>
 <img title="An Allotment Gardener checking her crops for pests. Photo by Jacqueline Chua." src="/images/Gardeners/checkingpests_jacquelinechua.jpg">
 <p>The key to a healthy and happy garden is effective housekeeping. Housekeeping broadly refers to tasks and strategies to keep your garden neat, clean, and safe. Tasks important for housekeeping should be scheduled to be done at least once a week, and include:
 	</p>
@@ -24,3 +25,4 @@ description: ""
 		<li><a href="/page-index/housekeeping/keeping-gardens-mosquito-free/">Keeping Gardens Mosquito free</a></li>
 		<li><a href="/page-index/housekeeping/keeping-your-garden-neat/">Keeping Your Garden Neat</a></li>
 	</ul>
+	</section>
