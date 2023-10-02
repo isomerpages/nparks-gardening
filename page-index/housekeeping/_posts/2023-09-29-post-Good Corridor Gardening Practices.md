@@ -65,6 +65,7 @@ image: ""
 			<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/SfuujJwcZR8?si=EWSB8tRBBKU4mpPi" width="100%" height="415"></iframe><br>
 		</div></li>
 	</ul>
+	<br>
 	<p>Here are some ornamental plants to grow along your corridor</p>
 	<ul class="jekyllcodex_accordion">
 		<li><input type="checkbox" id="accordion3">
