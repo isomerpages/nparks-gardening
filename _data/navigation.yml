@@ -27,10 +27,10 @@ links:
       - title: Professional Development
         url: https://www.nparks.gov.sg/cuge
   - title: Garden Management
-    url: /permalink
+    url: /garden-management
     sublinks:
       - title: Housekeeping
-        url: /permalink
+        url: /garden-management/housekeeping
       - title: Garden Group Management
         url: /garden-management/garden-group-management
   - title: Index
