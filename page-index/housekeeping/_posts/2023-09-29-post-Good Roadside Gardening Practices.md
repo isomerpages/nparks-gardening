@@ -37,11 +37,11 @@ image: ""
 	<br>
 </ol></ol></section>
 	
-
-Choosing plants for your roadside garden 
-Roadside garden plants should ideally be smaller than 1m, be colourful and easy to maintain. Do take note of how much light and space your plants will get and factor that into your plant choice to aid your planning. 
-Because roadsides have a lot of traffic, it is also important to choose plants that are not thorny, sharp, or otherwise dangerous to keep you and your neighbours safe. 
-Here are some plants to grow along your roadside:
+<section>
+	<h4>Choosing plants for your roadside garden</h4>
+	<p>Roadside garden plants should ideally be smaller than 1m, be colourful and easy to maintain. Do take note of how much light and space your plants will get and factor that into your plant choice to aid your planning.</p>
+	<p>Because roadsides have a lot of traffic, it is also important to choose plants that are not thorny, sharp, or otherwise dangerous to keep you and your neighbours safe.</p>
+	<p>Here are some plants to grow along your roadside:</p>
 •	For 4-8 hours of direct sunlight:
 o	Portulaca
 o	Burro's Tail
@@ -71,4 +71,4 @@ o	Mother of Thousands
 o	Lawyer's Tongue
 o	Walking Sanseveria
 o	Peace Lily
-o	Wild pepper
+o	Wild pepper</section>
