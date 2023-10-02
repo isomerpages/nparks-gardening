@@ -6,6 +6,12 @@ layout: post
 description: ""
 image: ""
 ---
+<style>
+	ol li {
+	 padding: 10px;
+	}
+</style>
+
 <section>
 	<p>Growing plants from seeds is an important skill to master for any gardener as home-grown seedlings can be cheaper and healthier than plants sold in nurseries. Seeds can be obtained from our local nurseries or supermarkets, or even harvested from your own plants!</p>
 	<iframe width="100%" height="415" src="https://www.youtube.com/embed/FuWK90da0GY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
