@@ -6,6 +6,12 @@ layout: post
 description: ""
 image: ""
 ---
+<style>
+	ol li {
+	 padding: 10px;
+	}
+</style>
+
 <section>
 	<p>Roadside gardening is a fun way to add colour and character to your roadside verge. Gardening in this small space needs a keen eye for aesthetics, knowledge of hardy plants and lots of passion to keep your green space neat and tidy. Because road verges are near foot traffic and vehicles, it is important to keep your garden safe and accessible.</p>
 <p>Download our <a href="https://www.nparks.gov.sg/-/media/nparks-real-content/gardening/gardening-resources/garden-etiquette/good-roadside-gardening-practices.pdf?la=en&amp;hash=044F8D7D3102134073E5C2E18A75EDA243E27966#:~:text=Choose%20small%20plants%20that%20will,are%20ideal%20for%20roadside%20gardening.">Good Roadside Gardening Practices here</a>.</p>
