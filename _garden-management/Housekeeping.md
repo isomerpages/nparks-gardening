@@ -15,7 +15,7 @@ description: ""
 		<section>
 <p>Strategies for housekeeping can look like:</p>
 	<ul>
-	<li><a href="/learn-more-about-gardening/plants/">Choosing plants</a> appropriate for your garden environment, thus the incidence of plant problems</li>
+	<li><a href="/learn-more-about-gardening/plants/">Choosing plants</a> appropriate for your garden environment, thus reducing the incidence of plant problems</li>
 	<li>Having <a href="/page-index/hardscapes/storage/">dedicated storage spaces</a> to reduce clutter from tools and other materials</li>
 	<li>Standardising housekeeping tasks as part your <a href="/page-index/garden-group-management/sample-garden-rules/">garden's rules</a></li>
 	</ul>
