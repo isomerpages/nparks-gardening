@@ -6,6 +6,12 @@ layout: post
 description: ""
 image: ""
 ---
+<style>
+	ol li {
+	 padding: 10px;
+	}
+</style>
+
 <section>
 	<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/9WrYB67b-mM?start=119" height="415" width="100%"></iframe><br>
 	<p>Microgreens are sprouts that are allowed to grow leaves, and can be eaten raw in salads or stir-fried. Because they are not meant to grow for long before they are eaten, microgreens can be grown indoors and with little light under two weeks.</p>
