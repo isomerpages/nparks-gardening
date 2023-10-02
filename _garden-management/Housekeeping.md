@@ -7,7 +7,7 @@ description: ""
 <img title="An Allotment Gardener checking her crops for pests. Photo by Jacqueline Chua." src="/images/Gardeners/checkingpests_jacquelinechua.jpg">
 <p>The key to a healthy and happy garden is effective housekeeping. Housekeeping broadly refers to tasks and strategies to keep your garden neat, clean, and safe. Tasks important for housekeeping should be scheduled to be done at least once a week, and include:
 	</p>
-<ul>
+	<ul>
 	<li> Regular <a href="/page-index/horticulture-techniques/watering/">watering</a>, <a href="/page-index/horticulture-techniques/weeding/">weeding</a>, and <a href="/page-index/horticulture-techniques/pruning/">pruning</a> of plants</li>
 	<li>Checking your plants for <a href="/learn-more-about-gardening/plant-problems/">problems</a>, like <a href="/page-index/pests/pests/">pests</a></li>
 	<li>Removing stagnant water to <a href="/page-index/housekeeping/keeping-gardens-mosquito-free/">prevent mosquito breeding</a></li>
