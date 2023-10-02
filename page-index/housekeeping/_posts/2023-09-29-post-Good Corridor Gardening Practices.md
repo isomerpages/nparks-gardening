@@ -61,14 +61,14 @@ image: ""
 				<li><a href="/page-index/edible-plants/okinawan-spinach">Okinawan spinach</a></li>
 				<li><a href="/page-index/edible-plants/longevity-spinach">	Longevity spinach</a></li>
 			</ul>
+			<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/eVBFePei-Bk?si=rz827tqlwF7jGvPC" width="100%" height="415"></iframe><br>
+			<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/SfuujJwcZR8?si=EWSB8tRBBKU4mpPi" width="100%" height="415"></iframe><br>
 		</div></li>
-	<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/eVBFePei-Bk?si=rz827tqlwF7jGvPC" width="100%" height="415"></iframe><br>
-	<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/SfuujJwcZR8?si=EWSB8tRBBKU4mpPi" width="100%" height="415"></iframe><br>
 	</ul>
 	<p>Here are some ornamental plants to grow along your corridor</p>
 	<ul class="jekyllcodex_accordion">
-		<li><input type="checkbox" id="accordion1">
-		<label for="accordion1">For 4-8 hours of direct sunlight</label><div>
+		<li><input type="checkbox" id="accordion3">
+		<label for="accordion3">For 4-8 hours of direct sunlight</label><div>
 			<ul>
 				<li><a href="/page-index/ornamental-plants/burros-tail">Burro's Tail</a></li>
 				<li><a href="/page-index/ornamental-plants/elephant-bush">Elephant Bush</a></li>
@@ -78,8 +78,8 @@ image: ""
 				<li><a href="/page-index/ornamental-plants/string-of-beads">String of beads</a></li>
 			</ul>
 		</div></li>
-		<li><input type="checkbox" id="accordion2">
-		<label for="accordion2">For 4 hours of direct sunlight or 4-8 hours of indirect sunlight</label><div>
+		<li><input type="checkbox" id="accordion4">
+		<label for="accordion4">For 4 hours of direct sunlight or 4-8 hours of indirect sunlight</label><div>
 			<ul>
 				<li><a href="/page-index/ornamental-plants/burros-tail">African Violet</a></li>
 				<li><a href="/page-index/ornamental-plants/elephant-bush">Flame violet</a></li>
