@@ -18,8 +18,8 @@ image: ""
 <section>
 	<img title="A closeup of Okinawan Spinach. Photo from Flora and Fauna Web." src="/images/Plants/okinawanspinach.jpeg">
 	<p>Okinawan Spinach is a hardy, succulent vegetable that grows quickly in semi-shade. Its leaves can be eaten raw, fried, blanched, steamed, and made into soup.</p>
-	<p>This plant is a small perennial crop that is easy to propagate, making it a popular choice as a groundcover, for perimeter planting, and low maintenance beds. It is also a staple crop in edible gardens and permaculture gardens.</p>
-	<p>Due to its shallow root system, these plants are a popular choice for container gardening and container gardening.</p>
+	<p>This plant is a small <a href="/learn-more-about-gardening/glossary/#p">perennial</a> crop that is easy to propagate, making it a popular choice as a groundcover, for perimeter planting, and low maintenance beds. It is also a staple crop in edible gardens and permaculture gardens.</p>
+	<p>Due to its shallow root system, these plants are a popular choice for container gardening and corridor gardening.</p>
 	<p>A native plant, it can be found along forest streams and sandy slopes.</p>
 	<br>
 </section>
