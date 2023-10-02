@@ -18,7 +18,7 @@ image: ""
 <section>
 	<img title="Photo by Flora and Fauna Web." src="/images/Plants/pandan_ffw.jfif">
 	<p>Pandan is a common herb grown in a wide variety of gardens across Singapore. Its fragrant leaves produce a juice that is used to flavour desserts, tea, meat dishes, and rice. The leaf itself cannot be eaten because it is too fibrous and is typically discarded after cooking.</p>
-	<p>Pandan is a perennial crop that readily grows in most gardens with semi-shade and thrives in waterlogged areas. It has a relatively shallow root and can be grown in pots.</p>
+	<p>Pandan is a <a href="/learn-more-about-gardening/glossary/#p">perennial</a> crop that readily grows in most gardens with semi-shade and thrives in waterlogged areas. It has a relatively shallow root and can be grown in pots.</p>
 	<p>Because Pandan is hardy and grows rapidly, it can be used in gardens with clayey, waterlogged soils or used as a groundcover for low maintenance beds.</p>
   <br> 
 </section> 
