@@ -10,8 +10,7 @@ description: ""
 	<ul>
 	<li> Regular <a href="/page-index/horticulture-techniques/watering/">watering</a>, <a href="/page-index/horticulture-techniques/weeding/">weeding</a>, and <a href="/page-index/horticulture-techniques/pruning/">pruning</a> of plants</li>
 	<li>Checking your plants for <a href="/learn-more-about-gardening/plant-problems/">problems</a>, like <a href="/page-index/pests/pests/">pests</a></li>
-	<li>Removing stagnant water to <a href="/page-index/housekeeping/keeping-gardens-mosquito-free/">prevent mosquito breeding</a></li>
-	</ul>
+	<li>Removing stagnant water to <a href="/page-index/housekeeping/keeping-gardens-mosquito-free/">prevent mosquito breeding</a></li></ul>
 	</section>
 		<section>
 <p>Strategies for housekeeping can look like:</p>
