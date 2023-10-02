@@ -40,12 +40,12 @@ image: ""
 	<h4>What can I grow as microgreens?</h4>
 	<p>A wide range of edible plants can be grown as microgreens. Some common ones are:</p>
 	<ul>
-		<li><a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/bayam/">Bayam (<em>Amaranthus tricolor</em>)</a></li>
-		<li><a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/cai-xin/">Cai Xin (<em>Brassica rapa</em> Caisin Group)</a></li>
-		<li><a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/kai-lan/">Kai lan (<em>Brassica oleracea</em> Alboglabra Group)</a></li>
-		<li><a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/kang-kong/">Kang kong (<em>Ipomoea aquatica</em>)</a></li>
-		<li><a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/radish/">Radish (<em>Raphanus raphanistrum</em> subsp. sativus cultivar)</a></li>
-		<li><a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/sunflower/">Sunflowers (<em>Helianthus annuus</em>)</a></li>
+		<li><a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/bayam/">Bayam</a> (<em>Amaranthus tricolor</em>)</li>
+		<li><a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/cai-xin/">Cai Xin</a> (<em>Brassica rapa</em> Caisin Group)</li>
+		<li><a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/kai-lan/">Kai lan</a> (<em>Brassica oleracea</em> Alboglabra Group)</li>
+		<li><a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/kang-kong/">Kang kong</a> (<em>Ipomoea aquatica</em>)</li>
+		<li><a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/radish/">Radish</a> (<em>Raphanus raphanistrum</em> subsp. sativus cultivar)</li>
+		<li><a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/edible-plants/sunflower/">Sunflower</a> (<em>Helianthus annuus</em>)</li>
 	</ul>
 	<br>
 </section>
