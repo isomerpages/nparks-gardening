@@ -64,7 +64,6 @@ image: ""
 		<label for="accordion2">For 4 hours of direct sunlight or 4-8 hours of indirect sunlight:</label><div>
 			<ul>
 				<li><a href="/page-index/ornamental-plants/african-violet">African Violet</a></li>
-
 				<li><a href="/page-index/ornamental-plants/flame-violet">Flame violet</a></li>
 				<li><a href="/page-index/ornamental-plants/satin-pothos">Satin Pothos</a></li>
 				<li><a href="/page-index/ornamental-plants/snake-plant">Snake plant</a></li>
