@@ -38,21 +38,21 @@ image: ""
  
 <section> 
   <h4>Harvesting:</h4> 
-	<p>Plants can be <a href="/page-index/horticulture-techniques/harvest-hygiene">harvested</a> for leaves at any time. Older Leaves should be harvested from the bottom of the plant, as per cut-and-come-again harvesting, with new leaves left intact to ensure more growth.</p>
+	<p>Plants can be <a href="/page-index/horticulture-techniques/harvest-hygiene">harvested</a> for leaves at any time. Older Leaves should be harvested from the bottom of the plant, as per <a href="/page-index/horticulture-techniques/cut-and-come-again">cut-and-come-again harvesting</a>, with new leaves left intact to ensure more growth.</p>
 		<p>Take note that the leaves have sharp edges and may cause skin irritation and cuts. Use arm sleeves and gloves when maintaining this plant for safety.</p> 
 	<br> 
 </section> 
   
 <section> 
   <h4>Propagation:</h4> 
-		<p>Pandan is typically propagated by division. Offshoots can be readily taken for propagation once they have roots and can be cut at the base or twisted off the main plant.</p> 
+	<p>Pandan is typically <a href="/page-index/horticulture-techniques/propagating-by-division">propagated by division</a>. Offshoots can be readily taken for propagation once they have roots and can be cut at the base or twisted off the main plant.</p> 
 	<br> 
 </section> 
  
 <section> 
   <h4>Common problems &amp; solutions:</h4> 
 		<p> Like most strong-smelling herbs, this plant is relatively resistant to pests and disease if kept healthy.</p>
-		<p>Aphids, mealy bugs, and spider mites can the plant if it is sickly or overgrown. Prune off the infested parts, or apply horticultural oils like neem oil and white summer oil to suffocate the remaining pests. Regularly prune the plant to allow light and air to reach throughout the plant, and check the plant for underlying problems like root rot, lack of sunlight, and nutrient deficiencies.</p>
+	<p><a href="/page-index/pests/aphids">Aphids</a>, <a href="/page-index/pests/mealy-bugs">mealy bugs</a>, and <a href="/page-index/pests/spider-mites">spider mites</a> can the plant if it is sickly or overgrown. Prune off the infested parts, or apply horticultural oils like neem oil and white summer oil to suffocate the remaining pests. Regularly prune the plant to allow light and air to reach throughout the plant, and check the plant for underlying problems like root rot, lack of sunlight, and nutrient deficiencies.</p>
 		<p>This plant can grow long and leggy, especially if it has been harvested from for a long time. Prop the top up with stakes or remove the leggy stem to allow offshoots to replace it.</p>
 	<br> 
 </section>
