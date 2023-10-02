@@ -6,6 +6,12 @@ layout: post
 description: ""
 image: ""
 ---
+<style>
+	ol li {
+	 padding: 10px;
+	}
+</style>
+
 <section>
 	<p>Garden rules are essential for the day-to-day running of a Community Garden, and will help structure expectations of gardeners and stakeholders alike. Because every garden is unique, the rules that govern it can also change and evolve over time to meet the community’s needs.</p>
 	<img src="">
