@@ -49,12 +49,12 @@ description: ""
 		<img src="/images/Gardeners/Harvesting%20(1).jpg">
 		<p>Many hands make light work! Community Gardens are the ideal place for hosting and running green events and projects, which can bring your community together and inspire more people to garden. Here are some ideas for what Community Gardeners can do together:</p>
 		<ul>
-			<li>Organise harvest sharing</li>
-			<li> Run a gardening workshop</li>
-			<li>Make and give away upcycled pots</li>
-			<li>Run a roadshow booth to promote your garden </li>
+			<li>Organise a <a href="/page-index/horticulture-techniques/harvesting-hygiene/">harvest sharing</a> event</li>
+			<li>Run a gardening workshop</li>
+			<li><a href="/page-index/horticulture-techniques/propagating-by-cuttings/">Propagate cuttings</a> and give them away in <a href="/page-index/horticulture-techniques/planting-in-containers/">upcycled pots</a></li>
+			<li>Run a roadshow booth to promote your garden and <a href="/page-index/garden-group-managment/attracting-volunteers/">attract volunteers</a> </li>
 			<li> Start a plant adoption corner</li>
-			<li> Start an animal sighting list for your garden</li>
+			<li> Look for <a href="/learn-more-about-gardening/garden-biodiversity/">biodiversity in your garden</a>, and document sightings</li>
 		</ul>
 	</div></li>
 	<li><input type="checkbox" id="accordion5">
@@ -62,7 +62,7 @@ description: ""
 		<p>Community Gardens can apply for the following grants below. Please click the relevant links for more information and application steps.</p>
 		<strong>Sustainability-related garden projects:</strong>
 		<ul>
-			<li><a href="https://www.mse.gov.sg/sgecofund/">MSE’s SG Eco Fund</a></li>
+			<li><a href="https://www.mse.gov.sg/sgecofund/">SG Eco Fund (administered by MSE)</a></li>
 		</ul>
 		<strong>Gardens in Public Estates:</strong>
 		<ul>
