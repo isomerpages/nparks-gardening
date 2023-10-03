@@ -57,7 +57,7 @@ image: ""
 
 <section>
 	<h4>Propagation:</h4>
-	<p>Sunflowers are grown from seed. </p>
+	<p>Sunflowers are grown from <a href="/page-index/horticulture-techniques/propagating-by-seed">seed</a>. </p>
 	<br>
 </section>
 
