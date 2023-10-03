@@ -16,9 +16,9 @@ image: ""
 </section>
 
 <section>
-	<img src="/images/Plants/KaiLan_JacChua%20(3).jpg">
+	<img title="Photo by Jacqueline Chua." src="/images/Plants/KaiLan_JacChua%20(3).jpg">
 	<p>Kai Lan is a versatile vegetable that has tender leaves and a thick, crunchy stem. It can be eaten blanched, steamed, or stir-fried. The flowers, stem and leaves are edible, and are a staple in many Chinese dishes.</p>
-	<p>An <a href="/learn-more-about-gardening/glossary/#a/">annual</a> crop, this plant is often grown and consumed under 2 months. Its rapid harvest cycle makes it useful for crop rotation.</p>
+	<p>An <a href="/learn-more-about-gardening/glossary/#a">annual</a> crop, this plant is often grown and consumed under 2 months. Its rapid harvest cycle makes it useful for crop rotation.</p>
 	<p>Due to its shallow root system, these plants are a popular choice for container gardening and corridor gardening.</p>
 	<p>Kai Lan is part of the Brassica or cabbage family, which also includes other popular vegetables like Cai Xin and Xiao Bai Cai.</p>
 	<br>
@@ -26,7 +26,7 @@ image: ""
 
 <section>
 	<h4>Environmental needs:</h4>
-		<img src="/images/Plants/KaiLan_JacChua%20(1).jpg">
+		<img title="Photo by Jacqueline Chua." src="/images/Plants/KaiLan_JacChua%20(1).jpg">
 		<p>Kai Lan does best in <a href="/page-index/horticulture-techniques/gauging-light/">more than 6 or more hours of indirect sunlight, or around 4-5 hours of direct sunlight</a>. Plants do best in <a href="/page-index/horticulture-techniques/soil/">loamy soil</a> at least 10cm deep, making them suitable for container gardening. These plants are vulnerable to <a href="/page-index/plant-problems/root-rot/">root rot</a>, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe. Keep your plants cool with mulch and plenty of water to encourage growth.</p>
 	<br>
 </section>
