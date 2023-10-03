@@ -93,7 +93,7 @@ image: ""
 
 <section>
   <h4>Common problems &amp; solutions:</h4>
-		<p>This plant is relatively resistant to pests and disease if kept healthy.</p>
-		<p>Etiolation is characterised by plants growing long and skinny, with weak stems and small leaves. The plants may also sometimes look yellowish. Plants etiolate when they do not get enough sunlight, which results in slow growth and untidy forms. To prevent this, grow plants in environments with enough light for them and make sure that each plant has enough space to prevent overcrowding.</p>
+	<p>This plant is relatively resistant to pests and disease if kept healthy.</p>
+	<p>Etiolation is characterised by plants growing long and skinny, with weak stems and small leaves. The plants may also sometimes look yellowish. Plants etiolate when they do not get enough sunlight, which results in slow growth and untidy forms. To prevent this, grow plants in environments with enough light for them and make sure that each plant has enough space to prevent overcrowding.</p>
 	<br>
 </section>
