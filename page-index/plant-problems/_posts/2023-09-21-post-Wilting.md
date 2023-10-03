@@ -42,6 +42,6 @@ image: ""
 	</ul>
 		<li><b>Wilting due to being <a href="/page-index/plant-problems/root-bound/">root-bound</a></b></li>
 			<ul>
-				<li><a href="/page-index/horticulture-techniques/planting-in-containers/">Potted plants</a> that are root-bound may suddenly wilt as the new root hairs are no longer in contact with wet soil, and have instead coiled into themselves or out of the pot. <a href="/page-index/plant-problems/root-bound/">Root-bound</a> plants will quickly bounce back after being <a href="/page-index/horticulture-techniques/bottom-watering/">bottom-watered</a>, but will still need to be repotted to kept healthy.</li>
+				<li><a href="/page-index/horticulture-techniques/planting-in-containers/">Potted plants</a> that are root-bound may suddenly wilt as the new root hairs are no longer in contact with wet soil, and have instead coiled into themselves or out of the pot. <a href="/page-index/plant-problems/root-bound/">Root-bound</a> plants will quickly bounce back after being <a href="/page-index/horticulture-techniques/bottom-watering/">bottom-watered</a>, but will still need to be repotted into a bigger pot to kept healthy.</li>
 		</ul>
 </ul></section>
