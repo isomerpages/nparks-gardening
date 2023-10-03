@@ -9,11 +9,16 @@ image: ""
 <section>
 	<img title="Etiolated seedlings in an overcrowded planting tray. Photo by Jacqueline Chua." src="/images/Plant%20problems/etoilation_overcrowding_jacquelinechua.jpg">
 <p>Etiolation is the process in which plants grow long, pale and unhealthy due to the lack of light. Etiolated plants are susceptible to disease and may die quickly due to a lack of energy. </p>
-<p>The word etiolate is thought to have come from the French word “étioler” that referenced depriving celery of light. Plants that are grown in the absence of light or not enough light become blanched or bleached looking, have unexpanded leaves, and long weak shoots. The blanched appearance is the result of a lack of chlorophyll, the pigment that supports photosynthesis, the primary source of energy in plants. In other words, creamy yellow-green blanched or bleached tissues, unexpanded leaves, and long weak shoots are all symptoms of etiolation.</p>
-	<p>Knowing how to <a href="/learn-more-about-gardening/plants/">choose your plant</a> to fit your environment is the best way to prevent etiolation. The next best way is to move your plant somewhere with more <a href="/page-index/horticulture-techniques/gauging-light/">sunlight</a>!</p>
+<p>The word etiolate is thought to have come from the French word “étioler” that referenced depriving celery of light. Plants that are grown in the absence of light or not enough light become pale, have unexpanded leaves, and long weak shoots. The pale appearance is the result of a lack of chlorophyll, the pigment that supports photosynthesis, the primary source of energy in plants.</p>
 </section>
 <br>
 <section>
 	<h4>Symptoms</h4>
-	<p>Plants will have long and weak stems that may require <a href="/page-index/hardscapes/staking/">staking</a>.
-		</p></section>
+	<p>Plants will have long and weak stems that may require <a href="/page-index/hardscapes/staking/">staking</a>.</p>
+	<p>Leaves will have a pale yellow colour, and may not unfurl properly.</p> 
+		</section>
+		<br>
+		<section>
+	<h4>Treatment</h4>
+	<p>	</p><p>Knowing how to <a href="/learn-more-about-gardening/plants/">choose your plant</a> to fit your environment is the best way to prevent etiolation. The next best way is to move your plant somewhere with more <a href="/page-index/horticulture-techniques/gauging-light/">sunlight</a>!</p>
+	<p>If you can’t move your plant, you will need to change things in its environment to allow it to get more light. <a href="/page-index/horticulture-techniques/plant-spacing/">Thinning</a> and <a href="/page-index/horticulture-techniques/pruning/">pruning</a> nearby plants will reduce shade, and purchasing <a href="/page-index/horticulture-techniques/grow-lights/">grow lights</a> may be a stopgap measure worth considering. </p></section>
