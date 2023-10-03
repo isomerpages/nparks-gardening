@@ -45,21 +45,21 @@ image: ""
 
 <section>
 	<h4>Harvesting:</h4>
-	<p>Plants can be harvested for leaves at any time. Regular harvesting will encourage bushier growth and will keep the plant at a manageable height. </p>
-<p>Mature, black fruits can be harvested for seeds. Sow seeds from ripe fruit immediately after harvesting as they tend to rot quickly.</p>
+	<p>Plants can be harvested for leaves at any time. Regular harvesting will encourage bushier growth and will keep the plant at a manageable height.</p>
+	<p>Mature, black fruits can be harvested for seeds. Sow seeds from ripe fruit immediately after harvesting as they tend to rot quickly.</p>
 	<br>
 </section>
 
 <section>
 	<h4>Propagation:</h4>
-	<p>Curry Leaf Plants can be grown from seed or propagated via woody stem cuttings. Woody stem cuttings should be dipped in rooting hormone before being potted up in rooting media. </p>
+	<p>Curry Leaf Plants can be grown from <a href="/page-index/horticulture-techniques/propagating-by-seed">seed</a> or <a href="/page-index/horticulture-techniques/propagating-by-cuttings">propagated via woody stem cuttings</a>. Woody stem cuttings should be dipped in rooting hormone before being potted up in rooting media.</p>
 	<br>
 </section>
 
 <section>
 	<h4>Common problems &amp; solutions:</h4>
 	<p>Like most strong-smelling herbs, this plant is relatively resistant to pests and disease if kept healthy.</p>
-<p>This plant is vulnerable to fungal diseases that form leaf spots during the wet season or when the plant is overgrown. Increase air circulation with regular pruning and remove affected leaves to reduce the spread.</p>
-<p>Aphids, may infest the plant if it is sickly or overgrown. Prune off the infested parts, or apply horticultural oils like neem oil and white summer oil to suffocate the remaining pests. Regularly prune the plant to allow light and air to reach throughout the plant, and check the plant for underlying problems like root rot, lack of sunlight, and nutrient deficiencies.</p>
-<br>
+	<p>This plant is vulnerable to fungal diseases that form leaf spots during the wet season or when the plant is overgrown. Increase air circulation with regular pruning and remove affected leaves to reduce the spread.</p>
+	<p><a href="/page-index/pests/aphids">Aphids</a>, may infest the plant if it is sickly or overgrown. Prune off the infested parts, or apply horticultural oils like neem oil and white summer oil to suffocate the remaining pests. Regularly prune the plant to allow light and air to reach throughout the plant, and check the plant for underlying problems like root rot, lack of sunlight, and nutrient deficiencies.</p>
+	<br>
 </section>
