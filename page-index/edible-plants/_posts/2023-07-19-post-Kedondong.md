@@ -18,14 +18,14 @@ image: ""
 <section>
 	<img title="Photo by Flora and Fauna Web." src="/images/Plants/kedondong_ffw.jfif">
 	<p>Kedondong trees are a common sight in Southeast Asian edible gardens, and produce edible leaves and fruit. The young leaves can be eaten raw in a salad or cooked as a vegetable, while the unripe and ripe fruits are eaten raw, pickled or processed into a juice.</p>
-	<p>As a perennial tree, it is a common sight in edible gardens, permaculture gardens, and low maintenance beds. </p>       
+	<p>As a <a href="/learn-more-about-gardening/glossary/#p">perennial</a> tree, it is a common sight in edible gardens, permaculture gardens, and low maintenance beds. </p>       
 	<br>
 </section>
 
 <section>
 	<h4>Environmental needs:</h4>
-	<p>This tree does best in full sun gardens with a minimum of 6 hours of direct sunlight.</p>
-	<p>Plants do best in <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/soil/">loamy soil</a> at least 50cm deep, or in true ground. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe. Keep your plants cool with mulch and plenty of water to encourage growth.</p>
+	<p>This tree does best in <a href="/page-index/horticulture-techniques/gauging-light/">full sun gardens with a minimum of 6 hours of direct sunlight</a>.</p>
+	<p>Plants do best in <a href="/page-index/horticulture-techniques/soil/">loamy soil</a> at least 50cm deep, or in true ground. These plants are vulnerable to <a href="/page-index/plant-problems/root-rot">root rot</a>, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe. Keep your plants cool with mulch and plenty of water to encourage growth.</p>
 	<p>This tree can grow up to 12m high. The tree is best maintained at roughly 2m high for easy maintenance and harvesting. </p>
 	<p>This plant can be grown year-round.</p>
 	<br>
@@ -33,19 +33,17 @@ image: ""
 
 <section>
   <h4>Sowing seeds:</h4>
-<p>Seeds can be sown directly into pots or the ground. Because the plant eventually grows into a tree, it is easier to grow a few seedlings in separate pots before selecting the healthiest one to be grown in true ground.</p>
-
-<iframe width="100%" height="415" src="https://www.youtube.com/embed/x7J87wY7U6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
-
-<p>The seedlings are generally resilient to most environmental factors but may be vulnerable to being eaten by snails or birds. Protect your young plants with a DIY cloche or netting. </p>
+	<p>Seeds can be sown directly into pots or the ground. Because the plant eventually grows into a tree, it is easier to grow a few seedlings in separate pots before selecting the healthiest one to be grown in true ground.</p>
+	<iframe width="100%" height="415" src="https://www.youtube.com/embed/x7J87wY7U6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
+	<p>The seedlings are generally resilient to most environmental factors but may be vulnerable to being eaten by snails or birds. Protect your young plants with a DIY <a href="/page-index/horticulture-techniques/cloches">cloche</a> or <a href="/page-index/hardscapes/netting">netting</a>. </p>
 <br>
 </section>
 
 <section>
 	<h4>Growing:</h4>
-	<p>Kedondong trees are steady growers but do benefit from being fed high potassium and phosphorus fertilisers to encourage flowering and thus fruiting. Regular pruning to promote airflow will keep the plant healthy and neat. </p>
-<p>The tree will need to be around 4 years old before it starts producing fruit if grown from seed.</p>
-<br>
+	<p>Kedondong trees are steady growers but do benefit from being fed high potassium and phosphorus <a href="/page-index/horticulture-techniques/fertilising/">fertilisers</a> to encourage flowering and thus fruiting. <a href="/page-index/horticulture-techniques/pruning">Regular pruning</a> to promote airflow will keep the plant healthy and neat. </p>
+	<p>The tree will need to be around 4 years old before it starts producing fruit if grown from seed.</p>
+	<br>
 </section>
 
 <section>
