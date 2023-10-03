@@ -16,49 +16,46 @@ image: ""
 </section>
 
 <section>
-	<img src="/images/Plants/Bittergourd%20(1).jpg">
-	
-<p>Bitter Gourd, as the name implies, is a bitter fruit used in a variety of Asian dishes. Eaten as an immature fruit, it can be stewed, fried, steamed or juiced. </p>
-<p>The fruit has a lumpy appearance, with Chinese cultivars looking more warty and Indian varieties sporting spikes. The immature fruit ranges from bright green to white depending on cultivar, and the ripe fruit turns orange with bright red seeds.
-	An annual crop, these plants are often grown in rotation with other fruiting climbers.</p>
-<p>This plant is part of the Cucurbita or Melon family, which includes other popular edible fruits like Cucumber, Winter melon, and Pumpkin.</p>
+	<img title="Photo by Jacqueline Chua." src="/images/Plants/Bittergourd%20(1).jpg">
+	<p>Bitter Gourd, as the name implies, is a bitter fruit used in a variety of Asian dishes. Eaten as an immature fruit, it can be stewed, fried, steamed or juiced. </p>
+	<p>The fruit has a lumpy appearance, with Chinese cultivars looking more warty and Indian varieties sporting spikes. The immature fruit ranges from bright green to white depending on cultivar, and the ripe fruit turns orange with bright red seeds.</p>
+	<p>An <a href="/learn-more-about-gardening/glossary/#a">annual</a> crop, these plants are often grown in rotation with other fruiting climbers.</p>
+	<p>This plant is part of the Cucurbita or Melon family, which includes other popular edible fruits like Cucumber, Winter melon, and Pumpkin.</p>
 	<br>
 </section>
 
 <section>
 	<h4>Environmental needs:</h4>
-		<img src="/images/Plants/Bittergourd%20(4).jpg">
-<p>This vine does best in full sun gardens with a minimum of 6 hours of direct sunlight. This plant can also grow with 4-5 hours of direct sunlight and at least 6 hours of indirect sunlight but will produce less fruits.</p>
-<p>Plants do best in <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/soil/">loamy soil</a> at least 30cm deep, or in true ground. The plant can be grown in smaller pots about 20cm deep, but growth will be slower due to the lack of water retention in less soil and a smaller root ball. </p>
-<p>As a fast-growing vine, this plant needs a sturdy trellis to scramble on. Because the fruits hang down, it is ideal for arch-shaped trellises.</p>	
-<p>As with all members of the melon family, this plant is bee-pollinated and produces male and female flowers. To encourage the formation of more fruits, it is best to have at least 3 separate plants growing in the same area to have both male and female flowers available, and to have bee-attracting plants within the garden to encourage pollination. If your garden lacks bees, the plant can also be hand pollinated.</p>
-<br>
+	<img title="Photo by Jacqueline Chua." src="/images/Plants/Bittergourd%20(4).jpg">
+	<p>This vine does best in <a href="/page-index/horticulture-techniques/gauging-light">full sun gardens with a minimum of 6 hours of direct sunlight</a>. This plant can also grow with 4-5 hours of direct sunlight and at least 6 hours of indirect sunlight but will produce less fruits.</p>
+	<p>Plants do best in <a href="/page-index/horticulture-techniques/soil/">loamy soil</a> at least 30cm deep, or in true ground. The plant can be grown in smaller pots about 20cm deep, but growth will be slower due to the lack of water retention in less soil and a smaller root ball. </p>
+	<p>As a fast-growing vine, this plant needs a sturdy <a href="/page-index/hardscapes/trellises">trellis</a> to scramble on. Because the fruits hang down, it is ideal for arch-shaped trellises.</p>	
+	<p>As with all members of the melon family, this plant is bee-pollinated and produces male and female flowers. To encourage the formation of more fruits, it is best to have at least 3 separate plants growing in the same area to have both male and female flowers available, and to have <a href="/page-index/glossary/biodiversity-attracting-plants/">bee-attracting plants</a> within the garden to encourage pollination. If your garden lacks bees, the plant can also be hand pollinated.</p>
+	<br>
 </section>
 
 <section>
   <h4>Sowing seeds:</h4>
-<p><a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/propagatingseed/">Seeds can be sown directly into pots or the ground around 15-30cm apart</a>. Lightly water the soil until damp, once a day. Seeds should sprout within 2 weeks.</p>
-	
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/x7J87wY7U6s" height="415" width="100%"></iframe>	<br>
-
-<p>The seedlings are generally resilient to most environmental factors but may be vulnerable to being eaten by snails or birds. Protect your young plants with a DIY cloche or netting.</p>
+	<p><a href="/page-index/horticulture-techniques/propagating-by-seed/">Seeds can be sown directly into pots or the ground around 15-30cm apart</a>. Lightly water the soil until damp, once a day. Seeds should sprout within 2 weeks.</p>
+	<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/x7J87wY7U6s" height="415" width="100%"></iframe><br>
+	<p>The seedlings are generally resilient to most environmental factors but may be vulnerable to being eaten by snails or birds. Protect your young plants with a DIY <a href="/page-index/horti-culture-techniques/cloches/">cloche</a> or <a href="/page-index/hardscapes/netting/">netting</a>.</p>
 	<br>
 </section>
 	
 <section>
 	<h4>Growing:</h4>
-<p>Bitter gourds will produce more flowers and thus more fruit when fed with fertilisers high in phosphorus and potassium. Plants can be fertilised regularly a month after germination for a fuller crop.</p>
-<p>Because the vines will grow on top of each other, it is a good practice to prune regularly and remove dead leaves and vines to improve ventilation and allow light to reach more of the plant.</p>
-<p>Direct sunlight can damage the fruit. Allow leaves to grow over the fruit or protect it using a cloth cover.</p>
+	<p>Bitter gourds will produce more flowers and thus more fruit when fed with fertilisers high in phosphorus and potassium. Plants can be <a href="/page-index/horticulture-techniques/fertilising/">fertilised</a> regularly a month after germination for a fuller crop.</p>
+	<p>Because the vines will grow on top of each other, it is a good practice to <a href="/page-index/horticulture-techniques/pruning">prune</a> regularly and remove dead leaves and vines to improve ventilation and allow light to reach more of the plant.</p>
+	<p>Direct sunlight can damage the fruit. Allow leaves to grow over the fruit or protect it using a cloth cover.</p>
 	<br>
 </section>
 
 <section>
 	<h4>Harvesting:</h4>
-<img src="/images/Plants/Bittergourd%20(5).jpg">
-<p>Plants can be harvested for immature fruits around 4 months after sowing. The best time to harvest the fruit is in the early morning, before 9am.</p>
-<p>The plant will continuously produce fruit for about 6 months to a year before declining. </p>
-<br>
+	<img title="Photo by Jacqueline Chua." src="/images/Plants/Bittergourd%20(5).jpg">
+	<p>Plants can be harvested for immature fruits around 4 months after sowing. The best time to harvest the fruit is in the early morning, before 9am.</p>
+	<p>The plant will continuously produce fruit for about 6 months to a year before declining. </p>
+	<br>
 </section>
 
 <section>
