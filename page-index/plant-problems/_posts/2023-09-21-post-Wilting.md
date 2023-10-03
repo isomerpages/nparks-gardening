@@ -31,17 +31,17 @@ image: ""
 			</ul></li>
   	<li><b>Wilting due to <a href="/page-index/plant-problems/root-rot/">root rot</a></b>
 				<ul>
-					<li>Lots of rain and <a href="/page-index/horticulture-techniques/watering/">overwatering</a> can cause root rot, especially if the soil or pot does not drain well. Check your plant’s roots for damage if it has been wilting despite regular watering.</li>
+					<li>Lots of rain and <a href="/page-index/horticulture-techniques/watering/">overwatering</a> can cause <a href="/page-index/plant-problems/root-rot/">root rot</a>, especially if the soil or pot does not drain well and is <a href="/page-index/plant-problems/waterlogging/">waterlogged</a>. Check your plant’s roots for damage if it has been wilting despite regular watering.</li>
 					<li>If <a href="/page-index/plant-problems/root-rot/">root rot</a> is present, cut off the rotting portions and change the soil to prevent additional rot. Check the drainage of your plot or pot to ensure that water can drain away. </li>
 					<li>If the plant can be <a href="/page-index/horticulture-techniques/propagating-by-cuttings/">propagated by cuttings</a>, consider propagating the healthy portions. </li>
 				</ul></li>
 		<li><b>Wilting due to transplanting shock</b></li>
 		<ul>
-			<li>Freshly transplanted <a href="/page-index/horticulture-techniques/propagating-by-cuttings/">cuttings</a> or <a href="/page-index/horticulture-techniques/propagating-by-seed/">seedlings</a> will need to grow their roots out before they can continue to grow. While they are adapting to their new environment, these plants may wilt, which is what we refer to as transplanting shock.</li>
-			<li>Plants showing signs of transplanting shock will need to be watered more, and moved to a shadier area or have <a href="/page-index/hardscapes/netting/">shade netting</a> to protect them for at least a week before they can be exposed to direct sunlight again. </li>
+			<li>Freshly transplanted <a href="/page-index/horticulture-techniques/propagating-by-cuttings/">cuttings</a> or <a href="/page-index/horticulture-techniques/propagating-by-seed/">seedlings</a> will need to grow their roots out before they become stable enough to survive in the garden. While they are adapting to their new environment, these plants may wilt, which is what we refer to as transplanting shock.</li>
+			<li>Plants showing signs of transplanting shock will need to be watered more, and moved to a shadier area or have <a href="/page-index/hardscapes/netting/">shade netting</a> installed to protect them for at least a week before they can be exposed to direct sunlight again. </li>
 	</ul>
-		<li><b>Wilting due to being <a href="/page-index/horticulture-techniques/planting-in-containers/">root-bound</a></b></li>
+		<li><b>Wilting due to being <a href="/page-index/plant-problems/root-bound/">root-bound</a></b></li>
 			<ul>
-				<li>Potted plants that are root-bound may suddenly wilt as the new root hairs are no longer in contact with wet soil, and have instead coiled into themselves or out of the pot. Root -bound plants will quickly bounce back after being <a href="/page-index/horticulture-techniques/bottom-watering/">bottom-watered</a>, but will still need to be repotted to keep the plant healthy.</li>
+				<li><a href="/page-index/horticulture-techniques/planting-in-containers/">Potted plants</a> that are root-bound may suddenly wilt as the new root hairs are no longer in contact with wet soil, and have instead coiled into themselves or out of the pot. <a href="/page-index/plant-problems/root-bound/">Root-bound</a> plants will quickly bounce back after being <a href="/page-index/horticulture-techniques/bottom-watering/">bottom-watered</a>, but will still need to be repotted to kept healthy.</li>
 		</ul>
 </ul></section>
