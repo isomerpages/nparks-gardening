@@ -31,9 +31,9 @@ image: ""
 	<iframe width="100%" height="415" src="https://www.youtube.com/embed/eGBg_S8yj0U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
 	<br>
 	<p>As with all members of the Nightshade family, this plant is buzz pollinated and produces the most fruit when bees are around to pollinate it. Growing more bee-attracting plants within the garden will encourage pollination. It can be hand-pollinated, but the success rate is generally lower. </p>
-<p>These plants can get blossom end rot, which shows up as dark, sunken blotches at the end of fruits. It is a symptom of a lack of calcium reaching the fruit, which is usually caused by a lack of water or inconsistent watering. Keep your soil moist but not waterlogged and take care to water more often during the dry season. </p>
+	<p>These plants can get blossom end rot, which shows up as dark, sunken blotches at the end of fruits. It is a symptom of a lack of calcium reaching the fruit, which is usually caused by a lack of water or inconsistent watering. Keep your soil moist but not waterlogged and take care to water more often during the dry season. </p>
 	<br>
-	</section>
+</section>
 
 <section>
   <h4>Sowing seeds:</h4>
