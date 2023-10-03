@@ -54,7 +54,7 @@ image: ""
  
 <section> 
   <h4>Harvesting:</h4> 
-		<p>Plants can be harvested for leaves at any time, with younger leaves being the most tender. However, the leaves will become tough when the plant starts to flower. Most gardeners will <a href="/page-index/horticulture-techniques/harvest-hygiene/">harvest</a> their crop around three weeks to a month after sowing.</p> 
+		<p>Plants can be harvested for leaves at any time, with younger leaves being the most tender. However, the leaves will become tough when the plant starts to flower. Most gardeners will <a href="/page-index/horticulture-techniques/harvesting-hygiene/">harvest</a> their crop around three weeks to a month after sowing.</p> 
 		<p>The whole plant can be harvested once by cutting the head at the base or multiple times by harvesting the older leaves as per the <a href="/page-index/horticulture-techniques/cut-and-come-again/">cut-and-come-again</a> method.</p> 
 		<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/f_Uoug7ZSeg" height="415" width="100%"></iframe><br>
 	<br>
