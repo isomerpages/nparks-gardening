@@ -24,7 +24,7 @@ description: ""
 </header>
 
 <section>
-	<p>Pests comes in various shapes and sizes, and their mode of damage to the plant varies as well. You may click <a href="/page-index/pests/pests">here</a> to learn more about the different types of pests.</p>
+	<p><a href="/page-index/pests/pests">Pests</a> come in various shapes and sizes, and their mode of damage to plants varies as well. Learning about pests is the first step to managing them.</p>
 	<br>
 </section>
 
@@ -76,8 +76,9 @@ description: ""
 <section>
 	<p> Apart from pests, your plants may be suffering from other problems that might cause them to look sickly. Here are some for you to explore.</p>
 	<ul>
+				<li><a href="/plant-problems/etiolation/">Etiolation</a></li>
 		<li><a href="/page-index/plant-problems/root-rot/">Root Rot</a></li>
-		<li><a href="/page-index/plant-problems/wilting/">Wilting</a></li>
-		<li><a href="/plant-problems/etiolation/">Etiolation</a></li>
+		<li><a href="/page-index/plant-problems/waterlogging/">Waterlogging</a></li>
+				<li><a href="/page-index/plant-problems/wilting/">Wilting</a></li>
 	</ul>
 </section>
