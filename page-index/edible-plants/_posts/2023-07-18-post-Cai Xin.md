@@ -18,7 +18,7 @@ image: ""
 <section> 
 	<img title="Photo by Jacqueline Chua." src="/images/Plants/CaiXin_JacChua%20(2).jpg"> 
 	<p>A staple vegetable in many Chinese homes, Cai Xin is a tender leafy vegetable that can be blanched, stir-fried, or added to soup. The green variety is most common in markets, but some gardeners have also been growing a purple variety from seed!</p>
-	<p>An <a href="/learn-more-about-gardening/glossary/#a/">annual</a> crop, this plant is often grown and consumed under 2 months. Its rapid harvest cycle makes it useful for crop rotation.</p>
+	<p>An <a href="/learn-more-about-gardening/glossary/#a">annual</a> crop, this plant is often grown and consumed under 2 months. Its rapid harvest cycle makes it useful for crop rotation.</p>
 	<p>Due to its shallow root system, these plants are a popular choice for container gardening and corridor gardening.</p>
 	<p>Cai Xin is part of the Brassica or cabbage family, which also includes other popular vegetables like Kai Lan and Xiao Bai Cai. Like a cabbage, Cai Xin will produce a head of leaves that can be harvested all at once. You can prolong your harvest by instead harvesting individual older leaves via the <a href="/page-index/horticulture-techniques/cut-and-come-again/">cut-and-come-again</a> method.</p>
   <br> 
