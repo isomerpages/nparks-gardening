@@ -36,22 +36,22 @@ image: ""
   <h4>Sowing seeds:</h4>
 	<p>Seeds can be sown directly into pots or the ground around 30cm apart. Lightly water the soil until damp, once a day. Seeds should sprout within a week.</p>
 	<iframe width="100%" height="415" src="https://www.youtube.com/embed/x7J87wY7U6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe><br>
-	<p>The seedlings will be vulnerable to high heat and heavy rain and are best kept under netting in a or a shaded space with around 4 hours of partial or direct sunlight.</p>
-	<p>The seeds and seedlings may be vulnerable to being eaten by snails or birds. Protect your young plants with a DIY cloche or netting. </p>
+	<p>The seedlings will be vulnerable to high heat and heavy rain and are best kept under <a href="/page-index/hardscapes/netting">netting</a> in a or a shaded space with around 4 hours of partial or direct sunlight.</p>
+	<p>The seeds and seedlings may be vulnerable to being eaten by snails or birds. Protect your young plants with a DIY <a href="/page-index/horticulture-techniques/cloches">cloche</a> or netting. </p>
 	<br>
 </section>
 
 <section>
 	<h4>Growing:</h4>
 	<p>Once the plants are roughly 15cm tall, they can be exposed to full sunlight conditions. </p>
-<p>Sunflowers grow rapidly and can be fed with fertilisers high in Phosphorus and Potassium. Plants can be fertilised regularly a month after germination to encourage stronger root and flower growth. </p>
-<br>
+	<p>Sunflowers grow rapidly and can be fed with fertilisers high in Phosphorus and Potassium. Plants can be <a href="/page-index/horticulture-techniques/fertilising">fertilised</a> regularly a month after germination to encourage stronger root and flower growth. </p>
+	<br>
 </section>
 
 <section>
 	<h4>Harvesting:</h4>
-<p>This plant can be grown as a microgreen. Microgreens can be harvested the week after they sprout.</p>
-<p>Sunflower heads can be harvested for seeds when the flower heads have drooped down, and the seeds have turned dark and hard. You can test whether they are ready for harvest by pulling out some seeds before cutting the entire sunflower head.</p>
+	<p>This plant can be grown as a microgreen. Microgreens can be harvested the week after they sprout.</p>
+	<p>Sunflower heads can be harvested for seeds when the flower heads have drooped down, and the seeds have turned dark and hard. You can test whether they are ready for harvest by pulling out some seeds before cutting the entire sunflower head.</p>
 	<br>
 </section>
 
@@ -64,8 +64,8 @@ image: ""
 <section>
 	<h4>Common problems &amp; solutions:</h4>
 	<p>This plant is relatively resistant to pests and disease if kept healthy.</p>
-<p>Aphids, mealy bugs, and spider mites often infest the plant if it is sickly or overgrown. Prune off the infested parts, or apply horticultural oils like neem oil and white summer oil to suffocate the remaining pests. Regularly prune the plant to allow light and air to reach throughout the plant, and check the plant for underlying problems like root rot, lack of sunlight, and nutrient deficiencies.</p>
-<p>This plant is prone to rust and fungal diseases during the wet season. Prune the plant regularly to increase airflow, and remove heavily affected leaves.</p>
-<p>Wilting may occur during periods of hot weather or from the lack of watering. Regular wilting will stunt plant growth. Increase the number of times a plant is watered, or use mulch to retain moisture in the soil.</p>
-<br>
+	<p><a href="/page-index/pests/aphids">Aphids</a>, <a href="/page-index/pests/mealy-bugs">mealy bugs</a>, and <a href="/page-index/pests/spider-mites/">spider mites</a> often infest the plant if it is sickly or overgrown. Prune off the infested parts, or apply horticultural oils like neem oil and white summer oil to suffocate the remaining pests. Regularly prune the plant to allow light and air to reach throughout the plant, and check the plant for underlying problems like <a href="/page-index/plant-problems/root-rot">root rot</a>, lack of sunlight, and nutrient deficiencies.</p>
+	<p>This plant is prone to rust and fungal diseases during the wet season. Prune the plant regularly to increase airflow, and remove heavily affected leaves.</p>
+	<p><a href="/page-index/plant-problems/wilting">Wilting</a> may occur during periods of hot weather or from the lack of watering. Regular wilting will stunt plant growth. Increase the number of times a plant is watered, or use mulch to retain moisture in the soil.</p>
+	<br>
 </section>
