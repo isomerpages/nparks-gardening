@@ -16,7 +16,7 @@ image: ""
 </section> 
  
 <section> 
-	<img src="/images/Plants/CaiXin_JacChua%20(2).jpg"> 
+	<img title="Photo by Jacqueline Chua." src="/images/Plants/CaiXin_JacChua%20(2).jpg"> 
 	<p>A staple vegetable in many Chinese homes, Cai Xin is a tender leafy vegetable that can be blanched, stir-fried, or added to soup. The green variety is most common in markets, but some gardeners have also been growing a purple variety from seed!</p>
 	<p>An <a href="/learn-more-about-gardening/glossary/#a/">annual</a> crop, this plant is often grown and consumed under 2 months. Its rapid harvest cycle makes it useful for crop rotation.</p>
 	<p>Due to its shallow root system, these plants are a popular choice for container gardening and corridor gardening.</p>
