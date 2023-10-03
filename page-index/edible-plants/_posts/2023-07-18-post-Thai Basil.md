@@ -26,7 +26,7 @@ image: ""
 <section>
 	<h4>Environmental needs:</h4>
 		<img title="Photo by Jacqueline Chua." src="/images/Plants/ThaiBasil_JacChua%20(3).jpg">
-<p>Thai Basil thrives in <a href="/page-index/horticulture-techniques/gauging-light/">4-6 hours of direct sunlight</a>, but plants can also tolerate about 6-8 hours of indirect sunlight. Plants do best in <a href="/page-index/horticulture-techniques/soil/">loamy soil</a> at least 15cm deep, making them suitable for container gardening, and corridor gardening. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe. Keep your plants cool with mulch and plenty of water to encourage growth.</p>
+<p>Thai Basil thrives in <a href="/page-index/horticulture-techniques/gauging-light/">4-6 hours of direct sunlight</a>, but plants can also tolerate about 6-8 hours of indirect sunlight. Plants do best in <a href="/page-index/horticulture-techniques/soil/">loamy soil</a> at least 15cm deep, making them suitable for <a href="/page-index/horticulture-techniques/planting-in-containers/">container gardening</a>, and corridor gardening. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe. Keep your plants cool with mulch and plenty of water to encourage growth.</p>
 	<br>
 	</section>
 
