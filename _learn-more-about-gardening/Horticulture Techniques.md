@@ -125,7 +125,8 @@ description: ""
 	<a class="body" href="/page-index/horticulture-techniques/pest-control/">Pest control</a><br>
 	<a class="body" href="/page-index/horticulture-techniques/planting-in-containers/">Planting in containers</a><br>
 	<a class="body" href="/page-index/horticulture-techniques/true-ground/">Planting in true ground</a><br>
-<a class="body" href="/page-index/horticulture-techniques/propagating-by-cuttings">Propagating via cuttings</a><br>
+	<a class="body" href="/page-index/horticulture-techniques/plant-spacing/">Plant spacing</a><br>
+	<a class="body" href="/page-index/horticulture-techniques/propagating-by-cuttings">Propagating via cuttings</a><br>
 <a class="body" href="/page-index/horticulture-techniques/propagating-by-division">Propagating via division</a><br>
 <a class="body" href="/page-index/horticulture-techniques/propagating-by-seed">Propagating via seeds</a><br>
 <br><br>
@@ -137,7 +138,6 @@ description: ""
 	<a class="body" href="/page-index/horticulture-techniques/soil/">Soil</a><br>
 	<a class="body" href="/page-index/horticulture-techniques/soil-amendments/">Soil amendments</a><br>
 	<a class="body" href="/page-index/horticulture-techniques/soil-amendments-2/">Soil amendments (Accordion Ver)</a><br>
-	<a class="body" href="/page-index/horticulture-techniques/plant-spacing/">Spacing</a><br>
 <br><br>
 <h4 id="t">T</h4>
 	<br><br>
