@@ -17,18 +17,17 @@ image: ""
 
 <section>
 	<img title="Chives grown in pots. Photo by Jacqueline Chua." src="/images/Plants/Chives_JacChua.jpg">
-	
-<p>Chives are an easy herb that grows in both semi-shade and full sun gardens, and is a popular choice for small and upcycled containers due to its shallow roots. Chives are usually harvested for their leaves, but all parts of the plant generally taste like garlic and can be added to stir-fries, salads, and soups.</p>
-<p>A perennial crop with shallow root, chives are a useful addition to any edible garden, and are often planted in containers and corridor gardens. </p>
-<p>Chives are part of the Amaryllidaceae or onion family, which includes other popular herbs like shallots and leeks.</p>
+	<p>Chives are an easy herb that grows in both semi-shade and full sun gardens, and is a popular choice for small and upcycled containers due to its shallow roots. Chives are usually harvested for their leaves, but all parts of the plant generally taste like garlic and can be added to stir-fries, salads, and soups.</p>
+	<p>A <a href="/learn-more-about-gardening/glossary/#p">perennial</a> crop with shallow root, chives are a useful addition to any edible garden, and are often planted in containers and corridor gardens. </p>
+	<p>Chives are part of the Amaryllidaceae or onion family, which includes other popular herbs like shallots and leeks.</p>
 	<br>
 </section>
 
 <section>
 	<h4>Environmental needs:</h4>
-<p>As with most herbs, Chives need about 4-6 hours of direct sunlight or 6-8 hours of indirect sunlight. This plant will grow faster in direct sunlight but will tolerate shadier conditions. Plants do best in <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/soil/">loamy soil</a> at least 5cm deep, making them suitable for container gardening. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe. </p>
-<br>
-	</section>
+	<p>As with most herbs, Chives need about <a href="/page-index/horticulture-techniques/gauging-light">4-6 hours of direct sunlight or 6-8 hours of indirect sunlight</a>. This plant will grow faster in direct sunlight but will tolerate shadier conditions. Plants do best in <a href="/page-index/horticulture-techniques/soil/">loamy soil</a> at least 5cm deep, making them suitable for container gardening. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe. </p>
+	<br>
+</section>
 
 <section>
   <h4>Sowing seeds:</h4>
