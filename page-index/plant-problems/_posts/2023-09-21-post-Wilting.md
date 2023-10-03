@@ -7,6 +7,7 @@ description: ""
 image: ""
 ---
 <section>
+	<img title="A pumpkin plant wilting in the heat. Photo by Jacqueline Chua." src="/images/Plant%20problems/Wilting_JacChua%20(2).jpg">
 	<p><b>Wilting</b> is characterized by plants having limp and droopy stems and is usually a sign that the plant needs attention. While dramatic, wilting is a relatively easy problem to fix. Wilting is a natural response by plants to reduce water loss, and many plants can bounce back if the wilting is treated within a day or two. However, prolonged wilting can cause damage to stems, leaves and flowers, and may even result in death.</p>
 	<br>
 </section>
@@ -27,11 +28,11 @@ image: ""
 				<li>Water your plants more regularly during the dry period and consider adding mulch to the base of stems to reduce water loss.</li>
 				<li>Consider moving your plants to a shadier area during particularly hot periods, if applicable.</li>
 			</ul></li>
-  	<li><b>Wilting due to root rot</b>
+  	<li><b>Wilting due to <a href="/page-index/plant-problems/root-rot/">root rot</a></b>
 				<ul>
-					<li>Lots of rain and overwatering can cause root rot, especially if the soil or pot does not drain well. Check your plant’s roots for damage if it has been wilting despite regular watering.</li>
-					<li>If root rot is present, cut off the rotting portions and change the soil to prevent additional rot. Check the drainage of your plot or pot to ensure that water can drain away. </li>
-					<li>If the plant can be propagated by cuttings, consider propagating the healthy portions. </li>
+					<li>Lots of rain and <a href="/page-index/horticulture-techniques/watering/">overwatering</a> can cause root rot, especially if the soil or pot does not drain well. Check your plant’s roots for damage if it has been wilting despite regular watering.</li>
+					<li>If <a href="/page-index/plant-problems/root-rot/">root rot</a> is present, cut off the rotting portions and change the soil to prevent additional rot. Check the drainage of your plot or pot to ensure that water can drain away. </li>
+					<li>If the plant can be <a href="/page-index/horticulture-techniques/propagating-by-cuttings/">propagated by cuttings</a>, consider propagating the healthy portions. </li>
 				</ul></li>
 	</ul>
 </section>
