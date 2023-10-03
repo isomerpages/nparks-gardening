@@ -30,27 +30,25 @@ image: ""
 	<p>Plants do best in <a href="/page-index/horticulture-techniques/soil/">loamy soil</a> in containers that are at least 15cm deep, or in true ground.</p>
 	<iframe width="100%" height="415" src="https://www.youtube.com/embed/eGBg_S8yj0U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
 	<br>
-	<p>As with all members of the Nightshade family, this plant is buzz pollinated and produces the most fruit when bees are around to pollinate it. Growing more bee-attracting plants within the garden will encourage pollination. It can be hand-pollinated, but the success rate is generally lower. </p>
-	<p>These plants can get blossom end rot, which shows up as dark, sunken blotches at the end of fruits. It is a symptom of a lack of calcium reaching the fruit, which is usually caused by a lack of water or inconsistent watering. Keep your soil moist but not waterlogged and take care to water more often during the dry season. </p>
+	<p>As with all members of the Nightshade family, this plant is buzz pollinated and produces the most fruit when bees are around to pollinate it. Growing more <a href="/page-index/glossary/biodiversity-attracting-plants">bee-attracting plants</a> within the garden will encourage pollination.  It can be hand-pollinated, but the success rate is generally lower. </p>
+	<p>These plants can get blossom end rot, which shows up as dark, sunken blotches at the end of fruits. It is a symptom of a lack of calcium reaching the fruit, which is usually caused by a lack of water or inconsistent watering. Keep your soil moist but not waterlogged and take care to water more often during the dry season.</p>
 	<br>
 </section>
 
 <section>
   <h4>Sowing seeds:</h4>
-<p>Sow seeds individually in a seedling tray filled with potting mix or seedling mix. Lightly mist the soil until damp, once a day. Seeds should sprout within two weeks.</p>
-<p>Chilli seeds harvested fresh from ripe fruit are covered in capsaicin oil, which can cause a burning sensation when in contact with the skin, eyes, and lips. Handle fresh chilli seeds with gloves and avoid touching your face to prevent this.</p>
-	
-<iframe width="100%" height="415" src="https://www.youtube.com/embed/x7J87wY7U6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
+	<p>Sow seeds individually in a seedling tray filled with potting mix or seedling mix. Lightly mist the soil until damp, once a day. Seeds should sprout within two weeks.</p>
+	<p>Chilli seeds harvested fresh from ripe fruit are covered in capsaicin oil, which can cause a burning sensation when in contact with the skin, eyes, and lips. Handle fresh chilli seeds with gloves and avoid touching your face to prevent this.</p>
+	<iframe width="100%" height="415" src="https://www.youtube.com/embed/x7J87wY7U6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
 	<br>
-
-<p>The seedlings will be vulnerable to high heat and heavy rain and are best kept in a sheltered propagation area or a shaded space with around 4 hours of partial or direct sunlight. </p>
+	<p>The seedlings will be vulnerable to high heat and heavy rain and are best kept in a sheltered propagation area or a shaded space with around 4 hours of partial or direct sunlight. </p>
 	<br>
 </section>
 
 <section>
 	<h4>Transplanting:</h4>
-<p>Seedlings will be ready for transplanting into pots or true ground when they have developed 4 or more leaves, or roughly a week or two after germination. Leave 15-30cm between each plant to encourage more growth and better ventilation. </p>
-<br>
+	<p>Seedlings will be ready for transplanting into pots or true ground when they have developed 4 or more leaves, or roughly a week or two after germination. Leave 15-30cm between each plant to encourage more growth and better ventilation. </p>
+	<br>
 </section>
 	
 <section>
