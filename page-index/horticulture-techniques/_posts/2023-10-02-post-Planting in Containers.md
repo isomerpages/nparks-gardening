@@ -64,21 +64,15 @@ Having drainage holes at the bottom of your container will prevent this. Drainag
 		<img title="A vertical wall pocket system growing leafy vegetables. Photo by Jacqueline Chua." src="/images/Hardscapes/ContainerGardening_JacChua%20(8).jpg">
 	<p>Smaller pots will have less space for roots, and will dry out faster. This makes them ideal for plants that naturally have shallow roots and that are sensitive to <a href="/page-index/plant-problems/waterlogging/">waterlogging</a>, like most small leafy vegetables. Small pots are also ideal for maximising odd or small spaces, like walls.</p> 
 	<img title="Climbing plants have larger root balls and thus need larger pots as the plant needs more water to support itself. Photo by Jacqueline Chua." src="/images/Hardscapes/Trellis_JacChua.jpg">
-	<p>Larger pots are important for growing plants with large root balls, as they need more soil to keep hydrated and stable. Climbing plants, trees, and large shrubs all need larger and deeper pots to grow well. </p>
-	
-			
-	<img title="A vertical wall pocket system growing leafy vegetables. Photo by Jacqueline Chua." src="/images/Hardscapes/ContainerGardening_JacChua%20(8).jpg">
-	<p>Small containers are useful for filling up small spaces, and can also be stacked to make vertical wall plantings. They are ideal for plants with shallow roots, like small leafy vegetables, as they will drain quickly and are less likely to be <a href="/page-index/plant-problems/waterlogging/">waterlogged</a>. However, plants can quickly get root-bound, in which the roots hit the sides of the pot and start to grow back in towards existing roots or escape through the drainage holes. This usually results in the plant wilting suddenly or becoming stunted.  Remove the plant from its old pot and tease part the roots before replanting it in a pot at least 10cm larger in diameter and depth to remedy this. </p>
-	<p>Larger containers hold more soil, and therefore can hold more roots and a larger plant. Ensuring that your pot is big enough for your plant’s root ball will encourage growth and keep the plant stable.</p>
-	<img title="Roots escaping through drainage holes at the bottom of a pot. Photo by Jacqueline Chua." src="/images/Plant%20problems/rootbound_jacchua_2.jpg">
-	<p>Size also affects how fast the soil dries out. Larger containers need to be watered less since there is more soil to hold more water. A good way to gauge how much water is in the soil is by lifting the whole container to see how heavy it is. Dry pots are always much lighter! You can fully saturate the soil with water via the <a href="/page-index/horticulture-techniques/bottom-watering">bottom watering method</a> to see the difference.</p>
-	<br>
+	<p>Larger pots are important for growing plants with large root balls, as they need more soil to keep hydrated and stable. Climbing plants, trees, and large shrubs all need larger and deeper pots to grow well. However, plants that are sensitive to <a href="/page-index/plant-problems/waterlogging/">waterlogging</a> may get <a href="/page-index/plant-problems/root-rot/">root rot</a> if they are planted in pots that are too big for them, and are unable to absorb water fast enough. </p>
+		<img title="Roots escaping through drainage holes at the bottom of a pot. Photo by Jacqueline Chua." src="/images/Plant%20problems/rootbound_jacchua_2.jpg">
+	<p>A good rule of thumb is that pots should be at least as wide as the plant, with an extra 5cm diameter for the plant to grow comfortably. All potted plants may eventually get root-bound,  in which the roots hit the sides of the pot and start to grow back in towards existing roots or escape through the drainage holes. This usually results in the plant wilting suddenly or becoming stunted.  Remove the plant from its old pot and tease part the roots before replanting it in a pot at least 10cm larger in diameter and depth to remedy this. </p>
 </section>
-	
+<br>	
 <section>
 	<h4>Refreshing your container soil</h4>
-	<img title="A gardener using a fork to break compacted soil. Photo by Jacqueline Chua." src="/images/Horti%20techniques/Soil_Breaking_JacChua.jpg">
-	<p>Container soil can become compacted and nutrient-poor after some time. It is a good practice to refresh your soil at least once a year. Old container soil can be refreshed by breaking it up and adding 2 parts compost to 1 part old container soil to keep it soft with good drainage. Adding some slow-release organic fertilizer like Vermicast will help to replenish nutrients, and encourage new roots to settle in.</p>
+	<img title="Pots with refreshed soil for reotting. Photo by Jacqueline Chua." src="/images/Hardscapes/ContainerGardening_JacChua%20(1).jpg">
+	<p>Container soil can become compacted and nutrient-poor after some time. It is a good practice to refresh your soil at least once a year. Old container soil can be refreshed by breaking it up and adding 2 parts <a href="/page-index/horticulture-techniques/soil-amendments/">compost or cocopeat</a> to 1 part old container soil to keep it soft, and maintain good drainage. Adding some slow-release <a href="/page-index/horticulture-techniques/fertilising/">fertiliser</a> will help to replenish nutrients, and encourage new roots to settle in. It is best practice to repot potted plants once a year with new or refreshed soil to keep the plant growing.</p>
 </section>
 	<br>
 	<section>
