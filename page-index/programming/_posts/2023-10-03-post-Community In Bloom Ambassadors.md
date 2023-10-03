@@ -28,7 +28,7 @@ image: ""
 	<p>There are currently 104 CIB ambassadors from Community Gardens across Singapore.</p>
 	<ul class="jekyllcodex_accordion">
 		<li><input type="checkbox" id="accordion1">
-		<label for="accordion1">Click here to see the full list of our CIB Ambassadors to date!</label><div>
+		<label for="accordion1"><strong>Click here to see the full list of our CIB Ambassadors to date!</strong></label><div>
 			<table>
 				<tbody>
 					<tr>
