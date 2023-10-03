@@ -93,15 +93,15 @@ image: ""
 
 <section>
 	<h4>Propagation:</h4>
-	<p>This vine can be grown via seeds, by cuttings, or planting tubers. Stem cuttings can be rooted in water or soil. Tubers can be rooted in water or planted directly into the soil.</p>
+	<p>This vine can be grown via <a href="/page-index/horticulture-techniques/propagating-by-seed/">seeds</a>, by <a href="/page-index/horticulture-techniques/propagating-by-cuttings/">cuttings</a>, or <a href="/page-index/horticulture-techniques/propagating-by-division/">planting tubers</a>. Stem cuttings can be rooted in water or soil. Tubers can be rooted in water or planted directly into the soil.</p>
 	<br>
 </section>
 
 <section>
 	<h4>Common problems &amp; solutions:</h4>
-<p>This plant is relatively resistant to pests and disease if kept healthy.</p>
-<p>Sweet potato is vulnerable to fungal diseases that form leaf spots during the wet season or when the plant is overgrown. Increase air circulation with regular pruning and remove affected leaves to reduce the spread.</p>
-<p>Rodents are attracted to and will dig up tubers to eat. Protect your plants with netting and fully bury tubers used to grow new plants.</p>
-<p>Aphids, mealy bugs, and spider mites often infest the plant if it is sickly or overgrown. Prune off the infested parts, or apply horticultural oils like neem oil and white summer oil to suffocate the remaining pests. Regularly prune the plant to allow light and air to reach throughout the plant, and check the plant for underlying problems like root rot, lack of sunlight, and nutrient deficiencies.</p>
-<br>
+	<p>This plant is relatively resistant to pests and disease if kept healthy.</p>
+	<p>Sweet potato is vulnerable to fungal diseases that form leaf spots during the wet season or when the plant is overgrown. Increase air circulation with regular pruning and remove affected leaves to reduce the spread.</p>
+	<p>Rodents are attracted to and will dig up tubers to eat. Protect your plants with <a href="/page-index/hardscapes/netting/">netting</a> and fully bury tubers used to grow new plants.</p>
+	<p><a href="/page-index/pests/aphids/">Aphids</a>, <a href="/page-index/pests/mealy-bugs/">mealy bugs</a>, and <a href="/page-index/pests/spider-mites/">spider mites</a> often infest the plant if it is sickly or overgrown. Prune off the infested parts, or apply horticultural oils like neem oil and white summer oil to suffocate the remaining pests. Regularly prune the plant to allow light and air to reach throughout the plant, and check the plant for underlying problems like <a href="/page-index/plant-problems/root-rot/">root rot</a>, lack of sunlight, and nutrient deficiencies.</p>
+	<br>
 </section>
