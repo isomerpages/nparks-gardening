@@ -30,12 +30,12 @@ image: ""
 <li>CIB Awards 2018</li>
 <li>CIB Awards 2016</li>
 <li>CIB Awards 2014</li>
-<ul>
-<p>Watch vieos of previous Gardens of the Year Awards winners:</p>
+</ul>
+<p>Watch videos of previous Gardens of the Year Awards winners:</p>
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/jB1WD0su6oU?si=TY3EsdD3dEmV3Vpu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
 	<br>
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/aj8Wb3wyOmk?si=JhTV-2y9NjNEB1jf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
 	<br>
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/epChDGLSbRA?si=fTAYigvkc80AV8k1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
 	<br>
-</ul></ul></section>
+</section>
