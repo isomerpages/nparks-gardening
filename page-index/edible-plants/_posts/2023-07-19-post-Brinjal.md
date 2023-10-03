@@ -16,34 +16,29 @@ image: ""
 </section>
 
 <section>
-	<img src="/images/Plants/Brinjal_JacChua%20(2).jpg">
-	
-<p>Brinjals are one of the most common crops you see in Community Gardens in Singapore as they can grow quickly into productive bushes and are relatively pest resistant. With a wide variety of cultivars, brinjals come in colours ranging from dark purple to white and even yellow, and can be round, egg-shaped, or oblong. The fruits are eaten while they are immature, and can be roasted, stewed, or made into sauces.</p>
-<p>A perennial crop, these plants are a popular mainstay in edible gardens of all sizes. Eggplants in true ground can produce fruit for a few years, while those in pots and can produce fruit for more than a year if cared for properly.</p>
-<p>This plant is part of the Solanum or Nightshade family, which includes other popular edible fruits like Tomatoes and Chillies.</p>
+	<img title="Photo by Jacqueline Chua." src="/images/Plants/Brinjal_JacChua%20(2).jpg">
+	<p>Brinjals are one of the most common crops you see in Community Gardens in Singapore as they can grow quickly into productive bushes and are relatively pest resistant. With a wide variety of cultivars, brinjals come in colours ranging from dark purple to white and even yellow, and can be round, egg-shaped, or oblong. The fruits are eaten while they are immature, and can be roasted, stewed, or made into sauces.</p>
+	<p>A <a href="/learn-more-about-gardening/glossary/#p">perennial</a> crop, these plants are a popular mainstay in edible gardens of all sizes. Eggplants in true ground can produce fruit for a few years, while those in pots and can produce fruit for more than a year if cared for properly.</p>
+	<p>This plant is part of the Solanum or Nightshade family, which includes other popular edible fruits like Tomatoes and Chillies.</p>
 	<br>
 </section>
 
 <section>
 	<h4>Environmental needs:</h4>
-		<img src="/images/Plants/Brinjal_JacChua%20(1).jpg">
-<p>This vine does best in full sun gardens with a minimum of 6 hours of direct sunlight. This plant can also grow with 4-5 hours of direct sunlight and at least 6 hours of indirect sunlight, but will produce less fruits.</p>
-<p>Plants do best in <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/soil/">loamy soil</a> at least 15cm deep, or in true ground.</p>
-	
-<iframe width="100%" height="415" src="https://www.youtube.com/embed/eGBg_S8yj0U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
-	
-<p>As with all members of the Nightshade family, this plant is buzz pollinated and produces the most fruit when bees are around to pollinate it. Growing more bee-attracting plants within the garden will encourage pollination. It can be hand-pollinated, but the success rate is generally lower. </p>
-<p>These plants can get blossom end rot, which shows up as dark, sunken blotches at the end of fruits. It is a symptom of a lack of calcium reaching the fruit, which is usually caused by a lack of water or inconsistent watering. Keep your soil moist but not waterlogged and take care to water more often during the dry season.</p>
-<br>
+	<img title="Photo by Jacqueline Chua." src="/images/Plants/Brinjal_JacChua%20(1).jpg">
+	<p>This vine does best in <a href="/page-index/horticulture-techniques/gauging-light">full sun gardens with a minimum of 6 hours of direct sunlight</a>. This plant can also grow with 4-5 hours of direct sunlight and at least 6 hours of indirect sunlight, but will produce less fruits.</p>
+	<p>Plants do best in <a href="/page-index/horticulture-techniques/soil/">loamy soil</a> at least 15cm deep, or in true ground.</p>
+	<iframe width="100%" height="415" src="https://www.youtube.com/embed/eGBg_S8yj0U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
+	<p>As with all members of the Nightshade family, this plant is buzz pollinated and produces the most fruit when bees are around to pollinate it. Growing more <a href="/page-index/glossary/biodiversity-attracting-plants">bee-attracting plants</a> within the garden will encourage pollination. It can be hand-pollinated, but the success rate is generally lower. </p>
+	<p>These plants can get blossom end rot, which shows up as dark, sunken blotches at the end of fruits. It is a symptom of a lack of calcium reaching the fruit, which is usually caused by a lack of water or inconsistent watering. Keep your soil moist but not waterlogged and take care to water more often during the dry season.</p>
+	<br>
 </section>
 
 <section>
   <h4>Sowing seeds:</h4>
-<p>Seeds can be sown directly into pots or the ground around 15-30cm apart. Lightly water the soil until damp, once a day. Seeds should sprout within two weeks. </p>
-	
-<iframe width="100%" height="415" src="https://www.youtube.com/embed/x7J87wY7U6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
-
-<p>The seedlings are generally resilient to most environmental factors but may be vulnerable to being eaten by snails or birds. Protect your young plants with a DIY cloche or netting.</p>
+	<p>Seeds can be sown directly into pots or the ground around 15-30cm apart. Lightly water the soil until damp, once a day. Seeds should sprout within two weeks. </p>
+		<iframe width="100%" height="415" src="https://www.youtube.com/embed/x7J87wY7U6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
+	<p>The seedlings are generally resilient to most environmental factors but may be vulnerable to being eaten by snails or birds. Protect your young plants with a DIY cloche or netting.</p>
 	<br>
 </section>
 
