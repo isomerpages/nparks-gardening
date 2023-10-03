@@ -67,5 +67,10 @@ Having drainage holes at the bottom of your container will prevent this. Drainag
 	<h4>Refreshing your container soil</h4>
 	<img title="A gardener using a fork to break compacted soil. Photo by Jacqueline Chua." src="/images/Horti%20techniques/Soil_Breaking_JacChua.jpg">
 	<p>Container soil can become compacted and nutrient-poor after some time. It is a good practice to refresh your soil at least once a year. Old container soil can be refreshed by breaking it up and adding 2 parts compost to 1 part old container soil to keep it soft with good drainage. Adding some slow-release organic fertilizer like Vermicast will help to replenish nutrients, and encourage new roots to settle in.</p>
+</section>
 	<br>
-</section></section>
+	<section>
+		<h4>Upcyling</h4>
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/pVZePRlmgio?si=4tAeloA2jB9yGgWo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
+<p>Waterproof containers like takeaway boxes, tins, and bottles can be readily upcycled to make pots. Making and decorating upcycled pots is a fun bonding activity, and can be paired with <a href="/page-index/horticulture-techniques/propagating-by-cuttings/">propagating cuttings</a> to make gifts!</p>
+		<img title="Bottles upcycled into hanging pots. Photo by Jacqueline Chua." src="/images/Hardscapes/Upcycling_JacChua%20(17).jpg"></section></section>
