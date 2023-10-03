@@ -63,15 +63,15 @@ image: ""
 
 <section>
 	<h4>Propagation:</h4>
-	<p>Thai Basil can be grown from seed or propagated via stem cuttings in water or soil.</p>
+	<p>Thai Basil can be grown from seed or <a href="/page-index/horticulture-techniques/propagating-by-cuttings/">propagated via stem cuttings</a> in water or soil.</p>
 	<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/wv-LZCwUArE" height="415" width="100%"></iframe><br>
 	<br>
 </section>
 
 <section>
 	<h4>Common problems &amp; solutions:</h4>
-<p>Like most strong-smelling herbs, this plant is relatively resistant to pests and disease if kept healthy.</p>
-<p>Wilting leaves during hot weather is a sign of heat stress. Increase the number of times the plant is watered daily or move it to a shadier part of the garden.</p>
-<p>Aphids, mealy bugs, and spider mites often infest the plant if it is sickly or overgrown. Prune off the infested parts, or apply horticultural oils like neem oil and white summer oil to suffocate the remaining pests. Regularly prune the plant to allow light and air to reach throughout the plant, and check the plant for underlying problems like root rot, lack of sunlight, and nutrient deficiencies. </p>
-<br>
+	<p>Like most strong-smelling herbs, this plant is relatively resistant to pests and disease if kept healthy.</p>
+	<p><a href="/page-index/plant-problems/wilting/">Wilting</a> leaves during hot weather is a sign of heat stress. Increase the number of times the plant is watered daily or move it to a shadier part of the garden.</p>
+	<p><a href="/page-index/pests/aphids">Aphids</a>, <a href="/page-index/pests/mealy-bugs">mealy bugs</a>, and <a href="/page-index/pests/spider-mites">spider mites</a> often infest the plant if it is sickly or overgrown. Prune off the infested parts, or apply horticultural oils like neem oil and white summer oil to suffocate the remaining pests. Regularly prune the plant to allow light and air to reach throughout the plant, and check the plant for underlying problems like root rot, lack of sunlight, and nutrient deficiencies. </p>
+	<br>
 </section>
