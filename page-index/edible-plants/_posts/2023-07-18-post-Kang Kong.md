@@ -26,17 +26,17 @@ image: ""
 
 <section>
   <h4>Environmental needs:</h4>
-		<img src="/images/Hardscapes/P3190049.jpg" title="Kang kong (right) growing alongside Chinese Mustard (Left). Photo by Jacqueline Chua">
-		<p>This hardy vine thrives in full sun gardens and can grows best with <a href="/page-index/horticulture-techniques/gauging-light/">4-8 hours of direct sunlight</a>. It can also grow in more than 6 hours of indirect sunlight, but at a slower pace.</p>
-		<p>Plants do best in <a href="/horticulture-techniques/soil/">loamy soil</a> at least 10cm deep, making them suitable for container gardening. This plant is highly tolerant of waterlogged soils and can be used in gardens that are watered frequently, in waterlogged gardens that are prone to flooding, in areas exposed to large amounts of rain, and in ponds. </p> 
-		<p>As a fast-growing vine, this plant is traditionally left to sprawl on large patches of soil, but it can be also grown up a trellis. Regular pruning will encourage additional growth and improve air circulation.</p>
+	<img src="/images/Hardscapes/P3190049.jpg" title="Kang kong (right) growing alongside Chinese Mustard (Left). Photo by Jacqueline Chua">
+	<p>This hardy vine thrives in full sun gardens and can grows best with <a href="/page-index/horticulture-techniques/gauging-light/">4-8 hours of direct sunlight</a>. It can also grow in more than 6 hours of indirect sunlight, but at a slower pace.</p>
+	<p>Plants do best in <a href="/page-index/horticulture-techniques/soil/">loamy soil</a> at least 10cm deep, making them suitable for container gardening. This plant is highly tolerant of waterlogged soils and can be used in gardens that are watered frequently, in waterlogged gardens that are prone to flooding, in areas exposed to large amounts of rain, and in ponds. </p> 
+	<p>As a fast-growing vine, this plant is traditionally left to sprawl on large patches of soil, but it can be also grown up a trellis. Regular pruning will encourage additional growth and improve air circulation.</p>
 	<br>
 </section>
 
 <section>
   <h4>Sowing seeds:</h4>
-		<img title="Kang kong seedlings grown in rows spaced 10cm apart. Photo by Jacqueline Chua" src="/images/Horti%20techniques/SowingSeed_Jacchua.jpg">
-		<p><a href="/page-index/horticulture-techniques/propagating-by-seed/">Seeds can be sown directly into pots or the ground</a> around 10cm apart. Seeds can also be scattered on rows spaced 10cm apart, with the seedlings thinned to individual plants spaced 10cm apart two weeks after germination. Lightly water the soil until damp, once a day. Seeds should sprout within a week. </p>
+	<img title="Kang kong seedlings grown in rows spaced 10cm apart. Photo by Jacqueline Chua" src="/images/Horti%20techniques/SowingSeed_Jacchua.jpg">
+	<p><a href="/page-index/horticulture-techniques/propagating-by-seed/">Seeds can be sown directly into pots or the ground</a> around 10cm apart. Seeds can also be scattered on rows spaced 10cm apart, with the seedlings thinned to individual plants spaced 10cm apart two weeks after germination. Lightly water the soil until damp, once a day. Seeds should sprout within a week. </p>
 		<iframe width="100%" height="415" src="https://www.youtube.com/embed/x7J87wY7U6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
 		<p>The seedlings are generally resilient to most environmental factors but may be vulnerable to being eaten by snails or birds. Protect your young plants with a DIY cloche or netting. </p>
 	<br>
