@@ -18,7 +18,7 @@ image: ""
 <section>
 	<img title="Photo by Jacqueline Chua." src="/images/Plants/SweetPotatoLeaves_JacChua%20(2).jpg">
 	<p>Sweet Potatoes are a versatile crop that produces both edible leaves and tubers, both of which are popular ingredients in a wide variety of Asian dishes. The leaves come in a range of shapes and colours including deep purple, neon yellow and green. Some of these attractive varieties such as the ‘Black Heart’ and ‘Margarita’ can be used to add a pop of colour to the garden.</p>
-	<p>This fast-growing <a href="/learn-more-about-gardening/glossary/#p/">perennial</a> crop can be used as an edible groundcover or a green mulch to suppress weeds and protect soil from the sun and rain.</p>
+	<p>This fast-growing <a href="/learn-more-about-gardening/glossary/#p">perennial</a> crop can be used as an edible groundcover or a green mulch to suppress weeds and protect soil from the sun and rain.</p>
 	<p>This vine is from the Ipomoea or Morning Glory family, and in the same genus as Kang Kong.</p>
 	<br>
 </section>
