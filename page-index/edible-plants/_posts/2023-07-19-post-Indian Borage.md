@@ -33,25 +33,25 @@ image: ""
 <section>
 	<h4>Growing:</h4>
 	<p>Indian borage grows rapidly when young and freshly planted from cuttings. Regular harvesting will encourage the plant to grow more leaves and stems.</p>
-<br>
+	<br>
 </section>
 
-<section>
+</a><section><a href="/page-index/plant-problems/root-rot">
 	<h4>Harvesting:</h4>
-<p>Plants can be harvested for leaves at any time. They are typically harvested continuously via the cut-and-come-again method. </p>
+	</a><p><a href="/page-index/plant-problems/root-rot">Plants can be harvested for leaves at any time. They are typically harvested continuously via the </a><a href="/page-index/horticulture-techniques/cut-and-come-again">cut-and-come-again method</a>.</p>
 	<br>
 </section>
 
 <section>
 	<h4>Propagation:</h4>
-	<p>Indian borage is typically propagated via stem cuttings in soil. Stem cuttings rooted in water are likely to rot.</p>
+	<p>Indian borage is typically propagated via <a href="/page-index/horticulture-techniques/propagating-by-cuttings">stem cuttings in soil</a>. Stem cuttings rooted in water are likely to rot.</p>
 	<br>
 </section>
 
 <section>
 	<h4>Common problems &amp; solutions:</h4>
-<p>Like most strong-smelling herbs, this plant is relatively resistant to pests and disease if kept healthy.</p>
-<p>The stems are liable to snap if they get too long. Regularly prune the plant to keep stems short. </p>
-<p>This plant is very vulnerable to root rot from soil with a high clay content. Ensure that your soil drains well and has plenty of grit. </p>
-<br>
-</section></a>
+	<p>Like most strong-smelling herbs, this plant is relatively resistant to pests and disease if kept healthy.</p>
+	<p>The stems are liable to snap if they get too long. Regularly prune the plant to keep stems short. </p>
+	<p>This plant is very vulnerable to root rot from soil with a high clay content. Ensure that your soil drains well and has plenty of grit. </p>
+	<br>
+</section>
