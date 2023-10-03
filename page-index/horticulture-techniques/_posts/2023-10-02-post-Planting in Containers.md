@@ -14,7 +14,7 @@ image: ""
 
 <section>
 	<h4>Container material</h4>
-	<p>Anything that is waterproof and can hold soil could potentially become a container for your plants. Many store-bought containers are made from plastic, metal, glass, clay, wood, or concrete, and upcycled pots are often made from the same materials.</p>
+	<p>Anything that is waterproof and can hold soil could potentially become a container for your plants. Many store-bought containers are made from plastic, metal, glass, clay, or wood, and upcycled pots are often made from the same materials.</p>
 	<ul class="jekyllcodex_accordion">
 		<li><input type="checkbox" id="accordion1">
 		<label for="accordion1">Plastic</label><div>
