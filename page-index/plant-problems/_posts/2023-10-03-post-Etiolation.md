@@ -16,7 +16,7 @@ image: ""
 	<h4>Symptoms</h4>
 	<p>Plants will have long and weak stems that may require <a href="/page-index/hardscapes/staking/">staking</a>.</p>
 	<p>Leaves will have a pale yellow colour, and may not unfurl properly.</p> 
-		</section>
+</section>
 <br>
 <section>
 	<h4>Treatment</h4>
