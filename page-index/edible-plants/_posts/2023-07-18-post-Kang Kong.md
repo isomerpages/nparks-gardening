@@ -37,15 +37,15 @@ image: ""
   <h4>Sowing seeds:</h4>
 	<img title="Kang kong seedlings grown in rows spaced 10cm apart. Photo by Jacqueline Chua" src="/images/Horti%20techniques/SowingSeed_Jacchua.jpg">
 	<p><a href="/page-index/horticulture-techniques/propagating-by-seed/">Seeds can be sown directly into pots or the ground</a> around 10cm apart. Seeds can also be scattered on rows spaced 10cm apart, with the seedlings thinned to individual plants spaced 10cm apart two weeks after germination. Lightly water the soil until damp, once a day. Seeds should sprout within a week. </p>
-		<iframe width="100%" height="415" src="https://www.youtube.com/embed/x7J87wY7U6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
-		<p>The seedlings are generally resilient to most environmental factors but may be vulnerable to being eaten by snails or birds. Protect your young plants with a DIY cloche or netting. </p>
+	<iframe width="100%" height="415" src="https://www.youtube.com/embed/x7J87wY7U6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
+	<p>The seedlings are generally resilient to most environmental factors but may be vulnerable to being eaten by snails or birds. Protect your young plants with a DIY <a href="/page-index/horticulture-techniques/cloches">cloche</a> or <a href="/page-index/hardscapes/netting">netting</a>.</p>
 	<br>
 </section>
 	
 <section>
   <h4>Growing:</h4>
-		<p>Kang Kong grows rapidly when fed with high nitrogen fertilisers. Plants can be fertilised regularly two weeks after germination for a fuller crop.</p>
-		<p>Because the vines will grow on top of each other, it is a good practice to <a href="/page-index/horticulture-techniques/pruning/">prune regularly</a> to improve ventilation and allow light to reach more of the plant. </p>
+	<p>Kang Kong grows rapidly when fed with high nitrogen fertilisers. Plants can be fertilised regularly two weeks after germination for a fuller crop.</p>
+	<p>Because the vines will grow on top of each other, it is a good practice to <a href="/page-index/horticulture-techniques/pruning/">prune regularly</a> to improve ventilation and allow light to reach more of the plant. </p>
 		<p>This vine grows large very rapidly and can climb up to 3m if a tall enough surface is available. Prune it back to manageable heights and densities to make harvesting and maintenance easier.</p>
 	<br>
 </section>
