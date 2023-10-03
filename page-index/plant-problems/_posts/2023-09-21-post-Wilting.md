@@ -40,4 +40,8 @@ image: ""
 			<li>Freshly transplanted <a href="/page-index/horticulture-techniques/propagating-by-cuttings/">cuttings</a> or <a href="/page-index/horticulture-techniques/propagating-by-seed/">seedlings</a> will need to grow their roots out before they can continue to grow. While they are adapting to their new environment, these plants may wilt, which is what we refer to as transplanting shock.</li>
 			<li>Plants showing signs of transplanting shock will need to be watered more, and moved to a shadier area or have <a href="/page-index/hardscapes/netting/">shade netting</a> to protect them for at least a week before they can be exposed to direct sunlight again. </li>
 	</ul>
+		<li><b>Wilting due to being <a href="/page-index/horticulture-techniques/planting-in-containers/">root-bound</a></b></li>
+			<ul>
+				<li>Potted plants that are root-bound may suddenly wilt as the new root hairs are no longer in contact with wet soil, and have instead coiled into themselves or out of the pot. Root -bound plants will quickly bounce back after being <a href="/page-index/horticulture-techniques/bottom-watering/">bottom-watered</a>, but will still need to be repotted to keep the plant healthy.</li>
+		</ul>
 </ul></section>
