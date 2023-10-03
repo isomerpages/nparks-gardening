@@ -7,7 +7,7 @@ description: ""
 image: ""
 ---
 <style>
-	a:link.body {
+	a:link.body, a:visited.body {
 		color: black;
 		text-decoration: none;
 	}
