@@ -46,15 +46,15 @@ image: ""
   <h4>Growing:</h4>
 	<p>Kang Kong grows rapidly when fed with high nitrogen fertilisers. Plants can be fertilised regularly two weeks after germination for a fuller crop.</p>
 	<p>Because the vines will grow on top of each other, it is a good practice to <a href="/page-index/horticulture-techniques/pruning/">prune regularly</a> to improve ventilation and allow light to reach more of the plant. </p>
-		<p>This vine grows large very rapidly and can climb up to 3m if a tall enough surface is available. Prune it back to manageable heights and densities to make harvesting and maintenance easier.</p>
+	<p>This vine grows large very rapidly and can climb up to 3m if a tall enough surface is available. Prune it back to manageable heights and densities to make harvesting and maintenance easier.</p>
 	<br>
 </section>
 
 <section>
   <h4>Harvesting:</h4>
-	<p>Plants can be <a href="/page-index/horticulture-techniques/harvest-hygiene">harvested</a> for leaves and stems, with younger leaves being the most tender. Most gardeners will begin harvesting from their Kang Kong plant around 3 weeks after sowing.</p>
-		<p>Kang Kong is typically harvested multiple times by harvesting the younger leaves and stems as per the <a href="/page-index/horticulture-techniques/cut-and-come-again/">cut-and-come-again</a> method.</p>
-		<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/lItBHYjyrKg" height="415" width="100%"></iframe><br>
+	<p>Plants can be <a href="/page-index/horticulture-techniques/harvesting-hygiene">harvested</a> for leaves and stems, with younger leaves being the most tender. Most gardeners will begin harvesting from their Kang Kong plant around 3 weeks after sowing.</p>
+	<p>Kang Kong is typically harvested multiple times by harvesting the younger leaves and stems as per the <a href="/page-index/horticulture-techniques/cut-and-come-again/">cut-and-come-again</a> method.</p>
+	<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/lItBHYjyrKg" height="415" width="100%"></iframe><br>
 	<br>
 </section>
 
@@ -86,8 +86,8 @@ image: ""
 
 <section>
   <h4>Propagation:</h4>
-		<img title="Kang kong growing roots along leaf nodes. Photo by Jacqueline Chua" src="/images/Plants/KangKong_JacChua%20(1).jpg">
-		<p>This vine can be grown via <a href="/page-index/horticulture-techniques/propagating-by-seed/">seeds</a> or by <a href="/page-index/horticulture-techniques/propagating-by-cuttings/">stem cuttings</a> rooted in water or soil.</p>
+	<img title="Kang kong growing roots along leaf nodes. Photo by Jacqueline Chua" src="/images/Plants/KangKong_JacChua%20(1).jpg">
+	<p>This vine can be grown via <a href="/page-index/horticulture-techniques/propagating-by-seed/">seeds</a> or by <a href="/page-index/horticulture-techniques/propagating-by-cuttings/">stem cuttings</a> rooted in water or soil.</p>
 	<br>
 </section>
 
