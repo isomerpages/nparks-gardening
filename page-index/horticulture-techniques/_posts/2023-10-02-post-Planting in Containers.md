@@ -7,7 +7,7 @@ description: ""
 image: ""
 ---
 <section>
-	<img title="Photo by Jacqueline Chua." src="/images/Horti%20techniques/ContainerGardening_Jacchua%20(2).jpg">
+	<img title="Various plants being growin in containers.Photo by Jacqueline Chua." src="/images/Hardscapes/ContainerGardening_JacChua%20(21).jpg">
 	<p>Containers are a gardener’s best friend because they are a versatile way to grow plants almost anywhere. Whether they are conventional pots, troughs, raised planters, vertical wall pots or upcycled, there are some principals to gardening in containers that will help you grow your potted plants to their fullest!</p>
 	<br>
 </section>
@@ -18,24 +18,28 @@ image: ""
 	<ul class="jekyllcodex_accordion">
 		<li><input type="checkbox" id="accordion1">
 		<label for="accordion1">Plastic</label><div>
+			<img title="Leafy vegetables being grown in plastic pots. Photo by Jacqueline Chua." src="/images/Hardscapes/ContainerGardening_JacChua%20(13).jpg">
 			<p>Plastic containers are light, flexible and cheap. They also do not heat up easily and come in a wide variety of styles. However, thinner plastics will break down quickly when exposed to the sun, while thicker plastics can last longer. Most plastic pots will last between 1-10 years.</p>
 		</div></li>
 		<li><input type="checkbox" id="accordion2">
 		<label for="accordion2">Metal</label><div>
+			<img title="Seedlings being grown in upcycled metal tins. Photo by Jacqueline Chua." src="/images/Hardscapes/Upcycling_JacChua%20(2).jpg">
 			<p>Metal containers look stylish and rustic, but they tend to be heavy and can heat up quickly in direct sunlight. They are best used in shady gardens, which will prevent plants and gardeners burning themselves on the hot metal. Metal is a long-lived material, especially when coated with anti-rust paint. These containers can easily last 5-10 years.</p>
 		</div></li>
 		<li><input type="checkbox" id="accordion3">
-		<label for="accordion3">Plastic</label><div>
-			<p>Glass containers are particularly eye-catching for indoor spaces, and are generally classy additions to your garden. However, they are heavy and delicate, and thus need to be handled with care. Glass also tends to heat up in the sun, and is prone to algal growth. If kept well, glass conatiners can last 10 years or more.</p>
+		<label for="accordion3">Glass</label><div>
+			<img title="Glass containers being used for indoor planting. Photo by Jacqueline Chua." src="/images/Hardscapes/Growlight_JacChua%20(1).jpg">
+			<p>Glass containers are particularly eye-catching for indoor spaces, and are generally classy additions to your garden. However, they are heavy and delicate, and thus need to be handled with care. Glass also tends to heat up in the sun, and is prone to algal growth. Glass also rarely comes with drainage holes, so care must be taken while <a href="/page-index/horticulture-techniques/watering/">watering</a> to prevent <a href="/page-index/plant-problems/root-rot/">waterlogging</a> the whole container. If kept well, glass containers can last 10 years or more.</p>
 		</div></li>
 		<li><input type="checkbox" id="accordion4">
 		<label for="accordion4">Clay</label><div>
-			<p>Clay containers are traditionally used for gardening and are often the most common pots you can find after plastic. They are tougher than glass, but they are still heavy and can shatter. Unglazed clay pots will dry out faster than glazed pots, but both are long-lived and reliable materials that can last for more than 10 years. 
-Wooden containers are light and stylish, but they do tend to rot within three years even when coated with varnish in the tropics. Most wooden containers exposed to the sun and rain last up to about 5 years at most.</p>
-		</div></li>
+			<img title="A hanging clay pot. Photo by Jacqueline Chua." src="/images/Hardscapes/ContainerGardening_JacChua%20(20).jpg">
+			<p>Clay containers are traditionally used for gardening and are often the most common pots you can find after plastic. They are tougher than glass, but they are still heavy and can shatter. Unglazed clay pots will dry out faster than glazed pots, but both are long-lived and reliable materials that can last for more than 10 years.</p> 
+				</div></li>
 		<li><input type="checkbox" id="accordion5">
-		<label for="accordion5">Concrete</label><div>
-			<p>Concrete containers are heavy and durable and can be moulded into a wide variety of interesting shapes. Concrete is also cheap, making it a popular material for custom planter beds and pots. Concrete can last for more than 10 years, but may need annual scrubbing to reduce algal growth, especially during the wet season.</p>
+		<label for="accordion5">Wood</label><div>	
+			<img title="A wooden pot upcycled from an old wine crate. Photo by Jacqueline Chua." src="/images/Hardscapes/ContainerGardening_JacChua%20(11).jpg">
+<p>Wooden containers are light and stylish, but they do tend to rot within three years even when coated with varnish in the tropics. Most wooden containers exposed to the sun and rain last up to about 5 years at most.</p>
 		</div></li>
 	</ul>
 	<br>
