@@ -31,19 +31,17 @@ image: ""
 
 <section>
   <h4>Sowing seeds:</h4>
-<p>Sow seeds individually in a seedling tray filled with potting mix or seedling mix. Lightly mist the soil until damp, once a day. Seeds should sprout within two weeks.</p>
-	
-<iframe width="100%" height="415" src="https://www.youtube.com/embed/x7J87wY7U6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
+	<p>Sow seeds individually in a seedling tray filled with potting mix or seedling mix. Lightly mist the soil until damp, once a day. Seeds should sprout within two weeks.</p>
+	<iframe width="100%" height="415" src="https://www.youtube.com/embed/x7J87wY7U6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
 	<br>
-
-<p>The seedlings will be vulnerable to high heat and heavy rain and are best kept in a sheltered propagation area or a shaded space with around 4 hours of partial or direct sunlight.</p>
+	<p>The seedlings will be vulnerable to high heat and heavy rain and are best kept in a sheltered propagation area or a shaded space with around 4 hours of partial or direct sunlight.</p>
 	<br>
 </section>
 
 <section>
 	<h4>Transplanting:</h4>
-<p>Seedlings will be ready for transplanting into pots or true ground when they are roughly 10cm tall. Leave 5-10cm between each plant to encourage more growth and better ventilation.</p>
-<br>
+	<p>Seedlings will be ready for transplanting into pots or true ground when they are roughly 10cm tall. Leave 5-10cm between each plant to encourage more growth and better ventilation.</p>
+	<br>
 </section>
 	
 <section>
