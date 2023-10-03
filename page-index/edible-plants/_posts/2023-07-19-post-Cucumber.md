@@ -17,17 +17,16 @@ image: ""
 
 <section>
 	<img title="Photo by Jacqueline Chua." src="/images/Plants/Cucumber_JacChua.jpg">
-	
-<p>Cucumbers are a classic fruit eaten raw, in stews or preserved. They come in many cultivars with oblong fruits that range from small and green to large and yellow. Most varieties, particularly the ones eaten raw for salads, should be harvested when they are immature and not bitter .</p>
-<p>An annual crop, these plants are often grown in rotation with other fruiting climbers. </p>
-<p>This plant is part of the Cucurbita or Melon family, which includes other popular edible fruits like Bitter Gourd, Winter melon, and Pumpkin.</p>
+	<p>Cucumbers are a classic fruit eaten raw, in stews or preserved. They come in many cultivars with oblong fruits that range from small and green to large and yellow. Most varieties, particularly the ones eaten raw for salads, should be harvested when they are immature and not bitter .</p>
+	<p>An <a href="/learn-more-about-gardening/glossary/#a">annual</a> crop, these plants are often grown in rotation with other fruiting climbers. </p>
+	<p>This plant is part of the Cucurbita or Melon family, which includes other popular edible fruits like Bitter Gourd, Winter melon, and Pumpkin.</p>
 	<br>
 </section>
 
 <section>
 	<h4>Environmental needs:</h4>
-<p>This vine does best in full sun gardens with a minimum of 6 hours of direct sunlight. This plant can also grow with 4-5 hours of direct sunlight and at least 6 hours of indirect sunlight, but will produce less fruits.</p>
-<p>Plants do best in moist, <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/soil/">loamy soil</a> at least 30cm deep, or in true ground. The plant can be grown in smaller pots about 20cm deep, but growth will be slower due to the lack of water retention in less soil and a smaller root ball. </p>
+	<p>This vine does best in <a href="/page-index/horticulture-techniques/soil/">full sun gardens with a minimum of 6 hours of direct sunlight</a>. This plant can also grow with 4-5 hours of direct sunlight and at least 6 hours of indirect sunlight, but will produce less fruits.</p>
+<p>Plants do best in moist, <a href="/page-index/horticulture-techniques/soil/">loamy soil</a> at least 30cm deep, or in true ground. The plant can be grown in smaller pots about 20cm deep, but growth will be slower due to the lack of water retention in less soil and a smaller root ball. </p>
 <p>This vine is vulnerable to heat stress during the dry season. Water it regularly and mulch the base to prevent water loss. </p>
 <p>As a fast-growing vine, this plant needs a sturdy trellis to scramble on. Because the fruits hang down, it is ideal for arch-shaped trellises.</p>
 	
