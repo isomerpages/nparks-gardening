@@ -17,23 +17,20 @@ image: ""
 
 <section>
 	<img title="Ripening Chilli. Photo by Jacqueline Chua." src="/images/Plants/Chilli_JacChua.jpg">
-	
-<p>Chillies are an essential plant in most edible gardens across South and Southeast Asia, and are famous for adding a spicy kick to sauces, stews, salads, and more! There are a wide variety of Chilli cultivars, with fruit that vary wildly in colour, shape, and size. </p>
-<p>Most varieties of Chilli can be grown as a perennial crop in Singapore.  Most small varieties of chilli can also be grown in pots. </p>
-<p>This plant is part of the Solanum or Nightshade family, which includes other popular edible fruits like Brinjals and Tomatoes.</p>
+	<p>Chillies are an essential plant in most edible gardens across South and Southeast Asia, and are famous for adding a spicy kick to sauces, stews, salads, and more! There are a wide variety of Chilli cultivars, with fruit that vary wildly in colour, shape, and size. </p>
+	<p>Most varieties of Chilli can be grown as a <a href="/page-index/glossary/#p">perennial</a> crop in Singapore.  Most small varieties of chilli can also be grown in pots. </p>
+	<p>This plant is part of the Solanum or Nightshade family, which includes other popular edible fruits like Brinjals and Tomatoes.</p>
 	<br>
 </section>
 
 <section>
 	<h4>Environmental needs:</h4>
-		<img title="Unriped Chilli. Photo by Jacqueline Chua." src="/images/Plants/Chilli_JacChua%20(2).jpg">
-<p>This plant does best in full sun gardens with a minimum of 6 hours of direct sunlight. This plant can also grow with 4-5 hours of direct sunlight and at least 6 hours of indirect sunlight, but will produce less fruits.</p>
-<p>Plants do best in <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/soil/">loamy soil</a> in containers that are at least 15cm deep, or in true ground.</p>
-
-<iframe width="100%" height="415" src="https://www.youtube.com/embed/eGBg_S8yj0U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
+	<img title="Unriped Chilli. Photo by Jacqueline Chua." src="/images/Plants/Chilli_JacChua%20(2).jpg">
+	<p>This plant does best in <a href="/page-index/horticulture-techniques/gauging-light/">full sun gardens with a minimum of 6 hours of direct sunlight</a>. This plant can also grow with 4-5 hours of direct sunlight and at least 6 hours of indirect sunlight, but will produce less fruits.</p>
+	<p>Plants do best in <a href="/page-index/horticulture-techniques/soil/">loamy soil</a> in containers that are at least 15cm deep, or in true ground.</p>
+	<iframe width="100%" height="415" src="https://www.youtube.com/embed/eGBg_S8yj0U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
 	<br>
-	
-<p>As with all members of the Nightshade family, this plant is buzz pollinated and produces the most fruit when bees are around to pollinate it. Growing more bee-attracting plants within the garden will encourage pollination. It can be hand-pollinated, but the success rate is generally lower. </p>
+	<p>As with all members of the Nightshade family, this plant is buzz pollinated and produces the most fruit when bees are around to pollinate it. Growing more bee-attracting plants within the garden will encourage pollination. It can be hand-pollinated, but the success rate is generally lower. </p>
 <p>These plants can get blossom end rot, which shows up as dark, sunken blotches at the end of fruits. It is a symptom of a lack of calcium reaching the fruit, which is usually caused by a lack of water or inconsistent watering. Keep your soil moist but not waterlogged and take care to water more often during the dry season. </p>
 	<br>
 	</section>
