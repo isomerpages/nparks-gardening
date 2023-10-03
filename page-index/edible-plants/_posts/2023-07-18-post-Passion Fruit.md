@@ -43,29 +43,29 @@ image: ""
 
 <section>
 	<h4>Growing:</h4>
-<p>Passion Fruits will produce more flowers and thus more fruit when fed with fertilisers high in Phosphorus and Potassium. Plants can be fertilised regularly a month after germination for a fuller crop. </p>
-<p>Because the vines will grow on top of each other, it is a good practice to prune regularly and remove dead leaves and vines to improve ventilation and allow light to reach more of the plant. However, leaves should be left around flowers and fruit to protect the fruit from direct afternoon sun.</p>
+	<p>Passion Fruits will produce more flowers and thus more fruit when fed with fertilisers high in Phosphorus and Potassium. Plants can be <a href="/page-index/horticulture-techniques/fertilising">fertilised</a> regularly a month after germination for a fuller crop. </p>
+	<p>Because the vines will grow on top of each other, it is a good practice to prune regularly and remove dead leaves and vines to improve ventilation and allow light to reach more of the plant. However, leaves should be left around flowers and fruit to protect the fruit from direct afternoon sun.</p>
 	<br>
 </section>
 
 <section>
 	<h4>Harvesting:</h4>
-<p>Mature fruits can be harvested when the skin becomes wrinkly.</p>
+	<p>Mature fruits can be harvested when the skin becomes wrinkly.</p>
 	<br>
 </section>
 
 <section>
 	<h4>Propagation:</h4>
-	<p>This vine can be grown via seeds. Seeds can be taken from mature fruit for immediate planting.</p>
+	<p>This vine can be <a href="/page-index/horticulture-techniques/propagating-by-seed">grown via seeds</a>. Seeds can be taken from mature fruit for immediate planting.</p>
 	<br>
 </section>
 
 <section>
 	<h4>Common problems &amp; solutions:</h4>
-<p>If your vine has little to no flowers, you try fertilising the plant with fertilisers high in Phosphorus and Potassium. These nutrients encourage root and flower growth, which are important for the plant to produce more fruit.</p>
-<p>Many plants require pollinators to help them fruit. Bees, butterflies, birds and even beetles transport pollen from one flower to another, pollinating your crops and increasing their fruit yield. Attract some pollinators to your garden by growing pollinator-attracting crops, or become a pollinator yourself by hand-pollinating your plants.</p>
-<p>Aphids, mealy bugs, and spider mites often infest the plant if it is sickly or overgrown. Prune off the infested parts, or apply horticultural oils like neem oil and white summer oil to suffocate the remaining pests. Regularly prune the plant to allow light and air to reach throughout the plant, and check the plant for underlying problems like root rot, lack of sunlight, and nutrient deficiencies.</p>
-<p>Whiteflies can infest the plant and lay eggs under its leaves. Remove affected plant parts and catch remaining adults with yellow sticky paper or treat them with citrus spray.</p>
-<p>Fruit flies can lay eggs in the fruit, resulting in larvae damaging the fruit and creating spots on the skin. Wrap your fruit in netting when it starts to develop from a fertilised flower, ideally after all the petals have dropped off.</p>
-<br>
+	<p>If your vine has little to no flowers, you try fertilising the plant with fertilisers high in Phosphorus and Potassium. These nutrients encourage root and flower growth, which are important for the plant to produce more fruit.</p>
+	<p>Many plants require <a href="/page-index/biodiversity/pollinators">pollinators</a> to help them fruit. Bees, butterflies, birds and even beetles transport pollen from one flower to another, pollinating your crops and increasing their fruit yield. Attract some pollinators to your garden by growing pollinator-attracting crops, or become a pollinator yourself by hand-pollinating your plants.</p>
+	<p><a href="/page-index/pests/aphids">Aphids</a>, <a href="/page-index/pests/mealy-bugs">mealy bugs</a>, and <a href="/page-index/pests/spider-mites">spider mites</a> often infest the plant if it is sickly or overgrown. Prune off the infested parts, or apply horticultural oils like neem oil and white summer oil to suffocate the remaining pests. Regularly prune the plant to allow light and air to reach throughout the plant, and check the plant for underlying problems like root rot, lack of sunlight, and nutrient deficiencies.</p>
+	<p>Whiteflies can infest the plant and lay eggs under its leaves. Remove affected plant parts and catch remaining adults with yellow sticky paper or treat them with citrus spray.</p>
+	<p><a href="/page-index/pests/oriental-fruit-flies">Fruit flies</a> can lay eggs in the fruit, resulting in larvae damaging the fruit and creating spots on the skin. Wrap your fruit in netting when it starts to develop from a fertilised flower, ideally after all the petals have dropped off.</p>
+	<br>
 </section>
