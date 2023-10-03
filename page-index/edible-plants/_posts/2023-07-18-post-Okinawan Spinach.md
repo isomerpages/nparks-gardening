@@ -54,6 +54,6 @@ image: ""
 <section>
 	<h4>Common problems &amp; solutions:</h4>
 		<p>This plant is relatively resistant to pests and disease if kept healthy.</p>
-	<p>Smaller plants may be vulnerable to being eaten by snails or birds. Protect your plants with a DIY <a href="/page-index/horticulture-techiniques/cloches">cloche</a> or <a href="/page-index/hardscapes/netting">netting</a>.</p>
+	<p>Smaller plants may be vulnerable to being eaten by snails or birds. Protect your plants with a DIY <a href="/page-index/horticulture-techniques/cloches">cloche</a> or <a href="/page-index/hardscapes/netting">netting</a>.</p>
 	<br>
 </section>
