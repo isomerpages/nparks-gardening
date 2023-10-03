@@ -23,194 +23,59 @@ image: ""
 	<br>
 	<section>
 	<h4>Who are our current CIB Ambassadors?</h4>
-	<p>There are currently 104 CIB ambassadors from Community Gardens across Singapore. They are:</p>
-	<p>Abdul Kareem Bin Nizam Mohideen
-
-Albert Quek
-
-Andy Ang Hock Seng
-
-Ang Aik Leng Allen, PBM
-
-Angie Wong Chiew Shiar
-
-Anjalai Ammal
-
-Asari Bin Rafie
-
-Astikoma Binte Sumali
-
-Ben Thum
-
-Bucktha Seelan
-
-Chan Kieu
-
-Cheryl&nbsp; Wee Ngah Leng
-
-Chia Yen Ling, Celeste
-
-Choo Kim Poh, PBM
-
-Darren Ng Boon Kiang
-
-David Yu
-
-Desmond Tan Soon Keong
-
-Dominic Seow Eng Poo
-
-Doris Yuen Kum Yeng
-
-Felicia Tan
-
-Foo Jit Leang
-
-Foziah Yeon
-
-Frankie Tan Teck Siong
-
-Fung Kah Wai, Roy
-
-Gina Ong Liat Wah, PBM
-
-Hamzah Bin Osman
-
-Har Kiet Leng
-
-Hashim Shariff
-
-Hay Qing Hui
-
-Iris Ho Sow Kheng
-
-Ismail Bin Haji Suratman
-
-James Lam Mong Wai
-
-Jennifer Tan Swee Eng
-
-Jimmy Oh
-
-Joanora Ng Siew Lan
-
-Joel Lee Zheng En
-
-John Hou Chin Yong
-
-Joseph Wee En Pei
-
-Josephine Tan Kwai Sim
-
-Josephyne Ho
-
-Joshua Liang
-
-Judy Soo Poey Quin
-
-Julia Liew Ah Sau
-
-Kamisah Bte Atan
-
-Kevin Tan
-
-Kirtida Mekani
-
-Koh Yau Liong, Victor
-
-Kong Wah Beng
-
-Lalithama Nair
-
-Lee Wei Ming
-
-Leow Boon Geok Peggy
-
-Lim Bee-Lee
-
-Lim Keng Tiong
-
-Lim Kian Lam
-
-Lynnette Terh
-
-May Lee May La
-
-Mohan s/o Krishnamoorthy
-
-Mohd Fairus Abd Manaf
-
-Ng Jia Wei
-
-Norasikin Bte Supelan
-
-Normala Bte Alias
-
-Oh Kee Swee
-
-Ong Joo Heng Jason
-
-Peter Sequeira
-
-Philip Li Chia Hui
-
-Phoon Lyvenne
-
-Prakash Jethwa
-
-Ramasamy Sangaralingam
-
-Richard Ashworth
-
-Richmond Tan
-
-Rosalind Tan
-
-Roseli in Rasiman
-
-Rosita Mary Cedillo
-
-Salbiah Bte Osman, PBM
-
-Shaji Maroli Varada
-
-Shariff Bin Ahmad Jusuf
-
-Siva Rajoo, PBM
-
-Syaiful Hakim Bin Muslim
-
-Sylvia Chua Bee Choo
-
-Tan Khai Cher, Daryl, PBM
-
-Tan Siew Gek
-
-Tan Thean Teng
-
-Tan Wai Loon
-
-Tay Sock Lyn Sharon
-
-Teh Mooi Yan
-
-Teng Boon Bee
-
-Tian How Ming
-
-Tony Yau Tong Ngee, PB
-
-Victor Poh
-
-Wendy Looi Lay Choo
-
-Wendy Tan Wan Li
-
-Wilson Wong Shih Peng
-
-Yeap Khek Teong
-
-Yip Foong Yee
-
-Zuhir Bin Taib</p>
-	</section>
+	<p>There are currently 104 CIB ambassadors from Community Gardens across Singapore.</p>
+	<ul class="jekyllcodex_accordion">
+		<li><input type="checkbox" id="accordion1">
+		<label for="accordion1">Click here to see the full list of our CIB Ambassadors to date!</label><div>
+			<table>
+				<tbody><tr>
+					<td>Abdul Kareem Bin Nizam Mohideen</td><td>
+					</td><td>Albert Quek</td><td>
+					</td><td>Andy Ang Hock Seng</td><td>
+					</td><td>Ang Aik Leng Allen, PBM</td><td>
+					</td><td>Angie Wong Chiew Shiar</td><td>
+					</td><td>Anjalai Ammal</td><td>
+					</td><td>Asari Bin Rafie</td><td>
+					</td><td>Astikoma Binte Sumali</td><td>
+					</td><td>Ben Thum</td><td>
+					</td><td>Bucktha Seelan</td><td>
+					</td><td>Chan Kieu</td><td>
+					</td><td>Cheryl, Wee Ngah Leng</td><td>
+					</td><td>Chia Yen Ling, Celeste</td><td>
+					</td><td>Choo Kim Poh, PBM</td><td>
+					</td><td>Darren Ng Boon Kiang</td><td>
+					</td><td>David Yu</td><td>
+					</td><td>Desmond Tan Soon Keong</td><td>
+					</td><td>Dominic Seow Eng Poo</td><td>
+					</td><td>Doris Yuen Kum Yeng</td><td>
+					</td><td>Felicia Tan</td><td>
+					</td><td>Foo Jit Leang</td><td>
+					</td><td>Foziah Yeon</td><td>
+					</td><td>Frankie Tan Teck Siong</td><td>
+					</td><td>Fung Kah Wai, Roy</td><td>
+					</td><td>Gina Ong Liat Wah, PBM</td><td>
+					</td><td>Hamzah Bin Osman</td><td>
+					</td><td>Har Kiet Leng</td><td>
+					</td><td>Hashim Shariff</td><td>
+					</td><td>Hay Qing Hui</td><td>
+					</td><td>Iris Ho Sow Kheng</td><td>
+					</td><td>Ismail Bin Haji Suratman</td><td>
+					</td><td>James Lam Mong Wai</td><td>
+					</td><td>Jennifer Tan Swee Eng</td><td>
+					</td><td>Jimmy Oh</td><td>
+					</td><td>Joanora Ng Siew Lan</td><td>
+				</td></tr>
+				<tr>
+					<td></td><td>
+					</td><td></td><td>
+					</td><td></td><td>	
+				</td></tr>
+				<tr>
+					<td></td><td>
+					</td><td></td><td>
+					</td><td></td><td>	
+				</td></tr>
+			</tbody></table>
+		</div></li>
+	</ul>
+</section>
