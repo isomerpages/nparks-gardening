@@ -18,15 +18,15 @@ image: ""
 <section>
 	<img title="Photo by Jacqueline Chua." src="/images/Plants/ThaiBasil_JacChua%20(1).jpg">
 	<p>Thai basil is a staple herb in many Southeast Asian gardens, and thrives in tropical climates. Thai basil leaves and flowers are harvested for salads, sauces, soups and stir-fries for many Thai and Vietnamese dishes.</p>
-<p>Thai Basil plants are typically treated as annual crops due to their rapid flowering, but they can also be kept as perennials if their flowers are pruned before they can set seed.</p>
+<p>Thai Basil plants are typically treated as <a href="/learn-more-about-gardening/glossary/#a">annual</a> crops due to their rapid flowering, but they can also be kept as <a href="/learn-more-about-gardening/glossary/#a">perennials</a> if their flowers are pruned before they can set seed.</p>
 <p>Thai Basils are part of the Lamiaceae or Mint family, which includes other popular herbs like Indian Borage, and Spearmint.</p>
 	<br>
 </section>
 
 <section>
 	<h4>Environmental needs:</h4>
-		<img src="/images/Plants/ThaiBasil_JacChua%20(3).jpg">
-<p>Thai Basil thrives in 4-6 hours of direct sunlight, but plants can also tolerate about 6-8 hours of indirect sunlight. Plants do best in <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/soil/">loamy soil</a> at least 15cm deep, making them suitable for container gardening, and corridor gardening. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe. Keep your plants cool with mulch and plenty of water to encourage growth.</p>
+		<img title="Photo by Jacqueline Chua." src="/images/Plants/ThaiBasil_JacChua%20(3).jpg">
+<p>Thai Basil thrives in <a href="/page-index/horticulture-techniques/gauging-light/">4-6 hours of direct sunlight</a>, but plants can also tolerate about 6-8 hours of indirect sunlight. Plants do best in <a href="/page-index/horticulture-techniques/soil/">loamy soil</a> at least 15cm deep, making them suitable for container gardening, and corridor gardening. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe. Keep your plants cool with mulch and plenty of water to encourage growth.</p>
 	<br>
 	</section>
 
