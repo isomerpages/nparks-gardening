@@ -29,7 +29,7 @@ image: ""
 	<p>This vine thrives in both full and partial sun gardens and grows best with <a href="/page-index/horticulture-techniques/gauging-light/">4-8 hours of direct sunlight, but can also grow in 4- 6 hours of indirect sunlight</a> but at a slower pace.</p>
 	<p>Plants do best in <a href="/page-index/horticulture-techniques/soil/">loamy soil</a> at least 30cm deep, or in true ground. The plant can be grown in smaller pots about 10cm deep but will not produce large tubers. Tuber growth can be encouraged by adding lots of organic material to the soil, making it soft.</p>
 	<p>This plant does best when watered regularly but will not survive waterlogging. It can tolerate drought for short periods of time, but the lack of water will reduce its growth.</p>
-	<p>As a fast-growing vine, this plant is traditionally left to sprawl on large patches of soil, but it can be also grown up a trellis. Regular pruning will encourage additional growth and improve air circulation.</p>
+	<p>As a fast-growing vine, this plant is traditionally left to sprawl on large patches of soil, but it can be also grown up a <a href="/page-index/hardscapes/trellises/">trellis</a>. Regular pruning will encourage additional growth and improve air circulation.</p>
 	<br>
 	</section>
 
@@ -45,8 +45,8 @@ image: ""
 
 <section>
 	<h4>Growing:</h4>
-	<p>Sweet potato grows leaves and stems rapidly when fed with high nitrogen fertilisers, but this discourages it from growing tubers. Plants can be fertilised for the first two weeks after planting to help with its initial growth, and then left on its own to grow tubers after.</p>
-	<p>Because the vines will grow on top of each other, it is a good practice to prune regularly to improve ventilation and allow light to reach more of the plant. Take note that the plant produces a milky sap when cut, and that the sap can irritate skin. Use gloves when pruning to protect your hands, and do not touch your face after handling cuttings with sap. </p>
+	<p>Sweet potato grows leaves and stems rapidly when fed with high nitrogen fertilisers, but this discourages it from growing tubers. Plants can be <a href="/page-index/horticulture-techniques/fertilising/">fertilised</a> for the first two weeks after planting to help with its initial growth, and then left on its own to grow tubers after.</p>
+	<p>Because the vines will grow on top of each other, it is a good practice to <a href="/page-index/horticulture-techniques/pruning/">prune</a> regularly to improve ventilation and allow light to reach more of the plant. Take note that the plant produces a milky sap when cut, and that the sap can irritate skin. Use gloves when pruning to protect your hands, and do not touch your face after handling cuttings with sap. </p>
 	<p>This vine grows large very rapidly and can climb up to 4m if a tall enough surface is available. Prune it back to manageable heights to make harvesting and maintenance easier.</p>
 	<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/jurqWpAeMS" height="415" width="100%"></iframe><br>
 	<br>
@@ -54,11 +54,10 @@ image: ""
 
 <section>
 	<h4>Harvesting:</h4>
-<p>Plants can be harvested for leaves and stems, with younger leaves being the most tender. Most gardeners will begin harvesting leaves and stems from their Sweet Potato plant around two months after sowing from seed or after planting cuttings or tubers. Take note that the plant produces a milky sap when cut, and that the sap can irritate skin. Use gloves when pruning and harvesting leaves. </p>
-<p>Tubers will take at least two months to form after the plant starts to produce vines, provided that the soil is soft and deep enough. Tubers can be left for up to 6 months to grow, after which they tend to be too tough and fibrous for eating. </p>
-<p>Sweet potato is typically harvested multiple times by harvesting the younger leaves and stems as per the cut-and-come-again method. This plant can live for several years if cared for properly and will continue to produce new growth year round.</p>
-
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/f_Uoug7ZSeg" height="415" width="100%"></iframe><br>
+	<p>Plants can be <a href="/page-index/horticulture-techniques/harvest-hygiene/">harvested</a> for leaves and stems, with younger leaves being the most tender. Most gardeners will begin harvesting leaves and stems from their Sweet Potato plant around two months after sowing from seed or after planting cuttings or tubers. Take note that the plant produces a milky sap when cut, and that the sap can irritate skin. Use gloves when pruning and harvesting leaves. </p>
+	<p>Tubers will take at least two months to form after the plant starts to produce vines, provided that the soil is soft and deep enough. Tubers can be left for up to 6 months to grow, after which they tend to be too tough and fibrous for eating. </p>
+	<p>Sweet potato is typically harvested multiple times by harvesting the younger leaves and stems as per the <a href="/page-index/horticulture-techniques/cut-and-come-again/">cut-and-come-again method</a>. This plant can live for several years if cared for properly and will continue to produce new growth year round.</p>
+	<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/f_Uoug7ZSeg" height="415" width="100%"></iframe><br>
 	<br>
 </section>
 
