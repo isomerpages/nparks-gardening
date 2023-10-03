@@ -44,17 +44,17 @@ image: ""
 
 <section>
 	<h4>Growing:</h4>
-<p>Brinjals will produce more flowers and thus more fruit when fed with fertilisers high in Phosphorus and Potassium. Plants can be fertilised regularly a month after germination for a fuller crop. </p>
-<p>This plant grows as a small shrub, producing large leaves on a few branches. It is a good practice to prune regularly and remove dead leaves to improve ventilation and allow light to reach more of the plant. </p>
+	<p>Brinjals will produce more flowers and thus more fruit when fed with fertilisers high in Phosphorus and Potassium. Plants can be <a href="/page-index/horticulture-techniques/fertilising">fertilised</a> regularly a month after germination for a fuller crop.</p>
+	<p>This plant grows as a small shrub, producing large leaves on a few branches. It is a good practice to prune regularly and remove dead leaves to improve ventilation and allow light to reach more of the plant. </p>
 	<br>
 </section>
 
 <section>
 	<h4>Harvesting:</h4>
-<p>Plants can be harvested for fruits around 3 months after sowing. The best time to harvest the fruit is in the early morning, before 9am.</p>
-<p>Eggplants are generally eaten when they are immature. Immature fruits should be picked when they are glossy, and have a soft, spongy texture.</p>
-<p>Ripe fruits are usually a dull brown or yellow, and will rapidly become soft and wrinkly. Ripe fruit should not be eaten, but can be harvested for seeds to be used for immediate planting. </p>
-<br>
+	<p>Plants can be harvested for fruits around 3 months after sowing. The best time to harvest the fruit is in the early morning, before 9am.</p>
+	<p>Eggplants are generally eaten when they are immature. Immature fruits should be picked when they are glossy, and have a soft, spongy texture.</p>
+	<p>Ripe fruits are usually a dull brown or yellow, and will rapidly become soft and wrinkly. Ripe fruit should not be eaten, but can be harvested for seeds to be used for immediate planting. </p>
+	<br>
 </section>
 
 <section>
@@ -79,25 +79,24 @@ image: ""
 			</tr>
 		</tbody>
 	</table>
-	
-<p>Check out our&nbsp;<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/digital-tools/sowing-planner/">sowing planner</a>&nbsp;to schedule your growing! </p>
+	<p>Check out our&nbsp;<a href="/digital-tools/sowing-planner/">sowing and harvest planner</a>&nbsp;to schedule your growing! </p>
 <br>
 </section>
 
 <section>
 	<h4>Propagation:</h4>
-	<p>Brinjal are grown from seed. </p>
+	<p>Brinjal are grown from <a href="/page-index/horticulture-techniques/propagating-by-seed">seed</a>.</p>
 	<br>
 </section>
 
 <section>
 	<h4>Common problems &amp; solutions:</h4>
-<p>If your plant has little to no flowers, you try fertilising the plant with fertilisers high in Phosphorus and Potassium. These nutrients encourage root and flower growth, which are important for the plant to produce more fruit.</p>
-<p>Many plants require pollinators to help them fruit. Bees, butterflies, birds and even beetles transport pollen from one flower to another, pollinating your crops and increasing their fruit yield. Attract some pollinators to your garden by growing pollinator-attracting crops, or become a pollinator yourself by hand-pollinating your plants.</p>
-<p>Fruits can be vulnerable to blossom end rot, which shows up as dark blotches on the ends of fruit. To prevent this, make sure that the soil is constantly moist by not waterlogged through regular watering.</p>
-<p>Aphids, mealy bugs, and spider mites often infest the plant if it is sickly or overgrown. Prune off the infested parts, or apply horticultural oils like neem oil and white summer oil to suffocate the remaining pests. Regularly prune the plant to allow light and air to reach throughout the plant, and check the plant for underlying problems like root rot, lack of sunlight, and nutrient deficiencies. </p>
-<p>Whiteflies can infest the plant and lay eggs under its leaves. Remove affected plant parts and catch remaining adults with yellow sticky paper or treat them with citrus spray. </p>
-<p>Fruit flies can lay eggs in the fruit, resulting in larvae damaging the fruit and creating spots on the skin. Wrap your fruit in netting when it starts to develop from a fertilised flower, ideally after all the petals have dropped off. </p>
-<p>Wilting leaves during hot weather is a sign of heat stress. Increase the number of times the plant is watered daily, and apply mulch at the base to prevent water loss. </p>
-<br>
+	<p>If your plant has little to no flowers, you try fertilising the plant with fertilisers high in Phosphorus and Potassium. These nutrients encourage root and flower growth, which are important for the plant to produce more fruit.</p>
+	<p>Many plants require pollinators to help them fruit. Bees, butterflies, birds and even beetles transport pollen from one flower to another, pollinating your crops and increasing their fruit yield. Attract some pollinators to your garden by growing pollinator-attracting crops, or become a pollinator yourself by hand-pollinating your plants.</p>
+	<p>Fruits can be vulnerable to blossom end rot, which shows up as dark blotches on the ends of fruit. To prevent this, make sure that the soil is constantly moist by not waterlogged through regular watering.</p>
+	<p><a href="/page-index/pests/aphids">Aphids</a>, <a href="/page-index/pests/mealy-bugs">mealy bugs</a>, and <a href="/page-index/pests/spider-mites">spider mites</a> often infest the plant if it is sickly or overgrown. Prune off the infested parts, or apply horticultural oils like neem oil and white summer oil to suffocate the remaining pests. Regularly prune the plant to allow light and air to reach throughout the plant, and check the plant for underlying problems like <a href="/page-index/plant-problems/root-rot">root rot</a>, lack of sunlight, and nutrient deficiencies. </p>
+	<p>Whiteflies can infest the plant and lay eggs under its leaves. Remove affected plant parts and catch remaining adults with yellow sticky paper or treat them with citrus spray. </p>
+	<p><a href="/page-index/pests/oriental-fruit-flies">Fruit flies</a> can lay eggs in the fruit, resulting in larvae damaging the fruit and creating spots on the skin. Wrap your fruit in netting when it starts to develop from a fertilised flower, ideally after all the petals have dropped off. </p>
+	<p><a href="/page-index/plant-problems/wilting">Wilting</a> leaves during hot weather is a sign of heat stress. Increase the number of times the plant is watered daily, and apply mulch at the base to prevent water loss. </p>
+	<br>
 </section>
