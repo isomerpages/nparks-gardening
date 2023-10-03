@@ -16,11 +16,10 @@ image: ""
 </section>
 
 <section>
-	<img src="/images/Plants/SunflowerJacChua%20(1).jpg">
-	
-<p>Sunflowers are large iconic flowers that will make heads turn in any garden. Not only are they beautiful, but they are also useful bee-attracting plants, and have edible seeds and can also be eaten as microgreens! </p>
-<p>There are a wide variety of cultivars, with mammoth varieties growing beyond 4m and deep red and multi-headed varieties to spice up your garden.</p>
-<p>A large annual flower, this plant is suitable for perimeter planting, or as a feature plant. It also can be used in edible gardens, biodiversity-attracting gardens, and rooftop gardens. </p>       
+	<img title="Photo by Jacqueline Chua." src="/images/Plants/SunflowerJacChua%20(1).jpg">
+	<p>Sunflowers are large iconic flowers that will make heads turn in any garden. Not only are they beautiful, but they are also useful bee-attracting plants, and have edible seeds and can also be eaten as <a href="/page-index/horticulture-techniques/microgreens">microgreens</a>!</p>
+	<p>There are a wide variety of cultivars, with mammoth varieties growing beyond 4m and deep red and multi-headed varieties to spice up your garden.</p>
+	<p>A large annual flower, this plant is suitable for perimeter planting, or as a feature plant. It also can be used in edible gardens, biodiversity-attracting gardens, and rooftop gardens. </p>       
 	<br>
 </section>
 
