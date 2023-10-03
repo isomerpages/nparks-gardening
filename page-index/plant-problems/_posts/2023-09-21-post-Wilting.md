@@ -24,9 +24,9 @@ image: ""
   <ul>
 	  <li><b>Wilting due to heat stress</b>
 			<ul>
-				<li>Prolonged dry periods and high temperatures are likely to cause wilting, especially for plants with soft leaves and stems like Thai Basil, Cai Xin, Lettuce and Cucumber.</li>
-				<li>Water your plants more regularly during the dry period and consider adding mulch to the base of stems to reduce water loss.</li>
-				<li>Consider moving your plants to a shadier area during particularly hot periods, if applicable.</li>
+				<li>Prolonged dry periods and high temperatures are likely to cause wilting, especially for plants with soft leaves and stems like <a href="/page-index/edible-plants/thai-basil/">Thai Basil</a>, <a href="/page-index/edible-plants/cai-xin/">Cai Xin</a>, <a href="/page-index/edible-plants/lettuce/">Lettuce</a> and <a href="/page-index/edible-plants/cucumber/">Cucumber</a>.</li>
+				<li><a href="/page-index/horticulture-techniques/watering/">Water your plants</a> more regularly during the dry period and consider adding <a href="/page-index/horticulture-techniques/mulching/">mulch</a> to the base of stems to reduce water loss.</li>
+				<li>Consider moving your plants to a <a href="/page-index/horticulture-techniques/gauging-light/">shadier area</a> during particularly hot periods, if applicable.</li>
 			</ul></li>
   	<li><b>Wilting due to <a href="/page-index/plant-problems/root-rot/">root rot</a></b>
 				<ul>
