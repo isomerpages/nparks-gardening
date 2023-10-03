@@ -38,7 +38,7 @@ image: ""
  
 <section> 
   <h4>Harvesting:</h4> 
-	<p>Plants can be <a href="/page-index/horticulture-techniques/harvest-hygiene">harvested</a> for leaves at any time. Older Leaves should be harvested from the bottom of the plant, as per <a href="/page-index/horticulture-techniques/cut-and-come-again">cut-and-come-again harvesting</a>, with new leaves left intact to ensure more growth.</p>
+	<p>Plants can be <a href="/page-index/horticulture-techniques/harvesting-hygiene">harvested</a> for leaves at any time. Older Leaves should be harvested from the bottom of the plant, as per <a href="/page-index/horticulture-techniques/cut-and-come-again">cut-and-come-again harvesting</a>, with new leaves left intact to ensure more growth.</p>
 		<p>Take note that the leaves have sharp edges and may cause skin irritation and cuts. Use arm sleeves and gloves when maintaining this plant for safety.</p> 
 	<br> 
 </section> 
