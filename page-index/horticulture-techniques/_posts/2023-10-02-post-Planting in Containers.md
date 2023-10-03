@@ -56,9 +56,20 @@ Having drainage holes at the bottom of your container will prevent this. Drainag
 
 <section>
 	<h4>Size</h4>
+	<p>Container sizes will affect two major things for growing plants:</p>
+	<ol>
+		<li>How much space roots will have to grow</li>
+		<li>How fast the soil dries out</li>
+		</ol>
+		<img title="A vertical wall pocket system growing leafy vegetables. Photo by Jacqueline Chua." src="/images/Hardscapes/ContainerGardening_JacChua%20(8).jpg">
+	<p>Smaller pots will have less space for roots, and will dry out faster. This makes them ideal for plants that naturally have shallow roots and that are sensitive to <a href="/page-index/plant-problems/waterlogging/">waterlogging</a>, like most small leafy vegetables. Small pots are also ideal for maximising odd or small spaces, like walls.</p> 
+	<img title="" src="">
+	<p>Larger pots are</p> 
+			
+	<img title="A vertical wall pocket system growing leafy vegetables. Photo by Jacqueline Chua." src="/images/Hardscapes/ContainerGardening_JacChua%20(8).jpg">
+	<p>Small containers are useful for filling up small spaces, and can also be stacked to make vertical wall plantings. They are ideal for plants with shallow roots, like small leafy vegetables, as they will drain quickly and are less likely to be <a href="/page-index/plant-problems/waterlogging/">waterlogged</a>. However, plants can quickly get root-bound, in which the roots hit the sides of the pot and start to grow back in towards existing roots or escape through the drainage holes. This usually results in the plant wilting suddenly or becoming stunted.  Remove the plant from its old pot and tease part the roots before replanting it in a pot at least 10cm larger in diameter and depth to remedy this. </p>
 	<p>Larger containers hold more soil, and therefore can hold more roots and a larger plant. Ensuring that your pot is big enough for your plant’s root ball will encourage growth and keep the plant stable.</p>
-	<img title="Roots escaping through drainage holes at the bottom of a polybag. Photo by Jacqueline Chua." src="/images/Plant%20problems/rootbound_jacchua_2.jpg">
-	<p>Plants that outgrow their pots become root-bound, in which the roots hit the sides of the pot and start to grow back in towards existing roots or escape through the drainage holes. This usually results in the plant wilting suddenly or becoming stunted.  Remove the plant from its old pot and tease part the roots before replanting it in a pot at least 10cm larger in diameter and depth to remedy this.</p>
+	<img title="Roots escaping through drainage holes at the bottom of a pot. Photo by Jacqueline Chua." src="/images/Plant%20problems/rootbound_jacchua_2.jpg">
 	<p>Size also affects how fast the soil dries out. Larger containers need to be watered less since there is more soil to hold more water. A good way to gauge how much water is in the soil is by lifting the whole container to see how heavy it is. Dry pots are always much lighter! You can fully saturate the soil with water via the <a href="/page-index/horticulture-techniques/bottom-watering">bottom watering method</a> to see the difference.</p>
 	<br>
 </section>
