@@ -18,7 +18,7 @@ image: ""
 <section>
 	<img src="/images/Plants/CranberryHibiscus.jpg">
 	<p>Cranberry Hibiscus are striking plants with deep red leaves and flowers. The flowers and leaves can be brewed into tea, and the leaves can also be eaten raw or stir-fried.</p>
-	<p>As large and woody <a href="/learn-more-about-gardening/glossary/#p/">perennial</a> bush, this plant is a staple in perimeter planting, edible gardens, and low-maintenance beds.</p>
+	<p>As large and woody <a href="/learn-more-about-gardening/glossary/#p">perennial</a> bush, this plant is a staple in perimeter planting, edible gardens, and low-maintenance beds.</p>
 	<p>This plant is part of the Malvaceae or Hibiscus family, which includes other edible plants like Lady’s-Finger.</p>
 	<br>
 </section>
