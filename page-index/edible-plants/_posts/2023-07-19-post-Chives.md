@@ -46,18 +46,16 @@ image: ""
 	
 <section>
 	<h4>Growing:</h4>
-<p>Chives grow steadily when there is enough light and water. Regular harvesting and the use of high nitrogen fertilisers will encourage the plant to grow more leaves. Plants can be fertilised regularly the week after transplanting for a fuller crop.</p>
+	<p>Chives grow steadily when there is enough light and water. Regular harvesting and the use of high nitrogen fertilisers will encourage the plant to grow more leaves. Plants can be <a href="/page-index/horticulture-techniques/fertilising">fertilised regularly</a> the week after transplanting for a fuller crop.</p>
 	<br>
 </section>
 
 <section>
 	<h4>Harvesting:</h4>
-<p>Plants can be harvested for leaves at any time, with younger leaves being the most tender. They are typically harvested continuously via the cut-and-come-again method.</p>
-	
-<img title="Dry black seed pods of Chives. Photo by Jacqueline Chua." src="/images/Plants/Chives_JacChua%20(2).jpg">
-<p>If allowed the flower, the young, yellow flowers can also be harvested for eating. If the flowers are turn into fruit and produce dry, black seed pods, the seeds can be used to grow another crop.</p>
-
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/FuWK90da0GY" height="415" width="100%"></iframe><br>
+	<p>Plants can be harvested for leaves at any time, with younger leaves being the most tender. They are typically harvested continuously via the <a href="/page-index/horticulture-techniques/cut-and-come-again">cut-and-come-again method</a>.</p>
+	<img title="Dry black seed pods of Chives. Photo by Jacqueline Chua." src="/images/Plants/Chives_JacChua%20(2).jpg">
+	<p>If allowed the flower, the young, yellow flowers can also be harvested for eating. If the flowers are turn into fruit and produce dry, black seed pods, the seeds can be used to grow another crop.</p>
+	<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/FuWK90da0GY" height="415" width="100%"></iframe><br>
 	<br>
 </section>
 
