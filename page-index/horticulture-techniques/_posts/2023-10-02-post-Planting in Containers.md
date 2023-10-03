@@ -63,8 +63,9 @@ Having drainage holes at the bottom of your container will prevent this. Drainag
 		</ol>
 		<img title="A vertical wall pocket system growing leafy vegetables. Photo by Jacqueline Chua." src="/images/Hardscapes/ContainerGardening_JacChua%20(8).jpg">
 	<p>Smaller pots will have less space for roots, and will dry out faster. This makes them ideal for plants that naturally have shallow roots and that are sensitive to <a href="/page-index/plant-problems/waterlogging/">waterlogging</a>, like most small leafy vegetables. Small pots are also ideal for maximising odd or small spaces, like walls.</p> 
-	<img title="" src="">
-	<p>Larger pots are</p> 
+	<img title="Climbing plants have larger root balls and thus need larger pots as the plant needs more water to support itself. Photo by Jacqueline Chua." src="/images/Hardscapes/Trellis_JacChua.jpg">
+	<p>Larger pots are important for growing plants with large root balls, as they need more soil to keep hydrated and stable. Climbing plants, trees, and large shrubs all need larger and deeper pots to grow well. </p>
+	
 			
 	<img title="A vertical wall pocket system growing leafy vegetables. Photo by Jacqueline Chua." src="/images/Hardscapes/ContainerGardening_JacChua%20(8).jpg">
 	<p>Small containers are useful for filling up small spaces, and can also be stacked to make vertical wall plantings. They are ideal for plants with shallow roots, like small leafy vegetables, as they will drain quickly and are less likely to be <a href="/page-index/plant-problems/waterlogging/">waterlogged</a>. However, plants can quickly get root-bound, in which the roots hit the sides of the pot and start to grow back in towards existing roots or escape through the drainage holes. This usually results in the plant wilting suddenly or becoming stunted.  Remove the plant from its old pot and tease part the roots before replanting it in a pot at least 10cm larger in diameter and depth to remedy this. </p>
