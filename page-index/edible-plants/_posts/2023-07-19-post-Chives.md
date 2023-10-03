@@ -61,13 +61,13 @@ image: ""
 
 <section>
 	<h4>Propagation:</h4>
-	<p>Chives can be grown from seed or propagated via division.  </p>
+	<p>Chives can be grown from <a href="/page-index/horticulture-techniques/propagating-by-seed">seed</a> or <a href="/page-index/horticulture-techniques/propagating-by-division">propagated via division</a>.</p>
 	<br>
 </section>
 
 <section>
 	<h4>Common problems &amp; solutions:</h4>
-<p>Like most strong-smelling herbs, this plant is relatively resistant to pests and disease if kept healthy.</p>
-<p>Aphids, may infest the plant if it is sickly or overgrown. Prune off the infested parts, or apply horticultural oils like neem oil and white summer oil to suffocate the remaining pests. Regularly prune the plant to allow light and air to reach throughout the plant, and check the plant for underlying problems like root rot, lack of sunlight, and nutrient deficiencies. </p>
-<br>
+	<p>Like most strong-smelling herbs, this plant is relatively resistant to pests and disease if kept healthy.</p>
+	<p>Aphids, may infest the plant if it is sickly or overgrown. Prune off the infested parts, or apply horticultural oils like neem oil and white summer oil to suffocate the remaining pests. Regularly prune the plant to allow light and air to reach throughout the plant, and check the plant for underlying problems like root rot, lack of sunlight, and nutrient deficiencies. </p>
+	<br>
 </section>
