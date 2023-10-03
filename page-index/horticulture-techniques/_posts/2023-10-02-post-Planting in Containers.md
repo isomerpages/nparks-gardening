@@ -47,6 +47,7 @@ image: ""
 
 <section>
 	<h4>Drainage</h4>
+	<img title="Drainage holes at the bottom of a pot. Photo by Jacqueline Chua." src="/images/Hardscapes/drainageholes_jacchua.jpg">
 	<p>The most common problem container gardeners have is <a href="/page-index/plant-problems/root-rot">root rot</a>. This is generally caused by a lack of drainage in pots, which leads to roots sitting too long in water with no oxygen, causing them to suffocate to death and rotting.   
 Having drainage holes at the bottom of your container will prevent this. Drainage in containers can also be further improved by using broken pot shards or a fine mesh at the bottom of the container to protect the drainage holes from being clogged by soil.</p>
 	<p>Some containers can be easily modified to add drainage holes. A piece of hot metal like a soldering iron can be used to make holes in thin plastic, while a drill can be used for thicker plastic, metal, wood or concrete.</p>
@@ -56,6 +57,7 @@ Having drainage holes at the bottom of your container will prevent this. Drainag
 <section>
 	<h4>Size</h4>
 	<p>Larger containers hold more soil, and therefore can hold more roots and a larger plant. Ensuring that your pot is big enough for your plant’s root ball will encourage growth and keep the plant stable.</p>
+	<img title="Roots escaping through drainage holes at the bottom of a polybag. Photo by Jacqueline Chua." src="/images/Plant%20problems/rootbound_jacchua_2.jpg">
 	<p>Plants that outgrow their pots become root-bound, in which the roots hit the sides of the pot and start to grow back in towards existing roots or escape through the drainage holes. This usually results in the plant wilting suddenly or becoming stunted.  Remove the plant from its old pot and tease part the roots before replanting it in a pot at least 10cm larger in diameter and depth to remedy this.</p>
 	<p>Size also affects how fast the soil dries out. Larger containers need to be watered less since there is more soil to hold more water. A good way to gauge how much water is in the soil is by lifting the whole container to see how heavy it is. Dry pots are always much lighter! You can fully saturate the soil with water via the <a href="/page-index/horticulture-techniques/bottom-watering">bottom watering method</a> to see the difference.</p>
 	<br>
@@ -63,6 +65,7 @@ Having drainage holes at the bottom of your container will prevent this. Drainag
 	
 <section>
 	<h4>Refreshing your container soil</h4>
+	<img title="A gardener using a fork to break compacted soil. Photo by Jacqueline Chua." src="/images/Horti%20techniques/Soil_Breaking_JacChua.jpg">
 	<p>Container soil can become compacted and nutrient-poor after some time. It is a good practice to refresh your soil at least once a year. Old container soil can be refreshed by breaking it up and adding 2 parts compost to 1 part old container soil to keep it soft with good drainage. Adding some slow-release organic fertilizer like Vermicast will help to replenish nutrients, and encourage new roots to settle in.</p>
 	<br>
 </section></section>
