@@ -77,4 +77,7 @@ description: ""
 	<p> Apart from pests, your plants may be suffering from other problems that might cause them to look sickly. Here are some for you to explore.</p>
 	<ul>
 		<li><a href="/page-index/plant-problems/root-rot/">Root Rot</a></li>
-		<li><a href="/page-index/plant-problems/wilting/">Wilting</a></li></ul></section>
+		<li><a href="/page-index/plant-problems/wilting/">Wilting</a></li>
+		<li><a href="/plant-problems/etiolation/">Etiolation</a></li>
+	</ul>
+</section>
