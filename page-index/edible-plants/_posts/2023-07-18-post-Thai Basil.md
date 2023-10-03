@@ -16,9 +16,8 @@ image: ""
 </section>
 
 <section>
-	<img src="/images/Plants/ThaiBasil_JacChua%20(1).jpg">
-	
-<p>Thai basil is a staple herb in many Southeast Asian gardens, and thrives in tropical climates. Thai basil leaves and flowers are harvested for salads, sauces, soups and stir-fries for many Thai and Vietnamese dishes.</p>
+	<img title="Photo by Jacqueline Chua." src="/images/Plants/ThaiBasil_JacChua%20(1).jpg">
+	<p>Thai basil is a staple herb in many Southeast Asian gardens, and thrives in tropical climates. Thai basil leaves and flowers are harvested for salads, sauces, soups and stir-fries for many Thai and Vietnamese dishes.</p>
 <p>Thai Basil plants are typically treated as annual crops due to their rapid flowering, but they can also be kept as perennials if their flowers are pruned before they can set seed.</p>
 <p>Thai Basils are part of the Lamiaceae or Mint family, which includes other popular herbs like Indian Borage, and Spearmint.</p>
 	<br>
