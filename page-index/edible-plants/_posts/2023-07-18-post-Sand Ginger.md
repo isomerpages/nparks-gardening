@@ -7,53 +7,53 @@ description: ""
 image: ""
 ---
 <header> 
-<h3>Sand Ginger (<em>Kaempferia galanga</em>)</h3> 
+	<h3>Sand Ginger (<em>Kaempferia galanga</em>)</h3> 
 </header> 
  
 <section> 
-<p><strong>Other common names:</strong> Cekur, Kencur, Resurrection lily, 沙姜, 山奈</p> 
-<br> 
+	<p><strong>Other common names:</strong> Cekur, Kencur, Resurrection lily, 沙姜, 山奈</p> 
+	<br> 
 </section> 
  
 <section> 
 	<img title="Photo by Flora and Fauna Web." src="/images/Plants/sandginger_ffw.jfif"> 
   <p> Sand Gingers are small, aromatic spice used in Malaysian and Indonesian cooking. Its leaves can be consumed raw or in soups, and its rhizome, an underground horizontal stem that resembles a tuberous root, is often pounded into a powder and used to flavour sauces and curries.</p>
-<p>It is a small perennial crop that readily grows in the tropics in both true ground and in pots. This is a common plant in herb gardens, permaculture gardens, and low maintenance beds.</p>
-<p>Sand Gingers are part of the Zingiberaceae or Ginger family, which includes other popular edible plants like Torch Ginger and Fingerroot.</p>
+	<p>It is a small <a href="/learn-more-about-gardening/glossary/#p">perennial</a> crop that readily grows in the tropics in both true ground and in pots. This is a common plant in herb gardens, permaculture gardens, and low maintenance beds.</p>
+	<p>Sand Gingers are part of the Zingiberaceae or Ginger family, which includes other popular edible plants like Torch Ginger and Fingerroot.</p>
  <br> 
 </section> 
  
 <section> 
   <h4>Environmental needs:</h4> 
   <img src="">
-    	<p> Sand Ginger thrives in more than 2-4 hours of direct sun or 4-6 hours of indirect sun. Plants do best in <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/soil/">sandy soil</a> at least 15cm deep, making them suitable for container gardening and corridor gardening. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of grit to let the roots breathe.</p> 
-<br> 
+   <p> Sand Ginger thrives in <a href="/page-index/horticulture-techniques/gauging-light/">more than 2-4 hours of direct sun or 4-6 hours of indirect sun</a>. Plants do best in <a href="/page-index/horticulture-techniques/soil/">sandy soil</a> at least 15cm deep, making them suitable for container gardening and corridor gardening. These plants are vulnerable to <a href="/page-index/plant-problems/root-rot">root rot</a>, so ensure that your pots drain well, and that your soil has plenty of grit to let the roots breathe.</p> 
+	<br> 
 </section> 
 
  
 <section> 
   <h4>Growing:</h4> 
-<p>Sand Ginger naturally grows in clusters as the plant grows more rhizomes. Thin plants out to give them around 5-10cm of space to encourage the production of more rhizomes.</p> 
-<br> 
+	<p>Sand Ginger naturally grows in clusters as the plant grows more rhizomes. Thin plants out to give them around 5-10cm of space to encourage the production of more rhizomes.</p> 
+	<br> 
 </section> 
  
 <section> 
   <h4>Harvesting:</h4> 
-<p>Young Sand Ginger leaves can be harvested at any time via the cut-and-come-again method.</p>
-<p>Plants can be harvested for rhizomes at any time. They are typically harvested continuously via division.</p> 
-<br> 
+	<p>Young Sand Ginger leaves can be harvested at any time via the <a href="/page-index/horticulture-techniques/cut-and-come-again">cut-and-come-again method</a>.</p>
+	<p>Plants can be harvested for rhizomes at any time. They are typically harvested continuously via division.</p> 
+	<br> 
 </section> 
  
 <section> 
   <h4>Propagation:</h4> 
-<p>Sand ginger is propagated via division of the rhizome.</p> 
-<br> 
+	<p>Sand ginger is <a href="/page-index/horticulture-techniques/propagating-by-division">propagated via division</a> of the rhizome.</p> 
+	<br> 
 </section> 
  
 <section> 
   <h4>Common problems &amp; solutions:</h4> 
   <p>This plant is relatively resistant to pests and disease if kept healthy.</p>
-<p>Wilting leaves during hot weather is a sign of heat stress. Increase the number of times the plant is watered daily, or move it to a shadier part of the garden.</p>
-<p>Plants are vulnerable to sunburn in more than 4 hours of direct sunlight. Use shade netting to protect your plants or replant in a shadier spot.</p>
-<br> 
+	<p><a href="/page-index/plant-problems/wilting">Wilting</a> leaves during hot weather is a sign of heat stress. Increase the number of times the plant is watered daily, or move it to a shadier part of the garden.</p>
+	<p>Plants are vulnerable to sunburn in more than 4 hours of direct sunlight. Use <a href="/page-index/hardscapes/netting">shade netting</a> to protect your plants or replant in a shadier spot.</p>
+	<br> 
 </section>
