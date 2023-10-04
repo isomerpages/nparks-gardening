@@ -8,7 +8,7 @@ notification: "Wet weather advisory: remove stagnant water to prevent mosquito b
 sections:
   - hero:
       title: GardeningSG
-      subtitle: let's get growing!
+      subtitle: Let's get growing!
       background: /images/Landing_page/banner_test2.png
   - infobar:
       title: New to gardening?
