@@ -26,8 +26,8 @@ description: ""
 	  background-color: #7a9a01;
 	  border: 1px solid #7a9a01;
   	padding:10px;
-	  border-radius: 95px 5px;
-	  transform: rotate(3deg);
+	  border-radius: 95px 11px;
+	  transform: rotate(deg);
 	  color: white !important;
 	}
 </style>
@@ -37,19 +37,19 @@ description: ""
 <table>
 	<tbody>
 		<tr>
-			<td style="width:0; border-bottom:0px"><a style="text-decoration:none" href="#a"><div class="button-leaf">A</div></a></td>
-			<td style="width:0; border-bottom:0px"><a style="text-decoration:none" href="#b"><div class="button-leaf">B</div></a></td>
-		<td style="width:0; border-bottom:0px"><a style="text-decoration:none" href="#c"><div class="button-leaf">C</div></a></td>
-		<td style="width:0; border-bottom:0px"><a style="text-decoration:none" href="#d"><div class="button-leaf">D</div></a></td>
-		<td style="width:0; border-bottom:0px"><a style="text-decoration:none" href="#e"><div class="button-leaf">E</div></a></td>
-		<td style="width:0; border-bottom:0px"><a style="text-decoration:none" href="#f"><div class="button-leaf">F</div></a></td>
-		<td style="width:0; border-bottom:0px"><a style="text-decoration:none" href="#g"><div class="button-leaf">G</div></a></td>
-		<td style="width:0; border-bottom:0px"><a style="text-decoration:none" href="#h"><div class="button-leaf">H</div></a></td>
-		<td style="width:0; border-bottom:0px"><a style="text-decoration:none" href="#i"><div class="button-leaf">I</div></a></td>
-		<td style="width:0; border-bottom:0px"><a style="text-decoration:none" href="#j"><div class="button-leaf">J</div></a></td>
-		<td style="width:0; border-bottom:0px"><a style="text-decoration:none" href="#k"><div class="button-leaf">K</div></a></td>
-		<td style="width:0; border-bottom:0px"><a style="text-decoration:none" href="#l"><div class="button-leaf">L</div></a></td>
-		<td style="width:0; border-bottom:0px"><a style="text-decoration:none" href="#m"><div class="button-leaf">M</div></a></td>
+			<td style="width:0; border-bottom:0px"><div class="button-leaf"><a style="text-decoration: none" href="#a">A</a></div></td>
+			<td style="width:0; border-bottom:0px"><div class="button-leaf"><a style="text-decoration:none" href="#b">B</a></div></td>
+		<td style="width:0; border-bottom:0px"><div class="button-leaf"><a style="text-decoration:none" href="#c">C</a></div></td>
+		<td style="width:0; border-bottom:0px"><div class="button-leaf"><a style="text-decoration:none" href="#d">D</a></div></td>
+		<td style="width:0; border-bottom:0px"><div class="button-leaf"><a style="text-decoration:none" href="#e">E</a></div></td>
+		<td style="width:0; border-bottom:0px"><div class="button-leaf"><a style="text-decoration:none" href="#f">F</a></div></td>
+		<td style="width:0; border-bottom:0px"><div class="button-leaf"><a style="text-decoration:none" href="#g">G</a></div></td>
+		<td style="width:0; border-bottom:0px"><div class="button-leaf"><a style="text-decoration:none" href="#h">H</a></div></td>
+		<td style="width:0; border-bottom:0px"><div class="button-leaf"><a style="text-decoration:none" href="#i">I</a></div></td>
+		<td style="width:0; border-bottom:0px"><div class="button-leaf"><a style="text-decoration:none" href="#j">J</a></div></td>
+		<td style="width:0; border-bottom:0px"><div class="button-leaf"><a style="text-decoration:none" href="#k">K</a></div></td>
+		<td style="width:0; border-bottom:0px"><div class="button-leaf"><a style="text-decoration:none" href="#l">L</a></div></td>
+		<td style="width:0; border-bottom:0px"><div class="button-leaf"><a style="text-decoration:none" href="#m">M</a></div></td>
 	</tr>
 		<tr>
 		<td style="width:0; border-bottom:0px"><a style="text-decoration:none" href="#n"><div class="button-leaf">N</div></a></td>
