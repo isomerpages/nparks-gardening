@@ -9,7 +9,7 @@ image: ""
 <section>
 	<img title="A corridor gardener tending to her hanging pot. Photo by Jacqueline Chua." src="/images/Gardeners/CorridorGardening_JacChua%20(1).jpg">
 	<p>Common corridors are shared spaces that neighbours can enjoy together. Growing plants in this communal space can be challenging, especially since the corridors need to also be used by the Singapore Civil Defence Force, Town Councils and others.</p>
-	<p><a href="/files/good%20corridor%20gardening%20practices.pdf">Download our Good Corridor Gardening Practices</a> for reference! </p>
+	<p><a href="/files/good%20corridor%20gardening%20practices.pdf">Download our Good Corridor Gardening Practices brochure</a> for reference! </p>
 	<br>
 </section>
 <section>
