@@ -9,12 +9,12 @@ image: ""
 <section>
 	<img title="A corridor gardener tending to her hanging pot. Photo by Jacqueline Chua." src="/images/Gardeners/CorridorGardening_JacChua%20(1).jpg">
 	<p>Common corridors are shared spaces that neighbours can enjoy together. Growing plants in this communal space can be challenging, especially since the corridors need to also be used by the Singapore Civil Defence Force, Town Councils and others.</p>
-	<p>Download our Good Corridor Gardening Practices <a href="https://www.nparks.gov.sg/-/media/nparks-real-content/gardening/gardening-resources/garden-etiquette/good-corridor-gardening-practices.ashx#:~:text=Ideally%2C%20the%20corridor%20should%20receive,option%20for%20your%20corridor%20garden.&amp;text=Keep%20a%20clearance%20distance%20of,passage%2D%20way%20at%20all%20times.">here</a></p>
+	<p><a href="/files/good%20corridor%20gardening%20practices.pdf">Download our Good Corridor Gardening Practices</a> for reference! </p>
 	<br>
 </section>
 <section>
 	<h4>Minimum access clearance</h4>
-	<img title="A corridor garden growing leafy vegetables. Photo by Jacqueline Chua." src="/images/Garden%20design/CorridorGardens_JacChua%20(2).jpg">
+	<img title="A corridor garden growing leafy vegetables. Photo by Jacqueline Chua." src="/images/Hardscapes/Corridorgarden_JacChua%20(2).jpg">
 	<p>All corridors need a <b>minimum of 1.2m clearance</b> for the Singapore Civil Defence Force to access homes in the case of emergencies. Keep your plant pots and other materials flush against the walls and parapets to keep the corridor accessible.</p>
 	<br>
 </section>
