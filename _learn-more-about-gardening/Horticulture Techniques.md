@@ -17,20 +17,19 @@ description: ""
 	table a:link {
 		color:white;
 	}
-	
-	table {
+
+	tr {
 		height: 50px;
-		max-width: auto;
-		align-items: center;
+		max-width: 600px;
 		display: flex;
 		flex-direction: row;
-		flexwrap: wrap;
+		flex-wrap: wrap;
 	}
 	
 	.button-leaf {
 		height: 40px;
 		width: 45px;
-		padding: 9px 10px 8px;
+		padding: 9px 15px 9px;
 	  background-color: #7a9a01;
 	  border: 1px solid #7a9a01;
 	  border-radius: 95px 10px;
