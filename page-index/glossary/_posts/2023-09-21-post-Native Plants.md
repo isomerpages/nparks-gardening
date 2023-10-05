@@ -21,6 +21,16 @@ image: ""
 		color: white;
 	}
 	
+	tr {
+		height:100%;
+		width: 95%;
+		display: flex;
+		flex-direction: row;
+		flex-wrap: wrap;
+		column-gap: 38px;
+		overflow: visible;
+	}
+	
 	.button-leaf {
 		height: 40px;
 		width: 45px;
@@ -50,8 +60,6 @@ image: ""
 			<td style="width:0; border-bottom:0px"><a style="text-decoration:none" href="#k"><div class="button-leaf">K</div></a></td>
 			<td style="width:0; border-bottom:0px"><a style="text-decoration:none" href="#l"><div class="button-leaf">L</div></a></td>
 			<td style="width:0; border-bottom:0px"><a style="text-decoration:none" href="#m"><div class="button-leaf">M</div></a></td>
-		</tr>
-		<tr>
 			<td style="width:0; border-bottom:0px"><a style="text-decoration:none" href="#n"><div class="button-leaf">N</div></a></td>
 			<td style="width:0; border-bottom:0px"><a style="text-decoration:none" href="#o"><div class="button-leaf">O</div></a></td>
 			<td style="width:0; border-bottom:0px"><a style="text-decoration:none" href="#p"><div class="button-leaf">P</div></a></td>
