@@ -14,36 +14,35 @@ image: ""
 <br>
 <section>
 <h4>How do plants get their nutrients?</h4>
-<p>Nutrients are usually absorbed by plants from the soil. If the soil has other problems, plants can’t absorb the nutrients even when they are present. Resolving soil problems are the first step to fixing most nutrient deficiency problems.</p> 
+<p>Nutrients are usually absorbed by plants from the <a href="/page-index/horticulture-techniques/soil/">soil</a> through their roots. If the soil has other problems, plants can’t absorb the nutrients even when they are present. Resolving soil problems are the first step to fixing most nutrient deficiency problems.</p> 
 <ul class="jekyllcodex_accordion">
 	<li><input type="checkbox" id="accordion1">
 		<label for="accordion1">Dry or waterlogged soil</label><div>
-<img title="" src="">
-<p>Soil that is dry or waterlogged will be difficult for plants to absorb nutrients in. Many nutrients are water-soluble, so having moist soil is the best for nutrient uptake.</p>
+<img title="Dry soil that is starting to crack. Photo by Jacqueline Chua." src="/images/Horti%20techniques/DryGround_Jacchua.jpg">
+		<p>Soil that is dry or <a href="/page-index/plant-problems/waterlogging/">waterlogged</a> will be difficult for plants to absorb nutrients in. Many nutrients are water-soluble, so having moist soil is the best for nutrient uptake. This is because the nutrient-rich water remains available for roots to absorb, and still allows roots to breathe.</p>
 </div></li>
 	<li><input type="checkbox" id="accordion2">
 		<label for="accordion2">Hard and compacted soil</label><div>
-<img title="" src=""> 
-<p>Soil in pots and raised beds can get compacted and hard over time. Refreshing them with a yearly addition of organic matter will help to keep the soil soft and well-draining, and help your plants grow lots of roots to absorb more nutrients.</p> 
+<img title="A gardener breaking up hard and compacted soil. Photo by Jacqueline Chua." src="/images/Horti%20techniques/Soil_Breaking_JacChua.jpg"> 
+<p>Soil in pots and raised beds can get compacted and hard over time. Refreshing them with a yearly addition of <a href="/page-index/horticulture-techniques/soil-amendments/">organic matter</a> will help to keep the soil soft and well-draining, and help your plants grow lots of roots to absorb more nutrients.</p> 
 </div></li>
 	<li><input type="checkbox" id="accordion3">
-		<label for="accordion3">Soil pH</label><div>
-<img title="" src=""> 
+		<label for="accordion3">Soil pH</label><div> 
 <p>Soil pH can also affect a plant’s ability to uptake nutrients. Most plants in Singapore need soil that has a pH of around 6 or 7 and will be able to take up most nutrients within this range. Any lower will indicate the soil is acidic, and any higher will show that it is alkaline. Soils in Singapore generally tend towards neutral or acidic. If your soil is too acidic, it can be corrected using horticultural lime (calcium carbonate, calcium oxide and dolomite). Alkaline soils can be treated using granular sulphur.</p> 
 </div></li>
 	<li><input type="checkbox" id="accordion4">
 		<label for="accordion4">Soil with little or no clay</label><div>
-<img title="" src=""> 
-<p>Certain soil mixes with low or no clay content can also result in nutrient deficiencies as clay is the main component of soil that can hold nutrients. Mixing in more topsoil will usually help remedy this.</p>
+<img title="A soil mix that is mostly grit and organic matter with very little clay. Photo by Jacqueline Chua." src="/images/Horti%20techniques/Soil_SandySoil_Jacchua.jpg"> 
+		<p>Certain <a href="/page-index/horticulture-techniques/soil/">soil mixes with low or no clay content</a> can also result in nutrient deficiencies as clay is the main component of soil that can hold nutrients. Plants growing in pure cocopeat, pumice, or other <a href="/page-index/horticulture-techniques/soil-amendments/">soil amendments</a> will eventually show a host of nutrient deficiencies. Mixing in more topsoil or using <a href="/page-index/horticulture-techniques/fertilising/">fertilisers</a> periodically will usually help remedy this.</p>
 </div></li>
 </ul></section>
 <br>
 <section>
-<h4>Symptoms and treatment</h4><h4>
+<h4>Symptoms and treatment</h4>
 <ul class="jekyllcodex_accordion">
 	<li><input type="checkbox" id="accordion1">
 		<label for="accordion1">Nitrogen deficiency: Yellow older leaves or all leaves turning yellow</label><div>
-<img title="" src="">
+<img title="A nitrogen deficient Bang Kwang next to a healthy one. Photo by Jacqueline Chua." src="/images/Plant%20problems/nitrogendeficient_vs_jacquelinechua.jpg">
 <p>Nitrogen deficiencies often show up as young plants looking yellowish and leggy despite having enough light, or slow and stunted leaf growth. It can also look like entire leaves turning yellow, with the older leaves at the bottom yellowing first and progressing up the plant to the new leaves at the top. Nitrogen is highly soluble in water, so heavy rains or overwatering may also cause nitrogen deficiencies as the nitrogen is washed away. However, this deficiency is easily remedied by using fertilisers high in nitrogen, or growing beans nearby as part of companion planting.</p> 
 </div></li>
 	<li><input type="checkbox" id="accordion2">
@@ -72,4 +71,4 @@ image: ""
 <p>Iron deficiencies look like magnesium deficiency, but the leaves that are pale with dark green veins are new and generally on the top of the plant. Plants in waterlogged soils will often show signs of iron deficiency, but this is easily remedied by improving soil drainage by mixing in organic soil amendments like compost. Occasionally, plants may be growing in alkaline soils with a pH over 7 and will have problems absorbing iron, resulting in the deficiency. This can be remedied by more acidic soil amendments like sulphur. </p>
 	</div></li>
 </ul>
-</h4></section>
+</section>
