@@ -56,7 +56,7 @@ image: ""
 <p>Potassium deficiencies cause burnt or brown edges on older yellow leaves with green veins, and can also show up as slow stem, flower, or fruit growth. This is remedied by using fertilisers high in potassium like seaweed products. </p>
 </div></li>
 	<li><input type="checkbox" id="accordion8">
-		<label for="accordion8">Calcium deficiency: A small rotton or dry spot at the end of fruits for Tomatoes, Brinjals and Chillies. </label><div>
+		<label for="accordion8">Calcium deficiency: A small rotten or dry spot at the end of fruits for Tomatoes, Brinjals and Chillies. </label><div>
 <img title="" src="">  
 <p>Calcium deficiencies can cause problems like blossom end rot for Chillies, Tomatoes and Brinjals. It looks like a small rotten or dried spot at the bottom of the fruit. Singapore soils are very rarely calcium deficient due to their high clay content. The deficiency is usually caused by a lack of water, or inconsistent watering, which prevents the fruit from getting calcium. Water your plants regularly, especially during the dry season, to prevent this.</p> 
 </div></li>
