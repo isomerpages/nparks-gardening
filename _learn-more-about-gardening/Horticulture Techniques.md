@@ -20,11 +20,11 @@ description: ""
 	
 	tr {
 		height:100%;
-		width: 100%;
+		width: 95%;
 		display: flex;
 		flex-direction: row;
 		flex-wrap: wrap;
-		column-gap: 40px;
+		column-gap: 35px;
 		overflow: visible;
 	}
 	
