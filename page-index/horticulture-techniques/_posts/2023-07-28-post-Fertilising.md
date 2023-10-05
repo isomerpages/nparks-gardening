@@ -64,8 +64,8 @@ image: ""
 	<h4>When do I fertilise my plants?</h4>
 	<img title="A hard-prined capsicum plant that would benefit from some fertiliser. Photo by Jacqueline Chua." src="/images/Horti%20techniques/hardpruning_jacchua%20(2).jpg">
 	<p>It is best to fertilise your plants during dry weather, as heavy rains can wash your freshly applied fertiliser away. Plants also will benefit from fertilisers during times of stress, like after transplanting or <a href="/page-index/horticulture-techniques/pruning/">hard pruning</a>.</p>
+<br>
 </section>
-	<br>
 <section>
 	<h4>How often and how much should I fertilise my plants?</h4>
 	<p>A wide variety of factors will affect how much fertilising a plant needs. Fast-growing annual plants like most leafy vegetables will need more fertiliser than slow-growing cacti, and plants in <a href="/horticulture-techniques/planting-in-containers/">small containers</a> will need more regular fertilising than plants grown in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a>. Experiment with your fertilising schedule. Regular fertilisng can look like once every two weeks, while occasional fertiling can look like once a month, or even once a year.  Knowing your plant and experimenting with its growing conditions are the best way to learn how to fertilise at a rate that works for your own garden. </p>
