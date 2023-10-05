@@ -3,60 +3,79 @@ title: Folder Page
 permalink: /example-folder/folder-page/
 ---
 <style>
-	.flexbox {
-		display: flex;
-		flex-wrap:wrap;
-		gap: 10px;
+	a:link.body, a:visited.body {
+		color: black;
+		text-decoration: none;
 	}
 	
-	.item {
-		display: flex;
-		flex: 0 1 calc(33% - 0.5rem)!important;
-		flex-direction: column;
-		justify-content: space-between;
-		border-radius: 5px;
-		border: solid 1px #215732;
-		padding:0px 5px 0px;
+	a:hover.body {
+		color: #7a9a01;
+		text-decoration:underline;
 	}
 	
-	.button-primary {
-    background-color: #215732;
-    border: 2px solid #215732;
-    padding: 0.5rem 1rem;
-  	border-radius: 1rem;
-		width: fit-content;
-    color: white !important;
-	  text-decoration: none !important;
+	table a:link {
+		color:white;
+	}
+	
+	tr {
+		height: 40px;
+		width: 100%;
+		display: flex;
+		flex-direction: row;
+		flex-wrap: wrap;
+		column-gap: 27px;
+	}
+	
+	.button-leaf {
+		height: 40px;
+		width: 45px;
+		padding: 9px 15px 9px;
+	  background-color: #7a9a01;
+	  border: 1px solid #7a9a01;
+	  border-radius: 95px 10px;
+	  color: white !important;
+	}
+	
+	.body {
+		position: relative;
 	}
 </style>
 
-<div class="flexbox">
-  <div class="item">
-		<h4>Soil Calculator</h4>
-	  <img style="height:150px; width:200px" src="/images/Digital%20Tools/soilcalc1.png"><br>
-		Find out the volume of soil required for your planter<br>
-		<br>
-		<a class="button-primary" href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/digital-tools/soilcalculator/">Try it now!</a><br>
-	</div>
-  <div class="item">
-		<h4>Harvest Planner</h4>
-		<img style="height:150px; width:200px" src="/images/Digital%20Tools/calendar1.png"><br>
-		Work out your harvest or sowing schedule with our planner<br>
-			<br>
-			<a class="button-primary" href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/digital-tools/sowing-planner/">Try it now</a>
-	</div>
-		<div class="item">
-			<h4>Pest Identifier</h4>
-						<img style="height:150px; width:200px" src="/images/Digital%20Tools/pestidcalc.png"><br>
-							Zoom into the possible culprits attacking your plants<br>
-					<br>
-					<a class="button-primary" href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/digital-tools/pestid/">Try it now!</a>
-	</div>
-  <div class="item">
-		<h4>Plant Search</h4>
-		<img style="height:150px; width:200px" src=""><br>
-		Find a plant to grow based on your garden conditions!<br>
-		<br>
-		<a class="button-primary" href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/digital-tools/plant-search/">Try it now!</a>
-	</div> 
-</div>
+<a id="top"></a>
+<strong>Click on an alphabet to learn more about different horticulture techniques!</strong>
+<table>
+	<tbody>
+		<tr>
+			<td style="width:0; border-bottom:0px"><a style="text-decoration: none" href="#a"><div class="button-leaf">A</div></a></td>
+			<td style="width:0; border-bottom:0px"><a style="text-decoration:none" href="#b"><div class="button-leaf">B</div></a></td>
+		<td style="width:0; border-bottom:0px"><a style="text-decoration:none" href="#c"><div class="button-leaf">C</div></a></td>
+		<td style="width:0; border-bottom:0px"><a style="text-decoration:none" href="#d"><div class="button-leaf">D</div></a></td>
+		<td style="width:0; border-bottom:0px"><a style="text-decoration:none" href="#e"><div class="button-leaf">E</div></a></td>
+		<td style="width:0; border-bottom:0px"><a style="text-decoration:none" href="#f"><div class="button-leaf">F</div></a></td>
+		<td style="width:0; border-bottom:0px"><a style="text-decoration:none" href="#g"><div class="button-leaf">G</div></a></td>
+		<td style="width:0; border-bottom:0px"><a style="text-decoration:none" href="#h"><div class="button-leaf">H</div></a></td>
+		<td style="width:0; border-bottom:0px"><a style="text-decoration:none" href="#i"><div class="button-leaf">I</div></a></td>
+		<td style="width:0; border-bottom:0px"><a style="text-decoration:none" href="#j"><div class="button-leaf">J</div></a></td>
+		<td style="width:0; border-bottom:0px"><a style="text-decoration:none" href="#k"><div class="button-leaf">K</div></a></td>
+		<td style="width:0; border-bottom:0px"><a style="text-decoration:none" href="#l"><div class="button-leaf">L</div></a></td>
+		<td style="width:0; border-bottom:0px"><a style="text-decoration:none" href="#m"><div class="button-leaf">M</div></a></td>
+		<td style="width:0; border-bottom:0px"><a style="text-decoration:none" href="#n"><div class="button-leaf">N</div></a></td>
+		<td style="width:0; border-bottom:0px"><a style="text-decoration:none" href="#o"><div class="button-leaf">O</div></a></td>
+		<td style="width:0; border-bottom:0px"><a style="text-decoration:none" href="#p"><div class="button-leaf">P</div></a></td>
+		<td style="width:0; border-bottom:0px"><a style="text-decoration:none" href="#q"><div class="button-leaf">Q</div></a></td>
+		<td style="width:0; border-bottom:0px"><a style="text-decoration:none" href="#r"><div class="button-leaf">R</div></a></td>
+		<td style="width:0; border-bottom:0px"><a style="text-decoration:none" href="#s"><div class="button-leaf">S</div></a></td>
+		<td style="width:0; border-bottom:0px"><a style="text-decoration:none" href="#t"><div class="button-leaf">T</div></a></td>
+		<td style="width:0; border-bottom:0px"><a style="text-decoration:none" href="#u"><div class="button-leaf">U</div></a></td>
+		<td style="width:0; border-bottom:0px"><a style="text-decoration:none" href="#v"><div class="button-leaf">V</div></a></td>
+		<td style="width:0; border-bottom:0px"><a style="text-decoration:none" href="#w"><div class="button-leaf">W</div></a></td>
+		<td style="width:0; border-bottom:0px"><a style="text-decoration:none" href="#x"><div class="button-leaf">X</div></a></td>
+		<td style="width:0; border-bottom:0px"><a style="text-decoration:none" href="#y"><div class="button-leaf">Y</div></a></td>
+		<td style="width:0; border-bottom:0px"><a style="text-decoration:none" href="#z"><div class="button-leaf">Z</div></a></td>
+	</tr>
+</tbody></table>
+<br>
+
+
+<h4 id="a">A</h4>
+	<br><br>
