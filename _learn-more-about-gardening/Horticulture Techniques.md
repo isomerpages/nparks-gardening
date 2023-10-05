@@ -37,7 +37,7 @@ description: ""
 	  color: white !important;
 	}
 	
-	.body {
+	.links {
 		position: relative;
 	}
 </style>
