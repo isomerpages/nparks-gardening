@@ -13,7 +13,7 @@ image: ""
 </section>
 <br>
 <section>
-<h4>How do plants get their nutrients?</h4>
+<h4>Soil problems and nutrient deficiencies</h4>
 <p>Nutrients are usually absorbed by plants from the <a href="/page-index/horticulture-techniques/soil/">soil</a> through their roots. If the soil has other problems, plants can’t absorb the nutrients even when they are present. Resolving soil problems are the first step to fixing most nutrient deficiency problems.</p> 
 <ul class="jekyllcodex_accordion">
 	<li><input type="checkbox" id="accordion1">
