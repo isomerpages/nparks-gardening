@@ -27,7 +27,8 @@ image: ""
 		<label for="accordion2">Magnesium</label><div>
 	<p> <b>Epsom salts</b> are usually used as beauty products, but they can also be dissolved in water to be used as a fertiliser to remedy magnesium deficiencies in plants. Mix 1 tablespoon of epsom salt in 2 litres of water to apply once a month to your plants. Epsom salt should be used sparingly as a fertiliser, as overly salty soil might kill your plant! </p>
 </div></li>
-			</ul></section>
+			</ul>
+</section>
 	<br>
 <section>
 	<h4>Fertiliser types</h4>
@@ -40,7 +41,7 @@ image: ""
 	<h4>How do I apply fertiliser?</h4>
 	<p>Fertilisers will generally come with instructions for application and will vary based on product. </p>
 	<img title="A lettuce leaf with a fertiliser burn. Photo by Jacqueline Chua." src="/images/Horti%20techniques/fertiliserburn_jacquelinechua.jpg">
-	<p>	However, most fertilisers can cause burns on plant leaves if they come into contact, and thus should only be applied on the soil, or at the base of a plant. Fertilisers should also be watered in after application, as plants will need to absorb the nutrients from the fertilisers through their roots.</p>
+	<p>	Many fertilisers can cause burns on plant leaves if they come into contact, and thus should only be applied on the soil or at the base of a plant. Fertilisers should also be watered in after application, as plants will need to absorb the nutrients from the fertilisers through their roots.</p>
 	<p>The most common ways of applying fertiliser are:</p>
 <ul class="jekyllcodex_accordion">
 	<li><input type="checkbox" id="accordion3">
