@@ -36,10 +36,6 @@ description: ""
 	  border-radius: 95px 10px;
 	  color: white !important;
 	}
-	
-	.links {
-		position: relative;
-	}
 </style>
 
 <a id="top"></a>
@@ -77,7 +73,7 @@ description: ""
 </tbody></table>
 <br>
 
-
+<section>
 <h4 id="a">A</h4>
 	<br><br>
 <h4 id="b">B</h4>
@@ -161,7 +157,7 @@ description: ""
 	<br><br>
 <h4 id="z">Z</h4>
 	<br><br>
-
+</section>
 	
 <div class="float-buttons">
 	<div style="position:relative;" class="inner-wrapper-sticky">
