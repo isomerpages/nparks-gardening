@@ -20,10 +20,11 @@ description: ""
 
 	tr {
 		height: 50px;
-		max-width: 600px;
+		max-width: 800px;
 		display: flex;
 		flex-direction: row;
 		flex-wrap: wrap;
+		gap: 30px;
 	}
 	
 	.button-leaf {
