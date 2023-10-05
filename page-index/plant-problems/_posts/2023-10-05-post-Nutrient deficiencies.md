@@ -14,12 +14,12 @@ image: ""
 <br>
 <section>
 <h4>Soil problems and nutrient deficiencies</h4>
-<p>Nutrients are usually absorbed by plants from the <a href="/page-index/horticulture-techniques/soil/">soil</a> through their roots. If the soil has other problems, plants can’t absorb the nutrients even when they are present. Resolving soil problems are the first step to fixing most nutrient deficiency problems.</p> 
+<p>Nutrients are usually absorbed by plants from the <a href="/page-index/horticulture-techniques/soil/">soil</a> through their roots. If the soil has other problems, plants can’t absorb the nutrients even when they are present. Soil problems should be resolved before adding <a href="/page-index/horticulture-techniques/fertilising/">fertiliser</a> to solve nutrient deficiencies over the long term.</p> 
 <ul class="jekyllcodex_accordion">
 	<li><input type="checkbox" id="accordion1">
 		<label for="accordion1">Dry or waterlogged soil</label><div>
 <img title="Dry soil that is starting to crack. Photo by Jacqueline Chua." src="/images/Horti%20techniques/DryGround_Jacchua.jpg">
-		<p>Soil that is dry or <a href="/page-index/plant-problems/waterlogging/">waterlogged</a> will be difficult for plants to absorb nutrients in. Many nutrients are water-soluble, so having moist soil is the best for nutrient uptake. This is because the nutrient-rich water remains available for roots to absorb, and still allows roots to breathe.</p>
+		<p>Soil that is dry or <a href="/page-index/plant-problems/waterlogging/">waterlogged</a> will be difficult for plants to absorb nutrients in. Many nutrients are water-soluble, so having moist soil is the best for nutrient uptake. This is because the nutrient-rich water remains available for roots to absorb, and still allows roots to breathe. Having a regular <a href="/page-index/horticulture-techniques/watering/">watering schedule</a> and good drainage are key to keeping your soil moist. </p>
 </div></li>
 	<li><input type="checkbox" id="accordion2">
 		<label for="accordion2">Hard and compacted soil</label><div>
