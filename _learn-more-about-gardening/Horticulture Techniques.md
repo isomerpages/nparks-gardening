@@ -66,7 +66,6 @@ description: ""
 		<td style="width:0; border-bottom:0px"><a style="text-decoration:none" href="#x"><div class="button-leaf">X</div></a></td>
 		<td style="width:0; border-bottom:0px"><a style="text-decoration:none" href="#y"><div class="button-leaf">Y</div></a></td>
 		<td style="width:0; border-bottom:0px"><a style="text-decoration:none" href="#z"></a><div class="button-leaf"><a style="text-decoration:none" href="#z">Z</a></div></td>
-		<td style="width:0; border-bottom:0px"><a style="text-decoration:none" href="#z"></a><div class="button-leaf"><a style="text-decoration:none" href="#z">Z</a></div></td>
 	</tr>
 </tbody></table>
 <br>
