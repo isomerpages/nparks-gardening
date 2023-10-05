@@ -27,7 +27,7 @@ image: ""
 		padding: 10px 15px 10px ;
 	  background-color: #215732;
 	  border: 1px solid #215732;
-	  border-radius: 95px 10px;
+	  border-radius: 95px 11px;
 	  color: white !important;
 	}
 </style>
