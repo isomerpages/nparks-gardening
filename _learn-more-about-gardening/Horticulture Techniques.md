@@ -20,7 +20,7 @@ description: ""
 	
 	tr {
 		height:100%;
-		width: 100%;
+		width: 90%;
 		display: flex;
 		flex-direction: row;
 		flex-wrap: wrap;
