@@ -34,9 +34,8 @@ image: ""
 	<h4>Fertiliser types</h4>
 	<p><b>Fast-release fertilisers</b> will make nutrients available to plants immediately after they are applied. They usually come in a powdered or liquid form, and plants will have a noticeable growth spurt the week after they are added.</p>
 	<p><b>Slow-release fertilisers</b> will release nutrients over a long period of time, and usually come in the form of pellets or granules. These are a better long-term solution to nutrient deficiency problems.</p>
-	<br>
 </section>
-
+<br>
 <section>
 	<h4>How do I apply fertiliser?</h4>
 	<p>Fertilisers will generally come with instructions for application and will vary based on product. </p>
