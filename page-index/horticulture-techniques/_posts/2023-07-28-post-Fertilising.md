@@ -14,12 +14,17 @@ image: ""
 
 <section>
 	<h4>Major nutrients</h4>
-	<p>The main nutrients fertilisers provide are <b>nitrogen (N), phosphorus (P)</b> and <b>potassium (K)</b>. They are displayed as a ratio on the packaging of most fertilisers in that order. The ratios will indicate whether the fertiliser has more of one nutrient than the others.</p>
+	<p>The main nutrients fertilisers provide are <b>Nitrogen (N), Phosphorus (P)</b> and <b>Potassium (K)</b>. They are displayed as a ratio on the packaging of most fertilisers in that order. The ratios will indicate whether the fertiliser has more of one nutrient than the others.</p>
 	<p><b>Balanced fertilisers</b> (for example, 5:5:5) will be used to generally boost plant growth.</p>
 	<p><b>High nitrogen fertilisers</b> (for example, 5:3:3) encourages more leaf growth. Organic fertilisers high in nitrogen include those made from manure, with common sources being chickens, cows, or goats.</p>
-	<p><b>High phosphorus and potassium fertilisers</b> (for example, 3:5:5) are used to encourage flowering, fruiting and root growth. Organic fertilisers high in phosphorus and potassium include those made from seaweed, blood, and bones.</p>
+	<p><b>High phosphorus and potassium fertilisers</b> (for example, 3:5:5) are used to encourage flowering, fruiting and root growth. Organic fertilisers high in phosphorus and potassium include those made from seaweed, blood, and bones.</p> 
 	<br>
 </section>
+<br>
+<section>
+	<h4>Other nutrients</h4>
+<p>	Plants also need other nutrients like <b>Magnesium (Mg)</b>, <b>Iron (Fe)</b>, and <b>Calcium (Ca)</b>, but in smaller amounts. <a href="/page-index/plant-problems/nutrient-deficiencies/">Deficiencies in these nutrients</a> are less common, and can generally be resolved by fixing problems with the soil. The only exception to this is Magnesium, which can be added to the soil through the use of epsom salts. </p>
+	<p> <b>Epsom salts</b> are usually used as beauty products, but they can also be dissolved in water to be used as a fertiliser to remedy magnesium nutrient deficiencies in plants. Mix 1 tablespoon of epsom salt in 2 litres of water to apply once a month to your plants. Epsom salt should be used sparingly as a fertiliser, as overly salty soil might kill your plant! </p>
 
 <section>
 	<h4>Fertiliser types</h4>
@@ -45,4 +50,4 @@ image: ""
 	<h4>When do I fertilise my plants?</h4>
 	<p>It is best to fertilise your plants during dry weather, as rain can wash your freshly applied fertiliser away. Plants also will benefit from fertilisers during times of stress, like after transplanting or hard pruning.</p>
 	<br>
-</section>
+</section></section>
