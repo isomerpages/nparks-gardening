@@ -40,33 +40,33 @@ image: ""
 <section>
 <h4>Symptoms and treatment</h4>
 <ul class="jekyllcodex_accordion">
-	<li><input type="checkbox" id="accordion1">
-		<label for="accordion1">Nitrogen deficiency: Yellow older leaves or all leaves turning yellow</label><div>
+	<li><input type="checkbox" id="accordion5">
+		<label for="accordion5">Nitrogen deficiency: Yellow older leaves or all leaves turning yellow</label><div>
 <img title="A nitrogen deficient Bang Kwang next to a healthy one. Photo by Jacqueline Chua." src="/images/Plant%20problems/nitrogendeficient_vs_jacquelinechua.jpg">
 <p>Nitrogen deficiencies often show up as young plants looking yellowish and leggy despite having enough light, or slow and stunted leaf growth. It can also look like entire leaves turning yellow, with the older leaves at the bottom yellowing first and progressing up the plant to the new leaves at the top. Nitrogen is highly soluble in water, so heavy rains or overwatering may also cause nitrogen deficiencies as the nitrogen is washed away. However, this deficiency is easily remedied by using fertilisers high in nitrogen, or growing beans nearby as part of companion planting.</p> 
 </div></li>
-	<li><input type="checkbox" id="accordion2">
-		<label for="accordion2">Phosphorus deficiency: Red, purple or bronze patches on older leaves </label><div>
+	<li><input type="checkbox" id="accordion6">
+		<label for="accordion6">Phosphorus deficiency: Red, purple or bronze patches on older leaves </label><div>
 <img title="An Aztec Sweet plant with phosphorus deficiency. Photo by Jacqueline Chua." src="/images/Plant%20problems/NutientDeficient_JacChua%20(1).jpg"> 
 <p>Phosphorus deficiencies look like red, purplish, or bronze patches on older leaves on plants, but this tends to vary wildly between species. It also is indicated by a stunted overall growth rate for most plants. This is remedied by using fertilisers high in phosphate, like bonemeal.</p> 
 </div></li>
-	<li><input type="checkbox" id="accordion3">
-		<label for="accordion3">Potassium deficiency: Burnt or brown edges on older yellow leaves with green veins </label><div>
+	<li><input type="checkbox" id="accordion7">
+		<label for="accordion7">Potassium deficiency: Burnt or brown edges on older yellow leaves with green veins </label><div>
 <img title="A Huang Jing Bai Cai with potassium deficiency. Photo by Jacqueline Chua." src="/images/Plant%20problems/SunburnAndChlorosis_JacChua.jpg"> 
 <p>Potassium deficiencies cause burnt or brown edges on older yellow leaves with green veins, and can also show up as slow stem, flower, or fruit growth. This is remedied by using fertilisers high in potassium like seaweed products. </p>
 </div></li>
-	<li><input type="checkbox" id="accordion4">
-		<label for="accordion4">Calcium deficiency: A small rotton or dry spot at the end of fruits for Tomatoes, Brinjals and Chillies. </label><div>
+	<li><input type="checkbox" id="accordion8">
+		<label for="accordion8">Calcium deficiency: A small rotton or dry spot at the end of fruits for Tomatoes, Brinjals and Chillies. </label><div>
 <img title="" src="">  
 <p>Calcium deficiencies can cause problems like blossom end rot for Chillies, Tomatoes and Brinjals. It looks like a small rotten or dried spot at the bottom of the fruit. Singapore soils are very rarely calcium deficient due to their high clay content. The deficiency is usually caused by a lack of water, or inconsistent watering, which prevents the fruit from getting calcium. Water your plants regularly, especially during the dry season, to prevent this.</p> 
 </div></li>
-	<li><input type="checkbox" id="accordion5">
-		<label for="accordion5">Magnesium deficiency: Pale older leaves with dark green veins. </label><div>
+	<li><input type="checkbox" id="accordion9">
+		<label for="accordion9">Magnesium deficiency: Pale older leaves with dark green veins. </label><div>
 <img title="A Pennywort with magnesium deficiency with older leaves becoming pale with green veins. Photo by Jacqueline Chua." src="/images/Plant%20problems/NitrogenDeficient_JacChua%20(3).jpg"> 
 <p>Magnesium deficiencies causes plants to have pale older leaves with dark green veins. Magnesium deficiencies can be caused by the over-use of high potassium fertilisers as the plant absorbs potassium instead of magnesium. If no high potassium fertilisers have been added, Epsom salts can be used to add magnesium to the soil.</p> 
 </div></li>
-	<li><input type="checkbox" id="accordion6">
-		<label for="accordion6">Iron deficiency: Pale new leaves with dark green veins. </label><div>
+	<li><input type="checkbox" id="accordion10">
+		<label for="accordion10">Iron deficiency: Pale new leaves with dark green veins. </label><div>
 <img title="A Ceylon Spinach with iron deficiency with pale new leaves with green veins. Photo by Jacqueline Chua." src="/images/Plant%20problems/NitrogenDeficient_JacChua%20(2).jpg"> 
 <p>Iron deficiencies look like magnesium deficiency, but the leaves that are pale with dark green veins are new and generally on the top of the plant. Plants in waterlogged soils will often show signs of iron deficiency, but this is easily remedied by improving soil drainage by mixing in organic soil amendments like compost. Occasionally, plants may be growing in alkaline soils with a pH over 7 and will have problems absorbing iron, resulting in the deficiency. This can be remedied by adding more acidic soil amendments like sulphur. </p>
 	</div></li>
