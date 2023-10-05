@@ -25,8 +25,8 @@ description: ""
 	.button-leaf {
 	  background-color: #7a9a01;
 	  border: 1px solid #7a9a01;
-  	padding:10px;
-	  border-radius: 95px 11px;
+  	padding:12px;
+	  border-radius: 95px 10px;
 	  transform: rotate(deg);
 	  color: white !important;
 	}
