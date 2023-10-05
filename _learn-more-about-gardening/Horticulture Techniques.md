@@ -17,14 +17,14 @@ description: ""
 	table a:link {
 		color:white;
 	}
-
+	
 	tr {
-		height: 50px;
-		max-width: 800px;
+		height: 40px;
+		width: 100%;
 		display: flex;
 		flex-direction: row;
 		flex-wrap: wrap;
-		gap: 30px;
+		column-gap: 27px;
 	}
 	
 	.button-leaf {
@@ -35,6 +35,10 @@ description: ""
 	  border: 1px solid #7a9a01;
 	  border-radius: 95px 10px;
 	  color: white !important;
+	}
+	
+	.body {
+		position: relative;
 	}
 </style>
 
@@ -73,7 +77,7 @@ description: ""
 </tbody></table>
 <br>
 
-<section>
+
 <h4 id="a">A</h4>
 	<br><br>
 <h4 id="b">B</h4>
@@ -157,7 +161,7 @@ description: ""
 	<br><br>
 <h4 id="z">Z</h4>
 	<br><br>
-</section>
+
 	
 <div class="float-buttons">
 	<div style="position:relative;" class="inner-wrapper-sticky">
