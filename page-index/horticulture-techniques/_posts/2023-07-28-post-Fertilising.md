@@ -28,8 +28,8 @@ image: ""
 	<p> <b>Epsom salts</b> are usually used as beauty products, but they can also be dissolved in water to be used as a fertiliser to remedy magnesium deficiencies in plants. Mix 1 tablespoon of epsom salt in 2 litres of water to apply once a month to your plants. Epsom salt should be used sparingly as a fertiliser, as overly salty soil might kill your plant! </p>
 </div></li>
 			</ul>
-</section>
 	<br>
+</section>
 <section>
 	<h4>Fertiliser types</h4>
 	<p><b>Fast-release fertilisers</b> will make nutrients available to plants immediately after they are applied. They usually come in a powdered or liquid form, and plants will have a noticeable growth spurt the week after they are added.</p>
