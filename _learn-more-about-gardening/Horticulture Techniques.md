@@ -24,7 +24,7 @@ description: ""
 		display: flex;
 		flex-direction: row;
 		flex-wrap: wrap;
-		column-gap: 27px;
+		column-gap: 50px;
 	}
 	
 	.button-leaf {
