@@ -25,7 +25,7 @@ description: ""
 	.button-leaf {
 		height: 40px;
 		width: 45px;
-		padding: 8px 10px 10px 8px;
+		padding: 9px 10px 8px;
 	  background-color: #7a9a01;
 	  border: 1px solid #7a9a01;
 	  border-radius: 95px 10px;
