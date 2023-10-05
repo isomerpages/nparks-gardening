@@ -47,12 +47,12 @@ image: ""
 	<li><input type="checkbox" id="accordion3">
 		<label for="accordion3">Top dressing</label><div>
 	<img title="A Community Gardener scattering fertiliser onto a new planting bed as top dressing. Photo by NParks." src="/images/Gardeners/Fertilising.jpg">
-	<p><b>Top dressing</b> refers to the scattering of  fertilisers on the surface of the ground around plants, and then watered in. This is a fast way to spread fertiliser, but care needs to be taken to avoid touching leaves with fertiliser pellet
+	<p><b>Top dressing</b> refers to the scattering of  fertilisers on the surface of the ground around plants, and then watered in. This is a fast way to spread fertiliser, but care needs to be taken to avoid touching leaves with fertiliser pellets or powders.
 		</p></div></li>
 	<li><input type="checkbox" id="accordion4">
-		<label for="accordion4">Base dressing</label><div>s or powders.<p></p>
+		<label for="accordion4">Base dressing</label><div>
 	<img title="Community Gardeners mixing soil. Photo by Jacqueline Chua." src="/images/Gardeners/Digging%20(4).jpg">
-	<p><b>Base dressing</b> refers to  fertilisers that are directly mixed into soil. The best time to add base dressing to soil is before new plants are transplanted into their permanent growing place.</p>
+	<p><b>Base dressing</b> refers to fertilisers that are directly mixed into soil. The best time to add base dressing to soil is before new plants are transplanted into their permanent growing place.</p>
 		</div></li>
 	<li><input type="checkbox" id="accordion5">
 		<label for="accordion5">Watering</label><div>
