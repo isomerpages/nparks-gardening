@@ -51,9 +51,9 @@ image: ""
 <p>Phosphorus deficiencies look like red, purplish, or bronze patches on older leaves on plants, but this tends to vary wildly between species. It also is indicated by a stunted overall growth rate for most plants. This is remedied by using fertilisers high in phosphate, like bonemeal.</p> 
 </div></li>
 	<li><input type="checkbox" id="accordion3">
-		<label for="accordion3">Potassium deficiency: Burnt or brown edges on yellow leaves with green veins </label><div>
+		<label for="accordion3">Potassium deficiency: Burnt or brown edges on older yellow leaves with green veins </label><div>
 <img title="A Huang Jing Bai Cai with potassium deficiency. Photo by Jacqueline Chua." src="/images/Plant%20problems/SunburnAndChlorosis_JacChua.jpg"> 
-<p>Potassium deficiencies cause burnt or brown edges on yellow leaves with green veins, and can also show up as slow stem, flower, or fruit growth. This is remedied by using fertilisers high in potassium like seaweed products. </p>
+<p>Potassium deficiencies cause burnt or brown edges on older yellow leaves with green veins, and can also show up as slow stem, flower, or fruit growth. This is remedied by using fertilisers high in potassium like seaweed products. </p>
 </div></li>
 	<li><input type="checkbox" id="accordion4">
 		<label for="accordion4">Calcium deficiency: A small rotton or dry spot at the end of fruits for Tomatoes, Brinjals and Chillies. </label><div>
