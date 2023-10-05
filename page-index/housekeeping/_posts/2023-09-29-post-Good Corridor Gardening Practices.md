@@ -9,7 +9,7 @@ image: ""
 <section>
 	<img title="A corridor gardener tending to her hanging pot. Photo by Jacqueline Chua." src="/images/Gardeners/CorridorGardening_JacChua%20(1).jpg">
 	<p>Common corridors are shared spaces that neighbours can enjoy together. Growing plants in this communal space can be challenging, especially since the corridors need to also be used by the Singapore Civil Defence Force, Town Councils and others.</p>
-	<p>Download our <a href="/files/good%20corridor%20gardening%20practices.pdf">Good Corridor Gardening Practices brochure</a> for reference! </p>
+	<p>Download our <a download="" href="/files/good%20corridor%20gardening%20practices.pdf">Good Corridor Gardening Practices brochure</a> for reference! </p>
 	<br>
 </section>
 <section>
@@ -31,7 +31,7 @@ image: ""
 <section>
 	<h4>Choosing plants for your corridor</h4>
 				<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/eVBFePei-Bk?si=rz827tqlwF7jGvPC" width="100%" height="415"></iframe><br>
-	<p>As with any other garden, it is best to figure out how much space you can work with, and <a href="/page-index/horticulture-techniques/gauging-light">how much light</a> you receive throughout the year before you choose your plants.  In this case, small plants that thrive in containers that can also tolerate shade would be the best choice for most corridors. Do take note that your pot placement will also affect how much light and space your plant will get. For the most amount of light, try to place your racks or pot stands flush against the parapet.</p>
+	<p>As with any other garden, it is best to figure out how much space you can work with, and <a href="/page-index/horticulture-techniques/gauging-light">how much light</a> you receive throughout the year before you choose your plants.  In this case, small plants that <a href="/page-index/horticulture-techniques/planting-in-containers/">thrive in containers</a> that can also tolerate shade would be the best choice for most corridors. Do take note that your pot placement will also affect how much light and space your plant will get. For the most amount of light, try to place your racks or pot stands flush against the parapet.</p>
 	<p>Because corridors also have a lot of traffic, it is also important to choose plants that are not thorny, sharp, or otherwise dangerous to keep you and your neighbours safe.</p>
 	<p>Here are some edible plants to grow along your corridor:</p>
 	<ul class="jekyllcodex_accordion">
@@ -96,5 +96,5 @@ image: ""
 			</ul>
 		</div></li>
 	</ul>
-		<p>Download our indoor gardening guide <a href="https://www.nparks.gov.sg/-/media/nparks-real-content/gardening/community-in-bloom/cib-indoor-gardening/introduction-to-indoor-gardening.ashx">here</a>.</p>
+		<p>Download our <a download="" href="/files/introduction%20to%20indoor%20gardening.pdf">indoor gardening guide</a> for more information. </p>
 </section>
