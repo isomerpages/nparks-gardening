@@ -59,7 +59,7 @@ description: ""
 		</div>
 		<div class="box">
 			<h5>Large Animals</h5>
-			<img style="display: inline" src="/images/Biodiversity/bird_pinkneckgreenpigeon_jacchua.jpg"><br>
+			<img style="display: inline" src="!/images/Biodiversity/OliveBackedSunbird_VictoriaLim.jpg"><br>
 			<ul>
 				<li>Birds</li>
 				<li>Rodents</li>
