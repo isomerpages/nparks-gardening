@@ -68,7 +68,7 @@ image: ""
 	<li><input type="checkbox" id="accordion6">
 		<label for="accordion6">Iron deficiency: Pale new leaves with dark green veins. </label><div>
 <img title="A Ceylon Spinach with iron deficiency with pale new leaves with green veins. Photo by Jacqueline Chua." src="/images/Plant%20problems/NitrogenDeficient_JacChua%20(2).jpg"> 
-<p>Iron deficiencies look like magnesium deficiency, but the leaves that are pale with dark green veins are new and generally on the top of the plant. Plants in waterlogged soils will often show signs of iron deficiency, but this is easily remedied by improving soil drainage by mixing in organic soil amendments like compost. Occasionally, plants may be growing in alkaline soils with a pH over 7 and will have problems absorbing iron, resulting in the deficiency. This can be remedied by more acidic soil amendments like sulphur. </p>
+<p>Iron deficiencies look like magnesium deficiency, but the leaves that are pale with dark green veins are new and generally on the top of the plant. Plants in waterlogged soils will often show signs of iron deficiency, but this is easily remedied by improving soil drainage by mixing in organic soil amendments like compost. Occasionally, plants may be growing in alkaline soils with a pH over 7 and will have problems absorbing iron, resulting in the deficiency. This can be remedied by adding more acidic soil amendments like sulphur. </p>
 	</div></li>
 </ul>
 </section>
