@@ -77,7 +77,7 @@ description: ""
 <section>
 <h4 id="a">A</h4>
 <h4 id="b">B</h4>
-	<a class="body" href="/page-index/horticulture-techniques/bottom-watering/">Bottom watering</a><br>
+	<a class="body" href="/page-index/horticulture-techniques/bottom-watering/">Bottom watering</a>
 <h4 id="c">C</h4>
 	<a class="body" href="/page-index/horticulture-techniques/choosing-plants/">Choosing plants</a>
 	<br>
@@ -87,40 +87,27 @@ description: ""
 	<br>
 	<a class="body" href="/page-index/horticulture-techniques/composting/">Composting</a>
 	<br>
-	<a class="body" href="/page-index/horticulture-techniques/cut-and-come-again/">Cut and come again harvesting</a><br>
-	 <br><br>
+	<a class="body" href="/page-index/horticulture-techniques/cut-and-come-again/">Cut and come again harvesting</a>
 <h4 id="d">D</h4>
-	<br><br>
 <h4 id="e">E</h4>
-	<br><br>
 <h4 id="f">F</h4>
 	<a class="body" href="/page-index/horticulture-techniques/fertilising/">Fertilising</a><br>
 	<a class="body" href="/page-index/horticulture-techniques/finding-pests/">Finding pests</a><br>
-	<br><br>
 <h4 id="g">G</h4>
 <a class="body" href="/page-index/horticulture-techniques/gauging-light/">Gauging light</a><br>
 <a class="body" href="/page-index/horticulture-techniques/grow-lights">Grow lights</a><br>
-	<a class="body" href="/page-index/horticulture-techniques/harvesting-hygiene/">Growing edibles for consumption</a><br>
-<br><br>
+	<a class="body" href="/page-index/horticulture-techniques/harvesting-hygiene/">Growing edibles for consumption</a>
 <h4 id="h">H</h4>
-	<br><br>
 <h4 id="i">I</h4>
-	<a class="body" href="/page-index/horticulture-techniques/ipm">Integrated pest management</a><br>
-	<br><br>
+	<a class="body" href="/page-index/horticulture-techniques/ipm">Integrated pest management</a>
 <h4 id="j">J</h4>
-	<br><br>
 <h4 id="k">K</h4>
-<br><br>
 <h4 id="l">L</h4>
-<br><br>
 <h4 id="m">M</h4>
 	<a class="body" href="/page-index/horticulture-techniques/microgreens/">Microgreens</a><br>
 	<a class="body" href="/page-index/horticulture-techniques/mulching/">Mulching</a>
-	<br><br>
 <h4 id="n">N</h4>
-<br><br>
 <h4 id="o">O</h4>
-<br><br>
 <h4 id="p">P</h4>
 	<a class="body" href="/page-index/horticulture-techniques/pest-control/">Pest control</a><br>
 	<a class="body" href="/page-index/horticulture-techniques/planting-in-containers/">Planting in containers</a><br>
@@ -130,32 +117,20 @@ description: ""
 <a class="body" href="/page-index/horticulture-techniques/propagating-by-division">Propagating via division</a><br>
 <a class="body" href="/page-index/horticulture-techniques/propagating-by-seed">Propagating via seeds</a><br>
 	<a class="body" href="/page-index/horticulture-techniques/pruning">Pruning</a>
-<br><br>
 <h4 id="q">Q</h4>
-<br><br>
 <h4 id="r">R</h4>
-	<br><br>
 <h4 id="s">S</h4>
 	<a class="body" href="/page-index/horticulture-techniques/soil/">Soil</a><br>
 	<a class="body" href="/page-index/horticulture-techniques/soil-amendments/">Soil amendments</a><br>
-<br>
-<br><br>
 <h4 id="t">T</h4>
-	<br><br>
 <h4 id="u">U</h4>
-	<br><br>
 <h4 id="v">V</h4>
-	<br><br>
 <h4 id="w">W</h4>
 	<a class="body" href="/page-index/horticulture-techniques/watering/">Watering</a><br>
 	<a class="body" href="/page-index/horticulture-techniques/weeding/">Weeding</a><br>
-	<br><br>
 <h4 id="x">X</h4>
-	<br><br>
 <h4 id="y">Y</h4>
-	<br><br>
 <h4 id="z">Z</h4>
-	<br><br>
 </section>
 	
 <div class="float-buttons">
