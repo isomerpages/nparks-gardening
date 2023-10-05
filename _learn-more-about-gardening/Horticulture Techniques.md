@@ -76,10 +76,8 @@ description: ""
 
 <section>
 <h4 id="a">A</h4>
-	<br><br>
 <h4 id="b">B</h4>
 	<a class="body" href="/page-index/horticulture-techniques/bottom-watering/">Bottom watering</a><br>
-	 <br><br>
 <h4 id="c">C</h4>
 	<a class="body" href="/page-index/horticulture-techniques/choosing-plants/">Choosing plants</a>
 	<br>
@@ -105,7 +103,6 @@ description: ""
 	<a class="body" href="/page-index/horticulture-techniques/harvesting-hygiene/">Growing edibles for consumption</a><br>
 <br><br>
 <h4 id="h">H</h4>
-<a class="body" href="/page-index/horticulture-techniques/pruning">Hard pruning</a><br>
 	<br><br>
 <h4 id="i">I</h4>
 	<a class="body" href="/page-index/horticulture-techniques/ipm">Integrated pest management</a><br>
@@ -132,6 +129,7 @@ description: ""
 	<a class="body" href="/page-index/horticulture-techniques/propagating-by-cuttings">Propagating via cuttings</a><br>
 <a class="body" href="/page-index/horticulture-techniques/propagating-by-division">Propagating via division</a><br>
 <a class="body" href="/page-index/horticulture-techniques/propagating-by-seed">Propagating via seeds</a><br>
+	<a class="body" href="/page-index/horticulture-techniques/pruning">Pruning</a>
 <br><br>
 <h4 id="q">Q</h4>
 <br><br>
@@ -140,7 +138,7 @@ description: ""
 <h4 id="s">S</h4>
 	<a class="body" href="/page-index/horticulture-techniques/soil/">Soil</a><br>
 	<a class="body" href="/page-index/horticulture-techniques/soil-amendments/">Soil amendments</a><br>
-	<a class="body" href="/page-index/horticulture-techniques/soil-amendments-2/">Soil amendments (Accordion Ver)</a><br>
+<br>
 <br><br>
 <h4 id="t">T</h4>
 	<br><br>
