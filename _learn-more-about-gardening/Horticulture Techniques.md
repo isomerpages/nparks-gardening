@@ -24,7 +24,7 @@ description: ""
 		display: flex;
 		flex-direction: row;
 		flex-wrap: wrap;
-		column-gap: 35px;
+		column-gap: 38px;
 		overflow: visible;
 	}
 	
