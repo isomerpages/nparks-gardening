@@ -9,7 +9,7 @@ image: ""
 <section>
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/dSfJVuVNB0c?si=n0MWx5ESwqZ2Y0xH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
 	<br>
-<p>Like people, plants need nutrients to grow healthily and quickly. If plants have a lack of nutrients, they may display signs like yellow or red leaves, stunted growth, or blemishes on fruit.</p>
+<p>Like people, plants need nutrients to grow healthily and quickly. If plants have a lack of nutrients, they may display signs like odd leaf colours, stunted growth, or blemishes on fruit.</p>
 </section>
 <br>
 <section>
@@ -43,7 +43,7 @@ image: ""
 	<li><input type="checkbox" id="accordion5">
 		<label for="accordion5">Nitrogen deficiency: Older leaves or all leaves turn pale yellow</label><div>
 <img title="A nitrogen deficient Bang Kwang with pale yellow leaves next to a healthy one. Photo by Jacqueline Chua." src="/images/Plant%20problems/nitrogendeficient_vs_jacquelinechua.jpg">
-<p>Nitrogen deficiencies often show up as plants looking yellowish and leggy despite having enough light, or slow and stunted leaf growth. It can also look like entire leaves turning yellow, with the older leaves at the bottom yellowing first and progressing up the plant to the new leaves at the top. Nitrogen is highly soluble in water, so heavy rains or overwatering may also cause nitrogen deficiencies as the nitrogen is washed away. However, this deficiency is easily remedied by using <a href="/page-index/horticulture-techniques/fertilising/">fertilisers</a> high in nitrogen, or growing legumes nearby as part of <a href="/page-index/horticulture-techniques/companion-planting/">companion planting</a>.</p> 
+<p>Nitrogen deficiencies often show up as plants looking yellowish and leggy despite having enough light, or slow and stunted leaf growth. It can also look like entire leaves turning yellow, with the older leaves at the bottom yellowing first and progressing up the plant to the new leaves at the top. Nitrogen is highly soluble in water, so heavy rains or overwatering may also cause nitrogen deficiencies as the nitrogen is washed away. However, this deficiency is easily remedied by using <a href="/page-index/horticulture-techniques/fertilising/">fertilisers</a> high in nitrogen, or growing legumes in the same plot as part of <a href="/page-index/horticulture-techniques/companion-planting/">companion planting</a>.</p> 
 </div></li>
 	<li><input type="checkbox" id="accordion6">
 		<label for="accordion6">Phosphorus deficiency: Older leaves have red, purple or bronze patches</label><div>
