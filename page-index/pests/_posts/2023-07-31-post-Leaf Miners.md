@@ -28,7 +28,7 @@ image: ""
 
 <section>
 	<h4>Preventive and control measures:</h4>
-	<p><a href="/page-index/horticulture-techniques/pest-control/#mechanical_control">Mechanical control</a> methods like installing netting with a fine mesh and pruning off infected leaves are the most effective methods of control. </p>
+	<p><a href="/page-index/horticulture-techniques/pest-control/#mechanical_control">Mechanical control</a> methods like <a href="/page-index/hardscapes/netting/">installing netting with a fine mesh</a> and pruning off infected leaves are the most effective methods of control. </p>
 		<p>Rotation of crops with other types of plants may help to interrupt the insect lifecycle.</p>
 	<br>
 </section>
