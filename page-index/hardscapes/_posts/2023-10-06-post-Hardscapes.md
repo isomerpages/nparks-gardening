@@ -8,11 +8,10 @@ image: ""
 ---
 <section>
 	<img title="An Edible Garden at HortPark. Photo by Jacqueline Chua." src="/images/Garden%20design/HortPark_JacChua%20(3).jpg">
-	<p>Hardscapes are structures that help keep a garden functional, and are the most important part of <a href="/learn-more-about-gardening/garden-design/">garden design</a> after site selection. Learning about different kinds of hardscapes is important in helping you choose appropriate materials and structure types, and also helps you to budget space for your garden accordingly. 
-	</p>
+	<p>Hardscapes are structures that help keep a garden functional, and are the most important part of <a href="/learn-more-about-gardening/garden-design/">garden design</a> after site selection. Learning about different kinds of hardscapes is important in helping you choose appropriate materials and structure types, and also helps you to budget space for your garden accordingly. </p>
 	<br>
 	</section>
-	<section>
+<section>
 	<h4>Hardscapes for growing plants</h4>
 	    <ul class="jekyllcodex_accordion">
     <li><input id="accordion1" type="checkbox">
@@ -35,7 +34,7 @@ image: ""
     	</ul>
 	<br>
 	</section>
-	<section>
+<section>
 	<h4>Hardscapes for gardeners</h4>
 <ul class="jekyllcodex_accordion">
     <li><input id="accordion4" type="checkbox">
@@ -60,7 +59,4 @@ image: ""
 					    </div></li>
     	</ul>
 	<br>
-	</section>	
-			
-	
-	
+	</section>
