@@ -34,7 +34,7 @@ image: ""
 	<li><input type="checkbox" id="accordion3">
 		<label for="accordion3">Spider Mites</label><div>
 <img title="Spider mites scattered on a leaf. Photo by Victoria Lim" src="/images/Biodiversity/spider%20mites%20-%20solanum%20melongena%202victorialim.jpg">
-		<p><a href="/page-index/pests/spider-mites/">Spider mites</a> are very tiny sucking pests that are usually found on indoor plants or plants that have been affected by <a href="/page-index/plant-problems/wilting/">wilting</a>. They can barely been seen by the naked eye, but they leave distinctive spiderweb-like webbing on affected plants.</p>
+		<p><a href="/page-index/pests/spider-mites/">Spider mites</a> are very tiny sucking pests that are usually found on indoor plants or plants that have been affected by <a href="/page-index/plant-problems/wilting/">wilting</a>. They can barely been seen by the naked eye, but they leave distinctive webbing on affected plants.</p>
 						</div></li>
 	<li><input type="checkbox" id="accordion4">
 		<label for="accordion4">Mealy Bugs</label><div>
