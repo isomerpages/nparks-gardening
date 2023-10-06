@@ -7,7 +7,7 @@ description: ""
 image: ""
 ---
 <header>
-	<h3>Grashoppers, Crickets and Katydids (<em>Orthoptera</em>)</h3>
+	<h3>Grashoppers, Crickets and Katydids (Order Orthoptera)</h3>
 </header>
 
 <section>
