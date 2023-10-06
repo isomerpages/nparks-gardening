@@ -11,12 +11,10 @@ image: ""
 	<p>The best way to help your soil is to:</p>
 	<ul>
 		<li>Regularly add organic matter to the soil in the form of mulch or compost</li>
-		<li>Avoid leaving the soil bare for long periods of time. Heavy rains will wash away organic matter, leaving dense and sticky clay that is difficult for most organisms to live in
-			<ul>
-				<li>Growing groundcovers is a good way to protect your soil</li>
+		<li>Avoid leaving the soil bare for long periods of time. Heavy rains will wash away organic matter, leaving dense and sticky clay that is difficult for most organisms to live in. Grow <a href="/page-index/horticulture-techniques/companion-planting/">groundcovers</a> or practice <a href="/page-index/horticulture-techniques/plant-spacing/">interplanting</a> to protect your soil</li>
 			</ul>
-		</li><li>Avoid using general pesticides which may kill biodiversity as it is washed into the soil</li>
-	</ul>
+		<li>Avoid using general pesticides which may kill biodiversity as it is washed into the soil</li>
+	
 	<p>Some common things you will see in your soil are:</p>
 	<br>
 </section>
@@ -25,9 +23,9 @@ image: ""
 	<h4>Earthworms</h4>
 	<img title="Photo by Jacqueline Chua." src="/images/Biodiversity/Earthworm_JacChua.jpg">
 	<p>Often found in burrowing in true ground soils, earthworms are key to keeping soil porous, fertile and well-mixed with organic matter. Earthworms eat decaying organic matter like leaf litter and dead roots, and their waste product, knows as worm- or vermicast, have nutrients that plants readily absorb. The tunnels they dig also creates drainage and aeration in the soil, with the earthworms creating and dropping vermicast along the way.</p>
-	<p>Earthworms will naturally appear in true ground beds as more plants and organic matter is introduced. Keeping the soil cool with organic mulches, regularly watering your plants and resolving waterlogging will encourage earthworms to settle in your garden.</p>
-	<p>Do note that earthworms used for vermicomposting are different from worms found naturally in true ground. Vermicomposting earthworms are adapted to living in pure compost and may not survive in Singapore’s naturally clayey soil. Likewise, wild earthworms from your garden are unlikely to survive living in your vermicomposting setup!</p>
 	<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/stVtUD6rcWk?si=MAgFIZPDpfFI-p5p" height="415" width="100%"></iframe><br>
+	<p>Earthworms will naturally appear in <a href="/page-index/horticulture-techniques/true-ground/">true ground beds</a> as more plants and organic matter is introduced. Keeping the soil cool with <a href="/page-index/horticulture-techniques/mulching/">organic mulches</a>, regularly <a href="/page-index/horticulture-techniques/watering/">watering</a> your plants, resolving <a href="/page-index/plant-problems/waterlogging/">waterlogging</a> and building a worm tower will encourage earthworms to settle in your garden.</p>
+	<p>Do note that earthworms used for <a href="/page-index/horticulture-techniques/composting/">vermicomposting</a> are different from worms found naturally in true ground. Vermicomposting earthworms are adapted to living in pure compost and may not survive in Singapore’s naturally <a href="page-index/horticulture-techniques/soil/">clayey soil</a>. Likewise, wild earthworms from your garden are unlikely to survive living in your vermicomposting setup!</p>
 	<br>
 </section>
 
