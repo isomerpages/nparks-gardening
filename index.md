@@ -26,7 +26,7 @@ sections:
       image: /images/Landing_page/plantsearch_6oct.png
   - infopic:
       title: Horticulture Techniques
-      subtitle: Improve your gardening skills
+      subtitle: upskilling for gardeners
       id: infopic
       description: Looking to learn new gardening skills?
       button: Click here
