@@ -36,6 +36,9 @@ image: ""
 <section>
 	<h4>Birds</h4>
 	<img title="A white-throated kingfisher. Photo by Jacqueline Chua." src="/images/Biodiversity/whitethroatedkingfisher.jpg">
-	<p>Birds are naturally drawn to green spaces, and are a common sight in most gardens regardless of the type. Some common species like Kingfishers, Oriental Magpie-robins, and Black-Naped Orioles will prey on larger garden pests like grasshoppers, caterpillars, and beetles. Large raptors like owls and eagles will control populations of rodents like rats and squirrels, and are an exciting visitor to any garden!</p>
+	<p>Birds are naturally drawn to green spaces, and are a common sight in most gardens regardless of the type. Some common species like Kingfishers, Oriental Magpie-robins, and Black-Naped Orioles will prey on larger garden pests like <a href="/page-index/pests/grasshoppers-crickets-and-katydids/">grasshoppers</a>, <a href="/page-index/pests/caterpillars/">caterpillars</a>, <a href="/page-index/pests/snails-and-slugs/">snails, and slugs</a>. 
+		<img title="A buffy fish owl. Photo by Jacqueline Chua." src="/images/Biodiversity/buffyfishowl_jacchua.jpg">
+		</p><p>Large raptors like owls and eagles will control populations of <a href="/page-index/pests/pests/">rodents like rats and squirrels</a>, and are an exciting visitor to any garden!</p>
+	<p>Want to learn more about birds and become a citizen scientist? Join the <a href="https://www.nparks.gov.sg/biodiversity/community-in-nature-initiative/nparks-garden-bird-watch">NParks Garden Bird Watch</a>!</p>
 	<br>
 </section>
