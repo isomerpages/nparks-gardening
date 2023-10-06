@@ -64,7 +64,7 @@ image: ""
 
 <section>
 	<h4>Common problems &amp; solutions:</h4>
-		<p><a href="/page-index/pests/aphids/">Aphids</a>, <a href="/page-index/pests/mealy-bugs/">mealy bugs</a>, and <a href="/page-index/pests/spider-mites/">spider mites</a> often infest the plant if it is sickly or overgrown. <a href="/horticulture-techniques/pest-control/">mechanical pest control</a> methods like <a href="/page-index/horticulture-techniques/pruning/">pruning</a> the infested parts, and having good cultural control are the best methods for managing these pests.</p>
+		<p><a href="/page-index/pests/aphids/">Aphids</a>, <a href="/page-index/pests/mealy-bugs/">mealy bugs</a>, and <a href="/page-index/pests/spider-mites/">spider mites</a> often infest the plant if it has <a href="/page-index/plant-problems/wilting/">wilted from heat stress</a> or is overgrown. <a href="/horticulture-techniques/pest-control/">Mechanical pest control</a> methods like <a href="/page-index/horticulture-techniques/pruning/">pruning</a> the infested parts are the best methods for managing these pests.</p>
 	<p>Whiteflies can infest the plant and lay eggs under its leaves. Remove affected plant parts and catch remaining adults with yellow sticky paper or treat them with citrus spray.</p>
 	<p><a href="/page-index/plant-problems/wilting/">Wilting</a> leaves during hot weather is a sign of heat stress. Increase the number of times the plant is watered daily, and apply mulch at the base to prevent water loss.</p>
 	<br>
