@@ -38,11 +38,12 @@ description: ""
 				<li><a href="/page-index/pests/mealy-bugs/">Mealy Bugs</a></li>
 				<li><a href="/page-index/pests/scale-insects/">Scale Insects</a></li>
 				<li><a href="/page-index/pests/spider-mites/">Spider mites</a></li>
+				<li><a href="/page-index/pests/whiteflies/">Whiteflies</a></li>
 			</ul>
 		</div>
 		<div class="box">
 			<h5>Chewing Pests</h5>
-			<img style="display: inline" src="/images/Biodiversity/Caterpillar_LimeCaterpillar_JacChua%20(2).jpg"><br>
+			<img style="display: inline" src="/images/Biodiversity/limecaterpillar_jacchua_3.jpg"><br>
 			<ul>
 				<li><a href="/page-index/pests/caterpillars/">Caterpillars</a></li>
 				<li><a href="/page-index/pests/grasshoppers-crickets-and-katydids/">Grasshoppers, Crickets and Katydids</a></li>
@@ -59,10 +60,10 @@ description: ""
 		</div>
 		<div class="box">
 			<h5>Large Animals</h5>
-			<img style="display: inline" src="/images/Biodiversity/OliveBackedSunbird_VictoriaLim.jpg"><br>
+			<img style="display: inline" src="/images/Biodiversity/squirrel%20at%20hortpark%20(4)victorialim.jpg"><br>
 			<ul>
-				<li>Birds</li>
-				<li>Rodents</li>
+				<li><a href="/page-index/pests/pests/">Birds</a></li>
+				<li><a href="/page-index/pests/pests/">Rodents</a></li>
 			</ul>
 		</div>
 	</div>
