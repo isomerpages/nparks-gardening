@@ -26,13 +26,6 @@ image: ""
 	<p>Read our wasp advisory <a href="https://www.nparks.gov.sg/gardens-parks-and-nature/dos-and-donts/animal-advisories/bees-,-a-,-wasps">here</a>.</p>
 	<br>
 </section>
-
-<section>
-	<h4>Praying mantises</h4>
-	<p>Praying mantises are large ambush predators that have earned their name because of their long, curved forelimbs that make them look like they are praying. They eat a wide variety of insects, including common garden pests like grasshoppers, fruit flies, and beetles.</p>
-	<br>
-</section>
-
 <section>
 	<h4>Dragonflies</h4>
 	<img title="Photo by Jacqueline Chua." src="/images/Biodiversity/Dragonfly_JacChua.jpg">
