@@ -14,7 +14,7 @@ image: ""
 
 <section>
 	<h4>Colours</h4>
-	<img title="Black shade netting erected over an allotment plot. Photo by Jacqueline Chua." src="/images/Hardscapes/shadenetting_jacquelinechua.jpg">
+	<img title="Black shade netting protecting young seedlings from harsh sun. Photo by Jacqueline Chua." src="/images/Horti%20techniques/shadenetting_jacquelinechua.jpg">
 	<p><b>Black shade netting</b> comes in various shade percentages, with higher percentages indicating denser shade. Black shade netting is usually used for growing full shade or partial shade plants in gardens that are full sun, or to make shaded propagation stations. </p> 
 	<img title="White netting covering a DIY raised bed. Photo by Jacqueline Chua." src="/images/Hardscapes/Netting%20(5).jpg">
 	<p><b>White netting</b> will let sunlight through and are usually used to protect plants from pests or heavy rain. Most leafy vegetables like Cai Xin and Lettuce will benefit from being completely netted up, while individual fruits on fruiting shrubs like Brinjals and Tomatoes can also be protected with small bags made from white netting.</p> 
@@ -23,7 +23,7 @@ image: ""
 
 <section>
 	<h4>Mesh Size</h4>
-	<img title="Tomatoes protected from insects in a fine mesh bag. Photo by Jacqueline Chua." src="/images/Hardscapes/Netting_jacChua%20(2).jpg">
+	<img title="A guava protected from insects in a fine mesh bag. Photo by Jacqueline Chua." src="/images/Horti%20techniques/guava_netting_jacquelinechua.jpg">
 	<p><b>Fine mesh</b> will prevent almost all insect pests from reaching your crop. It will also break up large rain droplets into a fine mist.</p>
 	<img title="Bird netting has large holes that only stop medium to large-sized birds. Photo by Jacqueline Chua." src="/images/Hardscapes/PXL_20230704_033501194.jpg">
 	<p><b>Bird netting</b> is large enough for most insects to pass through but will still protect your crop from birds. Netting with large holes like this can also be stretched across poles to make a trellis.</p>
