@@ -100,6 +100,4 @@ image: ""
 		<label for="accordion8">Sulphur soap spray: for sucking pests </label><div>
 	<p><b>Sulphur soap spray</b> is made by dissolving an entire grated bar of sulphur soap in 1L of hot water. The compounds in the soap dissolve the exoskeleton of insects, and is particularly effective against aphids, mealy bugs, spider mites, and scale insects when applied directly as a spray.</p>
 				</div></li>
-		
-	<br>
-</ul></section>
+				</ul></section>
