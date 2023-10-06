@@ -33,3 +33,5 @@ links:
         url: /garden-management/housekeeping
       - title: Garden Group Management
         url: /garden-management/garden-group-management
+  - title: Resource Index
+    resource_room: true
