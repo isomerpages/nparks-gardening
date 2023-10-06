@@ -60,7 +60,7 @@ image: ""
 		</div></li>
 		<li><input type="checkbox" id="accordion8">
 		<label for="accordion8">Calcium deficiency: A small rotten or dry spot at the end of fruits </label><div>
-			<img title="" src="">  
+			<img title="A chilli fruit with blossom end rot. Photo by Jacqueline Chua." src="/images/Plant%20problems/blossomendrot_jacquelinechua.jpg">  
 			<p>Calcium deficiencies can cause problems like blossom end rot for Chillies, Tomatoes and Brinjals. It looks like a small rotten or dried spot at the bottom of the fruit. Singapore soils are very rarely calcium deficient due to their high clay content. The deficiency is usually caused by a lack of water, or inconsistent watering, which prevents the fruit from getting calcium. Water your plants regularly, especially during the dry season, to prevent this.</p> 
 		</div></li>
 		<li><input type="checkbox" id="accordion9">
