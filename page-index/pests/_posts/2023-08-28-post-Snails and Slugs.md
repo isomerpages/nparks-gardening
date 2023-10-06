@@ -7,7 +7,7 @@ description: ""
 image: ""
 ---
 <header>
-	<h3>Snails and Slugs (Stylommatophora)</h3>
+	<h3>Snails and Slugs (Order Stylommatophora)</h3>
 </header>
 
 <section>
@@ -35,6 +35,7 @@ image: ""
 	<p>	Placing <a href="/page-index/hardscapes/netting/">netting</a> or <a href="/page-index/horticulture-techniques/cloches/">cloches</a> over planter beds can protect your plants from large pests in general.</p>
 		<p>Remove slugs and snails by hand and dispose of them.</p>
 	<p>Solarisation of the soil, or leaving soil exposed to the sun for a month or so, is effective in killing snail eggs. </p>
+		<p>Encourage <a href="/page-index/biodiversity/predators/">predators</a> to establish in your garden by keeping it pesticide-free. Birds feed on snails and can keep their population under control.</p> 
 	<p>Avoid using salt to kill the slugs and snails as it can result in high soil salinity, which affects the uptake of nutrients by plants. Use of snail bait is not encouraged as it is not only highly toxic to snails and slugs, but also to humans and pets.</p>
 	<br>
 </section>
