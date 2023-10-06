@@ -4,12 +4,12 @@ title: GardeningSG
 description: The one-stop gardening portal for gardeners in Singapore!
 image: /images/isomer-logo.svg
 permalink: /
-notification: "Wet weather advisory: remove stagnant water to prevent mosquito breeding"
+notification: ""
 sections:
   - hero:
       title: GardeningSG
       subtitle: Let's get growing!
-      background: /images/Landing_page/banner_test2.png
+      background: /images/Landing_page/banner_6oct.png
   - infobar:
       title: New to gardening?
       subtitle: sprouting green fingers
@@ -23,7 +23,7 @@ sections:
       button: Recommend a plant to me
       url: /learn-more-about-gardening/plants
       alt: Image alt text
-      image: /images/Landing_page/updatedplantsearch.png
+      image: /images/Landing_page/plantsearch_6oct.png
   - infopic:
       title: Horticulture Techniques
       subtitle: Improve your gardening skills
@@ -41,7 +41,7 @@ sections:
       button: try out our tools
       url: /digital-tools/
       alt: Image alt text
-      image: /images/Landing_page/updateddigitaltools.png
+      image: /images/Landing_page/plantcalculator_6oct.png
   - infopic:
       title: Plant Problems
       subtitle: Identify, mitigate, prevent
