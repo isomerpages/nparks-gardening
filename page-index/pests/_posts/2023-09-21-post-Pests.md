@@ -22,7 +22,7 @@ image: ""
 	<h4>Sucking pests</h4>
 	<ul class="jekyllcodex_accordion">
 	<li><input type="checkbox" id="accordion1">
-		<label for="accordion1">Aphids: Small, pill-shaped insects</label><div>
+		<label for="accordion1">Aphids</label><div>
 <img title="Yellow aphids clustered along a leaf vein. Photo by Victoria Lim." src="/images/Biodiversity/dancing%20aphids%20on%20calotropis%20(1)victorialim.jpg">
 	<p><a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/pests/aphids/">Aphids</a> are small, sucking pests that are usually found in clusters along stems and leaf veins on both the top and undersides of leaves.</p>
 		</div></li>
