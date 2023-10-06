@@ -56,7 +56,7 @@ image: ""
 	<p>Most chemical controls are applied as a spray. Chemicals can wash off the plant during rain or watering, and are thus best applied during the dry season, or when leaves are dry. Strong chemicals can also burn plants if applied in large amounts if they are left too long on the leaves, or exposed to strong sunlight. A good rule of thumb is to test chemical controls on a small area for up to two days before using it on more plants. Always follow manufacturer instructions while applying pesticides on your plants.</p>
 	<br>
 </section>
-	<section>
+<section>
 	<h4>Chemical control for edible plants</h4>
 	<p>To keep your edible plants <a href="/page-index/horticulture-techniques/harvesting-hygiene/">safe for consumption</a>, it is best to use pesticides made from food-safe materials. Some examples are:</p>
 	<ul class="jekyllcodex_accordion">
