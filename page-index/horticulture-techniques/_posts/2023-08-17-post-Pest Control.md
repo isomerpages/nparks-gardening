@@ -79,7 +79,7 @@ image: ""
 		</ul>
 <br>
 </section>
-	<section>
+<section>
 <h4>Chemical control for ornamental plants</h4>
 	<p>For non-edible plants, you can use a wider range of materials around the house or purchased from plant nurseries:</p> 
 			<ul class="jekyllcodex_accordion">
