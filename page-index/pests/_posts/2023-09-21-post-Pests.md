@@ -60,7 +60,7 @@ image: ""
 	<li><input type="checkbox" id="accordion7">
 		<label for="accordion7">Snails and slugs</label><div>
 <img title="Snail on a pot. Photo by Zara Chin." src="/images/Biodiversity/snail%20on%20pot_zarachin.jpg">													
-<p><a href="/page-index/pests/grasshoppers-crickets-and-katydids/"></a><a href="/page-index/pests/snails-and-slugs/">Snails and slugs</a> are nocturnal pests that will use their rough tongues to rasp leaves and young shoots of plants, and are capable of eating whole seedlings overnight. Leaves attacked by snails and slugs will have patchy holes, with the leaves closest to the ground eaten first.</p>
+<p><a href="/page-index/pests/grasshoppers-crickets-and-katydids/"></a><a href="/page-index/pests/snails-and-slugs/">Snails and slugs</a> are nocturnal pests that will use their rough tongues to rasp leaves and young shoots of plants, and are capable of eating whole seedlings overnight. Leaves attacked by snails and slugs will have patchy holes, with the leaves closest to the ground eaten first. They are usually the most active during the rainy season.</p>
 </div></li></ul>
 <br>
 </section>
