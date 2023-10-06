@@ -34,27 +34,56 @@ image: ""
 	<li><input type="checkbox" id="accordion3">
 		<label for="accordion3">Spider Mites</label><div>
 <img title="Spider mites scattered on a leaf. Photo by Victoria Lim" src="/images/Biodiversity/spider%20mites%20-%20solanum%20melongena%202victorialim.jpg">
-		<p></p>
-	<p>These insects attack plants that have been weakened by other problems like a lack of light, over or underwatering, or root rot. So while it is important to manage their presence on the plant, it is also important to figure why the plant was unhealthy in the first place as well. </p>
-	<p>All soft bodied pests can be managed by pruning off the affected plant parts, and using horticultural oils like neem oil to remove the remaining pests. </p>
-	<br>
-</div></li></ul></section>
+		<p><a href="/page-index/pests/spider-mites/">Spider mites</a> are very tiny sucking pests that are usually found on indoor plants or plants that have been affected by <a href="/page-index/plant-problems/wilting/">wilting</a>. They can barely been seen by the naked eye, but they leave distinctive spiderweb-like webbing on affected plants.</p>
+						</div></li>
+	<li><input type="checkbox" id="accordion4">
+		<label for="accordion4">Mealy Bugs</label><div>
+<img title="Mealy bugs clustered on a stem. Photo by Jacqueline Chua." src="/images/Biodiversity/Mealybugs_JacChua.jpg">
+		<p><a href="/page-index/pests/mealy-bugs/">Mealy bugs</a> are soft sucking insects that have a cottony white covering, and can be found in clusters around stems and leaf veins on both the top and undersides of leaves.</p>
+</div></li></ul>
+<br>
+</section>
 
 <section>
 	<h4>Large chewing pests</h4>
-	<img title="Lime caterpillar on a chewed leaf. Photo by Jac Chua" src="/images/Biodiversity/Caterpillar_LimeCaterpillar_JacChua%20(1).jpg">
-	<p>Caterpillars, grasshoppers, snails and slugs are large pests that use chewing or rasping mouthparts to eat plants. These large pests can be managed with manual removal, or by installing netting around vulnerable plants. </p>
-	<br>
+	<ul class="jekyllcodex_accordion">
+	<li><input type="checkbox" id="accordion5">
+		<label for="accordion5">Caterpillars</label><div>
+	<img title="Lime caterpillar on a chewed leaf. Photo by Jacqueline Chua" src="/images/Biodiversity/Caterpillar_LimeCaterpillar_JacChua%20(1).jpg">
+		<p><a href="/page-index/pests/caterpillars/">Caterpillars</a> are the larvae of butterflies and moths, and they rapidly eat a variety of edible and ornamental plants. Leaves can be completely eaten, or have only the veins left behind. They can generally be found near the leaves they have eaten, hidden in rolled leaves or at the base of leaves.</p>
+						</div></li>
+	<li><input type="checkbox" id="accordion6">
+		<label for="accordion6">Grasshoppers, Crickets and Katydids</label><div>
+<img title="Grasshopper on Kalanchoe flowers. Photo by Jacqueline Chua." src="/images/Biodiversity/Grasshopper_JacChua.jpg">		
+<p><a href="/page-index/pests/grasshoppers-crickets-and-katydids/">Grasshoppers, Crickets and Katydids</a></p><a href="/page-index/pests/grasshoppers-crickets-and-katydids/"> will rapidly eat leaves and then fly or hop away! You can usually catch them in the act in the morning or the evening. Leaves chewed by these insects will have waxy bite marks with smooth margins.<p></p>
+			</a></div></li><a href="/page-index/pests/grasshoppers-crickets-and-katydids/">
+	</a><li><a href="/page-index/pests/grasshoppers-crickets-and-katydids/"><input type="checkbox" id="accordion7">
+		<label for="accordion7">Snails and slugs</label></a><div><a href="/page-index/pests/grasshoppers-crickets-and-katydids/">
+<img title="Snail on a pot. Photo by Zara Chin." src="/images/Biodiversity/snail%20on%20pot_zarachin.jpg">													
+</a><p><a href="/page-index/pests/grasshoppers-crickets-and-katydids/"></a><a href="/page-index/pests/snails-and-slugs/">Snails and slugs</a> are nocturnal pests that will use their rough tongues to rasp leaves and young shoots of plants, and are capable of eating whole seedlings overnight. Leaves attacked by snails and slugs will have patchy holes, with the leaves closest to the ground eaten first.</p>
+</div></li></ul>
+<br>
 </section>
 
 <section>
 	<h4>"Burrowing" pests</h4>
-	<img title="Leafy vegetable affected by Leaf Miners. Photo by Jac Chua" src="/images/Biodiversity/LeafMiner_JacChua.jpg">
-	<p>Some pests can be found inside plants! Leaf miners and fruit flies will lay their eggs in leaves and fruits respectively, and the hatched larvae will eat these plant parts from the inside. Certain species of beetles can also bore their way into stems of various plants. The only way to manage these pests is to prevent the adults from laying eggs in leaves or fruit by protecting your crops with netting, or by immediately removing infected plant parts.</p>
-	<br>
-</section>
+	<ul class="jekyllcodex_accordion">
+		<li><input type="checkbox" id="accordion8">
+		<label for="accordion8">Leaf miners</label><div>
+		<img title="A Kai Lan leaf riddled with leaf miner trails. Photo by Jacqueline Chua." src="/images/Biodiversity/LeafMiner_JacChua.jpg">
+			<p><a href="/page-index/pests/leaf-miner/">Leaf miners</a> are the larvae of small grey flies. They eat their way inside leaves, leaving long trails in their wake. </p>
+						</div></li>
+	<li><input type="checkbox" id="accordion9">
+		<label for="accordion9">Oriental Fruit flies</label><div>
+		<img title="A passionfruit that has been affected by fruit flies, with a large swelling at the point of attack. Photo by Jacqueline Chua." src="/images/Biodiversity/fruitflydamage_jacquelinechua.jpg">
+		<p><a href="/page-index/pests/oriental-fruit-flies/">Oriental fruit flies</a> are rarely seen by gardeners, and sometimes get mistaken as bees or wasps because they are also black and yellow! However, they will leave tell-take swellings and distortions on fruit when they lay their eggs.</p>
+	</div></li></ul>
+<br>
+</section>	
+
 
 <section>
 	<h4>Large animals</h4>
-	<p>Some birds and rodents can also be considered pests, especially when they go for fruits and freshly planted seeds. Netting up ripening fruit and germinating vulnerable seedlings in protected areas are the most straightforward method to manage these animals. Reducing the availability of their food sources, like exposed garbage or large fruit peels in compost, will also discourage them from foraging in your garden.</p>
+	<img title="A plantain squirrel feeds on fruit. Photo by Victoria Lim." src="/images/Biodiversity/squirrel%20at%20hortpark%20(4)victorialim.jpg">
+	<p>Some birds and rodents can also be considered pests, especially when they go for fruits and freshly planted seeds. Birds and squirrels can usually be seen in the morning, while other rodents will emerge at night. <a href="/page-index/hardscapes/netting/">Netting</a> up ripening fruit and germinating vulnerable seedlings in protected areas are the most straightforward method to manage these animals. Reducing the availability of their food sources, like exposed garbage or large fruit peels in compost, will also discourage them from foraging in your garden.</p>
 </section>
