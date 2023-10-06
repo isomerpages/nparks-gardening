@@ -55,15 +55,52 @@ image: ""
 	<h4 id="chemical_control">Chemical control</h4>
 	<p>Any chemical substance that is meant to kill or repel plant pests is a pesticide. It can be made synthetically or from natural sources, usually other plants. When used in excess, pesticides can become harmful to the environment and garden biodiversity. Pesticides take time to wash away or wear off and can be harmful to humans upon consumption if it is applied too close to harvest. Because pesticides can have such extreme effects, chemical control should be only used as a last resort.</p>
 	<p>Most chemical controls are applied as a spray. Chemicals can wash off the plant during rain or watering, and are thus best applied during the dry season, or when leaves are dry. Strong chemicals can also burn plants if applied in large amounts if they are left too long on the leaves, or exposed to strong sunlight. A good rule of thumb is to test chemical controls on a small area for up to two days before using it on more plants. Always follow manufacturer instructions while applying pesticides on your plants.</p>
-	<p>Some common chemical controls made from natural sources are:</p>
-	<p><b>Chrysanthemum sprays</b>, which can be made by boiling 100g of dried chrysanthemum flowers in 4L of water for 20 minutes, allowing it to steep overnight, and then sieved for use. The spray will degrade and lose its effectiveness within a week. This spray can be used to kill most insects, and unfortunately also affects beneficial insects like bees and ladybirds. Spray the solution directly onto target pests and use in moderation.</p>
-	<p><b>Dilute milk sprays</b>, which can be made by mixing 1 part milk to 10 parts water. Proteins and enzymes in milk can be used as a fungicide, and is used to treat black sooty mould, rust and powdery mildew. Spray the dilute milk onto affected plant parts to kill the fungus or mould.</p>
-	<p><b>Garlic, onion and chilli spray</b> is made from chopping up two chillies, two onions, and two bulbs of garlic, then steeping them in 1L of water for at least 24 hours. The solution can then be sieved and kept for a maximum of two weeks, after which it loses its effect. Compounds in garlic, onions and chillies will repel thrips, rodents, and caterpillars. This solution can be used as a preventative spray in moderation.</p>
-	<p><b>Horticultural oils</b>, which includes white summer oil, neem oil, and superior oil, are oils made from plants or minerals. For example, neem oil is processed from the seeds of the neem tree. They are generally sprayed directly on soft-bodied pests like aphids, spider mites, mealy bugs, scale insects and whitefly to suffocate the adults, larvae and eggs. Take note that horticultural oils can be an irritant, and gardeners should use gloves when applying the oil as a spray. Horticultural oils can also suffocate aquatic life and should not be used near ponds or water bodies.</p>
-	<p>Some common chemical controls made from synthetic materials are:</p>
-	<p><b>Baking soda spray</b>, which is made from mixing half a teaspoon of baking powder with 500ml of water. This spray will increase the pH of whatever it touches, making it an effective tool to remove fungal diseases like powdery mildew. Take care to use this in moderation, as large amounts seeping into the soil may kill the plant.</p>
-	<p><b>Hydrogen peroxide</b>, which is a common disinfectant that can be bought in pharmacies. 100ml of 3% hydrogen peroxide can be mixed with 400ml of water to make a drench that kills soil mealy bugs. Wash affected roots in the solution for maximum effect.</p>
-	<p><b>Rubbing alcohol</b> is a common disinfectant that can be bought in pharmacies. It can be directly applied on scale insects and mealy bugs to dissolve their waxy outer coating and dehydrate the vulnerable soft body underneath. This is best applied with cotton swabs or pads to reach as many nooks and crannies as possible.</p>
-	<p><b>Sulphur soap spray</b> is made by dissolving an entire grated bar of sulphur soap in 1L of hot water. The compounds in the soap dissolve the exoskeleton of insects, and is particularly effective against aphids, mealy bugs, spider mites, and scale insects when applied directly as a spray.</p>
+	</section>
 	<br>
-</section>
+	
+	<h4>Chemical control for edible plants</h4>
+	<p>To keep your edible plants <a href="/page-index/horticulture-techniques/harvesting-hygiene/">safe for consumption</a>, it is best to use pesticides made from food-safe materials. Some examples are:</p>
+	<ul class="jekyllcodex_accordion">
+	<li><input type="checkbox" id="accordion1">
+		<label for="accordion1">Baking soda spray: for fungi, powdery mildew, and sooty mould </label><div>
+		<p><b>Baking soda spray</b>, which is made from mixing half a teaspoon of baking powder with 500ml of water. This spray will increase the pH of whatever it touches, making it an effective tool to remove fungal diseases like powdery mildew. Take care to use this in moderation, as large amounts seeping into the soil may kill the plant.</p>
+		</div></li>
+	<li><input type="checkbox" id="accordion2">
+		<label for="accordion2">Chrysanthemum spray: for most insects, including soft-bodied sucking pests and chewing pests</label><div>
+	<p><b>Chrysanthemum sprays</b>, which can be made by boiling 100g of dried chrysanthemum flowers in 4L of water for 20 minutes, allowed it to steep overnight, and then sieved for use. The spray will degrade and lose its effectiveness within a week. This spray can be used to kill most insects, and unfortunately also affects beneficial insects like bees and ladybirds. Spray the solution directly onto target pests and use in moderation.</p>
+		</div></li>
+	<li><input type="checkbox" id="accordion3">
+		<label for="accordion3">Dilute milk sprays: for fungi, powdery mildew, and sooty mould</label><div>
+	<p><b>Dilute milk sprays</b>, which can be made by mixing 1 part milk to 10 parts water. Proteins and enzymes in milk can be used as a fungicide, and is used to treat black sooty mould, rust and powdery mildew. Spray the dilute milk onto affected plant parts to kill the fungus or mould.</p>
+		</div></li>
+	<li><input type="checkbox" id="accordion4">
+		<label for="accordion4">Garlic, onion and chilli spray: for most large insects and rodents</label><div>
+	<p><b>Garlic, onion and chilli spray</b> is made from chopping up two chillies, two onions, and two bulbs of garlic, then steeping them in 1L of water for at least 24 hours. The solution can then be sieved and kept for a maximum of two weeks, after which it loses its effect. Compounds in garlic, onions and chillies will repel thrips, rodents, and caterpillars. This solution can be used as a preventative spray in moderation.</p>
+		</div></li>
+		
+</ul>
+
+<br>
+
+<h4>Chemical control for ornamental plants</h4>
+	<p>For non-edible plants, you can use a wider range of materials around the house or purchased from plant nurseries:</p> 
+			<ul class="jekyllcodex_accordion">
+	<li><input type="checkbox" id="accordion5">
+		<label for="accordion5">Horticultural oils: for soft-bodied sucking insects</label><div>
+	<p><b>Horticultural oils</b>, which includes white summer oil, neem oil, and superior oil, are oils made from plants or minerals. For example, neem oil is processed from the seeds of the neem tree. They are generally sprayed directly on soft-bodied pests like aphids, spider mites, mealy bugs, scale insects and whitefly to suffocate the adults, larvae and eggs. Take note that horticultural oils can be an irritant, and gardeners should use gloves when applying the oil as a spray. Horticultural oils can also suffocate aquatic life and should not be used near ponds or water bodies.</p>
+			</div></li>
+	<li><input type="checkbox" id="accordion6">
+		<label for="accordion6">Hydrogen peroxide: for soil mealybugs</label><div>
+	<p><b>Hydrogen peroxide</b>, which is a common disinfectant that can be bought in pharmacies. 100ml of 3% hydrogen peroxide can be mixed with 400ml of water to make a drench that kills soil mealy bugs. Wash affected roots in the solution for maximum effect.</p>
+					</div></li>
+	<li><input type="checkbox" id="accordion7">
+		<label for="accordion7">Rubbing Alcohol: for scale insects and mealy bugs</label><div>
+	<p><b>Rubbing alcohol</b> is a common disinfectant that can be bought in pharmacies. It can be directly applied on scale insects and mealy bugs to dissolve their waxy outer coating and dehydrate the vulnerable soft body underneath. This is best applied with cotton swabs or pads to reach as many nooks and crannies as possible.</p>
+					</div></li>
+	<li><input type="checkbox" id="accordion8">
+		<label for="accordion8">Sulphur soap spray: for sucking pests </label><div>
+	<p><b>Sulphur soap spray</b> is made by dissolving an entire grated bar of sulphur soap in 1L of hot water. The compounds in the soap dissolve the exoskeleton of insects, and is particularly effective against aphids, mealy bugs, spider mites, and scale insects when applied directly as a spray.</p>
+				</div></li>
+		
+	<br>
+</ul>
