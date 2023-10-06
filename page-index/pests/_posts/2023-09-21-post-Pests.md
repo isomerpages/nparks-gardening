@@ -84,6 +84,14 @@ image: ""
 
 <section>
 	<h4>Large animals</h4>
+	<ul class="jekyllcodex_accordion">
+		<li><input type="checkbox" id="accordion10">
+		<label for="accordion10">Birds</label><div>
+		<img title="A male Pink-necked green pigeon. Photo by Jacqueline Chua." src="/images/Biodiversity/bird_pinkneckgreenpigeon_jacchua.jpg">
+			<p>Some birds may eat fruits, grains, and seedlings from your garden, and can do substantial damage if they are in a large flock. Birds are usually seen feeding in the morning. Use <a href="/page-index/hardscapes/netting/">netting</a> to prevent them from eating your crops.</p>
+</div></li>
+	<li><input type="checkbox" id="accordion11">
+		<label for="accordion11">Rodents</label><div>			
 	<img title="A plantain squirrel feeds on fruit. Photo by Victoria Lim." src="/images/Biodiversity/squirrel%20at%20hortpark%20(4)victorialim.jpg">
-	<p>Some birds and rodents can also be considered pests, especially when they go for fruits and freshly planted seeds. Birds and squirrels can usually be seen in the morning, while other rodents will emerge at night. <a href="/page-index/hardscapes/netting/">Netting</a> up ripening fruit and germinating vulnerable seedlings in protected areas are the most straightforward method to manage these animals. Reducing the availability of their food sources, like exposed garbage or large fruit peels in compost, will also discourage them from foraging in your garden.</p>
-</section>
+	<p>Most rodents will emerge at night, with the exception of squirrels, which forage during the day. <a href="/page-index/hardscapes/netting/">Netting</a> up ripening fruit and germinating vulnerable seedlings in protected areas are the most straightforward method to manage these animals. Reducing the availability of their food sources, like exposed garbage or large fruit peels in compost, will also discourage them from visiting your garden.</p>
+</div></li></ul></section>
