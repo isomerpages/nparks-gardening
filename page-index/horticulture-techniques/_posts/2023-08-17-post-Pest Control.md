@@ -54,8 +54,8 @@ image: ""
 	<h4 id="chemical_control">Chemical control</h4>
 	<p>Any chemical substance that is meant to kill or repel plant pests is a pesticide. It can be made synthetically or from natural sources, usually other plants. When used in excess, pesticides can become harmful to the environment and garden biodiversity. Pesticides take time to wash away or wear off and can be harmful to humans upon consumption if it is applied too close to harvest. Because pesticides can have such extreme effects, chemical control should be only used as a last resort.</p>
 	<p>Most chemical controls are applied as a spray. Chemicals can wash off the plant during rain or watering, and are thus best applied during the dry season, or when leaves are dry. Strong chemicals can also burn plants if applied in large amounts if they are left too long on the leaves, or exposed to strong sunlight. A good rule of thumb is to test chemical controls on a small area for up to two days before using it on more plants. Always follow manufacturer instructions while applying pesticides on your plants.</p>
-	</section>
 	<br>
+</section>
 	<section>
 	<h4>Chemical control for edible plants</h4>
 	<p>To keep your edible plants <a href="/page-index/horticulture-techniques/harvesting-hygiene/">safe for consumption</a>, it is best to use pesticides made from food-safe materials. Some examples are:</p>
