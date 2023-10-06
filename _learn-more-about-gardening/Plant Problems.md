@@ -74,10 +74,11 @@ description: ""
 </header>
 
 <section>
-	<p> Apart from pests, your plants may be suffering from other problems that might cause them to look sickly. Here are some for you to explore.</p>
+	<p> Apart from pests, your plants may be suffering from other problems that might cause them to look sickly. Here are some for you to explore:</p>
 	<ul>
 				<li><a href="/page-index/plant-problems/etiolation/">Etiolation</a></li>
-				<li><a href="/page-index/plant-problems/root-bound/">Root-bound</a></li>
+		<li><a href="/page-index/plant-problems/nutrient-deficiencies/">Nutrient deficiency</a>
+				</li><li><a href="/page-index/plant-problems/root-bound/">Root-bound</a></li>
 		<li><a href="/page-index/plant-problems/root-rot/">Root Rot</a></li>
 		<li><a href="/page-index/plant-problems/waterlogging/">Waterlogging</a></li>
 				<li><a href="/page-index/plant-problems/wilting/">Wilting</a></li>
