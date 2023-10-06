@@ -49,8 +49,7 @@ description: ""
 		<li><input type="checkbox" id="accordion5">
 		<label for="accordion5">5. Sketch your garden design and measure out major hardscapes</label><div>
 			<ul>
-				<li><a href="/page-index/hardscapes/hardscapes/">Hardscapes</a>  are structures that help keep a garden functional. Learning about different kinds of hardscapes is important in helping you choose appropriate materials and structure types, and also helps you to budget space for your garden accordingly.
-				</li><li>The most important parts of a garden are the planting areas, either in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a> or <a href="/page-index/hardscapes/planter-beds/">planter beds</a>.
+				<li><a href="/page-index/hardscapes/hardscapes/">Hardscapes</a>  are structures that help keep a garden functional. Learning about different kinds of hardscapes is important in helping you choose appropriate materials and structure types, and also helps you to budget space for your garden accordingly.</li><li>The most important parts of a garden are the planting areas, either in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a> or <a href="/page-index/hardscapes/planter-beds/">planter beds</a>.
 				<ul>
 					<li>Planting areas should be no wider than 2m across to ensure easy access by the gardeners.</li>
 					<li>Planting areas should be placed where there is the most sun in the garden. </li>
