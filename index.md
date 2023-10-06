@@ -34,15 +34,6 @@ sections:
       alt: Image alt text
       image: /images/Landing_page/updatedhorttechniques.png
   - infopic:
-      title: Digital tools for starting your garden
-      subtitle: the future is now
-      description: Unsure how much soil you need or when to start sowing your seeds
-        for a harvest?
-      button: try out our tools
-      url: /digital-tools/
-      alt: Image alt text
-      image: /images/Landing_page/plantcalculator_6oct.png
-  - infopic:
       title: Plant Problems
       subtitle: Identify, mitigate, prevent
       id: infopic
@@ -51,4 +42,13 @@ sections:
       alt: Image alt text
       url: learn-more-about-gardening/plant-problems/
       image: /images/Landing_page/updatedplantproblems.png
+  - infopic:
+      title: Digital tools for starting your garden
+      subtitle: the future is now
+      description: Unsure how much soil you need or when to start sowing your seeds
+        for a harvest?
+      button: try out our tools
+      url: /digital-tools/
+      alt: Image alt text
+      image: /images/Landing_page/plantcalculator_6oct.png
 ---
