@@ -76,11 +76,10 @@ image: ""
 		<label for="accordion4">Garlic, onion and chilli spray: for most large insects and rodents</label><div>
 	<p><b>Garlic, onion and chilli spray</b> is made from chopping up two chillies, two onions, and two bulbs of garlic, then steeping them in 1L of water for at least 24 hours. The solution can then be sieved and kept for a maximum of two weeks, after which it loses its effect. Compounds in garlic, onions and chillies will repel thrips, rodents, and caterpillars. This solution can be used as a preventative spray in moderation.</p>
 		</div></li>
-		
-</ul>
-
+		</ul>
 <br>
-
+</section>
+	<section>
 <h4>Chemical control for ornamental plants</h4>
 	<p>For non-edible plants, you can use a wider range of materials around the house or purchased from plant nurseries:</p> 
 			<ul class="jekyllcodex_accordion">
