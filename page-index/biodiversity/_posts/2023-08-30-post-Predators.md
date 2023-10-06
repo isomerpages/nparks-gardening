@@ -14,7 +14,7 @@ image: ""
 <section>
 	<h4>Ladybirds</h4>
 	<img title="Photo by Victoria Lim." src="/images/Biodiversity/ladybird%20on%20solanum%20-%20ppn%203victorialim.jpg">
-	<p>Ladybirds are small, round beetles from the order Coccinellidae and are an effective predator of aphids, mealy bugs and scale insects. Both the adults and larvae can eat large numbers of these pests, and are often found on severely infested plants. Ladybirds in Singapore are not only black and red, but can also be orange or yellow with black spots and blotches, or even fully black! </p>
+	<p>Ladybirds are small, round beetles from the order Coccinellidae and are an effective predator of <a href="/page-index/pests/aphids/">Aphids</a>, <a href="/page-index/pests/mealy-bugs/">Mealy Bugs</a>, <a href="/page-index/pests/scale-insects/">Scale Insects</a>, and <a href="/page-index/pests/whiteflies/">Whiteflies</a>. Both the adults and larvae can eat large numbers of these pests, and are often found on severely infested plants. Ladybirds in Singapore are not only black and red, but can also be orange or yellow with black spots and blotches, or even fully black! </p>
 	<br>
 </section>
 
