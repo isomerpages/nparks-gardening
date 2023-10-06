@@ -45,7 +45,7 @@ description: ""
 <div class="wrapper">
   <div class="box">
 		<h4>Edible Plants</h4>
-	     <img style="height:150px; width:200px; display: inline" src=""><br>
+	     <img style="height:150px; width:200px; display: inline" src="/images/Graphics/edibleplant_6oct.png"><br>
 				<br>
 		<a class="button-primary" href="/page-index/glossary/edible-plants/">Search now!</a>
 	</div>
@@ -73,4 +73,3 @@ description: ""
 <a href="/digital-tools/plant-search/" class="plantsearch">
 		Click here to use our plant search if you have no clue what is suitable for your garden!
 	</a>
-	
