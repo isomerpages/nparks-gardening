@@ -20,16 +20,16 @@ image: ""
 	<p>Kang Kong is an iconic staple in a variety of Southeast Asian cuisines, and a common sight in local edible gardens around the region. It is a <a href="/learn-more-about-gardening/glossary/#p">perennial</a> crop that grows as a vine, making it a useful permanent addition to any edible garden. Young leaves and stems are eaten raw, stir fried or blanched.</p>
   <p>This fast-growing perennial crop can be used as an edible groundcover or a <a href="/page-index/horticulture-techniques/companion-planting/">green mulch</a> to suppress weeds and protect soil from the sun and rain.</p>
   <p>Because the stem of this plant is hollow, it can float on water and can be found growing naturally along the banks of water bodies like rivers and ponds, forming a thick mat of vegetation.</p>
-  <p>This vine is from the Ipomoea or Morning Glory family, and in the same genus as Sweet Potato.</p>
+  <p>This vine is from the Ipomoea or Morning Glory family, and in the same genus as <a href="/page-index/edible-plants/sweet-potato/">Sweet Potato</a>.</p>
   <br>
 </section>
 
 <section>
   <h4>Environmental needs:</h4>
-	<img src="/images/Hardscapes/P3190049.jpg" title="Kang kong (right) growing alongside Chinese Mustard (Left). Photo by Jacqueline Chua">
+	<img title="Kang Kong grown in pots. Photo by Jacqueline Chua." src="/images/Plants/kangkong_jacquelinechua.jpg">
 	<p>This hardy vine thrives in full sun gardens and can grows best with <a href="/page-index/horticulture-techniques/gauging-light/">4-8 hours of direct sunlight</a>. It can also grow in more than 6 hours of indirect sunlight, but at a slower pace.</p>
-	<p>Plants do best in <a href="/page-index/horticulture-techniques/soil/">loamy soil</a> at least 10cm deep, making them suitable for container gardening. This plant is highly tolerant of waterlogged soils and can be used in gardens that are watered frequently, in waterlogged gardens that are prone to flooding, in areas exposed to large amounts of rain, and in ponds. </p> 
-	<p>As a fast-growing vine, this plant is traditionally left to sprawl on large patches of soil, but it can be also grown up a trellis. Regular pruning will encourage additional growth and improve air circulation.</p>
+	<p>Plants do best in <a href="/page-index/horticulture-techniques/soil/">loamy soil</a> at least 10cm deep, making them suitable for <a href="/page-index/horticulture-techniques/planting-in-containers/">container gardening</a>. This plant is highly tolerant of <a href="/page-index/horticulture-techniques/soil/">clayey</a> and<a href="/page-index/plant-problems/waterlogging/">waterlogged soils</a> and can be used in gardens that are watered frequently, in waterlogged gardens that are prone to flooding, in areas exposed to large amounts of rain, and in ponds. </p> 
+	<p>As a fast-growing vine, this plant is traditionally left to sprawl on large patches of soil, but it can be also grown up a <a href="/page-index/hardscapes/trellises/">trellis</a>. Regular <a href="/page-index/horticulture-techniques/pruning/">pruning</a> will encourage additional growth and improve air circulation.</p>
 	<br>
 </section>
 
@@ -44,7 +44,7 @@ image: ""
 	
 <section>
   <h4>Growing:</h4>
-	<p>Kang Kong grows rapidly when fed with high nitrogen fertilisers. Plants can be fertilised regularly two weeks after germination for a fuller crop.</p>
+	<p>Kang Kong grows rapidly when fed with <a href="/page-index/horticulture-techniques/fertilising/">high nitrogen fertilisers</a>. Plants can be fertilised regularly two weeks after germination for a fuller crop.</p>
 	<p>Because the vines will grow on top of each other, it is a good practice to <a href="/page-index/horticulture-techniques/pruning/">prune regularly</a> to improve ventilation and allow light to reach more of the plant. </p>
 	<p>This vine grows large very rapidly and can climb up to 3m if a tall enough surface is available. Prune it back to manageable heights and densities to make harvesting and maintenance easier.</p>
 	<br>
@@ -94,6 +94,6 @@ image: ""
 <section>
   <h4>Common problems &amp; solutions:</h4>
 	<p>This plant is relatively resistant to pests and disease if kept healthy.</p>
-	<p>Etiolation is characterised by plants growing long and skinny, with weak stems and small leaves. The plants may also sometimes look yellowish. Plants etiolate when they do not get enough sunlight, which results in slow growth and untidy forms. To prevent this, grow plants in environments with enough light for them and make sure that each plant has enough space to prevent overcrowding.</p>
+	<p><a href="/page-index/plant-problems/etiolation/">Etiolation</a> is characterised by plants growing long and skinny, with weak stems and small leaves. The plants may also sometimes look yellowish. Plants etiolate when they do not get enough sunlight, which results in slow growth and untidy forms. To prevent this, grow plants in environments with enough light for them and make sure that each plant has enough space to prevent overcrowding.</p>
 	<br>
 </section>
