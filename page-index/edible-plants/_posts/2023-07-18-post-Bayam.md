@@ -19,14 +19,14 @@ image: ""
 	<img title="Photo by Jacqueline Chua." src="/images/Horti%20techniques/Spacing_Jacchua%20(15).jpg">
 	<p>A popular leafy vegetable in Malaysia and Indonesia, Bayam is a hardy leafy vegetable that can be grown in small, tight clusters of multiple plants around 10-20cm tall or as a large, erect plant up to 1.5m tall if given enough space. It has varieties that come in red, green or both, and is commonly eaten raw, steamed, or stir-fried.</p>
 	<p>An <a href="/learn-more-about-gardening/glossary/#a">annual</a> crop, this plant is often grown and consumed under 4 months. Its rapid harvest cycle makes it useful for crop rotation.</p>
-  <p>Due to its shallow root system, these plants are a popular choice for container gardening and corridor gardening.</p>
+  <p>Due to its shallow root system, these plants are a popular choice for <a href="/page-index/horticulture-techniques/planting-in-containers/">container gardening</a> and <a href="/page-index/housekeeping/good-corridor-gardening-practices/">corridor gardening</a>.</p>
 	<br>
 </section>
 
 <section>
 	<h4>Environmental needs:</h4>
 		<img title="Green bayam. Photo by Jacqueline Chua." src="/images/Plants/bayam3_jacquelinechua.jpg">
-		<p>This leafy vegetable thrives in <a href="/page-index/horticulture-techniques/gauging-light/">4-8 hours of direct sunlight, or more than 6 hours of indirect sunlight</a>. Plants do best in <a href="/page-index/horticulture-techniques/soil/">loamy soil</a> at least 10cm deep, making them suitable for container gardening. However, if planted in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a> and left with a lot of space, the plant can grow up to 1.5m high with a thick stem. These plants are vulnerable to <a href="/page-index/plant-problems/root-rot/">root rot</a>, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe. This plant is relatively drought tolerant and can withstand some neglect.</p>
+		<p>This leafy vegetable thrives in <a href="/page-index/horticulture-techniques/gauging-light/">4-8 hours of direct sunlight, or more than 6 hours of indirect sunlight</a>. Plants do best in <a href="/page-index/horticulture-techniques/soil/">loamy soil</a> at least 10cm deep, making them suitable for <a href="/page-index/horticulture-techniques/planting-in-containers/">container gardening</a>. However, if planted in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a> and left with a lot of space, the plant can grow up to 1.5m high with a thick stem. These plants are vulnerable to <a href="/page-index/plant-problems/root-rot/">root rot</a>, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe. This plant is relatively drought tolerant and can withstand some neglect.</p>
 	<br>
 </section>
 
