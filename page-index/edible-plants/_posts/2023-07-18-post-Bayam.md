@@ -25,7 +25,7 @@ image: ""
 
 <section>
 	<h4>Environmental needs:</h4>
-		<img title="Photo by Flora and Fauna Web." src="/images/Plants/bayam_ffw.jpeg">
+		<img title="Green bayam. Photo by Jacqueline Chua." src="/images/Plants/bayam3_jacquelinechua.jpg">
 		<p>This leafy vegetable thrives in <a href="/page-index/horticulture-techniques/gauging-light/">4-8 hours of direct sunlight, or more than 6 hours of indirect sunlight</a>. Plants do best in <a href="/page-index/horticulture-techniques/soil/">loamy soil</a> at least 10cm deep, making them suitable for container gardening. However, if planted in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a> and left with a lot of space, the plant can grow up to 1.5m high with a thick stem. These plants are vulnerable to <a href="/page-index/plant-problems/root-rot/">root rot</a>, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe. This plant is relatively drought tolerant and can withstand some neglect.</p>
 	<br>
 </section>
