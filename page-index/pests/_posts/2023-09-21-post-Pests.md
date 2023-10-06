@@ -55,12 +55,12 @@ image: ""
 	<li><input type="checkbox" id="accordion6">
 		<label for="accordion6">Grasshoppers, Crickets and Katydids</label><div>
 <img title="Grasshopper on Kalanchoe flowers. Photo by Jacqueline Chua." src="/images/Biodiversity/Grasshopper_JacChua.jpg">		
-<p><a href="/page-index/pests/grasshoppers-crickets-and-katydids/">Grasshoppers, Crickets and Katydids</a></p><a href="/page-index/pests/grasshoppers-crickets-and-katydids/"> will rapidly eat leaves and then fly or hop away! You can usually catch them in the act in the morning or the evening. Leaves chewed by these insects will have waxy bite marks with smooth margins.<p></p>
-			</a></div></li><a href="/page-index/pests/grasshoppers-crickets-and-katydids/">
-	</a><li><a href="/page-index/pests/grasshoppers-crickets-and-katydids/"><input type="checkbox" id="accordion7">
-		<label for="accordion7">Snails and slugs</label></a><div><a href="/page-index/pests/grasshoppers-crickets-and-katydids/">
+<p><a href="/page-index/pests/grasshoppers-crickets-and-katydids/">Grasshoppers, Crickets and Katydids</a> will rapidly eat leaves and then fly or hop away! You can usually catch them in the act in the morning or the evening. Leaves chewed by these insects will have waxy bite marks with smooth margins.</p>
+			</div></li>
+	<li><input type="checkbox" id="accordion7">
+		<label for="accordion7">Snails and slugs</label><div>
 <img title="Snail on a pot. Photo by Zara Chin." src="/images/Biodiversity/snail%20on%20pot_zarachin.jpg">													
-</a><p><a href="/page-index/pests/grasshoppers-crickets-and-katydids/"></a><a href="/page-index/pests/snails-and-slugs/">Snails and slugs</a> are nocturnal pests that will use their rough tongues to rasp leaves and young shoots of plants, and are capable of eating whole seedlings overnight. Leaves attacked by snails and slugs will have patchy holes, with the leaves closest to the ground eaten first.</p>
+<p><a href="/page-index/pests/grasshoppers-crickets-and-katydids/"></a><a href="/page-index/pests/snails-and-slugs/">Snails and slugs</a> are nocturnal pests that will use their rough tongues to rasp leaves and young shoots of plants, and are capable of eating whole seedlings overnight. Leaves attacked by snails and slugs will have patchy holes, with the leaves closest to the ground eaten first.</p>
 </div></li></ul>
 <br>
 </section>
@@ -76,7 +76,7 @@ image: ""
 	<li><input type="checkbox" id="accordion9">
 		<label for="accordion9">Oriental Fruit flies</label><div>
 		<img title="A passionfruit that has been affected by fruit flies, with a large swelling at the point of attack. Photo by Jacqueline Chua." src="/images/Biodiversity/fruitflydamage_jacquelinechua.jpg">
-		<p><a href="/page-index/pests/oriental-fruit-flies/">Oriental fruit flies</a> are rarely seen by gardeners, and sometimes get mistaken as bees or wasps because they are also black and yellow! However, they will leave tell-take swellings and distortions on fruit when they lay their eggs.</p>
+		<p><a href="/page-index/pests/oriental-fruit-flies/">Oriental fruit flies</a> are rarely seen by gardeners, and sometimes get mistaken as bees or wasps because they are also black and yellow! However, they will leave tell-tale swellings and distortions when they lay their eggs inside fruit. Otherwise, you may find the odd fruit fly larvae when you open infected fruit!</p>
 	</div></li></ul>
 <br>
 </section>	
