@@ -29,7 +29,6 @@ image: ""
 		<p>This plant thrives in <a href="/page-index/horticulture-techniques/gauging-light/">4-8 hours of direct sunlight</a>. Plants do best in <a href="/page-index/horticulture-techniques/soil/">loamy soil</a> at least 20cm deep, or in true ground.</p>
 		<p>This vine is vulnerable to heat stress during the dry season. Water it regularly and <a href="/page-index/horticulture-techniques/mulching/">mulch</a> the base to prevent water loss.</p>
 	<p>As a fast-growing vine, this plant needs to be trained up a light <a href="/page-index/hardscapes/trellises/">trellis</a>. The vine readily produces flowers and can be used to beautify fences and arch trellises.</p>
-		<iframe width="100%" height="415" src="https://www.youtube.com/embed/SUQGxxAAcNs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
 		<p>As with all members of the bean family, this plant is pollinated by bees. Growing more <a href="/page-index/glossary/biodiversity-attracting-plants/">bee-attracting plants</a> within the garden will encourage pollination.</p>
 	<br>
 </section>
@@ -65,7 +64,7 @@ image: ""
 
 <section>
 	<h4>Common problems &amp; solutions:</h4>
-		<p><a href="/page-index/pests/aphids/">Aphids</a>, <a href="/page-index/pests/mealy-bugs/">mealy bugs</a>, and <a href="/page-index/pests/spider-mites/">spider mites</a> often infest the plant if it is sickly or overgrown. <a href="/page-index/horticulture-techniques/pruning/">Prune off</a> the infested parts, or apply horticultural oils like neem oil and white summer oil to suffocate the remaining pests. Regularly prune the plant to allow light and air to reach throughout the plant, and check the plant for underlying problems like <a href="/page-index/plant-problems/root-rot/">root rot</a>, lack of sunlight, and nutrient deficiencies.</p>
+		<p><a href="/page-index/pests/aphids/">Aphids</a>, <a href="/page-index/pests/mealy-bugs/">mealy bugs</a>, and <a href="/page-index/pests/spider-mites/">spider mites</a> often infest the plant if it is sickly or overgrown. <a href="/horticulture-techniques/pest-control/">mechanical pest control</a> methods like <a href="/page-index/horticulture-techniques/pruning/">pruning</a> the infested parts, and having good cultural control are the best methods for managing these pests.</p>
 	<p>Whiteflies can infest the plant and lay eggs under its leaves. Remove affected plant parts and catch remaining adults with yellow sticky paper or treat them with citrus spray.</p>
 	<p><a href="/page-index/plant-problems/wilting/">Wilting</a> leaves during hot weather is a sign of heat stress. Increase the number of times the plant is watered daily, and apply mulch at the base to prevent water loss.</p>
 	<br>
