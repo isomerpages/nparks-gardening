@@ -21,7 +21,7 @@ image: ""
 <section>
 	<h4>Wasps</h4>
 	<img title="Photo by Jacqueline Chua." src="/images/Biodiversity/Wasp_PotterWasp_JacChua%20(2).jpg">
-	<p>Wasps come in a variety of shapes, sizes and colours, and are often mistaken for bees, which they are closely related to. In addition to being pollinators, wasps help to control garden pest populations, especially caterpillars.</p>
+	<p>Wasps come in a variety of shapes, sizes and colours, and are often mistaken for bees, which they are closely related to. In addition to being pollinators, wasps help to control garden pest populations, including <a href="/page-index/pests/aphids/">Aphids</a> and <a href="/page-index/pests/caterpillars/">caterpillars</a>.</p>
 	<img title="Caterpillars collected by potter wasps to feed their larvae. Photo by Jacqueline Chua." src="/images/Biodiversity/CaterpillarInPotterWaspNest_JacChua%20(2).jpg">
 	<p>Read our wasp advisory <a href="https://www.nparks.gov.sg/gardens-parks-and-nature/dos-and-donts/animal-advisories/bees-,-a-,-wasps">here</a>.</p>
 	<br>
@@ -29,7 +29,7 @@ image: ""
 <section>
 	<h4>Dragonflies</h4>
 	<img title="Photo by Jacqueline Chua." src="/images/Biodiversity/Dragonfly_JacChua.jpg">
-	<p>Dragonflies are dazzlingly fast predators that feed on a wide variety of insects, including common garden pests like grasshoppers, fruit flies, and beetles. They are usually found near freshwater bodies like ponds and rivers as their larvae are aquatic. Their larvae are also predators that eat a wide range of prey, most notably mosquito larvae.</p>
+	<p>Dragonflies are dazzlingly fast predators that feed on a wide variety of insects, including common garden pests like <a href="/page-index/pests/grasshoppers-crickets-and-katydids/">grasshoppers</a>, <a href="/page-index/pests/oriental-fruit-flies/">fruit flies</a>, and <a href="/page-index/housekeeping/keeping-gardens-mosquito-free/">mosquitoes</a>. They are usually found near freshwater bodies like ponds and rivers as their larvae are aquatic. Their larvae are also predators that eat a wide range of prey, most notably <a href="/page-index/housekeeping/keeping-gardens-mosquito-free/">mosquito larvae</a>.</p>
 	<br>
 </section>
 
