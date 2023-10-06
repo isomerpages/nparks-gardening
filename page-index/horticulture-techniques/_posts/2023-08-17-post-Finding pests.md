@@ -18,9 +18,10 @@ image: ""
 	<p>The first step to observing pests is finding them! Some pests will boldly sit on your damaged plant in broad daylight, but many others will hide. Some places to check near and around damaged plants are:</p>
 	<ul>
 		<li>Under and on top of leaves</li>
+		<li>Along leaf veins</li>
 		<li>In rolled up leaves</li>
 		<li>At the joint between leaves and stems</li>
-		<li>Along stem</li>
+		<li>Along stems</li>
 		<li>Inside fruits or stems with holes</li>
 		<li>Under and between pots</li>
 		<li>In the soil</li>
@@ -31,10 +32,10 @@ image: ""
 <section>
 	<h4>Finding pests through trapping</h4>
 	<iframe width="100%" height="415" src="https://www.youtube.com/embed/F0y1iznExy4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe><br>
-	<p>Sometimes pests can elude even the keenest of eyes, or they may only come out at odd hours. When all else fails, gardeners can consider using traps. The traps listed here should be for the purpose of identifying what pests are present and are not meant to be for long-term control. Long-term control strategies should be more specific and have less impact on other forms of biodiversity.</p>
+	<p>Sometimes pests can elude even the keenest of eyes, or they may only come out at odd hours. When all else fails, gardeners can consider using traps. The traps listed here should be for the purpose of identifying what pests are present and are not meant to be for long-term control. <a href="/page-index/horticulture-techniques/pest-control/">Long-term control strategies</a> should be more specific and have less impact on other forms of biodiversity.</p>
 	<img title="Yellow sticky paper with insects stuck on the surface. Photo by Jacqueline Chua." src="/images/Horti%20techniques/yellowstickypaper_jacquelinechua.jpg">
 	<p><b>Sticky traps</b> are pieces of paper or plastic coated in glue or petroleum jelly, and are good for trapping a broad range of flying pests. Yellow traps attracts most insects, while blue traps are good for capturing thrips. Take note that you should deploy the traps for a short period of time, generally up to two days or less. This is because sticky traps can also trap beneficial biodiversity like pollinators and predators, and thus should not be used as a long term control solution.</p>
+	<img title="A pheromone trap for beetles. Photo by Jacqueline Chua." src="/images/Horti%20techniques/pheramonetrap_jacquelinechua.jpg"> 
 	<p><b>Pheromone Traps</b> come in many shapes and sizes, but generally are shaped like containers with a pheromone diffuser inside. This trap uses chemicals such as pheromones to attract and trap insects. This trap is good for trapping specific pests, as specific pheromones will attract specific species of pests.</p>
-	<p><b>Yeast traps</b> are cups of instant yeast in sugar water that have been buried up to the rim. Yeast is highly attractive to snails and slugs, who will attempt to drink the yeast water and fall in and drown. Mix one teaspoon of dried yeast and 1 teaspoon of sugar in a cup of water till it froths to make the yeast bait. Leave the trap buried in your garden overnight to catch snails and slugs.</p>
 	<br>
 </section>
