@@ -11,9 +11,11 @@ image: ""
 </header>
 
 <section>
-	<img title="Photo by Jacqueline Chua." src="/images/Biodiversity/snail_jacquelinechua.jpg">
+	<img title="A snail on a pot. Photo by Zara Chin." src="/images/Biodiversity/snail%20on%20pot_zarachin.jpg">
 	<p>Slugs and snails are members of the Mollusc phylum and are similar in biology and behaviour. The main difference is that slugs do not have an external shell that snails do. They move around with their muscular “foot” and constantly secrete mucus to help them glide along surfaces. This mucus dries to produce a silvery slime trail. They have a flexible band of thousands of microscopic teeth called a radula, that they can use to scrape along plants as they eat.</p>
+	<img title="A slug emerging after the rain. Photo by Victoria Lim." src="/images/Biodiversity/slug%20(2)victorialim.jpg">
 	<p>Slugs and snails thrive in wet and cool environments away from the sun. During the monsoon season, many of them will be active after heavy rains.</p>
+	<img title="An awl snail. Photo by Zara Chin." src="/images/Biodiversity/awl%20snail_zarachin.jpg">
 	<p>They are nocturnal pests that feed on plants by scraping, feeding on the juiciest vegetables and fruits they can find. The most common snails that are found in Singapore’s gardens are the African Land snail (<em>Achatina fulica</em>) and Awl snail (<em>Allopeas clavulinum</em>).</p>
 	<br>
 </section>
