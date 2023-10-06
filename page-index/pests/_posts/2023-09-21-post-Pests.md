@@ -8,7 +8,7 @@ image: ""
 ---
 <section>
 	<img title="Aphids feeding on a plant. Photo by Plant Science and Health, NParks." src="/images/Biodiversity/aphids%20(2)_plantscienceandhealth_nparks.jpg">
-	<p>Garden pests are animals that cause damage to crops or ornamental plants, and can cause frustration for gardeners. However, they are still a part of our natural environment, and care should be taken to manage their impact while keeping the garden a safe place for people and biodiversity. Using integrated pest management techniques with solutions tailored for specific pests is the best way to solve problems over the long term.</p>
+	<p>Garden pests are animals that cause damage to crops or ornamental plants, and can cause frustration for gardeners. However, they are still a part of our natural environment, and care should be taken to manage their impact while keeping the garden a safe place for people and biodiversity. Using <a href="/page-index/horticulture-techniques/ipm/">integrated pest management techniques</a> with solutions tailored for specific pests is the best way to solve problems over the long term.</p>
 	<p>The first step in pest management is to know what pest you are up against. Use our <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/digital-tools/pestid/">pest identifier tool</a> to figure out what pests you have!</p>
 	<br>
 </section>
@@ -19,13 +19,26 @@ image: ""
 </section>
 
 <section>
-	<h4>Soft-bodied sucking pests</h4>
-	<img title="Mealy bugs clustered on a stem. Photo by jac Chua" src="/images/Biodiversity/Mealybugs_JacChua.jpg">
-	<p><a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/pests/aphids/">Aphids</a>, mealybugs, and soft scale insects are soft-bodied sucking pests that are found on the stems of plants, sometimes in large numbers. They have piercing mouthparts that they use to drink plant sap, and they produce a sugary substance as a by-product that attracts ants. This sugary substance also encourages the growth of sooty mould on leaves.</p>
+	<h4>Sucking pests</h4>
+	<ul class="jekyllcodex_accordion">
+	<li><input type="checkbox" id="accordion1">
+		<label for="accordion1">Aphids: Small, pill-shaped insects</label><div>
+<img title="Yellow aphids clustered along a leaf vein. Photo by Victoria Lim." src="/images/Biodiversity/dancing%20aphids%20on%20calotropis%20(1)victorialim.jpg">
+	<p><a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/pests/aphids/">Aphids</a> are small, sucking pests that are usually found in clusters along stems and leaf veins on both the top and undersides of leaves.</p>
+		</div></li>
+	<li><input type="checkbox" id="accordion2">
+		<label for="accordion2">Scale insects</label><div>
+<img title="Scale insects clustered along a stem. Photo by Victoria Lim" src="/images/Biodiversity/scales%20(1)victorialim.jpg">
+		<p><a href="/page-index/pests/scale-insects/">Scale</a> insects can have soft or hard shells, but they all look like scales clustered around stems and leaf veins on both the top and undersides of leaves.</p>  
+				</div></li>
+	<li><input type="checkbox" id="accordion3">
+		<label for="accordion3">Spider Mites</label><div>
+<img title="Spider mites scattered on a leaf. Photo by Victoria Lim" src="/images/Biodiversity/spider%20mites%20-%20solanum%20melongena%202victorialim.jpg">
+		<p></p>
 	<p>These insects attack plants that have been weakened by other problems like a lack of light, over or underwatering, or root rot. So while it is important to manage their presence on the plant, it is also important to figure why the plant was unhealthy in the first place as well. </p>
 	<p>All soft bodied pests can be managed by pruning off the affected plant parts, and using horticultural oils like neem oil to remove the remaining pests. </p>
 	<br>
-</section>
+</div></li></ul></section>
 
 <section>
 	<h4>Large chewing pests</h4>
