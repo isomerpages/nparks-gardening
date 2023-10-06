@@ -14,8 +14,9 @@ image: ""
 	<img title="Photo by Victoria Lim." src="/images/Biodiversity/scales%20(1)victorialim.jpg">
 	<p>Scale insects are small, soft-bodied, sap-sucking pests that consume sap or plant cell contents. They cover themselves with layers of wax that looks like scales, and can appear as brown, grey, or white. This waxy cover helps them to camouflage and prevent them from drying out, and also protect them from most contact insecticides.</p>
 	<p>Large populations of scale insects can cause damage to the plant, causing their leaves to yellow, stunting their growth and causing die back.</p>
-	<p>Soft scale insects have a flexible and soft waxy covering and will move between plants depending on the time of the year and the stage of their life cycle. Like Aphids and Mealy Bugs, they also excrete honeydew, which is a sweet substance that attracts ants and causes the growth of sooty mold.</p>
+	<p>Soft scale insects have a flexible and soft waxy covering and will move between plants depending on the time of the year and the stage of their life cycle. Like <a href="/page-index/pests/aphids/">Aphids</a> and <a href="/page-index/pests/mealy-bugs/">Mealy Bugs</a>, they also excrete honeydew, which is a sweet substance that attracts ants and causes the growth of sooty mold.</p>
 	<p>Hard scale insects have a hard and inflexible waxy shell, and tend to remain in one place after settling down. The do not produce honeydew.</p>
+	<p> As with all pests, Scale Insects generally attack plants that are already unhealthy. Check your plant for additional problems such as <a href="/page-index/plant-problems/root-rot/">root rot</a> from <a href="/page-index/plant-problems/waterlogging/">waterlogging</a>, <a href="/page-index/plant-problems/etiolation/">etoilation</a>, or <a href="/page-index/horticulture-techniques/plant-spacing/">overcrowding</a>.  <a href="/page-index/horticulture-techniques/pest-control/#cultural_control"> Cultural control</a> methods should be implemented to prevent your plants from becoming unhealthy in the first place. </p>
 	<br>
 </section>
 
@@ -30,11 +31,11 @@ image: ""
 <section>
 	<h4>Preventive and control measures:</h4>
 		<p>Always isolate and inspect newly bought plants for pests before introducing them to your plant collection.</p>
-	<p>Isolate affected plants immediately if mealy bugs are found.</p>
-	<p>Healthy plants are generally resilient to infestations. If you have a severe pest infestation, check your plants regularly for additional underlying problems such as root rot, lack of sunlight and nutrient deficiencies.</p>
+	<p>Isolate affected plants immediately if pests are found.</p>
+<p>Healthy plants are generally resilient to infestations. If you have a severe pest infestation, check your plants regularly for additional underlying problems such as <a href="/page-index/plant-problems/root-rot/">root rot</a> from <a href="/page-index/plant-problems/waterlogging/">waterlogging</a>, <a href="/page-index/plant-problems/etiolation/">etoilation</a>, or <a href="/page-index/horticulture-techniques/plant-spacing/">overcrowding</a>.</p>
 	<p>If affected plant part is small, you may try to remove the protective layer of the scale insects with a strong spray of water and by scrubbing with a soft brush. This removes their protective waxy layer and exposes them to make them vulnerable to predators, drying out, and insecticides.</p>
-	<p>Spraying horticultural oils such as neem oil or white oil can kill the scale insects after their waxy layer has been removed by scrubbing.</p>
-	<p>Encourage predators to establish in your garden by keeping it pesticide-free. Ladybirds feed on Scale Insects and can keep their population under control.</p> 
-	<p>Infested plant parts should be pruned off as soon as possible. Severe infestations may need the entire plant to be removed. Bag up the infested plant or plant parts securely for proper disposal to prevent further spread. Do not use the removed plant waste for composting or for consumption.</p>
+<p>Chrysanthemum spray, horticultural oils and sulphur soap sprays can kill soft-bodied pests on contact, and hard Scale Insects after their protective layer has been scrubbed off. Use <a href="/page-index/horticulture-techniques/pest-control/#chemical_control">chemical controls</a> like these sparingly as they tend to also affect other types of biodiversity.</p>
+	<p>Encourage <a href="/page-index/biodiversity/predators/">predators</a> to establish in your garden by keeping it pesticide-free. Ladybirds feed on soft Scale Insects and can keep their population under control.</p> 
+<p>Heavily infested plant parts should be <a href="/page-index/horticulture-techniques/pruning/">pruned</a> as soon as possible. Severe infestations may need the entire plant to be removed. Bag up the infested plant or plant parts securely for proper disposal to prevent further spread. Do not use the removed plant waste for composting or for consumption.</p>
 	<br>
 </section>
