@@ -16,37 +16,37 @@ image: ""
 </section> 
  
 <section> 
-	<img title="Photo by Flora and Fauna Web." src="/images/Plants/sandginger_ffw.jfif"> 
-  <p> Sand Gingers are small, aromatic spice used in Malaysian and Indonesian cooking. Its leaves can be consumed raw or in soups, and its rhizome, an underground horizontal stem that resembles a tuberous root, is often pounded into a powder and used to flavour sauces and curries.</p>
-	<p>It is a small <a href="/learn-more-about-gardening/glossary/#p">perennial</a> crop that readily grows in the tropics in both true ground and in pots. This is a common plant in herb gardens, permaculture gardens, and low maintenance beds.</p>
-	<p>Sand Gingers are part of the Zingiberaceae or Ginger family, which includes other popular edible plants like Torch Ginger and Fingerroot.</p>
+	<img title="A sand ginger clump. Photo by Jacqueline Chua." src="/images/Plants/sandginger_jacquelinechua.jpg"> 
+  <p> Sand Gingers are small, aromatic spice used in Malaysian and Indonesian cooking. Its leaves can be consumed raw or in soups, and its <a href="/learn-more-about-gardening/glossary/#r">rhizome</a>, an underground horizontal stem that resembles a tuberous root, is often pounded into a powder and used to flavour sauces and curries.</p>
+	<p>It is a small <a href="/learn-more-about-gardening/glossary/#p">perennial</a> crop that readily grows in the tropics in both <a href="/page-index/horticulture-techniques/true-ground/">true ground</a> and in <a href="/page-index/horticulture-techniques/planting-in-containers/">pots</a>. This is a common plant in herb gardens, and is sometimes used as a <a href="/page-index/horticulture-techniques/companion-planting/">living mulch as part of companion planting</a>.</p>
+	<p>Sand Gingers are part of the Zingiberaceae or Ginger family, which includes other popular edible plants like <a href="/page-index/edible-plants/torch-ginger/">Torch Ginger</a> and <a href="/page-index/edible-plants/fingerroot/">Fingerroot</a>.</p>
  <br> 
 </section> 
  
 <section> 
   <h4>Environmental needs:</h4> 
-  <img src="">
-   <p> Sand Ginger thrives in <a href="/page-index/horticulture-techniques/gauging-light/">more than 2-4 hours of direct sun or 4-6 hours of indirect sun</a>. Plants do best in <a href="/page-index/horticulture-techniques/soil/">sandy soil</a> at least 15cm deep, making them suitable for container gardening and corridor gardening. These plants are vulnerable to <a href="/page-index/plant-problems/root-rot">root rot</a>, so ensure that your pots drain well, and that your soil has plenty of grit to let the roots breathe.</p> 
+   <p> Sand Ginger thrives in <a href="/page-index/horticulture-techniques/gauging-light/">more than 2-4 hours of direct sun or 4-6 hours of indirect sun</a>. Plants do best in <a href="/page-index/horticulture-techniques/soil/">sandy soil</a> at least 10cm deep, making them suitable for <a href="/page-index/horticulture-techniques/planting-in-containers/">container gardening</a>. These plants are vulnerable to <a href="/page-index/plant-problems/root-rot">root rot</a>, so ensure that your pots drain well, and that your soil has plenty of <a href="/page-index/horticulture-techniques/soil-amendments/">inorganic soil amendments</a> to let the roots breathe.</p> 
 	<br> 
 </section> 
 
  
 <section> 
+		<img title="Photo by Flora and Fauna Web." src="/images/Plants/sandginger_ffw.jfif"> 
   <h4>Growing:</h4> 
-	<p>Sand Ginger naturally grows in clusters as the plant grows more rhizomes. Thin plants out to give them around 5-10cm of space to encourage the production of more rhizomes.</p> 
+	<p>Sand Ginger naturally grows in clusters as the plant grows more <a href="/learn-more-about-gardening/glossary/#r">rhizomes</a>. Thin plants out to give them around 5-10cm of space to encourage the production of more rhizomes.</p> 
 	<br> 
 </section> 
  
 <section> 
   <h4>Harvesting:</h4> 
 	<p>Young Sand Ginger leaves can be harvested at any time via the <a href="/page-index/horticulture-techniques/cut-and-come-again">cut-and-come-again method</a>.</p>
-	<p>Plants can be harvested for rhizomes at any time. They are typically harvested continuously via division.</p> 
+	<p>Plants can be harvested for <a href="/learn-more-about-gardening/glossary/#r">rhizomes</a> at any time. They are typically harvested continuously via division.</p> 
 	<br> 
 </section> 
  
 <section> 
   <h4>Propagation:</h4> 
-	<p>Sand ginger is <a href="/page-index/horticulture-techniques/propagating-by-division">propagated via division</a> of the rhizome.</p> 
+	<p>Sand ginger is <a href="/page-index/horticulture-techniques/propagating-by-division">propagated via division</a> of the <a href="/learn-more-about-gardening/glossary/#r">rhizomes</a>.</p> 
 	<br> 
 </section> 
  
