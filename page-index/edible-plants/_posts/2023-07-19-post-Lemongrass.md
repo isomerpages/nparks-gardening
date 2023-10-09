@@ -16,17 +16,16 @@ image: ""
 </section>
 
 <section>
+	<img title="Lemongrass growing along a pathway. Photo by Jacqueline Chua." src="/images/Plants/lemongrass2_jacquelinechua.jpg">
 <p>Lemongrass is a large aromatic herb that grows in a grass-like clump. Oil is extracted from the stem to flavour drinks, desserts, and soups. The oils are also used as a scent for perfumes, candles, and aromatherapy products. </p>
-<p>Lemongrass is a perennial crop that readily grows in most gardens with full sunlight. Due to its large size, and rapid growth, it is recommended to plant it in true ground. </p>
-<p>Because lemongrass grows so rapidly, its leaves can be harvested to make mulch, or the plant can be used as a groundcover for low maintenance beds. </p>
-<p>As a strong-smelling herb, it can also be used for companion planting to discourage pests.</p>       
+	<p>Lemongrass is a <a href="/learn-more-about-gardening/glossary/#p">perennial</a> crop that is drought-tolerant readily grows in most gardens with full sunlight. Due to its large size and rapid growth, it is recommended to plant it in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a>. </p>  
 	<br>
 </section>
 
 <section>
 	<h4>Environmental needs:</h4>
 		<img title="Lemongrass growing in sandy soil. Photo by Jacqueline Chua." src="/images/Plants/Lemongrass_JacChua.jpg">
-<p>Lemongrass flourishes in 6-8 hours of direct sunlight. Plants do best in<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/soil/">sandy soil</a> at least 15cm deep, making them suitable for container gardening, but the diameter of the pot will greatly limit the size of the plant. Take note that Lemongrass can grow up to 1.2m tall, and that larger pots of at least 20cm width will be needed for the plant to grow offshoots. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of grit to let the roots breathe. </p>
+<p>Lemongrass flourishes in 6-8 hours of direct sunlight. Plants do best in<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/soil/">sandy soil</a> at least 15cm deep, making them suitable for <a href="/page-index/horticulture-techniques/planting-in-containers/">container gardening</a>, but the diameter of the pot will greatly limit the size of the plant. Take note that Lemongrass can grow up to 1.2m tall, and that larger pots of at least 20cm width will be needed for the plant to grow offshoots. These plants are vulnerable to <a href="/page-index/plant-problems/root-rot/">root rot</a>, so ensure that your pots drain well, and that your soil has plenty of <a href="/page-index/horticulture-techniques/soil-amendments/">inorganic soil amendments</a> to let the roots breathe. </p>
 	<br>
 	</section>
 
