@@ -37,23 +37,24 @@ image: ""
 
 <section>
 	<h4>Harvesting:</h4>
+	<img title="Tapioca tubers on sale at a wet market. Photo by Jacqueline Chua." src="/images/Plants/tapioca_root_jacquelinechua.jpg">
 <p>The plant can be harvested for the tuber around a year after planting. Harvesting the tubers after may result in them being very fibrous and hard root that is unpleasant to eat.
 Plants can be harvested for leaves at any time, with younger leaves being the most tender. Young leaves can be harvested multiple times via the cut-and-come-again method. </p>
-<p>The whole plant can be harvested once by digging up the fleshy root with a spade. </p>
-	<p>All plants parts must be thoroughly cooked as the tuber and the leaves contain toxins. </p>
+<p>The whole plant can be harvested once by digging up the tubers with a spade. </p>
+	<p><b>All plants parts must be thoroughly cooked as the tuber and the leaves contain toxins.</b> </p>
 	<br>
 </section>
 
 <section>
 	<h4>Propagation:</h4>
-	<p>Tapiocas are primarily grown from woody stem cuttings rooted directly into soil or division of the tubers. </p>
+	<p>Tapiocas are primarily grown from <a href="/page-index/horticulture-techniques/propagating-by-cuttings/">woody stem cuttings</a> rooted directly into soil or <a href="/page-index/horticulture-techniques/propagating-by-division/">division of the tubers</a>. </p>
 	<br>
 </section>
 
 <section>
 	<h4>Common problems &amp; solutions:</h4>
 <p>This plant is relatively resistant to pests and disease if kept healthy.</p>
-<p>Aphids, mealy bugs, and spider mites often infest the plant if it is sickly or overgrown. Prune off the infested parts, or apply horticultural oils like neem oil and white summer oil to suffocate the remaining pests. Regularly prune the plant to allow light and air to reach throughout the plant, and check the plant for underlying problems like root rot, lack of sunlight, and nutrient deficiencies.</p>
-<p>This plant is prone to rust during the wet season. Prune the plant regularly to increase airflow, and remove heavily affected leaves. </p>
+		<p><a href="/page-index/pests/aphids/">Aphids</a>, <a href="/page-index/pests/mealy-bugs/">Mealy Bugs</a>, <a href="/page-index/pests/whiteflies/">Whiteflies</a>, and <a href="/page-index/pests/spider-mites/">spider mites</a> often infest the plant if it has <a href="/page-index/plant-problems/root-rot/">root rot</a> or is <a href="/page-index/plant-problems/waterlogging/">waterlogged</a>. <a href="/horticulture-techniques/pest-control/">Mechanical pest control</a> methods like <a href="/page-index/horticulture-techniques/pruning/">pruning</a> the infested parts are the best methods for managing these pests.</p>
+<p>This plant is prone to rust during the wet season. <a href="/page-index/horticulture-techniques/pruning/">Prune</a> the plant regularly to increase airflow, and remove heavily affected leaves. </p>
 <br>
 </section>
