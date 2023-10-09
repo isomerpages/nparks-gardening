@@ -24,7 +24,7 @@ permalink: /example-folder/folder-page/
 	}
 	
 	a:hover.button {
-	 background-color:#f8f7f3;
+	 background-color:	#DDCBA4;
 	}
 </style>
 
