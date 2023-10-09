@@ -16,7 +16,7 @@ image: ""
 </section>
 
 <section>
-	<img src="/images/Plants/BluePeaFlower_JacChua%20(2).jpg">
+	<img title="A butterfly pea plant with multiple flowers. Photo by Jacqueline Chua." src="/images/Plants/bluepea_jacquelinechua.jpg">
 	<p>Butterfly Peas are a hardy edible flower that is used to colour drinks, desserts, and rice dishes.</p>
 	<p>An <a href="/learn-more-about-gardening/glossary/#a">annual</a> plant, Butterfly Peas are often grown in rotation with other fruiting climbers.</p>
   <p>This plant is part of the 	Fabaceae or Bean family, which includes other popular edible fruits like <a href="/page-index/edible-plants/winged-bean/">Winged Bean</a>, <a href="/page-index/edible-plants/peanut/">Peanut</a>, and <a href="/page-index/edible-plants/sword-bean/">Sword Bean</a>.  All members of the bean family can be used for <a href="/page-index/horticulture-techniques/companion-planting/">companion planting</a> as they can fix nitrogen into the soil.</p>
@@ -64,8 +64,7 @@ image: ""
 
 <section>
 	<h4>Common problems &amp; solutions:</h4>
-		<p><a href="/page-index/pests/aphids/">Aphids</a>, <a href="/page-index/pests/mealy-bugs/">mealy bugs</a>, and <a href="/page-index/pests/spider-mites/">spider mites</a> often infest the plant if it has <a href="/page-index/plant-problems/wilting/">wilted from heat stress</a> or is overgrown. <a href="/horticulture-techniques/pest-control/">Mechanical pest control</a> methods like <a href="/page-index/horticulture-techniques/pruning/">pruning</a> the infested parts are the best methods for managing these pests.</p>
-	<p>Whiteflies can infest the plant and lay eggs under its leaves. Remove affected plant parts and catch remaining adults with yellow sticky paper or treat them with citrus spray.</p>
+		<p><a href="/page-index/pests/aphids/">Aphids</a>, <a href="/page-index/pests/mealy-bugs/">Mealy Bugs</a>, <a href="/page-index/pests/whiteflies/">Whiteflies</a>, and <a href="/page-index/pests/spider-mites/">spider mites</a> often infest the plant if it has <a href="/page-index/plant-problems/wilting/">wilted from heat stress</a> or is overgrown. <a href="/horticulture-techniques/pest-control/">Mechanical pest control</a> methods like <a href="/page-index/horticulture-techniques/pruning/">pruning</a> the infested parts are the best methods for managing these pests.</p>
 	<p><a href="/page-index/plant-problems/wilting/">Wilting</a> leaves during hot weather is a sign of heat stress. Increase the number of times the plant is watered daily, and apply mulch at the base to prevent water loss.</p>
 	<br>
 </section>
