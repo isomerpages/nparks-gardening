@@ -18,7 +18,7 @@ image: ""
 <section>
 	<img title="Photo by Jacqueline Chua." src="/images/Plants/Brinjal_JacChua%20(2).jpg">
 	<p>Brinjals are one of the most common crops you see in Community Gardens in Singapore as they can grow quickly into productive bushes and are relatively pest resistant. With a wide variety of cultivars, brinjals come in colours ranging from dark purple to white and even yellow, and can be round, egg-shaped, or oblong. The fruits are eaten while they are immature, and can be roasted, stewed, or made into sauces.</p>
-	<p>A <a href="/learn-more-about-gardening/glossary/#p">perennial</a> crop, these plants are a popular mainstay in edible gardens of all sizes. Eggplants in true ground can produce fruit for a few years, while those in pots and can produce fruit for more than a year if cared for properly.</p>
+	<p>A <a href="/learn-more-about-gardening/glossary/#p">perennial</a> crop, these plants are a popular mainstay in edible gardens of all sizes. Eggplants in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a> can produce fruit for a few years, while those in <a href="/page-index/horticulture-techniques/planting-in-containers/">pots</a> and can produce fruit for more than a year if cared for properly.</p>
 	<p>This plant is part of the Solanum or Nightshade family, which includes other popular edible fruits like Tomatoes and Chillies.</p>
 	<br>
 </section>
