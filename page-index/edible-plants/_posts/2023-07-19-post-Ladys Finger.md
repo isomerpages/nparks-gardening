@@ -19,7 +19,7 @@ image: ""
 	<img src="/images/Plants/LadiesFinger_JacChua%20(2).jpg">
 	
   <p>Lady’s-Fingers are a common crop in many Community Gardens, and are an easy plant for new edible gardeners to grow. The unripe pod of Lady’s-Finger can be eaten raw, but is often stir-fried or added to soup. The pod produces a juice with a mucus-like texture and is used to thicken soups and stews. </p>
-  <p>Most varieties of Lady’s-Fingers are grown as an annual, but they have been also been grown as a perennial crop in Singapore.  </p>
+  <p>Most varieties of Lady’s-Fingers are grown as an <a href="/learn-more-about-gardening/glossary/#a">annual</a>, but they have been also been grown as a <a href="/learn-more-about-gardening/glossary/#p">perennial</a> crop in Singapore.  </p>
   <p>This plant is part of the Malvaceae or Hibiscus family, which includes other edible plants like Roselles. </p>
 
   <br>
