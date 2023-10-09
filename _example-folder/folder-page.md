@@ -24,26 +24,25 @@ permalink: /example-folder/folder-page/
 	}
 	
 	a:hover.button {
-	 background-color:#ff9e1b;
+	 background-color:#f8f7f3;
 	}
 </style>
 
 <div class="wrapper">
   <a class="button" href="/page-index/glossary/edible-plants/"><div class="box">
 		<h4>Edible Plants</h4>
-	     <img style="height:200px; width:200px" src="/images/Graphics/edibleplant_6oct.png"><br>
+	     <img src="/images/Graphics/edibleplant_6oct.png"><br>
 	</div></a>
 	<a class="button" href="/page-index/glossary/ornamental-plants/"><div class="box">
 		<h4>Ornamental Plants</h4>
-	     <img style="height:200px; width:200px" src="/images/Graphics/ornamentalplant_6oct.png"><br>
+	     <img src="/images/Graphics/ornamentalplant_6oct.png"><br>
 	</div></a>
 	<a class="button" href="/page-index/glossary/native-plants/"><div class="box">
 		<h4>Native Plants</h4>
-	     <img style="height:200px; width:200px" src="/images/Graphics/nativeplant_6oct.png"><br>
+	     <img src="/images/Graphics/nativeplant_6oct.png"><br>
 	</div></a>
 	<a class="button" href="/page-index/glossary/biodiversity-attracting-plants/"><div class="box">
 		<h4>Biodiversity Attracting Plants</h4>
-	     <img style="height:200px; width:200px" src="/images/Graphics/biodivplant_6oct.png"><br>
-	</div></a><br>
-	<br>
+	     <img src="/images/Graphics/biodivplant_6oct.png"><br>
+	</div></a>
 </div>
