@@ -62,8 +62,8 @@ description: ""
 			<h5>Large Animals</h5>
 			<img style="display: inline" src="/images/Biodiversity/squirrel%20at%20hortpark%20(4)victorialim.jpg"><br>
 			<ul>
-				<li><a href="/page-index/pests/pests/">Birds</a></li>
-				<li><a href="/page-index/pests/pests/">Rodents</a></li>
+				<li><a href="/page-index/pests/pests/#birds">Birds</a></li>
+				<li><a href="/page-index/pests/pests/#rodents">Rodents</a></li>
 			</ul>
 		</div>
 	</div>
