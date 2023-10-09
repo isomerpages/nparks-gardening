@@ -32,6 +32,26 @@ description: ""
 	  text-decoration: none !important;
 	}
 	
+		.ffw {
+		display: grid;
+		grid-template-columns: repeat(2, minmax(275px, 1fr));
+		grid-template-rows: auto-fit;
+		column-gap: 20px;
+		row-gap: 20px;
+	}
+	
+	.ffwbutton{
+		grid-column-start:2;
+		grid-column-end: 3;
+		text-align:center;
+		background-color: #7a9a01;
+		border: 2px solid #215732;
+		padding: 5px;
+  	border-radius: 10px;
+    color: white !important;
+	  text-decoration: none !important;
+	}
+	
 	.button-primary {
     background-color: #215732;
     border: 2px solid #215732;
@@ -70,6 +90,7 @@ description: ""
 	<br>
 </div>
 
-<a href="/digital-tools/plant-search/" class="plantsearch">
-		Click here to use our plant search if you have no clue what is suitable for your garden!
-	</a>
+<a href="/digital-tools/plant-search/" class="plantsearch">Click here to use our plant search if you have no clue what is suitable for your garden!</a>
+	
+<div class="ffw">
+	<a href="https://www.nparks.gov.sg/florafaunaweb" class="ffwbutton">Click here to visit NPark's Flora and Fauna Web!</a></div>
