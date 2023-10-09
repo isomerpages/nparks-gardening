@@ -16,7 +16,7 @@ image: ""
 </section> 
  
 <section>
-	<img title="Photo by Flora and Fauna Web." src="/images/Plants/pandan_ffw.jfif">
+	<img title="Pandan plants growing in a Community Garden. Photo by Jacqueline Chua." src="/images/Plants/pandan_jacquelinechua.jpg">
 	<p>Pandan is a common herb grown in a wide variety of gardens across Singapore. Its fragrant leaves produce a juice that is used to flavour desserts, tea, meat dishes, and rice. The leaf itself cannot be eaten because it is too fibrous and is typically discarded after cooking.</p>
 	<p>Pandan is a <a href="/learn-more-about-gardening/glossary/#p">perennial</a> crop that readily grows in most gardens with semi-shade and thrives in waterlogged areas. It has a relatively shallow root and can be grown in pots.</p>
 	<p>Because Pandan is hardy and grows rapidly, it can be used in gardens with clayey, waterlogged soils or used as a groundcover for low maintenance beds.</p>
@@ -25,21 +25,21 @@ image: ""
  
 <section> 
   <h4>Environmental needs:</h4> 
-		 <p> Pandan does well in less than 4 hours of direct sunlight or 6-8 hours of indirect sunlight. Plants do best in <a href="/page-index/horticulture-techniques/soil/">loamy soil</a> at least 10cm deep, making them suitable for container gardening. Pandan will also readily grow in <a href="/page-index/horticulture-techniques/soil/">clayey soil</a>, along large waterbodies, and in heavily waterlogged areas.</p>
+		 <p> Pandan does well in less than 4 hours of direct sunlight or 6-8 hours of indirect sunlight. Plants do best in <a href="/page-index/horticulture-techniques/soil/">loamy soil</a> at least 10cm deep, making them suitable for container gardening. Pandan will also readily grow in <a href="/page-index/horticulture-techniques/soil/">clayey soil</a>, along large waterbodies, and in heavily <a href="/page-index/plant-problems/waterlogging/">waterlogged</a> areas.</p>
 		<p>Pandan can withstand periods of drought, but the lack of water will stunt its growth.</p> 
 	<br> 
 </section> 
   
 <section> 
   <h4>Growing:</h4> 
-		<p>Pandan grows rapidly and are particularly fast growers during the wet season. If planted in <a href="/page-index/horticulture-techniques/true-ground">true ground</a> near other plants, Pandan can smother its neighbours if it is not hard pruned regularly.</p> 
+		<p>Pandan grows rapidly and are particularly fast growers during the wet season. If planted in <a href="/page-index/horticulture-techniques/true-ground">true ground</a> near other plants, Pandan can smother its neighbours if it is not <a href="/page-index/horticulture-techniques/pruning/">hard pruned</a> regularly.</p> 
 	<br> 
 </section> 
  
 <section> 
   <h4>Harvesting:</h4> 
 	<p>Plants can be <a href="/page-index/horticulture-techniques/harvesting-hygiene">harvested</a> for leaves at any time. Older Leaves should be harvested from the bottom of the plant, as per <a href="/page-index/horticulture-techniques/cut-and-come-again">cut-and-come-again harvesting</a>, with new leaves left intact to ensure more growth.</p>
-		<p>Take note that the leaves have sharp edges and may cause skin irritation and cuts. Use arm sleeves and gloves when maintaining this plant for safety.</p> 
+	<p><b>Take note that the leaves have sharp edges and may cause skin irritation and cuts</b>. Use arm sleeves and gloves when maintaining this plant for safety.</p> 
 	<br> 
 </section> 
   
