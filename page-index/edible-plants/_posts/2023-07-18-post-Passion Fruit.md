@@ -18,7 +18,7 @@ image: ""
 <section>
 	<img title="Photo by Jacqueline Chua." src="/images/Plants/Passionfruit_JacChua%20(1).jpg">
 	<p>Passion Fruit vines are versatile climbers that produce attractive purple fruits that are eaten raw, juiced, or added to desserts. The vines also have large leaves and attractive multi-coloured flowers, and are commonly grown along shelters and fences to beautify gardens.</p>
-	<p>As a <a href="/learn-more-about-gardening/glossary/#p">perennial</a> vine, it is a common sight in edible gardens, permaculture gardens, and low maintenance beds.</p>
+	<p>As a <a href="/learn-more-about-gardening/glossary/#p">perennial</a> vine, it is a common sight in edible gardens.</p>
 	<br>
 </section>
 
@@ -28,7 +28,7 @@ image: ""
 	<p>This vine does best in <a href="/page-index/horticulture-techniques/gauging-light">full sun gardens with a minimum of 6 hours of sunlight</a>. It can also grow in gardens with more than 4 hours of direct sunlight or at least 6 hours of indirect sunlight, but it may grow slower and produce less fruit. </p>
 	<p>Plants do best in moist, <a href="/page-index/horticulture-techniques/soil/">loamy soil</a> at least 30cm deep, or in true ground. The plant can also be readily grown in smaller pots about 20cm deep. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe. Keep your plants cool with mulch and plenty of water to encourage growth. </p>
 	<p>As a fast-growing vine, this plant needs a tall, sturdy trellis to scramble on. Because the fruits hang down, it is ideal for arch-shaped trellises.</p>
-	<iframe width="100%" height="415" src="https://www.youtube.com/embed/SUQGxxAAcNs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
+	<iframe width="100%" height="415" src="https://www.youtube.com/embed/Dn8DsL5TNE8?si=6WkCeBOQ8AP-4fA_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
 	<p>This plant is bee pollinated. To encourage the formation of more fruits, it is best to have bee-attracting plants within the garden to encourage pollination. If your garden lacks bees, the plant can also be hand pollinated.</p>
 	<br>
 </section>
@@ -50,7 +50,8 @@ image: ""
 
 <section>
 	<h4>Harvesting:</h4>
-	<p>Mature fruits can be harvested when the skin becomes wrinkly.</p>
+	<img title="Passionfruit for sale in the wetmarket. Photo by Jacqueline Chua." src="/images/Plants/passionfruit%20(1)_jacquelinechua.jpg">
+	<p>Mature fruits can be harvested when the skin becomes flushed yellow or purple. The fruit will be sweetest when the skin is slightly wrinkly, but it can be eaten before then.</p>
 	<br>
 </section>
 
@@ -62,10 +63,9 @@ image: ""
 
 <section>
 	<h4>Common problems &amp; solutions:</h4>
-	<p>If your vine has little to no flowers, you try fertilising the plant with fertilisers high in Phosphorus and Potassium. These nutrients encourage root and flower growth, which are important for the plant to produce more fruit.</p>
-	<p>Many plants require <a href="/page-index/biodiversity/pollinators">pollinators</a> to help them fruit. Bees, butterflies, birds and even beetles transport pollen from one flower to another, pollinating your crops and increasing their fruit yield. Attract some pollinators to your garden by growing pollinator-attracting crops, or become a pollinator yourself by hand-pollinating your plants.</p>
-	<p><a href="/page-index/pests/aphids">Aphids</a>, <a href="/page-index/pests/mealy-bugs">mealy bugs</a>, and <a href="/page-index/pests/spider-mites">spider mites</a> often infest the plant if it is sickly or overgrown. Prune off the infested parts, or apply horticultural oils like neem oil and white summer oil to suffocate the remaining pests. Regularly prune the plant to allow light and air to reach throughout the plant, and check the plant for underlying problems like root rot, lack of sunlight, and nutrient deficiencies.</p>
-	<p>Whiteflies can infest the plant and lay eggs under its leaves. Remove affected plant parts and catch remaining adults with yellow sticky paper or treat them with citrus spray.</p>
+	<p>If your vine has little to no flowers, you try <a href="/page-index/horticulture-techniques/fertilising/">fertilising the plant with fertilisers high in Phosphorus and Potassium</a>. These nutrients encourage root and flower growth, which are important for the plant to produce more fruit.</p>
+	<p>Many plants require <a href="/page-index/biodiversity/pollinators">pollinators</a> to help them fruit. Bees, butterflies, birds and even beetles transport pollen from one flower to another, pollinating your crops and increasing their fruit yield. Attract some pollinators to your garden by growing <a href="/page-index/glossary/biodiversity-attracting-plants/">pollinator-attracting plants</a>.</p>
+	<p><a href="/page-index/pests/aphids/">Aphids</a>, <a href="/page-index/pests/mealy-bugs/">Mealy Bugs</a>, and	<a href="/page-index/pests/scale-insects/">Scale insects often infest the plant if it has </a><a href="/page-index/plant-problems">problems like etiolation or waterlogging</a>. <a href="/horticulture-techniques/pest-control/">Mechanical pest control</a> methods like <a href="/page-index/horticulture-techniques/pruning/">pruning</a> the infested parts are the best methods for managing these pests.</p>
 	<p><a href="/page-index/pests/oriental-fruit-flies">Fruit flies</a> can lay eggs in the fruit, resulting in larvae damaging the fruit and creating spots on the skin. Wrap your fruit in netting when it starts to develop from a fertilised flower, ideally after all the petals have dropped off.</p>
 	<br>
 </section>
