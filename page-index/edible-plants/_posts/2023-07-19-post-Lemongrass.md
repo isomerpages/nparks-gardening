@@ -54,6 +54,6 @@ image: ""
 <section>
 	<h4>Common problems &amp; solutions:</h4>
 <p>Like most strong-smelling herbs, this plant is relatively resistant to pests and disease if kept healthy.</p>
-<p>Aphids, mealy bugs, and spider mites can the plant if it is sickly or overgrown. Prune off the infested parts, or apply horticultural oils like neem oil and white summer oil to suffocate the remaining pests. Regularly prune the plant to allow light and air to reach throughout the plant, and check the plant for underlying problems like root rot, lack of sunlight, and nutrient deficiencies. </p>
+<p><a href="/page-index/pests/mealy-bugs/">Mealy bugs</a> can infest the plant if it is suffering from other problems like <a href="/page-index/plant-problems/waterlogging/">waterlogging</a>. <a href="/horticulture-techniques/pest-control/">Mechanical pest control</a> methods like <a href="/page-index/horticulture-techniques/pruning/">pruning</a> the infested parts are the best methods for managing these pests.</p>
 <br>
 </section>
