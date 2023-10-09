@@ -30,19 +30,19 @@ permalink: /example-folder/folder-page/
 
 <div class="wrapper">
   <a class="button" href="/page-index/glossary/edible-plants/"><div class="box">
-		<h3>Edible Plants</h3>
+		<h4>Edible Plants</h4>
 	     <img style="height:275px; width:275px" src="/images/Graphics/edibleplant_6oct.png"><br>
 	</div></a>
 	<a class="button" href="/page-index/glossary/ornamental-plants/"><div class="box">
-		<h3>Ornamental Plants</h3>
+		<h4>Ornamental Plants</h4>
 	     <img style="height:275px; width:275px" src="/images/Graphics/ornamentalplant_6oct.png"><br>
 	</div></a>
 	<a class="button" href="/page-index/glossary/native-plants/"><div class="box">
-		<h3>Native Plants</h3>
+		<h4>Native Plants</h4>
 	     <img style="height:275px; width:275px" src="/images/Graphics/nativeplant_6oct.png"><br>
 	</div></a>
 	<a class="button" href="/page-index/glossary/biodiversity-attracting-plants/"><div class="box">
-		<h3>Biodiversity Attracting Plants</h3>
+		<h4>Biodiversity Attracting Plants</h4>
 	     <img style="height:275px; width:275px" src="/images/Graphics/biodivplant_6oct.png"><br>
 	</div></a>
 </div>
