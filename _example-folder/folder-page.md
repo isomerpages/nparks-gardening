@@ -3,79 +3,47 @@ title: Folder Page
 permalink: /example-folder/folder-page/
 ---
 <style>
-	a:link.body, a:visited.body {
-		color: black;
-		text-decoration: none;
+	.wrapper {
+		display: grid;
+		grid-template-columns: repeat(auto-fit, minmax(275px, 1fr));
+		grid-template-rows: auto-fit;
+		column-gap: 20px;
+		row-gap: 20px;
+	}
+
+	.box {
+		border: solid 1px #215732 ;
+		border-radius: 5px;
+		padding: 5px 10px 15px 10px;
+		text-align:center;
 	}
 	
-	a:hover.body {
-		color: #7a9a01;
-		text-decoration:underline;
+	a:link.button, a:visited.button {
+		text-decoration:none;
+		color:#215732
 	}
 	
-	table a:link {
-		color:white;
-	}
-	
-	tr {
-		height: 40px;
-		width: 100%;
-		display: flex;
-		flex-direction: row;
-		flex-wrap: wrap;
-		column-gap: 27px;
-	}
-	
-	.button-leaf {
-		height: 40px;
-		width: 45px;
-		padding: 9px 15px 9px;
-	  background-color: #7a9a01;
-	  border: 1px solid #7a9a01;
-	  border-radius: 95px 10px;
-	  color: white !important;
-	}
-	
-	.body {
-		position: relative;
+	a:hover.button {
+	 background-color:#ff9e1b;
 	}
 </style>
 
-<a id="top"></a>
-<strong>Click on an alphabet to learn more about different horticulture techniques!</strong>
-<table>
-	<tbody>
-		<tr>
-			<td style="width:0; border-bottom:0px"><a style="text-decoration: none" href="#a"><div class="button-leaf">A</div></a></td>
-			<td style="width:0; border-bottom:0px"><a style="text-decoration:none" href="#b"><div class="button-leaf">B</div></a></td>
-		<td style="width:0; border-bottom:0px"><a style="text-decoration:none" href="#c"><div class="button-leaf">C</div></a></td>
-		<td style="width:0; border-bottom:0px"><a style="text-decoration:none" href="#d"><div class="button-leaf">D</div></a></td>
-		<td style="width:0; border-bottom:0px"><a style="text-decoration:none" href="#e"><div class="button-leaf">E</div></a></td>
-		<td style="width:0; border-bottom:0px"><a style="text-decoration:none" href="#f"><div class="button-leaf">F</div></a></td>
-		<td style="width:0; border-bottom:0px"><a style="text-decoration:none" href="#g"><div class="button-leaf">G</div></a></td>
-		<td style="width:0; border-bottom:0px"><a style="text-decoration:none" href="#h"><div class="button-leaf">H</div></a></td>
-		<td style="width:0; border-bottom:0px"><a style="text-decoration:none" href="#i"><div class="button-leaf">I</div></a></td>
-		<td style="width:0; border-bottom:0px"><a style="text-decoration:none" href="#j"><div class="button-leaf">J</div></a></td>
-		<td style="width:0; border-bottom:0px"><a style="text-decoration:none" href="#k"><div class="button-leaf">K</div></a></td>
-		<td style="width:0; border-bottom:0px"><a style="text-decoration:none" href="#l"><div class="button-leaf">L</div></a></td>
-		<td style="width:0; border-bottom:0px"><a style="text-decoration:none" href="#m"><div class="button-leaf">M</div></a></td>
-		<td style="width:0; border-bottom:0px"><a style="text-decoration:none" href="#n"><div class="button-leaf">N</div></a></td>
-		<td style="width:0; border-bottom:0px"><a style="text-decoration:none" href="#o"><div class="button-leaf">O</div></a></td>
-		<td style="width:0; border-bottom:0px"><a style="text-decoration:none" href="#p"><div class="button-leaf">P</div></a></td>
-		<td style="width:0; border-bottom:0px"><a style="text-decoration:none" href="#q"><div class="button-leaf">Q</div></a></td>
-		<td style="width:0; border-bottom:0px"><a style="text-decoration:none" href="#r"><div class="button-leaf">R</div></a></td>
-		<td style="width:0; border-bottom:0px"><a style="text-decoration:none" href="#s"><div class="button-leaf">S</div></a></td>
-		<td style="width:0; border-bottom:0px"><a style="text-decoration:none" href="#t"><div class="button-leaf">T</div></a></td>
-		<td style="width:0; border-bottom:0px"><a style="text-decoration:none" href="#u"><div class="button-leaf">U</div></a></td>
-		<td style="width:0; border-bottom:0px"><a style="text-decoration:none" href="#v"><div class="button-leaf">V</div></a></td>
-		<td style="width:0; border-bottom:0px"><a style="text-decoration:none" href="#w"><div class="button-leaf">W</div></a></td>
-		<td style="width:0; border-bottom:0px"><a style="text-decoration:none" href="#x"><div class="button-leaf">X</div></a></td>
-		<td style="width:0; border-bottom:0px"><a style="text-decoration:none" href="#y"><div class="button-leaf">Y</div></a></td>
-		<td style="width:0; border-bottom:0px"><a style="text-decoration:none" href="#z"><div class="button-leaf">Z</div></a></td>
-	</tr>
-</tbody></table>
-<br>
-
-
-<h4 id="a">A</h4>
-	<br><br>
+<div class="wrapper">
+  <a class="button" href="/page-index/glossary/edible-plants/"><div class="box">
+		<h4>Edible Plants</h4>
+	     <img style="height:200px; width:200px" src="/images/Graphics/edibleplant_6oct.png"><br>
+	</div></a>
+	<a class="button" href="/page-index/glossary/ornamental-plants/"><div class="box">
+		<h4>Ornamental Plants</h4>
+	     <img style="height:200px; width:200px" src="/images/Graphics/ornamentalplant_6oct.png"><br>
+	</div></a>
+	<a class="button" href="/page-index/glossary/native-plants/"><div class="box">
+		<h4>Native Plants</h4>
+	     <img style="height:200px; width:200px" src="/images/Graphics/nativeplant_6oct.png"><br>
+	</div></a>
+	<a class="button" href="/page-index/glossary/biodiversity-attracting-plants/"><div class="box">
+		<h4>Biodiversity Attracting Plants</h4>
+	     <img style="height:200px; width:200px" src="/images/Graphics/biodivplant_6oct.png"><br>
+	</div></a><br>
+	<br>
+</div>
