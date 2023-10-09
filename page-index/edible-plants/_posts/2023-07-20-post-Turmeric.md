@@ -16,10 +16,10 @@ image: ""
 </section>
 
 <section>
-	<img title="Photo by Flora and Fauna Web" src="/images/Plants/turmeric_ffw_2.jpeg">
-<p>Turmeric is an important spice in South Asian and Middle Eastern cuisine that adds a bittersweet flavour and bright yellow colour to curry. It is extracted from the rhizome, an underground horizontal stem that resembles a tuberous root. Turmeric is used to flavour and colour for curries, drinks and desserts. </p>
-<p>It is a medium perennial crop that readily grows in the tropics in both true ground and in pots. </p>
-<p>Turmeric is part of the Zingiberaceae or Ginger family, which includes other popular edible plants like Torch Ginger and Fingerroot.</p>       
+	<img title="Turmeric plants growing in a planter bed. Photo by Jacqueline Chua." src="/images/Plants/turmeric_jacquelinechua%20(2).jpg">
+<p>Turmeric is an important spice in South Asian and Middle Eastern cuisine that adds a bittersweet flavour and bright yellow colour to curry. It is extracted from the <a href="/learn-more-about-gardening/glossary/#r">rhizome</a>, an underground horizontal stem that resembles a tuberous root. Turmeric is used to flavour and colour for curries, drinks and desserts. </p>
+	<p>It is a medium <a href="/learn-more-about-gardening/glossary/#p">perennial</a> crop that readily grows in the tropics in both <a href="/page-index/horticulture-techniques/true-ground/">true ground</a> and in <a href="/page-index/horticulture-techniques/planting-in-containers/">pots</a>. </p>
+<p>Turmeric is part of the Zingiberaceae or Ginger family, which includes other popular edible plants like <a href="/page-index/edible-plants/torch-ginger/">Torch Ginger</a> and <a href="/page-index/edible-plants/sand-ginger/">Sand Ginger</a>.</p>       
 	<br>
 </section>
 
