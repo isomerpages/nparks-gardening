@@ -29,12 +29,13 @@ image: ""
 <section>
 	<h4>Trellis shapes</h4>
 	<img title="an arch trellis in raised beds. Photo by Jacqueline Chua." src="/images/Hardscapes/Trellis%20(9).jpg">
-	<p><b>Arch trellises</b> are great for maximising spaces above walkways or at the entrance of a garden.
+	<p><b>Arch trellises</b> are great for maximising spaces above walkways or at the entrance of a garden.</p>
+	<img title="A teepee trellis made of bamboo. Photo by Jacqueline Chua." src="/images/Hardscapes/teepeetrellis_jacquelinechua-2.jpg">
+	<p>A <b>teepee trellis</b> consists of three poles bound at the top, and are a a fast and simple way to make a trellis. This trellis type is ideal for light plants like <a href="/page-index/edible-plants/butterfly-pea/">Butterfly Peas</a>.</p>
 	<img title="Wall trellises made from metal and rope. Photo by Jacqueline Chua." src="/images/Hardscapes/Trellis%20(3).jpg">
-	</p><p><b>Wall trellises</b> are ideal for small spaces, and can be used to line the edge of a garden. </p>
-	<img title="A square bamboo trellis in a pot. Photo by Jacqueline Chua." src="/images/Hardscapes/Trellis_JacChua.jpg">
-	<p></p><p><b>Square or ring trellises</b> can also double up as a cage stake and are easily constructed in large pots and other small spaces. 
-	</p>
+	<p></p><p><b>Wall trellises</b> are ideal for small spaces, and can be used to line the edge of a garden. </p>
+	<img title="A square bamboo trellis in a pot. Photo by Jacqueline Chua." src="/images/Hardscapes/cagetrellis2_jacquelinechua.jpg">
+	<p></p><p><b>Square or cage trellises</b> can also double up as a <a href="/page-index/hardscapes/staking/">cage stake</a> and are easily constructed in large pots and other small spaces. </p>
 	<br>
 </section>
 
