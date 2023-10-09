@@ -16,16 +16,16 @@ image: ""
 </section>
 
 <section>
-	<img title="Ripening Chilli. Photo by Jacqueline Chua." src="/images/Plants/Chilli_JacChua.jpg">
+	<img title="Chilli fruits in varying stages of maturation. Photo by Jacqueline Chua." src="/images/Plants/Chilli_JacChua.jpg">
 	<p>Chillies are an essential plant in most edible gardens across South and Southeast Asia, and are famous for adding a spicy kick to sauces, stews, salads, and more! There are a wide variety of Chilli cultivars, with fruit that vary wildly in colour, shape, and size. </p>
-	<p>Most varieties of Chilli can be grown as a <a href="/page-index/glossary/#p">perennial</a> crop in Singapore.  Most small varieties of chilli can also be grown in pots. </p>
-	<p>This plant is part of the Solanum or Nightshade family, which includes other popular edible fruits like Brinjals and Tomatoes.</p>
+	<p>Most varieties of Chilli can be grown as a <a href="/page-index/glossary/#p">perennial</a> crop in Singapore, but due to their susceptibility to pests during the rainy season, many are grown as <a href="/page-index/glossary/#a">annuals</a>.  Most small varieties of chilli can also be grown in pots. </p>
+	<p>This plant is part of the Solanum or Nightshade family, which includes other popular edible fruits like <a href="/page-index/edible-plants/brinjal/">Brinjals</a> and <a href="/page-index/edible-plants/tomato/">Tomatoes</a>.</p>
 	<br>
 </section>
 
 <section>
 	<h4>Environmental needs:</h4>
-	<img title="Unriped Chilli. Photo by Jacqueline Chua." src="/images/Plants/Chilli_JacChua%20(2).jpg">
+	<img title="Immature Chilli fruits. Photo by Jacqueline Chua." src="/images/Plants/Chilli_JacChua%20(2).jpg">
 	<p>This plant does best in <a href="/page-index/horticulture-techniques/gauging-light/">full sun gardens with a minimum of 6 hours of direct sunlight</a>. This plant can also grow with 4-5 hours of direct sunlight and at least 6 hours of indirect sunlight, but will produce less fruits.</p>
 	<p>Plants do best in <a href="/page-index/horticulture-techniques/soil/">loamy soil</a> in containers that are at least 15cm deep, or in true ground.</p>
 	<iframe width="100%" height="415" src="https://www.youtube.com/embed/eGBg_S8yj0U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
@@ -38,7 +38,7 @@ image: ""
 <section>
   <h4>Sowing seeds:</h4>
 	<p>Sow seeds individually in a seedling tray filled with potting mix or seedling mix. Lightly mist the soil until damp, once a day. Seeds should sprout within two weeks.</p>
-	<p>Chilli seeds harvested fresh from ripe fruit are covered in capsaicin oil, which can cause a burning sensation when in contact with the skin, eyes, and lips. Handle fresh chilli seeds with gloves and avoid touching your face to prevent this.</p>
+	<p><b>Chilli seeds harvested fresh from ripe fruit are covered in capsaicin oil, which can cause a burning sensation when in contact with the skin, eyes, and lips. Handle fresh chilli seeds with gloves and avoid touching your face to prevent this.</b></p>
 	<iframe width="100%" height="415" src="https://www.youtube.com/embed/x7J87wY7U6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
 	<br>
 	<p>The seedlings will be vulnerable to high heat and heavy rain and are best kept in a sheltered propagation area or a shaded space with around 4 hours of partial or direct sunlight. </p>
@@ -54,19 +54,20 @@ image: ""
 <section>
 	<h4>Growing:</h4>
 	<p>Chillies will produce more flowers and thus more fruit when fed with fertilisers high in Phosphorus and Potassium. Plants can be <a href="/page-index/horticulture-techniques/fertilising">fertilised</a> regularly a month after germination for a fuller crop. </p>
-	<p>Shoot tips can be pruned off when the plant is around 30cm tall to encourage branching, with more branches bearing more fruit. </p>
+	<p>Shoot tips can be <a href="/page-index/horticulture-techniques/pruning/">pruned off</a> when the plant is around 30cm tall to encourage branching, with more branches bearing more fruit. </p>
 	<p>It is a good practice to <a href="/page-index/horticulture-techniques/pruning">prune regularly</a> and remove dead leaves and stems to improve ventilation and allow light to reach more of the plant. Regular pruning also decreases the likelihood of pests quickly taking over the plant. </p>
 	<br>
 </section>
 
 <section>
 	<h4>Harvesting:</h4>
+	<img title="Purple chillies. Photo by Jacqueline Chua." src="/images/Plants/chilli_purplecultivar%20(1)_jacquelinechua.jpg">
 	<p>Plants can be harvested for fruits around 3 months after sowing. The best time to harvest the fruit is in the early morning, before 9am.</p>
 	<p>Both immature and mature Chilli fruits can be eaten and may vary in taste depending on their stage of ripening.</p>
 	<p>Chilli fruits can be left to ripen and dry on the plant. Dry Chillies can be harvested for seeds to be planted.</p>
 	<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/FuWK90da0GY" height="415" width="100%"></iframe>
 <br><br>
-	<p>Chillies are hot because they produce capsaicin oil, which can cause skin irritation. Very hot varieties like the Carolina Reaper and Ghost pepper can cause acute pain if handled carelessly. Use gloves while harvesting fruits and avoid touching your face when handling Chillies.</p>
+	<p><b>Chillies are hot because they produce capsaicin oil, which can cause skin irritation. Very hot varieties like the Carolina Reaper and Ghost pepper can cause acute pain if handled carelessly. Use gloves while harvesting fruits and avoid touching your face when handling Chillies.</b></p>
 	<br>
 </section>
 
@@ -104,9 +105,9 @@ image: ""
 
 <section>
 	<h4>Common problems &amp; solutions:</h4>
-	<p>If your plant has little to no flowers, you try fertilising the plant with fertilisers high in Phosphorus and Potassium. These nutrients encourage root and flower growth, which are important for the plant to produce more fruit.</p>
-	<p>Many plants require pollinators to help them fruit. Bees, butterflies, birds and even beetles transport pollen from one flower to another, pollinating your crops and increasing their fruit yield. Attract some pollinators to your garden by growing pollinator-attracting crops, or become a pollinator yourself by hand-pollinating your plants. </p>
-	<p><a href="/page-index/pests/ahpids">Aphids</a>, <a href="/page-index/pests/mealy-bugs">mealy bugs</a>, and <a href="/page-index/pests/spider-mites">spider mites</a> often infest the plant if it is sickly or overgrown. Prune off the infested parts, or apply horticultural oils like neem oil and white summer oil to suffocate the remaining pests. Regularly prune the plant to allow light and air to reach throughout the plant, and check the plant for underlying problems like <a href="/page-index/plant-problems/root-rot">root rot</a>, lack of sunlight, and nutrient deficiencies. </p>
+	<p>If your plant has little to no flowers, you try fertilising the plant with <a href="/page-index/horticulture-techniques/fertilising/">fertilisers high in Phosphorus and Potassium</a>. These nutrients encourage root and flower growth, which are important for the plant to produce more fruit.</p>
+	<p>Many plants require <a href="/page-index/biodiversity/pollinators/">pollinators</a> to help them fruit. Bees, butterflies, birds and even beetles transport pollen from one flower to another, pollinating your crops and increasing their fruit yield. Attract some pollinators to your garden by growing &lt; ahref="/page-index/glossary/biodiversity-attracting-plants/"&gt;pollinator-attracting plants.</p>
+	<p><a href="/page-index/pests/ahpids">Aphids</a>, <a href="/page-index/pests/mealy-bugs">mealy bugs</a>, and <a href="/page-index/pests/spider-mites">spider mites</a> often infest the plant if it is <a href="/page-index/plant-problems/waterlogging/">waterlogged</a>, <a href="/page-index/plant-problems/wilting/">wilted from heat stress</a>, or is <a href="/page-index/horticulture-techniques/watering/">inconsistently watered</a>. <a href="/horticulture-techniques/pest-control/">Mechanical pest control</a> methods like <a href="/page-index/horticulture-techniques/pruning/">pruning</a> the infested parts are the best methods for managing these pests.</p>
 	<p><a href="/page-index/pests/oriental-fruit-flies">Fruit flies</a> can lay eggs in the fruit, resulting in larvae damaging the fruit and creating spots on the skin. Wrap your fruit in netting when it starts to develop from a fertilised flower, ideally after all the petals have dropped off. </p>
 	<p><a href="/page-index/plant-problems/wilting">Wilting</a> leaves during hot weather is a sign of heat stress. Increase the number of times the plant is watered daily, and apply mulch at the base to prevent water loss. </p>
 	<p>These plants can get blossom end rot, which shows up as dark, sunken blotches at the end of fruits. It is a symptom of a lack of calcium reaching the fruit, which is usually caused by a lack of water or inconsistent watering. Keep your soil moist but not waterlogged and take care to water more often during the dry season.</p>
