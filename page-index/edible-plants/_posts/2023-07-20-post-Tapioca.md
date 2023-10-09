@@ -16,23 +16,22 @@ image: ""
 </section>
 
 <section>
-	<img title="Photo by Jacqueline Chua." src="/images/Plants/Tapioca_JacChua.jpg">
+	<img title="Tapioca leaves. Photo by Jacqueline Chua." src="/images/Plants/Tapioca_JacChua%20(2).jpg">
 	
-<p>Tapiocas are a common root vegetable that is extensively grown and consumed across Southeast Asia. The starchy roots are processed into a variety of snacks and desserts and is a key ingredient in bubble tea pearls. The leaves are often steamed and eaten as a vegetable.</p>
-<p>A large perennial crop, Tapioca is often found in heritage gardens, permaculture gardens, rooftop gardens and edible gardens.</p>       
+<p>Tapiocas are a common root vegetable that is extensively grown and consumed across Southeast Asia. The <a href="/learn-more-about-gardening/glossary/#t">tubers</a> are processed into a variety of snacks and desserts and is a key ingredient in bubble tea pearls. The leaves are often steamed and eaten as a vegetable.</p>
+	<p>A large <a href="/learn-more-about-gardening/glossary/#p">perennial</a> crop, Tapioca is often found in heritage gardens, rooftop gardens and edible gardens.</p>       
 	<br>
 </section>
 
 <section>
 	<h4>Environmental needs:</h4>
-	<img title="Photo by Jacqueline Chua." src="/images/Plants/Tapioca_JacChua%20(2).jpg">
-<p>Tapioca is a hardy crop that can grows well in well in 4-6 hours of direct sunlight or at least 6 hours of indirect sunlight. Plants do best in <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/soil/">sandy soil</a> at least 30cm deep but are also highly tolerant of dry soils and drought-prone environments. To optimise tuber growth, add plenty of organic matter to the soil to encourage root and stem growth.</p>
+<p>Tapioca is a hardy crop that can grows well in well in <a href="/page-index/horticulture-techniques/gauging-light/">4-6 hours of direct sunlight or at least 6 hours of indirect sunlight</a>. Plants do best in <a href="/page-index/horticulture-techniques/soil/">sandy soil</a> at least 30cm deep but are also highly tolerant of dry soils and drought-prone environments. To optimise tuber growth, add plenty of <a href="/page-index/horticulture-techniques/soil-amendments/">organic matter</a> to the soil to encourage root and stem growth.</p>
 	<br>
 	</section>
 
 <section>
 	<h4>Growing:</h4>
-	<p>Tapioca is a rapid grower and generally does not need fertilizing. Plants can grow up to 4m high with enough sunlight, and is prone to snapping. Prune the plant to around 1.5m for ease of maintenance.</p>
+	<p>Tapioca is a rapid grower and generally does not need fertilizing. Plants can grow up to 4m high with enough sunlight, and is prone to snapping. <a href="/page-index/horticulture-techniques/pruning/">Prune</a> the plant to around 1.5m for ease of maintenance.</p>
 <br>
 </section>
 
