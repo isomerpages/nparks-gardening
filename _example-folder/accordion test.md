@@ -39,8 +39,8 @@ description: ""
 	}
 	
 	.scrolltop {
-		position:fixed;
-		bottom:100px;
+		position:relative;
+		bottom:10px;
 		right: 10px
 	}
 </style>
