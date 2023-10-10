@@ -16,6 +16,7 @@ image: ""
 </section>
 
 <section>
+	<img title="Adanson's monstera leaves. Photo by Jacqueline Chua." src="/images/Plants/adansonsmonstera_jacquelinechua.jpg">
 	<p>The Adanson’s Monstera has green leaf margins and leaf stalks. Mature leaves have holes on each side of the midrib, like a slice of swiss cheese. Its attractive leaves provide an interesting texture in the garden.</p>
 	<p>A perennial climber, the Adanson’s Monstera is a great plant for the indoor garden, and is often planted in a hanging pot or as a trellis plant.</p>
 	 <br> 
@@ -23,6 +24,7 @@ image: ""
  
 <section> 
   <h4>Environmental needs:</h4> 
+	<img title="Adanson’s Monstera plants grown in pots. Photo by Jacqueline Chua." src="/images/Plants/adonsonsmonstera_jacquelinechua.jpg">
   <p>This plant thrives in 4-6 hours of indirect sunlight, and up to 4 hours of direct sunlight.  Plants do best in loamy soil. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe.</p> 
 	<br>
 </section>
