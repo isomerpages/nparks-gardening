@@ -34,15 +34,14 @@ description: ""
 	
 		.ffw {
 		display: grid;
-		grid-template-columns: repeat(auto-fit, minmax(275px, 1fr));
+		grid-template-columns: repeat(auto-fit, minmax(275px, 275px));
 		grid-template-rows: auto-fit;
+		direction:rtl;
 		column-gap: 20px;
 		row-gap: 20px;
 	}
 	
 	.ffwbutton{
-		grid-column-start:2;
-		grid-column-end: 3;
 		text-align:center;
 		background-color: #215732;
 		border: 2px solid #215732;
@@ -93,6 +92,5 @@ description: ""
 <a href="/digital-tools/plant-search/" class="plantsearch">Click here to use our plant search if you have no clue what is suitable for your garden!</a>
 	
 <div class="ffw">
-	<div></div>
 	<a href="https://www.nparks.gov.sg/florafaunaweb" class="ffwbutton">NPark's Flora and Fauna Web</a>
 </div>
