@@ -38,10 +38,8 @@ description: ""
 	  color: white !important;
 	}
 	
-	.scrollarea{
-		position:relative; 
-		height:100%; 
-		width:100%;
+	.grid {
+	grid-template-columns: 750px 1fr;
 	}
 	
 	.scrolltop {
@@ -86,65 +84,65 @@ description: ""
 </tbody></table>
 <br>
 
-<section>
-<h4 id="a">A</h4>
-<h4 id="b">B</h4>
-	<a href="/page-index/horticulture-techniques/bottom-watering/" class="body">Bottom watering</a>
-<h4 id="c">C</h4>
-	<a href="/page-index/horticulture-techniques/choosing-plants/" class="body">Choosing plants</a>
-	<br>
-	<a href="/page-index/horticulture-techniques/cloches/" class="body">Cloche</a>
-	<br>
-	<a href="/page-index/horticulture-techniques/companion-planting" class="body">Companion planting</a>
-	<br>
-	<a href="/page-index/horticulture-techniques/composting/" class="body">Composting</a>
-	<br>
-	<a href="/page-index/horticulture-techniques/cut-and-come-again/" class="body">Cut and come again harvesting</a>
-<h4 id="d">D</h4>
-<h4 id="e">E</h4>
-<h4 id="f">F</h4>
-	<a href="/page-index/horticulture-techniques/fertilising/" class="body">Fertilising</a><br>
-	<a href="/page-index/horticulture-techniques/finding-pests/" class="body">Finding pests</a><br>
-<h4 id="g">G</h4>
-<a href="/page-index/horticulture-techniques/gauging-light/" class="body">Gauging light</a><br>
-<a href="/page-index/horticulture-techniques/grow-lights" class="body">Grow lights</a><br>
-	<a href="/page-index/horticulture-techniques/harvesting-hygiene/" class="body">Growing edibles for consumption</a>
-<h4 id="h">H</h4>
-<h4 id="i">I</h4>
-	<a href="/page-index/horticulture-techniques/ipm" class="body">Integrated pest management</a>
-<h4 id="j">J</h4>
-<h4 id="k">K</h4>
-<h4 id="l">L</h4>
-<h4 id="m">M</h4>
-	<a href="/page-index/horticulture-techniques/microgreens/" class="body">Microgreens</a><br>
-	<a href="/page-index/horticulture-techniques/mulching/" class="body">Mulching</a>
-<h4 id="n">N</h4>
-<h4 id="o">O</h4>
-<h4 id="p">P</h4>
-	<a href="/page-index/horticulture-techniques/pest-control/" class="body">Pest control</a><br>
-	<a href="/page-index/horticulture-techniques/planting-in-containers/" class="body">Planting in containers</a><br>
-	<a href="/page-index/horticulture-techniques/true-ground/" class="body">Planting in true ground</a><br>
-	<a href="/page-index/horticulture-techniques/plant-spacing/" class="body">Plant spacing</a><br>
-	<a href="/page-index/horticulture-techniques/propagating-by-cuttings" class="body">Propagating via cuttings</a><br>
-<a href="/page-index/horticulture-techniques/propagating-by-division" class="body">Propagating via division</a><br>
-<a href="/page-index/horticulture-techniques/propagating-by-seed" class="body">Propagating via seeds</a><br>
-	<a href="/page-index/horticulture-techniques/pruning" class="body">Pruning</a>
-<h4 id="q">Q</h4>
-<h4 id="r">R</h4>
-<h4 id="s">S</h4>
-	<a href="/page-index/horticulture-techniques/soil/" class="body">Soil</a><br>
-	<a href="/page-index/horticulture-techniques/soil-amendments/" class="body">Soil amendments</a><br>
-<h4 id="t">T</h4>
-<h4 id="u">U</h4>
-<h4 id="v">V</h4>
-<h4 id="w">W</h4>
-	<a href="/page-index/horticulture-techniques/watering/" class="body">Watering</a><br>
-	<a href="/page-index/horticulture-techniques/weeding/" class="body">Weeding</a><br>
-<h4 id="x">X</h4>
-<h4 id="y">Y</h4>
-<h4 id="z">Z</h4>
-</section>
-
-<div class="scrollarea">
-	<a href="#top" class="scrolltop" style="text-decoration:none">↑ Back to top</a>
-</div>
+<div class="grid">
+	</div>
+		<h4 id="a">A</h4>
+		<h4 id="b">B</h4>
+			<a href="/page-index/horticulture-techniques/bottom-watering/" class="body">Bottom watering</a>
+		<h4 id="c">C</h4>
+			<a href="/page-index/horticulture-techniques/choosing-plants/" class="body">Choosing plants</a>
+			<br>
+			<a href="/page-index/horticulture-techniques/cloches/" class="body">Cloche</a>
+			<br>
+			<a href="/page-index/horticulture-techniques/companion-planting" class="body">Companion planting</a>
+			<br>
+			<a href="/page-index/horticulture-techniques/composting/" class="body">Composting</a>
+			<br>
+			<a href="/page-index/horticulture-techniques/cut-and-come-again/" class="body">Cut and come again harvesting</a>
+		<h4 id="d">D</h4>
+		<h4 id="e">E</h4>
+		<h4 id="f">F</h4>
+			<a href="/page-index/horticulture-techniques/fertilising/" class="body">Fertilising</a><br>
+			<a href="/page-index/horticulture-techniques/finding-pests/" class="body">Finding pests</a><br>
+		<h4 id="g">G</h4>
+		<a href="/page-index/horticulture-techniques/gauging-light/" class="body">Gauging light</a><br>
+		<a href="/page-index/horticulture-techniques/grow-lights" class="body">Grow lights</a><br>
+			<a href="/page-index/horticulture-techniques/harvesting-hygiene/" class="body">Growing edibles for consumption</a>
+		<h4 id="h">H</h4>
+		<h4 id="i">I</h4>
+			<a href="/page-index/horticulture-techniques/ipm" class="body">Integrated pest management</a>
+		<h4 id="j">J</h4>
+		<h4 id="k">K</h4>
+		<h4 id="l">L</h4>
+		<h4 id="m">M</h4>
+			<a href="/page-index/horticulture-techniques/microgreens/" class="body">Microgreens</a><br>
+			<a href="/page-index/horticulture-techniques/mulching/" class="body">Mulching</a>
+		<h4 id="n">N</h4>
+		<h4 id="o">O</h4>
+		<h4 id="p">P</h4>
+			<a href="/page-index/horticulture-techniques/pest-control/" class="body">Pest control</a><br>
+			<a href="/page-index/horticulture-techniques/planting-in-containers/" class="body">Planting in containers</a><br>
+			<a href="/page-index/horticulture-techniques/true-ground/" class="body">Planting in true ground</a><br>
+			<a href="/page-index/horticulture-techniques/plant-spacing/" class="body">Plant spacing</a><br>
+			<a href="/page-index/horticulture-techniques/propagating-by-cuttings" class="body">Propagating via cuttings</a><br>
+		<a href="/page-index/horticulture-techniques/propagating-by-division" class="body">Propagating via division</a><br>
+		<a href="/page-index/horticulture-techniques/propagating-by-seed" class="body">Propagating via seeds</a><br>
+			<a href="/page-index/horticulture-techniques/pruning" class="body">Pruning</a>
+		<h4 id="q">Q</h4>
+		<h4 id="r">R</h4>
+		<h4 id="s">S</h4>
+			<a href="/page-index/horticulture-techniques/soil/" class="body">Soil</a><br>
+			<a href="/page-index/horticulture-techniques/soil-amendments/" class="body">Soil amendments</a><br>
+		<h4 id="t">T</h4>
+		<h4 id="u">U</h4>
+		<h4 id="v">V</h4>
+		<h4 id="w">W</h4>
+			<a href="/page-index/horticulture-techniques/watering/" class="body">Watering</a><br>
+			<a href="/page-index/horticulture-techniques/weeding/" class="body">Weeding</a><br>
+		<h4 id="x">X</h4>
+		<h4 id="y">Y</h4>
+		<h4 id="z">Z</h4>
+	
+	<div>
+		<a href="#top" class="scrolltop" style="text-decoration:none">↑ Back to top</a>
+	</div>
