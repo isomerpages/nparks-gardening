@@ -24,6 +24,7 @@ image: ""
  
 <section> 
   <h4>Environmental needs:</h4> 
+	<img title="Golden dewdrop plants grown in pots. Photo by Jacqueline Chua." src="/images/Plants/goldendewdrops%20(1)_jacquelinechua.jpg">
   <p>This plant thrives in 4-8 hours of direct sunlight. It can also grow in 4-6 hours of indirect sunlight, but at a slower pace with less flowers. Plants do best in loamy soil at least 20cm deep, making them suitable for container gardening, but will rapidly grow to their full size in true ground. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe.</p> 
 	<br>
 </section>
