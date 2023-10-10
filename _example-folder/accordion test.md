@@ -38,15 +38,10 @@ description: ""
 	  color: white !important;
 	}
 	
-	.scrollarea {
-		postion: relative;
-		height: 3358.38px;
-		width: 802.66px;
-	}
 	.scrolltop {
 		position:fixed;
-		bottom:0px;
-		left:0px;
+		bottom:10px;
+		right:10px;
 	}
 </style>
 
@@ -144,6 +139,6 @@ description: ""
 <h4 id="z">Z</h4>
 </section>
 
-<div class="scrollarea">
+<div style="position:relative; height:100%; width:100%" class="scrollarea">
 	<a href="#top" class="scrolltop" style="text-decoration:none">↑ Back to top</a>
 </div>
