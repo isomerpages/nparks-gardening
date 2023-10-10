@@ -40,8 +40,8 @@ description: ""
 	
 	.scrolltop{
 		position:sticky;
-		bottom: 10px;
-		right: 100px;
+		bottom: 50px;
+		right: 10px;
 	}
 </style>
 
