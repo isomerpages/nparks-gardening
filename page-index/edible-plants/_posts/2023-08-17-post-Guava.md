@@ -52,17 +52,17 @@ image: ""
 
 <section>
 	<h4>Propagation:</h4>
-	<p>This tree is grown via seed, or via woody cuttings with rooting hormone.</p>
+	<p>This tree is grown via <a href="/page-index/horticulture-techniques/propagating-by-seed">seed</a>, or via <a href="/page-index/horticulture-techniques/propagating-by-cuttings">woody cuttings with rooting hormone</a>.</p>
 	<br>
 </section>
 
 <section>
 	<h4>Common problems &amp; solutions:</h4>
-	<p>If your plant has little to no flowers, you try fertilising the plant with fertilisers high in Phosphorus and Potassium. These nutrients encourage root and flower growth, which are important for the plant to produce more fruit.</p>
-	<p>Many plants require pollinators to help them fruit. Bees, butterflies, birds and even beetles transport pollen from one flower to another, pollinating your crops and increasing their fruit yield. Attract some pollinators to your garden by growing pollinator-attracting crops, or become a pollinator yourself by hand-pollinating your plants.</p>
-	<p>Aphids, mealy bugs, and spider mites often infest the plant if it is sickly or overgrown. Prune off the infested parts, or apply horticultural oils like neem oil and white summer oil to suffocate the remaining pests. Regularly prune the plant to allow light and air to reach throughout the plant, and check the plant for underlying problems like root rot, lack of sunlight, and nutrient deficiencies.</p>
-	<p>Whiteflies can infest the plant and lay eggs under its leaves. Remove affected plant parts and catch remaining adults with yellow sticky paper or treat them with citrus spray. 
-Fruit flies can lay eggs in the fruit, resulting in larvae damaging the fruit and creating spots on the skin. Wrap your fruit in netting when it starts to develop from a fertilised flower, ideally after all the petals have dropped off.</p>
-	<p>Squirrels, birds and fruit bats may eat unripe or ripe fruit. Wrap your fruit in netting when it starts to develop from a fertilised flower, ideally after all the petals have dropped off.</p>
+	<p>If your plant has little to no flowers, you try fertilising the plant with <a href="/page-index/horticulture-techniques/fertilising/">fertilisers high in Phosphorus and Potassium</a>. These nutrients encourage root and flower growth, which are important for the plant to produce more fruit.</p>
+<p>Many plants require <a href="/page-index/biodiversity/pollinators/">pollinators</a> to help them fruit. Bees, butterflies, birds and even beetles transport pollen from one flower to another, pollinating your crops and increasing their fruit yield. Attract some pollinators to your garden by growing <a href="/page-index/glossary/biodiversity-attracting-plants/">pollinator-attracting plants</a>.</p>
+<p><a href="/page-index/pests/ahpids">Aphids</a>, <a href="/page-index/pests/mealy-bugs">mealy bugs</a>, and <a href="/page-index/pests/scale-insects/">scale insects</a> often infest the plant if it is <a href="/page-index/plant-problems/waterlogging/">waterlogged</a>, <a href="/page-index/plant-problems/wilting/">wilted from heat stress</a>, or is <a href="/page-index/horticulture-techniques/watering/">inconsistently watered</a>. <a href="/horticulture-techniques/pest-control/">Mechanical pest control</a> methods like <a href="/page-index/horticulture-techniques/pruning/">pruning</a> the infested parts are the best methods for managing these pests.</p>
+		<p><a href="/page-index/pests/oriental-fruit-flies/">Fruit flies</a> can lay eggs in the fruit, resulting in larvae damaging the fruit and creating spots on the skin. Wrap your fruit in <a href="/page-index/hardscapes/netting/">netting</a> when it starts to develop from a fertilised flower, ideally after all the petals have dropped off. </p>
+	<p><a href="/page-index/plant-problems/wilting">Wilting</a> leaves during hot weather is a sign of heat stress. Increase the number of times the plant is watered daily, and apply mulch at the base to prevent water loss. </p>
+	<p>Squirrels, birds and fruit bats may eat unripe or ripe fruit. Wrap your fruit in <a href="/page-index/hardscapes/netting/">netting</a> when it starts to develop from a fertilised flower, ideally after all the petals have dropped off.</p>
 	<br>
 </section>
