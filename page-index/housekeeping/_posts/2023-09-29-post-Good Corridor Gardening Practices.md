@@ -23,7 +23,7 @@ image: ""
 	<h4>Keeping your corridor safe</h4>
 	<img title="Pots along a corridor securely hung or supported by racks and stands. Photo by Jacqueline Chua." src="/images/Garden%20design/CorridorGardens_JacChua%20(1).jpg">
 	<p>Plant pots should always be secured on the inner parapet walls with racks and planters that are stable, even in high wind conditions. Racks with adjustable grips are the most versatile for large parapets, while iron-wrought plant stands are heavy and stable enough to remain upright while holding potted plants.</p>
-	<p>If you are using catchment plates to hold water, make sure that you remove the water at least once a week to <a href="/page-index/housekeeping/keeping gardens-mosquito-free">prevent mosquitoes from breeding</a>. Pots with water reservoirs should similarly have their water changed regularly or have BTI granules applied to kill mosquito larvae.</p>
+	<p>If you are using catchment plates to hold water, make sure that you remove the water at least once a week to <a href="/page-index/housekeeping/keeping-gardens-mosquito-free/">prevent mosquitoes from breeding</a>. Pots with water reservoirs should similarly have their water changed regularly or have BTI granules applied to kill mosquito larvae.</p>
 	<p>Keeping your corridor <a href="/page-index/housekeeping/keeping-your-garden-neat/">garden neat</a> is also a good way to keep it safe. Trimming back overgrown plants, checking pots and racks for damage, and removing debris are some easy ways to make gardening safe and straightforward.</p>
 	<br>
 </section>
