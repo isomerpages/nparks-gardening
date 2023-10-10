@@ -33,7 +33,7 @@ image: ""
 	
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/eGBg_S8yj0U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
 	
-<p>Depending on the cultivar, tomatoes can grow as a vine (indeterminate) or as a small shrub (determinate). Vining varieties will need cage<a href="/page-index/hardscapes/staking/">stakes</a> or a cage <a href="/page-index/hardscapes/trellises/">trellis</a> to support their growth.</p>
+<p>Depending on the cultivar, tomatoes can grow as a vine (indeterminate) or as a small shrub (determinate). Vining varieties will need <a href="/page-index/hardscapes/staking/">stakes</a> or a <a href="/page-index/hardscapes/trellises/">trellis</a> to support their growth.</p>
 <p>As with all members of the Nightshade family, this plant is buzz-pollinated and produces the most fruit when bees are around to pollinate it. Growing more <a href="/page-index/glossary/biodiversity-attracting-plants/">bee-attracting plants</a> within the garden will encourage pollination.  </p>
 	<p> Tomato plants need to be watered consistently, and have good soil drainage. Plants in <a href="/page-index/plant-problems/waterlogging/">waterlogged soil</a> or pots with poor drainage tend to get <a href="/page-index/plant-problems/root-rot/">root rot</a> easily, resulting in the plant dying quickly. Tomatoes exposed to a lot of water suddenly, like during the first storm of the monsoon season, may have their fruits crack. Plants that lack water or are <a href="/page-index/horticulture-techniques/watering/">inconsistently watered</a> tend to <a href="/page-index/plant-problems/wilting/">wilt</a>, particularly at the hottest part of the day, and may get <a href="/page-index/plant-problems/nutrient-deficiencies/">blossom end rot</a>. Blossom end rot looks like dark, sunken patches at the end of fruits, and is a symptom of a lack of calcium. Most soils in Singapore have plenty of calcium, but a lack of water will prevent it from reaching the fruit.</p>
 	<p>All of these watering-related problems can be managed by planting tomatoes in well-draining soil with plenty of <a href="/page-index/horticulture-techniques/soil-amendments/">organic matter like compost and cocopeat</a>. This is because organic matter soaks water up like a sponge, but will allow excess water to drain away, thus making sure that the roots can breathe and prevents root rot. With such well-draining soil, the plants can then be watered by hand or via an irrigation system twice a day to keep the soil moist, and the plant well-watered. Plants grown during the monsoon season can be protected by a <a href="/page-index/hardscapes/shelters/">shelter</a> to prevent the large influx of water during storms from cracking fruits.</p>
@@ -102,7 +102,7 @@ image: ""
 
 <section>
 	<h4>Propagation:</h4>
-	<p>Tomatoes are grown from <a href="/page-index/horticulture-techniques/propagating-by-seed/">seed</a> or via division of <a href="/page-index/horticulture-techniques/propagating-by-division/">suckers</a>. </p>
+	<p>Tomatoes are grown from <a href="/page-index/horticulture-techniques/propagating-by-seed/">seed</a> or via <a href="/page-index/horticulture-techniques/propagating-by-cuttings/">cuttings</a> rooted in water. </p>
 	<br>
 </section>
 
