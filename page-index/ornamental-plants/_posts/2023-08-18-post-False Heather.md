@@ -16,7 +16,7 @@ image: ""
 </section>
  
 <section>
-	<img title="Photo by Flora and Fauna Web." src="/images/Plants/falseheather_ffw.jfif">
+	<img title="False Heather flowers. Photo by Jacqueline Chua." src="/images/Plants/falseheather_jacquelinechua.jpg">
 	<p>False Heather is a hardy, free-flowering groundcover that is commonly seen in roadside gardens and biodiversity-attracting gardens. The nectar-filled flowers are highly attractive bees and butterflies.</p>
 	<p>A perennial groundcover, False Heather is useful as a biodiversity-attracting plant and perimeter plant to add a pop of colour to any garden.</p>
 	 <br> 
@@ -24,6 +24,7 @@ image: ""
  
 <section> 
   <h4>Environmental needs:</h4> 
+	<img title="False heather growing in pots. Photo by Jacqueline Chua." src="/images/Plants/falseheather3_jacquelinechua.jpg">
   <p>This plant thrives in 4-8 hours of direct sunlight. This plant can also grow in at least 6 hours of indirect sunlight, but at a slower pace.  Plants do best in loamy soil at least 10cm deep, making them suitable for container gardening. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe.</p> 
 	<br>
 </section>
