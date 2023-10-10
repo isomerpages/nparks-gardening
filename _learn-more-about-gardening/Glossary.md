@@ -3,6 +3,32 @@ title: Glossary
 permalink: /learn-more-about-gardening/glossary/
 description: ""
 ---
+<style>
+		table a:link {
+		color:white;
+	}
+	
+	tr {
+		height:100%;
+		width: 95%;
+		display: flex;
+		flex-direction: row;
+		flex-wrap: wrap;
+		column-gap: 38px;
+		overflow: visible;
+	}
+	
+	.button-leaf {
+		height: 40px;
+		width: 45px;
+		padding: 9px 15px 9px;
+	  background-color: #7a9a01;
+	  border: 1px solid #7a9a01;
+	  border-radius: 95px 10px;
+	  color: white !important;
+	}
+</style>
+
 <a id="top"></a>
 Click on an alphabet to navigate the glossary!
 
