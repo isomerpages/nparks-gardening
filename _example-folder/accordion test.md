@@ -41,7 +41,7 @@ description: ""
 	.scrolltop {
 		position: fixed;
 	  bottom: 20px;
-    right: 10px;
+    right: 100px;
 	}
 </style>
 
