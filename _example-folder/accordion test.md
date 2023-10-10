@@ -138,7 +138,7 @@ description: ""
 		<h4 id="y">Y</h4>
 		<h4 id="z">Z</h4>
 	</div>
-	<div>
-		<a href="#top" class="scrolltop" style="text-decoration:none">↑ Back to top</a>
+	<div style="position:relative">
+		<a href="#top" style="text-decoration:none; position:fixed; bottom:10px">↑ Back to top</a>
 	</div>
 </div>
