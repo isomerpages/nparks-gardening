@@ -26,7 +26,7 @@ image: ""
 <section>
 	<h4>Environmental needs:</h4>
 		<img src="/images/Plants/BluePeaFlower_JacChua.jpg">
-		<p>This plant thrives in <a href="/page-index/horticulture-techniques/gauging-light/">4-8 hours of direct sunlight</a>. Plants do best in <a href="/page-index/horticulture-techniques/soil/">loamy soil</a> at least 20cm deep, or in true ground.</p>
+		<p>This plant thrives in <a href="/page-index/horticulture-techniques/gauging-light/">4-8 hours of direct sunlight</a>. Plants do best in <a href="/page-index/horticulture-techniques/soil/">loamy soil</a> at least 20cm deep, or in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a>.</p>
 		<p>This vine is vulnerable to heat stress during the dry season. Water it regularly and <a href="/page-index/horticulture-techniques/mulching/">mulch</a> the base to prevent water loss.</p>
 	<p>As a fast-growing vine, this plant needs to be trained up a light <a href="/page-index/hardscapes/trellises/">trellis</a>. The vine readily produces flowers and can be used to beautify fences and arch trellises.</p>
 		<p>As with all members of the bean family, this plant is pollinated by bees. Growing more <a href="/page-index/glossary/biodiversity-attracting-plants/">bee-attracting plants</a> within the garden will encourage pollination.</p>
@@ -52,7 +52,7 @@ image: ""
 	<h4>Harvesting:</h4>
 		<p>Plants can be harvested for flowers at any time.</p>
 		<img title="Photo by Jacqueline Chua." src="/images/Plants/BluePeaFlower_JacChua%20(3).jpg">
-		<p>Dry, brown seed pods are mature, and can be harvested for seeds to plant.</p>
+		<p>Dry, brown seed pods are mature, and can be <a href="/page-index/horticulture-techniques/propagating-by-seed/">harvested for seeds</a> to plant.</p>
 	<br>
 </section>
 
