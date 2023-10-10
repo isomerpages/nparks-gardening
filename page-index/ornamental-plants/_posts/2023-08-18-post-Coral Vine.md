@@ -16,7 +16,7 @@ image: ""
 </section> 
  
 <section>
-	<img title="Photo by Flora and Fauna Web." src="/images/Plants/coralvine_ffw.jfif">
+	<img title="Coral Vine flowers. Photo by Jacqueline Chua." src="/images/Plants/coralvine%20(1)_jacquelinechua.jpg">
 	<p>Coral vines are hardy free-flowering vines that are commonly seen in rewilding areas, along roadside gardens, and biodiversity-attracting gardens. The flowers are highly attractive to bees and butterflies.</p>
 	<p>A perennial vine, Coral Vines are useful as biodiversity-attracting plants and perimeter plants to add a pop of colour to any garden.</p>
 	 <br> 
@@ -24,6 +24,7 @@ image: ""
  
 <section> 
   <h4>Environmental needs:</h4> 
+	<img title="Coral vines growing along a fence. Photo by Jacqueline Chua." src="/images/Plants/coralvine%20(3)_jacquelinechua.jpg">
   <p>This plant thrives in 4-8 hours of direct sunlight. This plant can also grow in at least 6 hours of indirect sunlight, but growth will be slower and the plant will produce less flowers. Plants do best in loamy soil. These plants are vulnerable to root rot, so ensure that your soil has plenty of organic matter to let the roots breathe. This plant is a versatile climber that does well on a variety of trellises.</p> 
 	<br>
 </section>
