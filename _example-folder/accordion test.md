@@ -39,8 +39,8 @@ description: ""
 	}
 	
 	.scrolltop{
-		box-sizing:inherit
-		position:fixed
+		box-sizing:inherit;
+		position:fixed;
 		bottom: 10px;
 		right: 100px;
 	}
