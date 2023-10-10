@@ -16,16 +16,16 @@ image: ""
 </section>
 
 <section>
-	<img title="Photo by Flora and Fauna Web." src="/images/Plants/guava_ffw.jfif">
+	<img title="Guava fruits growing on a tree. Photo by Jacqueline Chua." src="/images/Plants/guava_jacquelinechua.jpg">
 	<p>Guava trees are common fruit trees in home and community gardens as they can grow in a wide range of soils and produce fruit all year long. Guava fruits are typically eaten raw, processed into desserts or candy, or drunk as a juice.</p>
-	<p>As a perennial tree, it is a common sight in edible gardens, permaculture gardens, and low maintenance beds.</p>       
+	<p>As a <a href="/learn-more-about-gardening/glossary/#p">perennial</a> tree, it is a common sight in edible gardens.</p>       
 	<br>
 </section>
 
 <section>
 	<h4>Environmental needs:</h4>
-	<p>This tree does best in full sun gardens with a minimum of 6 hours of sunlight. This plant can also grow in areas with at least 6 hours of indirect sunlight, but growth will be slow and the plant will produce less fruits.</p>
-	<p>Plants do best in moist, well-drained soil at least 50cm deep, or in true ground. This tree is highly tolerant of a wide variety of soil types, from sandy to waterlogged.</p>
+	<p>This tree does best in <a href="/page-index/horticulture-techniques/gauging-light">full sun gardens with a minimum of 6 hours of sunlight</a>. This plant can also grow in areas with at least 6 hours of indirect sunlight, but growth will be slow and the plant will produce less fruits.</p>
+	<p>Plants do best in <a href="/page-index/horticulture-techniques/soil/">loamy soil</a> at least 50cm deep, or in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a>. This tree is highly tolerant of a wide variety of <a href="/page-index/horticulture-techniques/soil/"> soil types</a>, from sandy to clayey.</p>
 	<p>This tree can grow up to 10m high. The tree is best maintained at roughly 2m high for easy maintenance and harvesting.</p>
 	<br>
 </section>
@@ -33,14 +33,14 @@ image: ""
 <section>
 	<h4>Sowing Seeds</h4>
 	<p>Seeds can be sown directly into pots or the ground. Because the plant eventually grows into a tree, it is easier to grow a few seedlings in separate pots before selecting the healthiest one to be grown in true ground.</p>
-	<p>The seedlings are generally resilient to most environmental factors but may be vulnerable to being eaten by snails or birds. Protect your young plants with a DIY cloche or netting.</p>
+	<p>The seedlings are generally resilient to most environmental factors but may be vulnerable to being eaten by snails or birds. Protect your young plants with a DIY <a href="/page-index/horticulture-techniques/cloches">cloche</a> or <a href="/page-index/hardscapes/netting">netting</a>.</p>
 	<br>
 </section>
 
 <section>
   <h4>Growing:</h4>
-	<p>Guava trees are steady growers but do benefit from being fed high potassium and phosphorus fertilisers to encourage flowering and thus fruiting. Regular pruning to promote airflow will keep the plant healthy and neat.</p>
-	<p>The tree will need to be around 5 years old before it starts producing fruit if grown from seed.</p>
+	<p>Guava trees are steady growers but do benefit from being fed high potassium and phosphorus <a href="/page-index/horticulture-techniques/fertilising">fertilisers</a> to encourage flowering and thus fruiting. Regular <a href="/page-index/horticulture-techniques/pruning/">pruning</a>
+	</p><p>The tree will need to be around 5 years old before it starts producing fruit if grown from seed.</p>
 	<br>
 </section>
 
