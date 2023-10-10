@@ -37,6 +37,12 @@ description: ""
 	  border-radius: 95px 10px;
 	  color: white !important;
 	}
+	
+	.scrolltop{
+		position:fixed
+		bottom: 10px;
+		right: 100px;
+	}
 </style>
 
 <a id="top"></a>
@@ -133,8 +139,5 @@ description: ""
 <h4 id="z">Z</h4>
 </section>
 
-<div class="float-buttons">
-	<div class="inner-wrapper-sticky">
-  <a style="text-decoration:none" class="float-buttons left" href="#top">↑ Back to top</a>
-	</div>
-</div>
+
+<a style="text-decoration:none" class="scrolltop" href="#top">↑ Back to top</a>
