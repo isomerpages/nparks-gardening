@@ -31,7 +31,7 @@ description: ""
 </style>
 
 <a id="top"></a>
-Click on an alphabet to navigate the glossary!
+<strong>Click on an alphabet to navigate the glossary!</strong>
 
 <table>
 	<tbody>
