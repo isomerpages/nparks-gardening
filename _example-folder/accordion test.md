@@ -37,6 +37,12 @@ description: ""
 	  border-radius: 95px 10px;
 	  color: white !important;
 	}
+	
+	.scrolltop {
+		position:fixed;
+		bottom:100px;
+		right: 10px
+	}
 </style>
 
 <a id="top"></a>
@@ -133,47 +139,5 @@ description: ""
 <h4 id="z">Z</h4>
 </section>
 
-<div class="col is-1 has-float-btns is-position-relative is-hidden-touch">
-    <div class="float-buttons" style=""><div class="inner-wrapper-sticky" style="position: relative;">
-        <div class="actionbar__inner">
-            <button class="bp-button" id="print-button" aria-label="Print">
-              <i class="sgds-icon sgds-icon-print is-size-4">
-              </i>
-            </button>
-        </div>
-        <div class="actionbar__inner padding--top--sm">
-            <button class="bp-button" id="copy-link" aria-label="Copy Link">
-              <i class="sgds-icon sgds-icon-link is-size-4">
-              </i>
-            </button>
-            <input id="page-url" type="text" class="hide" value="https://staging.dmhtu0pi4p9u7.amplifyapp.com/learn-more-about-gardening/horticulture-techniques/"></div>
-        <div class="actionbar__inner padding--top--sm">
-            <a href="mailto:?Subject=Horticulture%20Techniques&amp;Body=https%3A%2F%2Fstaging.dmhtu0pi4p9u7.amplifyapp.com%2Flearn-more-about-gardening%2Fhorticulture-techniques%2F" id="mail-anchor" aria-label="Mail">
-            <button class="bp-button">
-            <i class="sgds-icon sgds-icon-mail is-size-4">
-            </i>
-            </button>
-            </a>
-        </div>
-        <div class="actionbar__inner padding--top--sm"><a href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fstaging.dmhtu0pi4p9u7.amplifyapp.com%2Flearn-more-about-gardening%2Fhorticulture-techniques%2F" target="_blank" rel="noreferrer" id="fb-anchor" aria-label="Share in Facebook">
-            <button class="bp-button">
-              <i class="sgds-icon sgds-icon-facebook-alt is-size-4">
-              </i>
-            </button>
-            </a>
-        </div>
-        <div class="actionbar__inner padding--top--sm"><a href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fstaging.dmhtu0pi4p9u7.amplifyapp.com%2Flearn-more-about-gardening%2Fhorticulture-techniques%2F&amp;title=Horticulture%20Techniques" target="_blank" rel="noreferrer" id="li-anchor" aria-label="Share in LinkedIn">
-            <button class="bp-button">
-              <i class="sgds-icon sgds-icon-linkedin-alt is-size-4">
-              </i>
-            </button>
-            </a>
-        </div>
 
-<div class="col is-1 has-float-btns is-position-relative">
-	<div class="float-buttons">
-		<div class="inner-wrapper-sticky" style="position:relative;">
-		<a href="#top" class="float-buttons left" style="text-decoration:none">↑ Back to top</a>
-		</div>
-	</div>
-</div></div></div></div>
+<a href="#top" class="scrolltop content" style="text-decoration:none">↑ Back to top</a>
