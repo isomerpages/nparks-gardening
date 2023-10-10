@@ -26,7 +26,7 @@ image: ""
 <section>
 	<h4>Environmental needs:</h4>
 	<img title="Chive plants growing in pots.Photo by Jacqueline Chua." src="/images/Plants/chives_jacquelinechua.jpg">
-	<p>As with most herbs, Chives need about <a href="/page-index/horticulture-techniques/gauging-light">4-6 hours of direct sunlight or 6-8 hours of indirect sunlight</a>. This plant will grow faster in direct sunlight but will tolerate shadier conditions. Plants do best in <a href="/page-index/horticulture-techniques/soil/">loamy or sandy soil</a> at least 5cm deep, making them suitable for container gardening. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe. </p>
+	<p>As with most herbs, Chives need about <a href="/page-index/horticulture-techniques/gauging-light">4-6 hours of direct sunlight or 6-8 hours of indirect sunlight</a>. This plant will grow faster in direct sunlight but will tolerate shadier conditions. Plants do best in <a href="/page-index/horticulture-techniques/soil/">loamy or sandy soil</a> at least 5cm deep, making them suitable for container gardening. These plants are vulnerable to <a href="/page-index/plant-problems/root-rot/">root rot</a>, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe. </p>
 	<br>
 </section>
 
@@ -70,5 +70,6 @@ image: ""
 	<h4>Common problems &amp; solutions:</h4>
 	<p>Like most strong-smelling herbs, this plant is relatively resistant to pests and disease if kept healthy.</p>
 <p><a href="/page-index/pests/ahpids">Aphids</a> may infest the plant if it is <a href="/page-index/plant-problems/waterlogging/">waterlogged</a>, <a href="/page-index/plant-problems/wilting/">wilted from heat stress</a>, or is <a href="/page-index/horticulture-techniques/watering/">inconsistently watered</a>. <a href="/horticulture-techniques/pest-control/">Mechanical pest control</a> methods like <a href="/page-index/horticulture-techniques/pruning/">pruning</a> the infested parts are the best methods for managing these pests.</p>
+	<p>This plant is vulnerable to <a href="/page-index/plant-problems/root-rot/">root rot</a> if grown in <a href="/page-index/plant-problems/waterlogging/">waterlogged</a> soil. Improve drianage to prevent this.</p>
 	<br>
 </section>
