@@ -37,12 +37,6 @@ description: ""
 	  border-radius: 95px 10px;
 	  color: white !important;
 	}
-	
-	.scrolltop{
-		position:fixed;
-		bottom: 50px;
-		right: 10px;
-	}
 </style>
 
 <a id="top"></a>
@@ -50,32 +44,32 @@ description: ""
 <table>
 	<tbody>
 		<tr>
-			<td style="width:0; border-bottom:0px"><a style="text-decoration: none" href="#a"><div class="button-leaf">A</div></a></td>
-			<td style="width:0; border-bottom:0px"><a style="text-decoration:none" href="#b"><div class="button-leaf">B</div></a></td>
-		<td style="width:0; border-bottom:0px"><a style="text-decoration:none" href="#c"><div class="button-leaf">C</div></a></td>
-		<td style="width:0; border-bottom:0px"><a style="text-decoration:none" href="#d"><div class="button-leaf">D</div></a></td>
-		<td style="width:0; border-bottom:0px"><a style="text-decoration:none" href="#e"><div class="button-leaf">E</div></a></td>
-		<td style="width:0; border-bottom:0px"><a style="text-decoration:none" href="#f"><div class="button-leaf">F</div></a></td>
-		<td style="width:0; border-bottom:0px"><a style="text-decoration:none" href="#g"><div class="button-leaf">G</div></a></td>
-		<td style="width:0; border-bottom:0px"><a style="text-decoration:none" href="#h"><div class="button-leaf">H</div></a></td>
-		<td style="width:0; border-bottom:0px"><a style="text-decoration:none" href="#i"><div class="button-leaf">I</div></a></td>
-		<td style="width:0; border-bottom:0px"><a style="text-decoration:none" href="#j"><div class="button-leaf">J</div></a></td>
-		<td style="width:0; border-bottom:0px"><a style="text-decoration:none" href="#k"><div class="button-leaf">K</div></a></td>
-		<td style="width:0; border-bottom:0px"><a style="text-decoration:none" href="#l"><div class="button-leaf">L</div></a></td>
-		<td style="width:0; border-bottom:0px"><a style="text-decoration:none" href="#m"><div class="button-leaf">M</div></a></td>
-		<td style="width:0; border-bottom:0px"><a style="text-decoration:none" href="#n"><div class="button-leaf">N</div></a></td>
-		<td style="width:0; border-bottom:0px"><a style="text-decoration:none" href="#o"><div class="button-leaf">O</div></a></td>
-		<td style="width:0; border-bottom:0px"><a style="text-decoration:none" href="#p"><div class="button-leaf">P</div></a></td>
-		<td style="width:0; border-bottom:0px"><a style="text-decoration:none" href="#q"><div class="button-leaf">Q</div></a></td>
-		<td style="width:0; border-bottom:0px"><a style="text-decoration:none" href="#r"><div class="button-leaf">R</div></a></td>
-		<td style="width:0; border-bottom:0px"><a style="text-decoration:none" href="#s"><div class="button-leaf">S</div></a></td>
-		<td style="width:0; border-bottom:0px"><a style="text-decoration:none" href="#t"><div class="button-leaf">T</div></a></td>
-		<td style="width:0; border-bottom:0px"><a style="text-decoration:none" href="#u"><div class="button-leaf">U</div></a></td>
-		<td style="width:0; border-bottom:0px"><a style="text-decoration:none" href="#v"><div class="button-leaf">V</div></a></td>
-		<td style="width:0; border-bottom:0px"><a style="text-decoration:none" href="#w"><div class="button-leaf">W</div></a></td>
-		<td style="width:0; border-bottom:0px"><a style="text-decoration:none" href="#x"><div class="button-leaf">X</div></a></td>
-		<td style="width:0; border-bottom:0px"><a style="text-decoration:none" href="#y"><div class="button-leaf">Y</div></a></td>
-		<td style="width:0; border-bottom:0px"><a style="text-decoration:none" href="#z"><div class="button-leaf">Z</div></a></td>
+			<td style="width:0; border-bottom:0px"><a href="#a" style="text-decoration: none"><div class="button-leaf">A</div></a></td>
+			<td style="width:0; border-bottom:0px"><a href="#b" style="text-decoration:none"><div class="button-leaf">B</div></a></td>
+		<td style="width:0; border-bottom:0px"><a href="#c" style="text-decoration:none"><div class="button-leaf">C</div></a></td>
+		<td style="width:0; border-bottom:0px"><a href="#d" style="text-decoration:none"><div class="button-leaf">D</div></a></td>
+		<td style="width:0; border-bottom:0px"><a href="#e" style="text-decoration:none"><div class="button-leaf">E</div></a></td>
+		<td style="width:0; border-bottom:0px"><a href="#f" style="text-decoration:none"><div class="button-leaf">F</div></a></td>
+		<td style="width:0; border-bottom:0px"><a href="#g" style="text-decoration:none"><div class="button-leaf">G</div></a></td>
+		<td style="width:0; border-bottom:0px"><a href="#h" style="text-decoration:none"><div class="button-leaf">H</div></a></td>
+		<td style="width:0; border-bottom:0px"><a href="#i" style="text-decoration:none"><div class="button-leaf">I</div></a></td>
+		<td style="width:0; border-bottom:0px"><a href="#j" style="text-decoration:none"><div class="button-leaf">J</div></a></td>
+		<td style="width:0; border-bottom:0px"><a href="#k" style="text-decoration:none"><div class="button-leaf">K</div></a></td>
+		<td style="width:0; border-bottom:0px"><a href="#l" style="text-decoration:none"><div class="button-leaf">L</div></a></td>
+		<td style="width:0; border-bottom:0px"><a href="#m" style="text-decoration:none"><div class="button-leaf">M</div></a></td>
+		<td style="width:0; border-bottom:0px"><a href="#n" style="text-decoration:none"><div class="button-leaf">N</div></a></td>
+		<td style="width:0; border-bottom:0px"><a href="#o" style="text-decoration:none"><div class="button-leaf">O</div></a></td>
+		<td style="width:0; border-bottom:0px"><a href="#p" style="text-decoration:none"><div class="button-leaf">P</div></a></td>
+		<td style="width:0; border-bottom:0px"><a href="#q" style="text-decoration:none"><div class="button-leaf">Q</div></a></td>
+		<td style="width:0; border-bottom:0px"><a href="#r" style="text-decoration:none"><div class="button-leaf">R</div></a></td>
+		<td style="width:0; border-bottom:0px"><a href="#s" style="text-decoration:none"><div class="button-leaf">S</div></a></td>
+		<td style="width:0; border-bottom:0px"><a href="#t" style="text-decoration:none"><div class="button-leaf">T</div></a></td>
+		<td style="width:0; border-bottom:0px"><a href="#u" style="text-decoration:none"><div class="button-leaf">U</div></a></td>
+		<td style="width:0; border-bottom:0px"><a href="#v" style="text-decoration:none"><div class="button-leaf">V</div></a></td>
+		<td style="width:0; border-bottom:0px"><a href="#w" style="text-decoration:none"><div class="button-leaf">W</div></a></td>
+		<td style="width:0; border-bottom:0px"><a href="#x" style="text-decoration:none"><div class="button-leaf">X</div></a></td>
+		<td style="width:0; border-bottom:0px"><a href="#y" style="text-decoration:none"><div class="button-leaf">Y</div></a></td>
+		<td style="width:0; border-bottom:0px"><a href="#z" style="text-decoration:none"><div class="button-leaf">Z</div></a></td>
 	</tr>
 </tbody></table>
 <br>
@@ -83,61 +77,103 @@ description: ""
 <section>
 <h4 id="a">A</h4>
 <h4 id="b">B</h4>
-	<a class="body" href="/page-index/horticulture-techniques/bottom-watering/">Bottom watering</a>
+	<a href="/page-index/horticulture-techniques/bottom-watering/" class="body">Bottom watering</a>
 <h4 id="c">C</h4>
-	<a class="body" href="/page-index/horticulture-techniques/choosing-plants/">Choosing plants</a>
+	<a href="/page-index/horticulture-techniques/choosing-plants/" class="body">Choosing plants</a>
 	<br>
-	<a class="body" href="/page-index/horticulture-techniques/cloches/">Cloche</a>
+	<a href="/page-index/horticulture-techniques/cloches/" class="body">Cloche</a>
 	<br>
-	<a class="body" href="/page-index/horticulture-techniques/companion-planting">Companion planting</a>
+	<a href="/page-index/horticulture-techniques/companion-planting" class="body">Companion planting</a>
 	<br>
-	<a class="body" href="/page-index/horticulture-techniques/composting/">Composting</a>
+	<a href="/page-index/horticulture-techniques/composting/" class="body">Composting</a>
 	<br>
-	<a class="body" href="/page-index/horticulture-techniques/cut-and-come-again/">Cut and come again harvesting</a>
+	<a href="/page-index/horticulture-techniques/cut-and-come-again/" class="body">Cut and come again harvesting</a>
 <h4 id="d">D</h4>
 <h4 id="e">E</h4>
 <h4 id="f">F</h4>
-	<a class="body" href="/page-index/horticulture-techniques/fertilising/">Fertilising</a><br>
-	<a class="body" href="/page-index/horticulture-techniques/finding-pests/">Finding pests</a><br>
+	<a href="/page-index/horticulture-techniques/fertilising/" class="body">Fertilising</a><br>
+	<a href="/page-index/horticulture-techniques/finding-pests/" class="body">Finding pests</a><br>
 <h4 id="g">G</h4>
-<a class="body" href="/page-index/horticulture-techniques/gauging-light/">Gauging light</a><br>
-<a class="body" href="/page-index/horticulture-techniques/grow-lights">Grow lights</a><br>
-	<a class="body" href="/page-index/horticulture-techniques/harvesting-hygiene/">Growing edibles for consumption</a>
+<a href="/page-index/horticulture-techniques/gauging-light/" class="body">Gauging light</a><br>
+<a href="/page-index/horticulture-techniques/grow-lights" class="body">Grow lights</a><br>
+	<a href="/page-index/horticulture-techniques/harvesting-hygiene/" class="body">Growing edibles for consumption</a>
 <h4 id="h">H</h4>
 <h4 id="i">I</h4>
-	<a class="body" href="/page-index/horticulture-techniques/ipm">Integrated pest management</a>
+	<a href="/page-index/horticulture-techniques/ipm" class="body">Integrated pest management</a>
 <h4 id="j">J</h4>
 <h4 id="k">K</h4>
 <h4 id="l">L</h4>
 <h4 id="m">M</h4>
-	<a class="body" href="/page-index/horticulture-techniques/microgreens/">Microgreens</a><br>
-	<a class="body" href="/page-index/horticulture-techniques/mulching/">Mulching</a>
+	<a href="/page-index/horticulture-techniques/microgreens/" class="body">Microgreens</a><br>
+	<a href="/page-index/horticulture-techniques/mulching/" class="body">Mulching</a>
 <h4 id="n">N</h4>
 <h4 id="o">O</h4>
 <h4 id="p">P</h4>
-	<a class="body" href="/page-index/horticulture-techniques/pest-control/">Pest control</a><br>
-	<a class="body" href="/page-index/horticulture-techniques/planting-in-containers/">Planting in containers</a><br>
-	<a class="body" href="/page-index/horticulture-techniques/true-ground/">Planting in true ground</a><br>
-	<a class="body" href="/page-index/horticulture-techniques/plant-spacing/">Plant spacing</a><br>
-	<a class="body" href="/page-index/horticulture-techniques/propagating-by-cuttings">Propagating via cuttings</a><br>
-<a class="body" href="/page-index/horticulture-techniques/propagating-by-division">Propagating via division</a><br>
-<a class="body" href="/page-index/horticulture-techniques/propagating-by-seed">Propagating via seeds</a><br>
-	<a class="body" href="/page-index/horticulture-techniques/pruning">Pruning</a>
+	<a href="/page-index/horticulture-techniques/pest-control/" class="body">Pest control</a><br>
+	<a href="/page-index/horticulture-techniques/planting-in-containers/" class="body">Planting in containers</a><br>
+	<a href="/page-index/horticulture-techniques/true-ground/" class="body">Planting in true ground</a><br>
+	<a href="/page-index/horticulture-techniques/plant-spacing/" class="body">Plant spacing</a><br>
+	<a href="/page-index/horticulture-techniques/propagating-by-cuttings" class="body">Propagating via cuttings</a><br>
+<a href="/page-index/horticulture-techniques/propagating-by-division" class="body">Propagating via division</a><br>
+<a href="/page-index/horticulture-techniques/propagating-by-seed" class="body">Propagating via seeds</a><br>
+	<a href="/page-index/horticulture-techniques/pruning" class="body">Pruning</a>
 <h4 id="q">Q</h4>
 <h4 id="r">R</h4>
 <h4 id="s">S</h4>
-	<a class="body" href="/page-index/horticulture-techniques/soil/">Soil</a><br>
-	<a class="body" href="/page-index/horticulture-techniques/soil-amendments/">Soil amendments</a><br>
+	<a href="/page-index/horticulture-techniques/soil/" class="body">Soil</a><br>
+	<a href="/page-index/horticulture-techniques/soil-amendments/" class="body">Soil amendments</a><br>
 <h4 id="t">T</h4>
 <h4 id="u">U</h4>
 <h4 id="v">V</h4>
 <h4 id="w">W</h4>
-	<a class="body" href="/page-index/horticulture-techniques/watering/">Watering</a><br>
-	<a class="body" href="/page-index/horticulture-techniques/weeding/">Weeding</a><br>
+	<a href="/page-index/horticulture-techniques/watering/" class="body">Watering</a><br>
+	<a href="/page-index/horticulture-techniques/weeding/" class="body">Weeding</a><br>
 <h4 id="x">X</h4>
 <h4 id="y">Y</h4>
 <h4 id="z">Z</h4>
 </section>
 
+<div class="col is-1 has-float-btns is-position-relative is-hidden-touch">
+    <div class="float-buttons" style=""><div class="inner-wrapper-sticky" style="position: relative;">
+        <div class="actionbar__inner">
+            <button class="bp-button" id="print-button" aria-label="Print">
+              <i class="sgds-icon sgds-icon-print is-size-4">
+              </i>
+            </button>
+        </div>
+        <div class="actionbar__inner padding--top--sm">
+            <button class="bp-button" id="copy-link" aria-label="Copy Link">
+              <i class="sgds-icon sgds-icon-link is-size-4">
+              </i>
+            </button>
+            <input id="page-url" type="text" class="hide" value="https://staging.dmhtu0pi4p9u7.amplifyapp.com/learn-more-about-gardening/horticulture-techniques/"></div>
+        <div class="actionbar__inner padding--top--sm">
+            <a href="mailto:?Subject=Horticulture%20Techniques&amp;Body=https%3A%2F%2Fstaging.dmhtu0pi4p9u7.amplifyapp.com%2Flearn-more-about-gardening%2Fhorticulture-techniques%2F" id="mail-anchor" aria-label="Mail">
+            <button class="bp-button">
+            <i class="sgds-icon sgds-icon-mail is-size-4">
+            </i>
+            </button>
+            </a>
+        </div>
+        <div class="actionbar__inner padding--top--sm"><a href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fstaging.dmhtu0pi4p9u7.amplifyapp.com%2Flearn-more-about-gardening%2Fhorticulture-techniques%2F" target="_blank" rel="noreferrer" id="fb-anchor" aria-label="Share in Facebook">
+            <button class="bp-button">
+              <i class="sgds-icon sgds-icon-facebook-alt is-size-4">
+              </i>
+            </button>
+            </a>
+        </div>
+        <div class="actionbar__inner padding--top--sm"><a href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fstaging.dmhtu0pi4p9u7.amplifyapp.com%2Flearn-more-about-gardening%2Fhorticulture-techniques%2F&amp;title=Horticulture%20Techniques" target="_blank" rel="noreferrer" id="li-anchor" aria-label="Share in LinkedIn">
+            <button class="bp-button">
+              <i class="sgds-icon sgds-icon-linkedin-alt is-size-4">
+              </i>
+            </button>
+            </a>
+        </div>
 
-<a style="text-decoration:none" class="scrolltop" href="#top">↑ Back to top</a>
+<div class="col is-1 has-float-btns is-position-relative">
+	<div class="float-buttons">
+		<div class="inner-wrapper-sticky" style="position:relative;">
+		<a href="#top" class="float-buttons left" style="text-decoration:none">↑ Back to top</a>
+		</div>
+	</div>
+</div></div></div></div>
