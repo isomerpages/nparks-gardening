@@ -41,7 +41,7 @@ description: ""
 	.scrolltop {
 		position:fixed;
 		bottom:100px;
-		right:900px;
+		left:826px;
 	}
 </style>
 
@@ -139,6 +139,6 @@ description: ""
 <h4 id="z">Z</h4>
 </section>
 
-<div style="position:relative" class="row">
+<div style="position:relative" class="col">
 	<a href="#top" class="scrolltop" style="text-decoration:none">↑ Back to top</a>
 </div>
