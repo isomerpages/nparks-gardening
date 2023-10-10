@@ -46,5 +46,6 @@ image: ""
 	<p>This plant is relatively resistant to pests and disease if kept healthy.</p>
 	<p>Javanese Ixoras may look leggy when young. Encourage bushiness with regular pruning.</p>
 	<p>If the plant does not receive enough light, it will stop producing flowers. Prune surrounding plants or move the plant to a sunnier spot to promote flower growth.</p>
+	<p>This plant is prone to <a href="/page-index/plant-problems/nutrient-deficiencies/">iron deficiencies</a> when grown in <a href="/page-index/plant-problems/waterlogging/">waterlogged</a> soil.</p>
 	<br> 
 </section>
