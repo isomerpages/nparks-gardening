@@ -39,13 +39,8 @@ description: ""
 	}
 	
 	.grid {
-	grid-template-columns: 750px 1fr;
-	}
-	
-	.scrolltop {
-		position:fixed;
-		bottom:10px;
-		right:10px;
+		display: grid;
+		grid-template-columns: 750px 1fr;
 	}
 </style>
 
@@ -85,7 +80,7 @@ description: ""
 <br>
 
 <div class="grid">
-	</div>
+	<div>
 		<h4 id="a">A</h4>
 		<h4 id="b">B</h4>
 			<a href="/page-index/horticulture-techniques/bottom-watering/" class="body">Bottom watering</a>
@@ -142,7 +137,8 @@ description: ""
 		<h4 id="x">X</h4>
 		<h4 id="y">Y</h4>
 		<h4 id="z">Z</h4>
-	
+	</div>
 	<div>
 		<a href="#top" class="scrolltop" style="text-decoration:none">↑ Back to top</a>
 	</div>
+</div>
