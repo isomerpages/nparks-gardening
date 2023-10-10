@@ -139,6 +139,6 @@ description: ""
 <h4 id="z">Z</h4>
 </section>
 
-<div style="position:relative" class="row">
+<div class="row">
 	<a href="#top" class="scrolltop" style="text-decoration:none">↑ Back to top</a>
 </div>
