@@ -11,7 +11,7 @@ image: ""
 </header> 
  
 <section> 
-	<p><strong>Other common names:</strong> Brazilian Tea, Rooter Comb, Verbena Cimarrona, Gervao, Blue Porter Weed</p> 
+	<p><strong>Other common names:</strong> Rooter Comb, Verbena Cimarrona, Gervao, Blue Porter Weed</p> 
 	<br> 
 </section> 
  
