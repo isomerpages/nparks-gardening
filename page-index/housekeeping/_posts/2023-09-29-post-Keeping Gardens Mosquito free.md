@@ -11,7 +11,7 @@ image: ""
 	<p>The Aedes mosquito is an urban species commonly found in urban areas and by extension, gardens. It can spread several diseases like dengue fever, chikungunya and zika by biting. Mosquitoes lay their eggs in stagnant water, and will go through the first three stages on their life cycle in the same stagnant water pool. Preventing mosquitos from breeding in your garden by removing stagnant water is key to keeping yourself and your community safe. Mosquitoes can grow from egg to adult in about a week, so it is important to regularly check your garden for mosquito breeding, particularly during the wet season.</p>
 	<p>Download the <a href="/files/gardening%20practices%20to%20prevent%20mosquito%20breeding%20(readable)-1.pdf">Gardening Practices to Prevent Mosquito Breeding brochure</a>
 <br>
-Download the <a href="https://www.nparks.gov.sg/-/media/nparks-real-content/gardening/gardening-resources/garden-etiquette/good-gardening-practices.ashx">Good Gardening Practices checklist</a></p>
+Download the <a href="/files/good%20gardening%20practices.pdf">Good Gardening Practices checklist</a></p>
 	<br>
 </section>
 
