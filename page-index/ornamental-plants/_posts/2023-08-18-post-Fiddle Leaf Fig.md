@@ -16,20 +16,22 @@ image: ""
 </section>
  
 <section>
-	<img title="Photo by Flora and Fauna Web." src="/images/Plants/fiddleleaffig_ffw.jfif">
+	<img title="Fiddle Leaf fig plant. Photo by Jacqueline Chua." src="/images/Plants/fiddleleaffig%20(7)_jacquelinechua.jpg">
 	<p>The Fiddle Leaf Fig is a small to medium sized tree that can grow up to 12m tall when grown in true ground, but it is usually kept as a small potted shrub around 30cm tall or a small tree at 2m or less. Its large leathery leaves have a wavy leaf margin and are a glossy dark green colour with prominent yellow veins on its upper surface. It has bark that is greyish with shallow fissures.</p>
 	<p>A perennial evergreen tree, the Fiddle Leaf Fig is a popular plant to grow both indoors and outdoors. Its interesting leaf shape and striking leaf venation adds character to a home or garden.</p>
 	 <br> 
 </section> 
  
 <section> 
-  <h4>Environmental needs:</h4> 
+  <h4>Environmental needs:</h4>
+	<img title="A large fiddle leaf fig grown in true ground. Photo by Jacqueline Chua." src="/images/Plants/fiddleleaffig%20(1)_jacquelinechua.jpg">
   <p>This plant can grow to its full size in areas with at least 6 hours of direct sunlight. However, most gardeners keep it in areas with 4-6 hours of direct sunlight or at least 6 hours of indirect sunlight to slow its growth and keep it at a more manageable size. This makes it suitable as a feature plant for both indoor and outdoor gardens. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe. Smaller plants less than 0.5m tall can be grown in pots around 20cm deep, but larger plants will need pots at least 30cm deep, or to be planted in true ground.</p> 
 	<br>
 </section>
 
 <section> 
   <h4>Growing:</h4> 
+	<img title="Fiddle leaf figs being sold as small houseplants. Photo by Jacqueline Chua." src="/images/Plants/fiddleleaffig%20(6)_jacquelinechua.jpg">
 	<p>Fiddle Leaf Figs start off as a slow growing plant and prefers partial shade when young. Fertilising should only be done once a month with a dilute balanced liquid fertiliser. Pruning the growing tips or top of the plant when it is young will encourage branching. When pruning, be sure to wear gloves as the plant produces a milky, sticky sap which is mildly toxic and can irritate the skin. As with all potted plants, regular repotting once a year will prevent it from becoming root bound.</p> 
 	<br> 
 </section> 
