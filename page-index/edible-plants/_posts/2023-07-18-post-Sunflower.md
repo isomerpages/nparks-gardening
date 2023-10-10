@@ -50,6 +50,7 @@ image: ""
 
 <section>
 	<h4>Harvesting:</h4>
+	<img title="A ripe sunflower head full of seeds. Photo by Jacqueline Chua." src="/images/Plants/sunflower_deadhead_seeds_jacquelinechua.jpg">
 	<p>This plant can be grown as a microgreen. Microgreens can be harvested the week after they sprout.</p>
 	<p>Sunflower heads can be harvested for seeds when the flower heads have drooped down, and the seeds have turned dark and hard. You can test whether they are ready for harvest by pulling out some seeds before cutting the entire sunflower head.</p>
 	<br>
@@ -64,8 +65,7 @@ image: ""
 <section>
 	<h4>Common problems &amp; solutions:</h4>
 	<p>This plant is relatively resistant to pests and disease if kept healthy.</p>
-	<p><a href="/page-index/pests/aphids">Aphids</a>, <a href="/page-index/pests/mealy-bugs">mealy bugs</a>, and <a href="/page-index/pests/spider-mites/">spider mites</a> often infest the plant if it is sickly or overgrown. Prune off the infested parts, or apply horticultural oils like neem oil and white summer oil to suffocate the remaining pests. Regularly prune the plant to allow light and air to reach throughout the plant, and check the plant for underlying problems like <a href="/page-index/plant-problems/root-rot">root rot</a>, lack of sunlight, and nutrient deficiencies.</p>
-	<p>This plant is prone to rust and fungal diseases during the wet season. Prune the plant regularly to increase airflow, and remove heavily affected leaves.</p>
-	<p><a href="/page-index/plant-problems/wilting">Wilting</a> may occur during periods of hot weather or from the lack of watering. Regular wilting will stunt plant growth. Increase the number of times a plant is watered, or use mulch to retain moisture in the soil.</p>
+<p><a href="/page-index/pests/ahpids">Aphids</a>, <a href="/page-index/pests/mealy-bugs">mealy bugs</a>, and <a href="/page-index/pests/scale-insects/">scale insects</a> often infest the plant if it is <a href="/page-index/plant-problems/waterlogging/">waterlogged</a>, <a href="/page-index/plant-problems/wilting/">wilted from heat stress</a>, or is <a href="/page-index/horticulture-techniques/watering/">inconsistently watered</a>. <a href="/horticulture-techniques/pest-control/">Mechanical pest control</a> methods like <a href="/page-index/horticulture-techniques/pruning/">pruning</a> the infested parts are the best methods for managing these pests.</p><p><a href="/page-index/plant-problems/wilting">Wilting</a> leaves during hot weather is a sign of heat stress. Increase the number of times the plant is watered daily, and apply mulch at the base to prevent water loss. </p>
+	<p>This plant is prone to rust and fungal diseases during the wet season. <a href="/page-index/horticulture-techniques/pruning/">Prune</a> the plant regularly to increase airflow, and remove heavily affected leaves.</p>
 	<br>
 </section>
