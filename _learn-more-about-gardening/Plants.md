@@ -37,8 +37,6 @@ description: ""
 		grid-template-columns: repeat(auto-fit, minmax(275px, 275px));
 		grid-template-rows: auto-fit;
 		direction:rtl;
-		column-gap: 20px;
-		row-gap: 20px;
 	}
 	
 	.ffwbutton{
