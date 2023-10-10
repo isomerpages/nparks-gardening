@@ -133,7 +133,8 @@ description: ""
 <h4 id="z">Z</h4>
 </section>
 
-<div class="floatbuttons">
-	<div style="position:relative;" class="inner-wrapper-sticky">
-		<a href="#top">↑ Back to top</a>
-</div></div>
+<div class="float-buttons">
+	<div class="inner-wrapper-sticky">
+  <a style="text-decoration:none" class="float-buttons left" href="#top">↑ Back to top</a>
+	</div>
+</div>
