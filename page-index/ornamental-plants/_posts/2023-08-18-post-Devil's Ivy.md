@@ -16,14 +16,15 @@ image: ""
 </section> 
  
 <section>
-	<img title="Photo by Flora and Fauna Web." src="/images/Plants/devilsivy_ffw.jfif">
+	<img title="Devil's Ivy grown in pots. Photo by Jacqueline Chua." src="/images/Plants/devilsivy%20(3)_jacquelinechua.jpg">
 	<p>Devil’s Ivy is a  hardy climber that can grow up to 12m long in the wild, that has attractive yellow marble patterns on its leaves. The leaves of young plants are waxy, heart-shaped and green with yellow to white variegation.</p>
 	<p>A perennial plant, the Devil’s Ivy is staple in indoor gardens as it can grow in a wide variety of light conditions. Its climbing vines can be trained up moss poles or draped down from hanging pots. Take note that this plant is also capable of climbing up walls and other flat surfaces if the roots catch hold!</p>
 	 <br> 
 </section> 
  
 <section> 
-  <h4>Environmental needs:</h4> 
+  <h4>Environmental needs:</h4>
+	<img title="Devil's Ivy grown in Hanging pots. Photo by Jacqueline Chua." src="/images/Plants/devilsivy%20(2)_jacquelinechua.jpg">
   <p>This plant thrives in areas with 2-8 hours of indirect sunlight, and can tolerate up to 4 hours of direct sun. More than 4 hours of direct sun might cause burns on the leaves. Plants do best in loamy at least 10cm deep, making them suitable for container gardening. This plant is highly drought tolerant, but frequent watering will encourage more growth.</p> 
 	<br>
 </section>
