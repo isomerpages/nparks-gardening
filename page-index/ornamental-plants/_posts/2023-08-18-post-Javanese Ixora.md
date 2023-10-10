@@ -24,6 +24,7 @@ image: ""
  
 <section> 
   <h4>Environmental needs:</h4> 
+	<img title="Javanese Ixora bush in flower. Photo by Jacqueline Chua." src="/images/Plants/javaneseixora%20(1)_jacquelinechua.jpg">
   <p>This plant thrives in 4-8 hours of direct or indirect sunlight. Plants do best in loamy soil but are also tolerant of clayey soils.</p> 
 	<br>
 </section>
