@@ -16,7 +16,7 @@ image: ""
 </section> 
  
 <section>
-	<img title="Photo by Flora and Fauna Web." src="/images/Plants/burrostail_ffw.jfif">
+	<img title="Burro's tail plant. Photo by Jacqueline Chua." src="/images/Plants/burrostail_jacquelinechua.jpg">
 	<p>Burro’s Tail is a trailing succulent with fleshy stems and leaves that can reach up to 1.2m long! It has fleshy pointed leaves that are arranges in a whorl around the stem. The leaves are a bluish-green with a naturally powdery texture.</p>
 	<p>A perennial plant, Burro’s Tail are great plants to grown in hanging baskets and containers as they grow long and trail down.</p>
 	 <br> 
