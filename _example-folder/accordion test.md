@@ -39,7 +39,7 @@ description: ""
 	}
 	
 	.scrolltop{
-		position:sticky;
+		position:fixed;
 		bottom: 50px;
 		right: 10px;
 	}
