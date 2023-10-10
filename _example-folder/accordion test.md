@@ -39,8 +39,9 @@ description: ""
 	}
 	
 	.scrolltop {
-		position:sticky;
-		top:100px;
+		position:fixed;
+		bottom:100px;
+		left:800px;
 	}
 </style>
 
