@@ -64,25 +64,25 @@ description: ""
 		<h4>Edible Plants</h4>
 	     <img style="height:275px; width:275px; display: inline" src="/images/Graphics/edibleplant_6oct.png"><br>
 				<br>
-		<a class="button-primary" href="/page-index/glossary/edible-plants/">Search now!</a>
+		<a class="button-primary" href="/page-index/glossary/edible-plants/">Explore now!</a>
 	</div>
 	<div class="box">
 		<h4>Ornamental Plants</h4>
 	     <img style="height:275px; width:275px; display: inline" src="/images/Graphics/ornamentalplant_6oct.png"><br>
 			<br>
-			<a class="button-primary" href="/page-index/glossary/ornamental-plants/">Search now!</a><br>
+			<a class="button-primary" href="/page-index/glossary/ornamental-plants/">Explore now!</a><br>
 	</div>
 	<div class="box">
 		<h4>Native Plants</h4>
 	     <img style="height:275px; width:275px; display: inline" src="/images/Graphics/nativeplant_6oct.png"><br>
 			<br>
-			<a class="button-primary" href="/page-index/glossary/native-plants/">Search now!</a><br>
+			<a class="button-primary" href="/page-index/glossary/native-plants/">Explore now!</a><br>
 	</div>
 	<div class="box">
 		<h4>Biodiversity Attracting Plants</h4>
 	     <img style="height:275px; width:275px; display: inline" src="/images/Graphics/biodivplant_6oct.png"><br>
 			<br>
-			<a class="button-primary" href="/page-index/glossary/biodiversity-attracting-plants/">Search now!</a><br>
+			<a class="button-primary" href="/page-index/glossary/biodiversity-attracting-plants/">Explore now!</a><br>
 	</div>
 	<br>
 </div>
