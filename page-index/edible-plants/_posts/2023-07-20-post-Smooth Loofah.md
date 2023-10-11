@@ -30,10 +30,10 @@ image: ""
 	<p>Plants do best in <a href="/page-index/horticulture-techniques/soil/">loamy soil</a>at least 30cm deep, or in true ground. The plant can be grown in smaller pots about 20cm deep, but growth will be slower due to the lack of water retention in less soil and a smaller root ball. </p>
 	<p>As a fast-growing vine, this plant needs a tall, sturdy <a href="/page-index/hardscapes/trellises/">trellis</a> to scramble on. Because the fruits hang down, it is ideal for arch-shaped trellises.</p>
 	<iframe width="100%" height="415" src="https://www.youtube.com/embed/SUQGxxAAcNs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
-	<p>As with all members of the melon family, this plant is bee pollinated and produces male and female flowers. To encourage the formation of more fruits, it is best to have at least 3 separate plants growing in the same area to have both male and female flowers available, and to have <a href="/page-index/glossary/biodiversity-attracting-plants/">bee-attracting plants</a> within the garden to encourage pollination. If your garden lacks bees, the plant can also be hand pollinated.</p><a href="/page-index/horticulture-techniques/soil/">
+	<p>As with all members of the melon family, this plant is bee pollinated and produces male and female flowers. To encourage the formation of more fruits, it is best to have at least 3 separate plants growing in the same area to have both male and female flowers available, and to have <a href="/page-index/glossary/biodiversity-attracting-plants/">bee-attracting plants</a> within the garden to encourage pollination. If your garden lacks bees, the plant can also be hand pollinated.</p>
 	<br>
-</a></section><a href="/page-index/horticulture-techniques/soil/">
-
+</section>
+	
 <section>
   <h4>Sowing seeds:</h4>
 <p>Seeds can be sown directly into pots or the ground around 15-30cm apart. Lightly water the soil until damp, once a day. Seeds should sprout within two weeks.</p>
@@ -61,7 +61,7 @@ image: ""
 <br>
 </section>
 
-</a><section><a href="/page-index/horticulture-techniques/soil/">
+<section><a href="/page-index/horticulture-techniques/soil/">
 	<h4>Harvest cycle:</h4>
 	<table>
 		<thead>
