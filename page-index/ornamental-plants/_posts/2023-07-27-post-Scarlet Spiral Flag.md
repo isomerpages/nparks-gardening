@@ -16,7 +16,7 @@ image: ""
 </section> 
  
 <section>
-	<img title="Photo by Flora and Fauna Web." src="/images/Plants/scarletspiralflag_ffw.jfif">
+	<img title="The flower of the Scarlet Spiral Flag. Photo by Jacqueline Chua." src="/images/Plants/scarletspiralflag%20(1)_jacquelinechua.jpg">
 	<p>Scarlet Spiral Flags a hardy shrub that is commonly seen in low-maintenance beds and biodiversity-attracting gardens. The nectar-filled flowers are highly attractive to butterflies and nectivorous birds. The yellow flowers are also edible, and are usually eaten raw.</p>
 	<p>A perennial shrub, Scarlet Spiral Flags are useful as biodiversity-attracting plants and perimeter plants to add a pop of colour to any garden.</p>
 	<p>Scarlet Spiral Flags are part of the Zingiberaceae or Ginger family, which includes other popular edible plants like Tumeric and Fingerroot.</p>
@@ -25,6 +25,7 @@ image: ""
  
 <section> 
   <h4>Environmental needs:</h4> 
+	<img title="Scarlet Spiral Flag plants used to line a shady area. Photo by Jacqueline Chua." src="/images/Plants/scarletspiralflag%20(2)_jacquelinechua.jpg">
     	<p>Scarlet Spiral Flags thrive in less than 4 hours of direct sunlight, or 4-6 hours of indirect sunlight. Plants do best in true ground planting. These plants are vulnerable to root rot, so ensure that your soil drains well, and that your soil has plenty of organic matter to let the roots breathe.</p>
 		<p>This plant will not do well in places with a lot of direct sunlight, like on rooftop gardens.</p> 
 	<br>
