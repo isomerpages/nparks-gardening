@@ -19,8 +19,8 @@ image: ""
 	<img title="Photo by Jacqueline Chua." src="/images/Plants/TorchGinger_JacChua.jpg">
 <p>Torch Gingers are an iconic edible flower that are a key ingredient in Rojak, a Southeast Asian salad. The unopened flowers are eaten raw, in stir fries, in sauces and in stews.  
 Mature flowers are bright, showy, and long lasting, making them suitable as a cut flower. Mature flowers also attract nectivorous birds and can be used in biodiversity-attracting gardens.</p>
-<p>It is a large perennial crop that grows rapidly in the tropics. This is a common plant in herb gardens, permaculture gardens, and low maintenance beds. </p>
-<p>Torch Gingers are part of the Zingiberaceae or Ginger family, which includes other popular edible plants like Tumeric and Fingerroot.</p>       
+	<p>It is a large <a href="/learn-more-about-gardening/glossary/#p">perennial</a> crop that grows rapidly in the tropics. This is a common plant in herb gardens, permaculture gardens, and low maintenance beds. </p>
+<p>Torch Gingers are part of the Zingiberaceae or Ginger family, which includes other popular edible plants like <a href="/page-index/edible-plants/turmeric/">Turmeric</a> and <a href="/page-index/edible-plants/fingerroot/">Fingerroot</a>.</p>       
 	<br>
 </section>
 
