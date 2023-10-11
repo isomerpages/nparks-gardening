@@ -44,6 +44,7 @@ image: ""
 <section> 
   <h4>Common problems &amp; solutions:</h4> 
 		<p>This plant is relatively resistant to pests and disease if kept healthy.</p>
+	<p>This plant may sometimes have round holes in its leaves made by bagworm caterpillars. Remove the caterpillars by hand to reduce damage.</p>
 		<p>If the plant does not receive enough light, it will stop producing flowers. Prune surrounding plants or move the plant to a sunnier spot to promote flower growth.</p>
 	<br> 
 </section>
