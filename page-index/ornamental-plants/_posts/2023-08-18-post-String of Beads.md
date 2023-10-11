@@ -24,6 +24,7 @@ image: ""
  
 <section> 
   <h4>Environmental needs:</h4> 
+	<img title="A closeup of the leaces of the String of Beads. Photo by Victoria Lim." src="/images/Plants/stringofpearls_victorialim.jpg">
   <p>String of beads thrive in 4-6 hours of indirect sunlight or around 4 hours of direct sun. They are best planted in sandy soil around 10-15cm deep, making them suitable for container gardening. This plant is vulnerable to root rot, and will need soil with plenty of grit for good drainage. The leaves of String of Beads can split open if it is suddenly exposed to a lot of water, and is thus best kept out of direct rain, especially during the monsoon season.</p> 
 	<br>
 </section>
