@@ -16,14 +16,15 @@ image: ""
 </section> 
  
 <section>
-	<img title="Photo by Flora and Fauna Web." src="/images/Plants/pagodaflower_ffw.jfif">
+	<img title="Pagoda flowers in full bloom. Photo by Victoria Lim." src="/images/Plants/pagodaflower%20(1)_victorialim.jpg">
 	<p>Pagoda flowers are a hardy shrub that is commonly seen in low-maintenance beds and biodiversity-attracting gardens. The showy, nectar-filled flowers are highly attractive to butterflies and nectivorous birds.</p>
 	<p>A perennial shrub, Pagoda Flowers are useful as biodiversity-attracting plants and perimeter plants to add a pop of colour to any garden.</p><p>
 	 <br> 
 </p></section> 
  
 <section> 
-  <h4>Environmental needs:</h4> 
+  <h4>Environmental needs:</h4>
+	<img title="A close up of pagoda flowers. photo by Victoria Lim." src="/images/Plants/pagodaflower%20(2)_victorialim.jpg">
     <p>This plant thrives in 4-6 hours of direct sunlight and more than 6 hours of indirect sunlight. This plant does not do well with more than 6 hours of direct sunlight and is not suitable for exposed gardens like on rooftops.  Plants do best in moist, well-drained soil at least 30cm deep, making them suitable for large pots. However, if planted in true ground and left with a lot of space, the plant can rapidly grow suckers and spread. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe. This plant is relatively drought tolerant and can withstand some neglect.</p> 
 	<br>
 </section>
