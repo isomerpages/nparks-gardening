@@ -16,7 +16,7 @@ image: ""
 </section> 
  
 <section>
-	<img title="Maiden's jealousy flower. Photo by Jacqueline Chua." src="/images/Plants/maidensjealousy%20(2)_jacquelinechua.jpg">
+	<img title="Maiden's jealousy flower. Photo by Victoria Lim." src="/images/Plants/maidensjealousy%20(2)_victorialim.jpg">
 	<p>Maiden’s Jealousy are hardy free-flowering vines that are commonly seen in rewilding areas, nature parks, in roadside gardens, and biodiversity-attracting gardens. The flowers are highly attractive to bees, birds, and butterflies. This plant is native to Singapore and is naturally found growing along coastal forest and the landward side of Mangrove forests.</p>
 	<p>A perennial vine, Maiden’s Jealousy are useful as biodiversity-attracting plants and perimeter plants to add a pop of colour to any garden.</p>
 	 <br> 
