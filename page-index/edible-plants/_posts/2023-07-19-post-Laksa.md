@@ -24,7 +24,7 @@ image: ""
 
 <section>
 	<h4>Environmental needs:</h4>
-<p>Laksa thrives in <a href="/page-index/horticulture-techniques/gauging-light/">4-6 hours of direct sunlight</a>, but plants can also tolerate about 6-8 hours of indirect sunlight. Plants do best in <a href="/page-index/horticulture-techniques/soil/">loamy soil</a> at least 15cm deep, making them suitable for <a href="/page-index/horticulture-techniques/planting-in-containers/">container planting</a> and corridor gardening. These plants can tolerate waterlogging and can be planted in garden areas prone to ponding. Keep your plants cool with mulch and plenty of water to encourage growth.</p>
+<p>Laksa thrives in <a href="/page-index/horticulture-techniques/gauging-light/">4-6 hours of direct sunlight</a>, but plants can also tolerate about 6-8 hours of indirect sunlight. Plants do best in <a href="/page-index/horticulture-techniques/soil/">loamy soil</a> at least 15cm deep, making them suitable for <a href="/page-index/horticulture-techniques/planting-in-containers/">container planting</a> and corridor gardening. These plants can tolerate <a href="/page-index/plant-problems/waterlogging/">waterlogging</a> and can be planted in garden areas prone to ponding. Keep your plants cool with mulch and plenty of water to encourage growth.</p>
 	<br>
 	</section>
 
