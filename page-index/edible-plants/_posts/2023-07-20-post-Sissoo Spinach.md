@@ -18,8 +18,8 @@ image: ""
 <section>
 	<img title="Photo by Jacqueline Chua." src="/images/Plants/SissooSpinach_JacChua.jpg">
 	<p>Sissoo spinach is a hardy, succulent vegetable that readily grows in semi-shade. Its leaves and stem can be blanched, steamed, and made into soup.</p>
-	<p>This plant is a small perennial crop that is easy to propagate, making it a popular choice as a groundcover, for perimeter planting, and low maintenance beds. It is also a staple crop in edible gardens and permaculture gardens.</p>
-	<p>Due to its shallow root system, these plants are a popular choice for container gardening and corridor gardening.</p>       
+	<p>This plant is a small <a href="/learn-more-about-gardening/glossary/#p">perennial</a> crop that is easy to propagate, making it a popular choice as a groundcover, for perimeter planting, and low maintenance beds. It is also a staple crop in edible gardens and permaculture gardens.</p>
+	<p>Due to its shallow root system, these plants are a popular choice for <a href="/page-index/horticulture-techniques/planting-in-containers">container gardening</a> and corridor gardening.</p>       
 	<br>
 </section>
 
