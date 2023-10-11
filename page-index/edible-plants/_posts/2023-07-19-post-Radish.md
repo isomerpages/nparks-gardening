@@ -19,7 +19,7 @@ image: ""
 	<img title="Photo by Jacqueline Chua." src="/images/Plants/Radish_JacChua%20(1).jpg">
 	<p>Radishes are a popular root vegetable that is eaten raw, steamed, in soup or in sauces. Both the fleshy root and the leaves are edible and have a slightly spicy taste. </p>
 	<p>An <a href="/learn-more-about-gardening/glossary/#a">annual</a> crop, this plant is often grown and consumed under 2 months. Its rapid harvest cycle makes it useful for crop rotation.</p>
-	<p>Radishes are part of the Brassica or cabbage family, which also includes other popular vegetables like Kai Lan and Xiao Bai Cai.</p>
+	<p>Radishes are part of the Brassica or cabbage family, which also includes other popular vegetables like <a href="/page-index/edible-plants/kai-lan/">Kai Lan</a> and <a href="/page-index/edible-plants/xiao-bai-cai/">Xiao Bai Cai</a>.</p>
 	<br>
 </section>
 
