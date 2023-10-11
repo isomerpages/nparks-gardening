@@ -16,7 +16,7 @@ image: ""
 </section> 
  
 <section>
-	<img title="Photo by Flora and Fauna Web." src="/images/Plants/rosemrytle_ffw.jfif">
+	<img title="Rose Myrtle flowers. Photo by Victoria Lim." src="/images/Plants/rosemyrtle%20(2)_victorialim.jpg">
 	<p>Rose Myrtles are a hardy free-flowering shrub that is commonly seen in rewilding areas, nature parks, in roadside gardens, and biodiversity-attracting gardens. The flowers are highly attractive to bees, while the fruits attract birds and small mammals. The fruits can also be made into jam. This plant is native to Singapore and is naturally found growing along river banks and secondary forests.</p>
 	<p>A perennial shrub, Rose Myrtles are useful as biodiversity-attracting plants and perimeter plants to add a pop of colour to any garden.</p>
 	 <br> 
@@ -36,6 +36,7 @@ image: ""
 
 <section> 
   <h4>Propagation:</h4> 
+	<img title="Rose Myrtle fruits. Photo by Victoria Lim." src="/images/Plants/rosemyrtle%20(1)_victorialim.jpg">
 		<p>Rose Myrtles can be grown from seed.</p> 
 	<br> 
 </section> 
