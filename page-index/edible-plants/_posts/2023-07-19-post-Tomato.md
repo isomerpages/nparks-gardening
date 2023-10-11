@@ -39,34 +39,32 @@ image: ""
 
 <section>
   <h4>Sowing seeds:</h4>
-<p>Sow seeds individually in a seedling tray filled with potting mix or seedling mix. Lightly mist the soil until damp, once a day. Seeds should sprout within two weeks.</p>
-	
-<iframe width="100%" height="415" src="https://www.youtube.com/embed/x7J87wY7U6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
-
-<p>The seedlings will be vulnerable to high heat and heavy rain and are best kept in a sheltered propagation area or a shaded space with around 4 hours of partial or direct sunlight. </p>
+	<p>Sow seeds individually in a seedling tray filled with potting mix or seedling mix. Lightly mist the soil until damp, once a day. Seeds should sprout within two weeks.</p>
+	<iframe width="100%" height="415" src="https://www.youtube.com/embed/x7J87wY7U6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
+	<p>The seedlings will be vulnerable to high heat and heavy rain and are best kept in a sheltered propagation area or a shaded space with around 4 hours of partial or direct sunlight. </p>
 	<br>
 </section>
 
 <section>
 	<h4>Transplanting:</h4>
 	<img title="A tomato seedling being transplanted into a bigger pot. Photo by Jacqueline Chua." src="/images/Horti%20techniques/tomatotransplanting%20(3)_jacquelinechua.jpg">
-<p>Seedlings will be ready for transplanting into pots or true ground when they have developed 4 or more leaves, or roughly a week or two after germination. Leave 15-30cm between each plant to encourage more growth and better ventilation. </p>
-<br>
-	</section>
+	<p>Seedlings will be ready for transplanting into pots or true ground when they have developed 4 or more leaves, or roughly a week or two after germination. Leave 15-30cm between each plant to encourage more growth and better ventilation. </p>
+	<br>
+</section>
 	
 <section>
 	<h4>Growing:</h4>
-<p>Tomatoes will produce more flowers and thus more fruit when fed with <a href="/page-index/horticulture-techniques/fertilising/">fertilisers high in Phosphorus and Potassium</a>. Plants can be fertilised regularly a month after germination for a fuller crop. </p>
-<p>For both vining and shrub varieties, it is a good practice to <a href="/page-index/horticulture-techniques/pruning/">prune regularly</a> and remove dead leaves and stems to improve ventilation and allow light to reach more of the plant. Regular pruning also decreases the likelihood of pests quickly taking over the plant. Suckers can be removed as part of regular pruning and propagated via division.</p>
+	<p>Tomatoes will produce more flowers and thus more fruit when fed with <a href="/page-index/horticulture-techniques/fertilising/">fertilisers high in Phosphorus and Potassium</a>. Plants can be fertilised regularly a month after germination for a fuller crop. </p>
+	<p>For both vining and shrub varieties, it is a good practice to <a href="/page-index/horticulture-techniques/pruning/">prune regularly</a> and remove dead leaves and stems to improve ventilation and allow light to reach more of the plant. Regular pruning also decreases the likelihood of pests quickly taking over the plant. Suckers can be removed as part of regular pruning and propagated via division.</p>
 	<br>
 </section>
 
 <section>
 	<h4>Harvesting:</h4>
-		<img title="Tomatoes in various stages of ripening. Photo by Jacqueline Chua." src="/images/Plants/Tomato_JacChua%20(5).jpg">
-<p>Plants can be harvested for fruits around three months after sowing. The best time to harvest the fruit is in the early morning, before 9am.</p>
-<p>Tomatoes can be harvested slightly mature, when they start to flush their final colour, or completely mature, when they no longer have green spots. Immature tomatoes can be eaten after they have been thoroughly cooked. Immature tomatoes can also be left in a cool, dry place to complete the ripening process. Mature tomatoes are shiny, glossy, and will no longer have green spots. They should be easy to pop off the stem with a gentle twist. Seeds can be used from mature fruit for immediate planting.</p>
-<br>
+	<img title="Tomatoes in various stages of ripening. Photo by Jacqueline Chua." src="/images/Plants/Tomato_JacChua%20(5).jpg">
+	<p>Plants can be <a href="/page-index/horticulture-techniques/harvesting-hygiene">harvested</a> for fruits around three months after sowing. The best time to harvest the fruit is in the early morning, before 9am.</p>
+	<p>Tomatoes can be harvested slightly mature, when they start to flush their final colour, or completely mature, when they no longer have green spots. Immature tomatoes can be eaten after they have been thoroughly cooked. Immature tomatoes can also be left in a cool, dry place to complete the ripening process. Mature tomatoes are shiny, glossy, and will no longer have green spots. They should be easy to pop off the stem with a gentle twist. Seeds can be used from mature fruit for immediate planting.</p>
+	<br>
 </section>
 
 <section>
@@ -91,9 +89,8 @@ image: ""
 			</tr>
 		</tbody>
 	</table>
-	
-<p>Check out our&nbsp;<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/digital-tools/sowing-planner/">sowing planner</a>&nbsp;to schedule your growing! </p>
-<br>
+	<p>Check out our&nbsp;<a href="/digital-tools/sowing-planner/">sowing and harvest planner</a>&nbsp;to schedule your growing! </p>
+	<br>
 </section>
 
 <section>
@@ -106,10 +103,10 @@ image: ""
 	<h4>Common problems &amp; solutions:</h4>
 	<p>If your plant has little to no flowers, you try fertilising the plant with <a href="/page-index/horticulture-techniques/fertilising/">fertilisers high in Phosphorus and Potassium</a>. These nutrients encourage root and flower growth, which are important for the plant to produce more fruit.</p>
 	<p>Many plants require <a href="/page-index/biodiversity/pollinators/">pollinators</a> to help them fruit. Bees, butterflies, birds and even beetles transport pollen from one flower to another, pollinating your crops and increasing their fruit yield. Attract some pollinators to your garden by growing <a href="/page-index/glossary/biodiversity-attracting-plants/">pollinator-attracting plants</a>.</p>
-<p><a href="/page-index/pests/ahpids">Aphids</a>, <a href="/page-index/pests/mealy-bugs">mealy bugs</a>, and <a href="/page-index/pests/scale-insects/">scale insects</a> often infest the plant if it is <a href="/page-index/plant-problems/waterlogging/">waterlogged</a>, <a href="/page-index/plant-problems/wilting/">wilted from heat stress</a>, or is <a href="/page-index/horticulture-techniques/watering/">inconsistently watered</a>. <a href="/horticulture-techniques/pest-control/">Mechanical pest control</a> methods like <a href="/page-index/horticulture-techniques/pruning/">pruning</a> the infested parts are the best methods for managing these pests.</p>
+<p><a href="/page-index/pests/aphids">Aphids</a>, <a href="/page-index/pests/mealy-bugs">mealy bugs</a>, and <a href="/page-index/pests/scale-insects/">scale insects</a> often infest the plant if it is <a href="/page-index/plant-problems/waterlogging/">waterlogged</a>, <a href="/page-index/plant-problems/wilting/">wilted from heat stress</a>, or is <a href="/page-index/horticulture-techniques/watering/">inconsistently watered</a>. <a href="/horticulture-techniques/pest-control/">Mechanical pest control</a> methods like <a href="/page-index/horticulture-techniques/pruning/">pruning</a> the infested parts are the best methods for managing these pests.</p>
 	<p><a href="/page-index/pests/oriental-fruit-flies">Fruit flies</a> can lay eggs in the fruit, resulting in larvae damaging the fruit and creating spots on the skin. Wrap your fruit in netting when it starts to develop from a fertilised flower, ideally after all the petals have dropped off. </p>
-	<p><a href="/page-index/plant-problems/wilting">Wilting</a> leaves during hot weather is a sign of heat stress. Increase the number of times the plant is watered daily, and apply mulch at the base to prevent water loss. </p>
+	<p><a href="/page-index/plant-problems/wilting">Wilting</a> leaves during hot weather is a sign of heat stress. Increase the number of times the plant is watered daily, and apply <a href="/page-index/horticulture-techniques/mulching">mulch</a> at the base to prevent water loss. </p>
 	<p>These plants can get <a href="/page-index/plant-problems/nutrient-deficiencies/">blossom end rot</a>, which shows up as dark, sunken blotches at the end of fruits. It is a symptom of a lack of calcium reaching the fruit, which is usually caused by a lack of water or <a href="/page-index/horticulture-techniques/watering/">inconsistent watering</a>. Keep your soil moist but not waterlogged and take care to water more often during the dry season.</p>
 	<p><a href="/page-index/pests/oriental-fruit-flies/">Fruit flies</a> can lay eggs in the fruit, resulting in larvae damaging the fruit and creating spots on the skin. Wrap your fruit in netting when it starts to develop from a fertilised flower, ideally after all the petals have dropped off. </p>
-<br>
+	<br>
 </section>
