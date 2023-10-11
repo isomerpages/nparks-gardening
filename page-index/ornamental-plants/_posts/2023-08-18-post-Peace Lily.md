@@ -16,7 +16,7 @@ image: ""
 </section>
 
 <section>
-	<img title="Photo by Flora and Fauna Web." src="/images/Plants/peacelily_ffw.jfif">
+	<img title="Peace Lily flower. Photo by Jacqueline Chua." src="/images/peacelily%20(4)_jacquelinechua.jpg">
 	<p>The Peace Lilies are herbaceous plants that can grow up to 50cm tall and wide. It has glossy, dark green leaves and elegant white flowers. This is a common flowering indoor plant that is easy to care for.</p>
 	<p>A perennial evergreen plant, it is a great choice for container planting as it grows in clumps, rapidly filling out pots.</p>
 	 <br> 
@@ -24,6 +24,7 @@ image: ""
  
 <section> 
   <h4>Environmental needs:</h4> 
+	<img title="PeaceLilies growing in true ground. Photo by Jacqueline Chua." src="/images/Plants/peacelily%20(5)_jacquelinechua.jpg">
   <p>This plant thrives in 2-6 hours of indirect sunlight, and will burn in direct sun. Plants do best in loamy soil. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe. This plant is prone to wilting, and will need consistently moist soil to grow well.</p> 
 	<br>
 </section>
