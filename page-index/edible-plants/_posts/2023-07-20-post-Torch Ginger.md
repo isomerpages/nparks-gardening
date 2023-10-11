@@ -39,21 +39,21 @@ Mature flowers are bright, showy, and long lasting, making them suitable as a cu
 
 <section>
 	<h4>Harvesting:</h4>
-<p>Plants can be harvested for tubers and young leaflets at any time but will need at least 4 to 10 months to produce additional tubers after being planted.  The tubers are typically harvested via division, while young leaves are harvested via the cut-and-come-again method.</p>
-<p>The tubers and leaves should not be eaten raw as they contain calcium oxalate, which is toxic. The calcium oxalate is destroyed by cooking with heat.</p>
+	<p>Plants can be <a href="/page-index/horticulture-techniques/harvesting-hygiene">harvested</a> for tubers and young leaflets at any time but will need at least 4 to 10 months to produce additional tubers after being planted.  The tubers are typically harvested via division, while young leaves are harvested via the <a href="/page-index/horticulture-techniques/cut-and-come-again">cut-and-come-again method</a>.</p>
+	<p><b>The tubers and leaves should not be eaten raw as they contain calcium oxalate, which is toxic.</b>The calcium oxalate is destroyed by cooking with heat.</p>
 	<br>
 </section>
 
 <section>
 	<h4>Propagation:</h4>
-	<p>Taro is propagated via division of the tubers. </p>
+	<p>Taro is propagated <a href="/page-index/horticulture-techniques/propagating-by-division">via division</a> of the tubers. </p>
 	<br>
 </section>
 
 <section>
 	<h4>Common problems &amp; solutions:</h4>
 	<p>This plant is relatively resistant to pests and disease if kept healthy.</p>
-<p>Wilting leaves during hot weather is a sign of heat stress. Increase the number of times the plant is watered daily, or move it to a shadier part of the garden.</p>
-<p>Aphids, mealy bugs, and spider mites often infest the plant if it is sickly or overgrown. Prune off the infested parts, or apply horticultural oils like neem oil and white summer oil to suffocate the remaining pests. Regularly prune the plant to allow light and air to reach throughout the plant, and check the plant for underlying problems like root rot, lack of sunlight, and nutrient deficiencies.</p>
-<br>
+	<p><a href="/page-index/plant-problems/wilting">Wilting</a> leaves during hot weather is a sign of heat stress. Increase the number of times the plant is <a href="/page-index/horticulture-techniques/watering">watered</a> daily, or move it to a shadier part of the garden.</p>
+	<p><a href="/page-index/pests/aphids">Aphids</a>, <a href="/page-index/pests/mealy-bugs">mealy bugs</a>, and <a href="/page-index/pests/spider-mites">spider mites</a> often infest the plant if it is sickly or overgrown. Prune off the infested parts, or apply horticultural oils like neem oil and white summer oil to suffocate the remaining pests. <a href="/page-index/horticulture-techniques/pruning">Regularly prune</a> the plant to allow light and air to reach throughout the plant, and check the plant for underlying problems like <a href="/page-index/plant-problems/root-rot">root rot</a>, lack of sunlight, and <a href="/page-index/plant-problems/root-rot">nutrient deficiencies</a>.</p>
+	<br>
 </section>
