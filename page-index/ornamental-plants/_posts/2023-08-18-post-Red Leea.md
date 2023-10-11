@@ -16,7 +16,7 @@ image: ""
 </section>
 
 <section>
-	<img title="Photo by Flora and Fauna Web." src="/images/Plants/redleea_ffw.jfif">
+	<img title="Red Leea flower. photo by Jacqueline Chua." src="/images/Plants/redleea%20(1)_jacquelinechua.jpg">
 	<p>Red Leeas are a hardy free-flowering shrub that is commonly seen in rewilding areas, nature parks, in roadside gardens, and biodiversity-attracting gardens. The flowers are highly attractive to bees and butterflies, while the fruits attract birds and small mammals. This plant is also native to Singapore and is naturally found growing along primary and secondary forests.</p>
 	<p>A perennial flower, Red Leeas are useful as biodiversity-attracting plants and perimeter plants to add a pop of colour to any garden.</p>
 	 <br> 
@@ -24,12 +24,14 @@ image: ""
  
 <section> 
   <h4>Environmental needs:</h4> 
+		<img title="A Red Leea bush grown in true ground. Photo by Jacqueline Chua." src="/images/Plants/redleea%20(2)_jacquelinechua.jpg">
   <p>This plant thrives in 4-8 hours of direct sunlight. Plants do best in moist, well-drained soil. These plants are vulnerable to root rot, so ensure that your soil has plenty of organic matter to let the roots breathe.</p> 
 	<br>
 </section>
 
 <section> 
   <h4>Growing:</h4> 
+		<img title="An Asian Honeybee feeding on a Red Leea flower. photo by Jacqueline Chua." src="/images/Biodiversity/bee_apis%20cerana_jac.jpg">
 	<p>Red Leeas are rapid growers and generally does not need fertilizing. The shrub can rapidly grow up to 3m in height and will need to be pruned regularly. Regular pruning to promote airflow will keep the plant healthy and neat.</p> 
 	<br> 
 </section> 
