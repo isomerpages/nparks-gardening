@@ -16,7 +16,7 @@ image: ""
 </section> 
  
 <section>
-	<img title="Burro's tail plant. Photo by Jacqueline Chua." src="/images/Plants/burrostail_jacquelinechua.jpg">
+	<img title="Burro's tail plant hanging from a pot. Photo by Victoria Lim." src="/images/Plants/burrostail%20(2)_victorialim.jpg">
 	<p>Burro’s Tail is a trailing succulent with fleshy stems and leaves that can reach up to 1.2m long! It has fleshy pointed leaves that are arranges in a whorl around the stem. The leaves are a bluish-green with a naturally powdery texture.</p>
 	<p>A perennial plant, Burro’s Tail are great plants to grown in hanging baskets and containers as they grow long and trail down.</p>
 	 <br> 
@@ -24,6 +24,7 @@ image: ""
  
 <section> 
   <h4>Environmental needs:</h4> 
+		<img title="Burro's tail plant. Photo by Jacqueline Chua." src="/images/Plants/burrostail_jacquelinechua.jpg">
    <p>This plant thrives in areas with 4-6 hours of indirect sun but may burn if exposed to more than 6 hours of direct sunlight. They do best in sandy soil with plenty of drainage in at least 10cm of soil, making them ideal for container gardening.</p> 
 	<br>
 </section>
