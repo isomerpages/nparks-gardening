@@ -18,17 +18,17 @@ image: ""
 <section>
 	<img title="Photo by Jacqueline Chua." src="/images/Plants/WingedBean_JacChua%20(1).jpg">
 	<p>Winged Beans are a hardy crop commonly found in Southeast Asian gardens. Young leaves, stems, and immature fruit can be eaten raw, stir-fried, steamed or boiled. The flowers can also be boiled to extract colouring for a variety of food products.</p>
-	<p>An annual crop, these plants are often grown in rotation with other fruiting climbers.</p>
+	<p>An <a href="/learn-more-about-gardening/glossary/#a">annual</a> crop, these plants are often grown in rotation with other fruiting climbers.</p>
 	<p>This plant is very heat and drought tolerant, making it suitable for most edible gardens, rooftop gardens, permaculture gardens and low-maintenance beds.</p>
-	<p>This plant is part of the 	Fabaceae or Bean family, which includes other popular edible fruits like Long Bean, Peanut, and Sword bean. All members of the bean family can be used for companion planting as they can fix nitrogen into the soil.</p>
+	<p>This plant is part of the 	Fabaceae or Bean family, which includes other popular edible fruits like <a href="/page-index/edible-plants/long-bean/">Long Bean</a>, <a href="/page-index/edible-plants/peanut/">Peanut</a>, and <a href="/page-index/edible-plants/sword-bean/">Sword bean</a>. All members of the bean family can be used for <a href="/page-index/horticulture-techniques/companion-planting/">companion planting as they can fix nitrogen into the soil.</a></p><a href="/page-index/horticulture-techniques/companion-planting/">
 	<br>
-</section>
+</a></section><a href="/page-index/horticulture-techniques/companion-planting/">
 
-<section>
+</a><section><a href="/page-index/horticulture-techniques/companion-planting/">
 	<h4>Environmental needs:</h4>
 	<img title="Photo by Jacqueline Chua." src="/images/Plants/WingedBean_JacChua%20(2).jpg">
 	<p>This vine does best in full sun gardens with a minimum of 6 hours of sunlight. It can also grow in gardens with more than 4 hours of direct sunlight or at least 6 hours of indirect sunlight, but it may grow slower and produce less fruit.</p>
-	<p>Plants do best in <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/soil/">loamy soil</a> at least 30cm deep, or in true ground. These plants are vulnerable to root rot, so ensure that your soil drains well, and that your soil has plenty of organic matter to let the roots breathe. Keep your plants cool with mulch and plenty of water to encourage growth.</p>
+	</a><p><a href="/page-index/horticulture-techniques/companion-planting/">Plants do best in </a><a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/soil/">loamy soil</a> at least 30cm deep, or in true ground. These plants are vulnerable to root rot, so ensure that your soil drains well, and that your soil has plenty of organic matter to let the roots breathe. Keep your plants cool with mulch and plenty of water to encourage growth.</p>
 	<p>As a fast-growing vine, this plant can be grown on the ground or trained up a sturdy trellis.</p>
 	
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/SUQGxxAAcNs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
