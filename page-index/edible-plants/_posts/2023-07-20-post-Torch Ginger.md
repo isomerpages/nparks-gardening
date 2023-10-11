@@ -26,14 +26,14 @@ Mature flowers are bright, showy, and long lasting, making them suitable as a cu
 
 <section>
 	<h4>Environmental needs:</h4>
-<p>Torch Gingers thrive in 4-8 hours of direct sunlight, or 6-8 hours of indirect sunlight. Plants do best in <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/soil/">loamy soil</a> at least 30cm deep, making them best suited for true ground planting. These plants are vulnerable to root rot, so ensure that your soil drains well, and that your soil has plenty of organic matter to let the roots breathe. </p><p>
-	</p><p>This plant will not do well in places with a lot of wind, like on rooftop gardens. Protect the plant with other larger plants nearby to block off the wind. </p>
+	<p>Torch Gingers thrive in <a href="/page-index/horticulture-techniques/soil/">4-8 hours of direct sunlight, or 6-8 hours of indirect sunlight</a>. Plants do best in <a href="/page-index/horticulture-techniques/soil/">loamy soil</a> at least 30cm deep, making them best suited for <a href="/page-index/horticulture-techniques/true-ground/">true ground planting</a>. These plants are vulnerable to <a href="/page-index/plant-problems/root-rot/">root rot</a>, so ensure that your soil drains well, and that your soil has plenty of <a href="/page-index/horticulture-techniques/soil-amendments/">organic matter</a> to let the roots breathe.</p>
+	<p>This plant will not do well in places with a lot of wind, like on rooftop gardens. Protect the plant with other larger plants nearby to block off the wind. </p>
 	<br>
 </section>
 
 <section>
 	<h4>Growing:</h4>
-	<p>Taro grows rapidly in the rainy season and has the potential to overwhelm neighbouring plants. Its large size and rapid growth make it a good filler plant for parts of the garden with waterlogged soil or that are prone to flooding. Grow Taro in its own garden bed or in a designated area for ease of maintenance. </p>
+	<p>Taro grows rapidly in the rainy season and has the potential to overwhelm neighbouring plants. Its large size and rapid growth make it a good filler plant for parts of the garden with <a href="/page-index/plant-problems/waterlogging/">waterlogged soil</a> or that are prone to flooding. Grow Taro in its own garden bed or in a designated area for ease of maintenance. </p>
 <br>
 </section>
 
