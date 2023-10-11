@@ -16,7 +16,7 @@ image: ""
 </section>
 
 <section>
-	<img title="Photo by Flora and Fauna Web." src="/images/Plants/peanut_ffw.jfif">
+	<img title="A Peanut plant with flowers. Photo by Jacqueline Chua." src="/images/Plants/peanut%20(4)_jacquelinechua.jpg">
 	<p>Peanut plants are grown for their underground fruit which have edible seeds that can be eaten raw, salted, fried, or steamed. The seeds are also processed into products, the most famous being peanut butter.</p>
 	<p>A small to medium-sized shrubby annual crop, this plant is often used for crop rotation. It grows rapidly and can also be used as a groundcover.</p>
 	<p>This plant is part of the 	Fabaceae or Bean family, which includes other popular edible fruits like Winged Bean, Peanut, and Sword Bean.  All members of the bean family can be used for companion planting as they can fix nitrogen into the soil.</p>
@@ -25,6 +25,7 @@ image: ""
 
 <section>
 	<h4>Environmental needs:</h4>
+	<img title="Peanut plants in poly bags. Photo by Jacqueline Chua." src="/images/Plants/peanut%20(2)_jacquelinechua.jpg">
 	<p>This plant does best in full sun gardens with a minimum of 6 hours of direct sunlight. This plant can also grow in gardens with at least 6 hours of indirect sunlight, but growth will be slow and the plant will be less healthy.</p>
 	<p>Plants do best in sandy soil at least 15cm deep, making them suitable for container gardening. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of organic matter and grit to let the roots breathe.</p>
 	<p>As with all members of the bean family, this plant is pollinated by bees. Growing more bee-attracting plants within the garden will encourage pollination.</p>
@@ -48,6 +49,7 @@ image: ""
 
 <section>
 	<h4>Harvesting:</h4>
+	<img title="Peanut pods grow underground as part of the roots. Photo by Jacqueline Chua." src="/images/Plants/peanut%20(1)_jacquelinechua.jpg">
 	<p>Underground fruits can be harvested around 4 ½ months after sowing. Peanuts are ready for harvest when the plant starts to turn yellow and wilt. Harvest the whole plant by pulling the plant from the base stem just above the soil and separate out the fruits from the roots.</p>
 	<p>Dry, brown fruits are mature, and can be used for seeds.</p>
 	<iframe width="100%" height="415" src="https://www.youtube.com/embed/FuWK90da0GY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
