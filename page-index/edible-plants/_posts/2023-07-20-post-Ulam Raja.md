@@ -18,21 +18,20 @@ image: ""
 <section>
 	<img title="Photo by Flora and Fauna Web." src="/images/Plants/ulamraja_ffw.jfif">
 	<p>Ulam Raja are large bushy plants with edible leaves that are eaten raw and are a key ingredient in Nasi Ulam, a rice salad eaten in Southeast Asia. The plant also produces small pink flowers that attract a variety of butterflies and bees.</p>
-	<p>This large annual shrub produces many small wind-dispersed seeds that sprout quickly, with plants quickly growing around the garden. This makes it a popular choice for edible gardens, biodiversity-attracting gardens and low-maintenance beds.</p>
+	<p>This large <a href="/learn-more-about-gardening/glossary/#a">annual</a> shrub produces many small wind-dispersed seeds that sprout quickly, with plants quickly growing around the garden. This makes it a popular choice for edible gardens, biodiversity-attracting gardens and low-maintenance beds.</p>
 	<br>
 </section>
 
 <section>
 	<h4>Environmental needs:</h4>
-	<p>Ulam Raja grows well in 6-8 hours of direct sunlight. Plants do best in <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/soil/">loamy soil</a> at least 20cm deep, or in true ground. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe.</p>
+	<p>Ulam Raja grows well in <a href="/page-index/horticulture-techniques/gauging-light/">6-8 hours of direct sunlight</a>. Plants do best in <a href="/page-index/horticulture-techniques/soil/">loamy soil</a> at least 20cm deep, or in true ground. These plants are vulnerable to <a href="/page-index/plant-problems/root-rot/">root rot</a>, so ensure that your pots drain well, and that your soil has plenty of <a href="/page-index/horticulture-techniques/soil-amendments/">organic matter</a> to let the roots breathe.</p>
 	<br>
 </section>
 
 <section>
   <h4>Sowing seeds:</h4>
 	<p>Sow seeds individually in a seedling tray filled with potting mix or seedling mix. Lightly mist the soil until damp, once a day. Seeds should sprout within 10 days.</p>
-	
-<iframe width="100%" height="415" src="https://www.youtube.com/embed/x7J87wY7U6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
+	<iframe width="100%" height="415" src="https://www.youtube.com/embed/x7J87wY7U6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
 	<br>
 	<p>The seedlings will be vulnerable to high heat and heavy rain and are best kept in a sheltered propagation area or a shaded space with around 4 hours of partial or direct sunlight.</p>
 	<p>Seeds can be sown directly into pots or the ground around 15cm apart. Lightly water the soil until damp, once a day. Seeds should sprout within 10 days.</p>
