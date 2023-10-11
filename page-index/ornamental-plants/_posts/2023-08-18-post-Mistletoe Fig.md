@@ -24,6 +24,7 @@ image: ""
  
 <section> 
   <h4>Environmental needs:</h4> 
+	<img title="<istletoe Fig fruits. Photo by Victoria Lim." src="/images/Plants/mistletoefig%20(1)_victorialim.jpg">
   <p>This plant thrives in 4-8 hours of direct sunlight, and can also grow in at least 6 hours of indirect sunlight, but at a slower pace. Plants do best in sandy soil at least 10cm deep, making them suitable for container gardening. These plants are vulnerable to root rot, so ensure that your soil has plenty of grit to let the roots breathe.</p> 
 	<br>
 </section>
