@@ -36,32 +36,29 @@ image: ""
 	
 <section>
   <h4>Sowing seeds:</h4>
-<p>Seeds can be sown directly into pots or the ground around 15-30cm apart. Lightly water the soil until damp, once a day. Seeds should sprout within two weeks.</p>
-	
-<iframe width="100%" height="415" src="https://www.youtube.com/embed/x7J87wY7U6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
-
-<p>The seedlings are generally resilient to most environmental factors but may be vulnerable to being eaten by snails or birds. Protect your young plants with a DIY cloche or netting.</p>
+	<p>Seeds can be sown directly into pots or the ground around 15-30cm apart. Lightly water the soil until damp, once a day. Seeds should sprout within two weeks.</p>
+	<iframe width="100%" height="415" src="https://www.youtube.com/embed/x7J87wY7U6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
+<p>The seedlings are generally resilient to most environmental factors but may be vulnerable to being eaten by snails or birds. Protect your young plants with a DIY <a href="/page-index/horticulture-techniques/cloches/">cloche</a> or <a href="/page-index/hardscapes/netting/">netting</a>.</p>
 	<br>
 </section>
 
 <section>
 	<h4>Growing:</h4>
-<p>Smooth Loofahs will produce more flowers and thus more fruit when fed with fertilisers high in Phosphorus and Potassium. Plants can be fertilised regularly a month after germination for a fuller crop.</p>
-<p>Because the vines will grow on top of each other, it is a good practice to prune regularly and remove dead leaves and vines to improve ventilation and allow light to reach more of the plant. </p>
+	<p>Smooth Loofahs will produce more flowers and thus more fruit when fed with fertilisers high in Phosphorus and Potassium. Plants can be <a href="/page-index/horticulture-techniques/fertilising/">fertilised regularly</a> a month after germination for a fuller crop.</p>
+	<p>Because the vines will grow on top of each other, it is a good practice to <a href="/page-index/horticulture-techniques/pruning/">prune regularly</a> and remove dead leaves and vines to improve ventilation and allow light to reach more of the plant. </p>
 	<br>
 </section>
 
 <section>
 	<h4>Harvesting:</h4>
-<p>Plants can be harvested for immature fruits around 2 months after sowing. The best time to harvest the fruit is in the early morning, before 9am.</p>
-<p>Mature fruits can be harvested when the skin is dry and begins to crack. </p>
-<p>The plant will continuously produce fruit for about 3 months to a year before declining. </p>
-	
-<iframe width="100%" height="415" src="https://www.youtube.com/embed/eGBg_S8yj0U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
-<br>
+	<p>Plants can be <a href="/page-index/horticulture-techniques/harvesting-hygiene/">harvested</a> for immature fruits around 2 months after sowing. The best time to harvest the fruit is in the early morning, before 9am.</p>
+	<p>Mature fruits can be harvested when the skin is dry and begins to crack. </p>
+	<p>The plant will continuously produce fruit for about 3 months to a year before declining. </p>
+	<iframe width="100%" height="415" src="https://www.youtube.com/embed/eGBg_S8yj0U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
+	<br>
 </section>
 
-<section><a href="/page-index/horticulture-techniques/soil/">
+<section>
 	<h4>Harvest cycle:</h4>
 	<table>
 		<thead>
@@ -83,25 +80,24 @@ image: ""
 			</tr>
 		</tbody>
 	</table>
-	
-</a><p><a href="/page-index/horticulture-techniques/soil/">Check out our&nbsp;</a><a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/digital-tools/sowing-planner/">sowing and harvest planner</a>&nbsp;to schedule your growing! </p>
-<br>
+	<p>Check out our&nbsp;<a href="/digital-tools/sowing-planner/">sowing and harvest planner</a>&nbsp;to schedule your growing! </p>
+	<br>
 </section>
 
 <section>
 	<h4>Propagation:</h4>
-	<p>This vine can be grown via seeds. Seeds can be taken from mature fruit for immediate planting. </p>
+	<p>This vine can be grown <a href="/page-index/horticulture-techniques/propagating-by-seeds/">via seeds</a>. Seeds can be taken from mature fruit for immediate planting. </p>
 	<br>
 </section>
 
 <section>
 	<h4>Common problems &amp; solutions:</h4>
-<p>If your vine has little to no flowers, you try fertilising the plant with fertilisers high in Phosphorus and Potassium. These nutrients encourage root and flower growth, which are important for the plant to produce more fruit.</p>
-<p>However, if your plant is producing lots of flowers but is not bearing fruit, you may not have female and male flowers present in the same area together. Pollen from the male flower needs to be transferred to the female flower before the female flower can become a fruit. This process is called pollination and is important or the formation of many edible fruits. Vines from the melon family generally produce male flowers before female flowers. Having at least 3 plants of varying ages in the garden will make both male and female flowers present for pollination to happen. </p>
-<p>Many plants require pollinators to help them fruit. Bees, butterflies, birds and even beetles transport pollen from one flower to another, pollinating your crops and increasing their fruit yield. Attract some pollinators to your garden by growing pollinator-attracting crops, or become a pollinator yourself by hand-pollinating your plants. </p>
-<p>Aphids, mealy bugs, and spider mites often infest the plant if it is sickly or overgrown. Prune off the infested parts, or apply horticultural oils like neem oil and white summer oil to suffocate the remaining pests. Regularly prune the plant to allow light and air to reach throughout the plant, and check the plant for underlying problems like root rot, lack of sunlight, and nutrient deficiencies. </p>
-<p>Whiteflies can infest the plant and lay eggs under its leaves. Remove affected plant parts and catch remaining adults with yellow sticky paper or treat them with citrus spray. 
+	<p>If your vine has little to no flowers, you try <a href="/page-index/horticulture-techniques/fertilising/">fertilising</a> the plant with fertilisers high in Phosphorus and Potassium. These nutrients encourage root and flower growth, which are important for the plant to produce more fruit.</p>
+	<p>However, if your plant is producing lots of flowers but is not bearing fruit, you may not have female and male flowers present in the same area together. Pollen from the male flower needs to be transferred to the female flower before the female flower can become a fruit. This process is called <a href="/learn-more-about-gardening/glossary/#p">pollination</a> and is important or the formation of many edible fruits. Vines from the melon family generally produce male flowers before female flowers. Having at least 3 plants of varying ages in the garden will make both male and female flowers present for pollination to happen. </p>
+	<p>Many plants require <a href="/page-index/biodiversity/pollinators">pollinators</a> to help them fruit. Bees, butterflies, birds and even beetles transport pollen from one flower to another, pollinating your crops and increasing their fruit yield. Attract some pollinators to your garden by growing <a href="/page-index/glossary/biodiversity-attracting-plants">pollinator-attracting crops</a>, or become a pollinator yourself by hand-pollinating your plants. </p>
+	<p>Aphids, mealy bugs, and spider mites often infest the plant if it is sickly or overgrown. Prune off the infested parts, or apply horticultural oils like neem oil and white summer oil to suffocate the remaining pests. Regularly prune the plant to allow light and air to reach throughout the plant, and check the plant for underlying problems like root rot, lack of sunlight, and nutrient deficiencies. </p>
+	<p>Whiteflies can infest the plant and lay eggs under its leaves. Remove affected plant parts and catch remaining adults with yellow sticky paper or treat them with citrus spray. 
 Fruit flies can lay eggs in the fruit, resulting in larvae damaging the fruit and creating spots on the skin. Wrap your fruit in netting when it starts to develop from a fertilised flower, ideally after all the petals have dropped off. </p>
-<p>All vines from the melon family tend to attract beetles, which typically attack the plant’s leaves at night. They don’t harm the fruit, but if too many leaves are eaten, the plant may slow its growth.  </p>
-<br>
+	<p>All vines from the melon family tend to attract beetles, which typically attack the plant’s leaves at night. They don’t harm the fruit, but if too many leaves are eaten, the plant may slow its growth.  </p>
+	<br>
 </section>
