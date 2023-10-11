@@ -46,7 +46,7 @@ image: ""
 
 <section>
 	<h4>Growing:</h4>
-	<p>Ulam Raja plants grow rapidly, especially with regular harvesting and the use of high nitrogen fertilisers will encourage the plant to grow more leaves. Plants can be fertilised once every two weeks after transplanting, or after hard pruning.</p>
+	<p>Ulam Raja plants grow rapidly, especially with regular harvesting and the use of high nitrogen fertilisers will encourage the plant to grow more leaves. Plants can be <a href="/page-index/horticulture-techniques/fertilising/">fertilised</a> once every two weeks after transplanting, or after hard pruning.</p>
 	<p>Ulam Raja plants will die after producing seeds. Prolong your harvest by pinching off flowers when they appear.</p>
 	<br>
 </section>
@@ -54,9 +54,8 @@ image: ""
 <section>
 	<h4>Harvesting:</h4>
 	<img title="Photo by Jacqueline Chua" src="/images/Plants/UlamRaja_JacChua.jpg">
-	<p>Plants can be harvested for leaves at any time.  Fruits can be harvested for seeds when they are brown and dry.</p>
-	
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/FuWK90da0GY" height="415" width="100%"></iframe><br>
+	<p>Plants can be <a href="/page-index/horticulture-techniques/harvesting-hygiene/">harvested</a> for leaves at any time.  Fruits can be harvested for seeds when they are brown and dry.</p>
+	<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/FuWK90da0GY" height="415" width="100%"></iframe><br>
 	<br>
 </section>
 
@@ -69,7 +68,7 @@ image: ""
 <section>
 	<h4>Common problems &amp; solutions:</h4>
 	<p>This plant is relatively resistant to pests and disease if kept healthy.</p>
-	<p>Aphids, mealy bugs, and spider mites often infest the plant if it is sickly or overgrown. Prune off the infested parts, or apply horticultural oils like neem oil and white summer oil to suffocate the remaining pests. Regularly prune the plant to allow light and air to reach throughout the plant, and check the plant for underlying problems like root rot, lack of sunlight, and nutrient deficiencies.</p>
-	<p>Wilting may occur during periods of hot weather or from the lack of watering. Regular wilting will stunt plant growth. Increase the number of times a plant is watered, or use mulch to retain moisture in the soil.</p>
+	<p><a href="/page-index/pests/aphids">Aphids</a>, <a href="/page-index/pests/mealy-bugs">mealy bugs</a>, and <a href="/page-index/pests/spider-mites">spider mites</a> often infest the plant if it is sickly or overgrown. Prune off the infested parts, or apply horticultural oils like neem oil and white summer oil to suffocate the remaining pests. <a href="/page-index/horticulture-techniques/pruning">Regularly prune</a> the plant to allow light and air to reach throughout the plant, and check the plant for underlying problems like <a href="/page-index/plant-problems/root-rot">root rot</a>, lack of sunlight, and <a href="/page-index/plant-problems/nutrient-deficiencies">nutrient deficiencies</a>.</p>
+	<p><a href="/page-index/plant-problems/wilting">Wilting</a> may occur during periods of hot weather or from the lack of watering. Regular wilting will stunt plant growth. Increase the number of times a plant is watered, or use <a href="/page-index/horticulture-techniques/mulching">mulch</a> to retain moisture in the soil.</p>
 	<br>
 </section>
