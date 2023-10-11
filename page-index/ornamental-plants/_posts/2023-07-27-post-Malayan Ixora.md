@@ -24,6 +24,7 @@ image: ""
  
 <section> 
   <h4>Environmental needs:</h4> 
+	<img title="Malayan Icora flowers. Photo by Victoria Lim." src="/images/Plants/malayanixora%20(3)_victorialim.jpg">
     	<p>This plant thrives in less than 6 hours of direct sunlight or 4-8 hours of indirect sunlight. Plants do best in moist, well-drained soil.</p> 
 	<br>
 </section>
