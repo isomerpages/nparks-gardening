@@ -16,7 +16,7 @@ image: ""
 </section>
 
 <section>
-	<img title="Photo by Flora and Fauna Web." src="/images/Plants/longbean_ffw.jfif">
+	<img title="Long bean plants growing in polybags. Photo by Jacqueline Chua." src="/images/Plants/longbean%20(1)_jacquelinechua.jpg">
 	<p>Long beans are a hardy and productive crop suitable for new gardeners who want to grow a fruiting climber. Immature long beans can be eaten raw, stir-fried or steamed.</p>
 	<p>An <a href="/learn-more-about-gardening/glossary/#a/">annual</a> crop, these plants are often grown in rotation with other fruiting climbers. </p>
 	<p>This plant is part of the 	Fabaceae or Bean family, which includes other popular edible fruits like Winged Bean, Peanut, and Sword Bean.  All members of the bean family can be used for <a href="/page-index/horticulture-techniques/companion-planting">companion planting</a> as they can fix nitrogen into the soil. 
@@ -30,7 +30,6 @@ image: ""
 	<p>Plants do best in <a href="/page-index/horticulture-techniques/soil/">loamy soil</a> at least 30cm deep, or in true ground. </p>
 	<p>This vine is vulnerable to heat stress during the dry season. Water it regularly and <a href="/page-index/horticulture-techniques/mulching/">mulch</a> the base to prevent water loss.</p>
 	<p>As a fast-growing vine, this plant can be grown on the ground or trained up a sturdy <a href="/page-index/hardscapes/trellises/">trellis</a>. The fruits are quite long and often exceed 30cm, so they do best on tall trellises. </p>
-	<iframe width="100%" height="415" src="https://www.youtube.com/embed/SUQGxxAAcNs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
 	<p>As with all members of the bean family, this plant is pollinated by bees. Growing more <a href="/page-index/glossary/biodiversity-attracting-plants">bee-attracting plants</a> within the garden will encourage pollination. </p>
 	<br>
 </section>
@@ -52,6 +51,7 @@ Because the vines will grow on top of each other, it is a good practice to <a hr
 
 <section>
 	<h4>Harvesting:</h4>
+	<img title="A long bean starting to dry out. Photo by Jacqueline Chua." src="/images/Plants/longbean%20(2)_jacquelinechua.jpg">
 	<p>Plants can be <a href="/page-index/horticulture-techniques/harvesting-hygiene/">harvested</a> for fruits around 2 months after sowing. The best time to harvest the fruit is in the early morning, before 9am. </p>
 	<p>Only green, immature beans can be eaten. Dry, brown pods are mature, and can be used for seeds.
 </p>
