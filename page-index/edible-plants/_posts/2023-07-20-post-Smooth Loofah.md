@@ -17,25 +17,22 @@ image: ""
 
 <section>
 	<img title="Photo by Jacqueline Chua." src="/images/Plants/SmoothLoofah_JacChua.jpg">
-	
-<p>Smooth Loofahs are large oblong fruits that can be eaten when young, or used as a natural sponge when mature. Young fruits are fried, stewed, boiled, or steamed in a variety of dishes. Mature fruit have fibrous, spongy flesh that can be used as a skin exfoliator, to clean dishes, and as padding.</p>
-<p>An annual crop, these plants are often grown in rotation with other fruiting climbers.</p>
-<p>This plant is part of the Cucurbita or Melon family, which includes other popular edible fruits like Cucumber, Winter melon, and Pumpkin.</p>
+	<p>Smooth Loofahs are large oblong fruits that can be eaten when young, or used as a natural sponge when mature. Young fruits are fried, stewed, boiled, or steamed in a variety of dishes. Mature fruit have fibrous, spongy flesh that can be used as a skin exfoliator, to clean dishes, and as padding.</p>
+	<p>An <a href="/learn-more-about-gardening/glossary/#a">annual crop</a>, these plants are often grown in rotation with other fruiting climbers.</p>
+	<p>This plant is part of the Cucurbita or Melon family, which includes other popular edible fruits like <a href="/page-index/edible-plants/cucumber">Cucumber</a>, <a href="/page-index/edible-plants/winter-melon">Winter melon</a>, and <a href="/page-index/edible-plants/pumpkin">Pumpkin</a>.</p>
 	<br>
 </section>
 
 <section>
 	<h4>Environmental needs:</h4>
 	<img title="Photo by Jacqueline Chua." src="/images/Plants/SmoothLoofah_JacChua%20(3).jpg">
-<p>This vine does best in full sun gardens with a minimum of 6 hours of sunlight. This plant can also grow in 4-6 hours of direct sunlight or more than 6 hours of indirect sunlight, but the plant may be less vigorous and produce less fruits. </p>
-<p>Plants do best in <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/soil/">loamy soil</a>at least 30cm deep, or in true ground. The plant can be grown in smaller pots about 20cm deep, but growth will be slower due to the lack of water retention in less soil and a smaller root ball. </p>
-<p>As a fast-growing vine, this plant needs a tall, sturdy trellis to scramble on. Because the fruits hang down, it is ideal for arch-shaped trellises.</p>
-	
-<iframe width="100%" height="415" src="https://www.youtube.com/embed/SUQGxxAAcNs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
-	
-<p>As with all members of the melon family, this plant is bee pollinated and produces male and female flowers. To encourage the formation of more fruits, it is best to have at least 3 separate plants growing in the same area to have both male and female flowers available, and to have bee-attracting plants within the garden to encourage pollination. If your garden lacks bees, the plant can also be hand pollinated.</p>
-<br>
-</section>
+	<p>This vine does best in <a href="/page-index/horticulture-techniques/gauging-light/">full sun gardens with a minimum of 6 hours of sunlight</a>. This plant can also grow in 4-6 hours of direct sunlight or more than 6 hours of indirect sunlight, but the plant may be less vigorous and produce less fruits. </p>
+	<p>Plants do best in <a href="/page-index/horticulture-techniques/soil/">loamy soil</a>at least 30cm deep, or in true ground. The plant can be grown in smaller pots about 20cm deep, but growth will be slower due to the lack of water retention in less soil and a smaller root ball. </p>
+	<p>As a fast-growing vine, this plant needs a tall, sturdy <a href="/page-index/hardscapes/trellises/">trellis</a> to scramble on. Because the fruits hang down, it is ideal for arch-shaped trellises.</p>
+	<iframe width="100%" height="415" src="https://www.youtube.com/embed/SUQGxxAAcNs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
+	<p>As with all members of the melon family, this plant is bee pollinated and produces male and female flowers. To encourage the formation of more fruits, it is best to have at least 3 separate plants growing in the same area to have both male and female flowers available, and to have <a href="/page-index/horticulture-techniques/soil/">bee-attracting plants within the garden to encourage pollination. If your garden lacks bees, the plant can also be hand pollinated.</a></p><a href="/page-index/horticulture-techniques/soil/">
+	<br>
+</a></section><a href="/page-index/horticulture-techniques/soil/">
 
 <section>
   <h4>Sowing seeds:</h4>
@@ -64,7 +61,7 @@ image: ""
 <br>
 </section>
 
-<section>
+</a><section><a href="/page-index/horticulture-techniques/soil/">
 	<h4>Harvest cycle:</h4>
 	<table>
 		<thead>
@@ -87,7 +84,7 @@ image: ""
 		</tbody>
 	</table>
 	
-<p>Check out our&nbsp;<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/digital-tools/sowing-planner/">sowing and harvest planner</a>&nbsp;to schedule your growing! </p>
+</a><p><a href="/page-index/horticulture-techniques/soil/">Check out our&nbsp;</a><a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/digital-tools/sowing-planner/">sowing and harvest planner</a>&nbsp;to schedule your growing! </p>
 <br>
 </section>
 
