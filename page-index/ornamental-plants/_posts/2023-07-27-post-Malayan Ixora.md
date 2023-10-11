@@ -16,7 +16,7 @@ image: ""
 </section> 
  
 <section>
-	<img title="Photo by Flora and Fauna Web." src="/images/Plants/malayanixora_ffw.jfif">
+	<img title="Malayan Ixora flowers tightly clustered together. photo by Victoria Lim." src="/images/Plants/malayanixora%20(1)_victorialim.jpg">
 	<p>Malayan Ixoras are a hardy shrub that is commonly seen in rewilding areas, nature parks, in roadside gardens, and biodiversity-attracting gardens. The nectar-filled flowers is highly attractive to a wide range of insects, including butterflies, ants and moths. The berry-like fruits are attractive birds and small mammals. This plant is also native to Singapore and is naturally found growing along primary and secondary forests.</p>
 	<p>A perennial shrub, Malayan Ixoras are useful as biodiversity-attracting plants and perimeter plants to add a pop of colour to any garden.</p>
 	 <br> 
