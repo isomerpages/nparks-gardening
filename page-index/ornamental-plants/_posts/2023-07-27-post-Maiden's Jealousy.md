@@ -24,7 +24,7 @@ image: ""
  
 <section> 
   <h4>Environmental needs:</h4> 
-	<img title="Maiden's Jealousy plants grown in pots. Photo by Jacqueline Chua." src="/images/Plants/maidensjealousy%20(1)_jacquelinechua.jpg">
+	<img title="Maiden's Jealousy vines grown in a plant nursery. Photo by Victoria lim." src="/images/Plants/maidensjealousy%20(1)_victorialim.jpg">
     	<p>This plant thrives in 4-8 hours of direct sunlight. It can also tolerate areas with more than 6 hours of indirect sunlight, but may produce less flowers. Plants do best in moist, well-drained soil. These plants are vulnerable to root rot, so ensure that your soil has plenty of organic matter to let the roots breathe. This plant is a versatile climber that does well on a variety of trellises.</p> 
 	<br>
 </section>
