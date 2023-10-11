@@ -25,20 +25,20 @@ image: ""
 <section>
 	<h4>Environmental needs:</h4>
 		<img title="Lemongrass growing in a planter bed. Photo by Jacqueline Chua." src="/images/Plants/lemongrass_jacquelinechua.jpg">
-<p>Lemongrass flourishes in 6-8 hours of direct sunlight. Plants do best in<a href="/page-index/horticulture-techniques/soil/">sandy soil</a> at least 15cm deep, making them suitable for <a href="/page-index/horticulture-techniques/planting-in-containers/">container gardening</a>, but the diameter of the pot will greatly limit the size of the plant. Take note that Lemongrass can grow up to 1.2m tall, and that larger pots of at least 20cm width will be needed for the plant to grow offshoots. These plants are vulnerable to <a href="/page-index/plant-problems/root-rot/">root rot</a>, so ensure that your pots drain well, and that your soil has plenty of <a href="/page-index/horticulture-techniques/soil-amendments/">inorganic soil amendments</a> to let the roots breathe. </p>
+<p>Lemongrass flourishes in <a href="/page-index/horticulture-techniques/gauging-light/">6-8 hours of direct sunlight</a>. Plants do best in <a href="/page-index/horticulture-techniques/soil/">sandy soil</a> at least 15cm deep, making them suitable for <a href="/page-index/horticulture-techniques/planting-in-containers/">container gardening</a>, but the diameter of the pot will greatly limit the size of the plant. Take note that Lemongrass can grow up to 1.2m tall, and that larger pots of at least 20cm width will be needed for the plant to grow offshoots. These plants are vulnerable to <a href="/page-index/plant-problems/root-rot/">root rot</a>, so ensure that your pots drain well, and that your soil has plenty of <a href="/page-index/horticulture-techniques/soil-amendments/">inorganic soil amendments</a> to let the roots breathe. </p>
 	<br>
 	</section>
 
 <section>
 	<h4>Growing:</h4>
 	<p>Lemongrass plants grow rapidly, especially with regular harvesting. They are particularly fast growers during the dry season. If planted in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a> near other plants, Lemongrass can smother its neighbours if it is not cut back regularly. </p>
-<br>
+	<br>
 </section>
 
 <section>
 	<h4>Harvesting:</h4>
 	<img title="Lemongrass bulbs for sale at a wetmarket. Photo by Jacqueline Chua." src="/images/Plants/lemongrass_bulb_jacquelinechua.jpg">
-<p>Plants can be harvested for stems and leaves at any time. Stems can be harvested by being cut at the base of the plant, or by twisting and pulling.</p>
+	<p>Plants can be <a href="/page-index/horticulture-techniques/harvesting-hygiene/">harvested</a> for stems and leaves at any time. Stems can be harvested by being cut at the base of the plant, or by twisting and pulling.</p>
 <p>Leaves can be cut at any time for use as <a href="/page-index/horticulture-techniques/mulching/">mulch</a>. </p>
 <p><b>Take note that the leaves have sharp edges and may cause skin irritation and cuts. Use arm sleeves and gloves when maintaining Lemongrass plants for safety.</b></p>
 	<br>
@@ -46,14 +46,14 @@ image: ""
 
 <section>
 	<h4>Propagation:</h4>
-			<img title="A Lemongrass stem rooting in sandy soil. Photo by Jacqueline Chua." src="/images/Plants/Lemongrass_JacChua.jpg">
+	<img title="A Lemongrass stem rooting in sandy soil. Photo by Jacqueline Chua." src="/images/Plants/Lemongrass_JacChua.jpg">
 	<p>Lemongrass is typically propagated by <a href="/page-index/horticulture-techniques/propagating-by-division/">division</a>.</p>
 	<br>
 </section>
 
 <section>
 	<h4>Common problems &amp; solutions:</h4>
-<p>Like most strong-smelling herbs, this plant is relatively resistant to pests and disease if kept healthy.</p>
-<p><a href="/page-index/pests/mealy-bugs/">Mealy bugs</a> can infest the plant if it is suffering from other problems like <a href="/page-index/plant-problems/waterlogging/">waterlogging</a>. <a href="/horticulture-techniques/pest-control/">Mechanical pest control</a> methods like <a href="/page-index/horticulture-techniques/pruning/">pruning</a> the infested parts are the best methods for managing these pests.</p>
-<br>
+	<p>Like most strong-smelling herbs, this plant is relatively resistant to pests and disease if kept healthy.</p>
+	<p><a href="/page-index/pests/mealy-bugs/">Mealy bugs</a> can infest the plant if it is suffering from other problems like <a href="/page-index/plant-problems/waterlogging/">waterlogging</a>. <a href="/horticulture-techniques/pest-control/">Mechanical pest control</a> methods like <a href="/page-index/horticulture-techniques/pruning/">pruning</a> the infested parts are the best methods for managing these pests.</p>
+	<br>
 </section>
