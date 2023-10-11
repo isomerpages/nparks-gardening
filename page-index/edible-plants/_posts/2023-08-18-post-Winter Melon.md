@@ -16,7 +16,7 @@ image: ""
 </section>
 
 <section>
-	<img title="Photo by Flora and Fauna Web." src="/images/Plants/wintermelon(1)_ffw.jfif">
+	<img title="A Community Gardener posing next to the Winter Melons that he grew. photo by Jacqueline Chua." src="/images/Gardeners/Harvesting%20(8).jpg">
 	<p>Winter Melons are one of the most impressive crops an edible gardener can grow, with singular fruit growing as heavy as 30kg! The fruit is typically steamed or stewed, but the flesh can also be candied, and the seeds made into a sweet paste.</p>
 	<p>An <a href="/learn-more-about-gardening/glossary/#a">annual</a> crop, these plants are often grown in rotation with other fruiting climbers.</p>
 	<p>This plant is part of the Cucurbita or Melon family, which includes other popular edible fruits like Bitter Gourd, Pumpkin, and Cucumber.</p>
@@ -25,12 +25,11 @@ image: ""
 
 <section>
 	<h4>Environmental needs:</h4>
-	<img title="Photo by Flora and Fauna Web." src="/images/Plants/wintermelon(2)_ffw.jfif">
+	<img title="A wintermelon plant supported in a cradle. Photo by Jacqueline Chua." src="/images/Hardscapes/Cradle_JacChua%20(1).jpg">
 	<p>This vine does best in full sun gardens with a minimum of <a href="/page-index/horticulture-techniques/gauging-light/">6 hours of direct sunlight</a>. This plant can also grow with 4-5 hours of direct sunlight and at least 6 hours of indirect sunlight, but will produce less fruits.</p>
 	<p>Plants do best in moist, well-drained soil at least 30cm deep, or in true ground.</p>
 	<p>This vine is vulnerable to heat stress during the dry season. Water it regularly and mulch the base to prevent water loss.</p>
 	<p>As a fast-growing vine, this plant can be grown on the ground or trained up a sturdy trellis. The fruits can get quite heavy if they are hanging off a trellis and can be supported with a cradle to prevent damage to the rest of the plant.</p>
-	<iframe width="100%" height="415" src="https://www.youtube.com/embed/SUQGxxAAcNs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
 	<p>As with all members of the melon family, this plant is bee pollinated and produces male and female flowers. To encourage the formation of more fruits, it is best to have at least 3 separate plants growing in the same area to have both male and female flowers available, and to have bee-attracting plants within the garden to encourage pollination. If your garden lacks bees, the plant can also be hand pollinated.</p>
 	<p>This plant can be grown year-round.</p>
 	<br>
@@ -39,7 +38,6 @@ image: ""
 <section>
   <h4>Sowing seeds:</h4>
 	<p><a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/propagatingseed/">Seeds can be sown</a> directly into pots or the ground around 15-30cm apart. Lightly water the soil until damp, once a day. Seeds should sprout within 10 days.</p>
-		<iframe width="100%" height="415" src="https://www.youtube.com/embed/x7J87wY7U6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
 	<p>The seedlings are generally resilient to most environmental factors but may be vulnerable to being eaten by snails or birds. Protect your young plants with a DIY cloche or netting.</p>
 	<br>
 </section>
