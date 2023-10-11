@@ -25,33 +25,33 @@ image: ""
 
 <section>
 	<h4>Environmental needs:</h4>
-	<p>This plant grows rapidly in at least 4 hours of indirect sunlight. Sissoo can also grow in 2-6 hours of direct sunlight, but will have smaller leaves and tend to wilt more regularly from heat stress. Plants do best in <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/soil/">loamy soil</a> at least 5cm deep, making them suitable for container gardening and corridor gardening. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe.</p>
+	<p>This plant grows rapidly in <a href="/page-index/horticulture-techniques/gauging-light/">at least 4 hours of indirect sunlight</a>. Sissoo can also grow in 2-6 hours of direct sunlight, but will have smaller leaves and tend to wilt more regularly from heat stress. Plants do best in <a href="/page-index/horticulture-techniques/soil/">loamy soil</a> at least 5cm deep, making them suitable for container gardening and corridor gardening. These plants are vulnerable to <a href="/page-index/plant-problems/root-rot/">root rot</a>, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe.</p>
 	<iframe width="100%" height="415" src="https://www.youtube.com/embed/SfuujJwcZR8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
 	<br>
 </section>
 
 <section>
 	<h4>Growing:</h4>
-	<p>Sissoo Spinach grows rapidly when young and freshly planted from cuttings. Regular pruning will encourage the plant to grow more leaves and stems.</p>
+	<p>Sissoo Spinach grows rapidly when young and freshly planted from cuttings. <a href="/page-index/horticulture-techniques/pruning/">Regular pruning</a> will encourage the plant to grow more leaves and stems.</p>
 	<p>This plant generally does not require fertilising, but it can be fed with a high nitrogen fertiliser to encourage growth.</p>
 <br>
 </section>
 
 <section>
 	<h4>Harvesting:</h4>
-	<p>Plants can be harvested for young leaves at any time. They are typically harvested continuously via the cut-and-come-again method.</p>
+	<p>Plants can be harvested for young leaves at any time. They are typically harvested continuously via the <a href="/page-index/horticulture-techniques/cut-and-come-again/">cut-and-come-again method</a>.</p>
 	<br>
 </section>
 
 <section>
 	<h4>Propagation:</h4>
-	<p>Sissoo Spinach is typically propagated via stem cuttings in soil or water.</p>
+	<p>Sissoo Spinach is typically propagated <a href="/page-index/horticulture-techniques/propagating-by-cuttings/">via stem cuttings</a> in soil or water.</p>
 	<br>
 </section>
 
 <section>
 	<h4>Common problems &amp; solutions:</h4>
 	<p>This plant is relatively resistant to pests and disease if kept healthy.</p>
-	<p>Smaller plants may be vulnerable to being eaten by snails or birds. Protect your plants with a DIY cloche or netting.</p>
+	<p>Smaller plants may be vulnerable to being eaten by snails or birds. Protect your plants with a DIY <a href="/page-index/horticulture-techniques/cloches/">cloche</a> or <a href="/page-index/hardscapes/netting/">netting</a>.</p>
 	<br>
 </section>
