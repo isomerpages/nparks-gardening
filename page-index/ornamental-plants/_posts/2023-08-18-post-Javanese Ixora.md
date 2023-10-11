@@ -37,6 +37,7 @@ image: ""
 
 <section> 
   <h4>Propagation:</h4> 
+	<img title="Javanese Ixora cuttings rooting in a gritty medium. Photo by Jacqueline Chua." src="/images/Horti%20techniques/rooting_ixoracuttings%20(1)_jacquelinechua.jpg">
 	<p>Javanese Ixoras can be grown from seed or woody stem cuttings with rooting hormone.</p> 
 	<br> 
 </section> 
