@@ -17,13 +17,27 @@ image: ""
 <section>
 	<h4>Sunlight types</h4>
   <p>Sunlight can come in a few different forms in your garden depending on what is in your surrounding environment. </p>
-	<img src="/images/Horti%20techniques/light_jacchua%20(1).jpg">
+	<ul class="jekyllcodex_accordion">
+	<li><input type="checkbox" id="accordion1">
+		<label for="accordion1">Direct sunlight</label><div>
+	<img title="A potted plant casting a clear, distinct shadow in direct sunlight. Photo by Jacqueline Chua." src="/images/Horti%20techniques/light_jacchua%20(1).jpg">
 	<p><b>Direct sunlight</b> is unobstructed and will cast a distinct shadow with hard edges. Most gardens that are open to the sky will get at least an hour of direct sunlight at noon. Gardens on rooftops and in fields are likely to get direct sunlight for most of the day.</p>
-	<img src="/images/Horti%20techniques/light_jacchua%20(2).jpg">
+		</div></li>
+	<li><input type="checkbox" id="accordion2">
+		<label for="accordion2">Indirect sunlight</label><div>
+	<img title="A potted plant casting a soft shadow in indirect sunlight. Photo by Jacqueline Chua." src="/images/Horti%20techniques/light_jacchua%20(2).jpg">
 	<p><b>Indirect sunlight or partial shade</b> is light that is coming at an angle, bounced off another surface or filtered through things like clouds or shade cloth. It is less intense than direct sunlight and will cast an indistinct shadow with soft edges. Gardens at the foot of large buildings, in corridors, and along north-and south-facing windows indoors are likely to receive mostly indirect sunlight throughout the day. </p>
-	<img src="/images/Horti%20techniques/DappledSun_Jacchua.jpg">
+				</div></li>
+	<li><input type="checkbox" id="accordion3">
+		<label for="accordion3">Dappled shade</label><div>
+	<img title="Dappled shade on a wooden floor. Photo by Jacqueline Chua." src="/images/Horti%20techniques/DappledSun_Jacchua.jpg">
 	<p><b>Dappled shade</b> is direct sunlight that is obstructed by other, taller plants. Trees and tall crops often cast dappled shade, which is ideal for growing smaller leafy vegetables, to protect vulnerable seedlings, or to grow plants that can be found in forests or on forest floors. It can be considered roughly equivalent to indirect sunlight.</p>
+						</div></li>
+	<li><input type="checkbox" id="accordion4">
+		<label for="accordion4">Dappled shade</label><div>
 	<p><b>Deep shade</b> has little or no sunlight reaching the ground at all. Areas of a garden in deep shade will not have shadows. Areas immediately next to walls, far away from windows or in the middle of shelters are generally in deep shade. It is difficult to grow things in areas that are in deep shade for most of the day. These spots can instead be used for <a href="/page-index/hardscapes/hardscapes/">hardscapes for gardeners</a> like <a href="/hardscapes/storage/">storage</a>.</p>
+				</div></li></ul>
+	
 	<br>
 </section>
 
