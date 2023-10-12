@@ -18,30 +18,30 @@ image: ""
  
 <section>
 	<img title="Photo by Flora and Fauna Web." src="/images/Plants/ceylonspinach_ffw.jfif">
-	<p>Ceylon spinach is a striking vine that is harvested for its leaves, stems, and fruits.  Young leaves and stems are harvested for salads and stews, with the sticky sap used as a thickening agent for soups. Cooked leaves taste like spinach, with a slippery texture similar to Lady’s Finger.</p>
+	<p>Ceylon spinach is a striking vine that is harvested for its leaves, stems, and fruits.  Young leaves and stems are harvested for salads and stews, with the sticky sap used as a thickening agent for soups. Cooked leaves taste like spinach, with a slippery texture similar to <a href="/page-index/edible-plants/ladys-finger/">Lady’s Finger</a>.</p>
 	<p>The plant produces purple fruits which are used to colour jellies, pastries, and sweets. The natural dye produced from the berries were used in China to make inks for seals by court officials, which is why the plant is also known as Emperor Sprouts (帝皇苗).</p>
-	<p>As a large perennial crop that grows as a vine, it is a common sight in edible gardens, permaculture gardens, and low maintenance beds.</p>
+	<p>As a large <a href="/learn-more-about-gardening/glossary/#p">perennial</a> crop that grows as a vine, it is a common sight in edible gardens, permaculture gardens, and low maintenance beds.</p>
   <br> 
 </section> 
  
 <section> 
   <h4>Environmental needs:</h4> 
-	<p>This vine needs about 4-6 hours of direct sunlight or 6-8 hours of indirect sunlight. This plant will grow faster in direct sunlight but will tolerate shadier conditions. Plants do best in moist, well-drained soil at least 30cm deep, or in true ground. The plant can be grown in smaller pots about 15cm deep, but growth will be less vigorous due to the shallow soil.</p>
-	<p>As a fast-growing vine, this plant needs a sturdy trellis to scramble on, or it can be left to sprawl on the ground. Regular pruning will encourage additional growth and improve air circulation.</p> 
+	<p>This vine needs about <a href="/page-index/horticulture-techniques/gauging-light/">4-6 hours of direct sunlight or 6-8 hours of indirect sunlight</a>. This plant will grow faster in direct sunlight but will tolerate shadier conditions. Plants do best in <a href="/page-index/horticulture-techniques/soil/">moist, well-drained soil</a> at least 30cm deep, or in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a>. The plant can be grown in <a href="/page-index/horticulture-techniques/planting-in-containers/">smaller pots</a> about 15cm deep, but growth will be less vigorous due to the shallow soil.</p>
+	<p>As a fast-growing vine, this plant needs a sturdy <a href="/page-index/hardscapes/trellises/">trellis</a> to scramble on, or it can be left to sprawl on the ground. <a href="/page-index/horticulture-techniques/pruning/">Regular pruning</a> will encourage additional growth and improve air circulation.</p> 
 	<br> 
 </section> 
  
 <section> 
   <h4>Sowing seeds:</h4> 
-		<p>Seeds can be sown directly into pots or the ground around 10cm apart. Lightly water the soil until damp, once a day. Seeds should sprout within a week.</p> 
-		<iframe width="100%" height="415" src="https://www.youtube.com/embed/x7J87wY7U6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
-		<p>The seedlings are generally resilient to most environmental factors but may be vulnerable to being eaten by snails or birds. Protect your young plants with a DIY cloche or netting.</p>
+	<p>Seeds can be sown directly into pots or the ground around 10cm apart. Lightly water the soil until damp, once a day. Seeds should sprout within a week.</p> 
+	<iframe width="100%" height="415" src="https://www.youtube.com/embed/x7J87wY7U6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
+	<p>The seedlings are generally resilient to most environmental factors but may be vulnerable to being eaten by snails or birds. Protect your young plants with a DIY <a href="/page-index/horticulture-techniques/cloches/">cloche</a> or <a href="/page-index/hardscapes/netting/">netting</a>.</p>
 	<br> 
 </section> 
  
 <section> 
   <h4>Growing:</h4> 
-		<p>Ceylon spinach grows rapidly when fed with high nitrogen fertilisers. Plants can be fertilised regularly two weeks after germination for a fuller crop.</p>
+	<p>Ceylon spinach grows rapidly when fed with high nitrogen fertilisers. Plants can be fertilised regularly two weeks after germination for a fuller crop.</p>
 	<p>Because the vines will grow on top of each other, it is a good practice to prune regularly to improve ventilation and allow light to reach more of the plant.</p>
 	<p>This vine grows large very rapidly and can climb up to 10m if a tall enough surface is available. Prune it back to manageable heights (around 1.5m) to make harvesting and maintenance easier.</p> 
 	<br> 
