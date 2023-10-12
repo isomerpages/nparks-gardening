@@ -17,9 +17,9 @@ image: ""
 
 <section>
 	<img title="Loose-leaf lettuce. Photo by Jacqueline Chua." src="/images/Plants/Lettuce_JacChua%20(3).jpg">
-	<p>One of the most recognisable leafy vegetables, lettuces come in a variety of shapes and colours, with flat-leaved, curly, green, and red cultivars serving as exciting options for the edible gardener. Loose-leaf lettuces do better in the tropics and can be grown in both pots and true ground. Head lettuce is difficult to grow outdoors in Singapore due to the heat and humidity, which tends to cause the tightly bunched leaves to rot.</p>
+	<p>One of the most recognisable leafy vegetables, lettuces come in a variety of shapes and colours, with flat-leaved, curly, green, and red cultivars serving as exciting options for the edible gardener. Loose-leaf lettuces do better in the tropics as the leaves have plenty of airflow, and the clear leaf seperation makes it easy to prune and for <a href="/page-index/horticulture-techniques/cut-and-come-again/">cut-and-come-again harvesting</a>. Head lettuce is difficult to grow outdoors in Singapore due to the heat and humidity, which tends to cause the tightly bunched leaves to rot.</p>
 	<p>An <a href="/learn-more-about-gardening/glossary/#a">annual</a> crop, this plant is often grown and consumed under 2 months. Its rapid harvest cycle makes it useful for crop rotation.</p>
-  <p>Due to its shallow root system, these plants are a popular choice for container gardening and corridor gardening.</p>
+  <p>Due to its shallow root system, these plants are a popular choice for <a href="/page-index/horticulture-techniques/planting-in-containers/">container gardening</a>.</p>
 	<br>
 </section>
 
@@ -32,28 +32,29 @@ image: ""
 
 <section>
   <h4>Sowing seeds:</h4>
+			<iframe width="100%" height="415" src="https://www.youtube.com/embed/x7J87wY7U6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
 		<p><a href="/page-index/horticulture-techniques/propagating-by-seed/">Sow seeds</a> individually in a seedling tray filled with potting mix or seedling mix. Lightly mist the soil until damp, once a day. Seeds should sprout within a week.</p>
-		<iframe width="100%" height="415" src="https://www.youtube.com/embed/x7J87wY7U6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
 		<p>The seedlings will be vulnerable to high heat and heavy rain and are best kept in a sheltered propagation area or a shaded space with around 4 hours of partial or direct sunlight.</p>
 	<br>
 </section>
 
 <section>
 	<h4>Transplanting:</h4>
+			<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/lItBHYjyrKg" height="415" width="100%"></iframe><br>
 		<p>Seedlings will be ready for transplanting into pots or <a href="/page-index/horticulture-techniques/true-ground/">true ground</a> when they have developed 4 or more leaves, or roughly a week or two after germination. Leave 10-20cm between each plant to encourage more growth, better ventilation, and prevent etiolation.</p>
-		<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/lItBHYjyrKg" height="415" width="100%"></iframe><br>
 	<br>
 </section>
 	
 <section>
 	<h4>Growing:</h4>
-		<p>Lettuce is a rapid grower and will produce more leaves if fed with high nitrogen fertilisers. Plants can be <a href="/page-index/horticulture-techniques/fertilising/">fertilised</a> regularly the week after transplanting for a fuller crop.</p>
+		<p>Lettuce is a rapid grower and will produce more leaves if fed with <a href="/page-index/horticulture-techniques/fertilising/">high nitrogen fertilisers</a>. Plants can be <a href="/page-index/horticulture-techniques/fertilising/">fertilised</a> regularly once every two weeks after transplanting for a fuller crop.</p>
 	<br>
 </section>
 
 <section>
 	<h4>Harvesting:</h4>
-		<p>Plants can be harvested for leaves at any time, with younger leaves being the most tender. However, the leaves will become bitter when the plant starts to <a href="/learn-more-about-gardening/glossary/#flower">flower</a>. Most gardeners will <a href="/page-index/horticulture-techniques/harvesting-hygiene/">harvest</a> their crop around a month and a half after sowing.</p>
+	<img title="A gardener harvesting outer leaves as per the cut-and-come-again method. Photo by Jacqueline Chua." src="/images/Horti%20techniques/cutandcomeagain_lettuce_jacquelinechua.jpg">
+		<p>Plants can be <a href="/page-index/horticulture-techniques/harvesting-hygiene/">harvested for leaves</a> at any time, with younger leaves being the most tender. However, the leaves will become bitter when the plant starts to <a href="/learn-more-about-gardening/glossary/#flower">flower</a>. Most gardeners will <a href="/page-index/horticulture-techniques/harvesting-hygiene/">harvest</a> their crop around a month and a half after sowing.</p>
 		<p>The whole plant can be harvested once by cutting the head at the base or multiple times by harvesting the older leaves as per the <a href="/page-index/horticulture-techniques/cut-and-come-again/">cut-and-come-again</a> method.</p>
 		<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/f_Uoug7ZSeg" height="415" width="100%"></iframe><br>
 	<br>
