@@ -18,7 +18,7 @@ image: ""
 <section>
 	<img title="A Community Gardener posing next to the Winter Melons that he grew. photo by Jacqueline Chua." src="/images/Gardeners/Harvesting%20(8).jpg">
 	<p>Winter Melons are one of the most impressive crops an edible gardener can grow, with singular fruit growing as heavy as 30kg! The fruit is typically steamed or stewed, but the flesh can also be candied, and the seeds made into a sweet paste.</p>
-	<p>An <a href="/learn-more-about-gardening/glossary/#a">annual</a> crop, these plants are often grown in rotation with other fruiting climbers.</p>
+	<p>An <a href="/learn-more-about-gardening/glossary/#a">annual</a> crop, these plants are often grown in <a href="/page-index/horticulture-techniques/crop-rotation/">rotation</a> with other fruiting climbers.</p>
 	<p>This plant is part of the Cucurbita or Melon family, which includes other popular edible fruits like <a href="/page-index/edible-plants/cucumber/">Cucumber</a>, <a href="/page-index/edible-plants/bitter-gourd/">Bitter Gourd</a>, and <a href="/page-index/edible-plants/pumpkin/">Pumpkin</a>.</p>
 	<br>
 </section>
@@ -28,7 +28,7 @@ image: ""
 	<img title="A wintermelon plant supported in a cradle. Photo by Jacqueline Chua." src="/images/Hardscapes/Cradle_JacChua%20(1).jpg">
 	<p>This vine does best in full sun gardens with a minimum of <a href="/page-index/horticulture-techniques/gauging-light/">6 hours of direct sunlight</a>. This plant can also grow with 4-5 hours of direct sunlight and at least 6 hours of indirect sunlight, but will produce less fruits.</p>
 	<p>Plants do best in <a href="/page-index/horticulture-techniques/soil/">loamy soil</a> at least 30cm deep, or in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a>. </p>
-	<p>This vine is vulnerable to heat stress during the dry season. Water it regularly and mulch the base to prevent water loss.</p>
+	<p>This vine is vulnerable to heat stress during the dry season. Water it regularly and <a href="/page-index/horticulture-techniques/mulching/">mulch</a> the base to prevent water loss.</p>
 		<p>As a fast-growing vine, this plant needs a sturdy <a href="/page-index/hardscapes/trellises">trellis</a> to scramble on. Because the fruits hang down, it is ideal for arch-shaped trellises. The fruits can get quite heavy if they are hanging off a trellis and can be supported with a cradle to prevent damage to the rest of the plant.</p>	
 	<p>As with all members of the melon family, this plant is <a href="/page-index/biodiversity/pollinators/">bee-pollinated</a> and produces male and female flowers. To encourage the formation of more fruits, it is best to have at least 3 separate plants growing in the same area to have both male and female flowers available, and to have <a href="/page-index/glossary/biodiversity-attracting-plants/">bee-attracting plants</a> within the garden to encourage pollination.</p>
 	<p>This plant can be grown year-round.</p>
