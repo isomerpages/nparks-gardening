@@ -16,7 +16,7 @@ image: ""
 </section>
 
 <section>
-	<img title="Photo by Jacqueline Chua." src="/images/Plants/Cucumber_JacChua.jpg">
+	<img title="A cucumber fruit growing on the vine. Photo by Jacqueline Chua." src="/images/Plants/Cucumber_JacChua.jpg">
 	<p>Cucumbers are a classic fruit eaten raw, in stews or preserved. They come in many cultivars with oblong fruits that range from small and green to large and yellow. Most varieties, particularly the ones eaten raw for salads, should be harvested when they are immature and not bitter .</p>
 <p>An <a href="/learn-more-about-gardening/glossary/#a">annual</a> crop, these plants are often grown in <a href="/page-index/horticulture-techniques/crop-rotation/">rotation</a> with other fruiting climbers.</p>
 	<p>This plant is part of the Cucurbita or Melon family, which includes other popular edible fruits like <a href="/page-index/edible-plants/winter-melon/">Winter Melon</a>, <a href="/page-index/edible-plants/bitter-gourd/">Bitter Gourd</a>, and <a href="/page-index/edible-plants/pumpkin/">Pumpkin</a>.</p>
