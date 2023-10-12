@@ -28,9 +28,8 @@ image: ""
 	<img title="Photo by Jacqueline Chua." src="/images/Plants/Brinjal_JacChua%20(1).jpg">
 	<p>This vine does best in <a href="/page-index/horticulture-techniques/gauging-light">full sun gardens with a minimum of 6 hours of direct sunlight</a>. This plant can also grow with 4-5 hours of direct sunlight and at least 6 hours of indirect sunlight, but will produce less fruits.</p>
 	<p>Plants do best in <a href="/page-index/horticulture-techniques/soil/">loamy soil</a> at least 15cm deep, or in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a>.</p>
-	<iframe width="100%" height="415" src="https://www.youtube.com/embed/eGBg_S8yj0U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
 	<p>As with all members of the Nightshade family, this plant is buzz pollinated and produces the most fruit when bees are around to pollinate it. Growing more <a href="/page-index/glossary/biodiversity-attracting-plants">bee-attracting plants</a> within the garden will encourage pollination. </p>
-	<p>These plants can get <a href="/page-index/plant-problems/nutrient-deficiencies/">blossom end rot</a>, which shows up as dark, sunken blotches at the end of fruits. It is a symptom of a lack of calcium reaching the fruit, which is usually caused by a <a href="/page-index/horticulture-techniques/watering/">lack of water or inconsistent watering</a>. Keep your soil moist but not <a href="/page-index/plant-problems/waterlogging/">waterlogged</a>and take care to water more often during the dry season.</p>
+	<p>These plants can get <a href="/page-index/plant-problems/nutrient-deficiencies/">blossom end rot</a>, which shows up as dark, sunken blotches at the end of fruits. It is a symptom of a lack of calcium reaching the fruit, which is usually caused by a <a href="/page-index/horticulture-techniques/watering/">lack of water or inconsistent watering</a>. Keep your soil moist but not <a href="/page-index/plant-problems/waterlogging/">waterlogged</a> and take care to water more often during the dry season.</p>
 	<br>
 </section>
 
@@ -44,6 +43,7 @@ image: ""
 
 <section>
 	<h4>Growing:</h4>
+		<iframe width="100%" height="415" src="https://www.youtube.com/embed/eGBg_S8yj0U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
 	<p>Brinjals will produce more flowers and thus more fruit when fed with fertilisers high in Phosphorus and Potassium. Plants can be <a href="/page-index/horticulture-techniques/fertilising">fertilised</a> regularly a month after germination for a fuller crop.</p>
 	<p>This plant grows as a small shrub, producing large leaves on a few branches. It is a good practice to prune regularly and remove dead leaves to improve ventilation and allow light to reach more of the plant. </p>
 	<br>
@@ -51,7 +51,8 @@ image: ""
 
 <section>
 	<h4>Harvesting:</h4>
-	<p>Plants can be harvested for fruits around 3 months after sowing. The best time to harvest the fruit is in the early morning, before 9am.</p>
+	<img title="Community Gardeners with greshly harvested Brinjal fruits. Photo by Jacqueline Chua." src="/images/Gardeners/Harvesting%20(5).jpg">
+	<p>Plants can be <a href="/page-index/horticulture-techniques/harvesting-hygiene/">harvested</a> for fruits around 3 months after sowing. The best time to harvest the fruit is in the early morning, before 9am.</p>
 	<p>Eggplants are generally eaten when they are immature. Immature fruits should be picked when they are glossy, and have a soft, spongy texture.</p>
 	<p>Ripe fruits are usually a dull brown or yellow, and will rapidly become soft and wrinkly. Ripe fruit should not be eaten, but can be harvested for seeds to be used for immediate planting. </p>
 	<br>
