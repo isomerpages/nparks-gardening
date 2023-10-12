@@ -26,8 +26,8 @@ image: ""
  
 <section> 
   <h4>Environmental needs:</h4> 
-		<img title="Photo by Jacqueline Chua" src="/images/Plants/XiaoBaiCai_JacChua%20(2).jpg">
-		<p> Cai Xin does best in <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/gauging-light/">more than 6 or more hours of indirect sunlight, or around 4-5 hours of direct sunlight</a>. Plants do best in moist, well-drained soil at least 10cm deep, making them suitable for container gardening. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe. Keep your plants cool with mulch and plenty of water to encourage growth.</p> 
+		<img title="A Community Gardener with the Xiao Bai Cai she grew in pots. Photo by Jacqueline Chua" src="/images/Gardeners/Harvesting%20(12).jpg">
+		<p> Xiao Bai CAi does best in <a href="/page-index/horticulture-techniques/gauging-light/">more than 6 or more hours of indirect sunlight, or around 4-5 hours of direct sunlight</a>. Plants do best in moist, well-drained soil at least 10cm deep, making them suitable for container gardening. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe. Keep your plants cool with mulch and plenty of water to encourage growth.</p> 
 	<br> 
 </section> 
  
@@ -54,9 +54,10 @@ image: ""
  
 <section> 
   <h4>Harvesting:</h4> 
-		<p>Plants can be harvested for leaves and stems at any size, with younger leaves being the most tender. Most gardeners will begin harvesting from Xiao Bai Cai around a month after sowing.</p>
+			<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/f_Uoug7ZSeg" height="415" width="100%"></iframe><br>
+		<p>Plants can be harvested for leaves and stems at any size, with younger leaves being the most tender. Most gardeners will <a href="/page-index/horticulture-techniques/harvesting-hygiene/">harvest</a> their crop around three weeks to a month after sowing.</p> 
+		<img title="Whole Xiao Bai Cai plants harvested by being cut at the base. Photo by Jacqueline Chua." src="/images/Horti%20techniques/HarvestingVeg_JacChua.jpg">
 	<p>The whole plant can be harvested once by cutting the head at the base or multiple times by harvesting the older leaves as per the <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/cut-and-come-again/">cut-and-come-again method</a>.</p> 
-		<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/f_Uoug7ZSeg" height="415" width="100%"></iframe><br>
 	<br>
 </section> 
  
