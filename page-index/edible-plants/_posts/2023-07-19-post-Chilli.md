@@ -111,5 +111,6 @@ image: ""
 	<p><a href="/page-index/pests/oriental-fruit-flies">Fruit flies</a> can lay eggs in the fruit, resulting in larvae damaging the fruit and creating spots on the skin. Wrap your fruit in netting when it starts to develop from a fertilised flower, ideally after all the petals have dropped off. </p>
 	<p><a href="/page-index/plant-problems/wilting">Wilting</a> leaves during hot weather is a sign of heat stress. Increase the number of times the plant is watered daily, and apply mulch at the base to prevent water loss. </p>
 	<p>These plants can get <a href="/page-index/plant-problems/nutrient-deficiencies/">blossom end rot</a>, which shows up as dark, sunken blotches at the end of fruits. It is a symptom of a lack of calcium reaching the fruit, which is usually caused by a lack of water or inconsistent watering. Keep your soil moist but not waterlogged and take care to water more often during the dry season.</p>
+	<p>This plant is especially vulnerable to <a href="/page-index/plant-problems/root-rot/">root rot</a> caused by <a href="/page-index/plant-problems/waterlogging/">waterlogging</a>. It is best to grow the plant in <a href="/page-index/horticulture-techniques/soil/">loamy soil</a> with plenty of organic or inorganic <a href="/page-index/horticulture-techniques/soil-amendments/">soil amendments</a> prevent this.</p>
 	<br>
 </section>
