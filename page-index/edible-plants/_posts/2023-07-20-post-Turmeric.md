@@ -57,5 +57,6 @@ image: ""
 	<p>This plant is relatively resistant to pests and disease if kept healthy.</p>
 	<p><a href="/page-index/plant-problems/wilting/">Wilting</a> leaves during hot weather is a sign of heat stress. Increase the number of times the plant is watered daily, and apply mulch at the base to prevent water loss.</p>
 		<p><a href="/page-index/pests/aphids/">Aphids</a>, <a href="/page-index/pests/mealy-bugs/">Mealy Bugs</a>, <a href="/page-index/pests/whiteflies/">Whiteflies</a>, and <a href="/page-index/pests/spider-mites/">spider mites</a> often infest the plant if it has <a href="/page-index/plant-problems/wilting/">wilted from heat stress</a>. <a href="/horticulture-techniques/pest-control/">Mechanical pest control</a> methods like <a href="/page-index/horticulture-techniques/pruning/">pruning</a> the infested parts are the best methods for managing these pests.</p>
+		<p>These plants are vulnerable to <a href="/page-index/plant-problems/sunburn/">sunburn</a> in more than 6 hours of direct sunlight. Use <a href="/page-index/hardscapes/netting/">shade netting</a> to protect your plants or replant in a shadier spot.</p>
 	<br>
 </section>
