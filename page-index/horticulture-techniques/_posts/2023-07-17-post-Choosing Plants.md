@@ -18,10 +18,10 @@ image: ""
 	<p>It is important to choose plants that suit your existing garden conditions. Growing plants in unsuitable environments makes them inherently weaker and more prone to pests, disease, and eventual death.</p>
 	<p>The most important environmental factors you need to take note are:</p>  
 	<ul>
-		<li>The amount of sunlight you receive</li>
-		<li>Your schedule for watering</li>
-		<li>The amount of space you have</li>
-		<li>The kind of soil present, and whether it can be amended</li>
+		<li>The amount of <a href="/page-index/horticulture-techniques/gauging-light/">sunlight</a> you receive</li>
+		<li>Your schedule for <a href="/page-index/horticulture-techniques/watering/">watering</a></li>
+		<li>The amount of <a href="/page-index/horticulture-techniques/plant-spacing/">space</a> you have</li>
+		<li>The kind of <a href="/page-index/horticulture-techniques/soil/">soil</a> present, and whether it can be amended</li>
 	</ul>
 	<p>As a rule of thumb, it is hardest to change the amount of light your garden gets, and therefore it would be best to choose plants that can thrive in the amount of light you have. Once you have determined that, it is easier to pick plants to suit your watering schedule, and to buy or amend soil as needed.</p>
 	<p>Check out our <a href="https://go.gov.sg/plantsuggester/">plant suggester tool</a> to get you started!</p>
@@ -40,7 +40,7 @@ image: ""
 			</ul>
 		<li>The underside of leaves and the joint between leaves and stems</li>
 			<ul>
-				<li>Pests like mealybugs, scale insects, spider mites and aphids may hide here, and can spread to the rest of your garden if they come home with you!</li>
+				<li>Pests like <a href="/page-index/pests/aphids/">Aphids</a>, <a href="/page-index/pests/mealy-bugs/">Mealy Bugs</a>, <a href="/page-index/pests/whiteflies/">Whiteflies</a>, and <a href="/page-index/pests/spider-mites/">Spider Mites</a> may hide here, and can spread to the rest of your garden if they come home with you!</li>
 			</ul>
 		<li>Signs of disease or nutrient deficiency on leaves</li>
 			<ul>
@@ -56,9 +56,9 @@ image: ""
 	<p>Does your garden have a theme? Do you use your plants for therapeutic horticulture, arts and crafts, or cooking? Choosing plants for use depends on your own taste and plans, and is an exciting way to build a collection!</p>
 	<p>Here are some common ways plants can be used to help you curate your own list:</p>
 	<ul>
-		<li>To be eaten as a leafy vegetable, fruit, or herb</li>
-		<li>To be admired for colourful foliage or flowers</li>
-		<li>To attract animals like pollinators, birds, and more </li>
+		<li>To be <a href="/page-index/glossary/edible-plants/">eaten</a> as a leafy vegetable, fruit, or herb</li>
+		<li>To be <a href="/page-index/glossary/ornamental-plants/">admired</a> for colourful foliage or flowers</li>
+		<li>To <a href="/page-index/glossary/biodiversity-attracting-plants/">attract animals</a> like pollinators, birds, and more </li>
   </ul>
 	<br>
 </section>
