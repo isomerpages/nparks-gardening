@@ -18,7 +18,7 @@ image: ""
 <section> 
 	<img title="Photo by Jacqueline Chua." src="/images/Plants/CaiXin_JacChua%20(2).jpg"> 
 	<p>A staple vegetable in many Chinese homes, Cai Xin is a tender leafy vegetable that can be blanched, stir-fried, or added to soup. The green variety is most common in markets, but some gardeners have also been growing a purple variety from seed!</p>
-	<p>An <a href="/learn-more-about-gardening/glossary/#a">annual</a> crop, this plant is often grown and consumed under 2 months. Its rapid harvest cycle makes it useful for crop rotation.</p>
+	<p>An <a href="/learn-more-about-gardening/glossary/#a">annual</a> crop, this plant is often grown and consumed under 2 months. Its rapid harvest cycle makes it useful for <a href="/page-index/horticulture-techniques/crop-rotation/">crop rotation</a>.</p>
   <p>Due to its shallow root system, these plants are a popular choice for <a href="/page-index/horticulture-techniques/planting-in-containers/">container gardening</a>.</p>
 	<p>Cai Xin is part of the Brassica or cabbage family, which also includes other popular vegetables like <a href="/page-index/edible-plants/kai-lan/">Kai Lan</a> and <a href="/page-index/edible-plants/xiao-bai-cai/">Xiao Bai Cai</a>. Like a cabbage, Cai Xin will produce a head of leaves that can be harvested all at once. You can prolong your harvest by instead harvesting individual older leaves via the <a href="/page-index/horticulture-techniques/cut-and-come-again/">cut-and-come-again</a> method.</p>
   <br> 
@@ -56,6 +56,7 @@ image: ""
   <h4>Harvesting:</h4>
 			<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/f_Uoug7ZSeg" height="415" width="100%"></iframe><br>
 		<p>Plants can be harvested for leaves at any time, with younger leaves being the most tender. However, the leaves will become tough when the plant starts to flower. Most gardeners will <a href="/page-index/horticulture-techniques/harvesting-hygiene/">harvest</a> their crop around three weeks to a month after sowing.</p> 
+	<img title="A Community Gardener harvesting the whole Cai Xin plant and cutting off the roots. Photo by Jacqueline Chua." src="/images/Gardeners/Harvesting%20(9).jpg">
 		<p>The whole plant can be harvested once by cutting the head at the base or multiple times by harvesting the older leaves as per the <a href="/page-index/horticulture-techniques/cut-and-come-again/">cut-and-come-again</a> method.</p> 
 	<br>
 </section> 
