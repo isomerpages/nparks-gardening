@@ -16,7 +16,7 @@ image: ""
 </section>
 
 <section>
-	<img title="Photo by Jacqueline Chua." src="/images/Plants/SmoothLoofah_JacChua.jpg">
+	<img title="A Smooth Luffa fruit. Photo by Victoria Lim." src="/images/Plants/smoothluffa_victorialim.jpg">
 	<p>Smooth Loofahs are large oblong fruits that can be eaten when young, or used as a natural sponge when mature. Young fruits are fried, stewed, boiled, or steamed in a variety of dishes. Mature fruit have fibrous, spongy flesh that can be used as a skin exfoliator, to clean dishes, and as padding.</p>
 	<p>An <a href="/learn-more-about-gardening/glossary/#a">annual crop</a>, these plants are often grown in rotation with other fruiting climbers.</p>
 	<p>This plant is part of the Cucurbita or Melon family, which includes other popular edible fruits like <a href="/page-index/edible-plants/cucumber">Cucumber</a>, <a href="/page-index/edible-plants/winter-melon">Winter melon</a>, and <a href="/page-index/edible-plants/pumpkin">Pumpkin</a>.</p>
@@ -25,12 +25,11 @@ image: ""
 
 <section>
 	<h4>Environmental needs:</h4>
-	<img title="Photo by Jacqueline Chua." src="/images/Plants/SmoothLoofah_JacChua%20(3).jpg">
+	<img title="Smooth Luffa being pollinated by a stingless bee. Photo by Jacqueline Chua." src="/images/Plants/SmoothLoofah_JacChua%20(3).jpg">
 	<p>This vine does best in <a href="/page-index/horticulture-techniques/gauging-light/">full sun gardens with a minimum of 6 hours of sunlight</a>. This plant can also grow in 4-6 hours of direct sunlight or more than 6 hours of indirect sunlight, but the plant may be less vigorous and produce less fruits. </p>
 	<p>Plants do best in <a href="/page-index/horticulture-techniques/soil/">loamy soil</a>at least 30cm deep, or in true ground. The plant can be grown in smaller pots about 20cm deep, but growth will be slower due to the lack of water retention in less soil and a smaller root ball. </p>
 	<p>As a fast-growing vine, this plant needs a tall, sturdy <a href="/page-index/hardscapes/trellises/">trellis</a> to scramble on. Because the fruits hang down, it is ideal for arch-shaped trellises.</p>
-	<iframe width="100%" height="415" src="https://www.youtube.com/embed/SUQGxxAAcNs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
-	<p>As with all members of the melon family, this plant is bee pollinated and produces male and female flowers. To encourage the formation of more fruits, it is best to have at least 3 separate plants growing in the same area to have both male and female flowers available, and to have <a href="/page-index/glossary/biodiversity-attracting-plants/">bee-attracting plants</a> within the garden to encourage pollination. If your garden lacks bees, the plant can also be hand pollinated.</p>
+	<p>As with all members of the melon family, this plant is bee pollinated and produces male and female flowers. To encourage the formation of more fruits, it is best to have at least 3 separate plants growing in the same area to have both male and female flowers available, and to have <a href="/page-index/glossary/biodiversity-attracting-plants/">bee-attracting plants</a> within the garden to encourage pollination.</p>
 	<br>
 </section>
 	
@@ -44,6 +43,7 @@ image: ""
 
 <section>
 	<h4>Growing:</h4>
+		<img title="A smooth luffa fruit developing from a flower. Photo by Jacqueline Chua." src="/images/Plants/SmoothLoofah_JacChua.jpg">
 	<p>Smooth Loofahs will produce more flowers and thus more fruit when fed with fertilisers high in Phosphorus and Potassium. Plants can be <a href="/page-index/horticulture-techniques/fertilising/">fertilised regularly</a> a month after germination for a fuller crop.</p>
 	<p>Because the vines will grow on top of each other, it is a good practice to <a href="/page-index/horticulture-techniques/pruning/">prune regularly</a> and remove dead leaves and vines to improve ventilation and allow light to reach more of the plant. </p>
 	<br>
@@ -54,7 +54,6 @@ image: ""
 	<p>Plants can be <a href="/page-index/horticulture-techniques/harvesting-hygiene/">harvested</a> for immature fruits around 2 months after sowing. The best time to harvest the fruit is in the early morning, before 9am.</p>
 	<p>Mature fruits can be harvested when the skin is dry and begins to crack. </p>
 	<p>The plant will continuously produce fruit for about 3 months to a year before declining. </p>
-	<iframe width="100%" height="415" src="https://www.youtube.com/embed/eGBg_S8yj0U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
 	<br>
 </section>
 
@@ -95,8 +94,7 @@ image: ""
 	<p>If your vine has little to no flowers, you try <a href="/page-index/horticulture-techniques/fertilising/">fertilising</a> the plant with fertilisers high in Phosphorus and Potassium. These nutrients encourage root and flower growth, which are important for the plant to produce more fruit.</p>
 	<p>However, if your plant is producing lots of flowers but is not bearing fruit, you may not have female and male flowers present in the same area together. Pollen from the male flower needs to be transferred to the female flower before the female flower can become a fruit. This process is called <a href="/learn-more-about-gardening/glossary/#p">pollination</a> and is important or the formation of many edible fruits. Vines from the melon family generally produce male flowers before female flowers. Having at least 3 plants of varying ages in the garden will make both male and female flowers present for pollination to happen. </p>
 	<p>Many plants require <a href="/page-index/biodiversity/pollinators">pollinators</a> to help them fruit. Bees, butterflies, birds and even beetles transport pollen from one flower to another, pollinating your crops and increasing their fruit yield. Attract some pollinators to your garden by growing <a href="/page-index/glossary/biodiversity-attracting-plants">pollinator-attracting crops</a>, or become a pollinator yourself by hand-pollinating your plants. </p>
-	<p><a href="/page-index/pests/aphids">Aphids</a>, <a href="/page-index/pests/mealy-bugs">mealy bugs</a>, and <a href="/page-index/pests/spider-mites">spider mites</a> often infest the plant if it is sickly or overgrown. Prune off the infested parts, or apply horticultural oils like neem oil and white summer oil to suffocate the remaining pests. <a href="/page-index/horticulture-techniques/pruning/">Regularly prune</a> the plant to allow light and air to reach throughout the plant, and check the plant for underlying problems like <a href="/page-index/plant-problems/root-rot">root rot</a>, lack of sunlight, and <a href="/page-index/plant-problems/nutrient-deficiencies">nutrient deficiencies</a>. </p>
-	<p>Whiteflies can infest the plant and lay eggs under its leaves. Remove affected plant parts and catch remaining adults with yellow sticky paper or treat them with citrus spray.</p> 
+		<p><a href="/page-index/pests/aphids/">Aphids</a>, <a href="/page-index/pests/mealy-bugs/">Mealy Bugs</a>, <a href="/page-index/pests/whiteflies/">Whiteflies</a>, and <a href="/page-index/pests/spider-mites/">spider mites</a> often infest the plant if it has <a href="/learn-more-about-gardening/plant-problems/">underlying problems</a> like waterlogging. <a href="/horticulture-techniques/pest-control/">Mechanical pest control</a> methods like <a href="/page-index/horticulture-techniques/pruning/">pruning</a> the infested parts are the best methods for managing these pests in the short term, but resolving the underlying problem will prevent them in the long term.</p> 
 	<p><a href="/page-index/pests/oriental-fruit-flies">Fruit flies</a> can lay eggs in the fruit, resulting in larvae damaging the fruit and creating spots on the skin. Wrap your fruit in netting when it starts to develop from a fertilised flower, ideally after all the petals have dropped off. </p>
 	<p>All vines from the melon family tend to attract beetles, which typically attack the plant’s leaves at night. They don’t harm the fruit, but if too many leaves are eaten, the plant may slow its growth.  </p>
 	<br>
