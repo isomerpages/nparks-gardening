@@ -44,7 +44,7 @@ image: ""
 	
 <section>
 	<h4>Growing:</h4>
-	<p>Bitter gourds will produce more flowers and thus more fruit when fed with fertilisers high in phosphorus and potassium. Plants can be <a href="/page-index/horticulture-techniques/fertilising/">fertilised</a> regularly once a month or once every two months after the plant produces its first flower for a fuller crop.</p>
+	<p>Bitter gourds will produce more <a href="/learn-more-about-gardening/glossary/#flower">flowers</a> and thus more fruit when fed with fertilisers high in phosphorus and potassium. Plants can be <a href="/page-index/horticulture-techniques/fertilising/">fertilised</a> regularly once a month or once every two months after the plant produces its first flower for a fuller crop.</p>
 	<p>Because the vines will grow on top of each other, it is a good practice to <a href="/page-index/horticulture-techniques/pruning">prune</a> regularly and remove dead leaves and vines to improve ventilation and allow light to reach more of the plant.</p>
 	<p>Direct sunlight can damage the fruit. Allow leaves to grow over the fruit or protect it using a cloth cover.</p>
 	<br>
@@ -86,7 +86,7 @@ image: ""
 
 <section>
 	<h4>Propagation:</h4>
-	<img src="/images/Plants/Bittergourd_JacChua.jpg">
+	<img title="A mature bitter gourd fruit. Photo by Jacqueline Chua." src="/images/Plants/Bittergourd_JacChua.jpg">
 	<p>This vine can be grown via <a href="/page-index/horticulture-techniques/propagating-by-seeds/">seeds</a>. Seeds can be taken from mature fruit for immediate planting.</p>
 	<br>
 </section>
