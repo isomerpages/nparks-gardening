@@ -19,8 +19,8 @@ image: ""
 	<img title="Photo by Jacqueline Chua." src="/images/Plants/Bittergourd%20(1).jpg">
 	<p>Bitter Gourd, as the name implies, is a bitter fruit used in a variety of Asian dishes. Eaten as an immature fruit, it can be stewed, fried, steamed or juiced. </p>
 	<p>The fruit has a lumpy appearance, with Chinese cultivars looking more warty and Indian varieties sporting spikes. The immature fruit ranges from bright green to white depending on cultivar, and the ripe fruit turns orange with bright red seeds.</p>
-	<p>An <a href="/learn-more-about-gardening/glossary/#a">annual</a> crop, these plants are often grown in rotation with other fruiting climbers.</p>
-	<p>This plant is part of the Cucurbita or Melon family, which includes other popular edible fruits like Cucumber, Winter melon, and Pumpkin.</p>
+	<p>An <a href="/learn-more-about-gardening/glossary/#a">annual</a> crop, these plants are often grown in <a href="/page-index/horticulture-techniques/crop-rotation/">rotation</a> with other fruiting climbers.</p>
+	<p>This plant is part of the Cucurbita or Melon family, which includes other popular edible fruits like <a href="/page-index/edible-plants/cucumber/">Cucumber</a>, <a href="/page-index/edible-plants/winter-melon/">Winter melon</a>, and <a href="/page-index/edible-plants/pumpkin/">Pumpkin</a>.</p>
 	<br>
 </section>
 
