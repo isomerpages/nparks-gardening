@@ -22,7 +22,7 @@ image: ""
 	<ul>
 		<li><a href="/page-index/horticulture-techniques/choosingplants/">Choose plants</a> that can thrive in your garden’s environment. Plants that cannot adapt to your garden’s prevailing environmental conditions will be inherently unhealthy and pest prone. For example, sun-loving plants will attract pests when planted in shady areas and vice versa. Use our <a href="/plant-search/">plant suggester tool</a> to choose your plants wisely. </li>
 		<li>Practice good housekeeping habits. Regular <a href="/page-index/horticulture-techniques/weeding/">weeding</a><a>, </a><a href="/page-index/horticulture-techniques/pruning/">pruning</a> and other routine maintenance will help to reduce hiding places for pests, and keep your plants healthy. </li>
-		<li>Consider growing different plants to reduce pest populations. Methods like crop rotation and <a href="/page-index/horticulture-techniques/companionplanting/">companion planting</a> will increase the diversity of plants in your garden and reduce the chance of pests taking over their favourite target plant. </li>
+		<li>Consider growing different plants to reduce pest populations. Methods like <a href="/page-index/horticulture-techniques/crop-rotation/">crop rotation</a> and <a href="/page-index/horticulture-techniques/companionplanting/">companion planting</a> will increase the diversity of plants in your garden and reduce the chance of pests taking over their favourite target plant. </li>
 	</ul>
 	<br>
 </section>
