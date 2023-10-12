@@ -46,7 +46,7 @@ image: ""
 
 <section>
 	<h4>Harvesting:</h4>
-	<p>Fruits are considered ripe when they are slightly soft to the touch but are not mushy. Ripe fruits will also have a strong, sweet fragrance. Fruits can be harvested unripe then left to ripen off the tree or harvested ripe for immediate consumption.</p>
+	<p>Fruits are considered ripe when they are slightly soft to the touch but are not mushy. Ripe fruits will also have a strong, sweet fragrance. Fruits can be <a href="/page-index/horticulture-techniques/harvesting-hygiene">harvested</a> unripe then left to ripen off the tree or harvested ripe for immediate consumption.</p>
 	<br>
 </section>
 
@@ -60,9 +60,9 @@ image: ""
 	<h4>Common problems &amp; solutions:</h4>
 	<p>If your plant has little to no flowers, you try fertilising the plant with <a href="/page-index/horticulture-techniques/fertilising/">fertilisers high in Phosphorus and Potassium</a>. These nutrients encourage root and flower growth, which are important for the plant to produce more fruit.</p>
 <p>Many plants require <a href="/page-index/biodiversity/pollinators/">pollinators</a> to help them fruit. Bees, butterflies, birds and even beetles transport pollen from one flower to another, pollinating your crops and increasing their fruit yield. Attract some pollinators to your garden by growing <a href="/page-index/glossary/biodiversity-attracting-plants/">pollinator-attracting plants</a>.</p>
-<p><a href="/page-index/pests/ahpids">Aphids</a>, <a href="/page-index/pests/mealy-bugs">mealy bugs</a>, and <a href="/page-index/pests/scale-insects/">scale insects</a> often infest the plant if it is <a href="/page-index/plant-problems/waterlogging/">waterlogged</a>, <a href="/page-index/plant-problems/wilting/">wilted from heat stress</a>, or is <a href="/page-index/horticulture-techniques/watering/">inconsistently watered</a>. <a href="/horticulture-techniques/pest-control/">Mechanical pest control</a> methods like <a href="/page-index/horticulture-techniques/pruning/">pruning</a> the infested parts are the best methods for managing these pests.</p>
+<p><a href="/page-index/pests/ahpids">Aphids</a>, <a href="/page-index/pests/mealy-bugs">mealy bugs</a>, and <a href="/page-index/pests/scale-insects/">scale insects</a> often infest the plant if it is <a href="/page-index/plant-problems/waterlogging/">waterlogged</a>, <a href="/page-index/plant-problems/wilting/">wilted</a> from heat stress, or is <a href="/page-index/horticulture-techniques/watering/">inconsistently watered</a>. <a href="/horticulture-techniques/pest-control/">Mechanical pest control</a> methods like <a href="/page-index/horticulture-techniques/pruning/">pruning</a> the infested parts are the best methods for managing these pests.</p>
 		<p><a href="/page-index/pests/oriental-fruit-flies/">Fruit flies</a> can lay eggs in the fruit, resulting in larvae damaging the fruit and creating spots on the skin. Wrap your fruit in <a href="/page-index/hardscapes/netting/">netting</a> when it starts to develop from a fertilised flower, ideally after all the petals have dropped off. </p>
-	<p><a href="/page-index/plant-problems/wilting">Wilting</a> leaves during hot weather is a sign of heat stress. Increase the number of times the plant is watered daily, and apply mulch at the base to prevent water loss. </p>
+	<p><a href="/page-index/plant-problems/wilting">Wilting</a> leaves during hot weather is a sign of heat stress. Increase the number of times the plant is watered daily, and apply <a href="page-index/horticulture-techiniques/mulching">mulch</a> at the base to prevent water loss. </p>
 	<p>Squirrels, birds and fruit bats may eat unripe or ripe fruit. Wrap your fruit in <a href="/page-index/hardscapes/netting/">netting</a> when it starts to develop from a fertilised flower, ideally after all the petals have dropped off.</p>
 	<br>
 </section>
