@@ -27,28 +27,28 @@ image: ""
 <section> 
   <h4>Environmental needs:</h4> 
 		<img title="A Community Gardener with the Xiao Bai Cai she grew in pots. Photo by Jacqueline Chua" src="/images/Gardeners/Harvesting%20(12).jpg">
-		<p> Xiao Bai CAi does best in <a href="/page-index/horticulture-techniques/gauging-light/">more than 6 or more hours of indirect sunlight, or around 4-5 hours of direct sunlight</a>. Plants do best in moist, well-drained soil at least 10cm deep, making them suitable for container gardening. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe. Keep your plants cool with mulch and plenty of water to encourage growth.</p> 
+		<p> Xiao Bai Cai does best in <a href="/page-index/horticulture-techniques/gauging-light/">more than 6 or more hours of indirect sunlight, or around 4-5 hours of direct sunlight</a>. Plants do best in <a href="/page-index/horticulture-techniques/soil/">loamy soil</a> at least 10cm deep, making them suitable for container gardening. These plants are vulnerable to <a href="/page-index/plant-problems/root-rot/">root rot</a>, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe. Keep your plants cool with <a href="/page-index/horticulture-techniques/mulching/">mulch</a> and plenty of water to encourage growth.</p> 
 	<br> 
 </section> 
  
 <section> 
-  <h4>Sowing seeds:</h4> 
+  <h4>Sowing seeds:</h4>
+			<iframe width="100%" height="415" src="https://www.youtube.com/embed/x7J87wY7U6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
 		<p><a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/propagatingseed/">Sow seeds</a> individually in a seedling tray filled with potting mix or seedling mix. Lightly mist the soil until damp, once a day. Seeds should sprout within a week.</p> 
-		<iframe width="100%" height="415" src="https://www.youtube.com/embed/x7J87wY7U6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
 		<p>The seedlings will be vulnerable to high heat and heavy rain and are best kept in a sheltered propagation area or a shaded space with around 4 hours of partial or direct sunlight.</p>
 	<br> 
 </section> 
  
 <section> 
   <h4>Transplanting:</h4> 
-		<p>Seedlings will be ready for transplanting into pots or true ground when they have developed 4 or more leaves, or roughly a week or two after germination. Leave 10-20cm between each plant to encourage more growth, better ventilation, and prevent etiolation.</p> 
-		<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/lItBHYjyrKg" height="415" width="100%"></iframe><br>
+			<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/lItBHYjyrKg" height="415" width="100%"></iframe><br>
+		<p>Seedlings will be ready for transplanting into pots or <a href="/page-index/horticulture-techniques/true-ground/">true ground</a> when they have developed 4 or more leaves, or roughly a week or two after germination. Leave 10-20cm between each plant to encourage more growth, better ventilation, and no etiolation.</p> 
 	<br>
 </section>
  
 <section> 
   <h4>Growing:</h4> 
-		<p>Xiao Bai Cai is a rapid grower and will produce more leaves if fed with high nitrogen fertilisers. Plants can be fertilised regularly the week after transplanting for a fuller crop.</p> 
+		<p>Xiao Bai Cai is a rapid grower and will produce more leaves if fed with <a href="/page-index/horticulture-techniques/fertilising/">high nitrogen fertilisers</a>. Plants can be <a href="/page-index/horticulture-techniques/fertilising/">fertilised</a> regularly once every two weeks after transplanting for a fuller crop.</p>
 	<br> 
 </section> 
  
