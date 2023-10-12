@@ -22,8 +22,8 @@ image: ""
 	<img src="/images/Horti%20techniques/light_jacchua%20(2).jpg">
 	<p><b>Indirect sunlight or partial shade</b> is light that is coming at an angle, bounced off another surface or filtered through things like clouds or shade cloth. It is less intense than direct sunlight and will cast an indistinct shadow with soft edges. Gardens at the foot of large buildings, in corridors, and along north-and south-facing windows indoors are likely to receive mostly indirect sunlight throughout the day. </p>
 	<img src="/images/Horti%20techniques/DappledSun_Jacchua.jpg">
-	<p><b>Dappled shade</b> is direct sunlight that is obstructed by other, taller plants. Trees and tall crops often cast dappled shade, which is ideal for growing smaller leafy vegetables, to protect vulnerable seedlings, or to grow plants that can be found in forests or on forest floors.</p>
-	<p><b>Deep shade</b> has little or no sunlight reaching the ground at all. Areas of a garden in deep shade will not have shadows. Areas immediately next to walls, far away from windows or in the middle of shelters are generally in deep shade. It is difficult to grow things in areas that are in deep shade for most of the day. These spots can instead be used for storage, resting areas or other kinds of hardscape. </p>
+	<p><b>Dappled shade</b> is direct sunlight that is obstructed by other, taller plants. Trees and tall crops often cast dappled shade, which is ideal for growing smaller leafy vegetables, to protect vulnerable seedlings, or to grow plants that can be found in forests or on forest floors. It can be considered roughly equivalent to indirect sunlight.</p>
+	<p><b>Deep shade</b> has little or no sunlight reaching the ground at all. Areas of a garden in deep shade will not have shadows. Areas immediately next to walls, far away from windows or in the middle of shelters are generally in deep shade. It is difficult to grow things in areas that are in deep shade for most of the day. These spots can instead be used for <a href="/page-index/hardscapes/hardscapes/">hardscapes for gardeners</a> like <a href="/hardscapes/storage/">storage</a>.</p>
 	<br>
 </section>
 
@@ -56,7 +56,7 @@ image: ""
 			</tr>
 		</tbody>
 	</table>
-	<p>It is better to underestimate the amount of light you receive as too much sun is easily remedied by using shade netting. A lack of light is much harder to deal with, as it will require choosing a new site for use or the installation of grow lights. </p>
+	<p>It is better to underestimate the amount of light you receive as too much sun is easily remedied by using <a href="/page-index/hardscapes/netting/">shade netting</a>. A lack of light is much harder to deal with, as it will require choosing a new site for use or the installation of <a href="/page-index/horticulture-techniques/grow-lights/">grow lights</a>. </p>
 	<br>
 </section>
 
@@ -65,7 +65,8 @@ image: ""
 	<p>Draw a simple map of your garden. Take note of existing buildings, structures, trees and waterbodies, as well as your garden boundaries.
 Add the four cardinal directions (North, South, East, West), preferably on the top corner of your map.</p>
 	<img src="/images/Garden%20design/WoodlandsZone5_JacChua.jpg">
-	<p>Visit your garden at 9:00 AM, 12:00 Noon, 3:00 PM and 6:00 PM on a sunny day and take and overview photo to see where there are shadows. If you can’t take an overhead shot, you can also take photos of the shadow you cast while in different parts of the garden. </p>
-	<p>Match your photos to your garden map to see which parts are full sun, partial shade or full shade. Now that you know how much sun you get, you can select your plants accordingly!</p>
-	<br>
+	<p>Visit your garden at 9:00 AM, 12:00 Noon, 3:00 PM and 6:00 PM on a sunny day and take an overview photo to see where there are shadows. If you can’t take an overhead shot, you can also take photos of the shadow you cast while in different parts of the garden. </p>
+	<p>Match your photos to your garden map to see which parts have full sunlight, indirect sunlight, or full shade at each time of day. Based on your observations, you can now calculate how much sunlight you get at each part of the garden.</p>
+	<img title="A sample garden with light observations. Graphic by NParks." src="/images/Horti%20techniques/lightgauging.jpg">
+	<p>For example, the top left part of the garden may have direct sun at 9am, 12 noon, and 3pm. This means it gets at least 6 hours of direct sunlight, and can be considered full sun. The bottom right part of the garden only had direct sun at 9am and 12 noon, after which a nearby building casts deep shade over it. This means that area gets only around 3 hours of direct sun, making it partially shaded.</p>
 </section>
