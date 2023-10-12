@@ -16,6 +16,7 @@ image: ""
 </section>
 
 <section>
+	<img title="Javan Spinach flowers. Photo by Jacqueline Chua." src="/images/Plants/javanspinach_flowers_jacquelinechua.jpg">
 	<p>Javan Spinach is a hardy vegetable that also produces delicate pink flowers that attracts bees. Its leaves, stem and root can be eaten blanched, fried, or in stews.</p>
 	<p>An annual crop, this plant is often grown and consumed under 6 months. It can be used for crop rotation.</p>       
 	<br>
@@ -23,6 +24,7 @@ image: ""
 
 <section>
 	<h4>Environmental needs:</h4>
+	<img title="Javan spinach plant. Photo by Jacqueline Chua." src="/images/Plants/javanspinach%20(1)_jacquelinechua.jpg">
 	<p>This plant needs about 4-8 hours of direct sunlight. Plants do best in moist, well-drained soil at least 10cm deep, making them suitable for container gardening. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe. Keep your plants cool with mulch and plenty of water to encourage growth.</p>
 	<br>
 </section>
