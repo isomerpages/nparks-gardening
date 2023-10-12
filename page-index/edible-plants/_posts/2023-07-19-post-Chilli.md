@@ -62,7 +62,7 @@ image: ""
 <section>
 	<h4>Harvesting:</h4>
 	<img title="Purple chillies. Photo by Jacqueline Chua." src="/images/Plants/chilli_purplecultivar%20(1)_jacquelinechua.jpg">
-	<p>Plants can be harvested for fruits around 3 months after sowing. The best time to harvest the fruit is in the early morning, before 9am.</p>
+	<p>Plants can be <a href="/page-index/horticulture-techniques/harvesting-hygiene/">harvested</a> for fruits around 3 months after sowing. The best time to harvest the fruit is in the early morning, before 9am.</p>
 	<p>Both immature and mature Chilli fruits can be eaten and may vary in taste depending on their stage of ripening.</p>
 	<p>Chilli fruits can be left to ripen and dry on the plant. Dry Chillies can be harvested for seeds to be planted.</p>
 	<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/FuWK90da0GY" height="415" width="100%"></iframe>
