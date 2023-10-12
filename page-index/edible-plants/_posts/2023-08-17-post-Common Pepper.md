@@ -16,7 +16,7 @@ image: ""
 </section>
 
 <section>
-	<img title="Photo by Flora anf Fauna Web." src="/images/Plants/commonpepper_ffw.jfif">
+	<img title="Photo by Flora and Fauna Web." src="/images/Plants/commonpepper_ffw.jfif">
 	<p>Common Pepper plants produce small hard fruits that can be processed into various kinds of pepper. Traditional black pepper is made from the dried immature fruit, white pepper is made from the seeds of mature fruit, while green pepper is made from fresh, immature fruit.</p>
 	<p>As a perennial vine, it is a common sight in edible gardens, permaculture gardens, and low maintenance beds.</p>
 	<br>
