@@ -34,14 +34,14 @@ image: ""
 	<ul>
 		<li><a href="/page-index/horticulture-techniques/pruning/">Pruning</a> off affected plant parts and disposing them away from the garden to prevent further spread. </li>
 		<li>Using <a href="/page-index/hardscapes/netting/">netting</a> or <a href="/page-index/horticulture-techniques/cloches/">cloches</a> to physically prevent pests from reaching plants. </li>
-		<li>Solarisation, in which soil is covered with porous black netting and left to heat up in the sun for up to two weeks to kill soil-borne pests like snails. </li>
+		<li>Physically rubbing and washing away small pests like <a href="/page-index/pests/aphids/">Aphids</a>, <a href="/page-index/pests/mealy-bugs/">Mealy Bugs</a>, <a href="/page-index/pests/scale-insects/">Scale Insects</a>, <a href="/page-index/pests/whiteflies/">Whiteflies</a>, and <a href="/page-index/pests/spider-mites/">Spider Mites</a> </li>
 	</ul>
 	<br>
 </section>
 
 <section>
 	<h4 id="biological_control">Biological control</h4>
-	<img title="Ladybug larvae eating scale insects Photo by Victoria Lim." src="/images/Biodiversity/lady%20bug%20larva%20-%20nerium%20oleander%20-%20ppn%201victorialim.jpg">
+	<img title="Ladybird larvae eating scale insects Photo by Victoria Lim." src="/images/Biodiversity/lady%20bug%20larva%20-%20nerium%20oleander%20-%20ppn%201victorialim.jpg">
 	<p>Biological control takes advantage of natural predators and pathogens to keep pest populations in check. Learning about <a href="/page-index/biodiversity/predators/">garden predators</a> and making your garden a better habitat for them will help keep pest populations down.</p>
 	<p>Some pathogens can also be used to control pests. These pathogens will specifically target certain species of pests, and will not affect other forms of biodiversity in your garden.</p>
 	<p><b>Bacillus thuringiensis (Bt)</b> a soil borne bacterium that affects insects in their larval stage. Bti – Bacillus thuringiensis israelensis (Bti) comes in pellets or granules, and is used to kill mosquito larvae in ponds, water reservoirs, and other sources of standing water. Bacillus thuringiensis kurstaki (Btk) is used to kill caterpillars, and is generally applied as a spray.</p>
@@ -58,7 +58,7 @@ image: ""
 </section>
 <section>
 	<h4>Chemical control for edible plants</h4>
-	<p>To keep your edible plants <a href="/page-index/horticulture-techniques/harvesting-hygiene/">safe for consumption</a>, it is best to use pesticides made from food-safe materials. Some examples are:</p>
+	<p>To keep your edible plants <a href="/page-index/horticulture-techniques/harvesting-hygiene/">safe for consumption</a>, it is best to use pesticides made from food-safe materials. As an extra precaution, harvest your crops at least two weeks after the last application of chemical controls to make sure none of the chemicals are left on the plant. Some crop-safe examples of chemical controls are:</p>
 	<ul class="jekyllcodex_accordion">
 	<li><input type="checkbox" id="accordion1">
 		<label for="accordion1">Baking soda spray: for fungi, powdery mildew, and sooty mould </label><div>
@@ -66,7 +66,7 @@ image: ""
 		</div></li>
 	<li><input type="checkbox" id="accordion2">
 		<label for="accordion2">Chrysanthemum spray: for most insects, including soft-bodied sucking pests and chewing pests</label><div>
-	<p><b>Chrysanthemum sprays</b>, which can be made by boiling 100g of dried chrysanthemum flowers in 4L of water for 20 minutes, allowed it to steep overnight, and then sieved for use. The spray will degrade and lose its effectiveness within a week. This spray can be used to kill most insects, and unfortunately also affects beneficial insects like bees and ladybirds. Spray the solution directly onto target pests and use in moderation.</p>
+	<p><b>Chrysanthemum sprays</b>, which can be made by boiling 100g of dried chrysanthemum flowers in 4L of water for 20 minutes, allowed it to steep overnight, and then sieved for use. The spray will degrade and lose its effectiveness within a week. This spray can be used to kill most insects, including <a href="/page-index/pests/aphids/">Aphids</a>, <a href="/page-index/pests/mealy-bugs/">Mealy Bugs</a>, <a href="/page-index/pests/whiteflies/">Whiteflies</a>, <a href="/page-index/pests/spider-mites/">Spider Mites</a>, and <a href="/page-index/pests/grasshoppers/">Grasshoppers</a>, but unfortunately also affects beneficial insects like <a href="/page-index/biodiversity/pollinators/">bees</a> and <a href="/page-index/biodiversity/predators/">ladybirds</a>. Spray the solution directly onto target pests and use in moderation.</p>
 		</div></li>
 	<li><input type="checkbox" id="accordion3">
 		<label for="accordion3">Dilute milk sprays: for fungi, powdery mildew, and sooty mould</label><div>
@@ -74,7 +74,7 @@ image: ""
 		</div></li>
 	<li><input type="checkbox" id="accordion4">
 		<label for="accordion4">Garlic, onion and chilli spray: for most large insects and rodents</label><div>
-	<p><b>Garlic, onion and chilli spray</b> is made from chopping up two chillies, two onions, and two bulbs of garlic, then steeping them in 1L of water for at least 24 hours. The solution can then be sieved and kept for a maximum of two weeks, after which it loses its effect. Compounds in garlic, onions and chillies will repel thrips, rodents, and caterpillars. This solution can be used as a preventative spray in moderation.</p>
+	<p><b>Garlic, onion and chilli spray</b> is made from chopping up two chillies, two onions, and two bulbs of garlic, then steeping them in 1L of water for at least 24 hours. The solution can then be sieved and kept for a maximum of two weeks, after which it loses its effect. Compounds in garlic, onions and chillies will repel thrips, rodents, and <a href="/page-index/pests/caterpillars/">caterpillars</a>. This solution can be used as a preventative spray in moderation.</p>
 		</div></li>
 		</ul>
 <br>
@@ -85,18 +85,18 @@ image: ""
 			<ul class="jekyllcodex_accordion">
 	<li><input type="checkbox" id="accordion5">
 		<label for="accordion5">Horticultural oils: for soft-bodied sucking insects</label><div>
-	<p><b>Horticultural oils</b>, which includes white summer oil, neem oil, and superior oil, are oils made from plants or minerals. For example, neem oil is processed from the seeds of the neem tree. They are generally sprayed directly on soft-bodied pests like aphids, spider mites, mealy bugs, scale insects and whitefly to suffocate the adults, larvae and eggs. Take note that horticultural oils can be an irritant, and gardeners should use gloves when applying the oil as a spray. Horticultural oils can also suffocate aquatic life and should not be used near ponds or water bodies.</p>
+	<p><b>Horticultural oils</b>, which includes white summer oil, neem oil, and superior oil, are oils made from plants or minerals. For example, neem oil is processed from the seeds of the neem tree. They are generally sprayed directly on soft-bodied pests like <a href="/page-index/pests/aphids/">Aphids</a>, <a href="/page-index/pests/mealy-bugs/">Mealy Bugs</a>, <a href="/page-index/pests/whiteflies/">Whiteflies</a>, and <a href="/page-index/pests/spider-mites/">Spider Mites</a> to suffocate the adults, larvae and eggs. Take note that horticultural oils can be an irritant, and gardeners should use gloves when applying the oil as a spray. Horticultural oils can also suffocate aquatic life and should not be used near ponds or water bodies.</p>
 			</div></li>
 	<li><input type="checkbox" id="accordion6">
 		<label for="accordion6">Hydrogen peroxide: for soil mealybugs</label><div>
-	<p><b>Hydrogen peroxide</b>, which is a common disinfectant that can be bought in pharmacies. 100ml of 3% hydrogen peroxide can be mixed with 400ml of water to make a drench that kills soil mealy bugs. Wash affected roots in the solution for maximum effect.</p>
+	<p><b>Hydrogen peroxide</b>, which is a common disinfectant that can be bought in pharmacies. 100ml of 3% hydrogen peroxide can be mixed with 400ml of water to make a drench that kills Soil <a href="/page-index/pests/mealy-bugs/">Mealy Bugs</a>. Wash affected roots in the solution for maximum effect.</p>
 					</div></li>
 	<li><input type="checkbox" id="accordion7">
 		<label for="accordion7">Rubbing Alcohol: for scale insects and mealy bugs</label><div>
-	<p><b>Rubbing alcohol</b> is a common disinfectant that can be bought in pharmacies. It can be directly applied on scale insects and mealy bugs to dissolve their waxy outer coating and dehydrate the vulnerable soft body underneath. This is best applied with cotton swabs or pads to reach as many nooks and crannies as possible.</p>
+	<p><b>Rubbing alcohol</b> is a common disinfectant that can be bought in pharmacies. It can be directly applied on <a href="/page-index/pests/scale-insects/">Scale Insects</a> and <a href="/page-index/pests/mealy-bugs/">Mealy Bugs</a> to dissolve their waxy outer coating and dehydrate the vulnerable soft body underneath. This is best applied with cotton swabs or pads to reach as many nooks and crannies as possible.</p>
 					</div></li>
 	<li><input type="checkbox" id="accordion8">
 		<label for="accordion8">Sulphur soap spray: for sucking pests </label><div>
-	<p><b>Sulphur soap spray</b> is made by dissolving an entire grated bar of sulphur soap in 1L of hot water. The compounds in the soap dissolve the exoskeleton of insects, and is particularly effective against aphids, mealy bugs, spider mites, and scale insects when applied directly as a spray.</p>
+	<p><b>Sulphur soap spray</b> is made by dissolving an entire grated bar of sulphur soap in 1L of hot water. The compounds in the soap dissolve the exoskeleton of insects, and is particularly effective against <a href="/page-index/pests/aphids/">Aphids</a>, <a href="/page-index/pests/mealy-bugs/">Mealy Bugs</a>, <a href="/page-index/pests/scale-insects/">Scale Insects</a>, <a href="/page-index/pests/whiteflies/">Whiteflies</a>, and <a href="/page-index/pests/spider-mites/">Spider Mites</a> when applied directly as a spray.</p>
 				</div></li>
 				</ul></section>
