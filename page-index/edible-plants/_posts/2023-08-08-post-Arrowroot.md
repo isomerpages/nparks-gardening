@@ -16,6 +16,7 @@ image: ""
 </section>
 
 <section>
+	<img title="Arrowroot plants growing in polybags. Photo by Jacqueline Chua." src="/images/Plants/arrowroot_jacquelinechua.jpg">
 	<p>Arrowroot is primarily grown for its <a href="/learn-more-about-gardening/glossary/#r">rhizome</a>, an underground horizontal stem that resembles a tuberous root. The rhizome can be eaten fried or steamed, or processed into flour.</p>
 	<p>It is a medium <a href="/learn-more-about-gardening/glossary/#p">perennial</a> crop that readily grows in the tropics in both true ground and in pots. This is a common plant in edible gardens, permaculture gardens, and low maintenance beds.</p>       
 	<br>
@@ -36,12 +37,14 @@ image: ""
 
 <section>
 	<h4>Harvesting:</h4>
+		<img title="A mature arrowroot rhizome that has been harvested. Photo by Victoria Lim." src="/images/Plants/arrowroot%20(2)_victorialim.jpg">
 	<p>Plants can be <a href="/page-index/horticulture-techniques/harvesting-hygiene/">harvested</a> for rhizomes at any time. They are typically harvested continuously via division.</p>
 	<br>
 </section>
 
 <section>
 	<h4>Propagation:</h4>
+			<img title="Young Arrowroot rhizomes. Photo by Victoria Lim." src="/images/Plants/arrowroot%20(1)_victorialim.jpg">
 	<p>Arrowroot is propagated <a href="/page-index/horticulture-techniques/propagating-by-division/">via division</a> of the rhizome.</p>
 	<br>
 </section>
