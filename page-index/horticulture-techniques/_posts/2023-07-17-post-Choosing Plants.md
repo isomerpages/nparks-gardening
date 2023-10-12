@@ -8,7 +8,7 @@ image: ""
 ---
 <section>
 	<p>The ability to choose plants is the most important skill any gardener could have. Picking plants that fit your garden environment, that are healthy and suit your needs are more than half the battle.</p>
-	<p>This page will give some guidelines for you to learn how to choose your own plants, but as with any skill, you will improve more with practice and with active observation of your garden. Keeping a garden log will speed up this process and help you become more discerning.</p>
+	<p>This page will give some guidelines for you to learn how to choose your own plants, but as with any skill, you will improve more with practice and with active observation of your garden. New gardeners can also use our <a href="https://go.gov.sg/plantsuggester/">plant suggester tool</a> to get started!</p>
 	<br>
 </section>
 
@@ -24,7 +24,6 @@ image: ""
 		<li>The kind of <a href="/page-index/horticulture-techniques/soil/">soil</a> present, and whether it can be amended</li>
 	</ul>
 	<p>As a rule of thumb, it is hardest to change the amount of light your garden gets, and therefore it would be best to choose plants that can thrive in the amount of light you have. Once you have determined that, it is easier to pick plants to suit your watering schedule, and to buy or amend soil as needed.</p>
-	<p>Check out our <a href="https://go.gov.sg/plantsuggester/">plant suggester tool</a> to get you started!</p>
 	<br>
 </section>
 
@@ -42,9 +41,9 @@ image: ""
 			<ul>
 				<li>Pests like <a href="/page-index/pests/aphids/">Aphids</a>, <a href="/page-index/pests/mealy-bugs/">Mealy Bugs</a>, <a href="/page-index/pests/whiteflies/">Whiteflies</a>, and <a href="/page-index/pests/spider-mites/">Spider Mites</a> may hide here, and can spread to the rest of your garden if they come home with you!</li>
 			</ul>
-		<li>Signs of disease or nutrient deficiency on leaves</li>
+		<li>Signs of <a href="/page-index/plant-problems/nutrient-deficiencies/">nutrient deficiency</a> or other <a href="/learn-more-about-gardening/plant-problems/">plant problems</a></li>
 			<ul>
-				<li>Yellowing, spots and dead leaves can be signs that a plant is unhealthy</li>
+				<li>Yellowing, spots, and dead leaves can be signs that a plant is unhealthy</li>
 			</ul>
 	</ul>
 	<br>
@@ -60,5 +59,6 @@ image: ""
 		<li>To be <a href="/page-index/glossary/ornamental-plants/">admired</a> for colourful foliage or flowers</li>
 		<li>To <a href="/page-index/glossary/biodiversity-attracting-plants/">attract animals</a> like pollinators, birds, and more </li>
   </ul>
+		<p>Ready to choose some plants? Use our <a href="https://go.gov.sg/plantsuggester/">plant suggester tool</a> to get you started!</p>
 	<br>
 </section>
