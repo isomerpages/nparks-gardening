@@ -18,14 +18,14 @@ image: ""
 <section>
 	<img title="Photo by Flora and Fauna Web." src="/images/Plants/elephantfootyam_ffw.jfif">
 	<p>Elephant Foot Yam is a large crop with edible root known as a corm which is used in curries, stews, chips or pickles.Young leaves are also cooked and eaten as a vegetable.</p>
-	<p>This plant is typically grown as an annual crop, but if the main corm is left intact, it can grow back as a perennial.</p>
-	<p>Elephant Foot Yams are part of the Araceae or Aroid family, which includes other edible plants like Taro. Many ornamental members of the family are very popular as houseplants, including Monsteras and Devil’s Ivy.</p>       
+	<p>This plant is typically grown as an <a href="/learn-more-about-gardening/glossary/#a">annual</a> crop, but if the main <a href="/learn-more-about-gardening/glossary/#c">corm</a> is left intact, it can grow back as a <a href="/learn-more-about-gardening/glossary/#p">perennial</a>.</p>
+	<p>Elephant Foot Yams are part of the Araceae or Aroid family, which includes other edible plants like <a href="/page-index/edible-plants/taro">Taro</a>. Many ornamental members of the family are very popular as houseplants, including Monsteras and <a href="/page-index/ornamental-plants/devils-ivy">Devil’s Ivy</a>.</p>       
 	<br>
 </section>
 
 <section>
 	<h4>Environmental needs:</h4>
-	<p>Elephant Foot Yam grows well in 2-4 hours of direct sunlight or more than 6 hours of indirect sunlight. Plants do best in moist, well-drained soil at least 60cm deep, making them most suitable for true ground planting. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe.</p>
+	<p>Elephant Foot Yam grows well in <a href="/page-index/horticulture-techniques/gauging-light">2-4 hours of direct sunlight or more than 6 hours of indirect sunlight</a>. Plants do best in <a href="/page-index/horticulture-techniques/soil">moist, well-drained soil</a> at least 60cm deep, making them most suitable for <a href="/page-index/horticulture-techniques/true-ground">true ground planting</a>. These plants are vulnerable to<a href="/page-index/plant-problems/root-rot"> root rot</a>, so ensure that your pots drain well, and that your soil has plenty of <a href="/page-index/horticulture-techniques/soil-amendments">organic matter</a> to let the roots breathe.</p>
 	<p>This plant will not do well in places with a lot of sun and is vulnerable to sunburn.</p>
 	<br>
 </section>
