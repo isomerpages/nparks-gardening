@@ -68,14 +68,14 @@ description: ""
 <br>
 
 <section>
-<h4 id="a">a</h4>
+<h4 id="a">A</h4>
 	<div id="annual"><b><u>Annual plants</u></b></div>
 	Annual plants are plants that will die at the end of a growing season, and will need to be replanted or regrown. Tropical climates don't really have seasons, so in Singapore's context, annual plants are plants that will die within a year.
 	<br><br><br>
 </section>
 
 <section>
-<h4 id="b">b</h4>
+<h4 id="b">B</h4>
 	<div id="biodiversity-attracting"><b><u>Biodiversity-attracting plants</u></b></div>
 Plants that produce materials that attracts animals, like food or nesting materials. Food materials include nectar, pollen, and fruit, while nesting materials include hollow twigs, leaves for lining nests, or large branches. 
 	<br><br>
@@ -85,7 +85,7 @@ Horticulturally, this refers to undeveloped shoots at the base of leaves or on t
 </section>
 
 <section>
-<h4 id="c">c</h4>
+<h4 id="c">C</h4>
 	<div id="corm"><b><u>Corm</u></b></div>
 	Corms are short, vertical, underground plant stems that store starch for plants. A number of them can be cooked and eaten, and they can also be used for propagation via division.
 	<br><br>
@@ -95,40 +95,55 @@ Horticulturally, this refers to undeveloped shoots at the base of leaves or on t
 </section>
 
 <section>
-<h4 id="d">d</h4>
+<h4 id="d">D</h4>
 	<br><br><br>
 </section>
 
 <section>
-<h4 id="e">e</h4>
+<h4 id="e">E</h4>
 	<div id="establish"><b><u>Establish</u></b></div>
 	Establishing refers to how plants stabilise after being transplanted, propagated, or pruned. Plants that are establishing are recovering, and will need more care to ensure that they bounce back. 
 	<br><br><br>
 </section>
 
 <section>
-<h4 id="f">f</h4>
+<h4 id="f">F</h4>
 	<div id="flower"><b><u>Flower</u></b></div>
 	Flowers are the reproductive structure of a plant. The "male" parts or a flower  produce pollen, while "female" parts  consist of the stigma and ovule, which become fruits and seeds when pollen is brought to the stigma in a process called pollination. Plants can have flowers that are male, female, or both. 
 	<br><br><br>
 </section>
 
 <section>
-<h4 id="g">g</h4>
+<h4 id="g">G</h4>
 	<div id="ground-cover"><b><u>Ground cover</u></b></div>
 Ground Covers are plants that creep along the ground, growing horizontally and thus covering the ground. Ground covers can be used to protect soil, prevent erosion and serve as the lowest layer in mixed planting. 
 	<br><br><br>
 </section>
 
 <section>
-<h4 id="h">h</h4>
+<h4 id="h">H</h4>
 	<div id="heat-stress"><b><u>Heat stress</u></b></div>
 Heat stress is defined as damage caused by an increase in temperature. This results in plants rapidly losing water through evaporation, and causes wilting, stunted growth, and if severe, death. 
 	<br><br><br>
 </section>
 
 <section>
-<h4 id="l">l</h4>
+<h4 id="i">I</h4>
+	<br><br><br>
+</section>
+
+<section>
+<h4 id="j">J</h4>
+	<br><br><br>
+</section>
+
+<section>
+<h4 id="k">K</h4>
+	<br><br><br>
+</section>
+
+<section>
+<h4 id="l">L</h4>
 	<div id="leaf"><b><u>Leaf</u></b></div>
 	Leaves are specialised plant parts grown above ground for photosynthesis. They are usually flat and green, but some plants can also have them in other shapes and colours, like how succulent leaves can range from pink to purple and have a more 3D shape. 
 	<br><br>
@@ -138,26 +153,26 @@ Leggy plants are very tall with few leaves, and are usually etoilated or in need
 </section>
 
 <section>
-<h4 id="m">m</h4>
+<h4 id="m">M</h4>
 	<br><br><br>
 </section>
 
 <section>
-<h4 id="n">n</h4>
+<h4 id="n">N</h4>
 	<div id="nodes"><b><u>Nodes</u></b></div>
 Nodeas are areas of a stem where buds are located, and are where new stems, leaves, flowers, or roots can form when exposed to different environmental factors. For example, a node that used to produce leaves can instead grow roots when submerged in water of soil, which is how plants are propagated from cuttings. 
 	<br><br><br>
 </section>
 
 <section>
-<h4 id="o">o</h4>
+<h4 id="o">O</h4>
 	<div id="offshoot"><b><u>Offshoot</u></b></div>
 Offshoots are lateral shoots that are produced from the main stem of a plant, and can produce small plants at the end. They are also sometimes known as "pups" or "suckers", and can be divided from the mother plant to be propagated.  
 	<br><br><br>
 </section>
 
 <section>
-<h4 id="p">p</h4>
+<h4 id="p">P</h4>
 	<div id="perennial"><b><u>Perennial plants</u></b></div>
 Perennial plants traditionally refer to plants that survive beyond one season. Tropical climates don't really have seasons, so in Singapore's context, perennial plants are plants that can survive beyond a year.
 	<br><br>
@@ -173,12 +188,12 @@ Pollination refers to the transport of pollen to the stigma of a plant, which is
 </section>
 
 <section>
-<h4 id="q">q</h4>
+<h4 id="q">Q</h4>
 	<br><br><br>
 </section>
 
 <section>
-<h4 id="r">r</h4>
+<h4 id="r">R</h4>
 	<div id="rhizome"><b><u>Rhizome</u></b></div>
 	Rhizomes are underground plant stems that grow horizontally, and can continuously put out new roots and shoots from its nodes. Some rhizomes can store starch, and are edible. Rhizomes can be used for propagation via division. 
 	<br><br>
@@ -188,7 +203,7 @@ Pollination refers to the transport of pollen to the stigma of a plant, which is
 </section>
 
 <section>
-<h4 id="s">s</h4>
+<h4 id="s">S</h4>
 	<div id="stem"><b><u>Stem</u></b></div>
 	The main stalk of a plant, where leaves, flowers and fruits can grow from nodes.
 	<br><br>
@@ -198,7 +213,7 @@ Shoots that are produced from the main stem of a plant, and  can be divided from
 </section>
 
 <section>
-<h4 id="t">t</h4>
+<h4 id="t">T</h4>
 	<div id="thinning"><b><u>Thinning</u></b></div>
 Thinning is the act of removing plants, branches, or plant parts to create more space for remaining plants to grow. Thinning is an important part of maintenance for ground covers, seedlings, and young plants. 
 	<br><br>
@@ -211,31 +226,31 @@ Tubers are large underground roots that contain starch and other nutrients for p
 </section>
 
 <section>
-<h4 id="u">u</h4>
+<h4 id="u">U</h4>
 	<br><br><br>
 </section>
 
 <section>
-<h4 id="v">v</h4>
+<h4 id="v">V</h4>
 	<br><br><br>
 </section>
 
 <section>
-<h4 id="w">w</h4>
+<h4 id="w">W</h4>
 	<br><br><br>
 </section>
 
 <section>
-<h4 id="x">x</h4>
+<h4 id="x">X</h4>
 	<br><br><br>
 </section>
 
 <section>
-<h4 id="y">y</h4>
+<h4 id="y">Y</h4>
 	<br><br><br>
 </section>
 
 <section>
-<h4 id="z">z</h4>
+<h4 id="z">Z</h4>
 	<br><br><br>
 </section>
