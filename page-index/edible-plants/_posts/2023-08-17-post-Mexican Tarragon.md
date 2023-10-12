@@ -16,9 +16,9 @@ image: ""
 </section> 
  
 <section>
-	<img title="Photo by Flora and Fauna Web." src="/images/Plants/mexicantarragon_ffw.jfif">
+	<img title="Mexican Tarragon flowers. Photo by Victoria Lim." src="/images/Plants/mexicantarragon%20(2)_victorialim.jpg">
 	<p>Mexican Tarragon is a free-flowering herb that has edible flowers and leaves. Flowers are eaten raw in salads, and leaves are cooked with eggs or fish.</p>
-	<p>A perennial herb, Mexican Tarragon can be used as a perimeter plant or as part of an herb border.</p>
+	<p>A perennial herb, Mexican Tarragon can be used as part of an herb border.</p>
   <br> 
 </section> 
  
@@ -50,6 +50,6 @@ image: ""
   <h4>Common problems &amp; solutions:</h4> 
 	<p> This plant is relatively resistant to pests and disease if kept healthy.</p>
 	<p>The plant tends to get leggy with age. Prune the plant down and fertilise with a high nitrogen fertiliser to encourage bushiness.</p>
-	<p>Aphids, mealy bugs, and spider mites often infest the plant if it is sickly or overgrown. Prune off the infested parts, or apply horticultural oils like neem oil and white summer oil to suffocate the remaining pests. Regularly prune the plant to allow light and air to reach throughout the plant, and check the plant for underlying problems like root rot, lack of sunlight, and nutrient deficiencies.</p>
+		<p><a href="/page-index/pests/aphids/">Aphids</a>, <a href="/page-index/pests/mealy-bugs/">Mealy Bugs</a>, <a href="/page-index/pests/whiteflies/">Whiteflies</a>, and <a href="/page-index/pests/spider-mites/">spider mites</a> often infest the plant if it has <a href="/learn-more-about-gardening/plant-problems/">underlying problems</a> like repeated wilting from heat stress. <a href="/horticulture-techniques/pest-control/">Mechanical pest control</a> methods like <a href="/page-index/horticulture-techniques/pruning/">pruning</a> the infested parts are the best methods for managing these pests in the short term, but resolving the underlying problem will prevent them in the long term.</p>
 	<br> 
 </section>
