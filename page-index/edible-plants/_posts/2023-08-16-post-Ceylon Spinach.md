@@ -41,16 +41,16 @@ image: ""
  
 <section> 
   <h4>Growing:</h4> 
-	<p>Ceylon spinach grows rapidly when fed with high nitrogen fertilisers. Plants can be fertilised regularly two weeks after germination for a fuller crop.</p>
-	<p>Because the vines will grow on top of each other, it is a good practice to prune regularly to improve ventilation and allow light to reach more of the plant.</p>
+	<p>Ceylon spinach grows rapidly when fed with high nitrogen fertilisers. Plants can be <a href="/page-index/horticulture-techniques/fertilising/">fertilised regularly</a> two weeks after germination for a fuller crop.</p>
+	<p>Because the vines will grow on top of each other, it is a good practice to <a href="/page-index/horticulture-techniques/pruning/">prune regularly</a> to improve ventilation and allow light to reach more of the plant.</p>
 	<p>This vine grows large very rapidly and can climb up to 10m if a tall enough surface is available. Prune it back to manageable heights (around 1.5m) to make harvesting and maintenance easier.</p> 
 	<br> 
 </section> 
  
 <section> 
   <h4>Harvesting:</h4> 
-	<p>Plants can be harvested for leaves and stems, with younger leaves being the most tender. Most gardeners will begin harvesting from their Ceylon Spinach plant around 2 months after sowing.</p>
-	<p>Ceylon Spinach is typically harvested multiple times by harvesting the younger leaves and stems as per the <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/cut-and-come-again/">cut-and-come-again</a> method.</p> 
+	<p>Plants can be <a href="/page-index/horticulture-techniques/harvesting-hygiene/">harvested</a> for leaves and stems, with younger leaves being the most tender. Most gardeners will begin harvesting from their Ceylon Spinach plant around 2 months after sowing.</p>
+	<p>Ceylon Spinach is typically harvested multiple times by harvesting the younger leaves and stems as per the <a href="/page-index/horticulture-techniques/cut-and-come-again/">cut-and-come-again</a> method.</p> 
 		<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/f_Uoug7ZSeg" height="415" width="100%"></iframe><br>
 	<br>
 </section> 
@@ -75,23 +75,23 @@ image: ""
       </tr> 
     </tbody> 
   </table> 
-		 <p>Check out our&nbsp;<a href="(https://staging.dmhtu0pi4p9u7.amplifyapp.com/digital-tools/sowing-planner/)">sowing and harvest planner</a>&nbsp;to schedule your growing!</p> 
+		 <p>Check out our&nbsp;<a href="/digital-tools/sowing-planner/">sowing and harvest planner</a>&nbsp;to schedule your growing!</p> 
 	<br> 
 </section> 
  
 <section> 
   <h4>Propagation:</h4> 
-		<p>This vine can be grown via seeds or by stem cuttings rooted in water or soil.</p> 
+		<p>This vine can be grown <a href="/page-index/horticulture-techniques/propagating-by-seeds/">via seeds</a> or by <a href="/page-index/horticulture-techniques/propagating-by-cuttings/">stem cuttings</a> rooted in water or soil.</p> 
 	<br> 
 </section> 
  
 <section> 
   <h4>Common problems &amp; solutions:</h4> 
 	<p>This plant is relatively resistant to pests and disease if kept healthy.</p>
-	<p>This plant is vulnerable to fungal diseases that form leaf spots during the wet season or when the plant is overgrown. Increase air circulation with regular pruning and remove affected leaves to reduce the spread.</p>
-	<p>This plant is susceptible to root-knot nematodes which cause the plant to have galls on its roots which result in leaf wilting and root decay. Rotate your crops and change the soil to remedy the infestation.</p>
-	<p>Etiolation is characterised by plants growing long and skinny, with weak stems and small leaves. The plants may also sometimes look yellowish. Plants etiolate when they do not get enough sunlight, which results in slow growth and untidy forms. To prevent this, grow plants in environments with enough light for them and make sure that each plant has enough space to prevent overcrowding.</p>
-	<p>Aphids, mealy bugs, and spider mites often infest the plant if it is sickly or overgrown. Prune off the infested parts or apply horticultural oils like neem oil and white summer oil to suffocate the remaining pests. Regularly prune the plant to allow light and air to reach throughout the plant, and check the plant for underlying problems like root rot, lack of sunlight, and nutrient deficiencies.</p>
-	<p>Whiteflies can infest the plant and lay eggs under its leaves. Remove affected plant parts and catch remaining adults with yellow sticky paper or treat them with citrus spray.</p>
+	<p>This plant is vulnerable to fungal diseases that form leaf spots during the wet season or when the plant is overgrown. Increase air circulation with <a href="/page-index/horticulture-techniques/pruning/">regular pruning</a> and remove affected leaves to reduce the spread.</p>
+	<p>This plant is susceptible to root-knot nematodes which cause the plant to have galls on its roots which result in leaf <a href="/page-index/plant-problems/wilting/">wilting</a> and root decay. <a href="/page-index/horticulture-techniques/crop-rotation/">Rotate your crops</a> and change the soil to remedy the infestation.</p>
+	<p><a href="/page-index/plant-problems/etiolation/">Etiolation</a> is characterised by plants growing long and skinny, with weak stems and small leaves. The plants may also sometimes look yellowish. Plants etiolate when they do not get enough sunlight, which results in slow growth and untidy forms. To prevent this, grow plants in environments with enough light for them and make sure that each plant has enough space to prevent overcrowding.</p>
+	<p><a href="/page-index/pests/aphids/">Aphids</a>, <a href="/page-index/pests/mealy-bugs/">mealy bugs</a>, and <a href="/page-index/pests/spider-mites/">spider mites</a> often infest the plant if it is sickly or overgrown. <a href="/page-index/horticulture-techniques/pruning/">Prune off</a> the infested parts or apply horticultural oils like neem oil and white summer oil to suffocate the remaining pests. Regularly prune the plant to allow light and air to reach throughout the plant, and check the plant for underlying problems like <a href="/page-index/plant-problems/root-rot/">root rot</a>, lack of sunlight, and <a href="/page-index/plant-problems/nutrient-deficiencies/">nutrient deficiencies</a>.</p>
+	<p><a href="/page-index/pests/whiteflies/">Whiteflies</a> can infest the plant and lay eggs under its leaves. Remove affected plant parts and catch remaining adults with yellow sticky paper or treat them with citrus spray.</p>
 	<br> 
 </section>
