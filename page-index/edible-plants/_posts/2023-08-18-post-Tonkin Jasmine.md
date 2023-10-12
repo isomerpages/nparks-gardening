@@ -16,7 +16,7 @@ image: ""
 </section>
 
 <section>
-	<img title="Photo by Flora and Fauna Web." src="/images/Plants/tokinjasmine_ffw.jfif">
+	<img title="Tonkin Jasmine flowers. Photo by Jacqueline Chua." src="/images/Plants/tonkinjasmine_jacquelinechua.jpg">
 	<p>Tonkin Jasmine is an elegant creeper that produces fragrant edible flowers. The flowers are typically stir-fried or boiled in soup. Oil from the flowers can also be extracted to make perfumes.</p>
 	<p>As a perennial vine, it is a common sight in edible gardens, permaculture gardens, and low maintenance beds.</p>       
 	<br>
@@ -24,6 +24,7 @@ image: ""
 
 <section>
 	<h4>Environmental needs:</h4>
+	<img title="Tonkin Jasmine growing up a square trellis. Photo by Jacqueline Chua." src="/images/Plants/tonkinjasmine_trellis_jacquelinechua.jpg"> 
 	<p>This vine needs about 4-6 hours of direct sunlight or 6-8 hours of indirect sunlight. This plant will grow faster in direct sunlight but will tolerate shadier conditions. Plants do best in moist, well-drained soil at least 30cm deep, or in true ground. It is also tolerant of drought and infertile soils but is unable to stand waterlogging. The plant can be grown in smaller pots about 15cm deep, but growth will be less vigorous due to the shallow soil.</p>
 	<p>As a fast-growing vine, this plant needs a sturdy trellis to scramble on. Regular pruning will encourage additional growth and improve air circulation.</p>
 	<p>This plant can be grown year-round.</p>
@@ -54,7 +55,6 @@ image: ""
 	<h4>Common problems &amp; solutions:</h4>
 	<p>This plant is relatively resistant to pests and disease if kept healthy.</p>
 	<p>This plant is vulnerable to fungal diseases that form leaf spots during the wet season or when the plant is overgrown. Increase air circulation with regular pruning and remove affected leaves to reduce the spread.</p>
-	<p>Aphids, mealy bugs, and spider mites often infest the plant if it is sickly or overgrown. Prune off the infested parts, or apply horticultural oils like neem oil and white summer oil to suffocate the remaining pests. Regularly prune the plant to allow light and air to reach throughout the plant, and check the plant for underlying problems like root rot, lack of sunlight, and nutrient deficiencies.</p>
-	<p>Whiteflies can infest the plant and lay eggs under its leaves. Remove affected plant parts and catch remaining adults with yellow sticky paper or treat them with citrus spray.</p>
+		<p><a href="/page-index/pests/aphids/">Aphids</a>, <a href="/page-index/pests/mealy-bugs/">Mealy Bugs</a>, <a href="/page-index/pests/whiteflies/">Whiteflies</a>, and <a href="/page-index/pests/spider-mites/">spider mites</a> often infest the plant if it has <a href="/learn-more-about-gardening/plant-problems/">underlying problems</a> like repeated wilting from heat stress. <a href="/horticulture-techniques/pest-control/">Mechanical pest control</a> methods like <a href="/page-index/horticulture-techniques/pruning/">pruning</a> the infested parts are the best methods for managing these pests in the short term, but resolving the underlying problem will prevent them in the long term.</p>
 	<br>
 </section>
