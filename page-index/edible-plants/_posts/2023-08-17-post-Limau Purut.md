@@ -16,15 +16,16 @@ image: ""
 </section>
 
 <section>
-	<img title="Photo by Flora and Fauna Web." src="/images/Plants/limaupurut_ffw.jfif">
+	<img title="Limau Purut fruit. Photo by Jacqueline Chua." src="/images/Plants/limaupurut%20(2)_jacquelinechua.jpg">
 	<p>Limau Purut fruit rinds and leaves are key ingredients in several Southeast Asian dishes, with the most famous being Thai Tom Yum. Unfortunately, the fruit itself is rather dry and produces very little pulp and juice.</p>
-	<p>As a perennial tree, it is a common sight in edible gardens, permaculture gardens, and low maintenance beds.</p>
+	<p>As a perennial tree, it is a common sight in edible gardens.</p>
 	<p>The plant is part of the citrus family, which also includes limes. All citrus plants are host plants for the lime butterfly and can be part of the planting palette for biodiversity-attracting gardens.</p>       
 	<br>
 </section>
 
 <section>
 	<h4>Environmental needs:</h4>
+		<img title="Limau Purut leaves. Photo by Jacqueline Chua." src="/images/Plants/limaupurut%20(1)_jacquelinechua.jpg">
 	<p>This tree does best in full sun gardens with a minimum of 6 hours of direct sunlight. This plant can also grow in areas with 6 or more hours of indirect sunlight, but growth will be slow and the plant will produce less fruit.</p>
 	<p>Plants do best in moist, well-drained soil at least 50cm deep, or in true ground. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe.</p>
 	<p>This tree can grow up to 6m high, and usually has a broad crown. Many gardeners maintain this plant as a large bush, and regularly prune it down to around 1 or 1.5m for easy harvesting. 
