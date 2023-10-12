@@ -16,20 +16,20 @@ image: ""
 </section>
 
 <section>
-	<img src="/images/Plants/BottleGourd_JacChua.jpg">
+	<img title="Photo by Jacqueline Chua." src="/images/Plants/BottleGourd_JacChua.jpg">
 	<p>Bottle Gourds are an hourglass-shaped fruit that have edible flesh and seeds. Young fruit and seeds are fried, stewed, boiled, or steamed in a variety of Chinese and Indian dishes. Mature fruit have very hard skin, which can then be dried and processed into containers and musical instruments.</p> 
-	<p>An annual crop, these plants are often grown in rotation with other fruiting climbers.</p>
-	<p>This plant is part of the Cucurbita or Melon family, which includes other popular edible fruits like Cucumber, Winter melon, and Pumpkin.</p>
+	<p>An <a href="/learn-more-about-gardening/glossary/#a">annual</a> crop, these plants are often grown in <a href="/page-index/horticulture-techniques/crop-rotation/">rotation</a> with other fruiting climbers.</p>
+	<p>This plant is part of the Cucurbita or Melon family, which includes other popular edible fruits like <a href="/page-index/edible-plants/cucumber/">Cucumber</a>, <a href="/page-index/edible-plants/winter-melon/">Winter melon</a>, and <a href="/page-index/edible-plants/pumpkin/">Pumpkin</a>.</p>
 	<br>
 </section>
 
 <section>
 	<h4>Environmental needs:</h4>
-	<p>This vine does best in full sun gardens with a minimum of 6 hours of sunlight. This plant can also grow in areas with at least 6 hours of indirect sunlight, but growth will be slower, and the vine will produce less fruit.</p>
-	<p>Plants do best in moist, well-drained soil at least 30cm deep, or in true ground. The plant can be grown in smaller pots about 20cm deep, but growth will be slower due to the lack of water retention in less soil and a smaller root ball.</p>
-	<p>As a fast-growing vine, this plant needs a sturdy trellis to scramble on. Because the fruits hang down, it is ideal for arch-shaped trellises.</p>
+	<p>This vine does best in <a href="/page-index/horticulture-techniques/gauging-light/">full sun gardens with a minimum of 6 hours of sunlight</a>. This plant can also grow in areas with at least 6 hours of indirect sunlight, but growth will be slower, and the vine will produce less fruit.</p>
+	<p>Plants do best in <a href="/page-index/horticulture-techniques/soil/">moist, well-drained soil</a> at least 30cm deep, or in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a>. The plant can be grown in <a href="/page-index/horticulture-techniques/planting-in-containers/">smaller pots</a> about 20cm deep, but growth will be slower due to the lack of water retention in less soil and a smaller root ball.</p>
+	<p>As a fast-growing vine, this plant needs a sturdy <a href="/page-index/hardscapes/trellises/">trellis</a> to scramble on. Because the fruits hang down, it is ideal for arch-shaped trellises.</p>
 	<iframe width="100%" height="415" src="https://www.youtube.com/embed/SUQGxxAAcNs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
-	<p>As with all members of the melon family, this plant is bee pollinated and produces male and female flowers. To encourage the formation of more fruits, it is best to have at least 3 separate plants growing in the same area to have both male and female flowers available, and to have bee-attracting plants within the garden to encourage pollination. If your garden lacks bees, the plant can also be hand pollinated.</p>
+	<p>As with all members of the melon family, this plant is bee pollinated and produces male and female flowers. To encourage the formation of more fruits, it is best to have at least 3 separate plants growing in the same area to have both male and female flowers available, and to have bee-attracting plants within the garden to encourage <a href="/learn-more-about-gardening/glossary/#p/">pollination</a>. If your garden lacks bees, the plant can also be hand pollinated.</p>
 	<p>This plant can be grown year-round.</p>
 	<br>
 </section>
@@ -44,14 +44,14 @@ image: ""
 	
 <section>
 	<h4>Growing:</h4>
-<p>Bottle gourds will produce more flowers and thus more fruit when fed with fertilisers high in Phosphorus and Potassium. Plants can be fertilised regularly a month after germination for a fuller crop.</p>
-	<p>Because the vines will grow on top of each other, it is a good practice to prune regularly and remove dead leaves and vines to improve ventilation and allow light to reach more of the plant.</p>
+	<p>Bottle gourds will produce more flowers and thus more fruit when fed with fertilisers high in Phosphorus and Potassium. Plants can be <a href="/page-index/horticulture-techniques/fertilising/">fertilised regularly</a> a month after germination for a fuller crop.</p>
+	<p>Because the vines will grow on top of each other, it is a good practice to <a href="/page-index/horticulture-techniques/pruning/">prune regularly</a> and remove dead leaves and vines to improve ventilation and allow light to reach more of the plant.</p>
 	<br>
 </section>
 
 <section>
 	<h4>Harvesting:</h4>
-<p>Plants can be harvested for immature, green fruits for eating around 60 days after sowing. The best time to harvest the fruit is in the early morning, before 9am.
+	<p>Plants can be <a href="/page-index/horticulture-techniques/harvesting-hygiene/">harvested</a> for immature, green fruits for eating around 60 days after sowing. The best time to harvest the fruit is in the early morning, before 9am.
 Fruits can be left on the vine to harden and mature if they are to be used for seeds or decorative purposes. The fruit will become hard and brown, with the supporting vine shrivelling when ripe.</p>
 	<p>The plant will continuously produce fruit for about 3 months to a year before declining.</p>
 	<br>
