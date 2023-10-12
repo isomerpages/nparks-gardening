@@ -56,6 +56,6 @@ image: ""
 	<img title="Sand Gingers that are sunburned due to being exposed to too much sunlight. Photo by Jacqueline Chua." src="/images/Plants/sandginger_sunburn_jacquelinechua.jpg">
   <p>This plant is relatively resistant to pests and disease if kept healthy.</p>
 	<p><a href="/page-index/plant-problems/wilting">Wilting</a> leaves during hot weather is a sign of heat stress. Increase the number of times the plant is watered daily, or move it to a shadier part of the garden.</p>
-	<p>Plants are vulnerable to sunburn in more than 4 hours of direct sunlight. Use <a href="/page-index/hardscapes/netting">shade netting</a> to protect your plants or replant in a shadier spot.</p>
+	<p>Plants are vulnerable to <a href="/page-index/plant-problems/sunburn/">sunburn</a> in more than 4 hours of direct sunlight. Use <a href="/page-index/hardscapes/netting">shade netting</a> to protect your plants or replant in a shadier spot.</p>
 	<br> 
 </section>
