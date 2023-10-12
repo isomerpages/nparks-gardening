@@ -19,7 +19,7 @@ image: ""
 	<img title="Photo by Jacqueline Chua." src="/images/Horti%20techniques/Spacing_Jacchua%20(15).jpg">
 	<p>A popular leafy vegetable in Malaysia and Indonesia, Bayam is a hardy leafy vegetable that can be grown in small, tight clusters of multiple plants around 10-20cm tall or as a large, erect plant up to 1.5m tall if given enough space. It has varieties that come in red, green or both, and is commonly eaten raw, steamed, or stir-fried.</p>
 	<p>An <a href="/learn-more-about-gardening/glossary/#a">annual</a> crop, this plant is often grown and consumed under 4 months. Its rapid harvest cycle makes it useful for crop rotation.</p>
-  <p>Due to its shallow root system, these plants are a popular choice for <a href="/page-index/horticulture-techniques/planting-in-containers/">container gardening</a> and <a href="/page-index/housekeeping/good-corridor-gardening-practices/">corridor gardening</a>.</p>
+  <p>Due to its shallow root system, these plants are a popular choice for <a href="/page-index/horticulture-techniques/planting-in-containers/">container gardening</a>.</p>
 	<br>
 </section>
 
@@ -40,7 +40,7 @@ image: ""
 
 <section>
 	<h4>Growing:</h4>
-		<p>Bayam is a rapid grower and will produce more leaves if fed with high nitrogen fertilisers. Plants can be <a href="/page-index/horticulture-techniques/fertilising/">fertilised</a> regularly two weeks after germination for a fuller crop.</p>
+		<p>Bayam is a rapid grower and will produce more leaves if fed with <a href="/page-index/horticulture-techniques/fertilising/">high nitrogen fertilisers</a>. Plants can be <a href="/page-index/horticulture-techniques/fertilising/">fertilised</a> regularly once every two weeks after transplanting for a fuller crop.</p>
 		<p>This plant can be grown incredibly close together with many plants in a small space. If plants are thinned out and given enough ventilation, they will grow thicker stems and will grow taller and bushier.</p>
 		<p>Bayam plants will die after producing seeds. Prolong your harvest by <a href="/page-index/horticulture-techniques/pruning/">pruning</a> off flowers when they appear.</p>
 	<br>
@@ -48,7 +48,7 @@ image: ""
 
 <section>
 	<h4>Harvesting:</h4>
-		<p>Plants can be harvested for leaves at any time, with younger leaves being the most tender. However, the leaves will become tough as they get older. Most gardeners will <a href="/page-index/horticulture-techniques/harvesting-hygiene/">harvest</a> their crop around 3 weeks after sowing.</p>
+		<p>Plants can be <a href="/page-index/horticulture-techniques/harvesting-hygiene/">harvested for leaves</a> at any time, with younger leaves being the most tender. However, the leaves will become tough as they get older. Most gardeners will <a href="/page-index/horticulture-techniques/harvesting-hygiene/">harvest</a> their crop around 3 weeks after sowing.</p>
 		<p>The whole plant can be harvested once by cutting the stalk at the base or multiple times by harvesting the young, tender stems from the top as per the <a href="/page-index/horticulture-techniques/cut-and-come-again/">cut-and-come-again method</a>.</p>
 		<img src="/images/Plants/Bayam_JacChua.jpg">
 		<p>Bayam will start to flower after a few months or so. The flowers can be self-pollinated and will form brown seed capsules. Dry, brown seed pods are mature, and can be harvested for seeds to plant.</p>
