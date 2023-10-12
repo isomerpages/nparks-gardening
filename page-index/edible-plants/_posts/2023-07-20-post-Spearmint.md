@@ -16,9 +16,10 @@ image: ""
 </section>
 
 <section>
+	<img title="Spearmint leaves. Photo by Jacqueline Chua." src="/images/Plants/EnglishMint_JacChua%20(2).jpg">
 	<p>Spearmint is a common herb that grows well in semi-shade gardens and is a popular choice for small and upcycled containers due to its shallow roots. Spearmint is harvested for its leaves and is used to flavour teas, desserts, and salads.</p>
-	<p>This plant can grow as a <a href="/learn-more-about-gardening/glossary/#p">perennial</a> crop when used as a groundcover in true ground as it readily produces runners with plantlets that repropagates itself. However, it behaves as an <a href="/learn-more-about-gardening/glossary/#a">annual</a> in pots and will need to be regularly repropagated from cuttings. </p>
-	<p>Spearmints are part of the Lamiaceae or Mint family, which includes other popular herbs like <a href="/page-index/edible-plants/indian-borage/">Indian Borage</a>, <a href="/page-index/edible-plants/thai-basil/">Thai Basil</a>, and Chin Chow.</p>       
+	<p>This plant can grow as a <a href="/learn-more-about-gardening/glossary/#p">perennial</a> crop when used as a <a href="/page-index/horticulture-techniques/companion-planting/">living mulch</a> in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a> as it readily produces runners with plantlets that repropagates itself. However, it behaves as an <a href="/learn-more-about-gardening/glossary/#a">annual</a> in pots and will need to be regularly repropagated from cuttings. </p>
+	<p>Spearmints are part of the Lamiaceae or Mint family, which includes other popular herbs like <a href="/page-index/edible-plants/indian-borage/">Indian Borage</a>, and <a href="/page-index/edible-plants/thai-basil/">Thai Basil</a>.</p>       
 	<br>
 </section>
 
@@ -31,7 +32,8 @@ image: ""
 
 <section>
 	<h4>Growing:</h4>
-	<p>Spearmint grows rapidly when young and freshly propagated from cuttings. Regular harvesting and the use of high nitrogen fertilisers will encourage the plant to grow more leaves.</p>
+		<img title="Spearmint growing new shoots after hard pruning. Photo by Jacqueline Chua." src="/images/Horti%20techniques/HardPruning_Jacchua.jpg">
+	<p>Spearmint grows rapidly when young and freshly propagated from cuttings. Regular <a href="/page-index/horticulture-techniques/cut-and-come-again/">cut-and-come-again harvesting</a> and the use of <a href="/page-index/horticulture-techniques/fertilising/">high nitrogen fertilisers</a> once a month or so will encourage the plant to grow more leaves.</p>
 <br>
 </section>
 
@@ -43,8 +45,8 @@ image: ""
 
 <section>
 	<h4>Propagation:</h4>
-	<p>Spearmint is usually propagated <a href="/page-index/horticulture-techniques/propagating-by-cuttings">via stem cuttings</a> rooted in water or <a href="/page-index/horticulture-techniques/propagating-by-division/">division</a>. </p>
-	<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/wv-LZCwUArE" height="415" width="100%"></iframe><br>
+		<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/wv-LZCwUArE" height="415" width="100%"></iframe><br>
+	<p>Spearmint is usually propagated <a href="/page-index/horticulture-techniques/propagating-by-cuttings">via stem cuttings</a> rooted in water or via <a href="/page-index/horticulture-techniques/propagating-by-division/">division</a>. </p>
 	<br>
 </section>
 
