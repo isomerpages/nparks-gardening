@@ -18,14 +18,14 @@ image: ""
 <section>
 	<img title="Photo by Flora and Fauna Web." src="/images/Plants/custardapple_ffw.jfif">
 	<p>Custard Apples are small trees with fragrant flowers and edible fruits. It is a popular tree to grow in many home and edible gardens as it can fruit even when kept at a small size and requires very little maintenance. The fruits are typically eaten raw or added to smoothies and desserts.</p>
-	<p>As a perennial tree, it is a common sight in edible gardens, permaculture gardens, and low maintenance beds.</p>       
+	<p>As a <a href="/learn-more-about-gardening/glossary/#p">perennial</a> tree, it is a common sight in edible gardens, permaculture gardens, and low maintenance beds.</p>       
 	<br>
 </section>
 
 <section>
 	<h4>Environmental needs:</h4>
-	<p>This tree does best in full sun gardens with a minimum of 6 hours of sunlight. It can also grow in gardens with a minimum of 6 hours of indirect sunlight, but the growth will be slow and the plant will have less fruits.</p>
-	<p>Plants do best in moist, well-drained soil at least 50cm deep, or in true ground. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe. Root rot and poor drainage will also lead to a poor fruit yield. This tree is drought-tolerant.</p>
+	<p>This tree does best in <a href="/page-index/horticulture-techniques/gauging-light">full sun gardens with a minimum of 6 hours of sunlight</a>. It can also grow in gardens with a minimum of 6 hours of indirect sunlight, but the growth will be slow and the plant will have less fruits.</p>
+	<p>Plants do best in <a href="/page-index/horticulture-techniques/soil">moist, well-drained soil</a> at least 50cm deep, or in <a href="/page-index/horticulture-techniques/true-ground">true ground</a>. These plants are vulnerable to <a href="/page-index/plant-problems/root-rot">root rot</a>, so ensure that your pots drain well, and that your soil has plenty of <a href="/page-index/horticulture-techniques/soil-amendments">organic matter</a> to let the roots breathe. Root rot and poor drainage will also lead to a poor fruit yield. This tree is drought-tolerant.</p>
 	<p>This tree can grow up to 15m high. The tree is best maintained at roughly 1-1.5m high for easy maintenance and harvesting.</p>
 	<p>This plant can be grown year-round.</p>
 	<br>
@@ -35,7 +35,7 @@ image: ""
 	<h4>Sowing Seeds</h4>
 	<p>Seeds can be sown directly into pots or the ground. Because the plant eventually grows into a tree, it is easier to grow a few seedlings in separate pots before selecting the healthiest one to be grown in true ground.</p>
 	<iframe width="100%" height="415" src="https://www.youtube.com/embed/x7J87wY7U6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
-	<p>The seedlings are generally resilient to most environmental factors but may be vulnerable to being eaten by snails or birds. Protect your young plants with a DIY cloche or netting.</p>
+	<p>The seedlings are generally resilient to most environmental factors but may be vulnerable to being eaten by snails or birds. Protect your young plants with a DIY <a href="/page-index/horticulture-techniques/cloches">cloche</a> or <a href="/page-index/hardscapes/netting">netting</a>.</p>
 	<br>
 </section>
 
