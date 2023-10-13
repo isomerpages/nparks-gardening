@@ -29,7 +29,7 @@ image: ""
 		<label for="accordion1">Rooting in water</label><div>
 	<img title="Laksa cuttings growing roots in water. Photo by Jacqueline Chua." src="/images/Horti%20techniques/WaterRooting_JacChua.jpg">
 	<p><b>Rooting in water</b> can be done in any container, but clear ones are best for monitoring root growth. Water should ideally be changed at least once if not twice a week to prevent <a href="/page-index/plant-problems/root-rot/">root rot</a> and <a href="/page-index/housekeeping/keeping-gardens-mosquito-free/">prevent mosquito breeding</a>. Leaves should be kept out of the water to prevent rot.</p> 
-	<p>Plants are ready to be transplanted to soil once the roots are at least 5-10cm long.</p>
+	<p>Plants are ready to be transplanted to soil once the roots are at least 5-10cm long. Take note that they may suffer <a href="/page-index/plant-problems/transplanting-shock/">transplanting shock</a>, and should be closely monitored after transplanting.</p>
 	<p>Plants that can be rooted in water include:</p>
 	<ul>
 		<li><a href="/page-index/ornamental-plants/devils-ivy/">Devil's Ivy</a> (<em>Epipremnum aureum</em>)</li>
