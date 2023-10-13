@@ -7,11 +7,10 @@ description: ""
 image: ""
 ---
 <section>
-	<img title="Fish that eat mosquito larvae in a garden water feature. Photo by Jacqueline Chua." src="/images/Horti%20techniques/Aquaponics_JacChua.jpg">
+	<img title="An Aedes mosquito attempting to lay eggs in standing water collected in a Bromeliad. Photo by Jacqueline Chua." src="/images/Horti%20techniques/bromeliad_mosquito_jacquelinechua.jpg">
 	<p>The Aedes mosquito is an urban species commonly found in urban areas and by extension, gardens. It can spread several diseases like dengue fever, chikungunya and zika by biting. Mosquitoes lay their eggs in stagnant water, and will go through the first three stages on their life cycle in the same stagnant water pool. Preventing mosquitos from breeding in your garden by removing stagnant water is key to keeping yourself and your community safe. Mosquitoes can grow from egg to adult in about a week, so it is important to regularly check your garden for mosquito breeding, particularly during the wet season.</p>
-	<p>Download the <a href="/files/gardening%20practices%20to%20prevent%20mosquito%20breeding%20(readable)-1.pdf">Gardening Practices to Prevent Mosquito Breeding brochure</a>
-<br>
-Download the <a href="/files/good%20gardening%20practices.pdf">Good Gardening Practices checklist</a></p>
+	<p>Download the <a href="/files/gardening%20practices%20to%20prevent%20mosquito%20breeding%20(readable)-1.pdf">Gardening Practices to Prevent Mosquito Breeding brochure</a> and
+ <a href="/files/good%20gardening%20practices.pdf">Good Gardening Practices checklist</a> for more information on keeping gardens mosquito-free.</p>
 	<br>
 </section>
 
@@ -31,21 +30,21 @@ Download the <a href="/files/good%20gardening%20practices.pdf">Good Gardening Pr
 			<p>Water can collect in a variety of containers and hardscapes in the garden, particularly if they are made from plastic, concrete, metal, and other impermeable materials. In addition to holding water, these containers and hardscapes can also hide eggs that will hatch when water is introduced again. Scrub the surfaces of these items to remove the eggs entirely.</p>
 			<p>Check the following around your garden at least once a week, and remove water and eggs from them as needed:</p>
 			<ul>
-				<li>Plant pots and water catchment plates</li>
+				<li><a href="/page-index/horticulture-techniques/planting-in-containers/">Plant pots</a> and water catchment plates</li>
 				<li>Cups used for <a href="/page-index/horticulture-techniques/propagating-by-cuttings/">water rooting cuttings</a></li>
 				<li>Pot rims</li>
-				<li>Storage boxes and associated lids</li>
+				<li><a href="/page-index/hardscapes/storage/">Storage boxes</a> and associated lids</li>
 				<li>Reservoir pots</li>
 				<li>Pails</li>
 				<li>Watering cans</li>
 				<li>Bottles</li>
-				<li>Drainage holes in raised beds</li>
+				<li>Drainage holes in <a href="/page-index/hardscapes/planter-beds/">planter beds</a></li>
 				<li>Drains</li>
-				<li>Plastic sheets, especially those being used as mulch, as part of rain shelters, or as covers for compost</li>
-				<li>Hollow uncapped pipes, especially those used for trellises</li>
-				<li>Water harvesting containers, such as raincatchers</li>
-				<li>Concrete areas around water points</li>
-				<li>Potholes in paths</li>
+				<li>Plastic sheets, especially those being used as <a href="/page-index/horticulture-techniques/mulching/">mulch</a>, as part of <a href="/page-index/hardscapes/shelters/">shelters</a>, or as covers for <a href="/page-index/horticulture-techniques/composting/">compost</a></li>
+				<li>Hollow uncapped pipes, especially those used for <a href="/page-index/hardscapes/trellises/">trellises</a></li>
+				<li>Water harvesting containers</li>
+				<li>Areas around <a href="/page-index/hardscapes/water-points/">water points</a></li>
+				<li>Potholes in <a href="/page-index/hardscapes/pathways/">paths</a></li>
 			</ul>
 			<p>Preventing water from collecting in these items is also an important step in preventing mosquito breeding. Capping hollow poles, keeping unused pots and containers in sheltered storage areas like sheds, keeping drains clear and repairing potholes in a timely manner are some examples of long-term preventive solutions.</p>
 		</div></li>
