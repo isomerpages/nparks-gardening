@@ -82,6 +82,7 @@ description: ""
 				</li><li><a href="/page-index/plant-problems/root-bound/">Root-bound</a></li>
 		<li><a href="/page-index/plant-problems/root-rot/">Root Rot</a></li>
 		<li><a href="/page-index/plant-problems/sunburn/">Sunburn</a></li>
+		<li><a href="/page-index/plant-problems/transplanting-shock/">Transplanting Shock</a></li>
 		<li><a href="/page-index/plant-problems/waterlogging/">Waterlogging</a></li>
 				<li><a href="/page-index/plant-problems/wilting/">Wilting</a></li>
 	</ul>
