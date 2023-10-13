@@ -37,20 +37,20 @@ This plant can be grown year-round.</p>
 	<h4>Sowing Seeds</h4>
 	<p>Seeds can be sown directly into pots or the ground. Because the plant eventually grows into a tree, it is easier to grow a few seedlings in separate pots before selecting the healthiest one to be grown in true ground.</p>
 	<iframe width="100%" height="415" src="https://www.youtube.com/embed/x7J87wY7U6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
-	<p>The seedlings are generally resilient to most environmental factors but may be vulnerable to being eaten by caterpillars, snails, or birds. Protect your young plants with a DIY cloche or netting.</p>
+	<p>The seedlings are generally resilient to most environmental factors but may be vulnerable to being eaten by caterpillars, snails, or birds. Protect your young plants with a DIY <a href="/page-index/horticulture-techniques/cloches/">cloche</a> or <a href="/page-index/hardscapes/netting/">netting</a>.</p>
 	<br>
 </section>
 
 <section>
   <h4>Growing:</h4>
-	<p>Limau Purut trees are steady growers and generally does not need fertilizing. Regular pruning to promote airflow will keep the plant healthy and neat.</p>
+	<p>Limau Purut trees are steady growers and generally does not need fertilizing. <a href="/page-index/horticulture-techniques/pruning/">Regular pruning</a> to promote airflow will keep the plant healthy and neat.</p>
 	<p>The tree will need to be around 5 years old before it starts producing fruit.</p>
 	<br>
 </section>
 
 <section>
 	<h4>Harvesting:</h4>
-	<p>Leaves can be harvested at any time. Mature fruits are wrinkly and dark green, and can be harvested for juicing and for the rind. The tree produces fruit continuously throughout the year.</p>
+	<p>Leaves can be <a href="/page-index/horticulture-techniques/harvesting-hygiene/">harvested</a> at any time. Mature fruits are wrinkly and dark green, and can be harvested for juicing and for the rind. The tree produces fruit continuously throughout the year.</p>
 	<br>
 </section>
 
