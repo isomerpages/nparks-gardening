@@ -18,8 +18,8 @@ image: ""
 <section>
 	<img src="/images/Plants/CranberryHibiscus.jpg">
 	<p>Cranberry Hibiscus are striking plants with deep red leaves and flowers. The flowers and leaves can be brewed into tea, and the leaves can also be eaten raw or stir-fried.</p>
-	<p>As large and woody <a href="/learn-more-about-gardening/glossary/#p">perennial</a> bush, this plant is a staple in perimeter planting, edible gardens, and low-maintenance beds.</p>
-	<p>This plant is part of the Malvaceae or Hibiscus family, which includes other edible plants like Lady’s-Finger.</p>
+	<p>As large and woody <a href="/learn-more-about-gardening/glossary/#p">perennial</a> bush, this plant is a staple in edible gardens.</p>
+	<p>This plant is part of the Malvaceae or Hibiscus family, which includes other edible plants like <a href="/page-index/edible-plants/ladys-finger/">Lady’s-Finger</a>, and ornamental plants like <a href="/page-index/ornamental-plants/turks-turban/">Turk's Turban</a>.</p>
 	<br>
 </section>
 
@@ -27,14 +27,13 @@ image: ""
 	<h4>Environmental needs:</h4>
 		<img title="Cranberry hibiscus growing in a vertical planting system. Photo by Jacqueline Chua" src="/images/Hardscapes/ContainerGardening_JacChua%20(5).jpg">
 	<p>This plant does best in full sun gardens with a minimum of <a href="/page-index/horticulture-techniques/gauging-light/">6 hours of sunlight</a>. It can also grow in gardens with more than 4 hours of direct sunlight or at least 6 hours of indirect sunlight, but its growth will be slower, and it may not flush as deep a red.</p>
-	<p>Plants do best in <a href="/page-index/horticulture-techniques/soil/">loamy soil</a> at least 15cm deep, or in true ground. These plants are vulnerable to <a href="/page-index/plant-problems/root-rot/">root rot</a>, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe.</p>
+	<p>Plants do best in <a href="/page-index/horticulture-techniques/soil/">loamy soil</a> at least 15cm deep, or in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a>. These plants are vulnerable to <a href="/page-index/plant-problems/root-rot/">root rot</a>, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe.</p>
 	<br>
 </section>
 
 <section>
   <h4>Sowing seeds:</h4>
 		<p><a href="/page-index/horticulture-techniques/propagating-by-seed/">Sow seeds</a> individually in a seedling tray filled with potting mix or seedling mix. Lightly mist the soil until damp, once a day. Seeds should sprout within 2 weeks.</p>
-		<iframe width="100%" height="415" src="https://www.youtube.com/embed/x7J87wY7U6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
 		<p>The seedlings will be vulnerable to high heat and heavy rain and are best kept in a sheltered propagation area or a shaded space with around 4 hours of partial or direct sunlight.</p>
 		<p>Seeds can be sown directly into pots or the ground around 15-30cm apart. Lightly water the soil until damp, once a day. Seeds should sprout within 10 days.</p>
 	<br>
@@ -56,8 +55,8 @@ image: ""
 
 <section>
 	<h4>Harvesting:</h4>
+			<iframe width="100%" height="415" src="https://www.youtube.com/embed/FuWK90da0GY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
 		<p>Plants can be harvested for leaves and flowers at any time.  Fruits can be harvested for seeds when they are brown and dry.</p>
-		<iframe width="100%" height="415" src="https://www.youtube.com/embed/FuWK90da0GY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
 	<br>
 </section>
 
@@ -69,7 +68,8 @@ image: ""
 
 <section>
 	<h4>Common problems &amp; solutions:</h4>
-		<p>If your plant has little to no flowers, you try fertilising the plant with fertilisers high in Phosphorus and Potassium. These nutrients encourage root and flower growth.</p>
-		<p><a href="/page-index/pests/aphids/">Aphids</a>, <a href="/page-index/pests/mealy-bugs/">mealy bugs</a>, and <a href="/page-index/pests/spider-mites/">spider mites</a> often infest the plant if it is sickly or overgrown. Prune off the infested parts, or apply horticultural oils like neem oil and white summer oil to suffocate the remaining pests. Regularly prune the plant to allow light and air to reach throughout the plant, and check the plant for underlying problems like root rot, lack of sunlight, and nutrient deficiencies.</p>
+		<p>If your plant has little to no flowers, you try <a href="/page-index/horticulture-techniques/fertilising/">fertilising</a> the plant with fertilisers high in Phosphorus and Potassium. These nutrients encourage root and flower growth.</p>
+		<p><a href="/page-index/pests/aphids/">Aphids</a>, <a href="/page-index/pests/mealy-bugs/">Mealy Bugs</a>, <a href="/page-index/pests/whiteflies/">Whiteflies</a>, and <a href="/page-index/pests/spider-mites/">spider mites</a> often infest the plant if it has <a href="/learn-more-about-gardening/plant-problems/">underlying problems</a> like repeated wilting from heat stress. <a href="/horticulture-techniques/pest-control/">Mechanical pest control</a> methods like <a href="/page-index/horticulture-techniques/pruning/">pruning</a> the infested parts are the best methods for managing these pests in the short term, but resolving the underlying problem will prevent them in the long term.</p>
+	<p><a href="/page-index/plant-problems/wilting/">Wilting</a> leaves during hot weather is a sign of heat stress. Increase the number of times the plant is watered daily, and apply mulch at the base to prevent water loss.</p>
 	<br>
 </section>
