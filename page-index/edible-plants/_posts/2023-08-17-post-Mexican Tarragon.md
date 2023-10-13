@@ -17,14 +17,14 @@ image: ""
  
 <section>
 	<img title="Mexican Tarragon flowers. Photo by Victoria Lim." src="/images/Plants/mexicantarragon%20(2)_victorialim.jpg">
-	<p>Mexican Tarragon is a free-flowering herb that has edible flowers and leaves. Flowers are eaten raw in salads, and leaves are cooked with eggs or fish.</p>
-	<p>A perennial herb, Mexican Tarragon can be used as part of an herb border.</p>
+	<p>Mexican Tarragon is a <a href="/learn-more-about-gardening/glossary/#f">free-flowering</a> herb that has edible flowers and leaves. Flowers are eaten raw in salads, and leaves are cooked with eggs or fish.</p>
+	<p>A <a href="/learn-more-about-gardening/glossary/#p">perennial</a> herb, Mexican Tarragon can be used as part of an herb border.</p>
   <br> 
 </section> 
  
 <section> 
   <h4>Environmental needs:</h4> 
-		 <p> This plant thrives in 6 or more hours of direct sunlight, or 6-8 hours of indirect sunlight. Plants do best in moist, well-drained soil at least 15cm deep, making them suitable for container gardening. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe.</p> 
+		 <p> This plant thrives in <a href="/plant-index/horticulture-techniques/gauging-light/">6 or more hours of direct sunlight, or 6-8 hours of indirect sunlight</a>. Plants do best in <a href="/plant-index/horticulture-techniques/soil/">moist, well-drained soil</a> at least 15cm deep, making them suitable for <a href="/plant-index/horticulture-techniques/planting-in-containers/">container gardening</a>. These plants are vulnerable to <a href="/plant-index/plant-problems/root-rot/">root rot</a>, so ensure that your pots drain well, and that your soil has plenty of <a href="/plant-index/horticulture-techniques/soil-amendments/">organic matter</a> to let the roots breathe.</p> 
 	<br> 
 </section> 
   
