@@ -12,14 +12,24 @@ image: ""
 	<ul class="jekyllcodex_accordion">
 	<li><input type="checkbox" id="accordion1">
 		<label for="accordion1">Buying, harvesting, and keeping seeds</label><div>
-	<iframe width="100%" height="415" src="https://www.youtube.com/embed/FuWK90da0GY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
 	<p>Seed packets come with for useful information on growing plants, including:</p>
 	<ul>
 		<li>The seed expiry date</li>
-		<li>Recommended sowing depth, <a href="/horticulture-techniques/plant-spacing/">distance</a>, and <a href="/digital-tools/sowing-planner/">harvest cycle</a></li>
+		<li>Recommended sowing depth, distance, and harvest cycle</li>
 	</ul>
-	<img src="/images/Horti%20techniques/SproutingSeeds_Jacchua.jpg">
-	<p>Seeds should be used as soon as they are bought or harvested as germination rates will decrease over time. Unused seeds should be stored in air-tight containers, and placed in cool, dry areas such as a refrigerator to extend its shelf life.</p>
+		<p>This information is important for gardeners to take note of as it helps with<a href="/digital-tools/sowing-planner/"> sowing and harvest planning</a>, and managing the <a href="/horticulture-techniques/plant-spacing/">spacing of plants</a>. Planning when to sow seeds and where immediately after buying seed packets will ensure that you use them before they expire!</p>
+		<iframe width="100%" height="415" src="https://www.youtube.com/embed/FuWK90da0GY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
+	<p>Thrifty gardeners often harvest their own seeds from existing plants in their garden. As a rule of thumb, ripe fruits will have viable seeds that can be dried and stored in a cool, dry place for up to 6 months for planting.</p>
+	<p>Some common plants that have easily harvestable seeds include:</p><p>
+	</p><ul>
+		<li><a href="/page-index/edible-plants/Bayam/">Bayam</a> (<em>Amaranthus tricolor</em>)</li>
+		<li><a href="/page-index/edible-plants/butterfly-pea/">Butterfly pea</a> (<em>Clitoria ternatea</em>)</li>
+		<li><a href="/page-index/edible-plants/lady's-finger">Lady's Finger</a> (<em>Abelmoschus esculentus</em>)</li>
+		<li><a href="/page-index/edible-plants/thai-basil/">Thai Basil</a> (<em>Ocimum basilicum</em>)</li>
+		</ul>
+		<img title="Unharvested Lady's Finger seeds starting to sprout. Photo by Jacqueline Chua." src="/images/Horti%20techniques/SproutingSeeds_Jacchua.jpg">
+	<p>If the ripe seeds are not harvested in time or exposed to rain and humidity, they may start to sprout, or rot.</p> 
+	<p>It is a good practice to use seeds as soon as they are bought or harvested as germination rates will decrease over time. Unused seeds should be stored in air-tight containers, and placed in cool, dry areas such as a refrigerator to extend its shelf life for up to 6 months.</p>
 </div></li>
 	<li><input type="checkbox" id="accordion2">
 		<label for="accordion2">Making a seed-starting mix</label><div>
