@@ -37,9 +37,9 @@ image: ""
 	<p>A garden is only as good as its maintenance schedule, and since your roadside garden is often the first thing visitors see of your home, it is worth taking time to groom your garden regularly.</p>
 	<p>The most important things you can do for your roadside garden are:</p>
 	<ol>
-		<li>Regular pruning to keep your plants lush and bushy</li>
-		<li>Fertilising your plants to encourage more leaves and flowers</li>
-		<li>Removing mosquito breeding habitats within your verge</li>
+		<li>Regular <a href="/page-index/horticulture-techniques/pruning/">pruning</a> to keep your plants lush and bushy</li>
+		<li><a href="/page-index/horticulture-techniques/fertilising/">Fertilising</a> your plants to encourage more leaves and flowers</li>
+		<li><a href="/page-index/housekeeping/keeping-gardens-mosquito-free/">Removing mosquito breeding habitats</a> within your verge</li>
 	<ol>
 	<br>
 </ol></ol></section>
@@ -68,11 +68,9 @@ image: ""
 			</ul>
 		</div></li>
 		<li><input type="checkbox" id="accordion2">
-		<label for="accordion2">For 4 hours of direct sunlight or 4-8 hours of indirect sunlight:</label><div>
+		<label for="accordion2">For less than 4 hours of direct sunlight or 4-8 hours of indirect sunlight:</label><div>
 			<ul>
-				<li><a href="/page-index/ornamental-plants/african-violet">African Violet</a></li>
 				<li><a href="/page-index/ornamental-plants/flame-violet">Flame violet</a></li>
-				<li><a href="/page-index/ornamental-plants/satin-pothos">Satin Pothos</a></li>
 				<li><a href="/page-index/ornamental-plants/snake-plant">Snake plant</a></li>
 				<li><a href="/page-index/ornamental-plants/spider-plant">Spider plant</a></li>
 				<li><a href="/page-index/ornamental-plants/devils-ivy">Devil's Ivy</a></li>
