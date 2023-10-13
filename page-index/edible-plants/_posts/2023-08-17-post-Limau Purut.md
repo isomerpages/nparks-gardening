@@ -56,14 +56,14 @@ This plant can be grown year-round.</p>
 
 <section>
 	<h4>Propagation:</h4>
-	<p>This tree is grown via seed, or via woody cuttings with rooting hormone. This tree can also be grafted.</p>
+	<p>This tree is grown <a href="/page-index/horticulture-techniques/propagating-by-seeds/">via seed</a>, or <a href="/page-index/horticulture-techniques/propagating-by-cuttings/">via woody cuttings</a> with rooting hormone. This tree can also be grafted.</p>
 	<br>
 </section>
 
 <section>
 	<h4>Common problems &amp; solutions:</h4>
-	<p>Aphids, mealy bugs, and spider mites often infest the plant if it is sickly or overgrown. Prune off the infested parts, or apply horticultural oils like neem oil and white summer oil to suffocate the remaining pests. Regularly prune the plant to allow light and air to reach throughout the plant, and check the plant for underlying problems like root rot, lack of sunlight, and nutrient deficiencies.</p>
-	<p>Caterpillars, usually from the Lime Butterfly, can rapidly eat all the leaves of your plant. If your plant has lots of large holes and small brown or black faecal pellets scattered around damaged leaves, you likely have a caterpillar infestation. Manually remove the caterpillars by hand and protect your plants with netting.</p>
-	<p>Whiteflies can infest the plant and lay eggs under its leaves. Remove affected plant parts and catch remaining adults with yellow sticky paper or treat them with citrus spray.</p>
+	<p><a href="/page-index/pests/aphids/">Aphids</a>, <a href="/page-index/pests/mealy-bugs/">mealy bugs</a>, and <a href="/page-index/pests/spider-mites/">spider mites</a> often infest the plant if it is sickly or overgrown.<a href="/page-index/horticulture-techniques/pruning/">Prune off</a> the infested parts, or apply horticultural oils like neem oil and white summer oil to suffocate the remaining pests. Regularly prune the plant to allow light and air to reach throughout the plant, and check the plant for underlying problems like <a href="/page-index/plant-problems/root-rot/">root rot, lack of sunlight, and </a><a href="/page-index/plant-problems/nutrient-deficiencies/">nutrient deficiencies</a>.</p>
+	<p><a href="/page-index/pests/caterpillars/">Caterpillars</a>, usually from the Lime Butterfly, can rapidly eat all the leaves of your plant. If your plant has lots of large holes and small brown or black faecal pellets scattered around damaged leaves, you likely have a caterpillar infestation. Manually remove the caterpillars by hand and protect your plants with <a href="/page-index/hardscapes/netting/">netting</a>.</p>
+	<p><a href="/page-index/pests/whiteflies/">Whiteflies</a> can infest the plant and lay eggs under its leaves. Remove affected plant parts and catch remaining adults with yellow sticky paper or treat them with citrus spray.</p>
 	<br>
 </section>
