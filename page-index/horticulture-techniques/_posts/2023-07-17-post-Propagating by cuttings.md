@@ -23,9 +23,12 @@ image: ""
 		 <li>Keep the top 2 or so layers of leaves and remove the rest.</li>
 	</ol>
 	<img src="/images/Horti%20techniques/Rooting_Jacchua%20(2).jpg">
-	<p>Once you have your stems, you can choose to put them in water or rooting media to get them to grow roots. Plants that can grow well in waterlogged soil or require a lot of watering generally root better in water, while plants that are drought-tolerant and require little watering root better in rooting media, and may sometimes need rooting hormone to speed up the process.</p>
+	<p>Once you have your stems, you can choose to put them in water or rooting media to get them to grow roots. Plants that can grow well in <a href="/page-index/plant-problems/waterlogging/">waterlogged soil</a> or require a lot of watering generally root better in water, while plants that are drought-tolerant and require little watering root better in <a href="/page-index/horticulture-techniques/soil/">loamy or sandy soil</a>, or pure <a href="/page-index/horticulture-techniques/soil-amendments/">inorganic soil amendments like pumice</a>. Thick and woody stems may sometimes need rooting hormone to speed up the process.</p>
+	<ul class="jekyllcodex_accordion">
+	<li><input type="checkbox" id="accordion1">
+		<label for="accordion1">Rooting in water</label><div>
 	<img src="/images/Horti%20techniques/WaterRooting_Jacchua%20(3).jpg">
-	<p><b>Rooting in water</b> can be done in any container, but clear ones are best for monitoring root growth. Water should be changed at least twice a week to prevent root rot and prevent mosquito breeding. Leaves should be kept out of the water to prevent rot.</p> 
+	<p><b>Rooting in water</b> can be done in any container, but clear ones are best for monitoring root growth. Water should ideally be changed at least once if not twice a week to prevent <a href="/page-index/plant-problems/root-rot/">root rot</a> and <a href="/page-index/housekeeping/keeping-gardens-mosquito-free/">prevent mosquito breeding</a>. Leaves should be kept out of the water to prevent rot.</p> 
 	<p>Plants are ready to be transplanted to soil once the roots are at least 5-10cm long.</p>
 	<p>Plants that can be rooted in water include:</p>
 	<ul>
@@ -35,20 +38,27 @@ image: ""
 		<li><a href="/page-index/edible-plants/spearmint/">Spearmint</a> (<em>Mentha spicata</em>)</li>
 		<li><a href="/page-index/edible-plants/sweet-potato/">Sweet Potato</a> (<em>Ipomoea batatas</em>)</li>
 		<li><a href="/page-index/edible-plants/thai-basil/">Thai Basil</a> (<em>Ocimum basilicum</em>)</li>
-	</ul>
+		<li><a href="/page-index/edible-plants/tomato/">Tomatoes</a> (<em>Solanum lycopersicum</em>)
+	</li></ul>
+		</div></li>
+	<li><input type="checkbox" id="accordion2">
+		<label for="accordion2">Rooting in soil or soil amendments</label><div>
 	<img src="/images/Hardscapes/ContainerGardening_JacChua%20(16).jpg">
-	<p><b>Rooting in a rooting medium</b> is generally done in pots as water needs to drain away to prevent the cutting from rotting. Rooting mediums include cocopeat, pumice, sand, and perlite, which are soil amendments with no nutrients. Soil amendments are generally sterile and very well-draining, which reduces the chance of a cutting rotting greatly. However, the rooted cutting will need to be transferred to soil eventually to grow properly.</p>
-	<p>Well-draining soil mixes can also be used as rooting mediums, but this is riskier as soil tends to contain pathogens and fungi, which can infect a fresh cutting and kill it. On the other hand, soil will have nutrients, which will speed up growth. As such, hardy cuttings can be rooted directly in soil to speed up the growth process and remove the need for transplanting.</p>
-	<p>Cuttings in rooting mediums will need to be watered at least once a day to keep the cutting fresh and growing. The cutting should not dry out completely, but should not sit in water for more than an hour either. Make sure your rooting mediums and containers are able to drain.</p>
+	<p><b>Rooting in soil or soil amendments</b> is generally done in pots as water needs to drain away to prevent the cutting from rotting. <a href="/page-index/horticulture-techniques/soil-amendments/">Soil amendments</a> used for rooting include cocopeat, pumice, sand, and perlite. Soil amendments are generally sterile and very well-draining, which reduces the chance of a cutting rotting greatly. However, the rooted cutting will need to be transferred to soil eventually as the soil amendments do not contain nutrients. Cuttings that are grown in pure soil amendments will eventually show signs of <a href="/plant-problems/nutrient-deficiencies/">nutrient deficiencies</a>, and will stop growing or die.</p>
+	<p>Well-draining <a href="/page-index/horticulture-techniques/soil/">loamy or sandy soil</a> can also be used for rooting cuttings, but this is riskier as soil tends to contain pathogens and fungi, which can infect a fresh cutting and kill it. On the other hand, soil will have nutrients, which will speed up growth. As such, hardy cuttings can be rooted directly in soil to speed up the growth process and remove the need for transplanting.</p>
+	<p>Cuttings in soil and soil amendments will need to be watered at least once a day to keep the cutting fresh and growing. The cutting should not dry out completely, but should not sit in water for more than a day either. Make sure your rooting mediums and containers are able to drain.</p>
 	<p>Plants with very woody stems will take longer to root. This process can be sped up with the use of rooting hormone, which is a powder applied to the end of cut stems. The hormone stimulates exposed cells in the cut to grow quickly into roots. Plants that do well with rooting hormone are indicated with a * in the list below.</p>
-	<p>Plants that can be rooted in soil or rooting mediums include:</p>
+	<p>Plants that can be rooted in soil or soil amendments include:</p>
 	<ul> 
 		<li><a href="/page-index/edible-plants/curry-leaf-plant/">Curry Leaf Plant</a>* (<em>Murraya koenigii</em>)</li>
-		<li><a href="/page-index/ornamental-plants/malayan-ixora/">Malayan Ixora</a>* (<em>Ixora congesta</em>)</li>
+		<li><a href="/page-index/edible-plants/indian-borage/">Indian Borage</a> (<em>Coleus amboinicus</em>)
+		</li><li><a href="/page-index/ornamental-plants/malayan-ixora/">Malayan Ixora</a>* (<em>Ixora congesta</em>)</li>
 		<li><a href="/page-index/edible-plants/okinawan-spinach/">Okinawan spinach</a> (<em>Gynura bicolor</em>)</li>
 		<li><a href="/page-index/ornamental-plants/pagoda-flower/">Pagoda Flower</a> (<em>Clerodendrum paniculatum</em>)</li>
 		<li><a href="/page-index/edible-plants/tapioca/">Tapioca</a> (<em>Manihot esculenta</em>)</li>
 		<li><a href="/page-index/edible-plants/white-mulberry/">White mulberry</a> (<em>Morus alba</em>)</li>
+	</ul>
+			</div></li>
 	</ul>
 	<br>
 </section>
@@ -56,14 +66,13 @@ image: ""
 <section>
 	<h4>Leaf cuttings</h4>
 	<img src="/images/Horti%20techniques/LeafPropagation_JacChua.jpg">
-	<p>Some plants can even be propagated from leaves! Plants with fleshy leaves are particularly good for leaf propagation, but are very vulnerable to rot. Placing leaves on a bed of well draining soil amendments like pumice, sand, or perlite and misting them once a day will encourage the leaves to develop roots. Once the roots are about 1.5cm long, the cutting can be transferred to well-draining soil to grow into a full plant. </p>
+	<p>Some plants can even be propagated from leaves! Plants with fleshy leaves are particularly good for leaf propagation, but are very vulnerable to rot. Placing leaves on a bed of well draining <a href="/page-index/horticulture-techniques/soil-amendments/">soil amendments</a> like pumice, sand, or perlite and misting them once a day will encourage the leaves to develop roots. Once the roots are about 1.5cm long, the cutting can be transferred to <a href="/page-index/horticulture-techniques/soil/">loamy or sandy soil</a> to grow into a full plant. </p>
 	<p>Plants that can be rooted from leaves include:</p>
 	<ul> 
 		<li><a href="/page-index/ornamental-plants/african-violet/">African Violet</a> (<em>Streptocarpus ionanthus</em>)</li>
 		<li><a href="/page-index/ornamental-plants/flame-violet/">Flame violet</a> (<em>Episcia cupreata</em>)</li>
 		<li><a href="/page-index/ornamental-plants/mother-of-thouands/">Mother of Thousands</a> (<em>Kalanchoe daigremontiana</em>)</li>
 		<li><a href="/page-index/ornamental-plants/snake-plant/">Snake plant</a> (<em>Dracaena trifasciata</em>)</li>
-		<li><a href="/page-index/edible-plants/white-mulberry/">White mulberry</a> (<em>Morus alba</em>)</li>
 	</ul>
 	<br>
 </section>
