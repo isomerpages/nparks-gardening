@@ -22,11 +22,11 @@ image: ""
 
 <section>
 	<h4>Stagnant Water Hotspots</h4>
-	<img title="Laksa rooting in water. Photo by Jacqueline Chua." src="/images/Horti%20techniques/WaterRooting_JacChua.jpg">
 	<p>Stagnant water may accumulate at various spots in the garden, such as pots, dishes, pails, drains and even in plants! Mosquitoes can lay eggs in water the size and depth of a 50 cent coin, so it is important that gardeners are through in checking for stagnant water. Check areas in the garden that have containers or hardscapes, poor drainage, water features and plants that collect water for mosquito eggs and larvae.</p>
 	<ul class="jekyllcodex_accordion">
 		<li><input type="checkbox" id="accordion1">
 		<label for="accordion1">Containers and garden hardscapes</label><div>
+				<img title="Laksa rooting in water. Photo by Jacqueline Chua." src="/images/Horti%20techniques/WaterRooting_JacChua.jpg">
 			<p>Water can collect in a variety of containers and hardscapes in the garden, particularly if they are made from plastic, concrete, metal, and other impermeable materials. In addition to holding water, these containers and hardscapes can also hide eggs that will hatch when water is introduced again. Scrub the surfaces of these items to remove the eggs entirely.</p>
 			<p>Check the following around your garden at least once a week, and remove water and eggs from them as needed:</p>
 			<ul>
@@ -50,11 +50,13 @@ image: ""
 		</div></li>
 		<li><input type="checkbox" id="accordion2">
 		<label for="accordion2">Poor drainage</label><div>
+			<img title="Waterlogged soil in a pot. Photo by Jacqueline Chua." src="/images/Horti%20techniques/waterlogging_jacquelinechua.jpg">
 			<p><a href="/page-index/horticulture-techniques/mulching/">Clayey</a> or <a href="/page-index/plant-problems/waterlogging/">waterlogged soil</a> can sometimes form puddles that hold water for long periods of time, particularly during the wet season. Breaking up compacted soil or refreshing it by adding more organic matter to promote better drainage will prevent this and make the soil better for plant roots to grow.</p>
 			<p><a href="/page-index/horticulture-techniques/planting-in-containers/">Plant pots</a> and <a href="/page-index/hardscapes/planter-beds/">planter beds</a> should have drainage holes, but these holes can get clogged by debris or soil. Checking regularly and unclogging these holes will prevent stagnant water from forming and will also resolve horticultural problems like <a href="/page-index/plant-problems/root-rot/">root rot</a>.</p>
 		</div></li>
 		<li><input type="checkbox" id="accordion3">
 		<label for="accordion3">Water features</label><div>
+			<img title="An aquaponics system with fish to eat mosquito larvae. Photo by Jacqueline Chua." src="/images/Horti%20techniques/Aquaponics_JacChua.jpg">
 			<p>Ponds, hydroponic systems and water rooting containers are all constant sources of water in the garden. Mosquitoes in these water bodies can be managed by:</p>
 			<ul>
 				<li>Having mosquito-eating fish in ponds</li>
@@ -72,7 +74,8 @@ image: ""
 		</div></li>
 		<li><input type="checkbox" id="accordion4">
 		<label for="accordion4">Plants that collect water</label><div>
-			<p>Some plants like bromeliads, taro, and pitcher plants can collect water in their leaf sheaths or ‘pockets’ within the plant. Standing water should be flushed out at least once a week, or have BTI granules applied to kill mosquito larvae.</p>
+	<img title="An Aedes mosquito attempting to lay eggs in standing water collected in a Bromeliad. Photo by Jacqueline Chua." src="/images/Horti%20techniques/bromeliad_mosquito_jacquelinechua.jpg">
+			<p>Some plants like bromeliads, taro, and pitcher plants can collect water in their leaf sheaths or ‘pockets’ within the plant. Standing water should be flushed out at least once a week, or have BTI granules or powder applied to kill mosquito larvae.</p>
 		</div></li>
 	</ul>
 </section>
