@@ -18,16 +18,16 @@ image: ""
 <section>
 	<img title="Photo by Flora and Fauna Web." src="/images/Plants/longevityspinach_ffw.jfif">
 	<p>Longevity spinach is a hardy, succulent vegetable that grows well in semi-shade. Its leaves can be eaten raw, blanched, steamed, and made into soup.</p>
-	<p>This plant is a small perennial crop that is easy to propagate, making it a popular choice as a groundcover, for perimeter planting, and low maintenance beds. It is also a staple crop in edible gardens and permaculture gardens.</p>
-		<p>Due to its shallow root system, these plants are a popular choice for container gardening.</p>
+	<p>This plant is a small perennial crop that is easy to propagate, making it a popular choice as a <a href="/learn-more-about-gardening/glossary/#g/">groundcover</a>, for perimeter planting, and low maintenance beds. It is also a staple crop in edible gardens and permaculture gardens.</p>
+		<p>Due to its shallow root system, these plants are a popular choice for <a href="/page-index/horticulture-techniques/planting-in-containers/">container gardening</a>.</p>
 	<p>A native plant, it can be found along forest streams and sandy slopes.</p>
 	<br>
 </section>
 
 <section>
 	<h4>Environmental needs:</h4>
-		<p>This plant grows best in 4-8 hours of indirect sunlight. Plants may suffer from sunburn in more than 4 hours of direct sunlight. Plants do best in moist, well-drained soil at least 10cm deep, making them suitable for container gardening and corridor gardening. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe.</p>
-		<iframe width="100%" height="415" src="https://www.youtube.com/embed/SfuujJwcZR8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe><br>
+	<p>This plant grows best in <a href="/page-index/horticulture-techniques/gauging-light/">4-8 hours of indirect sunlight</a>. Plants may suffer from sunburn in more than 4 hours of direct sunlight. Plants do best in <a href="/page-index/horticulture-techniques/soil/">moist, well-drained soil</a> at least 10cm deep, making them suitable for container gardening and corridor gardening. These plants are vulnerable to <a href="/page-index/plant-problems/root-rot/">root rot</a>, so ensure that your pots drain well, and that your soil has plenty of <a href="/page-index/horticulture-techniques/soil-amendments/">organic matter</a> to let the roots breathe.</p>
+	<iframe width="100%" height="415" src="https://www.youtube.com/embed/SfuujJwcZR8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe><br>
 	<br>
 </section>
 	
