@@ -74,7 +74,7 @@ image: ""
 		<img title="Watering seedlings daily after transplanting. Photo by Jacqueline Chua." src="/images/Horti%20techniques/watering%20(1)_jacquelinechua.jpg">
 		<li>Water your seedlings immediately after transplanting, and daily for at least a week to help them recover from <a href="/page-index/plant-problems/transplanting-shock">transplanting shock</a>. Freshly transplanted seedlings should be protected with <a href="/page-index/hardscapes/netting/">shade netting</a> or kept in a shaded area with at least <a href="/page-index/horticulture-techniques/gauging-light/">4 hours of indirect sunlight</a> for a week while they recover, and then exposed to full sunlight to grow to full size.</li> 
 	</ol>
-	<p>This method of sowing seeds is particularly good for the following plants:</p>
+	<p>This method of sowing and transplanting seeds is particularly good for the following plants:</p>
 	<ul>
 		<li><a href="/page-index/edible-plants/cai-xin/">Cai Xin</a> (<em>Brassica rapa</em> Caisin Group)</li>
 		<li><a href="/page-index/edible-plants/chinese-mustard/">Chinese Mustard</a> (<em>Brassica juncea Broad-leaf Mustard</em>)</li>
