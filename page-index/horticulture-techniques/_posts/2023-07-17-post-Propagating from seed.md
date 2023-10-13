@@ -7,6 +7,7 @@ description: ""
 image: ""
 ---
 <section>
+	<img title="Seedlings growing in a cardboard egg tray. Photo by Jacqueline Chua." src="/images/Horti%20techniques/SeedlingTray_Jacchua%20(11).jpg">
 	<p>Growing plants from seeds is an important skill to master for any gardener as home-grown seedlings can be cheaper and healthier than plants sold in nurseries. Seeds can be obtained from our local nurseries or supermarkets, or even harvested from your own plants!</p>
 	<ul class="jekyllcodex_accordion">
 	<li><input type="checkbox" id="accordion1">
@@ -21,7 +22,7 @@ image: ""
 	<p>Seeds should be used as soon as they are bought or harvested as germination rates will decrease over time. Unused seeds should be stored in air-tight containers, and placed in cool, dry areas such as a refrigerator to extend its shelf life.</p>
 </div></li>
 	<li><input type="checkbox" id="accordion2">
-		<label for="accordion2">Making a seed-staring mix</label><div>
+		<label for="accordion2">Making a seed-starting mix</label><div>
 	<img src="/images/Horti%20techniques/SeedlingTray_Jacchua%20(8).jpg">
 	<p>Seedlings and seeds are vulnerable to pathogens and disease. They are also prone to rot if they are left sitting in water for too long. You can make your own well-draining seed-starting mix with sterile <a href="/page-index/horticulture-techniques/soil-amendments/">soil amendments</a>. Pure cocopeat, pure perlite, or an equal mix of cocopeat and perlite are good mixes for starting seeds.</p>
 </div></li>
