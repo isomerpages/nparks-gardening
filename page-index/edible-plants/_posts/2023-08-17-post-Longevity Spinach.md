@@ -34,25 +34,25 @@ image: ""
 <section>
 	<h4>Growing:</h4>
 		<p>Longevity Spinach grows rapidly when young and freshly planted from cuttings. Regular harvesting will encourage the plant to grow more leaves and stems.</p>
-	<p>This plant generally does not require fertilising, but it can be fed with a high nitrogen fertiliser around once a month to encourage growth.</p>
+	<p>This plant generally does not require fertilising, but it <a href="/page-index/horticulture-techniques/fertilising/">can be fed with a high nitrogen fertiliser</a> around once a month to encourage growth.</p>
 	<br>
 </section>
 
 <section>
 	<h4>Harvesting:</h4>
-		<p>Plants can be harvested for young leaves at any time. They are typically harvested continuously via the <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/cut-and-come-again/">cut-and-come-again</a> method.</p>
+	<p>Plants can be <a href="/page-index/horticulture-techniques/harvesting-hygiene/">harvested</a> for young leaves at any time. They are typically harvested continuously via the <a href="/page-index/horticulture-techniques/cut-and-come-again/">cut-and-come-again</a> method.</p>
 	<br>
 </section>
 
 <section>
 	<h4>Propagation:</h4>
-		<p>Longevity Spinach is typically propagated via <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/propagatingcuttings/">stem cuttings</a> in soil. Cuttings rooted in water are likely to rot.</p>
+		<p>Longevity Spinach is typically propagated via <a href="/page-index/horticulture-techniques/propagating-by-cuttings/">stem cuttings</a> in soil. Cuttings rooted in water are likely to rot.</p>
 	<br>
 </section>
 
 <section>
 	<h4>Common problems &amp; solutions:</h4>
 	<p>This plant is relatively resistant to pests and disease if kept healthy.</p>
-	<p>Smaller plants may be vulnerable to being eaten by snails or birds. Protect your plants with a DIY cloche or netting.</p>
+	<p>Smaller plants may be vulnerable to being eaten by snails or birds. Protect your plants with a DIY <a href="/page-index/horticulture-techniques/cloches/">cloche</a> or <a href="/page-index/hardscapes/netting/">netting.</a></p><a href="/page-index/hardscapes/netting/">
 	<br>
-</section>
+</a></section>
