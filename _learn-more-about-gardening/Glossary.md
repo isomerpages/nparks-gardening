@@ -109,7 +109,10 @@ Horticulturally, this refers to undeveloped shoots at the base of leaves or on t
 <section>
 <h4 id="f">F</h4>
 	<div id="flower"><b><u>Flower</u></b></div>
-	Flowers are the reproductive structure of a plant. The "male" parts or a flower  produce pollen, while "female" parts  consist of the stigma and ovule, which become fruits and seeds when pollen is brought to the stigma in a process called pollination. Plants can have flowers that are male, female, or both. 
+	Flowers are the reproductive structure of a plant. The "male" parts or a flower  produce pollen, while "female" parts  consist of the stigma and ovule, which become fruits and seeds when pollen is brought to the stigma in a process called pollination. Plants can have flowers that are male, female, or both.
+	<br><br>
+	<div id="free-flowering"><b><u>Free-flowering</u></b></div>
+	When flowering plants are described as free-flowering, they often have a long bloom time and do not have a defined blooming season. They produce many flowers continuously over a long period, sometimes all year round.
 	<br><br><br>
 </section>
 
