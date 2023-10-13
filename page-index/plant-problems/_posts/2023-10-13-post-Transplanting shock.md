@@ -6,3 +6,5 @@ layout: post
 description: ""
 image: ""
 ---
+<img title="A freshly transplanted rooted cutting in transplanting shock. Photo by Jacqueline Chua." src="/images/Plant%20problems/transplantingshock_jacquelinechua.jpg">
+<p>Transplanting shock</p>
