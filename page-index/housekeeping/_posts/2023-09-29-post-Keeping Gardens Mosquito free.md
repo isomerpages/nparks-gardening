@@ -50,8 +50,8 @@ image: ""
 		</div></li>
 		<li><input type="checkbox" id="accordion2">
 		<label for="accordion2">Poor drainage</label><div>
-			<p>Clayey or compacted soil can sometimes form puddles that hold water for long periods of time, particularly during the wet season. Breaking up compacted soil or refreshing it by adding more organic matter to promote better drainage will prevent this and make the soil better for plant roots to grow.</p>
-			<p>Large pots and raised beds should have drainage holes, but these holes can get clogged by debris or soil. Checking regularly and unclogging these holes will prevent stagnant water from forming and will also resolve horticultural problems like root rot.</p>
+			<p><a href="/page-index/horticulture-techniques/mulching/">Clayey</a> or <a href="/page-index/plant-problems/waterlogging/">waterlogged soil</a> can sometimes form puddles that hold water for long periods of time, particularly during the wet season. Breaking up compacted soil or refreshing it by adding more organic matter to promote better drainage will prevent this and make the soil better for plant roots to grow.</p>
+			<p><a href="/page-index/horticulture-techniques/planting-in-containers/">Plant pots</a> and <a href="/page-index/hardscapes/planter-beds/">planter beds</a> should have drainage holes, but these holes can get clogged by debris or soil. Checking regularly and unclogging these holes will prevent stagnant water from forming and will also resolve horticultural problems like <a href="/page-index/plant-problems/root-rot/">root rot</a>.</p>
 		</div></li>
 		<li><input type="checkbox" id="accordion3">
 		<label for="accordion3">Water features</label><div>
@@ -59,7 +59,7 @@ image: ""
 			<ul>
 				<li>Having mosquito-eating fish in ponds</li>
 				<li>Making sure that water in never stagnant in water features and hydroponic systems by using pumps</li>
-				<li>Applying Bacillus thuringiensis israelensis (BTI) granules to kill mosquito larvae</li>
+				<li>Applying <b>Bacillus thuringiensis israelensis (BTI)</b> granules to kill mosquito larvae</li>
 					<ul>
 						<li>BTI only kills mosquitoes, blackflies and fungus gnats, making it safe for use in ponds with other organisms like fish</li>
 						<li>Follow product use instructions for the best results</li>
