@@ -18,7 +18,7 @@ image: ""
 <section>
 	<img title="Javan Spinach flowers. Photo by Jacqueline Chua." src="/images/Plants/javanspinach_flowers_jacquelinechua.jpg">
 	<p>Javan Spinach is a hardy vegetable that also produces delicate pink flowers that attracts bees. Its leaves, stem and root can be eaten blanched, fried, or in stews.</p>
-	<p>An annual crop, this plant is often grown and consumed under 6 months. It can be used for crop rotation.</p>       
+	<p>An <a href="/learn-more-about-gardening/glossary/#a/">annual</a> crop, this plant is often grown and consumed under 6 months. It can be used for <a href="/page-index/horticulture-techniques/crop-rotation/">crop rotation</a>.</p>       
 	<br>
 </section>
 
