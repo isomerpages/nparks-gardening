@@ -34,7 +34,7 @@ image: ""
 <section> 
   <h4>Sowing seeds:</h4>
 			<iframe width="100%" height="415" src="https://www.youtube.com/embed/x7J87wY7U6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
-		<p><a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/propagatingseed/">Sow seeds</a> individually in a seedling tray filled with potting mix or seedling mix. Lightly mist the soil until damp, once a day. Seeds should sprout within a week.</p> 
+		<p><a href="/page-index/horticulture-techniques/propagating-by-seed/">Sow seeds</a> individually in a seedling tray filled with potting mix or seedling mix. Lightly mist the soil until damp, once a day. Seeds should sprout within a week.</p> 
 		<p>The seedlings will be vulnerable to high heat and heavy rain and are best kept in a sheltered propagation area or a shaded space with around 4 hours of partial or direct sunlight.</p>
 	<br> 
 </section> 
@@ -57,7 +57,7 @@ image: ""
 			<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/f_Uoug7ZSeg" height="415" width="100%"></iframe><br>
 		<p>Plants can be harvested for leaves and stems at any size, with younger leaves being the most tender. Most gardeners will <a href="/page-index/horticulture-techniques/harvesting-hygiene/">harvest</a> their crop around three weeks to a month after sowing.</p> 
 		<img title="Whole Xiao Bai Cai plants harvested by being cut at the base. Photo by Jacqueline Chua." src="/images/Horti%20techniques/HarvestingVeg_JacChua.jpg">
-	<p>The whole plant can be harvested once by cutting the head at the base or multiple times by harvesting the older leaves as per the <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/cut-and-come-again/">cut-and-come-again method</a>.</p> 
+	<p>The whole plant can be harvested once by cutting the head at the base or multiple times by harvesting the older leaves as per the <a href="/page-index/horticulture-techniques/cut-and-come-again/">cut-and-come-again method</a>.</p> 
 	<br>
 </section> 
  
@@ -83,20 +83,20 @@ image: ""
       </tr> 
     </tbody> 
   </table> 
-		 <p>Check out our&nbsp;<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/digital-tools/sowing-planner/">sowing and harvest planner</a>&nbsp;to schedule your growing!</p> 
+	<p>Check out our&nbsp;<a href="/digital-tools/sowing-planner/">sowing and harvest planner</a>&nbsp;to schedule your growing!</p> 
 	<br> 
 </section> 
  
 <section> 
   <h4>Propagation:</h4> 
-		<p>Xiao Bai Cai is primarily grown from <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/propagatingseed/">seeds</a>.</p> 
+		<p>Xiao Bai Cai is primarily grown from <a href="/page-index/horticulture-techniques/propagating-by-seed/">seeds</a>.</p> 
 	<br> 
 </section> 
  
 <section> 
   <h4>Common problems &amp; solutions:</h4> 
-	<p><a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/pests/caterpillars/">Caterpillars</a>, usually from the Diamondback moth and Tussock moth, can rapidly eat all the leaves of your plant. If your plant has lots of large holes and small brown or black fecal pellets scattered around damaged leaves, you likely have a caterpillar infestation. Manually remove the caterpillars by hand and protect your plants with netting.</p>
-	<p><a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/pests/leaf-miner/">Leaf miners</a> are fly larvae that eat the leaves from the inside, leaving white lines or patches in their wake. Manually remove damaged leaves and use fine mesh netting to stop the adult flies from laying eggs on the plant again.</p>
+	<p><a href="/page-index/pests/caterpillars/">Caterpillars</a>, usually from the Diamondback moth and Tussock moth, can rapidly eat all the leaves of your plant. If your plant has lots of large holes and small brown or black fecal pellets scattered around damaged leaves, you likely have a caterpillar infestation. Manually remove the caterpillars by hand and protect your plants with <a href="/page-index/hardscapes/netting/">netting</a>.</p>
+	<p><a href="/page-index/pests/leaf-miner/">Leaf miners</a> are fly larvae that eat the leaves from the inside, leaving white lines or patches in their wake. Manually remove damaged leaves and use fine mesh netting to stop the adult flies from laying eggs on the plant again.</p>
 	<p><a href="/page-index/plant-problems/etiolation/">Etiolation</a> is characterised by plants growing long and skinny, with weak stems and small leaves. The plants may also sometimes look yellowish. Plants etiolate when they do not get enough sunlight, which results in slow growth and untidy forms. To prevent this, grow plants in environments with enough light for them and make sure that each plant has enough space to prevent overcrowding.</p>
 	<p>These plants are vulnerable to <a href="/page-index/plant-problems/sunburn/">sunburn</a> in more than 6 hours of direct sunlight. Use <a href="/page-index/hardscapes/netting/">shade netting</a> to protect your plants or replant in a shadier spot.</p>
 	<br> 
