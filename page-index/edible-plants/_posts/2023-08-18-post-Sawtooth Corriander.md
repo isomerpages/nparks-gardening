@@ -60,6 +60,6 @@ image: ""
 <section>
 	<h4>Common problems &amp; solutions:</h4>
 	<p>Like most strong-smelling herbs, this plant is relatively resistant to pests and disease if kept healthy.</p>
-	<p><a href="/page-index/plant-problems/wilting/">Wilting
+	<p><a href="/page-index/plant-problems/wilting/">Wilting leaves</a> during hot weather is a sign of heat stress. Increase the number of times the plant is watered daily, or move it to a shadier part of the garden.</p>
 	<br>
-</a></p></section>
+</section>
