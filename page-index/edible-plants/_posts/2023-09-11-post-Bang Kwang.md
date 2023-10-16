@@ -18,7 +18,7 @@ image: ""
 <section>
 	<img title="A Bang Kwang plant being grown in a pot. Photo by Jacqueline Chua." src="/images/Hardscapes/Trellis_JacChua.jpg">
 	<p>Bang Kwang is a large, climbing vine that is harvested for its starchy tuber. The tuber can be eaten raw, stir-fried, or steamed in a variety of dishes, and is most well-known as a component of Rojak and Popiah in Singapore.</p>
-	<p>An annual crop, these plants are often grown in <a href="/page-index/horticulture-techniques/crop-rotation/">rotation</a> with other fruiting climbers.</p>
+	<p>An <a href="/learn-more-about-gardening/glossary/#a">annual</a> crop, these plants are often grown in <a href="/page-index/horticulture-techniques/crop-rotation/">rotation</a> with other fruiting climbers.</p>
 <p>This plant is part of the 	Fabaceae or Bean family, which includes other popular edible fruits like <a href="/page-index/edible-plants/winged-bean/">Winged Bean</a>, <a href="/page-index/edible-plants/peanut/">Peanut</a>, and <a href="/page-index/edible-plants/sword-bean/">Sword Bean</a>.  All members of the bean family can be used for <a href="/page-index/horticulture-techniques/companion-planting/">companion planting</a> as they can fix nitrogen into the soil.</p>      
 	<br>
 </section>
@@ -81,8 +81,7 @@ image: ""
       </tr>
     </tbody>
   </table>
-	
-<p>Check out our&nbsp;<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/digital-tools/sowing-planner/">sowing &amp; harvest planner</a>&nbsp;to schedule your growing! </p>
+	<p>Check out our&nbsp;<a href="/digital-tools/sowing-planner/">sowing &amp; harvest planner</a>&nbsp;to schedule your growing! </p>
 <br>
 </section>
 
@@ -95,6 +94,6 @@ image: ""
 <section>
 	<h4>Common problems &amp; solutions:</h4>
 		<p><a href="/page-index/pests/aphids/">Aphids</a>, <a href="/page-index/pests/mealy-bugs/">Mealy Bugs</a>, <a href="/page-index/pests/whiteflies/">Whiteflies</a>, and <a href="/page-index/pests/spider-mites/">spider mites</a> often infest the plant if it has <a href="/learn-more-about-gardening/plant-problems/">underlying problems</a> like repeated wilting from heat stress. <a href="/horticulture-techniques/pest-control/">Mechanical pest control</a> methods like <a href="/page-index/horticulture-techniques/pruning/">pruning</a> the infested parts are the best methods for managing these pests in the short term, but resolving the underlying problem will prevent them in the long term.</p>
-	<p><a href="/page-index/plant-problems/wilting/">Wilting</a> leaves during hot weather is a sign of heat stress. Increase the number of times the plant is watered daily, and apply mulch at the base to prevent water loss.</p>
+	<p><a href="/page-index/plant-problems/wilting/">Wilting</a> leaves during hot weather is a sign of heat stress. Increase the number of times the plant is watered daily, and apply <a href="/page-index/horticulture-techniques/mulching/">mulch</a> at the base to prevent water loss.</p>
 	<br>
 </section>
