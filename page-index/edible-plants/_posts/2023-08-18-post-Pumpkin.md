@@ -32,7 +32,7 @@ image: ""
 	<p>This vine is vulnerable to heat stress during the dry season. <a href="/page-index/horticulture-techniques/watering/">Water it regularly</a> and <a href="/page-index/horticulture-techniques/mulching/">mulch</a> the base to prevent water loss.</p>
 	<p>As a fast-growing vine, this plant can be grown on the ground or trained up a sturdy <a href="/page-index/hardscapes/trellises/">trellis</a>. The fruits can get quite heavy if they are hanging off a trellis and can be supported with a cradle to prevent damage to the rest of the plant.</p>
 	<img title="A Pearly banded Nomia pollinating a Pumpkin flower. photo by Victoria lim." src="/images/Biodiversity/pumpkin%20(1)_pollinator_victorialim.jpg">
-<p>As with all members of the melon family, this plant is bee pollinated and produces male and female flowers. To encourage the formation of more fruits, it is best to have at least 3 separate plants growing in the same area to have both male and female flowers available, and to have bee-attracting plants within the garden to encourage pollination. If your garden lacks bees, the plant can also be hand pollinated.</p>
+<p>As with all members of the melon family, this plant is bee pollinated and produces male and female flowers. To encourage the formation of more fruits, it is best to have at least 3 separate plants growing in the same area to have both male and female flowers available, and to have <a href="/page-index/glossary/biodiversity-attracting-plants/">bee-attracting plants</a> within the garden to encourage pollination. If your garden lacks bees, the plant can also be hand pollinated.</p>
 	<br>
 </section>
 
@@ -40,7 +40,7 @@ image: ""
   <h4>Sowing seeds:</h4>
 	<p>Seeds can be sown directly into pots or the ground around 15-30cm apart. Lightly water the soil until damp, once a day. Seeds should sprout within 10 days.</p>
 		<iframe width="100%" height="415" src="https://www.youtube.com/embed/x7J87wY7U6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
-	<p>The seedlings are generally resilient to most environmental factors but may be vulnerable to being eaten by snails or birds. Protect your young plants with a DIY cloche or netting.</p>
+	<p>The seedlings are generally resilient to most environmental factors but may be vulnerable to being eaten by snails or birds. Protect your young plants with a DIY <a href="/page-index/horticulture-techniques/cloches/">cloche</a> or <a href="/page-index/hardscapes/netting/">netting</a>.</p>
 	<br>
 </section>
 
