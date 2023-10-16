@@ -47,8 +47,8 @@ image: ""
 <section>
 	<h4>Growing:</h4>
 	<img title="Photo by Jacqueline Chua." src="/images/Plants/Pumpkin_JacChua%20(2).jpg">
-<p>Pumpkins will produce more flowers and thus more fruit when fed with fertilisers high in Phosphorus and Potassium. Plants can be fertilised regularly a month after germination for a fuller crop.</p>
-	<p>Because the vines will grow on top of each other, it is a good practice to prune regularly and remove dead leaves and vines to improve ventilation and allow light to reach more of the plant.</p>
+<p>Pumpkins will produce more flowers and thus more fruit when fed with fertilisers high in Phosphorus and Potassium. Plants can be <a href="/page-index/horticulture-techniques/fertilising/">fertilised regularly</a> a month after germination for a fuller crop.</p>
+	<p>Because the vines will grow on top of each other, it is a good practice to <a href="/page-index/horticulture-techniques/pruning/">prune regularly</a> and remove dead leaves and vines to improve ventilation and allow light to reach more of the plant.</p>
 	<p>Direct sunlight can damage the fruit. Allow leaves to grow over the fruit, or protect it using a cloth cover.</p>
 	<p>Allowing the fruit to sit in water can cause rotting. Keep the underside dry by placing it on a platform if the fruit is growing on the ground.</p>
 	<br>
@@ -57,7 +57,7 @@ image: ""
 <section>
 	<h4>Harvesting:</h4>
 	<img title="Ripening Pumpkins. Photo by Victoria lim." src="/images/Plants/pumpkin%20(2)_ripe_victorialim.jpg">
-	<p>Plants can be harvested for fruits around 4 months after sowing. The best time to harvest young shoots, stems and ripe fruit is in the early morning, before 9am.</p>
+	<p>Plants can be <a href="/page-index/horticulture-techniques/harvesting-hygiene/">harvested</a> for fruits around 4 months after sowing. The best time to harvest young shoots, stems and ripe fruit is in the early morning, before 9am.</p>
 	<p>Pumpkin fruits are ripe for harvesting when the stalk holding the fruit starts to shrivel and turn brown. The pumpkin can be harvested and kept for another two weeks for the skin to harden and for the flesh to become sweeter. Both the flesh and seeds of ripe fruit can be eaten.</p>
 	<p>Regularly harvest the mature fruit to encourage the plant to keep producing.</p>
 	<p>The plant will continuously produce fruit for about 6 months to a year before declining.</p>
