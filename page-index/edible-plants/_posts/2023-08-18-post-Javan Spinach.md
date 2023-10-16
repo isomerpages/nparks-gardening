@@ -50,7 +50,7 @@ image: ""
 
 <section>
 	<h4>Propagation:</h4>
-	<p>Javan Spinach can be grown from <a href="/page-index/horticulture-techniques/propagating-by-seeds/">seed</a>, but they are usually propagated <a href="/page-index/horticulture-techniques/propagating-by-cuttings/">via stem cuttings</a> in soil or water.</p>
+	<p>Javan Spinach can be grown from <a href="/page-index/horticulture-techniques/propagating-by-seed/">seed</a>, but they are usually propagated <a href="/page-index/horticulture-techniques/propagating-by-cuttings/">via stem cuttings</a> in soil or water.</p>
 	<br>
 </section>
 
