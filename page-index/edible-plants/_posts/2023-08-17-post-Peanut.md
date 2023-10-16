@@ -18,17 +18,17 @@ image: ""
 <section>
 	<img title="A Peanut plant with flowers. Photo by Jacqueline Chua." src="/images/Plants/peanut%20(4)_jacquelinechua.jpg">
 	<p>Peanut plants are grown for their underground fruit which have edible seeds that can be eaten raw, salted, fried, or steamed. The seeds are also processed into products, the most famous being peanut butter.</p>
-	<p>A small to medium-sized shrubby annual crop, this plant is often used for crop rotation. It grows rapidly and can also be used as a groundcover.</p>
-	<p>This plant is part of the 	Fabaceae or Bean family, which includes other popular edible fruits like Winged Bean, Peanut, and Sword Bean.  All members of the bean family can be used for companion planting as they can fix nitrogen into the soil.</p>
+	<p>A small to medium-sized shrubby <a href="learn-more-about-gardening/glossary/#a">annual</a> crop, this plant is often used for <a href="/page-index/horticulture-techniques/crop-rotation/">crop rotation</a>. It grows rapidly and can also be used as a groundcover.</p>
+	<p>This plant is part of the 	Fabaceae or Bean family, which includes other popular edible fruits like <a href="/page-index/edible-plants/winged-bean/">Winged Bean</a> and <a href="/page-index/edible-plants/sword-bean/">Sword Bean</a>.  All members of the bean family can be used for <a href="/page-index/horticulture-techniques/companion-planting/">companion planting</a> as they can fix nitrogen into the soil.</p>
 	<br>
 </section>
 
 <section>
 	<h4>Environmental needs:</h4>
 	<img title="Peanut plants in poly bags. Photo by Jacqueline Chua." src="/images/Plants/peanut%20(2)_jacquelinechua.jpg">
-	<p>This plant does best in full sun gardens with a minimum of 6 hours of direct sunlight. This plant can also grow in gardens with at least 6 hours of indirect sunlight, but growth will be slow and the plant will be less healthy.</p>
-	<p>Plants do best in sandy soil at least 15cm deep, making them suitable for container gardening. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of organic matter and grit to let the roots breathe.</p>
-	<p>As with all members of the bean family, this plant is pollinated by bees. Growing more bee-attracting plants within the garden will encourage pollination.</p>
+	<p>This plant does best in <a href="/page-index/horticulture-techniques/gauging-light/">full sun gardens with a minimum of 6 hours of direct sunlight</a>. This plant can also grow in gardens with at least 6 hours of indirect sunlight, but growth will be slow and the plant will be less healthy.</p>
+	<p>Plants do best in <a href="/page-index/horticulture-techniques/soil/">sandy soil</a> at least 15cm deep, making them suitable for <a href="/page-index/horticulture-techniques/planting-in-containers/">container gardening</a>. These plants are vulnerable to <a href="/page-index/plant-problems/root-rot/">root rot</a>, so ensure that your pots drain well, and that your soil has plenty of <a href="/page-index/horticulture-techniques/soil-amendments/">organic matter and grit</a> to let the roots breathe.</p>
+	<p>As with all members of the bean family, this plant is pollinated by bees. Growing more <a href="/page-index/glossary/biodiversity-attracting-plants/">bee-attracting plants</a> within the garden will encourage pollination.</p>
 	<br>
 </section>
 
@@ -36,21 +36,21 @@ image: ""
   <h4>Sowing seeds:</h4>
 	<p>Seeds should be sown directly into pots or the ground around 15cm apart. Lightly water the soil until damp, once a day. Seeds should sprout within 10 days. </p>
 	<iframe width="100%" height="415" src="https://www.youtube.com/embed/x7J87wY7U6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
-	<p>The seedlings are generally resilient to most environmental factors but may be vulnerable to being eaten by snails or birds. Protect your young plants with a DIY cloche or netting.</p>
+	<p>The seedlings are generally resilient to most environmental factors but may be vulnerable to being eaten by snails or birds. Protect your young plants with a DIY <a href="/page-index/horticulture-techniques/cloches/">cloche</a> or <a href="/page-index/hardscapes/netting/">netting</a>.</p>
 	<br>
 </section>
 
 <section>
 	<h4>Growing:</h4>
 	<p>These plants generally do not require much fertilising because they are able to fix their own nitrogen.</p>
-	<p>Individual peanut plants will quickly grow a network of roots that are delicate. Do not disturb the roots if possible, and mulch them to prevent water loss.</p>
+	<p>Individual peanut plants will quickly grow a network of roots that are delicate. Do not disturb the roots if possible, and <a href="/page-index/horticulture-techniques/mulching/">mulch</a> them to prevent water loss.</p>
 	<br>
 </section>
 
 <section>
 	<h4>Harvesting:</h4>
 	<img title="Peanut pods grow underground as part of the roots. Photo by Jacqueline Chua." src="/images/Plants/peanut%20(1)_jacquelinechua.jpg">
-	<p>Underground fruits can be harvested around 4 ½ months after sowing. Peanuts are ready for harvest when the plant starts to turn yellow and wilt. Harvest the whole plant by pulling the plant from the base stem just above the soil and separate out the fruits from the roots.</p>
+	<p>Underground fruits can be <a href="/page-index/horticulture-techniques/harvesting-hygiene/">harvested</a> around 4 ½ months after sowing. Peanuts are ready for harvest when the plant starts to turn yellow and wilt. Harvest the whole plant by pulling the plant from the base stem just above the soil and separate out the fruits from the roots.</p>
 	<p>Dry, brown fruits are mature, and can be used for seeds.</p>
 	<iframe width="100%" height="415" src="https://www.youtube.com/embed/FuWK90da0GY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
 	<br>
@@ -76,21 +76,21 @@ image: ""
 			</tr>
 		</tbody>
 	</table>
-	<p>Check out our&nbsp;<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/digital-tools/sowing-planner/">sowing and harvest planner</a>&nbsp;to schedule your growing! </p>
+	<p>Check out our&nbsp;<a href="/digital-tools/sowing-planner/">sowing and harvest planner</a>&nbsp;to schedule your growing! </p>
 	<br>
 </section>
 
 <section>
 	<h4>Propagation:</h4>
-	<p>This plant can be grown via seeds. Seeds can be taken from mature fruit for immediate planting.</p>
+	<p>This plant can be grown via <a href="/page-index/horticulture-techniques/propagating-by-seeds/">seeds</a>. Seeds can be taken from mature fruit for immediate planting.</p>
 	<br>
 </section>
 
 <section>
 	<h4>Common problems &amp; solutions:</h4>
-	<p>Aphids, mealy bugs, and spider mites often infest the plant if it is sickly or overgrown. Prune off the infested parts, or apply horticultural oils like neem oil and white summer oil to suffocate the remaining pests. Regularly prune the plant to allow light and air to reach throughout the plant, and check the plant for underlying problems like root rot, lack of sunlight, and nutrient deficiencies.</p>
-	<p>Whiteflies can infest the plant and lay eggs under its leaves. Remove affected plant parts and catch remaining adults with yellow sticky paper or treat them with citrus spray. 
-Wilting leaves during hot weather is a sign of heat stress. Increase the number of times the plant is watered daily, and apply mulch at the base to prevent water loss.</p>
-	<p>Rodents and birds are attracted to and will dig up underground fruits to eat. Protect your plants with netting and fully bury seeds used to grow new plants.</p>
+	<p><a href="/page-index/pests/aphids/">Aphids</a>, <a href="/page-index/pests/mealy-bugs/">mealy bugs</a>, and <a href="/page-index/pests/spider-mites/">spider mites</a> often infest the plant if it is sickly or overgrown. <a href="/page-index/horticulture-techniques/pruning/">Prune off</a> the infested parts, or apply horticultural oils like neem oil and white summer oil to suffocate the remaining pests. Regularly prune the plant to allow light and air to reach throughout the plant, and check the plant for underlying problems like <a href="/page-index/plant-problems/root-rot/">root rot</a>, lack of sunlight, and <a href="/page-index/horticulture-techniques/nutrient-deficiencies/">nutrient deficiencies</a>.</p>
+	<p><a href="/page-index/pests/whiteflies/">Whiteflies</a> can infest the plant and lay eggs under its leaves. Remove affected plant parts and catch remaining adults with yellow sticky paper or treat them with citrus spray. 
+		<a href="/page-index/plant-problems/wilting/">Wilting</a> leaves during hot weather is a sign of heat stress. Increase the number of times the plant is watered daily, and apply <a href="/page-index/horticulture-techniques/mulching/">mulch</a> at the base to prevent water loss.</p>
+	<p>Rodents and birds are attracted to and will dig up underground fruits to eat. Protect your plants with <a href="/page-index/hardscapes/netting/">netting</a> and fully bury seeds used to grow new plants.</p>
 	<br>
 </section>
