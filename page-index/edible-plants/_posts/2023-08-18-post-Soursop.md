@@ -35,36 +35,36 @@ image: ""
 	<h4>Sowing Seeds</h4>
 	<p>Seeds can be sown directly into pots or the ground. Because the plant eventually grows into a tree, it is easier to grow a few seedlings in separate pots before selecting the healthiest one to be grown in true ground.</p>
 	<iframe width="100%" height="415" src="https://www.youtube.com/embed/x7J87wY7U6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
-	<p>The seedlings are generally resilient to most environmental factors but may be vulnerable to being eaten by snails or birds. Protect your young plants with a DIY cloche or netting.</p>
+	<p>The seedlings are generally resilient to most environmental factors but may be vulnerable to being eaten by snails or birds. Protect your young plants with a DIY <a href="/page-index/horticulture-techniques/cloches/">cloche</a> or <a href="/page-index/hardscapes/netting/">netting</a>.</p>
 	<br>
 </section>
 
 <section>
   <h4>Growing:</h4>
-	<p>Soursop trees are steady growers but do benefit from being fed high potassium and phosphorus fertilisers to encourage flowering and thus fruiting. Regular pruning to promote airflow will keep the plant healthy and neat.</p>
+	<p>Soursop trees are steady growers but do benefit from being fed <a href="/page-index/horticulture-techniques/fertilising/">high potassium and phosphorus fertilisers</a> to encourage flowering and thus fruiting. <a href="/page-index/horticulture-techniques/pruning/">Regular pruning</a> to promote airflow will keep the plant healthy and neat.</p>
 	<p>The tree will need to be around 3 years old before it starts producing fruit if grown from seed.</p>
 	<br>
 </section>
 
 <section>
 	<h4>Harvesting:</h4>
-	<p>Fruits are considered ripe when the spines are far apart, and the skin of the fruit darkens to a dull green or yellowish green. Fruits should be harvested ripe for immediate consumption.</p>
+	<p>Fruits are considered ripe when the spines are far apart, and the skin of the fruit darkens to a dull green or yellowish green. Fruits should be <a href="/page-index/horticulture-techniques/harvesting-hygiene/">harvested</a> ripe for immediate consumption.</p>
 	<br>
 </section>
 
 <section>
 	<h4>Propagation:</h4>
-	<p>This tree is grown via seed, or via woody cuttings with rooting hormone. This tree can also be grafted.</p>
+	<p>This tree is grown via <a href="/page-index/horticulture-techniques/propagating-by-seed/">seed</a>, or via <a href="/page-index/horticulture-techniques/propagating-by-cuttings/">woody cuttings</a> with rooting hormone. This tree can also be grafted.</p>
 	<br>
 </section>
 
 <section>
 	<h4>Common problems &amp; solutions:</h4>
 	<p>If your plant has little to no flowers, you try fertilising the plant with fertilisers high in Phosphorus and Potassium. These nutrients encourage root and flower growth, which are important for the plant to produce more fruit.</p>
-	<p>Many plants require pollinators to help them fruit. Bees, butterflies, birds and even beetles transport pollen from one flower to another, pollinating your crops and increasing their fruit yield. Attract some pollinators to your garden by growing pollinator-attracting crops, or become a pollinator yourself by hand-pollinating your plants.</p>
-	<p>Aphids, mealy bugs, and spider mites often infest the plant if it is sickly or overgrown. Prune off the infested parts, or apply horticultural oils like neem oil and white summer oil to suffocate the remaining pests. Regularly prune the plant to allow light and air to reach throughout the plant, and check the plant for underlying problems like root rot, lack of sunlight, and nutrient deficiencies.</p>
-	<p>Whiteflies can infest the plant and lay eggs under its leaves. Remove affected plant parts and catch remaining adults with yellow sticky paper or treat them with citrus spray.</p>
-	<p>Fruit flies can lay eggs in the fruit, resulting in larvae damaging the fruit and creating spots on the skin. Wrap your fruit in netting when it starts to develop from a fertilised flower, ideally after all the petals have dropped off.</p> 
+	<p>Many plants require pollinators to help them fruit. Bees, butterflies, birds and even beetles transport pollen from one flower to another, pollinating your crops and increasing their fruit yield. Attract some pollinators to your garden by growing <a href="/page-index/glossary/biodiversity-attracting-plants/">pollinator-attracting crops</a>, or become a pollinator yourself by hand-pollinating your plants.</p>
+	<p><a href="/page-index/pests/aphids/">Aphids</a>, <a href="/page-index/pests/mealy-bugs/">mealy bugs</a>, and <a href="/page-index/pests/spider-mites/">spider mites</a> often infest the plant if it is sickly or overgrown. <a href="/page-index/horticulture-techniques/pruning/">Prune off</a> the infested parts, or apply horticultural oils like neem oil and white summer oil to suffocate the remaining pests. Regularly prune the plant to allow light and air to reach throughout the plant, and check the plant for underlying problems like <a href="/page-index/plant-problems/root-rot/">root rot</a>, lack of sunlight, and <a href="/page-index/horticulture-techniques/nutrient-deficiencies/">nutrient deficiencies</a>.</p>
+	<p><a href="/page-index/pests/whiteflies/">Whiteflies</a> can infest the plant and lay eggs under its leaves. Remove affected plant parts and catch remaining adults with yellow sticky paper or treat them with citrus spray.</p>
+	<p><a href="/page-index/pests/oriental-fruit-flies/">Fruit flies</a> can lay eggs in the fruit, resulting in larvae damaging the fruit and creating spots on the skin. Wrap your fruit in netting when it starts to develop from a fertilised flower, ideally after all the petals have dropped off.</p> 
 	<p>Squirrels, birds and fruit bats may eat unripe or ripe fruit. Wrap your fruit in netting when it starts to develop from a fertilised flower, ideally after all the petals have dropped off.</p>
 	<br>
 </section>
