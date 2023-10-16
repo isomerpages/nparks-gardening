@@ -56,7 +56,7 @@ This plant can be grown year-round.</p>
 
 <section>
 	<h4>Propagation:</h4>
-	<p>This tree is grown <a href="/page-index/horticulture-techniques/propagating-by-seeds/">via seed</a>, or <a href="/page-index/horticulture-techniques/propagating-by-cuttings/">via woody cuttings</a> with rooting hormone. This tree can also be grafted.</p>
+	<p>This tree is grown <a href="/page-index/horticulture-techniques/propagating-by-seed/">via seed</a>, or <a href="/page-index/horticulture-techniques/propagating-by-cuttings/">via woody cuttings</a> with rooting hormone. This tree can also be grafted.</p>
 	<br>
 </section>
 
