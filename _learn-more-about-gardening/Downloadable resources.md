@@ -31,9 +31,9 @@ description: ""
 				<li><a download="" href="/files/good%20corridor%20gardening%20practices.pdf">Good Corridor Gardening Practices</a></li>		
 				<li><a download="" href="/files/good%20roadside%20gardening%20practices.pdf">Good Roadside Gardening Practices</a></li>	
 				<li><a download="" href="/files/introduction%20to%20indoor%20gardening.pdf">Introduction to Indoor Gardening</a></li>	
-				<li><a download="" href=""></a></li>	
-				<li><a download="" href=""></a></li>	
-				<li><a download="" href=""></a></li>	
+				<li><a download="" href="https://go.gov.sg/allotment-guide">A Guide to Designing and Implementing Allotment Gardens</a></li>	
+				<li><a download="" href="https://go.gov.sg/community-garden-design">A Guide to Designing and Implementing Community Gardens</a></li>	
+				<li><a download="" href="https://go.gov.sg/best-practices-edible-gardening">Horticultural Best Practices for Edible Gardening</a></li>	
 	</ul>
 	<h4>Posters and Checklists</h4>
 	<ul>
