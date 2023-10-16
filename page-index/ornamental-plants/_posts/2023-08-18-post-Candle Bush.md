@@ -31,7 +31,7 @@ image: ""
 
 <section> 
   <h4>Growing:</h4> 
-	<p>Candle Bushes are rapid growers and generally does not need fertilizing. The shrub can rapidly grow up to 4m in height and will need to be hard pruned regularly. It is a large and broad plant that can rapidly overwhelm neighbouring plants. Regular pruning to promote airflow will keep the plant healthy, neat, and in control.ry other month will keep the plant lush and growing steadily.</p> 
+	<p>Candle Bushes are rapid growers and generally does not need fertilizing. The shrub can rapidly grow up to 4m in height and will need to be hard pruned regularly. It is a large and broad plant that can rapidly overwhelm neighbouring plants. Regular pruning to promote airflow will keep the plant healthy, neat, and in control every other month will keep the plant lush and growing steadily.</p> 
 	<br> 
 </section> 
 
