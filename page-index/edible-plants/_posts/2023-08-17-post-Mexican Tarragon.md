@@ -30,19 +30,19 @@ image: ""
   
 <section> 
   <h4>Growing:</h4> 
-		<p>Mexican Tarragon are rapid growers and benefit from regular hard pruning to promote additional leaf growth. Fertilising the plant with high nitrogen fertilisers after pruning will encourage the plant to bounce back.</p> 
+		<p>Mexican Tarragon are rapid growers and benefit from <a href="/page-index/horticulture-techniques/pruning/">regular hard pruning</a> to promote additional leaf growth. <a href="/page-index/horticulture-techniques/fertilising/">Fertilising</a> the plant with high nitrogen fertilisers after pruning will encourage the plant to bounce back.</p> 
 	<br> 
 </section> 
  
 <section> 
   <h4>Harvesting:</h4> 
-		<p>The plant can be harvested for young leaves via the <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/cut-and-come-again/">cut-and-come-again-method</a> at any time.</p> 
+		<p>The plant can be harvested for young leaves via the <a href="/page-index/horticulture-techniques/cut-and-come-again/">cut-and-come-again-method</a> at any time.</p> 
 	<br> 
 </section> 
   
 <section> 
   <h4>Propagation:</h4> 
-		<p>Mexican Tarragon are generally propagated via stem cuttings rooted in water or soil as the plant does not fruit readily in the tropics.</p> 
+		<p>Mexican Tarragon are generally propagated via <a href="/page-index/horticulture-techniques/propagating-by-cuttings/">stem cuttings</a> rooted in water or soil as the plant does not fruit readily in the tropics.</p> 
 	<br> 
 </section> 
  
