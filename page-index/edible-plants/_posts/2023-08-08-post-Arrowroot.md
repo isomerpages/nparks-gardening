@@ -25,7 +25,7 @@ image: ""
 <section>
 	<h4>Environmental needs:</h4>
 	<p>Arrowroot grows well in <a href="/page-index/horticulture-techniques/gauging-light/">4-6 hours of direct sunlight or 6-8 hours of indirect sunlight</a>. Plants do best in <a href="/page-index/horticulture-techniques/soil/">loamy soil</a> at least 15cm deep, making them suitable for <a href="/page-index/horticulture-techniques/planting-in-containers/">container gardening</a> and corridor gardening. These plants are vulnerable to <a href="/page-index/plant-problems/root-rot/">root rot</a>, so ensure that your pots drain well, and that your soil has plenty of <a href="/page-index/horticulture-techniques/soil-amendments/">organic matter</a> to let the roots breathe.</p>
-<p>This plant will not do well in hot, exposed places like on rooftop gardens, and will be prone to sunburn.</p>
+<p>This plant will not do well in hot, exposed places like on rooftop gardens, and will be prone to <a href="/page-index/plant-problems/sunburn/">sunburn</a>.</p>
 	<br>
 </section>
 
