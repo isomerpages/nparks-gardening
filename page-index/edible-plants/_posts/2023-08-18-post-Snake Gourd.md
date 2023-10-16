@@ -26,11 +26,11 @@ image: ""
 
 <section>
 	<h4>Environmental needs:</h4>
-	<p>This vine does best in full sun gardens with a minimum of 6 hours of direct sunlight.</p>
-	<p>Plants do best in moist, well-drained soil at least 30cm deep, or in true ground. The plant can be grown in smaller pots about 20cm deep, but growth will be slower due to the lack of water retention in less soil and a smaller root ball.</p>
-	<p>As a fast-growing vine, this plant needs a tall, sturdy trellis to scramble on. Because the fruits hang down, it is ideal for arch-shaped trellises.</p>
+	<p>This vine does best in <a href="/page-index/horticulture-techniques/gauging-light/">full sun gardens with a minimum of 6 hours of direct sunlight</a>.</p>
+	<p>Plants do best in <a href="/page-index/horticulture-techniques/soil/">moist, well-drained soil</a> at least 30cm deep, or in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a>. The plant can be <a href="/page-index/horticulture-techniques/planting-in-containers/">grown in smaller pots</a> about 20cm deep, but growth will be slower due to the lack of water retention in less soil and a smaller root ball.</p>
+	<p>As a fast-growing vine, this plant needs a tall, sturdy <a href="/page-index/hardscapes/trellises/">trellis to scramble on. Because the fruits hang down, it is ideal for arch-shaped trellises.</a></p><a href="/page-index/hardscapes/trellises/">
 	<iframe width="100%" height="415" src="https://www.youtube.com/embed/SUQGxxAAcNs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
-	<p>As with all members of the melon family, this plant is bee pollinated and produces male and female flowers. To encourage the formation of more fruits, it is best to have at least 3 separate plants growing in the same area to have both male and female flowers available, and to have bee-attracting plants within the garden to encourage pollination. If your garden lacks bees, the plant can also be hand pollinated.</p>
+	</a><p><a href="/page-index/hardscapes/trellises/">As with all members of the melon family, this plant is bee pollinated and produces male and female flowers. To encourage the formation of more fruits, it is best to have at least 3 separate plants growing in the same area to have both male and female flowers available, and to have </a><a href="/page-index/glossary/biodiversity-attracting-plants/">bee-attracting plants</a> within the garden to encourage pollination. If your garden lacks bees, the plant can also be hand pollinated.</p>
 	<br>
 </section>
 
