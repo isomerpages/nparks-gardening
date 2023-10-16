@@ -87,7 +87,7 @@ image: ""
  
 <section> 
   <h4>Propagation:</h4> 
-	<p>Chinese Mustard is grown from seeds.</p> 
+	<p>Chinese Mustard is grown from <a href="/page-index/horticulture-techniques/propagating-by-seed/">seeds</a>.</p> 
 	<br> 
 </section> 
  
