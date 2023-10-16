@@ -53,7 +53,7 @@ image: ""
 
 <section>
 	<h4>Harvesting:</h4>
-	<p>Plants can be harvested for fruits around 4 months after sowing. The best time to harvest the fruit is in the early morning, before 9am.</p>
+	<p>Plants can be <a href="/page-index/horticulture-techniques/harvesting-hygiene/">harvested</a> for fruits around 4 months after sowing. The best time to harvest the fruit is in the early morning, before 9am.</p>
 	<p>Both mature and immature fruits can be eaten. Mature fruits are ready to be harvested when the stem holding the fruit has withered and turned brown. Seeds can be used from ripe fruit for immediate planting.</p>
 	<p>Because the plant requires a lot of energy to produce a singular fruit, most plants will produce 3-5 fruits before withering. Larger fruits can be grown if there are less of them on the vine as the plant concentrates nutrients and energy into the remaining fruit.</p>
 	<br>
@@ -79,13 +79,13 @@ image: ""
 			</tr>
 		</tbody>
 	</table>
-	<p>Check out our&nbsp;<a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/digital-tools/sowing-planner/">sowing and harvest planner</a>&nbsp;to schedule your growing! </p>
+	<p>Check out our&nbsp;<a href="/digital-tools/sowing-planner/">sowing and harvest planner</a>&nbsp;to schedule your growing! </p>
 <br>
 </section>
 
 <section>
 	<h4>Propagation:</h4>
-	<p>This vine can be grown via <a href="/page-index/horticulture-techniques/propagating-by-seeds/">seeds</a>. Seeds can be taken from mature fruit for immediate planting.</p>
+	<p>This vine can be grown via <a href="/page-index/horticulture-techniques/propagating-by-seed/">seeds</a>. Seeds can be taken from mature fruit for immediate planting.</p>
 	<br>
 </section>
 
