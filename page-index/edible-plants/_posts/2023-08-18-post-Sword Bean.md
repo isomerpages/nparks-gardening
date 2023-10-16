@@ -17,28 +17,28 @@ image: ""
 
 <section>
 	<p>Sword Beans are impressive vines that produce bean pods that can be up to 35cm long and 6cm wide, resembling the blade of a sword. Young pods, leaves and stems can be eaten raw, steamed or boiled. Mature beans can also be eaten but should be boiled in at least two changes of water and have their seed coats removed due to toxic proteins within the mature seeds.</p>
-	<p>As a perennial vine, it is a common sight in edible gardens, permaculture gardens, and low maintenance beds.</p> 
-	<p>This plant is part of the 	Fabaceae or Bean family, which includes other popular edible fruits like Winged Bean, Peanut, and Long bean.  All members of the bean family can be used for companion planting as they can fix nitrogen into the soil.</p>
+	<p>As a <a href="/learn-more-about-gardening/glossary/#p">perennial</a> vine, it is a common sight in edible gardens, permaculture gardens, and low maintenance beds.</p> 
+	<p>This plant is part of the 	Fabaceae or Bean family, which includes other popular edible fruits like <a href="/page-index/edible-plants/winged-bean/">Winged Bean</a>, <a href="/page-index/edible-plants/peanut/">Peanut</a>, and <a href="/page-index/edible-plants/long-bean/">Long bean</a>.  All members of the bean family can be used for <a href="/page-index/horticulture-techniques/companion-planting/">companion planting</a> as they can fix nitrogen into the soil.</p>
 	<br>
 </section>
 
 <section>
 	<h4>Environmental needs:</h4>
-	<p>TThis vine does best in full sun gardens with a minimum of 6 hours of sunlight. It can also grow in areas with at least 6 hours of indirect sunlight but will produce less fruit.
-		</p><p>Plants do best in moist, well-drained soil at least 30cm deep, or in true ground.</p>
-	<p>This vine is vulnerable to heat stress during the dry season. Water it regularly and mulch the base to prevent water loss.</p>
-	<p>As a fast-growing vine, this plant can be grown on the ground or trained up a sturdy trellis. The fruits are quite long and often exceed 30cm, so they do best on tall trellises.</p>
+	<p>TThis vine does best in <a href="/page-index/horticulture-techniques/gauging-light/">full sun gardens with a minimum of 6 hours of sunlight</a>. It can also grow in areas with at least 6 hours of indirect sunlight but will produce less fruit.
+		</p><p>Plants do best in <a href="/page-index/horticulture-techniques/soil/">moist, well-drained soil</a> at least 30cm deep, or in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a>.</p>
+	<p>This vine is vulnerable to heat stress during the dry season. <a href="/page-index/horticulture-techniques/watering/">Water it regularly</a> and <a href="/page-index/horticulture-techniques/mulching/">mulch</a> the base to prevent water loss.</p>
+	<p>As a fast-growing vine, this plant can be grown on the ground or trained up a sturdy <a href="/page-index/hardscapes/trellises/">trellis</a>. The fruits are quite long and often exceed 30cm, so they do best on tall trellises.</p>
 	<iframe width="100%" height="415" src="https://www.youtube.com/embed/SUQGxxAAcNs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
-	<p>As with all members of the bean family, this plant is pollinated by bees. Growing more bee-attracting plants within the garden will encourage pollination. If your garden lacks bees, the plant can also be hand pollinated.</p>
+	<p>As with all members of the bean family, this plant is pollinated by bees. Growing more <a href="/page-index/glossary/biodiversity-attracting-plants/">bee-attracting plants,/a&gt; within the garden will encourage pollination. If your garden lacks bees, the plant can also be hand pollinated.</a></p><a href="/page-index/glossary/biodiversity-attracting-plants/">
 	<br>
-</section>
+</a></section><a href="/page-index/glossary/biodiversity-attracting-plants/">
 
-<section>
+</a><section><a href="/page-index/glossary/biodiversity-attracting-plants/">
   <h4>Sowing seeds:</h4>
 	<p>Seeds can be sown directly into pots or the ground around 15-30cm apart. Lightly water the soil until damp, once a day. Seeds should sprout within 10 days. </p>
 	<iframe width="100%" height="415" src="https://www.youtube.com/embed/x7J87wY7U6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
 <br>
-	<p>The seedlings are generally resilient to most environmental factors but may be vulnerable to being eaten by snails or birds. Protect your young plants with a DIY cloche or netting.</p>
+	</a><p><a href="/page-index/glossary/biodiversity-attracting-plants/">The seedlings are generally resilient to most environmental factors but may be vulnerable to being eaten by snails or birds. Protect your young plants with a DIY </a><a href="/page-index/horticulture-techniques/cloches/">cloche</a> or <a href="/page-index/hardscapes/netting/">netting</a>.</p>
 	<br>
 </section>
 
