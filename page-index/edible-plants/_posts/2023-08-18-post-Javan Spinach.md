@@ -37,26 +37,26 @@ image: ""
 
 <section>
 	<h4>Growing:</h4>
-	<p>Javan Spinach is a rapid grower and generally does not need fertiliser, but it can be fed with high nitrogen fertilisers once a month to encourage leaf growth. Regular pruning will encourage additional growth and improve air circulation.</p>
+	<p>Javan Spinach is a rapid grower and generally does not need fertiliser, but it can be fed with <a href="/page-index/horticulture-techniques/fertilising/">high nitrogen fertilisers</a> once a month to encourage leaf growth. <a href="/page-index/horticulture-techniques/pruning/">Regular pruning</a> will encourage additional growth and improve air circulation.</p>
 	<br>
 </section>
 
 <section>
 	<h4>Harvesting:</h4>
-	<p>Plants can be harvested for both older and younger leaves at any time but are typically harvested 2 months after sowing every 2 weeks for up to 6 months. They are typically harvested continuously via the <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/cut-and-come-again/">cut-and-come-again method</a>.</p>
+	<p>Plants can be <a href="/page-index/horticulture-techniques/harvesting-hygiene/">harvested</a> for both older and younger leaves at any time but are typically harvested 2 months after sowing every 2 weeks for up to 6 months. They are typically harvested continuously via the <a href="/page-index/horticulture-techniques/cut-and-come-again/">cut-and-come-again method</a>.</p>
 	<p>Seeds can be harvested for immediate planting when fruit pods are brown and dry.</p>
 	<br>
 </section>
 
 <section>
 	<h4>Propagation:</h4>
-	<p>Javan Spinach can be grown from seed, but they are usually propagated via stem cuttings in soil or water.</p>
+	<p>Javan Spinach can be grown from <a href="/page-index/horticulture-techniques/propagating-by-seeds/">seed</a>, but they are usually propagated <a href="/page-index/horticulture-techniques/propagating-by-cuttings/">via stem cuttings</a> in soil or water.</p>
 	<br>
 </section>
 
 <section>
 	<h4>Common problems &amp; solutions:</h4>
 	<p>This plant is relatively resistant to pests and disease if kept healthy.</p>
-	<p>Wilting leaves during hot weather is a sign of heat stress. Increase the number of times the plant is watered daily, or move it to a shadier part of the garden.</p>
+	<p><a href="/page-index/plant-problems/wilting/">Wilting</a> leaves during hot weather is a sign of heat stress. Increase the number of times the plant is watered daily, or move it to a shadier part of the garden.</p>
 	<br>
 </section>
