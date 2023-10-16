@@ -25,7 +25,7 @@ image: ""
 <section>
 	<h4>Environmental needs:</h4>
 	<img title="Javan spinach plant. Photo by Jacqueline Chua." src="/images/Plants/javanspinach%20(1)_jacquelinechua.jpg">
-	<p>This plant needs about 4-8 hours of direct sunlight. Plants do best in moist, well-drained soil at least 10cm deep, making them suitable for container gardening. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe. Keep your plants cool with mulch and plenty of water to encourage growth.</p>
+	<p>This plant needs <a href="/page-index/horticulture-techniques/gauging-light/">about 4-8 hours of direct sunlight</a>. Plants do best in <a href="/page-index/horticulture-techniques/soil/">moist, well-drained soil</a> at least 10cm deep, making them suitable for <a href="/page-index/horticulture-techniques/planting-in-containers/">container gardening</a>. These plants are vulnerable to <a href="/page-index/plant-problems/root-rot/">root rot</a>, so ensure that your pots drain well, and that your soil has plenty of <a href="/page-index/horticulture-techniques/soil-amendments/">organic matter</a> to let the roots breathe. Keep your plants cool with <a href="/page-index/horticulture-techniques/mulching/">mulch</a> and plenty of water to encourage growth.</p>
 	<br>
 </section>
 
