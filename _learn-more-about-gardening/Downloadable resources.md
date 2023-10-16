@@ -3,7 +3,7 @@ title: Downloadable resources
 permalink: /learn-more-about-gardening/downloads/
 description: ""
 ---
-<img title="An NParks officer talking to a Community Gardener about the Community Garden Design Guide. Photo by Jacqueline Chua." src="/images/Gardeners/Outreach%20(3).jpg">
+<img title="An NParks officer talking to a Community Gardener about gardening brochures. Photo by Jacqueline Chua." src="/images/Gardeners/Outreach%20(3).jpg">
 <p>Keen to print out some information to refer to offline? Download our brochures, guides and checklists to print for your garden, or for reference!</p>
 <h4>Plant brochures</h4>
 <ul>
@@ -28,7 +28,13 @@ description: ""
 	<h4>Gardening guides</h4>
 	<ul>
 				<li><a download="" href="/files/gardening%20practices%20to%20prevent%20mosquito%20breeding%20(readable)-1.pdf">Gardening Practices to Prevent Mosquito Breeding</a></li>	
+				<li><a download="" href="/files/good%20corridor%20gardening%20practices.pdf">Good Corridor Gardening Practices</a></li>		
+				<li><a download="" href="/files/good%20roadside%20gardening%20practices.pdf">Good Roadside Gardening Practices</a></li>	
+				<li><a download="" href="/files/introduction%20to%20indoor%20gardening.pdf">Introduction to Indoor Gardening</a></li>	
+				<li><a download="" href=""></a></li>	
+				<li><a download="" href=""></a></li>	
 				<li><a download="" href=""></a></li>	
 	</ul>
-	
-	
+	<h4>Posters and Checklists</h4>
+	<ul>
+	<li><a download="" href="/files/good%20food%20safety%20practices%20when%20growing%20edibles%20poster.pdf">Good Food Safety Practices when Growing Edibles</a></li>	</ul>
