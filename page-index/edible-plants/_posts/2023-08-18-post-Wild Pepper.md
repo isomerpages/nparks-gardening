@@ -24,7 +24,7 @@ image: ""
 
 <section>
 	<h4>Environmental needs:</h4>
-	<p>This plant thrives in <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/gauging-light/">4-6 hours of indirect sunlight</a>, but can also grow in 2-4 hours of direct sunlight. Plants do best in moist, <a href="/page-index/horticulture-techniques/soil/">loamy soil</a> at least 10cm deep, making them suitable for <a href="/page-index/horticulture-techniques/planting-in-containers/">container gardening</a>, but they also do very well in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a>. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe.</p>
+	<p>This plant thrives in <a href="/page-index/horticulture-techniques/gauging-light/">4-6 hours of indirect sunlight</a>, but can also grow in 2-4 hours of direct sunlight. Plants do best in moist, <a href="/page-index/horticulture-techniques/soil/">loamy soil</a> at least 10cm deep, making them suitable for <a href="/page-index/horticulture-techniques/planting-in-containers/">container gardening</a>, but they also do very well in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a>. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe.</p>
 	<br>
 </section>
 
@@ -57,6 +57,6 @@ image: ""
 	<h4>Common problems &amp; solutions:</h4>
 	<p>This plant is relatively resistant to pests and disease if kept healthy.</p>
 	<p><a href="/page-index/plant-problems/wilting/">Wilting</a> leaves during hot weather is a sign of heat stress. Increase the number of times the plant is watered daily, and apply mulch at the base to prevent water loss.</p>
-	<p>This plant may get leggy as it grows older.  methods like <a href="/page-index/horticulture-techniques/pruning/">Hard prune</a> it to encourage bushier growth.</p>
+	<p>This plant may get leggy as it grows older. <a href="/page-index/horticulture-techniques/pruning/">Hard prune</a> it to encourage bushier growth.</p>
 	<br>
 </section>
