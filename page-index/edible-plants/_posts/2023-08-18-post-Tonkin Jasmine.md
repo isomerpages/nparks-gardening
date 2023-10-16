@@ -47,7 +47,7 @@ image: ""
 
 <section>
 	<h4>Propagation:</h4>
-	<p>This vine can be propagated via stem cuttings rooted in soil.</p>
+	<p>This vine can be propagated via <a href="/page-index/horticulture-techniques/propagating-by-cuttings/">stem cuttings</a> rooted in soil.</p>
 	<br>
 </section>
 
