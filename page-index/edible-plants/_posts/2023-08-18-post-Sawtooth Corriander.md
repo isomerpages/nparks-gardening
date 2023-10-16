@@ -52,7 +52,7 @@ image: ""
 
 <section>
 	<h4>Propagation:</h4>
-	<p>Sawtooth Coriander can be grown from <a href="/page-index/horticulture-techniques/prpagating-by-seeds/">seed</a> or propagated via <a href="/page-index/horticulture-techniques/propagating-by-division/">division</a>.</p>
+	<p>Sawtooth Coriander can be grown from <a href="/page-index/horticulture-techniques/propagating-by-seeds/">seed</a> or propagated via <a href="/page-index/horticulture-techniques/propagating-by-division/">division</a>.</p>
 	<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/wv-LZCwUArE" height="415" width="100%"></iframe><br>
 	<br>
 </section>
