@@ -19,18 +19,18 @@ image: ""
 	<img title="Photo by Jacqueline Chua." src="/images/Plants/Pumpkin_JacChua%20(1).jpg">
 	<p>Pumpkins are a popular fruit used for a variety of desserts, snacks and dishes in both Asian and Western cuisine. In addition to the ripe fruit, young shoots and mature seeds can also be eaten.</p>
 	<p>Most tropical pumpkin varieties are much smaller than their temperate counterparts. They can be yellow, orange, or dark green when ripe.</p>
-	<p>An annual crop, these plants are often grown in rotation with other fruiting climbers.</p>
-	<p>This plant is part of the Cucurbita or Melon family, which includes other popular edible fruits like Bitter Gourd, Winter melon, and Cucumber.</p>
+	<p>An <a href="/learn-more-about-gardening/glossary/#a/">annual</a> crop, these plants are often <a href="/page-index/horticulture-techniques/crop-rotation/">grown in rotation</a> with other fruiting climbers.</p>
+	<p>This plant is part of the Cucurbita or Melon family, which includes other popular edible fruits like <a href="/page-index/edible-plants/bitter-gourd/">Bitter Gourd</a>, <a href="/page-index/edible-plants/winter-melon/">Winter melon</a>, and <a href="/page-index/edible-plants/cucumber/">Cucumber</a>.</p>
 	<br>
 </section>
 
 <section>
 	<h4>Environmental needs:</h4>
 	<img title="Photo by Jacqueline Chua." src="/images/Plants/Pumpkin_JacChua%20(3).jpg">
-	<p>This vine does best in full sun gardens with a minimum of 6 hours of direct sunlight. This plant can also grow with 4-5 hours of direct sunlight and at least 6 hours of indirect sunlight, but will produce less fruits.</p>
-	<p>Plants do best in moist, well-drained soil at least 30cm deep, or in true ground. The plant can be grown in smaller pots about 20cm deep, but growth will be slower due to the lack of water retention in less soil and a smaller root ball.</p>
-	<p>This vine is vulnerable to heat stress during the dry season. Water it regularly and mulch the base to prevent water loss.</p>
-	<p>As a fast-growing vine, this plant can be grown on the ground or trained up a sturdy trellis. The fruits can get quite heavy if they are hanging off a trellis and can be supported with a cradle to prevent damage to the rest of the plant.</p>
+	<p>This vine does best in <a href="/page-index/horticulture-techniques/gauging-light/">full sun gardens with a minimum of 6 hours of direct sunlight</a>. This plant can also grow with 4-5 hours of direct sunlight and at least 6 hours of indirect sunlight, but will produce less fruits.</p>
+	<p>Plants do best in <a href="/page-index/horticulture-techniques/soil/">moist, well-drained soil</a> at least 30cm deep, or in <a href="/page-index/horticulture-techniques/tue-ground/">true ground</a>. The plant can be <a href="/page-index/horticulture-techniques/planting-in-containers/">grown in smaller pots</a> about 20cm deep, but growth will be slower due to the lack of water retention in less soil and a smaller root ball.</p>
+	<p>This vine is vulnerable to heat stress during the dry season. <a href="/page-index/horticulture-techniques/watering/">Water it regularly</a> and <a href="/page-index/horticulture-techniques/mulching/">mulch</a> the base to prevent water loss.</p>
+	<p>As a fast-growing vine, this plant can be grown on the ground or trained up a sturdy <a href="/page-index/hardscapes/trellises/">trellis</a>. The fruits can get quite heavy if they are hanging off a trellis and can be supported with a cradle to prevent damage to the rest of the plant.</p>
 	<img title="A Pearly banded Nomia pollinating a Pumpkin flower. photo by Victoria lim." src="/images/Biodiversity/pumpkin%20(1)_pollinator_victorialim.jpg">
 <p>As with all members of the melon family, this plant is bee pollinated and produces male and female flowers. To encourage the formation of more fruits, it is best to have at least 3 separate plants growing in the same area to have both male and female flowers available, and to have bee-attracting plants within the garden to encourage pollination. If your garden lacks bees, the plant can also be hand pollinated.</p>
 	<br>
