@@ -18,9 +18,9 @@ image: ""
 <section>
 	<img title="Photo by Jacqueline Chua." src="/images/Plants/SnakeGourd_JacChua.jpg">
 	<p>Snake Gourds are a long, sometimes twisted fruit that is used in a variety of Asian dishes. Eaten as an immature fruit, it can be stewed, fried, steamed or juiced.</p>
-	<p>The fruit can readily grow up to 1-2m in length. Immature fruits have white and green streaks, with mature fruit turning bright orange and red with bright red seeds.
-	</p><p>An annual crop, these plants are often grown in rotation with other fruiting climbers.</p>
-	<p>This plant is part of the Cucurbita or Melon family, which includes other popular edible fruits like Cucumber, Winter melon, and Pumpkin.</p>
+	<p>The fruit can readily grow up to 1-2m in length. Immature fruits have white and green streaks, with mature fruit turning bright orange and red with bright red seeds.</p>
+	<p>An <a href="/learn-more-about-gardening/glossary/#a">annual</a> crop, these plants are often <a href="/page-index/horticulture-techniques/crop-rotation">grown in rotation</a> with other fruiting climbers.</p>
+	<p>This plant is part of the Cucurbita or Melon family, which includes other popular edible fruits like <a href="/page-index/edible-plants/cucumber/">Cucumber</a>, <a href="/page-index/edible-plants/winter-melon/">Winter melon</a>, and <a href="/page-index/edible-plants/pumpkin/">Pumpkin</a>.</p>
 	<br>
 </section>
 
