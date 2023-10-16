@@ -18,16 +18,16 @@ image: ""
 <section>
 	<img title="Photo by Zara Chin." src="/images/Plants/watermelon_zara_chin.jpg">
 	<p>Watermelons are popular fruits typically eaten raw, but they are also added to juices and desserts. There are many cultivars with flesh ranging from classic red to yellow and can grow to a variety of sizes.</p>
-	<p>An <a href="/learn-more-about-gardening/glossary/#a/">annual</a> crop, these plants are often grown in rotation with other fruiting climbers.</p>
-	<p>This plant is part of the Cucurbita or Melon family, which includes other popular edible fruits like Bitter Gourd, Winter melon, and Pumpkin.</p>
+	<p>An <a href="/learn-more-about-gardening/glossary/#a/">annual</a> crop, these plants are often <a href="/page-index/horticulture-techniques/crop-rotation/">grown in rotation</a> with other fruiting climbers.</p>
+	<p>This plant is part of the Cucurbita or Melon family, which includes other popular edible fruits like <a href="/page-index/edible-plants/bitter-gourd/">Bitter Gourd</a>, <a href="/page-index/edible-plants/winter-melon/">Winter melon</a>, and <a href="/page-index/edible-plants/pumpkin/">Pumpkin</a>.</p>
 	<br>
 </section>
 
 <section>
 	<h4>Environmental needs:</h4>
 	<p>This vine does best in full sun gardens with <a href="/page-index/horticulture-techniques/gauging-light/">a minimum of 6 hours of sunlight</a>. It can also be grown in areas with at least 6 hours of indirect sunlight but will produce less and smaller fruit.</p>
-	<p>Plants do best in moist, well-drained soil at least 30cm deep, or in true ground. The plant can be grown in smaller pots about 20cm deep, but growth will be slower due to the lack of water retention in less soil and a smaller root ball.</p>
-	<p>As a fast-growing vine, this plant needs space to scramble on the ground or a sturdy trellis to scramble on.</p>
+	<p>Plants do best in <a href="/page-index/horticulture-techniques/soil/">moist, well-drained soil</a> at least 30cm deep, or in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a>. The plant can be <a href="/page-index/horticulture-techniques/planting-in-containers/">grown in smaller pots</a> about 20cm deep, but growth will be slower due to the lack of water retention in less soil and a smaller root ball.</p>
+	<p>As a fast-growing vine, this plant needs space to scramble on the ground or a sturdy <a href="/page-index/hardscapes/trellises/">trellis</a> to scramble on.</p>
 	<p>Fruits are heavy and are vulnerable to rot if left in direct contact with the ground. Fruits can be protected from rotting be being placed on well-draining waterproof materials like burlap sacks or on small, elevated platforms. Fruits growing on trellises should be supported with a cradle to prevent the vine from snapping.</p>
 	<iframe width="100%" height="415" src="https://www.youtube.com/embed/SUQGxxAAcNs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
 	<p>As with all members of the melon family, this plant is bee pollinated and produces male and female flowers. To encourage the formation of more fruits, it is best to have at least 3 separate plants growing in the same area to have both male and female flowers available, and to have bee-attracting plants within the garden to encourage pollination. If your garden lacks bees, the plant can also be hand pollinated.</p>
