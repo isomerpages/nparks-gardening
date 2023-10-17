@@ -72,7 +72,7 @@ Having drainage holes at the bottom of your container will prevent this. Drainag
 <section>
 	<h4>Refreshing your container soil</h4>
 	<img title="Pots with refreshed soil for reotting. Photo by Jacqueline Chua." src="/images/Hardscapes/ContainerGardening_JacChua%20(1).jpg">
-	<p>Container soil can become compacted and nutrient-poor after some time. It is a good practice to refresh your soil at least once a year. Old container soil can be refreshed by breaking it up and adding 2 parts <a href="/page-index/horticulture-techniques/soil-amendments/">compost or cocopeat</a> to 1 part old container soil to keep it soft, and maintain good drainage. Adding some slow-release <a href="/page-index/horticulture-techniques/fertilising/">fertiliser</a> will help to replenish nutrients, and encourage new roots to settle in. It is best practice to repot potted plants once a year with new or refreshed soil to keep the plant growing.</p>
+	<p>Container soil can become compacted and nutrient-poor after some time. It is a good practice to refresh your soil at least once a year. Old container soil can be refreshed by breaking it up and adding 2 parts <a href="/page-index/horticulture-techniques/soil-amendments/">organic soil amendments</a> to 1 part old container soil to keep it soft, and maintain good drainage. Adding some slow-release <a href="/page-index/horticulture-techniques/fertilising/">fertiliser</a> will help to replenish nutrients, and encourage new roots to settle in. It is best practice to repot potted plants once a year with new or refreshed soil to keep the plant growing.</p>
 </section>
 	<br>
 	<section>
