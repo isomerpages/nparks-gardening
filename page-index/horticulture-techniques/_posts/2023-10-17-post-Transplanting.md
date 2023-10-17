@@ -23,7 +23,7 @@ image: ""
 				<img title="A tomato seedling ready for transplanting. Photo by Jacqueline Chua" src="/images/Horti%20techniques/tomatotransplanting%20(2)_jacquelinechua.jpg">
 			 <li>Gently remove the seedling or cutting from its container.</li>
 		<img title="Tomato seedlings with plenty of white, healthy roots. Photo by Jacqueline Chua." src="/images/Horti%20techniques/transplants_tomato%20(2)_jacquelinechua.jpg">
-		 <li>Check the health of your plant. Healthy seedlings and water-tooted cuttings have white roots. If any roots are dark, soft and slimy, they are rotting. Cut off rotting roots before proceeding.</li>
+		 <li>Check the health of your plant. Healthy seedlings and water-rooted cuttings have white roots. If any roots are dark, soft and slimy, they are rotting. Cut off rotting roots before proceeding.</li>
 		<img title="A gardener digging a hole in the larger pot to plant a tomato seedling. Photo by Jacqueline Chua." src="/images/Horti%20techniques/transplants_tomato%20(3)_jacquelinechua.jpg">
 		<li>Dig a hole in the soil deep enough to cover the roots of your seedling or cutting.</li>
 					<img title="A gardener gently pushing down on the soil around a seedling to keep it upright. Photo by Jacqueline Chua." src="/images/Horti%20techniques/transplants_tomato%20(1)_jacquelinechua.jpg">
