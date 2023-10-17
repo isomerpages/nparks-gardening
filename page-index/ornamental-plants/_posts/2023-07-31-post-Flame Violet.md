@@ -30,19 +30,19 @@ image: ""
 
 <section> 
   <h4>Growing:</h4> 
-	<p>Regular application of a dilute fertiliser with a higher Phosphorous and Potassium content will help encourage flowering. Water when the surface of the soil is dry. Take care to water directly onto the soil or do bottom-up watering as water on the leaves causes rot. Make sure that your Flame Violets get enough bright, indirect light to encourage flowering. Avoid direct sun as it may burn its leaves. Ensure that the Flame Violet are placed in an area that has high humidity. As with all potted plants, regular repotting once a year will prevent it from becoming root bound.</p> 
+	<p>Regular application of <a href="/page-index/horticulture-techniques/fertilising/">a dilute fertiliser with a higher Phosphorous and Potassium content</a> will help encourage flowering. Water when the surface of the soil is dry. Take care to water directly onto the soil or do <a href="/page-index/horticulture-techniques/bottom-watering/">bottom-up watering</a> as water on the leaves causes rot. Make sure that your Flame Violets get enough bright, indirect light to encourage flowering. Avoid direct sun as it may <a href="/page-index/plant-problems/sunburn/">burn</a> its leaves. Ensure that the Flame Violet are placed in an area that has high humidity. As with all potted plants, regular repotting once a year will prevent it from becoming root bound.</p> 
 	<br> 
 </section> 
 
 <section> 
   <h4>Propagation:</h4> 
-		<p>Flame Violets can be propagated by stem cuttings or plantlets.</p> 
+	<p>Flame Violets can be propagated by <a href="/page-index/horticulture-techniques/propagating-by-cuttings/">stem cuttings</a> or <a href="/page-index/horticulture-techniques/propagating-by-division/">plantlets</a>.</p> 
 	<br> 
 </section> 
  
 <section> 
   <h4>Common problems &amp; solutions:</h4> 
-		<p>Aphids, mealy bugs, and spider mites often infest the plant if it is sickly or overgrown. Prune off the infested parts, or apply horticultural oils like neem oil and white summer oil to suffocate the remaining pests. Regularly prune the plant to allow light and air to reach throughout the plant, and check the plant for underlying problems like root rot, lack of sunlight, and nutrient deficiencies.</p>
-		<p>Fungal leafspots, stem blights and root rotting can occur when the plant is overwatered. Water only when the surface of the soil is dry.</p>
+	<p><a href="/page-index/pests/aphids/">Aphids</a>, <a href="/page-index/pests/mealy-bugs/">mealy bugs</a>, and <a href="/page-index/pests/spider-mites/">spider mites</a> often infest the plant if it is sickly or overgrown. Prune off the infested parts, or apply horticultural oils like neem oil and white summer oil to suffocate the remaining pests. <a href="/page-index/horticulture-techniques/pruning/">Regularly prune</a> the plant to allow light and air to reach throughout the plant, and check the plant for underlying problems like <a href="/page-index/plant-problems/root-rot/">root rot</a>, lack of sunlight, and <a href="/page-index/horticulture-techniques/nutrient-deficiencies/">nutrient deficiencies</a>.</p>
+	<p>Fungal leafspots, stem blights and root rotting can occur when the plant is <a href="/page-index/horticulture-techniques/watering/">overwatered</a>. Water only when the surface of the soil is dry.</p>
 	<br> 
 </section>
