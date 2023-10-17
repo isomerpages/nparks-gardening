@@ -36,7 +36,7 @@ image: ""
 
 <section>
 	<h4>Division aftercare</h4>
-	<img src="/images/Hardscapes/ContainerGardening_JacChua%20(3).jpg">
+	<img title="Lemongrass divisions establishing in their new pots. Photo by Jacqueline Chua." src="/images/Hardscapes/ContainerGardening_JacChua%20(3).jpg">
 	<p>Propagated plants will be delicate after division, and are vulnerable to heat stress as they need to grow new roots. Keep them in a sheltered propagation area and water them regularly for up to two weeks to help them grow new roots before planting them in areas exposed to the weather.</p>
 	<br>
 </section>
