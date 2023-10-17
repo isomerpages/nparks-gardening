@@ -17,14 +17,14 @@ image: ""
  
 <section>
 	<img title="A brazilian Tea bush. Photo by Jacqueline Chua." src="/images/Plants/brazilliantea_jacquelinechua.jpg">
-	<p>Brazilian Tea plants are hard hardy free-flowering shrubs that are commonly seen in rewilding areas, nature parks, in roadside gardens, and biodiversity-attracting gardens. The flowers are highly attractive to bees, butterflies, and birds.</p>
-	<p>A perennial shrub, Brazilian Tea plants are useful as biodiversity-attracting plants and perimeter plants to add a pop of colour to any garden.</p>
+	<p>Brazilian Tea plants are hard hardy <a href="/learn-more-about-gardening/glossary/#f/">free-flowering</a> shrubs that are commonly seen in rewilding areas, nature parks, in roadside gardens, and biodiversity-attracting gardens. The flowers are highly attractive to bees, butterflies, and birds.</p>
+	<p>A <a href="/learn-more-about-gardening/glossary/#p/">perennial</a> shrub, Brazilian Tea plants are useful as <a href="/page-index/glossary/biodiversity-attracting-plants/">biodiversity-attracting plants</a> and perimeter plants to add a pop of colour to any garden.</p>
 	 <br> 
 </section> 
  
 <section> 
   <h4>Environmental needs:</h4> 
-    	<p>This plant thrives in 4-8 hours of direct or indirect sunlight. Plants do best in moist, well-drained soil at least 30cm deep. This makes them suitable for growing in true ground or large pots.</p> 
+   <p>This plant thrives in <a href="/page-index/horticulture-techniques/gauging-light/">4-8 hours of direct or indirect sunlight</a>. Plants do best in <a href="/page-index/horticulture-techniques/soil/">moist, well-drained soil</a> at least 30cm deep. This makes them suitable for growing in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a> or large pots.</p> 
 	<br>
 </section>
 
