@@ -31,19 +31,19 @@ image: ""
 
 <section> 
   <h4>Growing:</h4> 
-	<p>Lots of direct sunlight and regular pruning will encourage a bushier growth. These plants do not need to be fertilised frequently; a balanced slow-releasing fertiliser given once a quarter will be sufficient.</p> 
+	<p>Lots of direct sunlight and <a href="/page-index/horticulture-techniques/pruning/">regular pruning</a> will encourage a bushier growth. These plants do not need to be fertilised frequently; <a href="/page-index/horticulture-techniques/fertilising/">a balanced slow-releasing fertiliser</a> given once a quarter will be sufficient.</p> 
 	<br> 
 </section> 
 
 <section> 
   <h4>Propagation:</h4> 
-		<p>The Elephant Bush can be grown from stem cuttings rooted in soil.</p> 
+	<p>The Elephant Bush can be grown from <a href="/page-index/horticulture-techniques/propagating-by-cuttings/">stem cuttings</a> rooted in soil.</p> 
 	<br> 
 </section> 
  
 <section> 
   <h4>Common problems &amp; solutions:</h4> 
-		<p>Elephant Bush plants are usually quite resistant to pests if kept healthy.</p>
-		<p>Mealy bugs often infest the plant if it is sickly or overgrown. Prune off the infested parts, or apply horticultural oils like neem oil and white summer oil to suffocate the remaining pests. Regularly prune the plant to allow light and air to reach throughout the plant, and check the plant for underlying problems like root rot, lack of sunlight, and nutrient deficiencies.</p>
+	<p>Elephant Bush plants are usually quite resistant to pests if kept healthy.</p>
+	<p><a href="/page-index/pests/mealy-bugs/">Mealy bugs</a> often infest the plant if it is sickly or overgrown. Prune off the infested parts, or apply horticultural oils like neem oil and white summer oil to suffocate the remaining pests. <a href="/page-index/horticulture-techniques/pruning/">Regularly prune</a> the plant to allow light and air to reach throughout the plant, and check the plant for underlying problems like <a href="/page-index/plant-problems/root-rot/">root rot</a>, lack of sunlight, and <a href="/page-index/horticulture-techniques/nutrient-deficiencies/">nutrient deficiencies</a>.</p>
 	<br> 
 </section>
