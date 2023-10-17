@@ -36,13 +36,13 @@ image: ""
 
 <section> 
   <h4>Propagation:</h4> 
-		<p>Brazilian Tea plants can be grown from <a href="/page-index/horticulture-techniques/propagating-by-seed/">seed</a> or <a href="/page-index/horticulture-techniques/propagating-by-cuttings/">stem cuttings</a> rooted in water or soil.</p> 
+	<p>Brazilian Tea plants can be grown from <a href="/page-index/horticulture-techniques/propagating-by-seed/">seed</a> or <a href="/page-index/horticulture-techniques/propagating-by-cuttings/">stem cuttings</a> rooted in water or soil.</p> 
 	<br> 
 </section> 
  
 <section> 
   <h4>Common problems &amp; solutions:</h4> 
-		<p>This plant is relatively resistant to pests and disease if kept healthy.</p>
-		<p>This plant can be considered weedy if left unmanaged. <a href="/page-index/horticulture-techniques/pruning/">Regularly prune</a> the plant to maintain its size and remove accidental seedlings if found.</p>
+	<p>This plant is relatively resistant to pests and disease if kept healthy.</p>
+	<p>This plant can be considered weedy if left unmanaged. <a href="/page-index/horticulture-techniques/pruning/">Regularly prune</a> the plant to maintain its size and remove accidental seedlings if found.</p>
 	<br> 
 </section>
