@@ -58,7 +58,7 @@ image: ""
 </section>
 <section>
 	<h4>Chemical control for edible plants</h4>
-	<p>To keep your edible plants <a href="/page-index/horticulture-techniques/harvesting-hygiene/">safe for consumption</a>, it is best to use pesticides made from food-safe materials. As an extra precaution, harvest your crops at least two weeks after the last application of chemical controls to make sure none of the chemicals are left on the plant. Some crop-safe examples of chemical controls are:</p>
+	<p>To keep your edible plants <a href="/page-index/horticulture-techniques/harvesting-hygiene/">safe for consumption</a>, it is best to use pesticides made from food-safe materials. As an extra precaution, harvest your crops at least a week after the last application of chemical controls to make sure none of the chemicals are left on the plant. Some crop-safe examples of chemical controls are:</p>
 	<ul class="jekyllcodex_accordion">
 	<li><input type="checkbox" id="accordion1">
 		<label for="accordion1">Baking soda spray: for fungi, powdery mildew, and sooty mould </label><div>
@@ -74,7 +74,7 @@ image: ""
 		</div></li>
 	<li><input type="checkbox" id="accordion4">
 		<label for="accordion4">Garlic, onion and chilli spray: for most large insects and rodents</label><div>
-	<p><b>Garlic, onion and chilli spray</b> is made from chopping up two chillies, two onions, and two bulbs of garlic, then steeping them in 1L of water for at least 24 hours. The solution can then be sieved and kept for a maximum of two weeks, after which it loses its effect. Compounds in garlic, onions and chillies will repel thrips, rodents, and <a href="/page-index/pests/caterpillars/">caterpillars</a>. This solution can be used as a preventative spray in moderation.</p>
+	<p><b>Garlic, onion and chilli spray</b> is made from chopping up two chillies, two onions, and two bulbs of garlic, then steeping them in 1L of water for at least 24 hours. The solution can then be sieved and kept for a maximum of two weeks, after which it loses its effect. Compounds in garlic, onions and chillies will repel thrips, <a href="/page-index/pests/pests/#rodents">rodents</a>, and <a href="/page-index/pests/caterpillars/">caterpillars</a>. This solution can be used as a preventative spray in moderation.</p>
 		</div></li>
 		</ul>
 <br>
