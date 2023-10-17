@@ -17,14 +17,14 @@ image: ""
  
 <section>
 	<img title="Rose Myrtle flowers. Photo by Victoria Lim." src="/images/Plants/rosemyrtle%20(2)_victorialim.jpg">
-	<p>Rose Myrtles are a hardy free-flowering shrub that is commonly seen in rewilding areas, nature parks, in roadside gardens, and biodiversity-attracting gardens. The flowers are highly attractive to bees, while the fruits attract birds and small mammals. The fruits can also be made into jam. This plant is native to Singapore and is naturally found growing along river banks and secondary forests.</p>
-	<p>A perennial shrub, Rose Myrtles are useful as biodiversity-attracting plants and perimeter plants to add a pop of colour to any garden.</p>
-	 <br> 
+	<p>Rose Myrtles are a hardy <a href="/learn-more-about-gardening/glossary/#f">free-flowering</a> shrub that is commonly seen in rewilding areas, nature parks, in roadside gardens, and biodiversity-attracting gardens. The flowers are highly attractive to bees, while the fruits attract birds and small mammals. The fruits can also be made into jam. This plant is <a href="/page-index/glossary/native-plants/">native</a> to Singapore and is naturally found growing along river banks and secondary forests.</p>
+	<p>A <a href="/learn-more-about-gardening/glossary/#p/">perennial</a> shrub, Rose Myrtles are useful as <a href="/page-index/glossary/biodiversity-attracting-plants/">biodiversity-attracting plants</a> and perimeter plants to add a pop of colour to any garden.</p>
+	<br> 
 </section> 
  
 <section> 
   <h4>Environmental needs:</h4> 
-    	<p>This plant thrives in more than 4 hours of direct sunlight. Plants do best in moist, well-drained soil. These plants are vulnerable to root rot, so ensure that your soil has plenty of organic matter to let the roots breathe. This plant is also highly drought tolerant, making it suitable for exposed gardens like on rooftops.</p> 
+   <p>This plant thrives in more than 4 hours of direct sunlight. Plants do best in moist, well-drained soil. These plants are vulnerable to root rot, so ensure that your soil has plenty of organic matter to let the roots breathe. This plant is also highly drought tolerant, making it suitable for exposed gardens like on rooftops.</p> 
 	<br>
 </section>
 
