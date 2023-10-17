@@ -31,19 +31,19 @@ image: ""
 
 <section> 
   <h4>Growing:</h4> 
-	<p>Coral Vines are rapid growers and generally does not need fertilizing. The vine can rapidly grow up to 12m in height if it has a high enough trellis and will need to be pruned regularly. Regular pruning to promote airflow will keep the plant healthy and neat. The plant tends to flower towards the top, so regular pruning will encourage it to flower more uniformly.</p> 
+	<p>Coral Vines are rapid growers and generally does not need fertilizing. The vine can rapidly grow up to 12m in height if it has a high enough trellis and will need to be pruned regularly. <a href="/page-index/horticulture-techniques/pruning/">Regular pruning</a> to promote airflow will keep the plant healthy and neat. The plant tends to flower towards the top, so regular pruning will encourage it to flower more uniformly.</p> 
 	<br> 
 </section> 
 
 <section> 
   <h4>Propagation:</h4> 
-	<p>Coral Vines can be grown from seed or stem cuttings in water or soil.</p> 
+	<p>Coral Vines can be grown from <a href="/page-index/horticulture-techniques/propagating-by-seed/">seed</a> or <a href="/page-index/horticulture-techniques/propagating-by-cuttings/">stem cuttings</a> in water or soil.</p> 
 	<br> 
 </section> 
  
 <section> 
   <h4>Common problems &amp; solutions:</h4> 
 	<p>This plant is relatively resistant to pests and disease if kept healthy.</p>
-	<p>If the plant does not receive enough light, it will stop producing flowers. Prune surrounding plants or move the plant to a sunnier spot to promote flower growth.</p>
+	<p>If the plant does not receive enough light, it will stop producing flowers. <a href="/page-index/horticulture-techniques/pruning/">Prune</a> surrounding plants or move the plant to a sunnier spot to promote flower growth.</p>
 	<br> 
 </section>
