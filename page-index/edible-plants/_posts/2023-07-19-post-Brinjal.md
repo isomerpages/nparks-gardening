@@ -54,6 +54,7 @@ image: ""
 	<img title="Community Gardeners with greshly harvested Brinjal fruits. Photo by Jacqueline Chua." src="/images/Gardeners/Harvesting%20(5).jpg">
 	<p>Plants can be <a href="/page-index/horticulture-techniques/harvesting-hygiene/">harvested</a> for fruits around 3 months after sowing. The best time to harvest the fruit is in the early morning, before 9am.</p>
 	<p>Eggplants are generally eaten when they are immature. Immature fruits should be picked when they are glossy, and have a soft, spongy texture.</p>
+	<img title="A mature eggplant that can be harvested for seeds, but is too bitter to be eaten. Photo by Jacqueline Chua." src="/images/Plants/eggplantmature_jacquelinechua.jpg">
 	<p>Ripe fruits are usually a dull brown or yellow, and will rapidly become soft and wrinkly. Ripe fruit should not be eaten, but can be harvested for seeds to be used for immediate planting. </p>
 	<br>
 </section>
@@ -92,6 +93,7 @@ image: ""
 
 <section>
 	<h4>Common problems &amp; solutions:</h4>
+	<img title="A brinjal fruit attacked by fruit flies. Photo by Jacqueline Chua." src="/images/Biodiversity/eggplant_fruitfly_jacquelinechua.jpg">
 	<p>If your plant has little to no flowers, you try fertilising the plant with <a href="/page-index/horticulture-techniques/fertilising/">fertilisers high in Phosphorus and Potassium</a>. These nutrients encourage root and flower growth, which are important for the plant to produce more fruit.</p>
 <p>Many plants require <a href="/page-index/biodiversity/pollinators/">pollinators</a> to help them fruit. Bees, butterflies, birds and even beetles transport pollen from one flower to another, pollinating your crops and increasing their fruit yield. Attract some pollinators to your garden by growing <a href="/page-index/glossary/biodiversity-attracting-plants/">pollinator-attracting plants</a>.</p>
 <p><a href="/page-index/pests/ahpids">Aphids</a>, <a href="/page-index/pests/mealy-bugs">mealy bugs</a>, and <a href="/page-index/pests/scale-insects/">scale insects</a> often infest the plant if it is <a href="/page-index/plant-problems/waterlogging/">waterlogged</a>, <a href="/page-index/plant-problems/wilting/">wilted from heat stress</a>, or is <a href="/page-index/horticulture-techniques/watering/">inconsistently watered</a>. <a href="/horticulture-techniques/pest-control/">Mechanical pest control</a> methods like <a href="/page-index/horticulture-techniques/pruning/">pruning</a> the infested parts are the best methods for managing these pests.</p>
