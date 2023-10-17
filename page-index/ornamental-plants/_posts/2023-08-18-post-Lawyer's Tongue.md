@@ -13,7 +13,7 @@ image: ""
 <section>
 	<img title="Photo by Flora and Fauna Web." src="/images/Plants/lawyerstongue_ffw.jfif">
 	<p>Lawyer’s Tongue is a unique-looking succulent with leaves they look like they are layered upon one another like a fan. It is usually kept as a small plant less than 20cm tall, but can get up to 50cm tall if it is kept in a large enough pot.</p>
-	<p>A perennial, succulent shrub, Lawyer’s Tongue make good additions to container gardening or in a succulent dish arrangement.</p>
+	<p>A <a href="/learn-more-about-gardening/glossary/#p">perennial</a>, succulent shrub, Lawyer’s Tongue make good additions to container gardening or in a succulent dish arrangement.</p>
 	 <br> 
 </section> 
  
