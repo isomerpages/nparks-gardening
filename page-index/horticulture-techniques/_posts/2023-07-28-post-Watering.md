@@ -8,7 +8,7 @@ image: ""
 ---
 <section>
 	<img title="A Community Gardener watering plants with a hose. Photo by Jacqueline Chua." src="/images/Gardeners/Kampung%20Admiralty%20(4).jpg">
-	<p>Water is essential for plant growth. However, the species of plant, the kind of soil and the surrounding environment will affect how your plant takes up water. Both overwatered and underwatered plants will show signs of <a href="/page-index/plant-problems/wilting/">wilting</a>, but for very different reasons. </p>
+	<p>Water is essential for plant growth. However, the species of plant, the <a href="/page-index/horticulture-techniques/soil/">kind of soil</a> and the surrounding environment will affect how your plant takes up water. Both overwatered and underwatered plants will show signs of <a href="/page-index/plant-problems/wilting/">wilting</a>, but for very different reasons. </p>
 	<br>
 </section>
 
