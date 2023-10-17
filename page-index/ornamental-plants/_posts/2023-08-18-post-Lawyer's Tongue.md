@@ -25,20 +25,20 @@ image: ""
 
 <section> 
   <h4>Growing:</h4> 
-	<p>Lawyer’s Tongue does not need frequent fertilising. A balanced slow releasing fertiliser every few months would be sufficient for steady growth. Ensure that there is good airflow to dry out the soil before watering again.</p> 
+	<p>Lawyer’s Tongue does not need frequent fertilising. <a href="/page-index/horticulture-techniques/fertilising/">A balanced slow releasing fertiliser</a> every few months would be sufficient for steady growth. Ensure that there is good airflow to dry out the soil before watering again.</p> 
 	<br> 
 </section> 
 
 <section> 
   <h4>Propagation:</h4> 
-	<p>Lawyer’s Tongue can be grown from leaf cuttings or by dividing the offshoots.</p> 
+	<p>Lawyer’s Tongue can be grown from<a href="/page-index/horticulture-techniques/propagating-by-cuttings/">leaf cuttings</a> or by <a href="/page-index/horticulture-techniques/propagating-by-division/">dividing the offshoots</a>.</p> 
 	<br> 
 </section> 
  
 <section> 
   <h4>Common problems &amp; solutions:</h4> 
 	<p>This plant is largely resistant to most pests.</p>
-	<p>This plant is susceptible to root rot if grown in waterlogged soil. To prevent rot, allow the plant to dry out between waterings and ensure that there is enough air circulation.</p>
-	<p>Mealy bugs may infest the plant if it is sickly or overgrown. Prune off the infested parts, or apply horticultural oils like neem oil and white summer oil to suffocate the remaining pests. Regularly prune the plant to allow light and air to reach throughout the plant, and check the plant for underlying problems like root rot, lack of sunlight, and nutrient deficiencies.</p>
+	<p>This plant is susceptible to <a href="/page-index/plant-problems/root-rot/">root rot</a> if grown in <a href="/page-index/plant-problems/waterlogging/">waterlogged soil</a>. To prevent rot, allow the plant to dry out between waterings and ensure that there is enough air circulation.</p>
+	<p><a href="/page-index/pests/mealy-bugs/">Mealy bugs</a> may infest the plant if it is sickly or overgrown. Prune off the infested parts, or apply horticultural oils like neem oil and white summer oil to suffocate the remaining pests. <a href="/page-index/horticulture-techniques/pruning/">Regularly prune</a> the plant to allow light and air to reach throughout the plant, and check the plant for underlying problems like root rot, lack of sunlight, and <a href="/page-index/horticulture-techniques/nutrient-deficiencies/">nutrient deficiencies</a>.</p>
 	<br> 
 </section>
