@@ -17,33 +17,33 @@ image: ""
  
 <section>
 	<img title="Photo by Flora and Fauna Web." src="/images/Plants/lipstickplant_ffw.jfif">
-	<p>Lipstick plants are a hardy free-flowering epiphyte that is commonly seen growing on larger trees in rewilding areas, nature parks, in roadside gardens, and biodiversity-attracting gardens. The flowers are highly attractive to butterflies and birds. This plant is also native to Singapore and is naturally found growing along lowland dipterocarp forests and peat swamp forests.</p>
-	<p>This perennial plant is suitable for hanging baskets and can be grown as an indoor plant.</p>
+	<p>Lipstick plants are a hardy <a href="/learn-more-about-gardening/glossary/#f">free-flowering</a> epiphyte that is commonly seen growing on larger trees in rewilding areas, nature parks, in roadside gardens, and biodiversity-attracting gardens. The flowers are highly attractive to butterflies and birds. This plant is also <a href="/page-index/glossary/native-plants/">native</a> to Singapore and is naturally found growing along lowland dipterocarp forests and peat swamp forests.</p>
+	<p>This <a href="/learn-more-about-gardening/glossary/#p">perennial</a> plant is suitable for hanging baskets and can be grown as an indoor plant.</p>
 	 <br> 
 </section> 
  
 <section> 
   <h4>Environmental needs:</h4> 
-  <p>This plant thrives in less than 4 hours of direct sunlight or 4-8 hours of indirect sunlight. Plants do best in loamy soil mixed with chunky organic soil amendments like cococoir. These plants are vulnerable to root rot, so ensure that your soil has plenty of organic matter and grit to let the roots breathe.</p>
-	<p>This plant is highly drought tolerant but will not survive waterlogging. It is best to let the soil dry out before misting or watering.</p> 
+  <p>This plant thrives in <a href="/page-index/horticulture-techniques/gauging-light/">less than 4 hours of direct sunlight or 4-8 hours of indirect sunlight</a>. Plants do best in <a href="/page-index/horticulture-techniques/soil/">loamy soil mixed with chunky organic soil amendments like cococoir</a>. These plants are vulnerable to <a href="/page-index/plant-problems/root-rot/">root rot</a>, so ensure that your soil has plenty of <a href="/page-index/horticulture-techniques/soil-amendments/">organic matter</a> and grit to let the roots breathe.</p>
+	<p>This plant is highly drought tolerant but will not survive <a href="/page-index/plant-problems/waterlogging/">waterlogging</a>. It is best to let the soil dry out before misting or watering.</p> 
 	<br>
 </section>
 
 <section> 
   <h4>Growing:</h4> 
-	<p>Lipstick plants are steady growers and generally does not need fertilizing. Regular pruning will promote bushiness and flowering, and will keep the plant healthy and neat. </p> 
+	<p>Lipstick plants are steady growers and generally does not need fertilizing. <a href="/page-index/horticulture-techniques/pruning/">Regular pruning</a> will promote bushiness and flowering, and will keep the plant healthy and neat. </p> 
 	<br> 
 </section> 
 
 <section> 
   <h4>Propagation:</h4> 
-	<p>Lipstick plants can be grown from woody cuttings with rooting hormone.</p> 
+	<p>Lipstick plants can be grown from <a href="/page-index/horticulture-techniques/propagating-by-cuttings/">woody cuttings</a> with rooting hormone.</p> 
 	<br> 
 </section> 
  
 <section> 
   <h4>Common problems &amp; solutions:</h4> 
 	<p>This plant is relatively resistant to pests and disease if kept healthy.</p>
-	<p>This plant is prone to burning if exposed to too much sunlight. Grow it in a shadier spot with indirect sunlight to prevent this.</p>
+	<p>This plant is prone to <a href="/page-index/plant-problems/sunburn/">burning</a> if exposed to too much sunlight. Grow it in a shadier spot with indirect sunlight to prevent this.</p>
 	<br> 
 </section>
