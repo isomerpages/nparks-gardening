@@ -18,20 +18,20 @@ image: ""
 <section>
 	<img title="Elephant bush leaves. Photo by Jacqueline Chua." src="/images/Plants/elephantsfood%20(2)_jacquelinechua.jpg">
 	<p>The Elephant Bush is a succulent shrub that grows up to 5m tall in the wild, but is usually kept to less than 20cm tall in cultivation. It has small and fleshy leaves with rounded edges that are oppositely arranged and reddish brown woody stems.</p>
-	<p>A perennial, succulent shrub, its ability to tolerate shallow soils makes it suitable to be grown in a variety of containers, and can be used for bonsai. It also comes in a variegated form, where the leaves are a light green with hues of white and pink.</p>
+	<p>A <a href="/learn-more-about-gardening/glossary/#p">perennial</a>, succulent shrub, its ability to tolerate shallow soils makes it suitable to be <a href="/page-index/horticulture-techniques/planting-in-containers/">grown in a variety of containers</a>, and can be used for bonsai. It also comes in a variegated form, where the leaves are a light green with hues of white and pink.</p>
 	 <br> 
 </section> 
  
 <section> 
   <h4>Environmental needs:</h4> 
 	<img title="Elephant bush growing in a pot. Photo by Jacqueline Chua." src="/images/Plants/elephantsfood%20(1)_jacquelinechua.jpg">
-    	<p>This plant thrives in grows best in at least 4 hours of direct sunlight. It can tolerate a minimum of 4 hours of indirect sunlight or 2-4 hours of direct sunlight, but may grow long and leggy. They do best in porous, well-drained soil and require moderate watering.</p> 
+  <p>This plant thrives in grows best in <a href="/page-index/horticulture-techniques/gauging-light/">at least 4 hours of direct sunlight</a>. It can tolerate a minimum of 4 hours of indirect sunlight or 2-4 hours of direct sunlight, but may grow long and leggy. They do best in <a href="/page-index/horticulture-techniques/soil/">porous, well-drained soil</a> and require moderate watering.</p> 
 	<br>
 </section>
 
 <section> 
   <h4>Growing:</h4> 
-		<p>Lots of direct sunlight and regular pruning will encourage a bushier growth. These plants do not need to be fertilised frequently; a balanced slow-releasing fertiliser given once a quarter will be sufficient.</p> 
+	<p>Lots of direct sunlight and regular pruning will encourage a bushier growth. These plants do not need to be fertilised frequently; a balanced slow-releasing fertiliser given once a quarter will be sufficient.</p> 
 	<br> 
 </section> 
 
