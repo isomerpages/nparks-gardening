@@ -8,7 +8,7 @@ image: ""
 ---
 <section>
 	<img title="Community Gardeners checking their plants for pests. Photo by Jacqueline Chua." src="/images/Gardeners/Pruning%20(1).jpg">
-	<p>As troublesome as pests are, they are a big part of nature and play important roles in our ecosystem. Embracing this idea, Integrated Pest Management (IPM) is a strategy that aims to keep plant pests’ population low, rather than eradicating them completely. This is done through a combination of techniques that is less harmful to the ecosystem, environmentally friendly and affordable.</p>
+	<p>As troublesome as pests are, they are a big part of nature and play important roles in our ecosystem. Embracing this idea, Integrated Pest Management (IPM) is a strategy that aims to keep plant pests’ population low, rather than eradicating them completely. This is done through a combination of techniques that is environmentally friendly and affordable.</p>
 	<iframe width="100%" height="415" src="https://www.youtube.com/embed/tb0N7ffgwGs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe><br>
 	<br>
 </section>
@@ -26,18 +26,17 @@ image: ""
 			</ul>
 		<li><strong>Monitor for pests</strong></li>
 			<ul>
-				<li>Check your garden regularly for plant pests, ideally whenever you visit the garden.</li>
+				<li><a href="/page-index/horticulture-techniques/finding-pests/">Check your garden regularly for plant pests</a>, ideally whenever you visit the garden.</li>
 				<li>Plants that are overgrown, with distorted or holey leaves, discoloration, damaged stems, or slow growth might be harbouring pests! Look for them wherever something looks amiss.</li>
-				<li>Not sure how to find pests? Learn how to <a href="/page-index/horticulture-techniques/finding-pests/">observe and trap pests</a> in your garden.</li>
 			</ul>
 		<li><strong>Tolerance</strong></li>
 			<ul>
 				<li>Strive for ecological balance rather than perfect aesthetics.</li>
-				<li>It is generally not possible to have a garden completely free of pests without also affecting beneficial biodiversity, like pollinators.</li>
+				<li>It is generally not possible to have a garden completely free of pests without also affecting beneficial biodiversity, like <a href="/page-index/biodiversity/pollinators/">pollinators</a>.</li>
 			</ul>
 		<li><strong>Prevention</strong></li>
 			<ul>
-				<li>The first line of pest control is to prevent the pest from becoming a threat.</li>
+				<li>The first line of pest control is to <a href="/page-index/horticulture-techniques/pest-control/">prevent the pest</a> from becoming a threat.</li>
 				<li>Keeping plants healthy, using hardscapes like netting, quarantining new plants, regular pest checks and general maintenance are good ways to prevent pests from taking over your garden. </li>
 			</ul>
 		<li><strong>Control</strong></li>
