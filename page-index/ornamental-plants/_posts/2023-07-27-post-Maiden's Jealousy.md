@@ -31,19 +31,19 @@ image: ""
 
 <section> 
   <h4>Growing:</h4> 
-		<p>Maiden’s Jealousy are rapid growers and generally does not need fertilizing. The vine can rapidly grow up to 10m in height if it has a high enough trellis and will need to be pruned regularly. <a href="/page-index/horticulture-techniques/pruning/">Regular pruning</a> to promote airflow will keep the plant healthy and neat.</p> 
+	<p>Maiden’s Jealousy are rapid growers and generally does not need fertilizing. The vine can rapidly grow up to 10m in height if it has a high enough trellis and will need to be pruned regularly. <a href="/page-index/horticulture-techniques/pruning/">Regular pruning</a> to promote airflow will keep the plant healthy and neat.</p> 
 	<br> 
 </section> 
 
 <section> 
   <h4>Propagation:</h4> 
-		<p>Maiden’s Jealousy can be grown from <a href="/page-index/horticulture-techniques/propagating-by-seed/">seed</a> or <a href="/page-index/horticulture-techniques/propagating-by-cuttings/">woody cuttings</a> with rooting hormone.</p> 
+	<p>Maiden’s Jealousy can be grown from <a href="/page-index/horticulture-techniques/propagating-by-seed/">seed</a> or <a href="/page-index/horticulture-techniques/propagating-by-cuttings/">woody cuttings</a> with rooting hormone.</p> 
 	<br> 
 </section> 
  
 <section> 
   <h4>Common problems &amp; solutions:</h4> 
-		<p>This plant is relatively resistant to pests and disease if kept healthy.</p>
-		<p>If the plant does not receive enough light, it will stop producing flowers. <a href="/page-index/horticulture-techniques/pruning/">Prune</a> surrounding plants or move the plant to a sunnier spot to promote flower growth.</p>
+	<p>This plant is relatively resistant to pests and disease if kept healthy.</p>
+	<p>If the plant does not receive enough light, it will stop producing flowers. <a href="/page-index/horticulture-techniques/pruning/">Prune</a> surrounding plants or move the plant to a sunnier spot to promote flower growth.</p>
 	<br> 
 </section>
