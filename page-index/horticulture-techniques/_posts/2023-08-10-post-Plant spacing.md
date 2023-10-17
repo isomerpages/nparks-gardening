@@ -15,15 +15,15 @@ image: ""
 <section>
 	<h4>How do I space my plants properly? </h4>
 	<img title="Lettuces spaced out in a planter bed. Photo by Jacqueline Chua." src="/images/Horti%20techniques/Spacing_JacChua%20(3).jpg">
-	<p>Space requirements for common garden plants are often found on the back of seeds and labels on pots in nurseries. They can also be found online and on our plant pages.</p>
+	<p>Space requirements for common garden plants are often found on the back of seeds and labels on pots in nurseries. They can also be found online and on our <a href="/learn-more-about-gardening/plants/">plant pages</a>.</p>
 	<p>A good visual rule of thumb for plant spacing is to plant so the tips of the leaves from one mature plant are 2-4 cm from the tips of the leaves of another plant. This usually can be estimated as:</p>
 	<ul>
-		<li>Around 5-10cm between seedlings for small leafy vegetables like Lettuce and Cai Xin</li>
-		<li>15-30cm for small shrubs like Thai Basil and Lady’s-Fingers</li>
-		<li>2 metres or more for small trees like Guava and Chiku</li>
+		<li>Around 5-10cm between seedlings for small leafy vegetables like <a href="/page-index/edible-plants/lettuce/">Lettuce</a> and <a href="/page-index/edible-plants/cai-xin/">Cai Xin</a></li>
+		<li>15-30cm for small shrubs like <a href="/page-index/edible-plants/thai-basil/">Thai Basil</a> and <a href="/page-index/edible-plants/ladys-fingers/">Lady’s-Fingers</a></li>
+		<li>2 metres or more for small trees like <a href="/page-index/edible-plants/guava/">Guava</a> and <a href="/page-index/edible-plants/chiku/">Chiku</a></li>
 	</ul>
 	<iframe width="100%" height="415" src="https://www.youtube.com/embed/f_Uoug7ZSeg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe><br>
-	<p>Measuring out your planting space and marking how many plants you can grow beforehand will make direct seed sowing or transplanting more straightforward. However, poor spacing can also be relatively fixed by thinning your plants for overcrowded areas, or interplanting for plants that are growing too far apart.</p>
+	<p>Measuring out your planting space and marking how many plants you can grow beforehand will make direct seed sowing or transplanting more straightforward. However, poor spacing can also be fixed by thinning your plants for overcrowded areas, or interplanting for plants that are growing too far apart.</p>
 	<br>
 </section>
 
@@ -32,12 +32,12 @@ image: ""
 	<img title="Xiao Bai Cai growing unevenly due to overcrowding. The smaller plants should be thinned out to allow the larger plant to reach its full size. Photo by Jacqueline Chua" src="/images/Plants/XiaoBaiCai_JacChua%20(2).jpg">
 	<p>Many gardeners tend to scatter their seeds haphazardly in their planting areas or put multiple seeds in a single seedling tray cell. This will cause <b>overcrowding</b> and force plants to compete for light, water, and soil nutrients available within a given area. This in turn leads to several problems, including:</p>
 	<ul>
-		<li>Etiolation</li> 
-		<li>The rapid spread of pests and disease</li>
+		<li><a href="/page-index/plant-problems/etiolation/">Etiolation</a></li> 
+			<li>The rapid spread of <a href="/page-index/pests/pests/">pests</a> and disease</li>
 		<li>Stunted growth</li>
 		<li>The death of less competitive plants</li>
 	</ul>
-	<p><b>Thinning</b> is the act of removing extra plants so that the remaining plants can grow to full size. This is best done at the seedling stage before transplanting, or just after germination. Vegetable gardeners who have sown too many seeds often thin out the weaker seedlings to be eaten as microgreens or transplant them elsewhere to fill gaps where other seedlings have died or been eaten by pests.</p>
+	<p><b>Thinning</b> is the act of removing extra plants so that the remaining plants can grow to full size. This is best done at the seedling stage before <a href="/page-index/horticulture-techniques/transplanting/">transplanting</a>, or just after germination. Vegetable gardeners who have sown too many seeds often thin out the weaker seedlings to be eaten as <a href="/page-index/horticulture-techniques/microgreens/">microgreens</a> or transplant them elsewhere to fill gaps where other seedlings have died or been eaten by pests.</p>
 	<br>
 </section>
 
@@ -52,6 +52,6 @@ image: ""
 		<li>Not maximising your garden space</li>
 	</ul>
 	<img title="A herb bed interplanted with differently sized plants to maximise space. Photo by Jacqueline Chua." src="/images/Garden%20design/LengKeeCC_JacChua%20(1).jpg">
-	<p><b>Interplanting</b> is the act of planting in between existing plants. Many edible gardeners will transplant in spare seedlings of the same plant, but growing companion plants in these gaps can also be considered to bring additional benefits to your garden, including improving soil fertility, attracting pollinators, and reducing soil erosion.</p>
+	<p><b>Interplanting</b> is the act of planting in between existing plants. Many edible gardeners will transplant in spare seedlings of the same plant, but growing <a href="/page-index/horticulture-techniques/companion-planting/">companion plants</a> in these gaps can also be considered to bring additional benefits to your garden, including improving soil fertility, attracting pollinators, and reducing soil erosion.</p>
 	<br>
 </section>
