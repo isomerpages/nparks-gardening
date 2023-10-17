@@ -37,7 +37,7 @@ image: ""
 	<li><input type="checkbox" id="accordion4">
 		<label for="accordion4">Burnt Rice Husks</label><div>
 		<img title="Burnt rice husks ground down to be used as a soil amendment. Photo by Victoria Lim" src="/images/Horti%20techniques/rice%20husk_victorialim.jpg">
-		<p><b>Burnt rice husks</b> are made from the husks of harvested rice, and then burnt until they are fine and powdery. They are a very light and well-draining material to mix into soil. They do however degrade rather quickly, and will need regular replacement. </p>
+		<p><b>Burnt rice husks</b> are made from the husks of harvested rice, and then burnt until they are fine and powdery. They are a very light and well-draining material to mix into soil. They do however degrade rather quickly, and will need regular replacement. Poor quality burnt rice husks may have oil coating it, and will need to be washed before use.</p>
 	</div></li>
 </ul>
 <br>
