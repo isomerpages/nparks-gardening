@@ -17,8 +17,8 @@ image: ""
  
 <section> 
 	<img title="The silvery leaves o a Satin pothos. Photo by Victoria Lim." src="/images/Plants/satinpothos_victorialim.jpg">
-	<p>Satin Pothos is a creeping shrub that can grow up to 12m long, and is native to Singapore. You can see them on trees in Bukit Timah Nature Reserve and Central Catchment Nature Reserve. Its mature leathery leaves are green with white speckles and can be lance or heart shaped. Its flowers are insect pollinated and its fruits are dispersed by birds.</p>
-	<p>A perennial plant, Satin Pothos are great for indoor gardens in semi shaded areas. Its attractive, white-spotted green leaves provide texture and colours to landscape designs.</p>
+	<p>Satin Pothos is a creeping shrub that can grow up to 12m long, and is <a href="/page-index/glossary/native-plants/">native</a> to Singapore. You can see them on trees in Bukit Timah Nature Reserve and Central Catchment Nature Reserve. Its mature leathery leaves are green with white speckles and can be lance or heart shaped. Its flowers are insect pollinated and its fruits are dispersed by birds.</p>
+	<p>A <a href="/learn-more-about-gardening/glossary/#p">perennial</a> plant, Satin Pothos are great for indoor gardens in semi shaded areas. Its attractive, white-spotted green leaves provide texture and colours to landscape designs.</p>
 	 <br> 
 </section> 
  
