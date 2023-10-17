@@ -42,7 +42,7 @@ image: ""
 <section>
 	<h4>What should you do after hard pruning?</h4>
 	<img src="/images/Gardeners/Fertilising.jpg">
-	<p>After a hard prune, the plants need some tender loving care. Ensure that the plant is well watered and fertilised. A layer of compost can be applied with some nitrogen-rich organic fertiliser to provide a boost of nutrients that the plant needs to grow back. Lastly, keep a close eye on the areas that you have cut back – this is to make sure that any early onset of infection or infestation can be caught early and treated.</p>
+	<p>After a hard prune, the plants need some tender loving care. Ensure that the plant is well <a href="/page-index/horticulture-techniques/watering/">watered</a> and <a href="/page-index/horticulture-techniques/fertilising/">fertilised</a>. A layer of <a href="/page-index/horticulture-techniques/composting/">compost</a> can be applied with some nitrogen-rich organic fertiliser to provide a boost of nutrients that the plant needs to grow back. Lastly, keep a close eye on the areas that you have cut back – this is to make sure that any early onset of infection or infestation can be caught early and treated.</p>
 	<br>
 </section>
 
