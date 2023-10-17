@@ -18,8 +18,8 @@ image: ""
 <section>
 	<img title="Devil's Ivy grown in pots. Photo by Jacqueline Chua." src="/images/Plants/devilsivy%20(3)_jacquelinechua.jpg">
 	<p>Devil’s Ivy is a  hardy climber that can grow up to 12m long in the wild, that has attractive yellow marble patterns on its leaves. The leaves of young plants are waxy, heart-shaped and green with yellow to white variegation.</p>
-	<p>A perennial plant, the Devil’s Ivy is staple in indoor gardens as it can grow in a wide variety of light conditions. Its climbing vines can be trained up moss poles or draped down from hanging pots. Take note that this plant is also capable of climbing up walls and other flat surfaces if the roots catch hold!</p>
-	 <br> 
+	<p>A <a href="/learn-more-about-gardening/glossary/#p">perennial</a> plant, the Devil’s Ivy is staple in indoor gardens as it can grow in a wide variety of light conditions. Its climbing vines can be trained up moss poles or draped down from hanging pots. Take note that this plant is also capable of climbing up walls and other flat surfaces if the roots catch hold!</p>
+	<br> 
 </section> 
  
 <section> 
