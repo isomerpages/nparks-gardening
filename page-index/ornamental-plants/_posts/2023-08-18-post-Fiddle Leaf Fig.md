@@ -32,19 +32,19 @@ image: ""
 <section> 
   <h4>Growing:</h4> 
 	<img title="Fiddle leaf figs being sold as small houseplants. Photo by Jacqueline Chua." src="/images/Plants/fiddleleaffig%20(6)_jacquelinechua.jpg">
-	<p>Fiddle Leaf Figs start off as a slow growing plant and prefers partial shade when young. Fertilising should only be done once a month with a dilute balanced liquid fertiliser. Pruning the growing tips or top of the plant when it is young will encourage branching. When pruning, be sure to wear gloves as the plant produces a milky, sticky sap which is mildly toxic and can irritate the skin. As with all potted plants, regular repotting once a year will prevent it from becoming root bound.</p> 
+	<p>Fiddle Leaf Figs start off as a slow growing plant and prefers partial shade when young. <a href="/page-index/horticulture-techniques/fertilising/">Fertilising</a> should only be done once a month with a dilute balanced liquid fertiliser. <a href="/page-index/horticulture-techniques/pruning/">Pruning</a> the growing tips or top of the plant when it is young will encourage branching. <b>When pruning, be sure to wear gloves as the plant produces a milky, sticky sap which is mildly toxic and can irritate the skin.</b> As with all potted plants, regular repotting once a year will prevent it from becoming root bound.</p> 
 	<br> 
 </section> 
 
 <section> 
   <h4>Propagation:</h4> 
-	<p>Fiddle Leaf Figs can be propagated by stem cuttings.</p> 
+	<p>Fiddle Leaf Figs can be propagated by <a href="/page-index/horticulture-techniques/propagating-by-cuttings/">stem cuttings</a>.</p> 
 	<br> 
 </section> 
  
 <section> 
   <h4>Common problems &amp; solutions:</h4> 
 	<p>This plant is relatively resistant to pests and disease if kept healthy.</p>
-	<p>Aphids, mealy bugs, and spider mites often infest the plant if it is sickly or overgrown. Prune off the infested parts, or apply horticultural oils like neem oil and white summer oil to suffocate the remaining pests. Regularly prune the plant to allow light and air to reach throughout the plant, and check the plant for underlying problems like root rot, lack of sunlight, and nutrient deficiencies.</p>
+	<p><a href="/page-index/pests/aphids/">Aphids</a>, <a href="/page-index/pests/mealy-bugs/">mealy bugs</a>, and <a href="/page-index/pests/spider-mites/">spider mites</a> often infest the plant if it is sickly or overgrown. Prune off the infested parts, or apply horticultural oils like neem oil and white summer oil to suffocate the remaining pests. <a href="/page-index/horticulture-techniques/pruning/">Regularly prune</a> the plant to allow light and air to reach throughout the plant, and check the plant for underlying problems like <a href="/page-index/plant-problems/root-rot/">root rot</a>, lack of sunlight, and <a href="/page-index/plant-problems/nutrient-deficiencies/">nutrient deficiencies</a>.</p>
 	<br> 
 </section>
