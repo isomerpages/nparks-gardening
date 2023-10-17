@@ -13,13 +13,13 @@ image: ""
 <section>
 	<img title="Photo by Flora and Fauna Web." src="/images/Plants/lawyerstongue_ffw.jfif">
 	<p>Lawyer’s Tongue is a unique-looking succulent with leaves they look like they are layered upon one another like a fan. It is usually kept as a small plant less than 20cm tall, but can get up to 50cm tall if it is kept in a large enough pot.</p>
-	<p>A <a href="/learn-more-about-gardening/glossary/#p">perennial</a>, succulent shrub, Lawyer’s Tongue make good additions to container gardening or in a succulent dish arrangement.</p>
+	<p>A <a href="/learn-more-about-gardening/glossary/#p">perennial</a>, succulent shrub, Lawyer’s Tongue make good additions to <a href="/page-index/horticulture-techniques/planting-in-containers/">container gardening</a> or in a succulent dish arrangement.</p>
 	 <br> 
 </section> 
  
 <section> 
   <h4>Environmental needs:</h4> 
-  <p>Lawyer’s Tongue grows best in 4-8 hours of indirect sunlight. Some direct sunlight will cause its leaf tips to flush red, but more than 6 hours of direct sun will cause sunburn. This plant grows best in sandy soil at least 10cm deep, making it suitable for container gardening. This plant is vulnerable to root rot and will need plenty of drainage.</p> 
+  <p>Lawyer’s Tongue grows best in <a href="/page-index/horticulture-techniques/gauging-light/">4-8 hours of indirect sunlight</a>. Some direct sunlight will cause its leaf tips to flush red, but more than 6 hours of direct sun will cause <a href="/page-index/plant-problems/sunburn/">sunburn</a>. This plant grows best in <a href="/page-index/horticulture-techniques/soil/">sandy soil</a> at least 10cm deep, making it suitable for <a href="/page-index/horticulture-techniques/planting-in-containers/">container gardening</a>. This plant is vulnerable to <a href="/page-index/plant-problems/root-rot/">root rot</a> and will need plenty of drainage.</p> 
 	<br>
 </section>
 
