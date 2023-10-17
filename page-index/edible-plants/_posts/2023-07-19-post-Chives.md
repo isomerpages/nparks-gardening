@@ -17,8 +17,8 @@ image: ""
 
 <section>
 	<img title="Chives grown in pots. Photo by Jacqueline Chua." src="/images/Plants/Chives_JacChua.jpg">
-	<p>Chives are an easy herb that grows in both semi-shade and full sun gardens, and is a popular choice for small and upcycled containers due to its shallow roots. Chives are usually harvested for their leaves, but all parts of the plant generally taste like garlic and can be added to stir-fries, salads, and soups.</p>
-	<p>A <a href="/learn-more-about-gardening/glossary/#p">perennial</a> crop with shallow root, chives are a useful addition to any edible garden, and are often planted in containers and corridor gardens. </p>
+	<p>Chives are an easy herb that grows in both semi-shade and full sun gardens. Chives are usually harvested for their leaves, but all parts of the plant generally taste like garlic and can be added to stir-fries, salads, and soups.</p>
+	<p>A <a href="/learn-more-about-gardening/glossary/#p">perennial</a> crop with shallow root, chives are a useful addition to any edible garden, and are often planted in <a href="/page-index/horticulture-techniques/planting-in-containers/">containers</a>. </p>
 	<p>Chives are part of the Amaryllidaceae or onion family, which includes other popular herbs like shallots and leeks.</p>
 	<br>
 </section>
@@ -32,9 +32,8 @@ image: ""
 
 <section>
   <h4>Sowing seeds:</h4>
+		<iframe width="100%" height="415" src="https://www.youtube.com/embed/x7J87wY7U6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
 	<p>Sow seeds individually in a seedling tray filled with potting mix or seedling mix. Lightly mist the soil until damp, once a day. Seeds should sprout within two weeks.</p>
-	<iframe width="100%" height="415" src="https://www.youtube.com/embed/x7J87wY7U6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
-	<br>
 	<p>The seedlings will be vulnerable to high heat and heavy rain and are best kept in a sheltered propagation area or a shaded space with around 4 hours of partial or direct sunlight.</p>
 	<br>
 </section>
@@ -47,7 +46,7 @@ image: ""
 	
 <section>
 	<h4>Growing:</h4>
-	<p>Chives grow steadily when there is enough light and water. Regular harvesting and the use of high nitrogen fertilisers will encourage the plant to grow more leaves. Plants can be <a href="/page-index/horticulture-techniques/fertilising">fertilised regularly</a> the week after transplanting for a fuller crop.</p>
+	<p>Chives grow steadily when there is enough light and water. Regular harvesting and the use of high nitrogen fertilisers will encourage the plant to grow more leaves. Plants can be <a href="/page-index/horticulture-techniques/fertilising">fertilised once a month</a> after transplanting for a fuller crop.</p>
 	<br>
 </section>
 
