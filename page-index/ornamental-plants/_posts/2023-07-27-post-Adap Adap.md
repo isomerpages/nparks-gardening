@@ -17,14 +17,14 @@ image: ""
  
 <section> 
 	<img title="Adap-Adap flowers. Photo by Victoria Lim." src="/images/Plants/adapadap%20(2)_victorialim.jpg">
-	<p>Adap-Adap are a hardy free-flowering shrub that is commonly seen in rewilding areas, nature parks, in roadside gardens, and biodiversity-attracting gardens. The flowers are attractive to bees and butterflies, while the fruits attract birds and small mammals. This plant is also native to Singapore and is naturally found growing along freshwater swamp forest and secondary forests.</p>
-	<p>A perennial flower, Adap-Adap are useful as biodiversity-attracting plants and perimeter plants to add a pop of colour to any garden.</p>
-	 <br> 
+	<p>Adap-Adap are a hardy <a href="/learn-more-about-gardening/glossary/#f">free-flowering</a> shrub that is commonly seen in rewilding areas, nature parks, in roadside gardens, and biodiversity-attracting gardens. The flowers are attractive to bees and butterflies, while the fruits attract birds and small mammals. This plant is also <a href="/page-index/glossary/native-plants/">native</a> to Singapore and is naturally found growing along freshwater swamp forest and secondary forests.</p>
+	<p>A <a href="/learn-more-about-gardening/glossary/#p">perennial</a> flower, Adap-Adap are useful as <a href="/page-index/glossary/biodiversity-attracting-plants/">biodiversity-attracting plants</a> and perimeter plants to add a pop of colour to any garden.</p>
+	<br> 
 </section> 
  
 <section> 
   <h4>Environmental needs:</h4> 
-    	<p> This plant thrives in 4-8 hours of direct sunlight or at least 6 hours of indirect sunlight. Plants do best in moist, well-drained soil. These plants are vulnerable to root rot, so ensure that your soil has plenty of organic matter to let the roots breathe.</p> 
+   <p> This plant thrives in <a href="/page-index/horticulture-techniques/gauging-light/">4-8 hours of direct sunlight or at least 6 hours of indirect sunlight</a>. Plants do best in <a href="/page-index/horticulture-techniques/soil/">moist, well-drained soil</a>. These plants are vulnerable to <a href="/page-index/plant-problems/root-rot/">root rot</a>, so ensure that your soil has plenty of <a href="/page-index/horticulture-techniques/soil-amendments/">organic matter</a> to let the roots breathe.</p> 
 	<br>
 </section>
 
