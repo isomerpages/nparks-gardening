@@ -44,7 +44,7 @@ image: ""
 	<img title="A seedling station with seedling trays and pots. Photo by Jacqueline Chua." src="/images/Hardscapes/PropagationStation_JacChua.jpg">
 	<p>Seedling trays or pots can be filled with sterile seed-starting mixes, which prevents pathogens like fungi and bacteria from killing vulnerable seedlings. The trays or pots can also be kept in a sheltered propagation area to keep seedlings away from <a href="/page-index/pests/pests/">pests</a> and harsh weather.</p>
 	<img title="Large pumpkin seedlings grown in pots. Photo by NParks." src="/images/Horti%20techniques/seedlings_cucurbit_nparks.jpg">
-	<p>Seedling trays are for smaller plants and smaller seeds, while seedling pots are for larger plants with larger seeds. For example, <a href="/page-index/edible-plants/tomato/">tomatoes</a> do well in seedling trays as their seeds are only a few millimeters across and have sprouts that are less than 5cm high, while pumpkins have large seeds up to 1.5cm across and sprouts that can quickly reach 10cm in height in a few days. A good rule of thumb is that seeds less than 0.5cm can be started in seedling trays, while seeds larger than 0.5cm can be started in seedling pots.</p>
+	<p>Seedling trays are for smaller plants and smaller seeds, while seedling pots are for larger plants with larger seeds. For example, <a href="/page-index/edible-plants/tomato/">tomatoes</a> do well in seedling trays as their seeds are only a few millimeters across and have sprouts that are less than 5cm high, while <a href="/page-index/edible-plants/pumpkin/">pumpkins</a> have large seeds up to 1.5cm across and sprouts that can quickly reach 10cm in height in a few days. A good rule of thumb is that seeds less than 0.5cm can be started in seedling trays, while seeds larger than 0.5cm can be started in seedling pots.</p>
 		<p>Here is how you can start seedlings in trays and pots:</p>
 	<img title="Seedlings in a seedling tray. Photo by Jacqueline Chua." src="/images/Horti%20techniques/SeedlingTray_Jacchua%20(7).jpg">
 		<ol>
@@ -76,7 +76,7 @@ image: ""
 		<img style="height:350px; width:350px" src="/images/Graphics/Animated/gif_seedsowing3.gif">
 	<p>How to sow seeds directly:</p>
 	<ol>
-		 <li>Make sure that the new planting area, be it a pot, planter bed, or true ground is <a href="/page-index/horticulture-techniques/plant-spacing/">large enough</a> with the appropriate soil depth for the fully-grown plant. Prepare the  <a href="/page-index/horticulture-techniques/soil/">soil</a> and remove <a href="/page-index/horticulture-techniques/weeding/">weeds</a> from the planting area.</li>
+		 <li>Make sure that the new planting area is <a href="/page-index/horticulture-techniques/plant-spacing/">large enough</a> with the appropriate soil depth for the fully-grown plant. Prepare the  <a href="/page-index/horticulture-techniques/soil/">soil</a> and remove <a href="/page-index/horticulture-techniques/weeding/">weeds</a> and other debris from the planting area.</li>
 		 <li>Make a shallow groove in the soil along the length of your planting space.</li>
 		 <li>Sprinkle small seeds or space out large seeds into the groove evenly</li>
 		 <li>Fill the groove with sterile potting or seedling mix.</li>
