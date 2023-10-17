@@ -17,33 +17,33 @@ image: ""
  
 <section>
 	<img title="Maiden's jealousy flower. Photo by Victoria Lim." src="/images/Plants/maidensjealousy%20(2)_victorialim.jpg">
-	<p>Maiden’s Jealousy are hardy free-flowering vines that are commonly seen in rewilding areas, nature parks, in roadside gardens, and biodiversity-attracting gardens. The flowers are highly attractive to bees, birds, and butterflies. This plant is native to Singapore and is naturally found growing along coastal forest and the landward side of Mangrove forests.</p>
-	<p>A perennial vine, Maiden’s Jealousy are useful as biodiversity-attracting plants and perimeter plants to add a pop of colour to any garden.</p>
+	<p>Maiden’s Jealousy are hardy <a href="/learn-more-about-gardening/glossary/#f">free-flowering</a> vines that are commonly seen in rewilding areas, nature parks, in roadside gardens, and biodiversity-attracting gardens. The flowers are highly attractive to bees, birds, and butterflies. This plant is <a href="/page-index/glossary/native-plants/">native</a> to Singapore and is naturally found growing along coastal forest and the landward side of Mangrove forests.</p>
+	<p>A <a href="/learn-more-about-gardening/glossary/#p">perennial</a> vine, Maiden’s Jealousy are useful as <a href="/page-index/glossary/biodiversity-attracting-plants/">biodiversity-attracting plants</a> and perimeter plants to add a pop of colour to any garden.</p>
 	 <br> 
 </section> 
  
 <section> 
   <h4>Environmental needs:</h4> 
 	<img title="Maiden's Jealousy vines grown in a plant nursery. Photo by Victoria lim." src="/images/Plants/maidensjealousy%20(1)_victorialim.jpg">
-    	<p>This plant thrives in 4-8 hours of direct sunlight. It can also tolerate areas with more than 6 hours of indirect sunlight, but may produce less flowers. Plants do best in moist, well-drained soil. These plants are vulnerable to root rot, so ensure that your soil has plenty of organic matter to let the roots breathe. This plant is a versatile climber that does well on a variety of trellises.</p> 
+   <p>This plant thrives in <a href="/page-index/horticulture-techniques/guaging-light/">4-8 hours of direct sunlight</a>. It can also tolerate areas with more than 6 hours of indirect sunlight, but may produce less flowers. Plants do best in <a href="/page-index/horticulture-techniques/soil/">moist, well-drained soil</a>. These plants are vulnerable to <a href="/page-index/plant-problems/root-rot/">root rot</a>, so ensure that your soil has plenty of <a href="/page-index/horticulture-techniques/soil-amendments/">organic matter</a> to let the roots breathe. This plant is a versatile climber that does well on a variety of <a href="/page-index/hardscapes/trellises/">trellises</a>.</p> 
 	<br>
 </section>
 
 <section> 
   <h4>Growing:</h4> 
-		<p>Maiden’s Jealousy are rapid growers and generally does not need fertilizing. The vine can rapidly grow up to 10m in height if it has a high enough trellis and will need to be pruned regularly. Regular pruning to promote airflow will keep the plant healthy and neat.</p> 
+		<p>Maiden’s Jealousy are rapid growers and generally does not need fertilizing. The vine can rapidly grow up to 10m in height if it has a high enough trellis and will need to be pruned regularly. <a href="/page-index/horticulture-techniques/pruning/">Regular pruning</a> to promote airflow will keep the plant healthy and neat.</p> 
 	<br> 
 </section> 
 
 <section> 
   <h4>Propagation:</h4> 
-		<p>Maiden’s Jealousy can be grown from seed or woody cuttings with rooting hormone.</p> 
+		<p>Maiden’s Jealousy can be grown from <a href="/page-index/horticulture-techniques/propagating-by-seed/">seed</a> or <a href="/page-index/horticulture-techniques/propagating-by-cuttings/">woody cuttings</a> with rooting hormone.</p> 
 	<br> 
 </section> 
  
 <section> 
   <h4>Common problems &amp; solutions:</h4> 
 		<p>This plant is relatively resistant to pests and disease if kept healthy.</p>
-		<p>If the plant does not receive enough light, it will stop producing flowers. Prune surrounding plants or move the plant to a sunnier spot to promote flower growth.</p>
+		<p>If the plant does not receive enough light, it will stop producing flowers. <a href="/page-index/horticulture-techniques/pruning/">Prune</a> surrounding plants or move the plant to a sunnier spot to promote flower growth.</p>
 	<br> 
 </section>
