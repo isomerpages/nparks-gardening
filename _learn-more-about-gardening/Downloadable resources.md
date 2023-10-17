@@ -19,8 +19,8 @@ description: ""
 		<li><a download="" href="/files/know%2010%20root%20vegetables.pdf">Know 10 Root Vegetables</a></li>
 		<li><a download="" href="/files/know%2010%20shade-tolerant%20edibles%20(readable).pdf">Know 10 Shade-Tolerant Edibles</a></li>	
 	<li><a download="" href="/files/know%2010%20succulents.pdf">Know 10 Succulents</a></li>
-	</ul>
-	<h4>Non-Plant Brochures</h4>
+</ul>
+<h4>Other Brochures</h4>
 	<ul>
 				<li><a download="" href="/files/garden%20bees%20of%20singapore%20211110%20(rev%20b)%20digital.pdf">Garden Bees of Singapore</a></li>	
 				<li><a download="" href="/files/traditional%20composting%20(readable).pdf">Traditional Composting</a></li>	
@@ -34,7 +34,8 @@ description: ""
 				<li><a download="" href="https://go.gov.sg/allotment-guide">A Guide to Designing and Implementing Allotment Gardens</a></li>	
 				<li><a download="" href="https://go.gov.sg/community-garden-design">A Guide to Designing and Implementing Community Gardens</a></li>	
 				<li><a download="" href="https://go.gov.sg/best-practices-edible-gardening">Horticultural Best Practices for Edible Gardening</a></li>	
-	</ul>
-	<h4>Posters and Checklists</h4>
+</ul>
+<h4>Posters and Checklists</h4>
 	<ul>
-	<li><a download="" href="/files/good%20food%20safety%20practices%20when%20growing%20edibles%20poster.pdf">Good Food Safety Practices when Growing Edibles</a></li>	</ul>
+	<li><a download="" href="/files/good%20food%20safety%20practices%20when%20growing%20edibles%20poster.pdf">Good Food Safety Practices when Growing Edibles</a></li>	
+</ul>
