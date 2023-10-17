@@ -31,19 +31,19 @@ image: ""
 
 <section> 
   <h4>Growing:</h4> 
-	<p>Golden Dewdrops are a steady grower and does well with frequent and light fertilising with a balanced fertiliser. This shrub can grow up to 2.5m in height but is usually maintained anywhere between 30cm-1.5m tall as small shrubs or hedges. Regular pruning is needed to promote new growth that will keep the plant healthy and neat.</p> 
+	<p>Golden Dewdrops are a steady grower and does well with <a href="/page-index/horticulture-techniques/fertilising/">frequent and light fertilising with a balanced fertiliser</a>. This shrub can grow up to 2.5m in height but is usually maintained anywhere between 30cm-1.5m tall as small shrubs or hedges. <a href="/page-index/horticulture-techniques/pruning/">Regular pruning</a> is needed to promote new growth that will keep the plant healthy and neat.</p> 
 	<br> 
 </section> 
 
 <section> 
   <h4>Propagation:</h4> 
-	<p>Golden Dewdrops can be grown from seed or woody stem cuttings with rooting hormone. </p> 
+	<p>Golden Dewdrops can be grown from <a href="/page-index/horticulture-techniques/propagating-by-seed/">seed</a> or <a href="/page-index/horticulture-techniques/propagating-by-cuttings/">woody stem cuttings</a> with rooting hormone. </p> 
 	<br> 
 </section> 
  
 <section> 
   <h4>Common problems &amp; solutions:</h4> 
 	<p>This plant is relatively resistant to pests and disease if kept healthy.</p>
-	<p>If the plant does not receive enough light, it will stop producing flowers. Prune surrounding plants or move the plant to a sunnier spot to promote flower growth.</p>
+	<p>If the plant does not receive enough light, it will stop producing flowers. <a href="/page-index/horticulture-techniques/pruning/">Prune</a> surrounding plants or move the plant to a sunnier spot to promote flower growth.</p>
 	<br> 
 </section>
