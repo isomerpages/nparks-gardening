@@ -11,12 +11,17 @@ image: ""
 	<p><b>True ground planting</b> requires a lot of hard work and the luxury of space. This is because most sites in Singapore naturally have heavy <a href="/page-index/horticulture-techniques/soil/">clay soil</a> that is difficult to work with and will need gradual improvement. However, soil will naturally improve the longer that it has been planted in, and your true ground planting will yield many benefits in the long run.</p>
 	<br>
 </section>
+<section>
+	<h4>Layers of soil</h4>
+	<img title="Loamy soil is generally found on top of clay soil. Photo by Jacqueline Chua." src="/images/Horti%20techniques/planterbedsoillayers%20(2)_jacquelinechua.jpg">
+	<p>Because clay is so dense, it will tend to sink down past organic matter and other soil components over time. As a result, many true ground beds and <a href="/page-index/hardscapes/planter-beds/">planter beds</a> will end up with a layer of loamy soil on top and clay soil at the bottom. When soil is exposed to heavy rains, the loamy soil layer can get washed away, leaving the clay layer.</p>
+	<p>Most plants roots need loamy soil to grow well. Gardeners can improve the remaining clay soil with <a href="/page-index/horticulture-techniques/soil-amendments/">organic soil amendments</a> to make the top layer of soil loamy again before planting.</p>
 
 <section>
 	<h4>Improving soil</h4>
 	<img title="Community Gardeners mixing soil. Photo by Jacqueline Chua." src="/images/Gardeners/Digging%20(4).jpg">
 	<p> Raw, sticky clay soil will need lots of compost mixed in to make it soft and improve drainage to grow plants. A good starting ratio for the first planting in true ground is one part existing soil to three parts <a href="/page-index/horticulture-techniques/soil-amendments/">organic matter like compost</a> to make the soil soft and porous enough for healthy roots and good drainage. <a href="/page-index/horticulture-techniques/fertilising/">Fertilisers</a> can also be mixed into the soil to boost plant growth. This newly mixed soil can be backfilled into your new planting space.</p>
-	<p>It is best to backfill your planting space at least 15cm deep for small shrubby plants like <a href="/page-index/edible-plants/sissoo-spinach/">Sissoo Spinach</a> and <a href="/page-index/edible-plants/bayam/">Bayam</a>, and at least 20cm for larger plants like <a href="/page-index/edible-plants/brinjal/">Brinjals</a>, <a href="/page-index/edible-plants/ladys-finger/">Lady’s-Fingers</a> and <a href="/page-index/edible-plants/thai-basil/">Thai Basil</a>. Fruiting climbers like <a href="/page-index/edible-plants/passionfruit/">Passionfruit</a> and <a href="/page-index/edible-plants/cucumber/">Cucumbers</a> have very large root balls and do best with improved soil at least 30cm deep.</p>
+	<p>It is best to improve at least the top 15cm your planting space for small shrubby plants like <a href="/page-index/edible-plants/sissoo-spinach/">Sissoo Spinach</a> and <a href="/page-index/edible-plants/bayam/">Bayam</a>, and at least 20cm for larger plants like <a href="/page-index/edible-plants/brinjal/">Brinjals</a>, <a href="/page-index/edible-plants/ladys-finger/">Lady’s-Fingers</a> and <a href="/page-index/edible-plants/thai-basil/">Thai Basil</a>. Fruiting climbers like <a href="/page-index/edible-plants/passionfruit/">Passionfruit</a> and <a href="/page-index/edible-plants/cucumber/">Cucumbers</a> have very large root balls and do best with improved soil at least 30cm deep.</p>
 	<br>
 </section>
 
@@ -30,7 +35,7 @@ image: ""
 
 <section>
 	<h4>Transplanting</h4>
-	<img title="Filling the bottom of a transplanting hole with compost and organic fertiliser before transplanting to aid root growth." src="">
+	<img title="Ceylon Spinach cutting planted in true ground. Photo by Jacqueline Chua." src="/images/img_9692_jacquelinechua.jpg">
 	<p><a href="/page-index/horticulture-techniques/transplanting/">Transplanted</a> plants, seedlings or cuttings will often grow fast in true ground, but they are still vulnerable to <a href="/page-index/plant-problems/transplanting-shock/">transplanting shock</a>. Erecting <a href="/page-index/hardscapes/netting/">shade netting</a> over transplants for a week will help them to recover.</p>
 	<br>
 </section>
@@ -48,4 +53,4 @@ image: ""
 	<img title="Raised beds growing vegetables. Photo by Jacqueline Chua." src="/images/Hardscapes/PlanterBed%20(15).jpg">
 	<p>If the existing soil is too difficult to work with, a <a href="/page-index/hardscapes/planter-beds/">planter bed</a> can be built on top of it and then filled with better soil. <a href="/page-index/horticulture-techniques/planting-in-containers/">Container planting</a> can also be considered but is generally not encouraged given that many containers can look cluttered, and harbour pests like <a href="/page-index/pests/snails-and-slugs/">snails</a> in between the pots.</p>
 	<br>
-</section>
+</section></section>
