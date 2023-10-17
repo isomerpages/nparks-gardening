@@ -14,17 +14,17 @@ image: ""
 
 <section>
 	<h4>Improving soil</h4>
-	<img title="Backfilling improved soil into a hole made in true ground." src="">
-	<p>Raw, sticky clay soil will need lots of compost mixed in to make it soft and improve drainage to grow plants. A good starting ratio for the first planting in true ground is one part existing soil to three parts compost to make the soil soft and porous enough for healthy roots and good drainage. This newly mixed soil can be backfilled into your new planting space. Raw, sticky clay soil will need lots of compost mixed in to make it soft and improve drainage to grow plants. A good starting ratio for the first planting in true ground is one part existing soil to three parts compost to make the soil soft and porous enough for healthy roots and good drainage. This newly mixed soil can be backfilled into your new planting space.</p>
-	<p>It is best to backfill your planting space at least 15cm deep for small shrubby plants like Sissoo Spinach and Bayam, and at least 20cm for larger plants like Brinjals, Lady’s-Fingers and Thai Basil. Fruiting climbers like Passionfruit and Cucumbers have very large root balls and do best with improved soil at least 30cm deep.</p>
+	<img title="Community Gardeners mixing soil. Photo by Jacqueline Chua." src="/images/Gardeners/Digging%20(4).jpg">
+	<p> Raw, sticky clay soil will need lots of compost mixed in to make it soft and improve drainage to grow plants. A good starting ratio for the first planting in true ground is one part existing soil to three parts compost to make the soil soft and porous enough for healthy roots and good drainage. <a href="/page-index/horticulture-techniques/fertilising/">Fertilisers</a> can also be mixed into the soil to boost plant growth. This newly mixed soil can be backfilled into your new planting space.</p>
+	<p>It is best to backfill your planting space at least 15cm deep for small shrubby plants like <a href="/page-index/edible-plants/sissoo-spinach/">Sissoo Spinach</a> and <a href="/page-index/edible-plants/bayam/">Bayam</a>, and at least 20cm for larger plants like <a href="/page-index/edible-plants/brinjal/">Brinjals</a>, <a href="/page-index/edible-plants/ladys-finger/">Lady’s-Fingers</a> and <a href="/page-index/edible-plants/thai-basil/">Thai Basil</a>. Fruiting climbers like <a href="/page-index/edible-plants/passionfruit/">Passionfruit</a> and <a href="/page-index/edible-plants/cucumber/">Cucumbers</a> have very large root balls and do best with improved soil at least 30cm deep.</p>
 	<br>
 </section>
 
 <section>
 	<h4>Direct Sowing of seeds</h4>
-	<img title="Seeds being sown in a furrow directly in true ground." src="">
-	<p>Furrows or planting holes can be made for direct seed sowing with specialized tools, a spade handle, or even chopsticks. Fill the bottom of the furrow or hole halfway with compost or seed starting mix, add your seeds, and cover them again with the compost or seed starting mix. Take care not to over-bury your seeds; most small seeds like those of Bayam or Tomatoes just need to be covered by about 0.5-1cm of soil, while larger seeds like those of Cucumbers and Kang Kong can be buried by 1-2cm of soil.</p>
-	<p>Water the seeds lightly after direct sowing and observe your newly sown seeds regularly. Young plants tend to be targeted by pests like slugs, snails, rodents or birds, and can be protected with a <a href="/page-index/horticulture-techniques/cloches/">DIY cloche</a> or netting.</p>
+	<img style="height:350px; width:350px" title="Seeds being sown in a furrow directly in true ground." src="/images/Graphics/Animated/gif_seedsowing3.gif">
+	<p>Furrows or planting holes can be made for <a href="/page-index/horticulture-techniques/propagating-by-seed/">direct seed sowing</a> with specialized tools, a spade handle, or even chopsticks. Fill the bottom of the furrow or hole halfway with compost or seed starting mix, add your seeds, and cover them again with the compost or seed starting mix. Take care not to over-bury your seeds; most small seeds like those of <a href="/page-index/edible-plants/bayam/">Bayam</a> just need to be covered by about 0.5-1cm of soil, while larger seeds like those of <a href="/page-index/edible-plants/cucumber/">Cucumbers</a> and Kang Kong can be buried by 1-2cm of soil.</p>
+	<p>Water the seeds lightly after direct sowing and observe your newly sown seeds regularly. Young plants tend to be targeted by <a href="/page-index/pests/pests/">pests</a> like slugs, snails, rodents, or birds, and can be protected with a <a href="/page-index/horticulture-techniques/cloches/">DIY cloche</a> or <a href="/page-index/hardscapes/netting/">netting</a>.</p>
 	<br>
 </section>
 
