@@ -10,7 +10,7 @@ image: ""
 	<img src="/images/Horti%20techniques/Light_Jacchua.jpg">
   <p>Sunlight is essential for plant growth. It provides energy for plants to photosynthesise, a process where plants convert water, carbon dioxide and light energy to sugars, which drives their growth. The amount of light your garden gets will determine what plants can grow. </p>
   <p>As a tropical country near the equator, Singapore’s daylight is roughly 12 hours year-round. Of the 12 hours, around 8 hours is of direct sunlight. Depending on what is surrounding your garden, the time of year, and seasonal cloud cover, you may get different hours of direct or indirect sunlight for your plants.</p>
-	<p>Knowing where and how much sunlight you get will be the first step in planning your garden and will also be important in helping you to troubleshoot your plant problems. </p>
+	<p>Knowing where and how much sunlight you get will be the first step in <a href="/learn-more-about-gardening/garden-design/">planning your garden</a> and will also be important in helping you to troubleshoot your <a href="/learn-more-about-gardening/plant-problems/">plant problems</a>. </p>
 	<br>
 </section>
 
@@ -26,7 +26,7 @@ image: ""
 	<li><input type="checkbox" id="accordion2">
 		<label for="accordion2">Indirect sunlight</label><div>
 	<img title="A potted plant casting a soft shadow in indirect sunlight. Photo by Jacqueline Chua." src="/images/Horti%20techniques/light_jacchua%20(2).jpg">
-	<p><b>Indirect sunlight</b> is light that is coming at an angle, bounced off another surface or filtered through things like clouds or shade cloth. It is less intense than direct sunlight and will cast an indistinct shadow with soft edges. Gardens at the foot of large buildings, in corridors, and along north-and south-facing windows indoors are likely to receive mostly indirect sunlight throughout the day. </p>
+	<p><b>Indirect sunlight</b> is light that is coming at an angle, bounced off another surface or filtered through things like clouds or shade cloth. It is less intense than direct sunlight and will cast an indistinct shadow with soft edges. Gardens at the foot of large buildings, in <a href="/page-index/housekeeping/good-corridor-gardening-practices/">corridors</a>, and along north-and south-facing windows indoors are likely to receive mostly indirect sunlight throughout the day. </p>
 				</div></li>
 	<li><input type="checkbox" id="accordion3">
 		<label for="accordion3">Dappled shade</label><div>
