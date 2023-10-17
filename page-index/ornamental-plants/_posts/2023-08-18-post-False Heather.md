@@ -31,19 +31,19 @@ image: ""
 
 <section> 
   <h4>Growing:</h4> 
-	<p>False Heather is a steady grower and does well with frequent and light fertilising with balanced fertilisers. This shrub can grow up to 0.6m in height and looks best when pruned regularly. Regular pruning to promote new growth will keep the plant healthy and neat.</p> 
+	<p>False Heather is a steady grower and does well with <a href="/page-index/horticulture-techniques/fertilising/">frequent and light fertilising with balanced fertilisers</a>. This shrub can grow up to 0.6m in height and looks best when pruned regularly. <a href="/page-index/horticulture-techniques/pruning/">Regular pruning</a> to promote new growth will keep the plant healthy and neat.</p> 
 	<br> 
 </section> 
 
 <section> 
   <h4>Propagation:</h4> 
-	<p>False Heather can be grown from woody cuttings with rooting hormone.</p> 
+	<p>False Heather can be grown from <a href="/page-index/horticulture-techniques/propagating-by-cuttings/">woody cuttings</a> with rooting hormone.</p> 
 	<br> 
 </section> 
  
 <section> 
   <h4>Common problems &amp; solutions:</h4> 
 	<p>This plant is relatively resistant to pests and disease if kept healthy.</p>
-	<p>If the plant does not receive enough light, it will stop producing flowers. Prune surrounding plants or move the plant to a sunnier spot to promote flower growth.</p>
+	<p>If the plant does not receive enough light, it will stop producing flowers. <a href="/page-index/horticulture-techniques/pruning/">Prune</a> surrounding plants or move the plant to a sunnier spot to promote flower growth.</p>
 	<br> 
 </section>
