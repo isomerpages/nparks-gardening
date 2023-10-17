@@ -15,7 +15,7 @@ image: ""
 
 <section>
 	<h4>Organic soil amendments</h4>
-	<p>Organic soil amendments are made from living things, usually other plants. They generally help to retain moisture and increase drainage in soil as the organic particles soak water up like a sponge, but after a certain point will allow whatever water they can’t absorb to drain away. This makes soil soft and moist, but not waterlogged. Organic particles will also make soil soft and airy, reducing compaction and making it easier for roots to grow. Organic soil amendments will eventually decompose and will need to be replaced. These soil amendments also feed your soil biodiversity, such as earthworms.</p>
+	<p>Organic soil amendments are made from living things, usually other plants. They generally help to retain moisture and increase drainage in soil as the organic particles soak water up like a sponge, but after a certain point will allow whatever water they can’t absorb to drain away. This makes soil soft and moist, but not <a href="/page-index/plant-problems/waterlogging/">waterlogged</a>. Organic particles will also make soil soft and airy, reducing compaction and making it easier for roots to grow. Organic soil amendments will eventually decompose and will need to be replaced. These soil amendments also feed your <a href="/learn-more-about-gardening/garden-biodiversity/">soil biodiversity</a>, such as earthworms.</p>
 </section>
 
 <ul class="jekyllcodex_accordion">
@@ -27,12 +27,12 @@ image: ""
 	<li><input type="checkbox" id="accordion2">
 		<label for="accordion2">Coco Fiber</label><div>
 		<img title="Coco fibre is made from shredding coconut husks, and can be mixed into soil or used as mulch. Photo by Jacqueline Chua" src="/images/Horti%20techniques/Mulch_JacChua%20(1).jpg">
-		<p><b>Coco fibre</b> is also made from coconut husks, but the material is not ground down as finely and still looks like clumps of rough hair or chips. Coco fibre can also be directly mixed in with soil, but it is much chunkier and will not mix as readily as coco coir. Coco fibre is usually used as a lining for pots, or as a mulch. It can also be used as an alternative to sphagnum moss.</p>
+		<p><b>Coco fibre</b> is also made from coconut husks, but the material is not ground down as finely and still looks like clumps of rough hair or chips. Coco fibre can also be directly mixed in with soil, but it is much chunkier and will not mix as readily as coco coir. Coco fibre is usually used as a lining for pots, or as a <a href="/page-index/horticulture-techniques/mulching/">mulch</a>.</p>
 	</div></li>
 	<li><input type="checkbox" id="accordion3">
 		<label for="accordion3">Mature Compost</label><div>
 		<img title="Compost is made from decomposed organic matter. Photo by Jacqueline Chua" src="/images/Horti%20techniques/Compost_Jacchua.jpg">
-		<p><b>Mature compost</b> is one of the most readily available soil amendments as it can be <a href="/page-index/horticulture-techniques/composting/">made at home or in the garden</a>, or bought from nurseries. Mature compost should have a soft, fine texture and smell earthy. Compost with large chunks of rotting matter that smells unpleasant is immature, and not ready for use. It is important to use mature compost that is no longer decomposing as actively rotting material in immature compost can lock up nitrogen, which will stunt plant growth. Mature compost will have trace amounts of nutrients, which can also give a bit of a boost to your plants.</p>
+		<p><b>Mature compost</b> is one of the most readily available soil amendments as it can be <a href="/page-index/horticulture-techniques/composting/">made at home or in the garden</a>, or bought from nurseries. Mature compost should have a soft, fine texture and smell earthy. Compost with large chunks of rotting matter that smells unpleasant is immature, and not ready for use. It is important to use mature compost that is no longer decomposing as actively rotting material in immature compost can lock up nitrogen, which will stunt plant growth. </p>
 			</div></li>
 	<li><input type="checkbox" id="accordion4">
 		<label for="accordion4">Burnt Rice Husks</label><div>
@@ -60,15 +60,17 @@ image: ""
 	</div></li>
 	<li><input type="checkbox" id="accordion9">
 		<label for="accordion9">Horticultural Sand</label><div>
-		<img title="" src="/images/Horti%20techniques/Soil_Sandy_Jacchua.jpg">
+		<img title="Horticultural sand with large grains. Photo by Jacqueline Chua." src="/images/Horti%20techniques/Soil_Sandy_Jacchua.jpg">
 		<p><b>Horticultural Sand</b> generally refers to river sand or coarse sand with grains larger than 2mm. It should not clump together when wet, and helps to increase the drainage and aeration of soil when mixed in. Coarser grains are generally preferred as fine sand mixed with clay soils will make a medium like concrete.  It can get heavy and dense in large amounts and should generally be mixed with organic amendments like compost to make a lighter soil mix that roots can grow through. </p>
 	</div></li>
 	<li><input type="checkbox" id="accordion10">
 		<label for="accordion10">Perlite</label><div>
-		<p><b>Perlite</b>, or expanded pyrite, is a lightweight volcanic rock that is highly porous and resembles styrofoam. It is made by heating pyrite until it “pops” like popcorn. It drastically increases drainage and aeration when mixed into soil and keeps it loose. Perlite grains also have lots of crevices that can help to hold some water for plant roots to absorb, but allows excess water to drain away, thus preventing root rot. It is often used in rooting cuttings, seed-starting mixes and in container gardening. Unfortunately, because it is so light, perlite tends to float to the top in lightweight soil mixes during watering and can be blown away by the wind. It needs to be mixed back into the soil periodically. Cheaper bags of perlite might have dust, which can cause irritation when inhaled. Use gloves and a face mask when handling it for safety.</p>
+				<img title="Small, white grains of perlite. Photo by Victoria Lim." src="/images/Horti%20techniques/perlite%201_victorialim.jpg">
+		<p><b>Perlite</b>, or expanded pyrite, is a lightweight volcanic rock that is highly porous and resembles styrofoam. It is made by heating pyrite until it “pops” like popcorn. It drastically increases drainage and aeration when mixed into soil and keeps it loose. Perlite grains also have lots of crevices that can help to hold some water for plant roots to absorb, but allows excess water to drain away, thus preventing root rot. It is often used in rooting <a href="/page-index/horticulture-techniques/propagating-by-cuttings/">cuttings</a>, <a href="/page-index/horticulture-techniques/propagating-by-seed/">seed-starting mixes</a> and in <a href="/page-index/horticulture-techniques/planting-in-containers/">container gardening</a>. Unfortunately, because it is so light, perlite tends to float to the top in lightweight soil mixes during watering and can be blown away by the wind. It needs to be mixed back into the soil periodically. Cheaper bags of perlite might have dust, which can cause irritation when inhaled. Use gloves and a face mask when handling it for safety.</p>
 	</div></li>
 	<li><input type="checkbox" id="accordion11">
 		<label for="accordion11">Vermiculite</label><div>
-		<p><b>Vermiculite</b> is a mineral that expands when heated, forming lightweight flakes that are highly porous. It increases drainage when mixed into soil and keeps it loose. Vermiculite flakes also absorb water like a sponge, making it a useful material to keep plants moist. It is often used in rooting cuttings, seed-starting mixes and in container gardening. Unfortunately, because it is so light, vermiculite tends to float to the top in lightweight soil mixes during watering and can be blown away by the wind. It needs to be mixed back into the soil periodically.</p>
+						<img title="Vermiculite, which looks like shiny flakes that are lightweight and porous. Photo by Victoria Lim." src="/images/Horti%20techniques/vermiculite%201_victorialim.jpg">
+		<p><b>Vermiculite</b> is a mineral that expands when heated, forming lightweight flakes that are highly porous. It increases drainage when mixed into soil and keeps it loose. Vermiculite flakes also absorb water like a sponge, making it a useful material to keep plants moist. It is often used in rooting rooting <a href="/page-index/horticulture-techniques/propagating-by-cuttings/">cuttings</a>, <a href="/page-index/horticulture-techniques/propagating-by-seed/">seed-starting mixes</a> and in <a href="/page-index/horticulture-techniques/planting-in-containers/">container gardening</a>. Unfortunately, because it is so light, vermiculite tends to float to the top in lightweight soil mixes during watering and can be blown away by the wind. It needs to be mixed back into the soil periodically.</p>
 	</div></li>
 </ul>
