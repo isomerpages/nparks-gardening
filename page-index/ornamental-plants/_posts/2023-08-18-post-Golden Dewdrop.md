@@ -17,15 +17,15 @@ image: ""
  
 <section>
 	<img title="Photo by Flora and Fauna Web." src="/images/Plants/goldendewdrop_ffw.jfif">
-	<p>Golden Dewdrops are large, hardy, free-flowering shrubs that are commonly seen in roadside gardens, perimeter planting and biodiversity-attracting gardens. The blue nectar-filled flowers are highly attractive bees and butterflies, and the hard, bright yellow fruits are very visually attractive.</p>
-	<p>A perennial shrub, Golden Dewdrops are useful as a biodiversity-attracting plant and perimeter plant to add a pop of colour to any garden.</p>
+	<p>Golden Dewdrops are large, hardy, <a href="/learn-more-about-gardening/glossary/#f">free-flowering</a> shrubs that are commonly seen in roadside gardens, perimeter planting and biodiversity-attracting gardens. The blue nectar-filled flowers are highly attractive bees and butterflies, and the hard, bright yellow fruits are very visually attractive.</p>
+	<p>A <a href="/learn-more-about-gardening/glossary/#p">perennial</a> shrub, Golden Dewdrops are useful as a <a href="/page-index/glossary/biodiversity-attracting-plants/">biodiversity-attracting plant</a> and perimeter plant to add a pop of colour to any garden.</p>
 	 <br> 
 </section> 
  
 <section> 
   <h4>Environmental needs:</h4> 
 	<img title="Golden dewdrop plants grown in pots. Photo by Jacqueline Chua." src="/images/Plants/goldendewdrops%20(1)_jacquelinechua.jpg">
-  <p>This plant thrives in 4-8 hours of direct sunlight. It can also grow in 4-6 hours of indirect sunlight, but at a slower pace with less flowers. Plants do best in loamy soil at least 20cm deep, making them suitable for container gardening, but will rapidly grow to their full size in true ground. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe.</p> 
+  <p>This plant thrives in <a href="/page-index/horticulture-techniques/gauging-light/">4-8 hours of direct sunlight</a>. It can also grow in 4-6 hours of indirect sunlight, but at a slower pace with less flowers. Plants do best in <a href="/page-index/horticulture-techniques/soil/">loamy soil</a> at least 20cm deep, making them suitable for <a href="/page-index/horticulture-techniques/planting-in-containers/">container gardening</a>, but will rapidly grow to their full size in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a>. These plants are vulnerable to <a href="/page-index/plant-problems/root-rot/">root rot</a>, so ensure that your pots drain well, and that your soil has plenty of <a href="/page-index/horticulture-techniques/soil-amendments/">organic matter</a> to let the roots breathe.</p> 
 	<br>
 </section>
 
