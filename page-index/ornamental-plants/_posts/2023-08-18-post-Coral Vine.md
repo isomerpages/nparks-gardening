@@ -17,8 +17,8 @@ image: ""
  
 <section>
 	<img title="Coral Vine flowers. Photo by Jacqueline Chua." src="/images/Plants/coralvine%20(1)_jacquelinechua.jpg">
-	<p>Coral vines are hardy free-flowering vines that are commonly seen in rewilding areas, along roadside gardens, and biodiversity-attracting gardens. The flowers are highly attractive to bees and butterflies.</p>
-	<p>A perennial vine, Coral Vines are useful as biodiversity-attracting plants and perimeter plants to add a pop of colour to any garden.</p>
+	<p>Coral vines are hardy <a href="/learn-more-about-gardening/glossary/#f">free-flowering</a> vines that are commonly seen in rewilding areas, along roadside gardens, and biodiversity-attracting gardens. The flowers are highly attractive to bees and butterflies.</p>
+	<p>A <a href="/learn-more-about-gardening/glossary/#p">perennial</a> vine, Coral Vines are useful as <a href="/page-index/glossary/biodiversity-attracting-plants/">biodiversity-attracting plants</a> and perimeter plants to add a pop of colour to any garden.</p>
 	 <br> 
 </section> 
  
