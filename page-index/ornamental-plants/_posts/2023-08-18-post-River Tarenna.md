@@ -25,13 +25,13 @@ image: ""
 
 <section> 
   <h4>Growing:</h4> 
-	<p>River Tarennas are rapid growers and generally does not need fertilizing. The tree can rapidly grow up to 15m in height and will need to be pruned regularly. Regular pruning to promote airflow will keep the plant healthy and neat.</p> 
+	<p>River Tarennas are rapid growers and generally does not need fertilizing. The tree can rapidly grow up to 15m in height and will need to be pruned regularly. <a href="/page-index/horticulture-techniques/pruning/">Regular pruning</a> to promote airflow will keep the plant healthy and neat.</p> 
 	<br> 
 </section> 
 
 <section> 
   <h4>Propagation:</h4> 
-	<p>River Tarennas can be grown from seed or woody cuttings with rooting hormone.</p> 
+	<p>River Tarennas can be grown from <a href="/page-index/horticulture-techniques/propagating-by-seed/">seed</a> or <a href="/page-index/horticulture-techniques/propagating-by-cuttings/">woody cuttings</a> with rooting hormone.</p> 
 	<br> 
 </section> 
  
