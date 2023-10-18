@@ -29,7 +29,7 @@ image: ""
 		</div></li>
 		<li><input type="checkbox" id="accordion3">
 		<label for="accordion3">Soil pH</label><div> 
-			<p>Soil pH can also affect a plant’s ability to uptake nutrients. Most plants in Singapore need soil that has a pH of around 6 or 7 and will be able to take up most nutrients within this range. Any lower will indicate the soil is acidic, and any higher will show that it is alkaline. Soils in Singapore generally tend towards neutral or acidic. If your soil is too acidic, it can be corrected using horticultural lime (calcium carbonate, calcium oxide and dolomite). Alkaline soils can be treated using granular sulphur.</p> 
+			<p>Soil pH can also affect a plant’s ability to uptake nutrients. Most plants in Singapore need soil that has a pH of 6 to 7 and will be able to take up most nutrients within this range. Any lower will indicate the soil is acidic, and any higher will show that it is alkaline. Soils in Singapore generally tend towards neutral or acidic. If your soil is too acidic, it can be corrected using horticultural lime (calcium carbonate, calcium oxide and dolomite). Alkaline soils can be treated using granular sulphur.</p> 
 		</div></li>
 		<li><input type="checkbox" id="accordion4">
 		<label for="accordion4">Soil with little or no clay</label><div>
@@ -46,7 +46,7 @@ image: ""
 		<li><input type="checkbox" id="accordion5">
 		<label for="accordion5">Nitrogen deficiency: Older leaves or all leaves turn pale yellow</label><div>
 			<img title="A nitrogen deficient Bang Kwang with pale yellow leaves next to a healthy one. Photo by Jacqueline Chua." src="/images/Plant%20problems/nitrogendeficient_vs_jacquelinechua.jpg">
-			<p>Nitrogen deficiencies often show up as plants looking yellowish and leggy despite having enough light, or slow and stunted leaf growth. It can also look like entire leaves turning yellow, with the older leaves at the bottom yellowing first and progressing up the plant to the new leaves at the top. Nitrogen is highly soluble in water, so heavy rains or overwatering may also cause nitrogen deficiencies as the nitrogen is washed away. However, this deficiency is easily remedied by using <a href="/page-index/horticulture-techniques/fertilising/">fertilisers</a> high in nitrogen, or growing legumes in the same plot as part of <a href="/page-index/horticulture-techniques/companion-planting/">companion planting</a>.</p> 
+			<p>Nitrogen deficiencies often show up as plants looking yellowish and leggy despite having enough light, or slow and stunted leaf growth. It can also look like entire leaves turning yellow, with the older leaves at the bottom yellowing first and progressing up the plant to the new leaves at the top. Nitrogen is highly soluble in water, so heavy rains or <a href="/page-index/horticulture-techniques/watering/">overwatering</a> may also cause nitrogen deficiencies as the nitrogen is washed away. However, this deficiency is easily remedied by using <a href="/page-index/horticulture-techniques/fertilising/">fertilisers</a> high in nitrogen, or growing legumes in the same plot as part of <a href="/page-index/horticulture-techniques/companion-planting/">companion planting</a>.</p> 
 		</div></li>
 		<li><input type="checkbox" id="accordion6">
 		<label for="accordion6">Phosphorus deficiency: Older leaves have red, purple or bronze patches</label><div>
@@ -61,7 +61,7 @@ image: ""
 		<li><input type="checkbox" id="accordion8">
 		<label for="accordion8">Calcium deficiency: A small rotten or dry spot at the end of fruits </label><div>
 			<img title="A chilli fruit with blossom end rot. Photo by Jacqueline Chua." src="/images/Plant%20problems/blossomendrot_jacquelinechua.jpg">  
-			<p>Calcium deficiencies can cause problems like blossom end rot for Chillies, Tomatoes and Brinjals. It looks like a small rotten or dried spot at the bottom of the fruit. Singapore soils are very rarely calcium deficient due to their high clay content. The deficiency is usually caused by a lack of water, or inconsistent watering, which prevents the fruit from getting calcium. Water your plants regularly, especially during the dry season, to prevent this.</p> 
+			<p>Calcium deficiencies can cause problems like blossom end rot for <a href="/page-index/edible-plants/chilli/">Chillies</a>, <a href="/page-index/edible-plants/tomato/">Tomatoes</a> and <a href="/page-index/edible-plants/brinjal/">Brinjals</a>. It looks like a small rotten or dried spot at the bottom of the fruit. Singapore soils are very rarely calcium deficient due to their high clay content. The deficiency is usually caused by a lack of water, inconsistent watering, low humidity, or a soil pH higher than 7, which are all factors that prevents the fruit from getting calcium. Water your plants regularly, especially during the dry season, to prevent this.</p> 
 		</div></li>
 		<li><input type="checkbox" id="accordion9">
 		<label for="accordion9">Magnesium deficiency: Older leaves are pale with dark green veins </label><div>
