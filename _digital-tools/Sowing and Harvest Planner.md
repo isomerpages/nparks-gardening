@@ -4,7 +4,7 @@ permalink: /digital-tools/sowing-planner/
 description: ""
 ---
 <section>
-	<p>Looking to plan your gardening schedule? Use or planners to:</p>
+	<p>Looking to plan your gardening schedule? Use our planners to:</p>
 	<ul>
 		<li>Find the estimated day you should sow seeds in relation to your planned harvest date</li>
 		<li>Find your estimated harvest date in relation to when you started your seeds</li>
@@ -13,4 +13,5 @@ description: ""
 
 <iframe style="width:100%;height:500px" src="https://www.checkfirst.gov.sg/c/97e60ed3-c660-4ab6-b609-98f84e9ac161"></iframe>
 
-<iframe style="width:100%;height:500px" src="https://www.checkfirst.gov.sg/c/00144442-e80b-4725-b1a3-71b2cfd13ba6"></iframe></section>
+<iframe style="width:100%;height:500px" src="https://www.checkfirst.gov.sg/c/00144442-e80b-4725-b1a3-71b2cfd13ba6"></iframe>
+</section>
