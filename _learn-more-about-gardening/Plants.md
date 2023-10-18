@@ -19,19 +19,6 @@ description: ""
 		justify-self: stretch;
 	}
 	
-	.plantsearch {
-		display: grid;
-		grid-template-columns:1fr;
-		grid-template-rows: 1fr;
-		text-align:center;
-		background-color: #7a9a01;
-		border: 2px solid #215732;
-		padding: 5px;
-  	border-radius: 10px;
-    color: white !important;
-	  text-decoration: none !important;
-	}
-	
 	.button-primary {
     background-color: #215732;
     border: 2px solid #215732;
@@ -70,7 +57,6 @@ description: ""
 	<br>
 </div>
 
-<a href="/digital-tools/plant-search/" class="plantsearch">Click here to use our Plant Suggester if you have no clue what is suitable for your garden!</a>
+<p>If you are not sure what plants are suitable for your garden space, you may use our <a href="/digital-tools/plant-search/">Plant Suggester</a> here.</p>
 
-
-<p>Can't find the plants that you are looking for? Visit <a href="https://www.nparks.gov.sg/florafaunaweb">NPark's Flora and Fauna Web</a> here!</p>
+<p>Still can't find the plants that you are looking for? Visit <a href="https://www.nparks.gov.sg/florafaunaweb">NPark's Flora and Fauna Web</a> here!</p>
