@@ -42,7 +42,6 @@ image: ""
 	}
 </style>
 
-<a id="top"></a>
 <strong>Click on an alphabet to find a plant by its common name!</strong>
 
 <table>
@@ -247,12 +246,12 @@ image: ""
 <h4 id="u">U</h4>
 <a class="body" href="/page-index/edible-plants/ulam-raja/">Ulam Raja</a><br>
 	<br><br>
-	</section>
+</section>
 
 <section>
 <h4 id="v">V</h4>
 	<br><br>
-	</section>
+</section>
 	
 <section>
 <h4 id="w">W</h4>
@@ -263,26 +262,20 @@ image: ""
 <a class="body" href="/page-index/edible-plants/winged-bean/">Winged Bean</a><br>
 <a class="body" href="/page-index/edible-plants/winter-melon/">Winter Melon</a><br>
 	<br><br>
-	</section>
+</section>
 
 <section>
 <h4 id="x">X</h4>
 <a class="body" href="/page-index/edible-plants/xiao-bai-cai/">Xiao Bai Cai</a><br>
 	<br><br>
-	</section>
+</section>
 	
 <section>
 <h4 id="y">Y</h4>
 	<br><br>
-	</section>
+</section>
 	
 <section>
 <h4 id="z">Z</h4>
 	<br><br>
-	</section>
-
-<div class="float-buttons">
-	<div style="position:relative;" class="inner-wrapper-sticky">
-  <a style="text-decoration:none" class="float-buttons left" href="#top">↑ Back to top</a>
-	</div>
-	</div>
+</section>
