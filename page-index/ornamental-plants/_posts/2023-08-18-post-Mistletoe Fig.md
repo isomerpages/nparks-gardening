@@ -25,10 +25,10 @@ image: ""
 <section> 
   <h4>Environmental needs:</h4> 
 	<img title="Mistletoe Fig fruits. Photo by Victoria Lim." src="/images/Plants/mistletoefig%20(1)_victorialim.jpg">
-  <p>This plant thrives in <a href="/page-index/horticulture-techniques/gauging-light/">4-8 hours of direct sunlight</a>, and can also grow in at least 6 hours of indirect sunlight, but at a slower pace. Plants do best in <a href="/page-index/horticulture-techniques/soil/">sandy soil</a> at least 10cm deep, making them suitable for <a href="/page-index/horticulture-techniques/planting-in-containers/">container gardening</a>. These plants are vulnerable to <a href="/page-index/plant-problems/root-rot/">root rot</a>, so ensure that your soil has <a href="/page-index/horticulture-techniques/gauging-light/">plenty of grit to let the roots breathe.</a></p><a href="/page-index/horticulture-techniques/gauging-light/"> 
+  <p>This plant thrives in <a href="/page-index/horticulture-techniques/gauging-light/">4-8 hours of direct sunlight</a>, and can also grow in at least 6 hours of indirect sunlight, but at a slower pace. Plants do best in <a href="/page-index/horticulture-techniques/soil/">sandy soil</a> at least 10cm deep, making them suitable for <a href="/page-index/horticulture-techniques/planting-in-containers/">container gardening</a>. These plants are vulnerable to <a href="/page-index/plant-problems/root-rot/">root rot</a>, so ensure that your soil has <a href="/page-index/horticulture-techniques/soil-amendments/">plenty of grit</a> to let the roots breathe.</p> 
 	<br>
-</a></section><a href="/page-index/horticulture-techniques/gauging-light/">
-
+</section>
+	
 <section> 
   <h4>Growing:</h4> 
 	<p>Mistletoe Figs are steady growers and generally does not need fertilizing. The shrub can grow up to 7m in height and will need to be pruned regularly. Regular pruning to promote airflow will keep the plant healthy and neat.</p> 
@@ -45,4 +45,4 @@ image: ""
   <h4>Common problems &amp; solutions:</h4> 
 	<p>This plant is relatively resistant to pests and disease if kept healthy.</p>
 	<br> 
-</section></a>
+</section>
