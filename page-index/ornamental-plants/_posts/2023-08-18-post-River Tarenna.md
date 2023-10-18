@@ -12,7 +12,7 @@ image: ""
 
 <section>
 	<img title="River Tarenna flowers. Photo by Jacqueline Chua." src="/images/Plants/tarennafrnagrans%20(1)_jacquelinechua.jpg">
-	<p>River Tarennas are a hardy free-flowering tree that is commonly seen in rewilding areas, nature parks, in roadside gardens, and biodiversity-attracting gardens. The flowers have a strong, vanilla-like fragrance, and the fruits are attractive birds and small mammals. This plant is also native to Singapore and is naturally found growing along primary and secondary forests.</p>
+	<p>River Tarennas are a hardy <a href="/learn-more-about-gardening/glossary/#f">free-flowering</a> tree that is commonly seen in rewilding areas, nature parks, in roadside gardens, and biodiversity-attracting gardens. The flowers have a strong, vanilla-like fragrance, and the fruits are attractive birds and small mammals. This plant is also native to Singapore and is naturally found growing along primary and secondary forests.</p>
 	<p>A perennial tree, River Tarennas are useful as biodiversity-attracting plants and perimeter plants to add a pop of colour to any garden. The fragrant flowers make it a potential feature plant for therapeutic gardens.</p>
 	 <br> 
 </section> 
