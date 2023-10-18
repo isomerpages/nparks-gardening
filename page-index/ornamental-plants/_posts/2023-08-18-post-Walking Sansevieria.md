@@ -13,13 +13,13 @@ image: ""
 <section>
 	<img title="Photo by Flora and Fauna Web." src="/images/Plants/walkingsanevieria_ffw.jfif">
 	<p>Walking Sansevieria is a slow growing plant with thick attractive leaves can grow up to 30cm wide. When young, its thick, fleshy leaves are arranged in a rosette. As the plant matures, the leaf arrangement changes to two rows opposite each other. The leaves are bluish to grey with reddish margins. This plant is named as such because it will grow offshoots with stilt-like roots that resemble legs walking away from the parent plant.</p>
-	<p>A perennial, succulent shrub, Walking Sansevieria is good for planting in containers, either on its own or as part of a succulent dish garden.</p>
+	<p>A <a href="/learn-more-about-gardening/glossary/#p">perennial</a>, succulent shrub, Walking Sansevieria is good for <a href="/page-index/horticulture-techniques/planting-in-containers/">planting in containers</a>, either on its own or as part of a succulent dish garden.</p>
 	 <br> 
 </section> 
  
 <section> 
   <h4>Environmental needs:</h4> 
-  <p>Walking Sansevieria thrives in 4-6 hours of indirect sunlight, but may burn in direct sun. They are best planted in sandy soil with plenty of grit as they are vulnerable to root rot.</p> 
+  <p>Walking Sansevieria thrives in <a href="/page-index/horticulture-techniques/gauging-light/">4-6 hours of indirect sunlight</a>, but <a href="/page-index/plant-problems/sunburn/">may burn</a> in direct sun. They are best planted in <a href="/page-index/horticulture-techniques/soil/">sandy soil</a> with <a href="/page-index/horticulture-techniques/soil-amendments/">plenty of grit</a> as they are vulnerable to <a href="/page-index/plant-problems/root-rot/">root rot</a>.</p> 
 	<br>
 </section>
 
