@@ -8,8 +8,8 @@ image: ""
 ---
 <section>
 	<img title="Aphids feeding on a plant. Photo by Plant Science and Health, NParks." src="/images/Biodiversity/aphids%20(2)_plantscienceandhealth_nparks.jpg">
-	<p>Garden pests are animals that cause damage to crops or ornamental plants, and can cause frustration for gardeners. However, they are still a part of our natural environment, and care should be taken to manage their impact while keeping the garden a safe place for people and biodiversity. Using <a href="/page-index/horticulture-techniques/ipm/">integrated pest management techniques</a> with solutions tailored for specific pests is the best way to solve problems over the long term.</p>
-	<p>The first step in pest management is to know what pest you are up against. Use our <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/digital-tools/pestid/">pest identifier tool</a> to figure out what pests you have!</p>
+	<p>Plant pests are animals that cause damage to crops or ornamental plants, and can cause frustration for gardeners. However, they are still a part of our natural environment, and care should be taken to manage their impact while keeping the garden a safe place for people and biodiversity. Using <a href="/page-index/horticulture-techniques/ipm/">integrated pest management techniques</a> with solutions tailored for specific pests is the best way to solve problems over the long term.</p>
+	<p>The first step in pest management is to know what plant pest you are up against. Use our <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/digital-tools/pestid/">plant pest identifier tool</a> to figure out what pests you have!</p>
 	<br>
 </section>
 
