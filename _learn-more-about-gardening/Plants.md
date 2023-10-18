@@ -88,7 +88,9 @@ description: ""
 </div>
 
 <a href="/digital-tools/plant-search/" class="plantsearch">Click here to use our Plant Suggester if you have no clue what is suitable for your garden!</a>
-	
-<div class="ffw">
+
+
+<p>Can't find the plants that you are looking for? Visit NPark's Flora and Fauna Web here!</p><p>
+</p><div class="ffw">
 	<a href="https://www.nparks.gov.sg/florafaunaweb" class="ffwbutton">NPark's Flora and Fauna Web</a>
 </div>
