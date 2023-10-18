@@ -14,8 +14,8 @@ image: ""
 <section>
 	<h4>Layers of soil</h4>
 	<img title="Loamy soil is generally found on top of clay soil. Photo by Jacqueline Chua." src="/images/Horti%20techniques/planterbedsoillayers%20(2)_jacquelinechua.jpg">
-	<p>Because clay is so dense, it will tend to sink down past organic matter and other soil components over time. As a result, many true ground beds and <a href="/page-index/hardscapes/planter-beds/">planter beds</a> will end up with a layer of loamy soil on top and clay soil at the bottom. When soil is exposed to heavy rains, the loamy soil layer can get washed away, leaving the clay layer.</p>
-	<p>Most plants roots need loamy soil to grow well. Gardeners can improve the remaining clay soil with <a href="/page-index/horticulture-techniques/soil-amendments/">organic soil amendments</a> to make the top layer of soil loamy again before planting.</p>
+	<p>Organic matter is much lighter than the <a href="/page-index/horticulture-techniques/soil/">other components of soil</a>, and will break down over time. As a result, many true ground beds and <a href="/page-index/hardscapes/planter-beds/">planter beds</a> will end up with a layer of loamy soil on top and clay soil at the bottom. When soil is exposed to heavy rains, the loamy soil layer can get washed away, leaving the clay layer.</p>
+	<p>Most plants roots need loamy soil to grow well. Gardeners can improve the remaining clay soil with <a href="/page-index/horticulture-techniques/soil-amendments/">organic soil amendments</a> to make the top layer of soil loamy again before planting. To retain the loamy layer and to help introduce additional organic matter, gardeners can grow <a href="/page-index/horticulture-techniques/companion-planting/">living mulches</a> to protect the soil.</p>
 
 <section>
 	<h4>Improving soil</h4>
