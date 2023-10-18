@@ -145,6 +145,7 @@ image: ""
 <h4 id="m">M</h4>
 	<a class="body" href="/page-index/ornamental-plants/mistletoe-fig/">Mistletoe Fig</a><br>
 	<a class="body" href="/page-index/edible-plants/malayan-ixora/">Malayan Ixora</a><br>
+	<a class="body" href="/page-index/edible-plants/maidens-jealousy/">Maiden's Jealousy</a><br>
 	<br><br>
 </section>
 
@@ -173,6 +174,7 @@ image: ""
 <h4 id="r">R</h4>
 	<a class="body" href="/page-index/ornamental-plants/red-leea/">Red Leea</a><br>
 	<a class="body" href="/page-index/edible-plants/river-tarenna/">River Tarenna</a><br>
+	<a class="body" href="/page-index/edible-plants/rose-myrtle/">Rose Myrtle</a><br>
 	<br><br>
 </section>
 
