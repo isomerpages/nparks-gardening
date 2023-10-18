@@ -145,8 +145,8 @@ image: ""
 <section>
 <h4 id="m">M</h4>
 	<a class="body" href="/page-index/ornamental-plants/mistletoe-fig/">Mistletoe Fig</a><br>
-	<a class="body" href="/page-index/edible-plants/malayan-ixora/">Malayan Ixora</a><br>
-	<a class="body" href="/page-index/edible-plants/maidens-jealousy/">Maiden's Jealousy</a><br>
+	<a class="body" href="/page-index/ornamental-plants/malayan-ixora/">Malayan Ixora</a><br>
+	<a class="body" href="/page-index/ornamental-plants/maidens-jealousy/">Maiden's Jealousy</a><br>
 	<br><br>
 </section>
 
