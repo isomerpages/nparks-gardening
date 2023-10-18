@@ -24,18 +24,18 @@ image: ""
 
 <section> 
   <h4>Growing:</h4> 
-	<p>Mexican Hen and Chicks are more difficult to grow in Singapore as they thrive in drier climates. It is best to grow them in a shallow pot with well-draining, gritty soil. Allow the soil to dry out completely before watering deeply. Water directly into the soil, and avoid wetting the leaves. The leaves can be protected by covering the soil with a layer of inorganic mulch, or by bottom watering the plant. Dried, rotting or damaged leaves need to be removed as soon as possible to prevent rot from spreading.</p> 
+	<p>Mexican Hen and Chicks are more difficult to grow in Singapore as they thrive in drier climates. It is best to grow them in a shallow pot with well-draining, gritty soil. Allow the soil to dry out completely before watering deeply. Water directly into the soil, and avoid wetting the leaves. The leaves can be protected by covering the soil with a layer of inorganic mulch, or by <a href="/page-index/horticulture-techniques/bottom-watering/">bottom watering</a> the plant. Dried, rotting or damaged leaves need to be removed as soon as possible to prevent rot from spreading.</p> 
 	<br> 
 </section> 
 
 <section> 
   <h4>Propagation:</h4> 
-	<p>Mexican Hen and Chicks can be grown from stem and leaf cuttings rooted directly into soil.</p> 
+	<p>Mexican Hen and Chicks can be grown from <a href="/page-index/horticulture-techniques/propagating-by-cuttings/">stem and leaf cuttings</a> rooted directly into soil.</p> 
 	<br> 
 </section> 
  
 <section> 
   <h4>Common problems &amp; solutions:</h4> 
-	<p>Mealy bugs often infest the plant if it is sickly or overgrown. Prune off the infested parts, or apply horticultural oils like neem oil and white summer oil to suffocate the remaining pests. Regularly prune the plant to allow light and air to reach throughout the plant, and check the plant for underlying problems like root rot, lack of sunlight, and nutrient deficiencies.</p>
+	<p><a href="/page-index/pests/mealy-bugs/">Mealy bugs</a> often infest the plant if it is sickly or overgrown. Prune off the infested parts, or apply horticultural oils like neem oil and white summer oil to suffocate the remaining pests. <a href="/page-index/horticulture-techniques/pruning/">Regularly prune</a> the plant to allow light and air to reach throughout the plant, and check the plant for underlying problems like <a href="/page-index/plant-problems/root-rot/">root rot</a>, lack of sunlight, and <a href="/page-index/horticulture-techniques/nutrient-deficiencies/">nutrient deficiencies</a>.</p>
 	<br> 
 </section>
