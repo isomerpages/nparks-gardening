@@ -10,7 +10,7 @@ description: ""
 
 <section>
 	<p>All gardeners begin somewhere! The easiest plants to look after are ones that can thrive in the environment you already have. For gardeners in Singapore, this means tropical plants that can cope with high heat, humidity and rainfall. </p>
-	<p>Of these plants, some grow better in lots of light, while others might need shade. Figure out how much <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/horticulture-techniques/gauging-light/">light</a> you have, and you will then know what you can grow. Use our <a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/plant-search/">plant suggester tool</a> to see what plants can survive in the amount of light and space you have. </p>
+	<p>Of these plants, some grow better in lots of light, while others might need shade. Figure out how much <a href="/page-index/horticulture-techniques/gauging-light/">light</a> you have, and you will then know what you can grow. Use our <a href="/digital-tools/plant-search/">plant suggester tool</a> to see what plants can survive in the amount of light and space you have. </p>
 	<br>
 </section>
 
@@ -20,8 +20,8 @@ description: ""
 		<li><a href="/page-index/edible-plants/bayam/">Bayam</a></li>
 		<li><a href="/page-index/edible-plants/indian-borage/">Indian Borage</a></li>
 		<li><a href="/page-index/edible-plants/laksa/">Laksa</a></li>
-	<li>Mother of Thousands</li>
-	<li>Snake Plant</li>
+	<li><a href="/page-index/ornamental-plants/mother-of-thousands/">Mother Of Thousands</a></li>
+		<li><a href="/page-index/ornamental-plants/snake-plant/">Snake Plant</a></li>
 		<li><a href="/page-index/edible-plants/thai-basil/">Thai Basil</a></li>
 		<li><a href="/page-index/edible-plants/turmeric/">Turmeric</a></li>
 	</ul>
