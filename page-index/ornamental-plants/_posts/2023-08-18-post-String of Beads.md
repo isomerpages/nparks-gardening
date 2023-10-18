@@ -45,6 +45,6 @@ image: ""
   <h4>Common problems &amp; solutions:</h4> 
 	<p>This plant is largely resistant to most pests.</p>
 	<p>This plant is susceptible to <a href="/page-index/plant-problems/root-rot/">root rot</a> if grown in <a href="/page-index/plant-problems/waterlogging/">waterlogged</a> soil. To prevent rot, allow the plant to dry out between waterings and ensure that there is enough air circulation.</p>
-	<p><a href="/page-index/pests/mealy-bugs/">Mealy bugs</a> may infest the plant if it is sickly or overgrown. Prune off the infested parts, or apply horticultural oils like neem oil and white summer oil to suffocate the remaining pests. <a href="/page-index/horticulture-techniques/pruning/">Regularly prune</a> the plant to allow light and air to reach throughout the plant, and check the plant for underlying problems like root rot, lack of sunlight, and nutrient deficiencies.</p>
+	<p><a href="/page-index/pests/mealy-bugs/">Mealy bugs</a> may infest the plant if it is sickly or overgrown. Prune off the infested parts, or apply horticultural oils like neem oil and white summer oil to suffocate the remaining pests. <a href="/page-index/horticulture-techniques/pruning/">Regularly prune</a> the plant to allow light and air to reach throughout the plant, and check the plant for underlying problems like <a href="/page-index/horticulture-techniques/root-rot/">root rot</a>, lack of sunlight, and <a href="/page-index/plant-problems/nutrient-deficiencies/">nutrient deficiencies</a>.</p>
 	<br> 
 </section>
