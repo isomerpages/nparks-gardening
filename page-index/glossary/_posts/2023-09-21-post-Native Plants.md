@@ -171,6 +171,7 @@ image: ""
 <section>
 <h4 id="r">R</h4>
 	<a class="body" href="/page-index/ornamental-plants/red-leea/">Red Leea</a><br>
+	<a class="body" href="/page-index/edible-plants/river-tarenna/">River Tarenna</a><br>
 	<br><br>
 </section>
 
