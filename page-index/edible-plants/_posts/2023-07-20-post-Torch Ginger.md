@@ -33,20 +33,19 @@ Mature flowers are bright, showy, and long lasting, making them suitable as a cu
 
 <section>
 	<h4>Growing:</h4>
-	<p>Taro grows rapidly in the rainy season and has the potential to overwhelm neighbouring plants. Its large size and rapid growth make it a good filler plant for parts of the garden with <a href="/page-index/plant-problems/waterlogging/">waterlogged soil</a> or that are prone to flooding. Grow Taro in its own garden bed or in a designated area for ease of maintenance. </p>
+	<p>Torch gingers grow naturally in clusters as the plant grows more rhizome, an underground horizontal stem that resembles a tuberous root. <a href="/page-index/horticulture-techniques/pruning">Regular pruning</a> and thinning plants will increase airflow and reduce the incidence of pests.  </p>
 <br>
 </section>
 
 <section>
 	<h4>Harvesting:</h4>
-	<p>Plants can be <a href="/page-index/horticulture-techniques/harvesting-hygiene">harvested</a> for tubers and young leaflets at any time but will need at least 4 to 10 months to produce additional tubers after being planted.  The tubers are typically harvested via division, while young leaves are harvested via the <a href="/page-index/horticulture-techniques/cut-and-come-again">cut-and-come-again method</a>.</p>
-	<p><b>The tubers and leaves should not be eaten raw as they contain calcium oxalate, which is toxic.</b>The calcium oxalate is destroyed by cooking with heat.</p>
+	<p>Plants can be <a href="/page-index/horticulture-techniques/harvesting-hygiene/">harvested</a> for immature flowers at any time. </p>
 	<br>
 </section>
 
 <section>
 	<h4>Propagation:</h4>
-	<p>Taro is propagated <a href="/page-index/horticulture-techniques/propagating-by-division">via division</a> of the tubers. </p>
+	<p>Torch gingers are propagated via <a href="/page-index/horticulture-techniques/propagating-by-division/">division of the rhizome</a>.</p>
 	<br>
 </section>
 
