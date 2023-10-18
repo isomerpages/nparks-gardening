@@ -32,23 +32,6 @@ description: ""
 	  text-decoration: none !important;
 	}
 	
-		.ffw {
-		display: grid;
-		grid-template-columns: repeat(auto-fit, minmax(275px, 275px));
-		grid-template-rows: auto-fit;
-		direction:rtl;
-	}
-	
-	.ffwbutton{
-		text-align:center;
-		background-color: #215732;
-		border: 2px solid #215732;
-		padding: 5px;
-  	border-radius: 10px;
-    color: white !important;
-	  text-decoration: none !important;
-	}
-	
 	.button-primary {
     background-color: #215732;
     border: 2px solid #215732;
