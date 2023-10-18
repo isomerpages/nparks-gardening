@@ -8,7 +8,7 @@ image: ""
 ---
 <section>
 	<img title="A gardener uses a magnifying glass to find scale insects along a stem. Photo by Jacqueline Chua." src="/images/Biodiversity/scaleinsects_pestid_jacquelinechua.jpg">
-	<p>Knowing your enemy is the most important part of pest management. Look for signs of pests in your garden, and learn about their life cycle and habitats to help treat each one individually. You can also use our <a href="/digital-tools/pestid/">Pest identifier tool</a> and our <a href="/learn-more-about-gardening/plant-problems/pests/">pest pages</a> to identify pests in your garden.</p>
+	<p>Knowing your enemy is the most important part of plant pest management. Look for signs of pests in your garden, and learn about their life cycle and habitats to help treat each one individually. You can also use our <a href="/digital-tools/pestid/">Plant pest identifier tool</a> and our <a href="/learn-more-about-gardening/plant-problems/pests/">plant pest pages</a> to identify pests in your garden.</p>
 	<br>
 </section>
 
