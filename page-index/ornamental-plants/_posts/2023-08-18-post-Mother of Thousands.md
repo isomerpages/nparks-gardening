@@ -25,7 +25,7 @@ image: ""
 <section> 
   <h4>Environmental needs:</h4> 
 	<img title="Mother of Thousands plants growing in a pot. Photo by Jacqueline Chua." src="/images/Horti%20techniques/ContainerPlanting_JacChua%20(1).jpg">
-  <p>Mother of Thousands thrives in a wide variety of light conditions, from at least two hours of direct sunlight to a minimum of 4 hours of indirect sunlight.  They can be planted in a variety of soil types including well-draining loamy soil, sandy soils, and even clayey soils.</p> 
+  <p>Mother of Thousands thrives in a wide variety of light conditions, from <a href="/page-index/horticulture-techniques/gauging-light/">at least two hours of direct sunlight to a minimum of 4 hours of indirect sunlight</a>.  They can be planted in a variety of soil types including <a href="/page-index/horticulture-techniques/soil/">well-draining loamy soil, sandy soils, and even clayey soils</a>.</p> 
 	<br>
 </section>
 
@@ -38,13 +38,13 @@ image: ""
 <section> 
   <h4>Propagation:</h4> 
 		<img title="Mother of Thousands plant with plantlets. Photo by Jacqueline Chua." src="/images/Plants/motherofthousands%20(1)_jacquelinechua.jpg">
-	<p>Mother of Thousands can be grown from stem and leaf cuttings rooted directly into soil, or by the aerial plantlets growing on the leaves.</p> 
+	<p>Mother of Thousands can be grown from <a href="/page-index/horticulture-techniques/propagating-by-cuttings/">stem and leaf cuttings</a> rooted directly into soil, or by the <a href="/page-index/horticulture-techniques/propagating-by-division/">aerial plantlets</a> growing on the leaves.</p> 
 	<br> 
 </section> 
  
 <section> 
   <h4>Common problems &amp; solutions:</h4> 
 	<p>Mother of Thousands are largely resistant to most pests.</p>
-	<p>These plants are susceptible to root rot if grown in waterlogged soil. To prevent rot, allow the plant to dry out between waterings and ensure that there is enough air circulation.</p>
+	<p>These plants are susceptible to <a href="/page-index/plant-problems/root-rot/">root rot</a> if grown in <a href="/page-index/plant-problems/waterlogging/">waterlogged soil</a>. To prevent rot, allow the plant to dry out between waterings and ensure that there is enough air circulation.</p>
 	<br> 
 </section>
