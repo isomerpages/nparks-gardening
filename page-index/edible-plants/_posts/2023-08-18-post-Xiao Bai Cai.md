@@ -20,7 +20,7 @@ image: ""
 	<p>Xiao Bai Cai is a popular leafy vegetable used in Chinese cooking, and is typically stir-fired, blanched, or steamed. They produce a loose head of leaves with thick leaf stalks that light green or whitish near the base.</p>
 	<p>An <a href="/learn-more-about-gardening/glossary/#a">annual</a> crop, this plant is often grown and consumed under 2 months. Its rapid harvest cycle makes it useful for <a href="/page-index/horticulture-techniques/crop-rotation/">crop rotation</a>.</p>
   <p>Due to its shallow root system, these plants are a popular choice for <a href="/page-index/horticulture-techniques/planting-in-containers/">container gardening</a>.</p>
-	<p>Xiao Bai Cai is part of the Brassica or cabbage family, which also includes other popular vegetables like <a href="/page-index/edible-plants/cai-xin/">Cai Xin</a> and<a href="/page-index/edible-plants/kai-lan/">Kai Lan</a>.</p>
+	<p>Xiao Bai Cai is part of the Brassica or cabbage family, which also includes other popular vegetables like <a href="/page-index/edible-plants/cai-xin/">Cai Xin</a> and <a href="/page-index/edible-plants/kai-lan/">Kai Lan</a>.</p>
   <br> 
 </section> 
  
