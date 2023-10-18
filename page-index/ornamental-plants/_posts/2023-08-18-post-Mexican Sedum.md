@@ -25,19 +25,19 @@ image: ""
 
 <section> 
   <h4>Growing:</h4> 
-	<p>Mexican Sedum can be grown in shallow pots with well-draining, gritty soil. Allow the soil to dry out completely before watering deeply. As this plant is rather fast growing, it will benefit from a balanced organic fertiliser occasionally, around once every 3 or 4 months. Too much fertiliser can result in a leggy plant. Regular pruning will encourage bushier growth.</p> 
+	<p>Mexican Sedum can be grown in shallow pots with well-draining, gritty soil. Allow the soil to dry out completely before watering deeply. As this plant is rather fast growing, it will benefit from <a href="/page-index/horticulture-techniques/fertilising/">a balanced organic fertiliser</a> occasionally, around once every 3 or 4 months. Too much fertiliser can result in a leggy plant. <a href="/page-index/horticulture-techniques/pruning/">Regular pruning</a> will encourage bushier growth.</p> 
 	<br> 
 </section> 
 
 <section> 
   <h4>Propagation:</h4> 
-	<p>Mexican Sedum can be grown from stem and leaf cuttings.</p> 
+	<p>Mexican Sedum can be grown from <a href="/page-index/horticulture-techniques/propagating-by-cuttings/">stem and leaf cuttings</a>.</p> 
 	<br> 
 </section> 
  
 <section> 
   <h4>Common problems &amp; solutions:</h4> 
 	<p>Mexican Sedum are largely resistant to most pests.</p>
-	<p>This plant is susceptible to root and stem rot if overwatered. To prevent rot, allow the plant to dry out between waterings. Frequent pruning of the plant to promote air circulation will also help to decrease the chance of rot.</p>
+	<p>This plant is susceptible to <a href="/page-index/plant-problems/root-rot/">root and stem rot</a> if overwatered. To prevent rot, allow the plant to dry out between waterings. <a href="/page-index/horticulture-techniques/pruning/">Frequent pruning</a> of the plant to promote air circulation will also help to decrease the chance of rot.</p>
 	<br> 
 </section>
