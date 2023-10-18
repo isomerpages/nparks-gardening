@@ -174,15 +174,15 @@ image: ""
 <section>
 <h4 id="r">R</h4>
 	<a class="body" href="/page-index/ornamental-plants/red-leea/">Red Leea</a><br>
-	<a class="body" href="/page-index/edible-plants/river-tarenna/">River Tarenna</a><br>
-	<a class="body" href="/page-index/edible-plants/rose-myrtle/">Rose Myrtle</a><br>
+	<a class="body" href="/page-index/ornamental-plants/river-tarenna/">River Tarenna</a><br>
+	<a class="body" href="/page-index/ornamental-plants/rose-myrtle/">Rose Myrtle</a><br>
 	<br><br>
 </section>
 
 <section>
 <h4 id="s">S</h4>
-	<a class="body" href="/page-index/edible-plants/singapore-rhododendron/">Singapore Rhododendron</a><br>
-	<a class="body" href="/page-index/edible-plants/satin-pothos/">Satin Pothos</a><br>
+	<a class="body" href="/page-index/ornamental-plants/singapore-rhododendron/">Singapore Rhododendron</a><br>
+	<a class="body" href="/page-index/ornamental-plants/satin-pothos/">Satin Pothos</a><br>
 <br><br>
 </section>
 
