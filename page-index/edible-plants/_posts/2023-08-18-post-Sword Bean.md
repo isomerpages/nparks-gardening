@@ -28,7 +28,6 @@ image: ""
 		</p><p>Plants do best in <a href="/page-index/horticulture-techniques/soil/">moist, well-drained soil</a> at least 30cm deep, or in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a>.</p>
 	<p>This vine is vulnerable to heat stress during the dry season. <a href="/page-index/horticulture-techniques/watering/">Water it regularly</a> and <a href="/page-index/horticulture-techniques/mulching/">mulch</a> the base to prevent water loss.</p>
 	<p>As a fast-growing vine, this plant can be grown on the ground or trained up a sturdy <a href="/page-index/hardscapes/trellises/">trellis</a>. The fruits are quite long and often exceed 30cm, so they do best on tall trellises.</p>
-	<iframe width="100%" height="415" src="https://www.youtube.com/embed/SUQGxxAAcNs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
 	<p>As with all members of the bean family, this plant is pollinated by bees. Growing more <a href="/page-index/glossary/biodiversity-attracting-plants/">bee-attracting plants</a> within the garden will encourage pollination. If your garden lacks bees, the plant can also be hand pollinated.</p>
 	<br>
 </section>
