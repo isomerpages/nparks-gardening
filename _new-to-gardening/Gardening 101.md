@@ -30,21 +30,21 @@ description: ""
 
 <div class="wrapper">
   <div class="box">
-    <h4>Resource Suggester</h4>
-	      <img style="height:150px; width:200px; display: inline" src="/images/Landing_page/Gardening101/questionmarks.png"><br>
-			Find relevant resources here<br><br>
-			<a class="button-primary" href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/new-to-gardening/resource-suggester/">Try it now!</a>
+    <h4>Resource Locator</h4>
+		<img style="height:150px; width:200px; display: inline" src="/images/Landing_page/Gardening101/questionmarks.png"><br>
+		Let us help you find what you need<br><br>
+			<a class="button-primary" href="/new-to-gardening/resource-suggester/">Try it now!</a>
 	</div>
 	<div class="box">
 		<h4>Basic Gardening Skills</h4>
 			<img style="height:150px; width:200px; display: inline" src="/images/Landing_page/Gardening101/secateurs.png"><br>
 			Learn key skills for gardening<br><br>
-			<a class="button-primary" href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/new-to-gardening/basic-gardening-skills/">Try it now!</a>
+			<a class="button-primary" href="/new-to-gardening/basic-gardening-skills/">Start now!</a>
 	</div>
 	<div class="box">
 		<h4>Plants for Beginners</h4>
 			<img style="height:150px; width:200px; display: inline" src="/images/Landing_page/Gardening101/pottedplant.png"><br>
 			Almost impossible to kill!<br><br>
-			<a class="button-primary" href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/new-to-gardening/plants-for-beginners/">Try it now!</a>
+			<a class="button-primary" href="/new-to-gardening/plants-for-beginners/">Tell me more!</a>
 		</div>
 </div>
