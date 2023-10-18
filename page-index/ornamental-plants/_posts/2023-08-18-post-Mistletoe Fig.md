@@ -31,13 +31,13 @@ image: ""
 	
 <section> 
   <h4>Growing:</h4> 
-	<p>Mistletoe Figs are steady growers and generally does not need fertilizing. The shrub can grow up to 7m in height and will need to be pruned regularly. Regular pruning to promote airflow will keep the plant healthy and neat.</p> 
+	<p>Mistletoe Figs are steady growers and generally does not need fertilizing. The shrub can grow up to 7m in height and will need to be pruned regularly. <a href="/page-index/horticulture-techniques/pruning/">Regular pruning</a> to promote airflow will keep the plant healthy and neat.</p> 
 	<br> 
 </section> 
 
 <section> 
   <h4>Propagation:</h4> 
-	<p>Mistletoe figs can be grown from stem cuttings rooted in soil.</p> 
+	<p>Mistletoe figs can be grown from <a href="/page-index/horticulture-techniques/propagating-by-cuttings/">stem cuttings</a> rooted in soil.</p> 
 	<br> 
 </section> 
  
