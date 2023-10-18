@@ -42,7 +42,7 @@ image: ""
 <section>
 	<h4 id="biological_control">Biological control</h4>
 	<img title="Ladybird larvae eating scale insects Photo by Victoria Lim." src="/images/Biodiversity/lady%20bug%20larva%20-%20nerium%20oleander%20-%20ppn%201victorialim.jpg">
-	<p>Biological control takes advantage of natural predators and pathogens to keep pest populations in check. Planting <a href="/page-index/glossary/biodiversity-attracting-plants/">biodiversity-attracting plants</a> and learning about <a href="/page-index/biodiversity/predators/">garden predators</a> will make your garden a better habitat for them will help keep pest populations down.</p>
+	<p>Biological control takes advantage of natural predators and pathogens to keep pest populations in check. Planting <a href="/page-index/glossary/biodiversity-attracting-plants/">biodiversity-attracting plants</a>, reducing or not using pesticides, and learning about <a href="/page-index/biodiversity/predators/">garden predators</a> will make your garden a better habitat for them will help keep pest populations down.</p>
 	<br>
 </section>
 
