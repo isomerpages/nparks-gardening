@@ -224,7 +224,7 @@ image: ""
 <a class="body" href="/page-index/edible-plants/smooth-loofah/">Smooth Loofah</a><br>
 <a class="body" href="/page-index/edible-plants/snake-gourd/">Snake Gourd</a><br>
 <a class="body" href="/page-index/edible-plants/soursop/">Soursop</a><br>
-	<a class="body" href="/page-index/edible-plants/lime/">Spearmint</a><br>
+	<a class="body" href="/page-index/edible-plants/spearmint/">Spearmint</a><br>
 	<a class="body" href="/page-index/edible-plants/sunflower/">Sunflowers</a><br>
 	<a class="body" href="/page-index/edible-plants/sweet-potato/">Sweet Potato</a><br>
 <a class="body" href="/page-index/edible-plants/sword-bean/">Sword Bean</a><br>
