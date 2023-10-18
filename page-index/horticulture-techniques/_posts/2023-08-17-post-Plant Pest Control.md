@@ -42,11 +42,7 @@ image: ""
 <section>
 	<h4 id="biological_control">Biological control</h4>
 	<img title="Ladybird larvae eating scale insects Photo by Victoria Lim." src="/images/Biodiversity/lady%20bug%20larva%20-%20nerium%20oleander%20-%20ppn%201victorialim.jpg">
-	<p>Biological control takes advantage of natural predators and pathogens to keep pest populations in check. Learning about <a href="/page-index/biodiversity/predators/">garden predators</a> and making your garden a better habitat for them will help keep pest populations down.</p>
-	<p>Some pathogens can also be used to control pests. These pathogens will specifically target certain species of pests, and will not affect other forms of biodiversity in your garden.</p>
-	<p><b>Bacillus thuringiensis (Bt)</b> a soil borne bacterium that affects insects in their larval stage. Bti – Bacillus thuringiensis israelensis (Bti) comes in pellets or granules, and is used to kill mosquito larvae in ponds, water reservoirs, and other sources of standing water. Bacillus thuringiensis kurstaki (Btk) is used to kill caterpillars, and is generally applied as a spray.</p>
-	<iframe width="100%" height="415" src="https://www.youtube.com/embed/NB6hHGBEztA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe><br>
-	<p><b>Trichoderma fungi</b> can parasitise and inhibit the growth and development of other plant pathogenic fungi. These beneficial fungi can colonise soil and artificial growing media by establishing themselves near plant roots to compete with pathogenic fungi for space and nutrients. Products containing Trichoderma are commercially available in nurseries and online.</p>
+	<p>Biological control takes advantage of natural predators and pathogens to keep pest populations in check. Planting <a href="/page-index/glossary/biodiversity-attracting-plants/">biodiversity-attracting plants</a> and learning about <a href="/page-index/biodiversity/predators/">garden predators</a> will make your garden a better habitat for them will help keep pest populations down.</p>
 	<br>
 </section>
 
