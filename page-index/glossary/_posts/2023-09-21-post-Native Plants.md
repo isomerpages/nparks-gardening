@@ -86,6 +86,7 @@ image: ""
 
 <section>
 	<h4 id="b">B</h4>
+	<a class="body" href="/page-index/ornamental-plants/bamboo-orchid/">Bamboo Orchid</a><br>
 	 <br><br>
 </section>
 
@@ -181,6 +182,7 @@ image: ""
 <section>
 <h4 id="s">S</h4>
 	<a class="body" href="/page-index/edible-plants/singapore-rhododendron/">Singapore Rhododendron</a><br>
+	<a class="body" href="/page-index/edible-plants/satin-pothos/">Satin Pothos</a><br>
 <br><br>
 </section>
 
