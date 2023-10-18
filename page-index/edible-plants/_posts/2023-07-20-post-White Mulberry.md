@@ -53,8 +53,7 @@ image: ""
 
 <section>
 	<h4>Common problems &amp; solutions:</h4>
-	<p> <a href="/page-index/pests/aphids/">Aphids</a>, <a href="/page-index/pests/mealy-bugs/">mealy bugs</a>, and <a href="/page-index/pests/spider-mites/">spider mites</a> often infest the plant if it is sickly or overgrown. Prune off the infested parts, or apply horticultural oils like neem oil and white summer oil to suffocate the remaining pests. <a href="/page-index/horticulture-techniques/pruning/">Regularly prune</a> the plant to allow light and air to reach throughout the plant, and check the plant for underlying problems like <a href="/page-index/plant-problems/root-rot/">root rot</a>, lack of sunlight, and <a href="/page-index/plant-problems/nutrient-deficiencies/">nutrient deficiencies</a>.</p>
-	<p><a href="/page-index/pests/whiteflies/">Whiteflies</a> can infest the plant and lay eggs under its leaves. Remove affected plant parts and catch remaining adults with yellow sticky paper or treat them with citrus spray.</p>
-	<p>Squirrels, birds and fruit bats may eat unripe or ripe fruit. Wrap your fruit in <a href="/page-index/hardscapes/netting/">netting</a> when it starts to develop from a fertilised flower, ideally after all the petals have dropped off.</p>
+<p><a href="/page-index/pests/aphids/">Aphids</a>, <a href="/page-index/pests/mealy-bugs/">Mealy Bugs</a>, <a href="/page-index/pests/whiteflies/">Whiteflies</a>, and <a href="/page-index/pests/spider-mites/">spider mites</a> often infest the plant if it has <a href="/learn-more-about-gardening/plant-problems/">underlying problems</a> like root rot. <a href="/horticulture-techniques/pest-control/">Mechanical pest control</a> methods like <a href="/page-index/horticulture-techniques/pruning/">pruning</a> the infested parts are the best methods for managing these pests in the short term, but resolving the underlying problem will prevent them in the long term.</p>
+	<p>Squirrels and birds may eat unripe or ripe fruit. Wrap your fruit in <a href="/page-index/hardscapes/netting/">netting</a> when it starts to develop.</p>
 	<br>
 </section>
