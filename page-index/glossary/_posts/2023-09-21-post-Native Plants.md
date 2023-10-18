@@ -80,7 +80,7 @@ image: ""
 
 <section>
 <h4 id="a">A</h4>
-	<a class="body" href="/page-index/edible-plants/adap-adap/">Adap Adap</a><br>
+	<a class="body" href="/page-index/ornamental-plants/adap-adap/">Adap Adap</a><br>
 	<br><br>
 </section>
 
