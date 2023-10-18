@@ -10,16 +10,9 @@ image: ""
 	<p>Companion planting is the practice of growing different species of plants together to have them benefit off each other. Having a variety of plants grown together is called polyculture, and it is a more resilient method of cultivation compared to traditional monoculture, which features garden beds that only grow one kind of crop.</p>
 	<img title="A planter bed on a rooftop growing a variety of companion plants. Photo by Jacqueline Chua." src="/images/Garden%20design/BishanEastZone6_JacChua%20(2).jpg">
 	<p>There are many ways to companion plant, but the most common are:</p>
-	<ul>
-		<li>Growing <a href="/page-index/glossary/biodiversity-attracting-plants/">pollinator-attracting plants</a> with fruiting vegetables to increase fruit set</li>
-		<li>Growing legumes to fix nitrogen in the soil, making the soil more fertile for the growing of nitrogen-heavy feeders like leafy vegetables</li>
-		<li>Growing groundcovers to act as a living <a href="/page-index/horticulture-techniques/mulching/">mulch</a> to keep the soil cool and suppress weeds</li>
-	</ul>
-	<br>
-</section>
-
-<section>
-	<h4>Growing pollinator-attracting plants</h4>
+<ul class="jekyllcodex_accordion">
+	<li><input type="checkbox" id="accordion1">
+		<label for="accordion1">Growing pollinator-attracting plants</label><div>	
 	<img title="Asian Honey Bees visiting a sunflower. Photo by Zestin Soh." src="/images/Biodiversity/bee_apiscerana_zestinsoh.jpg">
 	<p>Many crops like <a href="/page-index/edible-plants/tomato/">Tomatoes</a>, <a href="/page-index/edible-plants/brinjal/">Brinjals</a>, <a href="/page-index/edible-plants/cucumber/">Cucumbers</a> and <a href="/page-index/edible-plants/long-bean/">Long Beans</a> need <a href="/page-index/biodiversity/pollinators/">pollinators</a> to form fruit. Providing nectar-rich flowers throughout the year in your garden will attract bees, butterflies, and birds to your garden, and ensure that your plants produce plenty of fruit. These flowering plants can be arranged as a border in your plot  or in between your crops.</p>
 	<p>Some common pollinator-attracting plants used for companion planting include:</p>
@@ -29,12 +22,10 @@ image: ""
 		<li><a href="/page-index/ornamental-plants/golden-dewdrop/">Golden Dewdrops</a> (<em>Duranta erecta</em>)</li>
 		<li><a href="/page-index/ornamental-plants/sunflower/">Sunflowers</a> (<em>Helianthus annuus</em>)</li>
 		<li><a href="/page-index/ornamental-plants/thai-basil/">Thai Basil</a> (<em>Ocimum basilicum</em>)</li>
-	</ul>
-	<br>
-</section>
-
-<section>
-	<h4>Growing legumes to fix nitrogen</h4>
+		</ul>
+</div></li>
+	<li><input type="checkbox" id="accordion2">
+		<label for="accordion2">Growing legumes to fix nitrogen</label><div>
 	<img title="Butterfly peas are an easy legume to grow, and produce edible flowers. Photo by Jacqueline Chua." src="/images/Plants/BluePeaFlower_JacChua%20(2).jpg">
 	<p>Legumes like <a href="/page-index/edible-plants/long-bean/">Long Beans</a>, <a href="/page-index/edible-plants/winged-bean/">Winged Beans</a>, <a href="/page-index/edible-plants/peanut/">Peanuts</a> will fix nitrogen into the soil via their root nodules. Nitrogen is a key chemical needed for plant growth, so having a few legumes near nitrogen heavy feeders like <a href="/page-index/edible-plants/kailan/">Kailan</a>, <a href="/page-index/edible-plants/lettuce/">Lettuce</a> and other leafy vegetables will encourage these crops to grow more leaves and increase their yield. Legumes are used in a similar way in crop rotation to improve soil fertility of annual crop beds.  </p>
 	<p>Some legumes used for companion planting include:</p>
@@ -44,11 +35,9 @@ image: ""
 		<li><a href="">Winged Bean</a> (<em>Psophocarpus tetragonolobus</em>)</li>
 		<li><a href="">Long bean</a> (<em>Vigna unguiculata</em>)</li>
 	</ul>
-	<br>
-</section>
-
-<section>
-	<h4>Growing groundcovers as a living mulch</h4>
+</div></li>
+	<li><input type="checkbox" id="accordion3">
+		<label for="accordion3">Growing groundcovers as a living mulch</label><div>
 	<img src="/images/Hardscapes/PXL_20230225_024644403.jpg" title="Alternanthera plants being used as living mulch. Photo by Jacqueline Chua">
 	<p>Covering the soil with <a href="/page-index/horticulture-techniques/mulching/">organic or inorganic mulches</a> helps to reduce water loss, suppress weeds, and prevent soil erosion. Some groundcovers that have fast-growing vines that cover the soil can be used as a living mulch and pairing them with taller plants like <a href="/page-index/edible-plants/ladys-finger/">Lady’s-Fingers</a>, or <a href="/page-index/edible-plants/brinjal/">Brinjals</a> as a main crop is a good way to maximize yields while keeping the soil healthy.</p>  
 	<p>However, living mulches still need water and nutrients, and thus need more watering, maintenance and fertilizing compared to non-living mulches to keep both the living mulch and the main crop productive.</p> 
@@ -64,5 +53,6 @@ image: ""
 		<li><a href="/page-index/edible-plants/sweet-potato/">Sweet potato</a> (<em>Ipomoea batatas</em>)</li>
 		<li><a href="/page-index/edible-plants/turmeric">Turmeric</a> (<em>Curcuma longa</em>)</li>
 	</ul>
-	<br>
+		</div></li>
+	</ul>
 </section>
