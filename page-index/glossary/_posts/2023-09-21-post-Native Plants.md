@@ -137,6 +137,7 @@ image: ""
 <section>
 <h4 id="l">L</h4>
 	<a class="body" href="/page-index/edible-plants/longevity-spinach/">Longevity Spinach</a><br>
+	<a class="body" href="/page-index/ornamental-plants/lipstick-plant/">Lipstick Plant</a><br>
 <br><br>
 </section>
 
