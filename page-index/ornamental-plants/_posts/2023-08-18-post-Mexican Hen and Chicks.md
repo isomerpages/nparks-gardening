@@ -7,18 +7,19 @@ description: ""
 image: ""
 ---
 <header> 
-	<h3>Mexican Hen and Chicks (<em>Echeveria</em> spp. and cultivars)</h3> 
+	<h3>Mexican Hen-and-Chicks (<em>Echeveria</em> spp. and cultivars)</h3> 
 </header>
 
 <section>
-	<p>Mexican Hen and Chicks grow as a short rosettes up to 15cm across, with larger plants growing smaller plants along the margin, resembling how chicks will cluster around a mother hen.</p>
+	<img title="A Mexican hen-and-chicks plant. Photo by Flora and Fauna web." src="/images/Plants/mexicanhenandchicks_ffw.jpg">
+	<p>Mexican Hen-and-Chicks plants grow as a short rosettes up to 15cm across, with larger plants growing smaller plants along the margin, resembling how chicks will cluster around a mother hen.</p>
 	<p>A <a href="/learn-more-about-gardening/glossary/#p">perennial</a> succulent, this plant is great to grow in containers or as a center piece or a part in a succulent dish arrangement. This genus has many species and cultivars, each with their unique leaf shape and colours. These plants require more care in the tropics as they do not do well with humidity, and will need care with watering to prevent rot.</p>
 	 <br> 
 </section> 
  
 <section> 
   <h4>Environmental needs:</h4> 
-  <p>Mexican Hen and Chicks thrives in gardens with <a href="/page-index/horticulture-techniques/gauging-light/">4-8 hours of indirect sunlight, or 4-6 hours of direct sunlight</a>. More hours of direct sunlight may cause <a href="/page-index/plant-problems/sunburn/">sunburn</a>. This plant grows best in <a href="/page-index/horticulture-techniques/soil/">sandy soil</a> at least 5cm deep, making it suitable for <a href="/page-index/horticulture-techniques/planting-in-containers/">container gardening</a>. This plant is very vulnerable to <a href="/page-index/plant-problems/root-rot/">root rot</a> and will need <a href="/page-index/horticulture-techniques/soil-amendments/">plenty of grit</a> and good drainage to keep the soil well-aerated.</p> 
+  <p>Mexican Hen and Chicks thrives in gardens with <a href="/page-index/horticulture-techniques/gauging-light/">4-8 hours of indirect sunlight, or 4-6 hours of direct sunlight</a>. More hours of direct sunlight may cause <a href="/page-index/plant-problems/sunburn/">sunburn</a>. This plant grows best in <a href="/page-index/horticulture-techniques/soil/">sandy soil</a> at least 5cm deep, making it suitable for <a href="/page-index/horticulture-techniques/planting-in-containers/">container gardening</a>. This plant is very vulnerable to <a href="/page-index/plant-problems/root-rot/">root rot</a> and will need <a href="/page-index/horticulture-techniques/soil-amendments/">plenty of inorganic soil amendments</a> and good drainage to keep the soil well-aerated.</p> 
 	<br>
 </section>
 
@@ -36,6 +37,7 @@ image: ""
  
 <section> 
   <h4>Common problems &amp; solutions:</h4> 
-	<p><a href="/page-index/pests/mealy-bugs/">Mealy bugs</a> often infest the plant if it is sickly or overgrown. Prune off the infested parts, or apply horticultural oils like neem oil and white summer oil to suffocate the remaining pests. <a href="/page-index/horticulture-techniques/pruning/">Regularly prune</a> the plant to allow light and air to reach throughout the plant, and check the plant for underlying problems like <a href="/page-index/plant-problems/root-rot/">root rot</a>, lack of sunlight, and <a href="/page-index/horticulture-techniques/nutrient-deficiencies/">nutrient deficiencies</a>.</p>
+	<p>This plant is susceptible to <a href="/page-index/plant-problems/root-rot/">root rot</a> if grown in <a href="/page-index/plant-problems/waterlogging/">waterlogged soil</a>. To prevent rot, grow the plant in <a href="/page-index/horticulture-techniques/soil/">sandy soil</a> with plenty of <a href="/page-index/horticulture-techniques/soil-amendments/">inorganic soil amendments</a>. Plants can also be <a href="/page-index/horticulture-techniques/bottom-watering/">bottom watered</a> once a week or less to keep the soil airy.</p>
+	<p><a href="/page-index/pests/mealy-bugs/">Mealy Bugs</a> often infest the plant if it has <a href="/learn-more-about-gardening/plant-problems/">underlying problems</a> like root rot. <a href="/horticulture-techniques/pest-control/">Mechanical pest control</a> methods like <a href="/page-index/horticulture-techniques/pruning/">pruning</a> the infested parts are the best methods for managing these pests in the short term, but resolving the underlying problem will prevent them in the long term.</p>
 	<br> 
 </section>
