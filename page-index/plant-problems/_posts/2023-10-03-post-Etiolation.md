@@ -22,6 +22,6 @@ image: ""
 
 <section>
 	<h4>Treatment</h4>
-	<p>Knowing how to <a href="/learn-more-about-gardening/plants/">choose your plant</a> to fit your environment is the best way to prevent etiolation. The next best way is to move your plant somewhere with more <a href="/page-index/horticulture-techniques/gauging-light/">sunlight</a>!</p>
+	<p>Knowing how to <a href="/page-index/horticulture-techniques/choosing-plants/">choose your plant</a> to fit your environment is the best way to prevent etiolation. The next best way is to move your plant somewhere with more <a href="/page-index/horticulture-techniques/gauging-light/">sunlight</a>!</p>
 	<p>If you can’t move your plant, you will need to change things in its environment to allow it to get more light. <a href="/page-index/horticulture-techniques/plant-spacing/">Thinning</a> and <a href="/page-index/horticulture-techniques/pruning/">pruning</a> nearby plants will reduce shade, and purchasing <a href="/page-index/horticulture-techniques/grow-lights/">grow lights</a> may be a stopgap measure worth considering. </p>
 </section>
