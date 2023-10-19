@@ -66,11 +66,11 @@ image: ""
 		<li><input type="checkbox" id="accordion8">
 		<label for="accordion8">Pumice</label><div>
 		<img title="Pumice is a lightweight and porous rock that comes in various grain sizes. Photo by Jacqueline Chua" src="/images/Horti%20techniques/SoilAmendment_Grit_Jacchua%20(4).jpg">
-		<p><b>Pumice</b> refers to a lightweight volcanic rock that is highly porous. It increases drainage and aeration when mixed into soil, and is a popular soil additive for succulent, cacti and bonsai mixes. Pumice has lots of pores that can help to hold some water for plant roots to absorb, but allows excess water to drain away, thus preventing root rot. It is often used in rooting rooting <a href="/page-index/horticulture-techniques/propagating-by-cuttings/">cuttings</a> and in <a href="/page-index/horticulture-techniques/planting-in-containers/">container gardening</a></p>
+		<p><b>Pumice</b> refers to a lightweight volcanic rock that is highly porous. It increases drainage and aeration when mixed into soil, and is a popular soil additive for succulent, cacti and bonsai mixes. Pumice has lots of pores that can help to hold some water for plant roots to absorb, but allows excess water to drain away, thus preventing root rot. It is often used in rooting <a href="/page-index/horticulture-techniques/propagating-by-cuttings/">cuttings</a> and in <a href="/page-index/horticulture-techniques/planting-in-containers/">container gardening</a></p>
 	</div></li>
 	<li><input type="checkbox" id="accordion9">
-		<label for="accordion9">Vermiculite</label><div>
-						<img title="Vermiculite, which looks like shiny flakes that are lightweight and porous. Photo by Victoria Lim." src="/images/Horti%20techniques/vermiculite%201_victorialim.jpg">
+	<label for="accordion9">Vermiculite</label><div>
+		<img title="Vermiculite, which looks like shiny flakes that are lightweight and porous. Photo by Victoria Lim." src="/images/Horti%20techniques/vermiculite%201_victorialim.jpg">
 		<p><b>Vermiculite</b> is a mineral that expands when heated, forming lightweight flakes that are highly porous. It increases drainage when mixed into soil and keeps it loose. Vermiculite flakes also absorb water like a sponge, making it a useful material to keep plants moist. It is often used in rooting <a href="/page-index/horticulture-techniques/propagating-by-cuttings/">cuttings</a>, <a href="/page-index/horticulture-techniques/propagating-by-seed/">seed-starting mixes</a> and in <a href="/page-index/horticulture-techniques/planting-in-containers/">container gardening</a>. Unfortunately, because it is so light, vermiculite tends to float to the top in lightweight soil mixes during watering and can be blown away by the wind. It needs to be mixed back into the soil periodically.</p>
 	</div></li>
 </ul>
