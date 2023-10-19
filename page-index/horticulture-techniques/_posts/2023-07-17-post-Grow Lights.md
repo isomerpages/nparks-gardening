@@ -7,7 +7,7 @@ description: ""
 image: ""
 ---
 <section>
-	<p>The biggest hurdle to growing plants indoor is having enough light. Using a grow light can remedy many issues with indoor gardening, and give you the flexibility of growing anywhere in your home and not be reliant on sunlight coming through your windows. </p>
+	<p>The biggest hurdle to growing plants indoor is having enough light. Using a grow light can remedy many issues with indoor gardening. It can give you the flexibility of growing anywhere in your home and not be reliant on sunlight coming through your windows. </p>
 	<br>
 </section>
 
