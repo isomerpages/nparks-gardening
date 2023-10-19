@@ -36,7 +36,6 @@ image: ""
 	<img title="A young Community Gardener pushes a trolley with tools along a primary path. Photo by NParks." src="/images/Gardeners/Jurong%20central%20Zone%20D%20(78).jpg">
 	<p><b>Areas with high traffic</b> (e.g., major garden amenities like water points, tool sheds and entrances) will need wider paths, usually at least 0.9m wide. These are called <b>primary paths</b> since they are the most important. Resilient materials like concrete, brick, or gravel are ideal for primary pathways as they can withstand high footfall.</p> 
 	<img title="Community Gardeners using a secondary path for weeding. Photo by Jacqueline Chua." src="/images/Gardeners/GeneralMaintainence_JacChua%20(1).jpg">
-	<p><b>Smaller secondary paths</b> can lead to maintenance areas, individual planter beds, or other areas in the garden that need to be accessed but have less traffic. These paths are usually at least 0.45m wide, and  can be made from more aesthetic materials, like stepping stones, or grass. 
-</p>
+	<p><b>Smaller secondary paths</b> can lead to maintenance areas, individual planter beds, or other areas in the garden that need to be accessed but have less traffic. These paths are usually at least 0.45m wide, and can be made from a variety of materials, including decorative options such as stepping stones or grass.</p>
 	<br>
 </section>
