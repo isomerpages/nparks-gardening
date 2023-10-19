@@ -16,14 +16,15 @@ image: ""
 </section>
 
 <section>
-	<img title="Ulam Raja flower. Photo by Victoria Lim." src="/images/Plants/ulamraja_victorialim.jpg">
+		<img title="A cluser of Ulam Raja plants. Photo by Flora and Fauna web." src="/images/Plants/ulamraja_ffw_2.jpg">
 	<p>Ulam Raja are large bushy plants with edible leaves that are eaten raw and are a key ingredient in Nasi Ulam, a rice salad eaten in Southeast Asia. The plant also produces small pink flowers that attract a variety of butterflies and bees.</p>
-	<p>This large <a href="/learn-more-about-gardening/glossary/#a">annual</a> shrub produces many small wind-dispersed seeds that sprout quickly, with plants quickly growing around the garden. This makes it a popular choice for edible gardens, biodiversity-attracting gardens and low-maintenance beds.</p>
+	<p>This large <a href="/learn-more-about-gardening/glossary/#a">annual</a> shrub produces many small wind-dispersed seeds that sprout quickly, which usually results in seedlings spontaneously growing around the garden. This makes it a popular choice for edible gardens, that practice <a href="/page-index/horticulture-techniques/crop-rotation/">crop rotation</a>.</p>
 	<br>
 </section>
 
 <section>
 	<h4>Environmental needs:</h4>
+	<img title="Ulam Raja flower. Photo by Victoria Lim." src="/images/Plants/ulamraja_victorialim.jpg">
 	<p>Ulam Raja grows well in <a href="/page-index/horticulture-techniques/gauging-light/">6-8 hours of direct sunlight</a>. Plants do best in <a href="/page-index/horticulture-techniques/soil/">loamy soil</a> at least 20cm deep, or in true ground. These plants are vulnerable to <a href="/page-index/plant-problems/root-rot/">root rot</a>, so ensure that your pots drain well, and that your soil has plenty of <a href="/page-index/horticulture-techniques/soil-amendments/">organic matter</a> to let the roots breathe.</p>
 	<br>
 </section>
@@ -31,7 +32,7 @@ image: ""
 <section>
   <h4>Sowing seeds:</h4>
 		<iframe width="100%" height="415" src="https://www.youtube.com/embed/x7J87wY7U6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
-	<p>Sow seeds individually in a seedling tray filled with potting mix or seedling mix. Lightly mist the soil until damp, once a day. Seeds should sprout within 10 days.</p>
+	<p><a href="/page-index/horticulture-techniques/propagation-by-seeds">Sow seeds</a>  individually in a seedling tray filled with potting mix or seedling mix. Lightly mist the soil until damp, once a day. Seeds should sprout within 10 days.</p>
 	<p>The seedlings will be vulnerable to high heat and heavy rain and are best kept in a sheltered propagation area or a shaded space with around 4 hours of partial or direct sunlight.</p>
 	<p>Seeds can be sown directly into pots or the ground around 15cm apart. Lightly water the soil until damp, once a day. Seeds should sprout within 10 days.</p>
 	<br>
@@ -52,15 +53,16 @@ image: ""
 
 <section>
 	<h4>Harvesting:</h4>
-	<img title="Photo by Jacqueline Chua" src="/images/Plants/UlamRaja_JacChua.jpg">
-	<p>Plants can be <a href="/page-index/horticulture-techniques/harvesting-hygiene/">harvested</a> for leaves at any time.  Fruits can be harvested for seeds when they are brown and dry.</p>
-	<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/FuWK90da0GY" height="415" width="100%"></iframe><br>
+	<img title="Ulam raja leaves. Photo by Jacqueline Chua" src="/images/Plants/ulamraja%20(2)_jacquelinechua.jpg">
+	<p>Plants can be <a href="/page-index/horticulture-techniques/harvesting-hygiene/">harvested</a> for young or old leaves at any time.</p>
+		<img title="Photo by Jacqueline Chua" src="/images/Plants/UlamRaja_JacChua.jpg">
+	<p>Fruits can be harvested for seeds when they are brown and dry.</p>
 	<br>
 </section>
 
 <section>
 	<h4>Propagation:</h4>
-	<p>Ulam Raja can be grown from seed.</p>
+	<p>Ulam Raja can be grown from <a href="/page-index/horticulture-techniques/propagation-by-seeds">seed</a>.</p>
 	<br>
 </section>
 
