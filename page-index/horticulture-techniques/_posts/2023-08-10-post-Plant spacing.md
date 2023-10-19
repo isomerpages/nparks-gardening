@@ -8,7 +8,7 @@ image: ""
 ---
 <section>
 		<img title="A Community Gardener spacing his transplants out before planting them in. Photo by Jacqueline Chua." src="/images/Gardeners/Planting%20(2).jpg">
-	<p>Having plants spaced properly allows plants to grow to their fullest potential. A lack of space causes health problems, while too much space causes problems for maintenance.  Learning how to judge how much space your plants need with help you make better decisions while gardening, designing a garden, and planning for future garden projects.</p>
+	<p>Having plants spaced properly allows plants to grow to their fullest potential. A lack of space causes health problems, while too much space causes problems for maintenance.  Learning how to judge how much space your plants need will help you make better decisions while gardening, designing a garden, and planning for future garden projects.</p>
 	<br>
 </section>
 
