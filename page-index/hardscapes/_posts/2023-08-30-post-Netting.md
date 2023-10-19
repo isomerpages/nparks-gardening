@@ -45,7 +45,7 @@ image: ""
 <section>
 	<h4>Safety</h4>
 	<img title="Community Gardeners handling netting that is well secured and safe. Photo by Jacqueline Chua." src="/images/Gardeners/Harvesting%20(1).jpg">
-	<p>Netting frames should all have footing, which is a portion of the frame driven into soil, lashed to supports, or stabilised with concrete or weights underground. frames should be stable enough to endure shaking by people and windy conditions within the garden. </p> 
+	<p>Netting frames should all have footing, which is a portion of the frame driven into soil, lashed to supports, or stabilised with concrete or weights underground. Frames should be stable enough to endure shaking by people and windy conditions within the garden. </p> 
 	<img title="A plastic cap for poles to prevent them from collecting water and to cap sharp edges. Photo by Jacqueline Chua." src="/images/Hardscapes/PXL_20230615_031940141.jpg">
 	<p>Some frame materials like plastic or metal may have sharp points or consist of hollow poles. Caps can be used to shield gardeners from points and to prevent water collecting in the poles, which is an important part of managing mosquitoes in the garden.</p>
 	<br>
