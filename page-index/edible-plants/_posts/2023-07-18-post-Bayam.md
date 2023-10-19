@@ -18,23 +18,23 @@ image: ""
 <section>
 	<img title="Photo by Jacqueline Chua." src="/images/Horti%20techniques/Spacing_Jacchua%20(15).jpg">
 	<p>A popular leafy vegetable in Malaysia and Indonesia, Bayam is a hardy leafy vegetable that can be grown in small, tight clusters of multiple plants around 10-20cm tall or as a large, erect plant up to 1.5m tall if given enough space. It has varieties that come in red, green or both, and is commonly eaten raw, steamed, or stir-fried.</p>
-	<p>An <a href="/learn-more-about-gardening/glossary/#a">annual</a> crop, this plant is often grown and consumed under 4 months. Its rapid harvest cycle makes it useful for crop rotation.</p>
+	<p>An <a href="/learn-more-about-gardening/glossary/#a">annual</a> crop, this plant is often grown and consumed under 4 months. Its rapid harvest cycle makes it useful for <a href="/page-index/horticulture-techniques/crop-rotation/">crop rotation</a>.</p>
   <p>Due to its shallow root system, these plants are a popular choice for <a href="/page-index/horticulture-techniques/planting-in-containers/">container gardening</a>.</p>
 	<br>
 </section>
 
 <section>
 	<h4>Environmental needs:</h4>
-		<img title="Green bayam. Photo by Jacqueline Chua." src="/images/Plants/bayam3_jacquelinechua.jpg">
+				<img title="Green bayam. Photo by Jacqueline Chua." src="/images/Plants/bayam3_jacquelinechua.jpg">
 		<p>This leafy vegetable thrives in <a href="/page-index/horticulture-techniques/gauging-light/">4-8 hours of direct sunlight, or more than 6 hours of indirect sunlight</a>. Plants do best in <a href="/page-index/horticulture-techniques/soil/">loamy soil</a> at least 10cm deep, making them suitable for <a href="/page-index/horticulture-techniques/planting-in-containers/">container gardening</a>. However, if planted in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a> and left with a lot of space, the plant can grow up to 1.5m high with a thick stem. These plants are vulnerable to <a href="/page-index/plant-problems/root-rot/">root rot</a>, so ensure that your pots drain well, and that your soil has plenty of <a href="/page-index/horticulture-techniques/soil/">organic matter</a> to let the roots breathe. This plant is relatively drought tolerant and can withstand some neglect.</p>
 	<br>
 </section>
 
 <section>
   <h4>Sowing seeds:</h4>
+			<iframe width="100%" height="415" src="https://www.youtube.com/embed/x7J87wY7U6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
 		<p>Seeds can be scattered directly into a pot or into true ground, and then covered with a layer of soil or compost. Lightly water the soil until damp, once a day. Seeds should sprout within a week.</p>
-		<iframe width="100%" height="415" src="https://www.youtube.com/embed/x7J87wY7U6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
-		<p>The seedlings are generally resilient to most environmental factors but may be vulnerable to being eaten by snails or birds. Protect your young plants with a DIY <a href="/page-index/horticulture-techniques/cloches/">cloche</a> or <a href="/page-index/hardscapes/netting/">netting</a>.</p>
+<p>The seedlings may be  eaten by <a href="/page-index/pests/snails-and-slugs/">snails</a> or <a href="/page-index/pests/pests/#birds">birds</a>. Protect your young plants with a DIY <a href="/page-index/horticulture-techniques/cloches">cloche</a> or <a href="/page-index/hardscapes/netting">netting</a>.</p>
 	<br>
 </section>
 
@@ -90,6 +90,7 @@ image: ""
 
 <section>
 	<h4>Common problems &amp; solutions:</h4>
+	<p>Young plants have soft stems and can be completely eaten by <a href="/page-index/pests/snails-and-slugs/">slugs and snails</a>. Grow seedlings till they are at least 10cm tall before planting them in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a>, or use DIY <a href="/page-index/horticulture-techniques/cloches/">cloches</a> or <a href="/page-index/hardscapes/netting/">netting</a> to protect young plants. </p>
 		<p><a href="/page-index/pests/caterpillars/">Caterpillars</a>, usually from the Diamondback moth and Tussock moth, can rapidly eat all the leaves of your plant. If your plant has lots of large holes and small brown or black poo pellets scattered around damaged leaves, you likely have a caterpillar infestation. Manually remove the caterpillars by hand and protect your plants with <a href="/page-index/hardscapes/netting/">netting</a>.</p>
 	<p><a href="/page-index/pests/leaf-miner/">Leaf miners</a> are fly larvae that eat the leaves from the inside, leaving white lines or patches in their wake. Manually remove damaged leaves and use <a href="/page-index/hardscapes/netting/">fine mesh netting</a> to stop the adult flies from laying eggs on the plant again.</p>
 	<p><a href="/page-index/plant-problems/etiolation/">Etiolation</a> is characterised by plants growing long and skinny, with weak stems and small leaves. The plants may also sometimes look yellowish. Plants etiolate when they do not get enough sunlight, which results in slow growth and untidy forms. To prevent this, grow plants in environments with enough light for them and make sure that each plant has enough space to prevent overcrowding.</p>
