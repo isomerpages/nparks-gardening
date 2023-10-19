@@ -18,27 +18,26 @@ image: ""
 <section>
 	<img title="Photo by Jacqueline Chua." src="/images/Plants/IndianBorage_JacChua%20(1).jpg">
 	<p>Indian borage is a hardy, succulent herb that grows well in semi-shade and full sun conditions. Its leaves smell strongly of oregano and is typically made into tea as a remedy for sore throats. </p>
-	<p>This plant is a <a href="/learn-more-about-gardening/glossary/#p">perennial</a> crop with shallow roots that is easy to propagate, making it a popular choice for <a href="/page-index/horticulture-techniques/planting-in-containers">container gardening</a> and corridor gardening. </p>
-	<p>Indian Borage is part of the Lamiaceae or Mint family, which includes other popular herbs like Spearmint, Thai Basil, and Chin Chow.</p>       
+	<p>This plant is a <a href="/learn-more-about-gardening/glossary/#p">perennial</a> crop with shallow roots that is easy to propagate, making it a popular choice for <a href="/page-index/horticulture-techniques/planting-in-containers">container gardening</a> and herb borders. </p>
+	<p>Indian Borage is part of the Lamiaceae or Mint family, which includes other popular herbs like <a href="/page-index/edible-plants/spearmint/">Spearmint</a> and <a href="/page-index/edible-plants/thai-basil/">Thai Basil</a>.</p>       
 	<br>
 </section>
 
 <section>
 	<h4>Environmental needs:</h4>
 	<img title="Photo by Jacqueline Chua" src="/images/Plants/IndianBorage_JacChua%20(2).jpg">
-	<p>As with most herbs, Indian Borage are usually grown in about <a href="/page-index/horticulture-techniques/gauing-light/">4-8 hours of indirect sunlight, or 2-6 hours of direct sunlight</a>. Plants do best in <a href="/page-index/horticulture-techniques/soil/">sandy soil</a> at least 10cm deep, making them suitable for container gardening. These plants are also highly drought tolerant, making them very low maintenance. However, they are very vulnerable to <a href="/page-index/plant-problems/root-rot">root rot, so ensure that your pots drain well and have plenty of grit. </a></p><a href="/page-index/plant-problems/root-rot">
+	<p>As with most herbs, Indian Borage are usually grown in about <a href="/page-index/horticulture-techniques/gauing-light/">4-8 hours of indirect sunlight, or 2-6 hours of direct sunlight</a>. Plants do best in <a href="/page-index/horticulture-techniques/soil/">sandy soil</a> at least 10cm deep, making them suitable for container gardening. These plants are also highly drought tolerant, making them very low maintenance. However, they are very vulnerable to <a href="/page-index/plant-problems/root-rot">root rot</a>, so ensure that your pots drain well and have plenty of <a href="/page-index/horticulture-techniques/soil-amendments/">inorganic soil amendments. </a></p>
 	<br>
-</a></section><a href="/page-index/plant-problems/root-rot">
 
 <section>
 	<h4>Growing:</h4>
-	<p>Indian borage grows rapidly when young and freshly planted from cuttings. Regular harvesting will encourage the plant to grow more leaves and stems.</p>
+	<p>Indian borage grows rapidly when young and freshly planted from cuttings. Regular <a href="/page-index/horticulture-techniques/pruning/">pruning</a> will encourage the plant to grow more leaves and stems.</p>
 	<br>
 </section>
 
-</a><section><a href="/page-index/plant-problems/root-rot">
+<section>
 	<h4>Harvesting:</h4>
-	</a><p><a href="/page-index/plant-problems/root-rot">Plants can be harvested for leaves at any time. They are typically harvested continuously via the </a><a href="/page-index/horticulture-techniques/cut-and-come-again">cut-and-come-again method</a>.</p>
+	<p><a href="/page-index/plant-problems/root-rot">Plants can be harvested for young leaves</a> at any time. They are typically harvested continuously via the <a href="/page-index/horticulture-techniques/cut-and-come-again">cut-and-come-again method</a>.</p>
 	<br>
 </section>
 
@@ -51,7 +50,7 @@ image: ""
 <section>
 	<h4>Common problems &amp; solutions:</h4>
 	<p>Like most strong-smelling herbs, this plant is relatively resistant to pests and disease if kept healthy.</p>
-	<p>The stems are liable to snap if they get too long. Regularly prune the plant to keep stems short. </p>
-	<p>This plant is very vulnerable to root rot from soil with a high clay content. Ensure that your soil drains well and has plenty of grit. </p>
+	<p>The stems are liable to snap if they get too long. Regularly <a href="/page-index/horticulture-techniques/pruning/">prune</a> the plant to keep stems short. </p>
+	<p>This plant is very vulnerable to <a href="/page-index/plant-problems/root-rot">root rot</a>, so ensure that your pots drain well and have plenty of <a href="/page-index/horticulture-techniques/soil-amendments/">inorganic soil amendments. </a></p>
 	<br>
-</section>
+</section></section>
