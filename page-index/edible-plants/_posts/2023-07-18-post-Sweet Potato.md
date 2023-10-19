@@ -39,6 +39,7 @@ image: ""
 	<p>Sweet potato grows leaves and stems rapidly when fed with high nitrogen fertilisers, but this discourages it from growing tubers. Plants can be <a href="/page-index/horticulture-techniques/fertilising/">fertilised</a> for the first two weeks after planting to help with its initial growth, and then left on its own to grow tubers after.</p>
 	<p>Because the vines will grow on top of each other, it is a good practice to <a href="/page-index/horticulture-techniques/pruning/">prune</a> regularly to improve ventilation and allow light to reach more of the plant. Take note that the plant produces a milky sap when cut, and that the sap can irritate skin. Use gloves when pruning to protect your hands, and do not touch your face after handling cuttings with sap. </p>
 	<p>This vine grows large very rapidly and can climb up to 4m if a tall enough surface is available. Prune it back to manageable heights to make harvesting and maintenance easier.</p>
+	<p>Tuber growth is encouraged by stressing the plant. Leave vines unpruned, and occasionally flip them over to cause them to dry up.</p>
 	<br>
 </section>
 
@@ -83,7 +84,7 @@ image: ""
 
 <section>
 	<h4>Propagation:</h4>
-	<p>This vine can be grown via <a href="/page-index/horticulture-techniques/propagating-by-seed/">seeds</a>, by <a href="/page-index/horticulture-techniques/propagating-by-cuttings/">cuttings</a>, or <a href="/page-index/horticulture-techniques/propagating-by-division/">planting tubers</a>. Stem cuttings can be rooted in water or soil. Tubers can be rooted in water or planted directly into the soil.</p>
+	<p>This vine is usually grown via <a href="/page-index/horticulture-techniques/propagating-by-cuttings/">cuttings</a>, or <a href="/page-index/horticulture-techniques/propagating-by-division/">planting tubers</a>. Stem cuttings can be rooted in water or soil. Tubers can be rooted in water or planted directly into the soil.</p>
 	<br>
 </section>
 
