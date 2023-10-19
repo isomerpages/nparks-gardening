@@ -10,7 +10,7 @@ image: ""
 	<img src="/images/Horti%20techniques/Light_Jacchua.jpg">
   <p>Sunlight is essential for plant growth. It provides energy for plants to photosynthesise, a process where plants convert water, carbon dioxide and light energy to sugars, which drives their growth. The amount of light your garden gets will determine what plants can grow. </p>
   <p>As a tropical country near the equator, Singapore’s daylight is roughly 12 hours year-round. Of the 12 hours, around 8 hours is of direct sunlight. Depending on what is surrounding your garden, the time of year, and seasonal cloud cover, you may get different hours of direct or indirect sunlight for your plants.</p>
-	<p>Knowing where and how much sunlight you get will be the first step in <a href="/learn-more-about-gardening/garden-design/">planning your garden</a> and will also be important in helping you to troubleshoot your <a href="/learn-more-about-gardening/plant-problems/">plant problems</a>. </p>
+	<p>Knowing where and how much sunlight you get will be the first step in <a href="/learn-more-about-gardening/garden-design/">planning your garden</a>. It is also important in helping you to troubleshoot your <a href="/learn-more-about-gardening/plant-problems/">plant problems</a> like <a href="/page-index/plant-problems/sunburn/">sunburn</a> and <a href="/page-index/plant-problems/etiolation/">etiolation</a>. </p>
 	<br>
 </section>
 
