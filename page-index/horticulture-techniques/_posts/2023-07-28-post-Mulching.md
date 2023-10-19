@@ -34,7 +34,7 @@ image: ""
 	<li><input type="checkbox" id="accordion4">
 		<label for="accordion4">Wood chips</label><div>
 	<img title="Wood chips made from pine bark being used as mulch to cover ground next to a raised planter. Photo by Jacqueline Chua." src="/images/Hardscapes/P5190007.jpg">
-	<p><b>Wood Chips</b> are waste wood pieces from untreated lumber that take a long time to break down. They are very aesthetic, and can also be used to line pathways. However, they tend to be pricy, and may float away in heavy rain.</p>
+	<p><b>Wood chips</b> are waste wood pieces from untreated lumber that take a long time to break down. They are often used for decorative purposes, and can also be used to line pathways. However, they tend to be pricy, and may float away in heavy rain.</p>
 		</div></li>
 	<br>
 </ul></section>
