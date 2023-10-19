@@ -42,16 +42,16 @@ image: ""
 <section>
 	<h4>Inorganic mulches</h4>
 	<p>Inorganic mulches are made from non-living materials or are man-made. They last much longer than organic materials, but are generally less eco-friendly. </p>
-<ul class="jekyllcodex_accordion">
-	<li><input type="checkbox" id="accordion5">
+	<ul class="jekyllcodex_accordion">
+		<li><input type="checkbox" id="accordion5">
 		<label for="accordion5">Plastic sheets</label><div>
-	<img title="A plastic canvas sheet made into mulch to protect seedlings. Photo by Jacqueline Chua." src="/images/Horti%20techniques/Mulch_JacChua%20(4).jpg">
-	<p><b>Plastic sheets</b> can be bought specifically for mulching or can be made from old canvas and other weather-resistant plastic. Do not use thin plastics that quickly break down and flake in the sun as these tiny pieces of plastic will then get mixed with your soil.</p>
+			<img title="A plastic canvas sheet made into mulch to protect seedlings. Photo by Jacqueline Chua." src="/images/Horti%20techniques/Mulch_JacChua%20(4).jpg">
+			<p><b>Plastic sheets</b> can be bought specifically for mulching or can be made from old canvas and other weather-resistant plastic. Do not use thin plastics that quickly break down and flake in the sun as these tiny pieces of plastic will then get mixed with your soil.</p>
 		</div></li>
-	<li><input type="checkbox" id="accordion6">
+		<li><input type="checkbox" id="accordion6">
 		<label for="accordion6">Gravel</label><div>
-	<img title="Gravel being used as mulch to line a pathway. Photo by Jacqueline Chua." src="/images/Hardscapes/Pathway_JacChua%20(3).jpg">
-	<p>Small stones and gravel can be used as mulch or pathways and can make a garden look classy and neat. However, their weight can press on fine roots, and gardeners may accidentally kick them out of their intended area. Lightweight <a href="/page-index/horticulture-techniques/soil-amendments/">soil amendments</a> like grit or LECA are popular mulches for plants in containers.</p>
-				</div></li>
-	<br>
-</ul></section>
+			<img title="Gravel being used as mulch to line a pathway. Photo by Jacqueline Chua." src="/images/Hardscapes/Pathway_JacChua%20(3).jpg">
+			<p>Small stones and gravel can be used as mulch or pathways and can make a garden look classy and neat. However, their weight can press on fine roots, and gardeners may accidentally kick them out of their intended area. Lightweight <a href="/page-index/horticulture-techniques/soil-amendments/">soil amendments</a> like grit or LECA are popular mulches for plants in containers.</p>
+		</div></li>
+	</ul>
+</section>
