@@ -16,8 +16,9 @@ image: ""
 </section>
 
 <section>
+	<img title="Fingerroot plants. Photo by Flora and Fauna Web." src="/images/Plants/fingerroot.JPG">
 		<p>Fingerroot produces a spice extracted from the <a href="/learn-more-about-gardening/glossary/#r">rhizome</a>, an underground horizontal stem that resembles a tuberous root. The root can be used raw or processed into a  powder or a paste to flavour soups, meat, and pickles. The young shoots can also be eaten raw in salads. It is named as such because its roots look like a bunch of fingers.</p>
-	<p>It is also commonly called Chinese ginger, although it is not in the same genus as true ginger (Zingiber officinate).</p>
+	<p>It is also commonly called Chinese ginger, although it is not in the same genus as true ginger (<em>Zingiber officinate</em>).</p>
 	<p>It is a medium <a href="/learn-more-about-gardening/glossary/#p">perennial</a> crop that readily grows in the tropics in both <a href="/page-index/horticulture-techniques/true-ground">true ground</a> and <a href="/page-index/horticulture-techniques/planting-in-containers">in pots</a>.</p>
 	<p>Fingerroot is part of the Zingiberaceae or Ginger family, which includes other popular edible plants like <a href="/page-index/edible-plants/torch-ginger">Torch Ginger</a> and <a href="/page-index/edible-plants/turmeric">Turmeric.</a></p><a href="/page-index/edible-plants/turmeric">       
 	<br>
@@ -52,7 +53,7 @@ image: ""
 	<h4>Common problems &amp; solutions:</h4>
 	<p>This plant is relatively resistant to pests and disease if kept healthy.</p>
 	<p><a href="/page-index/plant-problems/wilting">Wilting</a> leaves during hot weather is a sign of heat stress. Increase the number of times the plant is watered daily, or move it to a shadier part of the garden.</p>
-	<p>This plant’s leaves may develop brown, dry patches if exposed to too much sunlight. Prevent sun burn by planting it in shade or cover it with <a href="/page-index/hardscapes/netting">shade netting</a>.</p>
-	<p><a href="/page-index/pests/aphids">Aphids</a>, <a href="/page-index/pests/mealy-bugs">mealy bugs</a>, and <a href="/page-index/pests/spider-mites">spider mites</a> often infest the plant if it is sickly or overgrown. <a href="/page-index/horticulture-techniques/pruning">Prune off</a> the infested parts, or apply horticultural oils like neem oil and white summer oil to suffocate the remaining pests. Regularly prune the plant to allow light and air to reach throughout the plant, and check the plant for underlying problems like <a href="/page-index/plant-problems/root-rot">root rot</a>, lack of sunlight, and <a href="/page-index/plant-problems/nutrient-deficiencies">nutrient deficiencies.</a></p>
+	<p>This plant’s leaves may develop <a href="/page-index/plant-problems/sunburn/">sunburn</a> if exposed to too much sunlight. Prevent sunburn by planting it in shade or cover it with <a href="/page-index/hardscapes/netting">shade netting</a>.</p>
+<p><a href="/page-index/pests/aphids/">Aphids</a>, <a href="/page-index/pests/mealy-bugs/">Mealy Bugs</a>, <a href="/page-index/pests/whiteflies/">Whiteflies</a>, and <a href="/page-index/pests/spider-mites/">spider mites</a> often infest the plant if it has <a href="/learn-more-about-gardening/plant-problems/">underlying problems</a> like repeated wilting from heat stress. <a href="/horticulture-techniques/pest-control/">Mechanical pest control</a> methods like <a href="/page-index/horticulture-techniques/pruning/">pruning</a> the infested parts are the best methods for managing these pests in the short term, but resolving the underlying problem will prevent them in the long term.</p>
 	<br>
 </section>
