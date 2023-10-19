@@ -58,6 +58,7 @@ image: ""
 		<li>To be <a href="/page-index/glossary/edible-plants/">eaten</a> as a leafy vegetable, fruit, or herb</li>
 		<li>To be <a href="/page-index/glossary/ornamental-plants/">admired</a> for colourful foliage or flowers</li>
 		<li>To <a href="/page-index/glossary/biodiversity-attracting-plants/">attract animals</a> like pollinators, birds, and more </li>
+		<li>To have plants that are <a href="/page-index/glossary/native-plants/">native</a> to Singapore</li>
   </ul>
 		<p>Ready to choose some plants? Use our <a href="https://go.gov.sg/plantsuggester/">plant suggester tool</a> to get you started!</p>
 	<br>
