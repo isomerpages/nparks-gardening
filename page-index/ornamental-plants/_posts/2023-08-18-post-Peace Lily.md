@@ -31,7 +31,7 @@ image: ""
 
 <section> 
   <h4>Growing:</h4> 
-	<p>Peace Lilies are low maintenance plants that can be <a href="/page-index/horticulture-techniques/fertilising/">fertilised monthly with a balanced liquid fertiliser</a>. Peace lilies will wilt dramatically when <a href="/page-index/horticulture-techniques/watering/">underwatered</a> and will also quickly bounce back once they have been watered. As with all potted plants, regular repotting once a year will prevent it from becoming root bound.</p> 
+	<p>Peace Lilies are low maintenance plants that can be <a href="/page-index/horticulture-techniques/fertilising/">fertilised monthly with a balanced liquid fertiliser</a>. Peace lilies will wilt dramatically when <a href="/page-index/horticulture-techniques/watering/">underwatered</a> and will also quickly bounce back once they have been watered. As with all potted plants, regular repotting once a year will prevent it from becoming <a href="/page-index/plant-problems/root-bound/">root bound</a>.</p> 
 	<br> 
 </section> 
 
