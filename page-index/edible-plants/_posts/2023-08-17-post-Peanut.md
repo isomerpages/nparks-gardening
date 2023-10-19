@@ -16,9 +16,9 @@ image: ""
 </section>
 
 <section>
-	<img title="A Peanut plant with flowers. Photo by Jacqueline Chua." src="/images/Plants/peanut%20(4)_jacquelinechua.jpg">
+		<img title="Peanut pods grow underground as part of the roots. Photo by Jacqueline Chua." src="/images/Plants/peanut%20(1)_jacquelinechua.jpg">
 	<p>Peanut plants are grown for their underground fruit which have edible seeds that can be eaten raw, salted, fried, or steamed. The seeds are also processed into products, the most famous being peanut butter.</p>
-	<p>A small to medium-sized shrubby <a href="learn-more-about-gardening/glossary/#a">annual</a> crop, this plant is often used for <a href="/page-index/horticulture-techniques/crop-rotation/">crop rotation</a>. It grows rapidly and can also be used as a groundcover.</p>
+	<p>A small to medium-sized shrubby <a href="learn-more-about-gardening/glossary/#a">annual</a> crop, this plant is often used for <a href="/page-index/horticulture-techniques/crop-rotation/">crop rotation</a>. It grows rapidly and can also be used as a <a href="/page-index/horticulture-techniques/companion-planting/">groundcover</a>.</p>
 	<p>This plant is part of the 	Fabaceae or Bean family, which includes other popular edible fruits like <a href="/page-index/edible-plants/winged-bean/">Winged Bean</a> and <a href="/page-index/edible-plants/sword-bean/">Sword Bean</a>.  All members of the bean family can be used for <a href="/page-index/horticulture-techniques/companion-planting/">companion planting</a> as they can fix nitrogen into the soil.</p>
 	<br>
 </section>
@@ -34,25 +34,26 @@ image: ""
 
 <section>
   <h4>Sowing seeds:</h4>
-	<p>Seeds should be sown directly into pots or the ground around 15cm apart. Lightly water the soil until damp, once a day. Seeds should sprout within 10 days. </p>
-	<iframe width="100%" height="415" src="https://www.youtube.com/embed/x7J87wY7U6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
-	<p>The seedlings are generally resilient to most environmental factors but may be vulnerable to being eaten by snails or birds. Protect your young plants with a DIY <a href="/page-index/horticulture-techniques/cloches/">cloche</a> or <a href="/page-index/hardscapes/netting/">netting</a>.</p>
+	<p><a href="/page-index/horticulture-techniques/propagation-by-seeds">Seeds should be sown directly</a> into pots or the ground around 15cm apart. Lightly water the soil until damp, once a day. Seeds should sprout within 10 days. </p>
+<p>The seedlings are generally resilient to most environmental factors but may be vulnerable to being eaten by <a href="/page-index/pests/snails-and-slugs/">snails</a>, <a href="/page-index/pests/pests/#birds">rodents or birds</a>. Protect your young plants with a DIY <a href="/page-index/horticulture-techniques/cloches">cloche</a> or <a href="/page-index/hardscapes/netting">netting</a>.</p>
 	<br>
 </section>
 
 <section>
 	<h4>Growing:</h4>
-	<p>These plants generally do not require much fertilising because they are able to fix their own nitrogen.</p>
+		<img title="A Peanut plant with flowers. Photo by Jacqueline Chua." src="/images/Plants/peanut%20(4)_jacquelinechua.jpg">
+	<p>These plants generally do not require much fertilising because they are able to fix their own nitrogen. To encourage flowering and thus more seed pods, you can fertilise the plant with <a href="/page-index/horticulture-techniques/fertilising/">fertilisers high in phosphorus and potassium</a>. These nutrients encourage root and flower growth, which are important for the plant to produce more seed pods.</p><p></p>
 	<p>Individual peanut plants will quickly grow a network of roots that are delicate. Do not disturb the roots if possible, and <a href="/page-index/horticulture-techniques/mulching/">mulch</a> them to prevent water loss.</p>
+	<p><a href="/page-index/pests/pests/#rodents">Squirrels and birds</a> may dig up and eat seed pods. Cover your plants in <a href="/page-index/hardscapes/netting">netting</a> to prevent this.</p>
 	<br>
 </section>
 
 <section>
 	<h4>Harvesting:</h4>
 	<img title="Peanut pods grow underground as part of the roots. Photo by Jacqueline Chua." src="/images/Plants/peanut%20(1)_jacquelinechua.jpg">
-	<p>Underground fruits can be <a href="/page-index/horticulture-techniques/harvesting-hygiene/">harvested</a> around 4 ½ months after sowing. Peanuts are ready for harvest when the plant starts to turn yellow and wilt. Harvest the whole plant by pulling the plant from the base stem just above the soil and separate out the fruits from the roots.</p>
+	<p>Underground fruits can be <a href="/page-index/horticulture-techniques/harvesting-hygiene/">harvested</a> around 4 ½ months after sowing. Peanuts are ready for harvest when the plant starts to turn yellow and wilt. Harvest the whole plant by pulling the plant from the base stem just above the soil and separate out the seed pods from the roots.</p>
+		<iframe width="100%" height="415" src="https://www.youtube.com/embed/FuWK90da0GY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
 	<p>Dry, brown fruits are mature, and can be used for seeds.</p>
-	<iframe width="100%" height="415" src="https://www.youtube.com/embed/FuWK90da0GY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
 	<br>
 </section>
 
@@ -88,9 +89,9 @@ image: ""
 
 <section>
 	<h4>Common problems &amp; solutions:</h4>
-	<p><a href="/page-index/pests/aphids/">Aphids</a>, <a href="/page-index/pests/mealy-bugs/">mealy bugs</a>, and <a href="/page-index/pests/spider-mites/">spider mites</a> often infest the plant if it is sickly or overgrown. <a href="/page-index/horticulture-techniques/pruning/">Prune off</a> the infested parts, or apply horticultural oils like neem oil and white summer oil to suffocate the remaining pests. Regularly prune the plant to allow light and air to reach throughout the plant, and check the plant for underlying problems like <a href="/page-index/plant-problems/root-rot/">root rot</a>, lack of sunlight, and <a href="/page-index/horticulture-techniques/nutrient-deficiencies/">nutrient deficiencies</a>.</p>
-	<p><a href="/page-index/pests/whiteflies/">Whiteflies</a> can infest the plant and lay eggs under its leaves. Remove affected plant parts and catch remaining adults with yellow sticky paper or treat them with citrus spray. 
-		<a href="/page-index/plant-problems/wilting/">Wilting</a> leaves during hot weather is a sign of heat stress. Increase the number of times the plant is watered daily, and apply <a href="/page-index/horticulture-techniques/mulching/">mulch</a> at the base to prevent water loss.</p>
-	<p>Rodents and birds are attracted to and will dig up underground fruits to eat. Protect your plants with <a href="/page-index/hardscapes/netting/">netting</a> and fully bury seeds used to grow new plants.</p>
+<p>If your plant has few to no flowers, you can fertilise the plant with <a href="/page-index/horticulture-techniques/fertilising/">fertilisers high in phosphorus and potassium</a>. These nutrients encourage root and flower growth, which are important for the plant to produce more fruit.</p>
+	<p> Many plants require <a href="/page-index/biodiversity/pollinators/">pollinators</a> to help them fruit. Bees, butterflies, birds and even beetles transport pollen from one flower to another, pollinating your crops and increasing their fruit yield. Attract some pollinators to your garden by growing <a href="/page-index/glossary/biodiversity-attracting-plants">pollinator-attracting crops</a>.</p>
+<p><a href="/page-index/pests/aphids/">Aphids</a>, <a href="/page-index/pests/mealy-bugs/">Mealy Bugs</a>, <a href="/page-index/pests/whiteflies/">Whiteflies</a>, and <a href="/page-index/pests/spider-mites/">spider mites</a> often infest the plant if it has <a href="/learn-more-about-gardening/plant-problems/">underlying problems</a> like repeated wilting from heat stress. <a href="/horticulture-techniques/pest-control/">Mechanical pest control</a> methods like <a href="/page-index/horticulture-techniques/pruning/">pruning</a> the infested parts are the best methods for managing these pests in the short term, but resolving the underlying problem will prevent them in the long term.</p>
+<p><a href="/page-index/pests/pests/#rodents">Rodents and birds</a> are attracted to and will dig up underground fruits to eat. Protect your plants with <a href="/page-index/hardscapes/netting/">netting</a> and fully bury seeds used to grow new plants.</p>
 	<br>
 </section>
