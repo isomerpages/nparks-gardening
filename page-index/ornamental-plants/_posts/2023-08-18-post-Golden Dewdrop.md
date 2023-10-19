@@ -16,7 +16,7 @@ image: ""
 </section>
  
 <section>
-	<img title="Photo by Flora and Fauna Web." src="/images/Plants/goldendewdrop_ffw.jfif">
+	<img title="Golden dewdrop plant with flowers and fruits. Photo by Flora and Fauna Web." src="/images/Plants/gildendewdrop_ffw.jpg">
 	<p>Golden Dewdrops are large, hardy, <a href="/learn-more-about-gardening/glossary/#f">free-flowering</a> shrubs that are commonly seen in roadside gardens, perimeter planting and biodiversity-attracting gardens. The blue nectar-filled flowers are highly attractive bees and butterflies, and the hard, bright yellow fruits are very visually attractive.</p>
 	<p>A <a href="/learn-more-about-gardening/glossary/#p">perennial</a> shrub, Golden Dewdrops are useful as a <a href="/page-index/glossary/biodiversity-attracting-plants/">biodiversity-attracting plant</a> and perimeter plant to add a pop of colour to any garden.</p>
 	 <br> 
@@ -31,7 +31,7 @@ image: ""
 
 <section> 
   <h4>Growing:</h4> 
-	<p>Golden Dewdrops are a steady grower and does well with <a href="/page-index/horticulture-techniques/fertilising/">frequent and light fertilising with a balanced fertiliser</a>. This shrub can grow up to 2.5m in height but is usually maintained anywhere between 30cm-1.5m tall as small shrubs or hedges. <a href="/page-index/horticulture-techniques/pruning/">Regular pruning</a> is needed to promote new growth that will keep the plant healthy and neat.</p> 
+	<p>Golden Dewdrops are a steady grower and does well with <a href="/page-index/horticulture-techniques/fertilising/">monthly fertilising with a balanced fertiliser</a>. This shrub can grow up to 2.5m in height but is usually maintained anywhere between 30cm-1.5m tall as small shrubs or hedges. <a href="/page-index/horticulture-techniques/pruning/">Regular pruning</a> is needed to promote new growth that will keep the plant healthy and neat.</p> 
 	<br> 
 </section> 
 
@@ -43,6 +43,7 @@ image: ""
  
 <section> 
   <h4>Common problems &amp; solutions:</h4> 
+	<p>If your plant has few to no flowers, you can fertilise the plant with <a href="/page-index/horticulture-techniques/fertilising/">fertilisers high in phosphorus and potassium</a>. These nutrients encourage root and flower growth, which are important for the plant to produce more fruit.</p>
 	<p>This plant is relatively resistant to pests and disease if kept healthy.</p>
 	<p>If the plant does not receive enough light, it will stop producing flowers. <a href="/page-index/horticulture-techniques/pruning/">Prune</a> surrounding plants or move the plant to a sunnier spot to promote flower growth.</p>
 	<br> 
