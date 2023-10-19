@@ -18,24 +18,22 @@ image: ""
 <section>
 	<img title="Photo by Flora and Fauna Web." src="/images/Plants/commonpepper_ffw.jfif">
 	<p>Common Pepper plants produce small hard fruits that can be processed into various kinds of pepper. Traditional black pepper is made from the dried immature fruit, white pepper is made from the seeds of mature fruit, while green pepper is made from fresh, immature fruit.</p>
-	<p>As a <a href="/learn-more-about-gardening/glossary/#p">perennial</a> vine, it is a common sight in edible gardens, permaculture gardens, and low maintenance beds.</p>
+	<p>As a <a href="/learn-more-about-gardening/glossary/#p">perennial</a> vine, it is an uncommon sight in edible gardens, and is usually found growing up a wall or trellis.</p>
 	<br>
 </section>
 
 <section>
 	<h4>Environmental needs:</h4>
-	<p>This vine does best in gardens with <a href="/page-index/horticulture-techniques/gauging-light">a minimum of 6 hours of bright indirect sunlight or dappled shade</a>. More than 6 hours of direct sunlight might burn the plant.</p>
+	<p>This vine does best in gardens with <a href="/page-index/horticulture-techniques/gauging-light">a minimum of 6 hours of bright indirect sunlight or dappled shade</a>. More than 6 hours of direct sunlight might <a href="/page-index/plant-problems/sunburn/">burn</a> the plant.</p>
 	<p>Plants do best in <a href="/page-index/horticulture-techniques/soil">moist, well-drained soil</a> at least 30cm deep, or in <a href="/page-index/horticulture-techniques/true-ground">true ground</a>. The plant can be grown in <a href="/page-index/horticulture-techniques/planting-in-containers">smaller pots</a> about 20cm deep, but growth will be slower due to the lack of water retention in less soil and a smaller root ball.</p>
 	<p>As a fast-growing vine, this plant needs a tall, sturdy <a href="/page-index/hardscapes/trellises">trellis</a> to scramble on. It can be trained up walls, or large trees.</p>
-	<p>This plant can be grown year-round.</p>
 	<br>
 </section>
 
 <section>
   <h4>Sowing seeds:</h4>
-	<p>Seeds can be sown directly into pots or the ground around 15-30cm apart. Lightly water the soil until damp, once a day. Seeds should sprout within 10 days.</p>
-	<iframe width="100%" height="415" src="https://www.youtube.com/embed/x7J87wY7U6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
-	<p>The seedlings are vulnerable to heat stress and wilting. Water seedlings daily or once every other day during the dry season.</p>
+	<p><a href="/page-index/horticulture-techniques/propagation-by-seeds">Seeds can be sown directly into pots or the ground</a> around 15-30cm apart. Lightly water the soil until damp, once a day. Seeds should sprout within 10 days.</p>
+	<p>The seedlings are vulnerable to heat stress and <a href="/page-index/plant-problems/wilting/">wilting</a>. Water seedlings daily or once every other day during the dry season.</p>
 	<br>
 </section>
 	
@@ -62,8 +60,7 @@ image: ""
 
 <section>
 	<h4>Common problems &amp; solutions:</h4>
-	<p>If your vine has little to no flowers, you try <a href="/page-index/horticulture-techniques/fertilising">fertilising</a> the plant with fertilisers high in Phosphorus and Potassium. These nutrients encourage root and flower growth, which are important for the plant to produce more fruit.</p>
-	<p><a href="/page-index/pests/aphids">Aphids</a>, <a href="/page-index/pests/mealy-bugs">mealy bugs</a>, and <a href="/page-index/pests/spider-mites">spider mites</a> often infest the plant if it is sickly or overgrown. <a href="/page-index/horticulture-techniques/pruning">Prune off</a> the infested parts, or apply horticultural oils like neem oil and white summer oil to suffocate the remaining pests. Regularly prune the plant to allow light and air to reach throughout the plant, and check the plant for underlying problems like <a href="/page-index/plant-problems/root-rot">root rot</a>, lack of sunlight, and <a href="/page-index/plant-problems/nutrient-deficiencies">nutrient deficiencies</a>.</p>
-	<p><a href="/page-index/pests/whiteflies">Whiteflies</a> can infest the plant and lay eggs under its leaves. Remove affected plant parts and catch remaining adults with yellow sticky paper or treat them with citrus spray.</p>
+<p>If your plant has few to no flowers, you can fertilise the plant with <a href="/page-index/horticulture-techniques/fertilising/">fertilisers high in phosphorus and potassium</a>. These nutrients encourage root and flower growth, which are important for the plant to produce more fruit.</p>
+<p><a href="/page-index/pests/aphids/">Aphids</a>, <a href="/page-index/pests/mealy-bugs/">Mealy Bugs</a>, <a href="/page-index/pests/whiteflies/">Whiteflies</a>, and <a href="/page-index/pests/spider-mites/">spider mites</a> often infest the plant if it has <a href="/learn-more-about-gardening/plant-problems/">underlying problems</a> like repeated wilting from heat stress. <a href="/horticulture-techniques/pest-control/">Mechanical pest control</a> methods like <a href="/page-index/horticulture-techniques/pruning/">pruning</a> the infested parts are the best methods for managing these pests in the short term, but resolving the underlying problem will prevent them in the long term.</p>
 	<br>
 </section>
