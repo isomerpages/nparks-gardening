@@ -14,4 +14,4 @@ description: ""
 <h4>How do I apply for an allotment gardening plot?</h4>
 <p>Interested to lease a plot? Check this webpage on a regular basis for more information on the upcoming plots and registration details.</p> 
 
-<p>You can also follow us on <a href="www.facebook.com/nparksbuzz">facebook</a> (turn on the page notifications!) for announcements on allotment garden plot registrations.</p>
+<p>You can also follow us on <a href="https://www.facebook.com/nparksbuzz">facebook</a> (turn on the page notifications!) for announcements on allotment garden plot registrations.</p>
