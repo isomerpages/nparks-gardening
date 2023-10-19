@@ -18,7 +18,7 @@ image: ""
 <section>
 	<img title="Photo by Flora and Fauna Web." src="/images/Plants/chiku_ffw.jfif">
 	<p>Chiku trees are a popular and hardy tropical fruit that grows in a variety of soil types, including notoriously poor ones. The fruit is traditionally eaten raw, and the sap was harvested to make chewing gum before the invention of synthetic substitutes.</p>
-	<p>As a <a href="/learn-more-about-gardening/glossary/#p">perennial</a> tree, it is a common sight in edible gardens, permaculture gardens, and low maintenance beds.</p>       
+	<p>As a <a href="/learn-more-about-gardening/glossary/#p">perennial</a> tree, it is a common sight in edible gardens, growing in true ground.</p>       
 	<br>
 </section>
 
@@ -33,14 +33,14 @@ image: ""
 <section>
 	<h4>Sowing Seeds</h4>
 	<p>Seeds can be sown directly into pots or the ground. Because the plant eventually grows into a tree, it is easier to grow a few seedlings in separate pots before selecting the healthiest one to be grown in true ground.</p>
-	<iframe width="100%" height="415" src="https://www.youtube.com/embed/x7J87wY7U6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
 	<p>The seedlings are generally resilient to most environmental factors but may be vulnerable to being eaten by snails or birds. Protect your young plants with a DIY <a href="/page-index/horticulture-techniques/cloches/">cloche</a> or <a href="/page-index/hardscapes/netting/">netting</a>.</p>
 	<br>
 </section>
 
 <section>
   <h4>Growing:</h4>
-	<p>Chiku trees are steady growers but do benefit from being fed high potassium and phosphorus <a href="/page-index/horticulture-techniques/fertilising/">fertilisers</a> to encourage flowering and thus fruiting. <a href="/page-index/horticulture-techniques/pruning/">Regular pruning</a> to promote airflow will keep the plant healthy and neat. <b>Cut stems will produce sap that can irritate the skin.</b> Wear gloves while maintaining the plant to prevent this.</p>
+	<p>Chiku trees are steady growers but do benefit from being fed high potassium and phosphorus <a href="/page-index/horticulture-techniques/fertilising/">fertilisers</a> to encourage flowering and thus fruiting. <a href="/page-index/horticulture-techniques/pruning/">Regular pruning</a> to promote airflow will keep the plant healthy and neat. </p>
+	<p><b>Cut stems will produce sap that can irritate the skin.</b> Wear gloves while maintaining the plant to prevent this.</p>
 	<p>The tree will need to be around 5 years old before it starts producing fruit if grown from seed. Air-layered plants take around 2 years to fruit.</p>
 	<br>
 </section>
