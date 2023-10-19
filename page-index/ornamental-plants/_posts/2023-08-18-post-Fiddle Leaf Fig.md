@@ -32,7 +32,7 @@ image: ""
 <section> 
   <h4>Growing:</h4> 
 	<img title="Fiddle leaf figs being sold as small houseplants. Photo by Jacqueline Chua." src="/images/Plants/fiddleleaffig%20(6)_jacquelinechua.jpg">
-	<p>Fiddle Leaf Figs start off as a slow growing plant and prefers partial shade when young. <a href="/page-index/horticulture-techniques/fertilising/">Fertilising</a> should only be done once a month with a dilute balanced liquid fertiliser. <a href="/page-index/horticulture-techniques/pruning/">Pruning</a> the growing tips or top of the plant when it is young will encourage branching. <b>When pruning, be sure to wear gloves as the plant produces a milky, sticky sap which is mildly toxic and can irritate the skin.</b> As with all potted plants, regular repotting once a year will prevent it from becoming root bound.</p> 
+	<p>Fiddle Leaf Figs start off as a slow growing plant and prefers partial shade when young. <a href="/page-index/horticulture-techniques/fertilising/">Fertilising</a> should only be done once a month with a dilute balanced liquid fertiliser. <a href="/page-index/horticulture-techniques/pruning/">Pruning</a> the growing tips or top of the plant when it is young will encourage branching. <b>When pruning, be sure to wear gloves as the plant produces a milky, sticky sap which is mildly toxic and can irritate the skin.</b> As with all potted plants, regular repotting once a year will prevent it from becoming <a href="/page-index/plant-problems/root-bound/">root bound</a>.</p> 
 	<br> 
 </section> 
 
