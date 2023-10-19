@@ -18,7 +18,7 @@ image: ""
 <section>
 	<img title="Elephant bush leaves. Photo by Jacqueline Chua." src="/images/Plants/elephantsfood%20(2)_jacquelinechua.jpg">
 	<p>The Elephant Bush is a succulent shrub that grows up to 5m tall in the wild, but is usually kept to less than 20cm tall in cultivation. It has small and fleshy leaves with rounded edges that are oppositely arranged and reddish brown woody stems.</p>
-	<p>A <a href="/learn-more-about-gardening/glossary/#p">perennial</a>, succulent shrub, its ability to tolerate shallow soils makes it suitable to be <a href="/page-index/horticulture-techniques/planting-in-containers/">grown in a variety of containers</a>, and can be used for bonsai. It also comes in a variegated form, where the leaves are a light green with hues of white and pink.</p>
+	<p>A <a href="/learn-more-about-gardening/glossary/#p">perennial</a> succulent shrub, its ability to tolerate shallow soils makes it suitable to be <a href="/page-index/horticulture-techniques/planting-in-containers/">grown in a variety of containers</a>, and can be used for bonsai. It also comes in a variegated form, where the leaves are a light green with hues of white and pink.</p>
 	 <br> 
 </section> 
  
@@ -32,6 +32,7 @@ image: ""
 <section> 
   <h4>Growing:</h4> 
 	<p><a href="/page-index/horticulture-techniques/gauging-light/">More direct sunlight</a> and <a href="/page-index/horticulture-techniques/pruning/">regular pruning</a> will encourage a bushier growth. These plants do not need to be fertilised frequently; <a href="/page-index/horticulture-techniques/fertilising/">a balanced slow-releasing fertiliser</a> given once every 4 months will be sufficient.</p> 
+			<p>As with all potted plants, regular repotting once a year will prevent it from becoming <a href="/page-index/plant-problems/root-bound/">root bound</a>.</p> 
 	<br> 
 </section> 
 
