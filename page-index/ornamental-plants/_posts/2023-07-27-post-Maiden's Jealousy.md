@@ -44,6 +44,7 @@ image: ""
 <section> 
   <h4>Common problems &amp; solutions:</h4> 
 	<p>This plant is relatively resistant to pests and disease if kept healthy.</p>
+	<p>If your plant has few to no flowers, you can fertilise the plant with <a href="/page-index/horticulture-techniques/fertilising/">fertilisers high in phosphorus and potassium</a>.</p>
 	<p>If the plant does not receive enough light, it will stop producing flowers. <a href="/page-index/horticulture-techniques/pruning/">Prune</a> surrounding plants or move the plant to a sunnier spot to promote flower growth.</p>
 	<br> 
 </section>
