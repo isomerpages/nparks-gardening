@@ -25,13 +25,13 @@ image: ""
 <section> 
   <h4>Environmental needs:</h4> 
 	<img title="Elephant bush growing in a pot. Photo by Jacqueline Chua." src="/images/Plants/elephantsfood%20(1)_jacquelinechua.jpg">
-  <p>This plant thrives in grows best in <a href="/page-index/horticulture-techniques/gauging-light/">at least 4 hours of direct sunlight</a>. It can tolerate a minimum of 4 hours of indirect sunlight or 2-4 hours of direct sunlight, but may grow long and leggy. They do best in <a href="/page-index/horticulture-techniques/soil/">porous, well-drained soil</a> and require moderate watering.</p> 
+  <p>This plant thrives in grows best in <a href="/page-index/horticulture-techniques/gauging-light/">at least 4 hours of direct sunlight</a>. It can tolerate a minimum of 4 hours of indirect sunlight or 2-4 hours of direct sunlight, but may grow long and leggy. They do best in <a href="/page-index/horticulture-techniques/soil/">sandy soil</a> and require moderate watering.</p> 
 	<br>
 </section>
 
 <section> 
   <h4>Growing:</h4> 
-	<p>Lots of direct sunlight and <a href="/page-index/horticulture-techniques/pruning/">regular pruning</a> will encourage a bushier growth. These plants do not need to be fertilised frequently; <a href="/page-index/horticulture-techniques/fertilising/">a balanced slow-releasing fertiliser</a> given once a quarter will be sufficient.</p> 
+	<p><a href="/page-index/horticulture-techniques/gauging-light/">More direct sunlight</a> and <a href="/page-index/horticulture-techniques/pruning/">regular pruning</a> will encourage a bushier growth. These plants do not need to be fertilised frequently; <a href="/page-index/horticulture-techniques/fertilising/">a balanced slow-releasing fertiliser</a> given once every 4 months will be sufficient.</p> 
 	<br> 
 </section> 
 
@@ -44,6 +44,6 @@ image: ""
 <section> 
   <h4>Common problems &amp; solutions:</h4> 
 	<p>Elephant Bush plants are usually quite resistant to pests if kept healthy.</p>
-	<p><a href="/page-index/pests/mealy-bugs/">Mealy bugs</a> often infest the plant if it is sickly or overgrown. Prune off the infested parts, or apply horticultural oils like neem oil and white summer oil to suffocate the remaining pests. <a href="/page-index/horticulture-techniques/pruning/">Regularly prune</a> the plant to allow light and air to reach throughout the plant, and check the plant for underlying problems like <a href="/page-index/plant-problems/root-rot/">root rot</a>, lack of sunlight, and <a href="/page-index/horticulture-techniques/nutrient-deficiencies/">nutrient deficiencies</a>.</p>
+<p> <a href="/page-index/pests/mealy-bugs/">Mealy Bugs</a> often infest the plant if it has <a href="/learn-more-about-gardening/plant-problems/">underlying problems</a> like waterlogging. <a href="/horticulture-techniques/pest-control/">Mechanical pest control</a> methods like <a href="/page-index/horticulture-techniques/pruning/">pruning</a> the infested parts are the best methods for managing these pests in the short term, but resolving the underlying problem will prevent them in the long term.</p>
 	<br> 
 </section>
