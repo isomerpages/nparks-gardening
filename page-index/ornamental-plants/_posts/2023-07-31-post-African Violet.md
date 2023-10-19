@@ -16,9 +16,9 @@ image: ""
 </section> 
  
 <section>
-	<img title="Photo by Flora and Fauna Web." src="/images/Plants/africanviolet_ffw.jfif">
-	<p>African Violets are small herbaceous plants with a low, compact growth form. It has dark green succulent leaves that are round or oval shaped, and are covered with short white hairs, giving it a velvety texture.</p>
-	<p>A <a href="/learn-more-about-gardening/glossary/#p">perennial</a> flower, African Violets are great for indoor gardens or as a groundcover in partial shade areas. It has violet-blue or white flowers which contrast nicely against their dark green leaves. Other cultivars of the African Violet have flowers that come in shades of purple, red and white. Growing different cultivars together makes any indoor space more vibrant and colourful.</p>
+	<img title="African violets of varying colours. Photo by Flora and Fauna Web." src="/images/Plants/africanviolet_ffw_2.jpg">
+	<p>African Violets are small herbaceous plants with a low, compact growth form. It has dark green succulent leaves that are round or oval shaped, and are covered with short white hairs, giving it a velvety texture. Diffierent cultivars will produce flowers of various shapes, sizes and colours, ranging from blue to red and even purple.</p>
+	<p>A <a href="/learn-more-about-gardening/glossary/#p">perennial</a> flower, African Violets are a classic plant for indoor gardens and <a href="/page-index/horticulture-techniques/planting-in-containers/">container gardening</a>.</p>
 	 <br> 
 </section> 
  
@@ -30,7 +30,9 @@ image: ""
 
 <section> 
   <h4>Growing:</h4> 
-	<p>Regular application of a <a href="/page-index/horticulture-techniques/fertilising/">dilute fertiliser with a higher Phosphorous and Potassium content</a> will help encourage flowering. Water when the surface of the soil is dry. Take care to water directly onto the soil or do <a href="/page-index/horticulture-techniques/bottom-watering/">bottom-up watering</a> as water on the leaves causes rot. <a href="/page-index/horticulture-techniques/pruning/">Pruning</a> spent flowers encourages the plant to flower again. As with all potted plants, regular repotting once a year will prevent it from becoming root bound.</p> 
+	<p>Applying a <a href="/page-index/horticulture-techniques/fertilising/">dilute fertiliser with a higher Phosphorous and Potassium content</a> once every two months will help encourage flowering. <a href="/page-index/horticulture-techniques/pruning/">Pruning</a> spent flowers encourages the plant to flower again. </p>
+		<p>Take care to water directly onto the soil or do <a href="/page-index/horticulture-techniques/bottom-watering/">bottom-up watering</a> as water on the leaves causes rot.</p>
+		<p>As with all potted plants, regular repotting once a year will prevent it from becoming <a href="/page-index/plant-problems/root-bound/">root bound</a>.</p> 
 	<br> 
 </section> 
 
@@ -42,7 +44,7 @@ image: ""
  
 <section> 
   <h4>Common problems &amp; solutions:</h4> 
-		<p>African Violets leaves are susceptible to rot, Powdery Mildew and fungal spots if kept in high humidity or if the leaves are in contact with water for too long. <a href="/page-index/horticulture-techniques/bottom-watering/">Bottom watering</a> would be the best way to avoid getting excess water on its foliage.</p>
+		<p>African Violets leaves are susceptible to <a href="/page-index/plant-problems/root-rot/">root rot</a>, Powdery Mildew and fungal spots if kept in high humidity or if the leaves are in contact with water for too long. <a href="/page-index/horticulture-techniques/bottom-watering/">Bottom watering</a> would be the best way to avoid getting excess water on its foliage.</p>
 	<p><a href="/page-index/pests/spider-mites/">Spider mites</a> often infest the plant if it is sickly or overgrown. Prune off the infested parts, or apply horticultural oils like neem oil and white summer oil to suffocate the remaining pests. <a href="/page-index/horticulture-techniques/pruning/">Regularly prune</a> the plant to allow light and air to reach throughout the plant, and check the plant for underlying problems like <a href="/page-index/plant-problems/root-rot/">root rot</a>, lack of sunlight, and <a href="/page-index/plant-problems/nutrient-deficiencies/">nutrient deficiencies.</a></p><a href="/page-index/plant-problems/nutrient-deficiencies/">
 	<br> 
 </a></section>
