@@ -60,6 +60,6 @@ image: ""
 		<li>To <a href="/page-index/glossary/biodiversity-attracting-plants/">attract animals</a> like pollinators, birds, and more </li>
 		<li>To have plants that are <a href="/page-index/glossary/native-plants/">native</a> to Singapore</li>
   </ul>
-		<p>Ready to choose some plants? Use our <a href="https://go.gov.sg/plantsuggester/">plant suggester tool</a> to get you started!</p>
+		<p>Ready to choose some plants? Use our <a href="/digital-tools/plant-search">plant suggester tool</a> to get you started!</p>
 	<br>
 </section>
