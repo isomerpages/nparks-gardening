@@ -24,25 +24,26 @@ image: ""
  
 <section> 
   <h4>Environmental needs:</h4> 
-  <p>This plant thrives in <a href="/page-index/horticulture-techniques/gauging-light/">at least 2 hours of direct sunlight or with a minimum of 4 hours of indirect sunlight</a>. It does not require a lot of watering. Snake plants do well in a wide variety of soils ranging from <a href="/page-index/horticulture-techniques/soil/">moist, well-drained soil to sandy soil</a> at least 10cm deep, making them suitable for <a href="/page-index/horticulture-techniques/planting-in-containers/">container gardening</a>.</p> 
+  <p>This plant thrives in <a href="/page-index/horticulture-techniques/gauging-light/">at least 2 hours of direct sunlight or with a minimum of 4 hours of indirect sunlight</a>. Snake plants do well in  <a href="/page-index/horticulture-techniques/soil/">loamy or sandy soil</a> at least 10cm deep, making them suitable for <a href="/page-index/horticulture-techniques/planting-in-containers/">container gardening</a>.</p> 
 	<br>
 </section>
 
 <section> 
   <h4>Growing:</h4> 
-	<p>It is easy to grow and is low maintenance. Due to its ability to withstand drought, it is better to underwater the plant to prevent potential <a href="/page-index/plant-problems/root-rot/">root rot</a>. As it is slow growing, it does not require frequent fertilising. A <a href="/page-index/horticulture-techniques/fertilising/">balanced liquid fertiliser once a month or slow releasing fertiliser</a> is sufficient. As with all potted plants, regular repotting once a year will prevent it from becoming root bound.</p> 
+	<p>Due to its ability to withstand drought, it is better to underwater the plant to prevent potential <a href="/page-index/plant-problems/root-rot/">root rot</a>. As it is slow growing, it does not require frequent fertilising. A <a href="/page-index/horticulture-techniques/fertilising/">balanced liquid fertiliser</a> once every two months is sufficient.</p>
+<p>As with all potted plants, regular repotting once a year will prevent it from becoming <a href="/page-index/plant-problems/root-bound/">root bound</a>.</p> 
 	<br> 
 </section> 
 
 <section> 
   <h4>Propagation:</h4> 
-	<p>Snake plant can be propagated by <a href="/page-index/horticulture-techniques/propagating-by-cuttings/">stem cuttings</a> or <a href="/page-index/horticulture-techniques/propagating-by-division/">division</a>.</p> 
+	<p>Snake plants can be propagated by <a href="/page-index/horticulture-techniques/propagating-by-cuttings/">stem cuttings</a> or <a href="/page-index/horticulture-techniques/propagating-by-division/">division</a>.</p> 
 	<br> 
 </section> 
  
 <section> 
   <h4>Common problems &amp; solutions:</h4> 
 	<p>This plant is relatively resistant to pests and disease if kept healthy.</p>
-	<p><a href="/page-index/pests/aphids/">Aphids</a>, <a href="/page-index/pests/mealy-bugs/">mealy bugs</a>, and <a href="/page-index/pests/spider-mites/">spider mites</a> often infest the plant if it is sickly or overgrown. Prune off the infested parts, or apply horticultural oils like neem oil and white summer oil to suffocate the remaining pests. <a href="/page-index/horticulture-techniques/pruning/">Regularly prune</a> the plant to allow light and air to reach throughout the plant, and check the plant for underlying problems like <a href="/page-index/plant-problems/root-rot/">root rot</a>, lack of sunlight, and <a href="/page-index/horticulture-techniques/nutrient-deficiencies/">nutrient deficiencies</a>.</p>
+<p><a href="/page-index/pests/aphids/">Aphids</a>, <a href="/page-index/pests/mealy-bugs/">Mealy Bugs</a>,  and <a href="/page-index/pests/spider-mites/">spider mites</a> often infest the plant if it has <a href="/learn-more-about-gardening/plant-problems/">underlying problems</a> like waterlogging. <a href="/horticulture-techniques/pest-control/">Mechanical pest control</a> methods like <a href="/page-index/horticulture-techniques/pruning/">pruning</a> the infested parts are the best methods for managing these pests in the short term, but resolving the underlying problem will prevent them in the long term.</p>
 	<br> 
 </section>
