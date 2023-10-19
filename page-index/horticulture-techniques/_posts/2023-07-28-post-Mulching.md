@@ -43,7 +43,7 @@ image: ""
 	<h4>Inorganic mulches</h4>
 	<p>Inorganic mulches are made from non-living materials or are man-made. They last much longer than organic materials, but are generally less eco-friendly. </p>
 <ul class="jekyllcodex_accordion">
-	<li><input type="checkbox" id="accordion1">
+	<li><input type="checkbox" id="accordion5">
 		<label for="accordion5">Plastic sheets</label><div>
 	<img title="A plastic canvas sheet made into mulch to protect seedlings. Photo by Jacqueline Chua." src="/images/Horti%20techniques/Mulch_JacChua%20(4).jpg">
 	<p><b>Plastic sheets</b> can be bought specifically for mulching or can be made from old canvas and other weather-resistant plastic. Do not use thin plastics that quickly break down and flake in the sun as these tiny pieces of plastic will then get mixed with your soil.</p>
