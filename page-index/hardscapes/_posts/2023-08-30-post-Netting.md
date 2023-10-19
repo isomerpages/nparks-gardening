@@ -34,11 +34,11 @@ image: ""
 	<h4>Types of materials for netting frames</h4>
 	<p>Frames can be made from a variety of materials, or bought with the netting itself at nurseries or online. Some common materials are:</p>
 	<img title="Netting supported by a plastic frame made from PVC pipes. Photo by Jacqueline Chua." src="/images/Hardscapes/PXL_20230601_011437649.jpg">
-	<p><b>Plastic frames</b>, which are flexible and light. They generally last between 1-10 years, but prolonged exposure to the sun can make the brittle. Most plastic frames can be bought at plant nurseries and garden shops, and can also be made from PVC pipes for additional customisation.</p> 
+	<p><b>Plastic frames</b> — are flexible and light. They generally last between 1-10 years, but prolonged exposure to the sun can make the brittle. Most plastic frames can be bought at plant nurseries and garden shops, and can also be made from PVC pipes for additional customisation.</p> 
 	<img title="A metal frame painted with weather-resistant glaze. Photo by Jacqueline Chua." src="/images/Hardscapes/Netting%20(10).jpg">
-	<p><b>Metal frames</b>, which are heavy and resilient. They last between 3-10 years, but may be prone to rust if they are not coated with paint or glaze. They also tend to heat up when exposed to a lot of sunlight, which can cause plants to burn on contact. Metal frames can be made from wires, metal pipes or poles with soldering.</p>  
+	<p><b>Metal frames</b> — are heavy and resilient. They last between 3-10 years, but may be prone to rust if they are not coated with paint or glaze. They also tend to heat up when exposed to a lot of sunlight, which can cause plants to burn on contact. Metal frames can be made from wires, metal pipes or poles with soldering.</p>  
 	<img title="A wooden frame for netting on a planter bed. Photo by Jacqueline Chua." src="/images/Hardscapes/Netting%20(3).jpg">
-	<p><b>Wooden frames</b> can be heavy or light, but are also biodegradable and lasts between 3-5 years in the tropics, even when coated with resin and other waterproofing materials. Wooden frames are commonly upcycled from old bedframes, plywood and palette wood.</p>
+	<p><b>Wooden frames</b> — can be heavy or light, but are also biodegradable and lasts between 3-5 years in the tropics, even when coated with resin and other waterproofing materials. Wooden frames are commonly upcycled from old bedframes, plywood and palette wood.</p>
 	<br>
 </section>
 
