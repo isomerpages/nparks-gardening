@@ -85,7 +85,7 @@ Because the vines will grow on top of each other, it is a good practice to <a hr
 
 <section>
 	<h4>Propagation:</h4>
-	<img title="Long bean seedlings. Photo by Jacqueline Chua." src="">
+	<img title="Long bean seedlings. Photo by Jacqueline Chua." src="/images/Plants/longbean_seedlings_jacquelinechua.jpg">
 	<p>This vine can be grown <a href="/page-index/horticulture-techniques/propagating-by-seeds/">via seeds</a>. </p>
 	<br>
 </section>
