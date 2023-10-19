@@ -45,6 +45,6 @@ image: ""
 <section> 
   <h4>Common problems &amp; solutions:</h4> 
 	<p>Mother of Thousands are largely resistant to most pests.</p>
-	<p>These plants are susceptible to <a href="/page-index/plant-problems/root-rot/">root rot</a> if grown in <a href="/page-index/plant-problems/waterlogging/">waterlogged soil</a>. To prevent rot, allow the plant to dry out between waterings and ensure that there is enough air circulation.</p>
+	<p>This plant is susceptible to <a href="/page-index/plant-problems/root-rot/">root rot</a> if grown in <a href="/page-index/plant-problems/waterlogging/">waterlogged soil</a>. To prevent rot, grow the plant in <a href="/page-index/horticulture-techniques/soil/">sandy soil</a> with plenty of <a href="/page-index/horticulture-techniques/soil-amendments/">inorganic soil amendments</a>. Plants can also be <a href="/page-index/horticulture-techniques/bottom-watering/">bottom watered</a> once a week or less to keep the soil airy.</p>
 	<br> 
 </section>
