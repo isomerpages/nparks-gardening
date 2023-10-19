@@ -35,7 +35,7 @@ image: ""
 		</div></li>
 		<li><input type="checkbox" id="accordion4">
 		<label for="accordion4">Deep shade</label><div>
-			<p><b>Deep shade</b> has little or no sunlight reaching the ground at all. Areas of a garden in deep shade will not have shadows. Areas immediately next to walls, far away from windows or in the middle of shelters are generally in deep shade. It is difficult to grow things in areas that are in deep shade for most of the day. These spots can instead be used for <a href="/page-index/hardscapes/hardscapes/">hardscapes for gardeners</a> like <a href="/page-index/hardscapes/storage/">storage</a>.</p>
+			<p><b>Deep shade</b> has little or no sunlight reaching the ground at all. Areas of a garden in deep shade will not have shadows. Areas immediately next to walls, far away from windows or in the middle of shelters are generally in deep shade. It is difficult to grow things in areas that are in deep shade for most of the day. These spots can instead be used for <a href="/page-index/hardscapes/hardscapes/">other hardscapes</a> such as <a href="/page-index/hardscapes/storage/">storage</a>.</p>
 		</div></li>
 	</ul>
 	<br>
