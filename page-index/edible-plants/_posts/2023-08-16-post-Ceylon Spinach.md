@@ -17,7 +17,7 @@ image: ""
 </section> 
  
 <section>
-	<img title="Photo by Flora and Fauna Web." src="/images/Plants/ceylonspinach_ffw.jfif">
+	<img title="Ceylon spinach growing in a planter bed. Photo by Jacqueline Chua." src="/images/Hardscapes/PlanterBed%20(23).jpg">
 	<p>Ceylon spinach is a striking vine that is harvested for its leaves, stems, and fruits.  Young leaves and stems are harvested for salads and stews, with the sticky sap used as a thickening agent for soups. Cooked leaves taste like spinach, with a slippery texture similar to <a href="/page-index/edible-plants/ladys-finger/">Lady’s Finger</a>.</p>
 	<p>The plant produces purple fruits which are used to colour jellies, pastries, and sweets. The natural dye produced from the berries were used in China to make inks for seals by court officials, which is why the plant is also known as Emperor Sprouts (帝皇苗).</p>
 	<p>As a large <a href="/learn-more-about-gardening/glossary/#p">perennial</a> crop that grows as a vine, it is a common sight in edible gardens, permaculture gardens, and low maintenance beds.</p>
@@ -33,9 +33,9 @@ image: ""
  
 <section> 
   <h4>Sowing seeds:</h4> 
-	<p>Seeds can be sown directly into pots or the ground around 10cm apart. Lightly water the soil until damp, once a day. Seeds should sprout within a week.</p> 
-	<iframe width="100%" height="415" src="https://www.youtube.com/embed/x7J87wY7U6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
-	<p>The seedlings are generally resilient to most environmental factors but may be vulnerable to being eaten by snails or birds. Protect your young plants with a DIY <a href="/page-index/horticulture-techniques/cloches/">cloche</a> or <a href="/page-index/hardscapes/netting/">netting</a>.</p>
+		<iframe width="100%" height="415" src="https://www.youtube.com/embed/x7J87wY7U6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
+	<p><a href="/page-index/horticulture-techniques/propagation-by-seeds">Seeds can be sown directly into pots or the ground</a> around 10cm apart. Lightly water the soil until damp, once a day. Seeds should sprout within a week.</p> 
+<p>The seedlings are generally resilient to most environmental factors but may be vulnerable to being eaten by <a href="/page-index/pests/snails-and-slugs/">snails</a> or <a href="/page-index/pests/pests/#birds">birds</a>. Protect your young plants with a DIY <a href="/page-index/horticulture-techniques/cloches">cloche</a> or <a href="/page-index/hardscapes/netting">netting</a>.</p>
 	<br> 
 </section> 
  
@@ -81,6 +81,7 @@ image: ""
  
 <section> 
   <h4>Propagation:</h4> 
+	<img title="Ceylon Spinach cutting planted in true ground. Photo by Jacqueline Chua." src="/images/img_9692_jacquelinechua.jpg">
 		<p>This vine can be grown <a href="/page-index/horticulture-techniques/propagating-by-seeds/">via seeds</a> or by <a href="/page-index/horticulture-techniques/propagating-by-cuttings/">stem cuttings</a> rooted in water or soil.</p> 
 	<br> 
 </section> 
@@ -88,10 +89,10 @@ image: ""
 <section> 
   <h4>Common problems &amp; solutions:</h4> 
 	<p>This plant is relatively resistant to pests and disease if kept healthy.</p>
+			<p>Young plants have soft stems and can be completely eaten by <a href="/page-index/pests/snails-and-slugs/">slugs and snails</a>. Grow seedlings till they are at least 10cm tall before planting them in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a>, or use DIY <a href="/page-index/horticulture-techniques/cloches/">cloches</a> or <a href="/page-index/hardscapes/netting/">netting</a> to protect young plants. </p>
 	<p>This plant is vulnerable to fungal diseases that form leaf spots during the wet season or when the plant is overgrown. Increase air circulation with <a href="/page-index/horticulture-techniques/pruning/">regular pruning</a> and remove affected leaves to reduce the spread.</p>
 	<p>This plant is susceptible to root-knot nematodes which cause the plant to have galls on its roots which result in leaf <a href="/page-index/plant-problems/wilting/">wilting</a> and root decay. <a href="/page-index/horticulture-techniques/crop-rotation/">Rotate your crops</a> and change the soil to remedy the infestation.</p>
 	<p><a href="/page-index/plant-problems/etiolation/">Etiolation</a> is characterised by plants growing long and skinny, with weak stems and small leaves. The plants may also sometimes look yellowish. Plants etiolate when they do not get enough sunlight, which results in slow growth and untidy forms. To prevent this, grow plants in environments with enough light for them and make sure that each plant has enough space to prevent overcrowding.</p>
-	<p><a href="/page-index/pests/aphids/">Aphids</a>, <a href="/page-index/pests/mealy-bugs/">mealy bugs</a>, and <a href="/page-index/pests/spider-mites/">spider mites</a> often infest the plant if it is sickly or overgrown. <a href="/page-index/horticulture-techniques/pruning/">Prune off</a> the infested parts or apply horticultural oils like neem oil and white summer oil to suffocate the remaining pests. Regularly prune the plant to allow light and air to reach throughout the plant, and check the plant for underlying problems like <a href="/page-index/plant-problems/root-rot/">root rot</a>, lack of sunlight, and <a href="/page-index/plant-problems/nutrient-deficiencies/">nutrient deficiencies</a>.</p>
-	<p><a href="/page-index/pests/whiteflies/">Whiteflies</a> can infest the plant and lay eggs under its leaves. Remove affected plant parts and catch remaining adults with yellow sticky paper or treat them with citrus spray.</p>
-	<br> 
+<p><a href="/page-index/pests/aphids/">Aphids</a>, <a href="/page-index/pests/mealy-bugs/">Mealy Bugs</a>, <a href="/page-index/pests/whiteflies/">Whiteflies</a>, and <a href="/page-index/pests/spider-mites/">spider mites</a> often infest the plant if it has <a href="/learn-more-about-gardening/plant-problems/">underlying problems</a> like repeated wilting from heat stress. <a href="/horticulture-techniques/pest-control/">Mechanical pest control</a> methods like <a href="/page-index/horticulture-techniques/pruning/">pruning</a> the infested parts are the best methods for managing these pests in the short term, but resolving the underlying problem will prevent them in the long term.</p>
+		<p><a href="/page-index/plant-problems/wilting/">Wilting</a> leaves during hot weather is a sign of heat stress. Increase the number of times the plant is watered daily, and apply mulch at the base to prevent water loss.</p>
 </section>
