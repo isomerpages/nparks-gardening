@@ -42,7 +42,7 @@ image: ""
 
 <section> 
   <h4>Common problems &amp; solutions:</h4> 
-	<p>This plant is relatively resistant to pests and disease if kept healthy.</p>
-	<p><a href="/page-index/pests/aphids/">Aphids</a>, <a href="/page-index/pests/mealy-bugs/">mealy bugs</a>, and <a href="/page-index/pests/spider-mites/">spider mites</a> often infest the plant if it is sickly or overgrown. <a href="/page-index/horticulture-techniques/pruning/">Prune off</a> the infested parts, or apply horticultural oils like neem oil and white summer oil to suffocate the remaining pests. Regularly prune the plant to allow light and air to reach throughout the plant, and check the plant for underlying problems like <a href="/page-index/plant-problems/root-rot/">root rot</a>, lack of sunlight, and <a href="/page-index/plant-problems/nutrient-deficiencies/">nutrient deficiencies</a>.</p>
+	<p>This plant is susceptible to <a href="/page-index/plant-problems/root-rot/">root rot</a> if grown in <a href="/page-index/plant-problems/waterlogging/">waterlogged soil</a>. To prevent rot, grow the plant in <a href="/page-index/horticulture-techniques/soil/">sandy soil</a> with plenty of <a href="/page-index/horticulture-techniques/soil-amendments/">inorganic soil amendments</a>. Plants can also be <a href="/page-index/horticulture-techniques/bottom-watering/">bottom watered</a> once a week or less to keep the soil airy.</p>
+	<p><a href="/page-index/pests/mealy-bugs/">Mealy Bugs</a> often infest the plant if it has <a href="/learn-more-about-gardening/plant-problems/">underlying problems</a> like root rot. <a href="/horticulture-techniques/pest-control/">Mechanical pest control</a> methods like <a href="/page-index/horticulture-techniques/pruning/">pruning</a> the infested parts are the best methods for managing these pests in the short term, but resolving the underlying problem will prevent them in the long term.</p>
 	<br> 
 </section>
