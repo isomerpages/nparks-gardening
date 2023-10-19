@@ -42,7 +42,7 @@ description: ""
 					<ul>
 						<li>The <a href="https://www.nparks.gov.sg/juronglakegardens">Jurong Lake Gardens</a>, which has an edible garden, allotment garden and therapeutic garden;</li>
 						<li><a href="https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/hortpark">HortPark</a>, with a Nature Playgarden, multiple edible gardens and ornamental show gardens;</li>
-						<li>The <a href="">Singapore Botanic Gardens</a>, which features extensive and unique themed gardens including an ethnobotany garden, a ginger garden, and the National Orchid Garden.</li>
+						<li>The <a href="https://www.nparks.gov.sg/sbg">Singapore Botanic Gardens</a>, which features extensive and unique themed gardens including an ethnobotany garden, a ginger garden, and the National Orchid Garden.</li>
 					</ul>
 			</ul>
 		</div></li>
