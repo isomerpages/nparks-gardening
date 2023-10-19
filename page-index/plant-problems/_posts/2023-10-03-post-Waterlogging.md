@@ -34,7 +34,7 @@ image: ""
 				<li>If the soil is heavy, hardened clay, it can be lightened by:</li>
 					<ul>
 						<li>Being broken up into smaller pieces with a shovel or hoe</li>
-						<li>Being broken up by growing waterlogging-tolerant crops like <a href="/page-index/edible-plants/kang-kong/">Kang kong</a>, <a href="/page-index/edible-plants/pandan/">Pandan</a>, or <a href="/page-index/edible-plants/taro/">Taro</a></li>
+						<li>Being broken up by growing waterlogging-tolerant crops like <a href="/page-index/edible-plants/kang-kong/">Kang Kong</a>, <a href="/page-index/edible-plants/pandan/">Pandan</a>, or <a href="/page-index/edible-plants/taro/">Taro</a></li>
 						<li>Adding organic matter like <a href="/page-index/horticulture-techniques/soil-amendments/">compost or cocopeat</a></li>
 					</ul>
 			</ul>
