@@ -44,8 +44,8 @@ image: ""
 
 <section>
 	<h4>Growing:</h4>
-	<p>Bean plants generally don’t require much fertilising because they are able to fix their own nitrogen. However, they do benefit from being fed high potassium and phosphorus <a href="/page-index/horticulture-techniques/fertilising/">fertilisers</a> to encourage flowering and thus fruiting. 
-Because the vines will grow on top of each other, it is a good practice to <a href="/page-index/horticulture-techniques/pruning/">prune</a> regularly and remove dead leaves and vines to improve ventilation and allow light to reach more of the plant.</p>
+	<p>Bean plants generally don’t require much fertilising because they are able to fix their own nitrogen. However, they do benefit from being fed high potassium and phosphorus <a href="/page-index/horticulture-techniques/fertilising/">fertilisers</a> to encourage flowering and thus fruiting. </p>
+Because the vines will grow on top of each other, it is a good practice to <a href="/page-index/horticulture-techniques/pruning/">prune</a> regularly and remove dead leaves and vines to improve ventilation and allow light to reach more of the plant.<p></p>
 	<br>
 </section>
 
