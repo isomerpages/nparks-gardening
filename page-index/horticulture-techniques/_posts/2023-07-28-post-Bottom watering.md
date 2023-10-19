@@ -24,10 +24,10 @@ image: ""
 	<ol>
 		<li>Check whether the soil in your pot is dry.It should feel light, and have a dry texture for at least 5cm from the top. </li>
 		<li>Place your pots in a container that can hold enough water to cover at least half of the pot, like a sink, bucket, or basin.</li>
-		<li>Fill up the container with water between halfway and three-quarters up the side of your pots</li>
-		<li>Leave your plants in the water until the top of the soil becomes moist. This can be anywhere between 20 minutes to an hour, depending on your pot size and soil type</li>
-		<li>Carefully remove your plants and allow excess water to drain out of the pots</li>
-		<li>Replace the pots in their original growing area as needed</li>
+		<li>Fill up the container with water between halfway and three-quarters up the side of your pots.</li>
+		<li>Leave your plants in the water until the top of the soil becomes moist. This can be anywhere between 20 minutes to an hour, depending on your pot size and soil type.</li>
+		<li>Carefully remove your plants and allow excess water to drain out of the pots.</li>
+		<li>Replace the pots in their original growing area as needed.</li>
 	</ol>
 	<br>
 </section>
