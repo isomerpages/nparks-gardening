@@ -19,7 +19,7 @@ image: ""
 	<p>A good visual rule of thumb for plant spacing is to plant so the tips of the leaves from one mature plant are 2-4 cm from the tips of the leaves of another plant. This usually can be estimated as:</p>
 	<ul>
 		<li>Around 5-10cm between seedlings for small leafy vegetables like <a href="/page-index/edible-plants/lettuce/">Lettuce</a> and <a href="/page-index/edible-plants/cai-xin/">Cai Xin</a></li>
-		<li>15-30cm for small shrubs like <a href="/page-index/edible-plants/thai-basil/">Thai Basil</a> and <a href="/page-index/edible-plants/ladys-fingers/">Lady’s-Fingers</a></li>
+		<li>15-30cm for small shrubs like <a href="/page-index/edible-plants/thai-basil/">Thai Basil</a> and <a href="/page-index/edible-plants/ladys-finger/">Lady’s-Finger</a></li>
 		<li>2 metres or more for small trees like <a href="/page-index/edible-plants/guava/">Guava</a> and <a href="/page-index/edible-plants/chiku/">Chiku</a></li>
 	</ul>
 	<iframe width="100%" height="415" src="https://www.youtube.com/embed/f_Uoug7ZSeg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe><br>
