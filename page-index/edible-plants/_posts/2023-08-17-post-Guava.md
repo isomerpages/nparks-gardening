@@ -39,8 +39,8 @@ image: ""
 
 <section>
   <h4>Growing:</h4>
-	<p>Guava trees are steady growers but do benefit from being fed high potassium and phosphorus <a href="/page-index/horticulture-techniques/fertilising">fertilisers</a> to encourage flowering and thus fruiting. Regular <a href="/page-index/horticulture-techniques/pruning/">pruning</a>
-	</p><p>The tree will need to be around 5 years old before it starts producing fruit if grown from seed.</p>
+	<p>Guava trees are steady growers but do benefit from being fed high potassium and phosphorus <a href="/page-index/horticulture-techniques/fertilising">fertilisers</a> to encourage flowering and thus fruiting. <a href="/page-index/horticulture-techniques/pruning">Regular pruning</a> to promote airflow will keep the plant healthy and neat. </p>
+	<p></p><p>The tree will need to be around 5 years old before it starts producing fruit if grown from seed.</p>
 	<br>
 </section>
 
