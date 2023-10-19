@@ -16,10 +16,10 @@ image: ""
 </section>
 
 <section>
-	<img title="Limau Purut fruit. Photo by Jacqueline Chua." src="/images/Plants/limaupurut%20(2)_jacquelinechua.jpg">
+	<img title="Limau Purut fruit. Photo by Flora and Fauna web." src="/images/Plants/limaupurrut_ffw.jpg">
 	<p>Limau Purut fruit rinds and leaves are key ingredients in several Southeast Asian dishes, with the most famous being Thai Tom Yum. Unfortunately, the fruit itself is rather dry and produces very little pulp and juice.</p>
-	<p>As a <a href="/learn-more-about-gardening/glossary/#p">perennial</a> tree, it is a common sight in edible gardens.</p>
-	<p>The plant is part of the citrus family, which also includes limes. All citrus plants are host plants for the lime butterfly and can be part of the planting palette for biodiversity-attracting gardens.</p>       
+	<p>As a <a href="/learn-more-about-gardening/glossary/#p">perennial</a> tree, it is a common sight in edible gardens. It is usually grown in true ground or large pots, and is pruned regularly into a medium- or large-sized shrub.</p>
+	<p>The plant is part of the citrus family, which also includes <a href="/page-index/edible-plants/lime/">limes</a>. All citrus plants are host plants for the lime butterfly and can be part of the planting palette for <a href="/page-index/glossary/biodiversity-attracting-plants">biodiversity-attracting</a> gardens.</p>       
 	<br>
 </section>
 
@@ -35,9 +35,9 @@ This plant can be grown year-round.</p>
 
 <section>
 	<h4>Sowing Seeds</h4>
-	<p>Seeds can be sown directly into pots or the ground. Because the plant eventually grows into a tree, it is easier to grow a few seedlings in separate pots before selecting the healthiest one to be grown in true ground.</p>
 	<iframe width="100%" height="415" src="https://www.youtube.com/embed/x7J87wY7U6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
-	<p>The seedlings are generally resilient to most environmental factors but may be vulnerable to being eaten by caterpillars, snails, or birds. Protect your young plants with a DIY <a href="/page-index/horticulture-techniques/cloches/">cloche</a> or <a href="/page-index/hardscapes/netting/">netting</a>.</p>
+	<p><a href="/page-index/horticulture-techniques/propagation-by-seeds"> Seeds can be sown directly into pots or the ground</a>. Because the plant eventually grows into a tree, it is easier to grow a few seedlings in separate pots before selecting the healthiest one to be grown in true ground.</p>
+<p>The seedlings are generally resilient to most environmental factors but may be vulnerable to being eaten by <a href="/page-index/pests/snails-and-slugs/">snails</a>, <a href="/page-index/pests/caterpillars/">caterpillars</a>  or <a href="/page-index/pests/pests/#birds">birds</a>. Protect your young plants with a DIY <a href="/page-index/horticulture-techniques/cloches">cloche</a> or <a href="/page-index/hardscapes/netting">netting</a>.</p>
 	<br>
 </section>
 
@@ -62,8 +62,10 @@ This plant can be grown year-round.</p>
 
 <section>
 	<h4>Common problems &amp; solutions:</h4>
-	<p><a href="/page-index/pests/aphids/">Aphids</a>, <a href="/page-index/pests/mealy-bugs/">mealy bugs</a>, and <a href="/page-index/pests/spider-mites/">spider mites</a> often infest the plant if it is sickly or overgrown.<a href="/page-index/horticulture-techniques/pruning/">Prune off</a> the infested parts, or apply horticultural oils like neem oil and white summer oil to suffocate the remaining pests. Regularly prune the plant to allow light and air to reach throughout the plant, and check the plant for underlying problems like <a href="/page-index/plant-problems/root-rot/">root rot, lack of sunlight, and </a><a href="/page-index/plant-problems/nutrient-deficiencies/">nutrient deficiencies</a>.</p>
+	<p>If your plant has few to no flowers, you can fertilise the plant with <a href="/page-index/horticulture-techniques/fertilising/">fertilisers high in phosphorus and potassium</a>. These nutrients encourage root and flower growth, which are important for the plant to produce more fruit.</p>
+	<p> Many plants require <a href="/page-index/biodiversity/pollinators/">pollinators</a> to help them fruit. Bees, butterflies, birds and even beetles transport pollen from one flower to another, pollinating your crops and increasing their fruit yield. Attract some pollinators to your garden by growing <a href="/page-index/glossary/biodiversity-attracting-plants">pollinator-attracting crops</a>.</p>
+<p><a href="/page-index/pests/aphids/">Aphids</a>, <a href="/page-index/pests/mealy-bugs/">Mealy Bugs</a>, <a href="/page-index/pests/whiteflies/">Whiteflies</a>, and <a href="/page-index/pests/spider-mites/">spider mites</a> often infest the plant if it has <a href="/learn-more-about-gardening/plant-problems/">underlying problems</a> like waterlogging. <a href="/horticulture-techniques/pest-control/">Mechanical pest control</a> methods like <a href="/page-index/horticulture-techniques/pruning/">pruning</a> the infested parts are the best methods for managing these pests in the short term, but resolving the underlying problem will prevent them in the long term.</p>
+<p><a href="/page-index/pests/pests/#rodents">Squirrels and birds</a> may eat unripe or ripe fruit. Wrap your fruit in <a href="/page-index/hardscapes/netting">netting</a> when it starts to develop from a fertilised flower, ideally after all the petals have dropped off.</p>
 	<p><a href="/page-index/pests/caterpillars/">Caterpillars</a>, usually from the Lime Butterfly, can rapidly eat all the leaves of your plant. If your plant has lots of large holes and small brown or black faecal pellets scattered around damaged leaves, you likely have a caterpillar infestation. Manually remove the caterpillars by hand and protect your plants with <a href="/page-index/hardscapes/netting/">netting</a>.</p>
-	<p><a href="/page-index/pests/whiteflies/">Whiteflies</a> can infest the plant and lay eggs under its leaves. Remove affected plant parts and catch remaining adults with yellow sticky paper or treat them with citrus spray.</p>
 	<br>
 </section>
