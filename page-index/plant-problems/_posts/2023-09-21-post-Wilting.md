@@ -29,7 +29,7 @@ image: ""
 				<li><a href="/page-index/horticulture-techniques/watering/">Water your plants</a> more regularly during the dry period and consider adding <a href="/page-index/horticulture-techniques/mulching/">mulch</a> to the base of stems to reduce water loss.</li>
 				<li>Consider moving your plants to a <a href="/page-index/horticulture-techniques/gauging-light/">shadier area</a> or build <a href="/page-index/hardscapes/netting/">shade netting</a> over the plant during particularly hot periods.</li>
 			</ul></li>
-  	<li><b>Wilting due to <a href="/page-index/plant-problems/root-rot/">root rot</a></b>
+  	<li><b>Wilting due to root rot</b>
 				<ul>
 					<li>Lots of rain and <a href="/page-index/horticulture-techniques/watering/">overwatering</a> can cause <a href="/page-index/plant-problems/root-rot/">root rot</a>, especially if the soil or pot does not drain well and is <a href="/page-index/plant-problems/waterlogging/">waterlogged</a>. Check your plant’s roots for damage if it has been wilting despite regular watering.</li>
 					<li>If <a href="/page-index/plant-problems/root-rot/">root rot</a> is present, cut off the rotting portions and change the soil to prevent additional rot. Check the drainage of your plot or pot to ensure that water can drain away. </li>
