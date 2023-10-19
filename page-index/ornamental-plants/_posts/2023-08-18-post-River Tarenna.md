@@ -11,7 +11,7 @@ image: ""
 </header>
 
 <section>
-	<img title="River Tarenna flowers. Photo by Jacqueline Chua." src="/images/Plants/tarennafrnagrans%20(1)_jacquelinechua.jpg">
+	<img title="River Tarenna trees in full bloom. Photo by Flora and Fauna web." src="/images/Plants/rivertarenna_ffw.jpg">
 	<p>River Tarennas are a hardy <a href="/learn-more-about-gardening/glossary/#f">free-flowering</a> tree that is commonly seen in rewilding areas, nature parks, in roadside gardens, and biodiversity-attracting gardens. The flowers have a strong, vanilla-like fragrance, and the fruits are attractive birds and small mammals. This plant is also <a href="/page-index/glossary/native-plants/">native</a> to Singapore and is naturally found growing along primary and secondary forests.</p>
 	<p>A <a href="/learn-more-about-gardening/glossary/#p">perennial</a> tree, River Tarennas are useful as <a href="/page-index/glossary/biodiversity-attracting-plants/">biodiversity-attracting plants</a> and perimeter plants to add a pop of colour to any garden. The fragrant flowers make it a potential feature plant for therapeutic gardens.</p>
 	 <br> 
@@ -19,7 +19,8 @@ image: ""
  
 <section> 
   <h4>Environmental needs:</h4> 
-  <p>This plant thrives in <a href="/page-index/horticulture-techniques/gauging-light/">4-8 hours of direct or indirect sunlight</a>. Plants do best in <a href="/page-index/horticulture-techniques/soil/">loamy soil</a>. These plants can also grow well in waterlogged sites with clayey soil.</p> 
+	<img title="River Tarenna flowers photo by Jacqueline Chua." src="/images/Plants/rivertarenna_4%20(3)_jacquelinechua.jpg">
+  <p>This plant thrives in <a href="/page-index/horticulture-techniques/gauging-light/">4-8 hours of direct or indirect sunlight</a>. Plants do best in <a href="/page-index/horticulture-techniques/soil/">loamy soil</a>. These plants can also grow well in <a href="/page-index/plant-problems/waterlogging/">waterlogged</a> sites with clayey soil. This plant can be grown in very clayey <a href="/page-index/horticulture-techniques/true-ground/">true ground</a>.</p> 
 	<br>
 </section>
 
@@ -38,6 +39,7 @@ image: ""
 <section> 
   <h4>Common problems &amp; solutions:</h4> 
 	<p>This plant is relatively resistant to pests and disease if kept healthy.</p>
+	<p>If your plant has few to no flowers, you can fertilise the plant with <a href="/page-index/horticulture-techniques/fertilising/">fertilisers high in phosphorus and potassium</a>. These nutrients encourage root and flower growth, which are important for the plant to produce more fruit.</p>
 	<p>If the plant does not receive enough light, it will stop producing flowers. Prune surrounding plants or move the plant to a sunnier spot to promote flower growth.</p>
 	<br> 
 </section>
