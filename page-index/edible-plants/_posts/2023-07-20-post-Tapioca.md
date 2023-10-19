@@ -30,7 +30,7 @@ image: ""
 
 <section>
 	<h4>Growing:</h4>
-	<p>Tapioca is a rapid grower and generally does not need fertilizing. Plants can grow up to 4m high with enough sunlight, and is prone to snapping. <a href="/page-index/horticulture-techniques/pruning/">Prune</a> the plant to around 1.5m for ease of maintenance. Older leaves should be regularly pruned to allow the plant to focus its energy on growing tubers.</p>
+	<p>Tapioca is a rapid grower and generally does not need fertilizing. Plants can grow up to 4m high with enough sunlight, and is prone to snapping. <a href="/page-index/horticulture-techniques/pruning/">Prune</a> the plant to around 1.5m for ease of maintenance. Older leaves and side branches should be pruned regularly pruned to allow the plant to focus its energy on growing tubers.</p>
 	<br>
 </section>
 
