@@ -16,7 +16,7 @@ description: ""
 	<li><a href="/page-index/horticulture-techniques/fertilising/">Fertilising</a></li>
 	<li><a href="/page-index/horticulture-techniques/soil/">Identifying and mixing soil</a></li>
 	<li><a href="/digital-tools/pestid/">Identifying pests</a></li>
-	<li><a href="/page-index/horticulture-techniques/ipm">Integrated Pest management</a></li>
+	<li><a href="/page-index/horticulture-techniques/ipm">Integrated pest management</a></li>
 </ul>
 </section>
 
