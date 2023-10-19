@@ -39,7 +39,6 @@ description: ""
 	}
 </style>
 
-<a id="top"></a>
 <strong>Click on an alphabet to learn more about different horticulture techniques!</strong>
 <table>
 	<tbody>
@@ -134,9 +133,3 @@ description: ""
 <h4 id="y">Y</h4>
 <h4 id="z">Z</h4>
 </section>
-	
-<div class="float-buttons">
-	<div style="position:relative;" class="inner-wrapper-sticky">
-  <a style="text-decoration:none" class="float-buttons left" href="#top">↑ Back to top</a>
-	</div>
-</div>
