@@ -16,7 +16,7 @@ image: ""
 	<img title="An indoor light growing setup to grow cold-weather crops. Photo by Jacqueline Chua." src="/images/Hardscapes/Growlight_JacChua.jpg">
 	<p>Light intensity is measured in <b>lumens (lm)</b> for most household lights. <b>Lumens</b> is a basic unit of measurement for light brightness as perceived by the human eye.</p>
 	<p>However, what may seem to be bright to our eyes may not appear as bright to plants. A light fixture that has more blue and red light would have lower lumens than a green and yellow light which our eyes are more sensitive to.</p>  
-	<p>The light spectrum range useful for plant growth is defined as <b>Photosynthetically Active Radiation (PAR)</b> which refers to the wavelength from 400nm to 700nm. This is usually expressed as <b>Photosynthetic Photon Flux Density (PPFD)</b> value. Its unit in is <b>µmol/m<sup>2</sup>/s</b>, which measures the number of photons in the suitable spectra range received by the plant surface at a certain time. The larger the value, the more usable light by plants is reaching the plant surface. This value can be found in the specifications for various grow lights.</p>
+	<p>The light spectrum range useful for plant growth is defined as <strong>Photosynthetically Active Radiation (PAR)</strong> which refers to the wavelength from 400nm to 700nm. This is usually expressed as <strong>Photosynthetic Photon Flux Density (PPFD)</strong> value. Its unit in is <strong>µmol/m<sup>2</sup>/s</strong>, which measures the number of photons in the suitable spectra range received by the plant surface at a certain time. The larger the value, the more usable light by plants is reaching the plant surface. This value can be found in the specifications for various grow lights.</p>
 	<br>
 </section>
 
