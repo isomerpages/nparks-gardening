@@ -42,7 +42,7 @@ image: ""
 <section>
 	<h4>Growing:</h4>
 		<img title="A Peanut plant with flowers. Photo by Jacqueline Chua." src="/images/Plants/peanut%20(4)_jacquelinechua.jpg">
-	<p>These plants generally do not require much fertilising because they are able to fix their own nitrogen. To encourage flowering and thus more seed pods, you can fertilise the plant with <a href="/page-index/horticulture-techniques/fertilising/">fertilisers high in phosphorus and potassium</a>. These nutrients encourage root and flower growth, which are important for the plant to produce more seed pods.</p><p></p>
+	<p>These plants generally do not require much fertilising because they are able to fix their own nitrogen. To encourage flowering and thus more seed pods, you can fertilise the plant with <a href="/page-index/horticulture-techniques/fertilising/">fertilisers high in phosphorus and potassium</a>. These nutrients encourage root and flower growth, which are important for the plant to produce more seed pods. Unfertilised peanut flowers grow above ground like most other plants, but when they are fertilised they will grow special structures that produce the peanut seed pods underground.</p>
 	<p>Individual peanut plants will quickly grow a network of roots that are delicate. Do not disturb the roots if possible, and <a href="/page-index/horticulture-techniques/mulching/">mulch</a> them to prevent water loss.</p>
 	<p><a href="/page-index/pests/pests/#rodents">Squirrels and birds</a> may dig up and eat seed pods. Cover your plants in <a href="/page-index/hardscapes/netting">netting</a> to prevent this.</p>
 	<br>
