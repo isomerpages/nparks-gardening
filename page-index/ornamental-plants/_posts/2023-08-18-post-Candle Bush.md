@@ -16,7 +16,7 @@ image: ""
 </section> 
  
 <section>
-	<img title="Photo by Flora and Fauna Web." src="/images/Plants/candlebush_ffw.jfif">
+	<img title="A flowering candle bush. Photo by Flora and Fauna Web." src="/images/Plants/candlebush_ffw_2.jpg">
 	<p>Candle bushes are large, hardy <a href="/learn-more-about-gardening/glossary/#f">free-flowering</a> shrubs that are commonly seen in rewilding areas, nature parks, in roadside gardens, and biodiversity-attracting gardens. The flowers are highly attractive to bees.</p>
 	<p>A <a href="/learn-more-about-gardening/glossary/#p">perennial</a> shrub, Candle Bushes are useful as <a href="/page-index/glossary/biodiversity-attracting-plants/">biodiversity-attracting plants</a> to add a pop of colour to any garden.</p>
 	<p>This plant is part of the 	Fabaceae or Bean family, which includes other popular edible fruits like <a href="/page-index/edible-plants/winged-bean/">Winged Bean</a>, <a href="/page-index/edible-plants/peanut/">Peanut</a>, and <a href="/page-index/edible-plants/sword-bean/">Sword Bean</a>. All members of the bean family can be used for <a href="/page-index/horticulture-techniques/companion-planting/">companion planting</a> as they can fix nitrogen into the soil.</p>
