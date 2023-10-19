@@ -17,7 +17,7 @@ image: ""
 </section> 
  
 <section>
-	<img title="Ceylon spinach growing in a planter bed. Photo by Jacqueline Chua." src="/images/Hardscapes/PlanterBed%20(23).jpg">
+	<img title="Ceylon spinach growing ion a trellis. Photo by Jacqueline Chua." src="/images/Plants/ceylonspinach%20(1)_jacquelinechua.jpg">
 	<p>Ceylon spinach is a striking vine that is harvested for its leaves, stems, and fruits.  Young leaves and stems are harvested for salads and stews, with the sticky sap used as a thickening agent for soups. Cooked leaves taste like spinach, with a slippery texture similar to <a href="/page-index/edible-plants/ladys-finger/">Lady’s Finger</a>.</p>
 	<p>The plant produces purple fruits which are used to colour jellies, pastries, and sweets. The natural dye produced from the berries were used in China to make inks for seals by court officials, which is why the plant is also known as Emperor Sprouts (帝皇苗).</p>
 	<p>As a large <a href="/learn-more-about-gardening/glossary/#p">perennial</a> crop that grows as a vine, it is a common sight in edible gardens, permaculture gardens, and low maintenance beds.</p>
