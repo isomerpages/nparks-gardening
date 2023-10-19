@@ -8,7 +8,7 @@ image: ""
 ---
 <section>
 	<img title="A freshly transplanted rooted cutting in transplanting shock. Photo by Jacqueline Chua." src="/images/Plant%20problems/transplantingshock_jacquelinechua.jpg">
-<p>Transplanting shock happens to <a href="/page-index/horticulture-techniques/propagating-by-seed/">seedlings</a> and <a href="/page-index/horticulture-techniques/propagating-by-cuttings/">cuttings</a> that have been freshly planted into a <a href="/horticulture-techniques/planting-in-containers/">new pot</a>, planter bed, or <a href="/horticulture-techniques/true-ground/">true ground</a>. The change in environment is very stressful for the plant, which causes it to show a number of symptoms that can look very concerning, but will eventually resolve as the plant settles into its new environment.</p>
+<p>Transplanting shock happens to <a href="/page-index/horticulture-techniques/propagating-by-seed/">seedlings</a> and <a href="/page-index/horticulture-techniques/propagating-by-cuttings/">cuttings</a> that have been freshly planted into a <a href="/page-index/horticulture-techniques/planting-in-containers/">new pot</a>, planter bed, or <a href="/page-index/horticulture-techniques/true-ground/">true ground</a>. The change in environment is very stressful for the plant, which causes it to show a number of symptoms that can look very concerning, but will eventually resolve as the plant settles into its new environment.</p>
 <br>
 </section>
 <section>
