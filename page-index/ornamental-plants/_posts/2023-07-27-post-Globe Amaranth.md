@@ -30,9 +30,9 @@ image: ""
 
 <section>
   <h4>Sowing seeds:</h4>
-	<p>Sow seeds individually in a seedling tray filled with potting mix or seedling mix. Lightly mist the soil until damp, once a day. Seeds should sprout within 10 days.</p>
-	<iframe width="100%" height="415" src="https://www.youtube.com/embed/x7J87wY7U6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe><br>
+		<iframe width="100%" height="415" src="https://www.youtube.com/embed/x7J87wY7U6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe><br>
 	<br>
+	<p><a href="/page-index/horticulture-techniques/propagation-by-seeds">Sow seeds</a> individually in a seedling tray filled with potting mix or seedling mix. Lightly mist the soil until damp, once a day. Seeds should sprout within 10 days.</p>
 	<p>The seedlings will be vulnerable to high heat and heavy rain and are best kept in a sheltered propagation area or a shaded space with around 4 hours of partial or direct sunlight.</p> 
 	<p>Seeds can be sown directly into pots or the ground around 10cm apart. Lightly water the soil until damp, once a day. Seeds should sprout within 10 days.</p>
 	<br>
@@ -54,7 +54,6 @@ image: ""
 <section>
 	<h4>Harvesting:</h4>
 	<p>Plants can be <a href="/page-index/horticulture-techniques/harvesting-hygiene/">harvested</a> for flowers at any time.  Fruits can be harvested for seeds when they are brown and dry.</p>
-	<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/FuWK90da0GY" height="415" width="100%"></iframe><br>
 	<br>
 </section>
 
@@ -67,8 +66,9 @@ image: ""
 <section>
 	<h4>Common problems &amp; solutions:</h4>
 		<p>This plant is relatively resistant to pests and disease if kept healthy.</p>
-	<p><a href="/page-index/pests/aphids/">Aphids</a>, <a href="/page-index/pests/mealy-bugs/">mealy bugs</a>, and <a href="/page-index/pests/spider-mites/">spider mites</a> often infest the plant if it is sickly or overgrown. <a href="/page-index/horticulture-techniques/pruning/">Prune off</a> the infested parts, or apply horticultural oils like neem oil and white summer oil to suffocate the remaining pests. Regularly prune the plant to allow light and air to reach throughout the plant, and check the plant for underlying problems like <a href="/page-index/plant-problems/root-rot/">root rot</a>, lack of sunlight, and <a href="/page-index/plant-problems/nutrient-deficiencies/">nutrient deficiencies</a>.</p>
-	<p>This plant is prone to rust and fungal diseases during the wet season. Prune the plant regularly to increase airflow, and remove heavily affected leaves.</p>
+<p>Young plants have soft stems and can be completely eaten by <a href="/page-index/pests/snails-and-slugs/">slugs and snails</a>. Grow seedlings till they are at least 10cm tall before planting them in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a>, or use DIY <a href="/page-index/horticulture-techniques/cloches/">cloches</a> or <a href="/page-index/hardscapes/netting/">netting</a> to protect young plants. </p>
+<p>If your plant has few to no flowers, you can fertilise the plant with <a href="/page-index/horticulture-techniques/fertilising/">fertilisers high in phosphorus and potassium</a>. </p>
+<p><a href="/page-index/pests/aphids/">Aphids</a>, <a href="/page-index/pests/mealy-bugs/">Mealy Bugs</a>, <a href="/page-index/pests/whiteflies/">Whiteflies</a>, and <a href="/page-index/pests/spider-mites/">spider mites</a> often infest the plant if it has <a href="/learn-more-about-gardening/plant-problems/">underlying problems</a> like repeated wilting from heat stress. <a href="/horticulture-techniques/pest-control/">Mechanical pest control</a> methods like <a href="/page-index/horticulture-techniques/pruning/">pruning</a> the infested parts are the best methods for managing these pests in the short term, but resolving the underlying problem will prevent them in the long term.</p>
 	<p><a href="/page-index/plant-problems/wilting/">Wilting</a> may occur during periods of hot weather or from the lack of watering. Regular wilting will stunt plant growth. Increase the number of times a plant is watered, or use <a href="/page-index/horticulture-techniques/mulching/">mulch</a> to retain moisture in the soil.</p>
 	<br>
 </section>
