@@ -45,6 +45,6 @@ image: ""
 <section> 
   <h4>Common problems &amp; solutions:</h4> 
 		<p>African Violets leaves are susceptible to <a href="/page-index/plant-problems/root-rot/">root rot</a>, Powdery Mildew and fungal spots if kept in high humidity or if the leaves are in contact with water for too long. <a href="/page-index/horticulture-techniques/bottom-watering/">Bottom watering</a> would be the best way to avoid getting excess water on its foliage.</p>
-	<p><a href="/page-index/pests/spider-mites/">Spider mites</a> often infest the plant if it is sickly or overgrown. Prune off the infested parts, or apply horticultural oils like neem oil and white summer oil to suffocate the remaining pests. <a href="/page-index/horticulture-techniques/pruning/">Regularly prune</a> the plant to allow light and air to reach throughout the plant, and check the plant for underlying problems like <a href="/page-index/plant-problems/root-rot/">root rot</a>, lack of sunlight, and <a href="/page-index/plant-problems/nutrient-deficiencies/">nutrient deficiencies.</a></p><a href="/page-index/plant-problems/nutrient-deficiencies/">
+<p><a href="/page-index/pests/mealy-bugs/">Mealy Bugs</a> and <a href="/page-index/pests/spider-mites/">spider mites</a> often infest the plant if it has <a href="/learn-more-about-gardening/plant-problems/">underlying problems</a> like repeated wilting from heat stress. <a href="/horticulture-techniques/pest-control/">Mechanical pest control</a> methods like <a href="/page-index/horticulture-techniques/pruning/">pruning</a> the infested parts are the best methods for managing these pests in the short term, but resolving the underlying problem will prevent them in the long term.</p>
 	<br> 
-</a></section>
+</section>
