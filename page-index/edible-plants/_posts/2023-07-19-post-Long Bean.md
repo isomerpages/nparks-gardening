@@ -36,27 +36,25 @@ image: ""
 
 <section>
   <h4>Sowing seeds:</h4>
-	<p>Seeds can be sown directly into pots or the ground around 15-30cm apart. Lightly water the soil until damp, once a day. Seeds should sprout within 2 weeks. </p>
-	<iframe width="100%" height="415" src="https://www.youtube.com/embed/x7J87wY7U6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
-<p>The seedlings are generally resilient to most environmental factors but may be vulnerable to being eaten by snails or birds. Protect your young plants with a DIY <a href="/page-index/horticulture-techniques/cloches/">cloche</a> or <a href="/page-index/hardscapes/netting/">netting</a>. </p>
+		<iframe width="100%" height="415" src="https://www.youtube.com/embed/x7J87wY7U6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
+	<p><a href="/page-index/horticulture-techniques/propagation-by-seeds">Seeds can be sown directly into pots or the ground</a> around 15-30cm apart. Lightly water the soil until damp, once a day. Seeds should sprout within 2 weeks. </p>
+<p>The seedlings are generally resilient to most environmental factors but may be vulnerable to being eaten by <a href="/page-index/pests/snails-and-slugs/">snails</a> or <a href="/page-index/pests/pests/#birds">birds</a>. Protect your young plants with a DIY <a href="/page-index/horticulture-techniques/cloches">cloche</a> or <a href="/page-index/hardscapes/netting">netting</a>.</p> <p></p>
 	<br>
 </section>
 
 <section>
 	<h4>Growing:</h4>
-	<p>Bean plants generally don’t require much fertilising because they are able to fix their own nitrogen. 
+	<p>Bean plants generally don’t require much fertilising because they are able to fix their own nitrogen. However, they do benefit from being fed high potassium and phosphorus <a href="/page-index/horticulture-techniques/fertilising/">fertilisers</a> to encourage flowering and thus fruiting. 
 Because the vines will grow on top of each other, it is a good practice to <a href="/page-index/horticulture-techniques/pruning/">prune</a> regularly and remove dead leaves and vines to improve ventilation and allow light to reach more of the plant.</p>
 	<br>
 </section>
 
 <section>
 	<h4>Harvesting:</h4>
-	<img title="Long bean plants growing in polybags. Photo by Jacqueline Chua." src="/images/Plants/longbean%20(1)_jacquelinechua.jpg">
+	<img title="Long bean fruits ready for harvest. Photo by Flora and Fauna web." src="/images/Plants/longbean_ffw_fruits.jpg">
 	<p>Plants can be <a href="/page-index/horticulture-techniques/harvesting-hygiene/">harvested</a> for fruits around 2 months after sowing. The best time to harvest the fruit is in the early morning, before 9am. </p>
 	<p>Only green, immature beans can be eaten. Dry, brown pods are mature, and can be used for seeds.
 </p>
-	<iframe width="100%" height="415" src="https://www.youtube.com/embed/eGBg_S8yj0U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
-	<br>
 </section>
 
 <section>
