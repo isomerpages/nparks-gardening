@@ -58,7 +58,7 @@ image: ""
 			<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/f_Uoug7ZSeg" height="415" width="100%"></iframe><br>
 		<p>Plants can be harvested for leaves and stems at any size, with younger leaves and stems being the most tender. Most gardeners will begin <a href="/page-index/horticulture-techniques/harvesting-hygiene/">harvesting</a> from Kai Lan around a month after sowing.</p>
 		<img title="A Community Gardener harvesting Kai Lan stems and leaves via the cut-and-come again method. Photo by Jacqueline Chua." src="/images/Gardeners/Harvesting%20(6).jpg">
-		<p>The whole plant can be harvested once by cutting the whole stem at the base of the plant or harvested multiple times by using the <a href="/page-index/horticulture-techniques/cut-and-come-again/">cut-and-come-again</a> method by only cutting off the top 15-20cm of stem, ore harvesting only the lower leaves.</p>
+		<p>The whole plant can be harvested once by cutting the whole stem at the base of the plant or harvested multiple times by using the <a href="/page-index/horticulture-techniques/cut-and-come-again/">cut-and-come-again</a> method by only cutting off the top 15-20cm of stem, or harvesting only the lower leaves.</p>
 	<br>
 </section>
 
