@@ -49,7 +49,7 @@ image: ""
 
 <ul class="jekyllcodex_accordion">
 		<li><input type="checkbox" id="accordion5">
-		<label for="accordion5">Horticultural sand</label><div>
+		<label for="accordion5">Horticultural Sand</label><div>
 		<img title="Horticultural sand with large grains. Photo by Jacqueline Chua." src="/images/Horti%20techniques/Soil_Sandy_Jacchua.jpg">
 		<p><b>Horticultural sand</b> generally refers to river sand or coarse sand with grains larger than 2mm. It should not clump together when wet, and helps to increase the drainage and aeration of soil when mixed in. Coarser grains are generally preferred as fine sand mixed with clay soils will make a medium like concrete.  It can get heavy and dense in large amounts and should generally be mixed with organic amendments like compost to make a lighter soil mix that roots can grow through. </p>
 				</div></li>
