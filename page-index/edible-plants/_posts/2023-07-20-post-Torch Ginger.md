@@ -18,8 +18,8 @@ image: ""
 <section>
 	<img title="Photo by Jacqueline Chua." src="/images/Plants/TorchGinger_JacChua.jpg">
 <p>Torch Gingers are an iconic edible flower that are a key ingredient in Rojak, a Southeast Asian salad. The unopened flowers are eaten raw, in stir fries, in sauces and in stews.  
-Mature flowers are bright, showy, and long lasting, making them suitable as a cut flower. Mature flowers also attract nectivorous birds and can be used in biodiversity-attracting gardens.</p>
-	<p>It is a large <a href="/learn-more-about-gardening/glossary/#p">perennial</a> crop that grows rapidly in the tropics. This is a common plant in herb gardens, permaculture gardens, and low maintenance beds. </p>
+Mature flowers are bright, showy, and long lasting, making them suitable as a cut flower. Mature flowers also attract <a href="/page-index/biodiversity/pollinators/">nectivorous birds</a> and can be used in <a href="/page-index/glossary/biodiversity-attracting-plants">biodiversity-attracting gardens</a>.</p>
+	<p>It is a large <a href="/learn-more-about-gardening/glossary/#p">perennial</a> crop that grows rapidly in the tropics. This is a common plant in shady edible gardens, and is usually grown in true ground. </p>
 <p>Torch Gingers are part of the Zingiberaceae or Ginger family, which includes other popular edible plants like <a href="/page-index/edible-plants/turmeric/">Turmeric</a> and <a href="/page-index/edible-plants/fingerroot/">Fingerroot</a>.</p>       
 	<br>
 </section>
@@ -33,7 +33,7 @@ Mature flowers are bright, showy, and long lasting, making them suitable as a cu
 
 <section>
 	<h4>Growing:</h4>
-	<p>Torch gingers grow naturally in clusters as the plant grows more rhizome, an underground horizontal stem that resembles a tuberous root. <a href="/page-index/horticulture-techniques/pruning">Regular pruning</a> and thinning plants will increase airflow and reduce the incidence of pests.  </p>
+	<p>Torch gingers grow naturally in clusters as the plant grows more <a href="/learn-more-about-gardening/glossary/#r">rhizome</a>, an underground horizontal stem that resembles a tuberous root. <a href="/page-index/horticulture-techniques/pruning">Regular pruning</a> and thinning plants will increase airflow and reduce the incidence of pests.  </p>
 <br>
 </section>
 
