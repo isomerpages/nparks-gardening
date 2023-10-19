@@ -24,15 +24,16 @@ image: ""
 	<h4>Choosing the right light for your environment and plant needs</h4>
 	<p>There are many kinds of light you can use to grow plants indoors but the most common are LED household lights or grow lights. LED lights are generally preferred as they produce less heat. Plants can burn if they grow too close to or touch very hot bulbs! </p>
 	<ul class="jekyllcodex_accordion">
-	<li><input type="checkbox" id="accordion1">
+		<li><input type="checkbox" id="accordion1">
 		<label for="accordion1">LED household lights: for indoor ornamental plants</label><div>
 			<img title="An LED household light provides the equivalent of indirect natural sunlight, and is enough for most indoor ornamental plants. Photo by Jacqueline Chua." src="/images/Hardscapes/Growlight_JacChua%20(1).jpg">
-	<p>LED household lights contain red and blue wavelengths within the light spectrum, which are necessary for photosynthesis albeit at lower intensity. They look like <a href="/page-index/horticulture-techniques/gauging-light/">indirect natural sunlight</a>, and are enough for most ornamental indoor plants. These lights can be put on a timer to customise how many hours of light your indoor plants can get. These systems are relatively inexpensive and easy to put together.</p>
+			<p>LED household lights contain red and blue wavelengths within the light spectrum, which are necessary for photosynthesis albeit at lower intensity. They look like <a href="/page-index/horticulture-techniques/gauging-light/">indirect natural sunlight</a>, and are enough for most ornamental indoor plants. These lights can be put on a timer to customise how many hours of light your indoor plants can get. These systems are relatively inexpensive and easy to put together.</p>
 		</div></li>
-	<li><input type="checkbox" id="accordion2">
+		<li><input type="checkbox" id="accordion2">
 		<label for="accordion2">LED Growlights: for plants that need more light</label><div>
-	<img title="Red, blue and white LED growlights to grow a variety of plants indoors. Photo by Jacqueline Chua." src="/images/Hardscapes/Growlight_JacChua%20(2).jpg">
-	<p>LED grow lights are specially modified to produce more light in the red and blue wavelengths which allows for better plant growth, with PPFD values high enough to be equivalent to <a href="/page-index/horticulture-techniques/gauging-light/">direct sunlight</a> . They are usually tailored to maximising the growth of edible plants grown indoors, with custom lights making it possible to grow cold weather crops in air conditioned rooms. These systems can get very expensive, but can also yield a variety of crops when used well.</p>
-	<p>For more information on grow lights and indoor gardening, download our <a download="" href="/files/introduction%20to%20indoor%20gardening.pdf">indoor gardening brochure</a>!
-	<br>
-</p></div></li></ul></section>
+			<img title="Red, blue and white LED growlights to grow a variety of plants indoors. Photo by Jacqueline Chua." src="/images/Hardscapes/Growlight_JacChua%20(2).jpg">
+			<p>LED grow lights are specially modified to produce more light in the red and blue wavelengths which allows for better plant growth, with PPFD values high enough to be equivalent to <a href="/page-index/horticulture-techniques/gauging-light/">direct sunlight</a> . They are usually tailored to maximising the growth of edible plants grown indoors, with custom lights making it possible to grow cold weather crops in air conditioned rooms. These systems can get very expensive, but can also yield a variety of crops when used well.</p>
+			<p>For more information on grow lights and indoor gardening, download our <a download="" href="/files/introduction%20to%20indoor%20gardening.pdf">indoor gardening brochure</a>!</p>
+		</div></li>
+	</ul>
+</section>
