@@ -25,7 +25,7 @@ image: ""
 <section>
 	<h4>Environmental needs:</h4>
 	<img title="Ulam Raja flower. Photo by Victoria Lim." src="/images/Plants/ulamraja_victorialim.jpg">
-	<p>Ulam Raja grows well in <a href="/page-index/horticulture-techniques/gauging-light/">6-8 hours of direct sunlight</a>. Plants do best in <a href="/page-index/horticulture-techniques/soil/">loamy soil</a> at least 20cm deep, or in true ground. These plants are vulnerable to <a href="/page-index/plant-problems/root-rot/">root rot</a>, so ensure that your pots drain well, and that your soil has plenty of <a href="/page-index/horticulture-techniques/soil-amendments/">organic matter</a> to let the roots breathe.</p>
+	<p>Ulam Raja grows well in <a href="/page-index/horticulture-techniques/gauging-light/">6-8 hours of direct sunlight</a>. They can also be grown in more than 4 hours of direct sunlight or more than 6 hours of indirect sunlight, but will produce less leaves and flowers. Plants do best in <a href="/page-index/horticulture-techniques/soil/">loamy soil</a> at least 20cm deep, or in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a>. These plants are vulnerable to <a href="/page-index/plant-problems/root-rot/">root rot</a>, so ensure that your pots drain well, and that your soil has plenty of <a href="/page-index/horticulture-techniques/soil-amendments/">organic matter</a> to let the roots breathe.</p>
 	<br>
 </section>
 
