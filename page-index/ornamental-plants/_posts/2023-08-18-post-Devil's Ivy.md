@@ -31,7 +31,7 @@ image: ""
 
 <section> 
   <h4>Growing:</h4> 
-	<p>This plant is hardy and easy to grow. <a href="/page-index/horticulture-techniques/fertilising/">Fertilise</a> every other month with a weak liquid balanced fertiliser or apply slow-release fertiliser to encourage more leaves. It is important to <a href="/page-index/horticulture-techniques/pruning/">prune</a> the stems back every now and then to encourage a bushier growth. Wipe down the leaves with a soft rag to remove dust deposited to prevent pests such as <a href="/page-index/pests/spider-mites/">spider mites</a>. As with all potted plants, regular repotting once a year will prevent it from becoming root bound.</p> 
+	<p>This plant is hardy and easy to grow. <a href="/page-index/horticulture-techniques/fertilising/">Fertilise</a> every other month with a weak liquid balanced fertiliser or apply slow-release fertiliser to encourage more leaves. It is important to <a href="/page-index/horticulture-techniques/pruning/">prune</a> the stems back every now and then to encourage a bushier growth. Wipe down the leaves with a soft rag to remove dust deposited to prevent pests such as <a href="/page-index/pests/spider-mites/">spider mites</a>. As with all potted plants, regular repotting once a year will prevent it from becoming <a href="/page-index/plant-problems/root-bound/">root bound</a>.</p> 
 	<br> 
 </section> 
 
