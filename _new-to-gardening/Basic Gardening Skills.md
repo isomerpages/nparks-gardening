@@ -21,5 +21,5 @@ description: ""
 </section>
 
 <section>
-<p>Once you have mastered these skills, you may want to expand your horizons by trying more advanced techniques. Check out our <a href="/learn-more-about-gardening/horticulture-techniques/">Horticulture techniques</a> page to get your hands dirty!
+<p>Once you have mastered these skills, you may want to expand your horizons by trying more advanced techniques. Check out our various<a href="/learn-more-about-gardening/horticulture-techniques/">Horticulture Techniques</a> pages to get your hands dirty!
 </p></section>
