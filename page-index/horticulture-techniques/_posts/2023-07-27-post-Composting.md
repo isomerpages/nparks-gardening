@@ -39,7 +39,7 @@ image: ""
 			*Make sure these materials are broken down into small pieces before you add them to your compost as they take the longest to decompose
 	</ul>
 	<p>Organic materials will break down faster if they are in smaller pieces, so it is best practice to cut up them up before adding new materials to your compost.</p>
-	<p>A good rule of thumb is to add 1:2 greens to browns to keep the compost healthy. Too many greens can result in anaerobic decomposition, in which the liquid released by the greens prevents oxygen from reaching the middle of the compost, resulting in unpleasant smells and slimy material. Too many browns can result in the compost becoming too dry and slowing the decomposition process dramatically. </p>
+	<p>A good rule of thumb is to add 1:2 greens to browns to keep the compost healthy. Too many greens can result in anaerobic decomposition.This occurs when the liquid released by the greens prevents oxygen from reaching the middle of the compost, resulting in unpleasant smells and slimy material. Too many browns can result in the compost becoming too dry and slowing the decomposition process dramatically. </p>
 	<p>In the tropics, the humid and damp environment tends to cause compost to decompose anaerobically, but this can be fixed by adding more browns and mixing the compost regularly. It is best to err on the side of caution and always add more browns than greens. The compost can be then watered as needed till the mixture feels damp like a wrung-out sponge. </p>
 	<p>Take note that compost can be made unusable by certain materials. Weeds, diseased plant parts, and cooked food with salt and oil will make the compost harmful instead of helpful in the garden!</p>
 	<br>
