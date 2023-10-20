@@ -37,7 +37,7 @@ description: ""
 				<li><a href="/page-index/pests/aphids/">Aphids</a></li>
 				<li><a href="/page-index/pests/mealy-bugs/">Mealy Bugs</a></li>
 				<li><a href="/page-index/pests/scale-insects/">Scale Insects</a></li>
-				<li><a href="/page-index/pests/spider-mites/">Spider mites</a></li>
+				<li><a href="/page-index/pests/spider-mites/">Spider Mites</a></li>
 				<li><a href="/page-index/pests/whiteflies/">Whiteflies</a></li>
 			</ul>
 		</div>
@@ -47,7 +47,7 @@ description: ""
 			<ul>
 				<li><a href="/page-index/pests/caterpillars/">Caterpillars</a></li>
 				<li><a href="/page-index/pests/grasshoppers-crickets-and-katydids/">Grasshoppers, Crickets and Katydids</a></li>
-				<li><a href="/page-index/pests/snails-and-slugs/">Snails and slugs</a></li>
+				<li><a href="/page-index/pests/snails-and-slugs/">Snails and Slugs</a></li>
 			</ul>
 		</div>
 		<div class="box">
