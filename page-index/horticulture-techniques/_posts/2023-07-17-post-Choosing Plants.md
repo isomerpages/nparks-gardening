@@ -8,7 +8,7 @@ image: ""
 ---
 <section>
 	<p>The ability to choose plants is the most important skill any gardener could have. Picking plants that fit your garden environment, that are healthy and suit your needs are more than half the battle.</p>
-	<p>This page will give some guidelines for you to learn how to choose your own plants, but as with any skill, you will improve more with practice and with active observation of your garden. New gardeners can also use our <a href="https://go.gov.sg/plantsuggester/">plant suggester tool</a> to get started!</p>
+	<p>This page will give some guidelines for you to learn how to choose your own plants, but as with any skill, you will improve more with practice and with active observation of your garden. New gardeners can also use our <a href="/digital-tools/plant-search">plant suggester tool</a> to get started!</p>
 	<br>
 </section>
 
