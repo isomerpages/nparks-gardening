@@ -68,7 +68,7 @@ image: ""
 </section>
 <section>
 	<h4>How often and how much should I fertilise my plants?</h4>
-	<p>A wide variety of factors will affect how much fertilising a plant needs. Fast-growing annual plants like most leafy vegetables will need more fertiliser than slow-growing cacti, and plants in <a href="/page-index/horticulture-techniques/planting-in-containers/">small containers</a> will need more regular fertilising than plants grown in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a>.</p>
+	<p>A wide variety of factors will affect how much fertilising a plant needs. Fast-growing annual plants like most leafy vegetables will need more fertiliser than slow-growing cacti. Plants in <a href="/page-index/horticulture-techniques/planting-in-containers/">small containers</a> will need more regular fertilising than plants grown in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a>.</p>
 		<p>Experiment with your fertilising schedule. Regular fertilisng can look like once every two weeks or a month, while occasional fertilising can look like once every six months, or even once a year.  Knowing your plant and varying its growing conditions are the best way to learn how to fertilise at a rate that works for your own garden. </p>
 	<p>Fertilisers should always be used in in moderation, as overuse of fertiliser can cause algal blooms in waterways and encourage the growth of weeds! Excessive use of fertilisers can also make the soil salty, and cause plants to die. Document your fertilising frequency to find the minimum amount you need to keep your plants healthy.</p>
 	</section>
