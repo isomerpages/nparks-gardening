@@ -47,7 +47,7 @@ image: ""
 
 <section>
 	<h4>What should I compost in, and where?</h4>
-	<p>Composting in gardens and homes is usually be done in a container of some kind, usually made of plastic that can be drilled to make holes for aeration and still protect the compost from pests like <a href="/page-index/pests/pests/#rodents">rodents</a>. Compost can also be made in a heap and covered with a tarp, but this is less secure from animals, generally messier, and will need a large space. </p>
+	<p>Composting in gardens and homes is usually be done in a container of some kind. These containers are usually made of plastic that can be drilled to make holes for aeration and still protect the compost from pests like <a href="/page-index/pests/pests/#rodents">rodents</a>. Compost can also be made in a heap and covered with a tarp, but this is less secure from animals, generally messier, and will need a large space. </p>
 	<p>Compost should be left in a shady area out of the rain or sun to prevent it from getting too dry or wet. Dry compost will stop decomposing, while overly wet compost may start becoming anaerobic, and produce unpleasant smells. </p>
 	<br>
 </section>
