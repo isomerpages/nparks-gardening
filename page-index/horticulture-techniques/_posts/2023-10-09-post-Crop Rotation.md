@@ -46,7 +46,7 @@ image: ""
 				<li><a href="/page-index/edible-plants/butterfly-pea/">Butterfly Pea</a></li>
 				<li><a href="/page-index/edible-plants/long-bean/">Long Bean</a></li>
 				<li><a href="/page-index/edible-plants/peanut/">Peanut</a></li>
-				<li><a href="/page-index/edible-plants/winged-bean/">Winged bean</a></li>
+				<li><a href="/page-index/edible-plants/winged-bean/">Winged Bean</a></li>
 			</ul>
 			</div></li>
 		<li><input type="checkbox" id="accordion3">
@@ -56,7 +56,7 @@ image: ""
 									<li><a href="/page-index/edible-plants/bitter-gourd/">Bitter Gourd</a></li>
 				<li><a href="/page-index/edible-plants/brinjal/">Brinjal</a></li>
 				<li><a href="/page-index/edible-plants/chilli/">Chilli</a></li>
-				<li><a href="/page-index/edible-plants/ladys-finger/">Lady's finger</a></li>
+				<li><a href="/page-index/edible-plants/ladys-finger/">Lady's Finger</a></li>
 				<li><a href="/page-index/edible-plants/tomato/">Tomato</a></li>
 			</ul>
 			</div></li>
