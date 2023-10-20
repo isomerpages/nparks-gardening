@@ -27,13 +27,13 @@ image: ""
 	<li><input type="checkbox" id="accordion2">
 		<label for="accordion2">Growing legumes to fix nitrogen</label><div>
 	<img title="Butterfly peas are an easy legume to grow, and produce edible flowers. Photo by Jacqueline Chua." src="/images/Plants/BluePeaFlower_JacChua%20(2).jpg">
-	<p>Legumes like <a href="/page-index/edible-plants/long-bean/">Long Beans</a>, <a href="/page-index/edible-plants/winged-bean/">Winged Beans</a>, <a href="/page-index/edible-plants/peanut/">Peanuts</a> will fix nitrogen into the soil via their root nodules. Nitrogen is a key chemical needed for plant growth, so having a few legumes near nitrogen heavy feeders like <a href="/page-index/edible-plants/kailan/">Kailan</a>, <a href="/page-index/edible-plants/lettuce/">Lettuce</a> and other leafy vegetables will encourage these crops to grow more leaves and increase their yield. Legumes are used in a similar way in crop rotation to improve soil fertility of annual crop beds.  </p>
+	<p>Legumes like <a href="/page-index/edible-plants/long-bean/">Long Beans</a>, <a href="/page-index/edible-plants/winged-bean/">Winged Beans</a>, <a href="/page-index/edible-plants/peanut/">Peanuts</a> will fix nitrogen into the soil via their root nodules. Nitrogen is a key chemical needed for plant growth. Having a few legumes near nitrogen heavy feeders like <a href="/page-index/edible-plants/kai-lan/">Kai Lan</a>, <a href="/page-index/edible-plants/lettuce/">Lettuce</a> and other leafy vegetables will encourage these crops to grow more leaves and increase their yield. Legumes are used in a similar way in crop rotation to improve soil fertility of annual crop beds.  </p>
 	<p>Some legumes used for companion planting include:</p>
 	<ul>
 		<li><a href="/page-index/edible-plants/butterfly-pea/">Butterfly Pea</a> (<em>Clitoria ternanta</em>)</li>
-		<li><a href="">Peanuts</a> (<em>Arachis hypogaea</em>)</li>
-		<li><a href="">Winged Bean</a> (<em>Psophocarpus tetragonolobus</em>)</li>
-		<li><a href="">Long bean</a> (<em>Vigna unguiculata</em>)</li>
+		<li><a href="/page-index/edible-plants/peanut/">Peanut</a> (<em>Arachis hypogaea</em>)</li>
+		<li><a href="/page-index/edible-plants/winged-bean/">Winged Bean</a> (<em>Psophocarpus tetragonolobus</em>)</li>
+		<li><a href="/page-index/edible-plants/long-bean/">Long Bean</a> (<em>Vigna unguiculata</em>)</li>
 	</ul>
 </div></li>
 	<li><input type="checkbox" id="accordion3">
