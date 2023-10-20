@@ -17,7 +17,7 @@ image: ""
 	</ul>
 	<iframe width="100%" height="415" src="https://www.youtube.com/embed/2rZacCyvU6Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
 	<p>The technique you use will depend on how your plant grows. Edible plants that don’t readily grow new shoots like <a href="/page-index/edible-plants/cai-xin/">Cai Xin</a>, <a href="/page-index/edible-plants/lettuce/">Lettuce</a>, <a href="/page-index/edible-plants/kale/">Kale</a> and <a href="/page-index/edible-plants/pandan/">Pandan</a> usually only have one growing point, and will slow their growth if the growing point is cut. Because of this, it is best to harvest their older outer leaves, and encourage the existing growing point to keep producing new leaves.</p> 
-	<p>On the other hand, plants that can quickly put out new shoots like <a href="/page-index/edible-plants/bayam/">Bayam</a>, <a href="/page-index/edible-plants/sweet-potato/">Sweet Potato</a>, <a href="/page-index/edible-plants/kang kong/">Kang Kong</a> and <a href="/page-index/edible-plants/thai-basil/">Thai Basil</a> will benefit from the harvest of their young leaves and shoots. Regularly harvesting these young shoots will also encourage the plants to become bushier as they put out new growth.</p> 
+	<p>On the other hand, plants that can quickly put out new shoots like <a href="/page-index/edible-plants/bayam/">Bayam</a>, <a href="/page-index/edible-plants/sweet-potato/">Sweet Potato</a>, <a href="/page-index/edible-plants/kang-kong/">Kang Kong</a> and <a href="/page-index/edible-plants/thai-basil/">Thai Basil</a> will benefit from the harvest of their young leaves and shoots. Regularly harvesting these young shoots will also encourage the plants to become bushier as they put out new growth.</p> 
 	<br>
 </section>
 
@@ -43,7 +43,7 @@ image: ""
 		<li><a href="/page-index/edible-plants/chives/">Chives (<em>Allium tuberosum</em>)</a></li>
 		<li><a href="/page-index/edible-plants/curry-leaf-plant/">Curry Leaf Plant(<em>Murraya koenigii</em>)</a></li>
 		<li><a href="/page-index/edible-plants/spearmint/">Spearmint (<em>Mentha spicata</em>)</a></li>
-		<li><a href="/page-index/edible-plantsindian-borage/">Indian Borage (<em>Coleus amboinicus</em>)</a></li>
+		<li><a href="/page-index/edible-plants/indian-borage/">Indian Borage (<em>Coleus amboinicus</em>)</a></li>
 		<li><a href="/page-index/edible-plants/laksa/">Laksa (<em>Persicaria ordorata</em>)</a></li>
 		<li><a href="/page-index/edible-plants/thai-basil/">Thai Basil (<em>Ocimum basilicum</em>)</a></li>
 		<li><a href="/page-index/edible-plants/tapioca/">Tapioca (<em>Manihot esculenta</em>)</a></li>
