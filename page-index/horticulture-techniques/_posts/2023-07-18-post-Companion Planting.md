@@ -17,11 +17,11 @@ image: ""
 	<p>Many crops like <a href="/page-index/edible-plants/tomato/">Tomatoes</a>, <a href="/page-index/edible-plants/brinjal/">Brinjals</a>, <a href="/page-index/edible-plants/cucumber/">Cucumbers</a> and <a href="/page-index/edible-plants/long-bean/">Long Beans</a> need <a href="/page-index/biodiversity/pollinators/">pollinators</a> to form fruit. Providing nectar-rich flowers throughout the year in your garden will attract bees, butterflies, and birds to your garden, and ensure that your plants produce plenty of fruit. These flowering plants can be arranged as a border in your plot  or in between your crops.</p>
 	<p>Some common pollinator-attracting plants used for companion planting include:</p>
 	<ul>
-		<li><a href="/page-index/ornamental-plants/brazilian-tea/">Brazilian Tea</a> (<em>Stachytarpheta jamaicensis_</em>)</li>
+		<li><a href="/page-index/ornamental-plants/brazilian-tea/">Brazilian Tea</a> (<em>Stachytarpheta jamaicensis</em>)</li>
 		<li><a href="/page-index/ornamental-plants/false-heather/">False Heather</a> (<em>Cuphea hyssopifolia</em>)</li>
 		<li><a href="/page-index/ornamental-plants/golden-dewdrop/">Golden Dewdrops</a> (<em>Duranta erecta</em>)</li>
-		<li><a href="/page-index/ornamental-plants/sunflower/">Sunflowers</a> (<em>Helianthus annuus</em>)</li>
-		<li><a href="/page-index/ornamental-plants/thai-basil/">Thai Basil</a> (<em>Ocimum basilicum</em>)</li>
+		<li><a href="/page-index/edible-plants/sunflower/">Sunflower</a> (<em>Helianthus annuus</em>)</li>
+		<li><a href="/page-index/edible-plants/thai-basil/">Thai Basil</a> (<em>Ocimum basilicum</em>)</li>
 		</ul>
 </div></li>
 	<li><input type="checkbox" id="accordion2">
