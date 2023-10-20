@@ -39,7 +39,7 @@ image: ""
 	<li><input type="checkbox" id="accordion3">
 		<label for="accordion3">Growing groundcovers as a living mulch</label><div>
 	<img src="/images/Hardscapes/PXL_20230225_024644403.jpg" title="Alternanthera plants being used as living mulch. Photo by Jacqueline Chua">
-	<p>Covering the soil with <a href="/page-index/horticulture-techniques/mulching/">organic or inorganic mulches</a> helps to reduce water loss, suppress weeds, and prevent soil erosion. Some groundcovers that have fast-growing vines that cover the soil can be used as a living mulch and pairing them with taller plants like <a href="/page-index/edible-plants/ladys-finger/">Lady’s-Fingers</a>, or <a href="/page-index/edible-plants/brinjal/">Brinjals</a> as a main crop is a good way to maximize yields while keeping the soil healthy.</p>  
+	<p>Covering the soil with <a href="/page-index/horticulture-techniques/mulching/">organic or inorganic mulches</a> helps to reduce water loss, suppress weeds, and prevent soil erosion. Some groundcovers that have fast-growing vines that cover the soil can be used as a living mulch. Pairing them with taller plants like <a href="/page-index/edible-plants/ladys-finger/">Lady’s-Fingers</a>, or <a href="/page-index/edible-plants/brinjal/">Brinjals</a> as a main crop is a good way to maximize yields while keeping the soil healthy.</p>  
 	<p>However, living mulches still need water and nutrients, and thus need more watering, maintenance and fertilizing compared to non-living mulches to keep both the living mulch and the main crop productive.</p> 
 	<p>Some edible living mulches include:</p>
 	<ul>
