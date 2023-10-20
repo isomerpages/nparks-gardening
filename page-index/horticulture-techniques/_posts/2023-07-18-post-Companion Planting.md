@@ -7,7 +7,7 @@ description: ""
 image: ""
 ---
 <section>
-	<p>Companion planting is the practice of growing different species of plants together to have them benefit off each other. Having a variety of plants grown together is called polyculture, and it is a more resilient method of cultivation compared to traditional monoculture, which features garden beds that only grow one kind of crop.</p>
+	<p>Companion planting is the practice of growing different species of plants together to have them benefit off each other. Having a variety of plants grown together is called polyculture. This method of cultivation is more resilient compared to traditional monoculture, which features garden beds that only grow one kind of crop.</p>
 	<img title="A planter bed on a rooftop growing a variety of companion plants. Photo by Jacqueline Chua." src="/images/Garden%20design/BishanEastZone6_JacChua%20(2).jpg">
 	<p>There are many ways to companion plant, but the most common are:</p>
 <ul class="jekyllcodex_accordion">
