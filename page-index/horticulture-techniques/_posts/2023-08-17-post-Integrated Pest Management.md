@@ -22,7 +22,7 @@ image: ""
 		<li><strong>Identify your pests</strong></li>
 			<ul>
 				<li>Identifying pests correctly is the most important part of pest management. Different pests will need different management methods, so being specific is the most efficient way.</li>
-				<li>Use our <a href="/digital-tools/pestid/">Pest identifier tool</a> and <a href="/learn-more-about-gardening/page-index/pests/pests/">pest pages</a> to learn about pests and their life cycles!</li>
+				<li>Use our <a href="/digital-tools/pestid/">Pest identifier tool</a> and explore<a href="/page-index/pests/pests/">pest pages</a> to learn about pests and their life cycles!</li>
 			</ul>
 		<li><strong>Monitor for pests</strong></li>
 			<ul>
