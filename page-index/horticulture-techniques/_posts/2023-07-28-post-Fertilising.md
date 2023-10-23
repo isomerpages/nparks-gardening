@@ -15,21 +15,22 @@ image: ""
 <section>
 	<h4>Nutrients</h4>
 	<p>Fertilisers can provide the following nutrients for plants:</p>
-		<ul class="jekyllcodex_accordion">
-	<li><input type="checkbox" id="accordion1">
+	<ul class="jekyllcodex_accordion">
+		<li><input type="checkbox" id="accordion1">
 		<label for="accordion1">Nitrogen, Phosphorus and Potassium</label><div>
-	<p><b>Nitrogen (N), Phosphorus (P)</b> and <b>Potassium (K)</b> are the major nutrients that are used the most rapidly by plants. Most commercial fertilisers display these nutrients as a ratio on the packaging in that order. The ratios will indicate whether the fertiliser has more of one nutrient than the others.</p>
-	<p><b>Balanced fertilisers</b> (for example, 5:5:5) will be used to generally boost plant growth.</p>
-	<p><b>High nitrogen fertilisers</b> (for example, 5:3:3) encourages more leaf growth. Organic fertilisers high in nitrogen include those made from manure, with common sources being chickens, cows, or goats.</p>
-	<p><b>High phosphorus and potassium fertilisers</b> (for example, 3:5:5) are used to encourage flowering, fruiting and root growth. Organic fertilisers high in phosphorus and potassium include those made from seaweed, blood, and bones.</p> 
+			<p><b>Nitrogen (N), Phosphorus (P)</b> and <b>Potassium (K)</b> are the major nutrients that are used the most rapidly by plants. Most commercial fertilisers display these nutrients as a ratio on the packaging in that order. The ratios will indicate whether the fertiliser has more of one nutrient than the others.</p>
+			<p><b>Balanced fertilisers</b> (for example, 5:5:5) will be used to generally boost plant growth.</p>
+			<p><b>High nitrogen fertilisers</b> (for example, 5:3:3) encourages more leaf growth. Organic fertilisers high in nitrogen include those made from manure, with common sources being chickens, cows, or goats.</p>
+			<p><b>High phosphorus and potassium fertilisers</b> (for example, 3:5:5) are used to encourage flowering, fruiting and root growth. Organic fertilisers high in phosphorus and potassium include those made from seaweed, blood, and bones.</p> 
 		</div></li>
-	<li><input type="checkbox" id="accordion2">
+		<li><input type="checkbox" id="accordion2">
 		<label for="accordion2">Magnesium</label><div>
-	<p> <b>Epsom salts</b> are usually used as beauty products, but they can also be dissolved in water to be used as a fertiliser to remedy magnesium deficiencies in plants. Mix 1 tablespoon of epsom salt in 2 litres of water to apply once a month to your plants. Epsom salt should be used sparingly as a fertiliser, as overly salty soil might kill your plant! </p>
-</div></li>
-			</ul>
+			<p> <b>Epsom salts</b> are usually used as beauty products, but they can also be dissolved in water to be used as a fertiliser to remedy magnesium deficiencies in plants. Mix 1 tablespoon of epsom salt in 2 litres of water to apply once a month to your plants. <strong>Epsom salt should be used sparingly as a fertiliser, as overly salty soil might kill your plant.</strong></p>
+		</div></li>
+	</ul>
 	<br>
 </section>
+
 <section>
 	<h4>Fertiliser types</h4>
 	<p><b>Fast-release fertilisers</b> will make nutrients available to plants immediately after they are applied. They usually come in a powdered or liquid form, and plants will have a noticeable growth spurt the week after they are added.</p>
