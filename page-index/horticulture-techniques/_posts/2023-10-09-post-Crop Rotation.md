@@ -70,20 +70,21 @@ image: ""
 		<li><input type="checkbox" id="accordion4">
 		<label for="accordion4">Herbs and spices</label><div>
 			<img title="Spearmint. Photo by Jacqueline Chua." src="/images/Plants/EnglishMint_JacChua%20(2).jpg"> 
-											<ul>
-				<li><a href="/page-index/edible-plants/chives/">Chives</a></li>
-				<li><a href="/page-index/edible-plants/laksa/">Laksa</a></li>
-				<li><a href="/page-index/edible-plants/sawtooth-corriander/">Sawtooth Coriander</a></li>
-				<li><a href="/page-index/edible-plants/spearmint/">Spearmint</a></li>
-				<li><a href="/page-index/edible-plants/thai-basil/">Thai Basil</a></li>
+			<ul>
+				<li><a href="/page-index/edible-plants/chives/">Chives</a> (<em>Allium tuberosum</em>)</li>
+				<li><a href="/page-index/edible-plants/laksa/">Laksa</a> (<em>Persicaria ordorata</em>)</li>
+				<li><a href="/page-index/edible-plants/sawtooth-corriander/">Sawtooth Coriander</a> (<em>Eryngium foetidum</em>)</li>
+				<li><a href="/page-index/edible-plants/spearmint/">Spearmint</a> (<em>Mentha spicata</em>)</li>
+				<li><a href="/page-index/edible-plants/thai-basil/">Thai Basil</a> (<em>Ocimum basilicum</em>)</li>
 			</ul>
 			</div></li>
 		<li><input type="checkbox" id="accordion5">
 		<label for="accordion5">Annual flowers</label><div>
 			<img title="A sunflower. Photo by Jacqueline Chua." src="/images/Plants/SunflowerJacChua%20(1).jpg"> 
 														<ul>
-					<li><a href="/page-index/ornamental-plants/globe-amaranth/">Globe Amaranth</a></li>
-				<li><a href="/page-index/edible-plants/sunflower/">Sunflower</a></li>
+					<li><a href="/page-index/ornamental-plants/globe-amaranth/">Globe Amaranth</a> (<em>Gomphrena globose
+</em>)</li>
+				<li><a href="/page-index/edible-plants/sunflower/">Sunflower</a> (<em>Helianthus annuus</em>)</li>
 			</ul>
 			</div></li>
 		</ul>
