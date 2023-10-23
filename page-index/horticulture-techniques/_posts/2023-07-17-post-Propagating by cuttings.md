@@ -72,9 +72,9 @@ image: ""
 	<p>Plants that can be rooted from leaves include:</p>
 	<ul> 
 		<li><a href="/page-index/ornamental-plants/african-violet/">African Violet</a> (<em>Streptocarpus ionanthus</em>)</li>
-		<li><a href="/page-index/ornamental-plants/flame-violet/">Flame violet</a> (<em>Episcia cupreata</em>)</li>
+		<li><a href="/page-index/ornamental-plants/flame-violet/">Flame Violet</a> (<em>Episcia cupreata</em>)</li>
 		<li><a href="/page-index/ornamental-plants/mother-of-thouands/">Mother of Thousands</a> (<em>Kalanchoe daigremontiana</em>)</li>
-		<li><a href="/page-index/ornamental-plants/snake-plant/">Snake plant</a> (<em>Dracaena trifasciata</em>)</li>
+		<li><a href="/page-index/ornamental-plants/snake-plant/">Snake Plant</a> (<em>Dracaena trifasciata</em>)</li>
 	</ul>
 	<br>
 </section>
