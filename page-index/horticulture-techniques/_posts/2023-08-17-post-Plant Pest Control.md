@@ -26,10 +26,11 @@ image: ""
 	</ul>
 	<br>
 </section>
+
 <section>
 	<h4 id="mechanical_control">Mechanical or physical control</h4>
 	<img title="Crops enclosed inside netting, protecting them from pests. Photo by Jacqueline Chua." src="/images/Hardscapes/Netting%20(1).jpg">
-	<p>Mechanical control, also known as physical control, involves the use of hardscapes or tools to physically remove or stop pests from reaching the plants. This is particularly effective for preventing larger pests from causing damage to your plants.</p>
+	<p>Mechanical control, also known as physical control, involves the use of <a href="/page-index/hardscapes/hardscapes/">hardscapes</a> or tools to physically remove or stop pests from reaching the plants. This is particularly effective for preventing larger pests from causing damage to your plants.</p>
 	<p>Some common methods are:</p>
 	<ul>
 		<li><a href="/page-index/horticulture-techniques/pruning/">Pruning</a> off affected plant parts and disposing them away from the garden to prevent further spread. </li>
