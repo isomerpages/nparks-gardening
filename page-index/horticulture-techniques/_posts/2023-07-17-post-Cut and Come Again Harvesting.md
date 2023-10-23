@@ -26,29 +26,29 @@ image: ""
 	<img src="/images/Horti%20techniques/cutandcomeagain_lettuce_jacquelinechua.jpg">
 	<p><strong>Harvesting the older outer leaves:</strong></p>
 	<ul>
-		<li><a href="/page-index/edible-plants/cai-xin/">Cai Xin (<em>Brassica rapa</em> Caisin Group)</a></li>
-		<li><a href="/page-index/edible-plants/chinese-mustard/">Chinese Mustard (<em>Brassica juncea</em> Broad-leaf Mustard)</a></li>
-		<li><a href="/page-index/edible-plants/kale/">Kale (<em>Brassica oleracea</em> Acephala Group)</a></li>
-		<li><a href="/page-index/edible-plants/lettuce/">Lettuce (<em>Lactuca sativa</em>)</a></li>
-		<li><a href="/page-index/edible-plants/pandan/">Pandan (<em>Pandanus amaryllifolius</em>)</a></li>
-				<li><a href="/page-index/edible-plants/xiao-bai-cai/">Xiao Bai Cai  (<em>Brassica rapa</em> Pak Choi Group)</a></li>
+		<li><a href="/page-index/edible-plants/cai-xin/">Cai Xin</a> (<em>Brassica rapa</em> Caisin Group)</li>
+		<li><a href="/page-index/edible-plants/chinese-mustard/">Chinese Mustard</a> (<em>Brassica juncea</em> Broad-leaf Mustard)</li>
+		<li><a href="/page-index/edible-plants/kale/">Kale</a> (<em>Brassica oleracea</em> Acephala Group)</li>
+		<li><a href="/page-index/edible-plants/lettuce/">Lettuce</a> (<em>Lactuca sativa</em>)</li>
+		<li><a href="/page-index/edible-plants/pandan/">Pandan</a> (<em>Pandanus amaryllifolius</em>)</li>
+				<li><a href="/page-index/edible-plants/xiao-bai-cai/">Xiao Bai Cai</a>  (<em>Brassica rapa</em> Pak Choi Group)</li>
 	</ul>
 	<img src="/images/Horti%20techniques/Pruning_JacCHua%20(2).jpg">
 	<p><strong>Harvesting the young shoots and leaves:</strong></p>
 	<ul>
-		<li><a href="/page-index/edible-plants/ceylon-spinach/">Ceylon Spinach (<em>Basella alba</em>)</a></li>
-		<li><a href="/page-index/edible-plants/bayam/">Bayam (<em>Amaranthus tricolor</em>)</a></li>
-		<li><a href="/page-index/edible-plants/kang-kong/">Kang Kong (<em>Ipomoea aquatica</em>)</a></li>
-		<li><a href="/page-index/edible-plants/sweet-potato/">Sweet Potato (<em>Ipomoea aquatica</em>)</a></li>
-		<li><a href="/page-index/edible-plants/chives/">Chives (<em>Allium tuberosum</em>)</a></li>
-		<li><a href="/page-index/edible-plants/curry-leaf-plant/">Curry Leaf Plant(<em>Murraya koenigii</em>)</a></li>
-		<li><a href="/page-index/edible-plants/spearmint/">Spearmint (<em>Mentha spicata</em>)</a></li>
-		<li><a href="/page-index/edible-plants/indian-borage/">Indian Borage (<em>Coleus amboinicus</em>)</a></li>
-		<li><a href="/page-index/edible-plants/laksa/">Laksa (<em>Persicaria ordorata</em>)</a></li>
-		<li><a href="/page-index/edible-plants/thai-basil/">Thai Basil (<em>Ocimum basilicum</em>)</a></li>
-		<li><a href="/page-index/edible-plants/tapioca/">Tapioca (<em>Manihot esculenta</em>)</a></li>
-		<li><a href="/page-index/edible-plants/sissoo-spinach/">Sissoo Spinach (<em>Alternanthera sissoo</em>)</a></li>
-		<li><a href="/page-index/edible-plants/okinawan-spinach/">Okinawan Spinach (<em>Gynura bicolor</em>)</a></li>
+		<li><a href="/page-index/edible-plants/ceylon-spinach/">Ceylon Spinach</a> (<em>Basella alba</em>)</li>
+		<li><a href="/page-index/edible-plants/bayam/">Bayam</a> (<em>Amaranthus tricolor</em>)</li>
+		<li><a href="/page-index/edible-plants/kang-kong/">Kang Kong</a> (<em>Ipomoea aquatica</em>)</li>
+		<li><a href="/page-index/edible-plants/sweet-potato/">Sweet Potato</a> (<em>Ipomoea aquatica</em>)</li>
+		<li><a href="/page-index/edible-plants/chives/">Chives</a> (<em>Allium tuberosum</em>)</li>
+		<li><a href="/page-index/edible-plants/curry-leaf-plant/">Curry Leaf Plant</a> (<em>Murraya koenigii</em>)</li>
+		<li><a href="/page-index/edible-plants/spearmint/">Spearmint</a> (<em>Mentha spicata</em>)</li>
+		<li><a href="/page-index/edible-plants/indian-borage/">Indian Borage</a> (<em>Coleus amboinicus</em>)</li>
+		<li><a href="/page-index/edible-plants/laksa/">Laksa</a> (<em>Persicaria ordorata</em>)</li>
+		<li><a href="/page-index/edible-plants/thai-basil/">Thai Basil</a> (<em>Ocimum basilicum</em>)</li>
+		<li><a href="/page-index/edible-plants/tapioca/">Tapioca</a> (<em>Manihot esculenta</em>)</li>
+		<li><a href="/page-index/edible-plants/sissoo-spinach/">Sissoo Spinach</a> (<em>Alternanthera sissoo</em>)</li>
+		<li><a href="/page-index/edible-plants/okinawan-spinach/">Okinawan Spinach</a> (<em>Gynura bicolor</em>)</li>
 	</ul>
 	<br>
 </section>
