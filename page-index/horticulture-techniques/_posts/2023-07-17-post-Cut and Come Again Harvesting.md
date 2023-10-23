@@ -56,7 +56,7 @@ image: ""
 <section>
 	<h4>Encourage new growth after harvesting</h4>
 	<img title="Granular organic feriliser. Photo by Jacqueline Chua." src="/images/Horti%20techniques/Fertiliser_Jacchua.jpg">
-	<p>Using <a href="/page-index/horticulture-techniques/fertilising/">high nitrogen fertilisers</a> is the best way to encourage plants to grow more leaves and shoots. Fertilising immediately after Cut-and-Come-Again Harvesting will make sure that you will have more growth to harvest in about two weeks. Fertilising your crops between once every two weeks to once every two months is also a good schedule for continuous growth of edible plants.</p>
+	<p>Using <a href="/page-index/horticulture-techniques/fertilising/">high nitrogen fertilisers</a> is the best way to encourage plants to grow more leaves and shoots. Fertilising immediately after cut-and-come-again harvesting will make sure that you will have more growth to harvest in about two weeks. Fertilising your crops between once every two weeks to once every two months is also a good schedule for continuous growth of edible plants.</p>
 	<br>
 </section>
 
