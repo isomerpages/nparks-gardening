@@ -24,7 +24,7 @@ image: ""
 	<h4>Pest management</h4>
 	<img title="Crops protected with netting. Photo by Jacqueline Chua." src="/images/Hardscapes/Netting%20(1).jpg">
 	<p>Excessive use of <a href="/page-index/horticulture-techniques/pest-control/#chemical_control">pesticides</a> can contaminate crops and cause pose health risks if used incorrectly. Using <a href="/page-index/horticulture-techniques/ipm/">integrated pest management methods</a>, like netting, regular pruning and companion planting is better for your garden biodiversity and keeps your produce uncontaminated.</p>
-	<p>It is best practice to only use <a href="/page-index/horticulture-techniques/pest-control/#chemical_control">pesticides</a> made from food-safe materials to control pests on crops. If any pesticide is used, observe a waiting period of at least a week between application and harvest for safety.</p>
+	<p>It is best practice to only use pesticides made from food-safe materials to control pests on crops. If any pesticide is used, observe a waiting period of at least a week between application and harvest for safety.</p>
 	<br>
 </section>
 
