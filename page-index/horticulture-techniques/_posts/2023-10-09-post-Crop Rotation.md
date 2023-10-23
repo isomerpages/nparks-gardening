@@ -60,11 +60,11 @@ image: ""
 		<label for="accordion3">Fruiting vegetables</label><div>
 			<img title="Cherry Tomatoes. Photo by Jacqueline Chua." src="/images/Plants/Tomato_JacChua%20(4).jpg"> 
 								<ul>
-									<li><a href="/page-index/edible-plants/bitter-gourd/">Bitter Gourd</a></li>
-				<li><a href="/page-index/edible-plants/brinjal/">Brinjal</a></li>
-				<li><a href="/page-index/edible-plants/chilli/">Chilli</a></li>
-				<li><a href="/page-index/edible-plants/ladys-finger/">Lady's Finger</a></li>
-				<li><a href="/page-index/edible-plants/tomato/">Tomato</a></li>
+									<li><a href="/page-index/edible-plants/bitter-gourd/">Bitter Gourd</a> (<em>Momordica charantia</em>)</li>
+									<li><a href="/page-index/edible-plants/brinjal/">Brinjal</a> (<em>Solanum melongena</em>)</li>
+									<li><a href="/page-index/edible-plants/chilli/">Chilli</a> (<em>Capsicum annuum</em>)</li>
+				<li><a href="/page-index/edible-plants/ladys-finger/">Lady's Finger</a> (<em>Abelmoschus esculentus</em>)</li>
+									<li><a href="/page-index/edible-plants/tomato/">Tomato</a> (<em>Solanum lycopersicum</em>)</li>
 			</ul>
 			</div></li>
 		<li><input type="checkbox" id="accordion4">
