@@ -26,27 +26,34 @@ image: ""
 		<label for="accordion1">Annual Leafy and Root Vegetables</label><div>
 			<img title="Leafy Vegetables growing in a Community Garden. Photo by Jacqueline Chua." src="/images/Plants/LeafyVeg_JacChua.jpg">
 			<ul>
-				<li><a href="/page-index/edible-plants/bayam/">Bayam</a></li>
-				<li><a href="/page-index/edible-plants/cai-xin/">Cai Xin</a></li>
-				<li><a href="/page-index/edible-plants/chinese-mustard/">Chinese Mustard</a></li>
-				<li><a href="/page-index/edible-plants/javan-spinach/">Javan Spinach</a></li>
-				<li><a href="/page-index/edible-plants/kai-lan/">Kai Lan</a></li>
-				<li><a href="/page-index/edible-plants/kale/">Kale</a></li>
-				<li><a href="/page-index/edible-plants/kang-kong/">Kang Kong</a></li>
-				<li><a href="/page-index/edible-plants/lettuce/">Lettuce</a></li>
-				<li><a href="/page-index/edible-plants/radish/">Radish</a></li>
-				<li><a href="/page-index/edible-plants/tapioca/">Tapioca</a></li>
-				<li><a href="/page-index/edible-plants/xiao-bai-cai/">Xiao Bai Cai</a></li>
+				<li><a href="/page-index/edible-plants/bayam/">Bayam</a> (<em>Amaranthus tricolor</em>)</li>
+				<li><a href="/page-index/edible-plants/cai-xin/">Cai Xin</a> (<em>Brassica&nbsp;rapa</em>&nbsp;Caisin Group)</li>
+				<li><a href="/page-index/edible-plants/chinese-mustard/">Chinese Mustard</a> (<em>Brassica juncea</em> Broad-leaf Mustard)</li>
+				<li><a href="/page-index/edible-plants/javan-spinach/">Javan Spinach</a> (<em>Talinum triangulare
+					</em>)</li>
+				<li><a href="/page-index/edible-plants/kai-lan/">Kai Lan</a> (<em>Brassica oleracea</em> Alboglabra Group)
+</li>
+				<li><a href="/page-index/edible-plants/kale/">Kale</a> (<em>Brassica oleracea</em> Acephala Group)
+</li>
+				<li><a href="/page-index/edible-plants/kang-kong/">Kang Kong</a> (<em>Ipomoea aquatica
+					</em>)</li>
+				<li><a href="/page-index/edible-plants/lettuce/">Lettuce</a> (<em>Lactuca sativa
+					</em>)</li>
+				<li><a href="/page-index/edible-plants/radish/">Radish</a> (<em>Raphanus raphanistrum subsp. sativus cultivar)</em></li>
+				<li><a href="/page-index/edible-plants/tapioca/">Tapioca</a> (<em>Manihot esculenta
+					</em>)</li>
+				<li><a href="/page-index/edible-plants/xiao-bai-cai/">Xiao Bai Cai</a> (<em>Brassica rapa</em> Pak Choi Group)
+</li>
 			</ul>
 			</div></li>
 		<li><input type="checkbox" id="accordion2">
 		<label for="accordion2">Beans and other legumes</label><div>
 			<img title="Winged beans. Photo by Jacqueline Chua." src="/images/Plants/WingedBean_JacChua%20(2).jpg"> 
 					<ul>
-				<li><a href="/page-index/edible-plants/butterfly-pea/">Butterfly Pea</a></li>
-				<li><a href="/page-index/edible-plants/long-bean/">Long Bean</a></li>
-				<li><a href="/page-index/edible-plants/peanut/">Peanut</a></li>
-				<li><a href="/page-index/edible-plants/winged-bean/">Winged Bean</a></li>
+				<li><a href="/page-index/edible-plants/butterfly-pea/">Butterfly Pea</a> (<em>Clitoria ternatea</em>)</li>
+				<li><a href="/page-index/edible-plants/long-bean/">Long Bean</a> (<em>Vigna unguiculata</em>)</li>
+						<li><a href="/page-index/edible-plants/peanut/">Peanut</a> (<em>Arachis hypogaea</em>)</li>
+				<li><a href="/page-index/edible-plants/winged-bean/">Winged Bean</a> (<em>Psophocarpus tetragonolobus</em>)</li>
 			</ul>
 			</div></li>
 		<li><input type="checkbox" id="accordion3">
