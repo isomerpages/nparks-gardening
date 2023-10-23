@@ -29,7 +29,7 @@ image: ""
 		<li><input type="checkbox" id="accordion3">
 		<label for="accordion3">Living mulch</label><div>
 			<img title="A variety of plants being used under taller crops like Lady's-Finger as living mulch to protect the soil. Photo by Jacqueline Chua." src="/images/Hardscapes/PlanterBed%20(19).jpg">
-			<p><b>Living mulches</b> are vines, crawling groundcovers, or short and hardy plants like <a href="/page-index/edible-plants/kang-kong/">Kang Kong</a>, <a href="/page-index/edible-plants/sweet-potato/">Sweet Potato</a> and <a href="/page-index/edible-plants/sissoo-spinach/">Sissoo Spinach</a> which shade the soil with their leaves. These plants can be gown under taller crops like <a href="/page-index/edible-plants/ladys-finger/">Lady’s-Finger</a> or <a href="/page-index/edible-plants/brinjal/">Brinjal</a> as part of <a href="##### /page-index/horticulture-techniques/companion-planting/">companion planting</a>.</p>
+			<p><b>Living mulches</b> are vines, crawling groundcovers, or short and hardy plants like <a href="/page-index/edible-plants/kang-kong/">Kang Kong</a>, <a href="/page-index/edible-plants/sweet-potato/">Sweet Potato</a> and <a href="/page-index/edible-plants/sissoo-spinach/">Sissoo Spinach</a> which shade the soil with their leaves. These plants can be gown under taller crops like <a href="/page-index/edible-plants/ladys-finger/">Lady’s-Finger</a> or <a href="/page-index/edible-plants/brinjal/">Brinjal</a> as part of <a href="/page-index/horticulture-techniques/companion-planting/">companion planting</a>.</p>
 		</div></li>
 		<li><input type="checkbox" id="accordion4">
 		<label for="accordion4">Wood chips</label><div>
