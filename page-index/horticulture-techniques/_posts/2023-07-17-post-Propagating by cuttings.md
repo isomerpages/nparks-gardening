@@ -38,7 +38,7 @@ image: ""
 		<li><a href="/page-index/edible-plants/spearmint/">Spearmint</a> (<em>Mentha spicata</em>)</li>
 		<li><a href="/page-index/edible-plants/sweet-potato/">Sweet Potato</a> (<em>Ipomoea batatas</em>)</li>
 		<li><a href="/page-index/edible-plants/thai-basil/">Thai Basil</a> (<em>Ocimum basilicum</em>)</li>
-		<li><a href="/page-index/edible-plants/tomato/">Tomatoes</a> (<em>Solanum lycopersicum</em>)
+		<li><a href="/page-index/edible-plants/tomato/">Tomato</a> (<em>Solanum lycopersicum</em>)
 	</li></ul>
 		</div></li>
 	<li><input type="checkbox" id="accordion2">
