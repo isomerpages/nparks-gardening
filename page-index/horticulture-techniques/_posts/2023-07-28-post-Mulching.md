@@ -14,7 +14,7 @@ image: ""
 
 <section>
 	<h4>Organic mulches</h4>
-	<p>Organic mulches are made from living or once-living material and are generally the most eco-friendly option for the garden as they are compostable and feed soil biodiversity. However, because they do slowly decompose, they need to be replaced or topped up annually. Organic mulches should be applied and maintained as a layer 5 to 10 cm thick over the soil to get the most benefit. Mulch should not be allowed to build up over 5 cm directly next to a living plant stem as this could slowly cause the stem to rot.</p>
+	<p>Organic mulches are made from living or once-living material and are generally the most eco-friendly option for the garden as they are compostable and feed <a href="/page-index/biodiversity/soil-biodiversity/">soil biodiversity</a>. However, because they do slowly decompose, they need to be replaced or topped up annually. Organic mulches should be applied and maintained as a layer 5 to 10 cm thick over the soil to get the most benefit. Mulch should not be allowed to build up over 5 cm directly next to a living plant stem as this could slowly cause the stem to rot.</p>
 	<ul class="jekyllcodex_accordion">
 		<li><input type="checkbox" id="accordion1">
 		<label for="accordion1">Cardboard</label><div>
