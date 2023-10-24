@@ -8,12 +8,13 @@ image: ""
 ---
 <section>
 	<img title="Gardeners with freshly transplanted plants in true ground. Photo by Jacqueline Chua." src="/images/Garden%20design/JalanKayu_JacChua.jpg">
+	<img title="" src="">
 	<p><b>True ground planting</b> requires a lot of hard work and the luxury of space. This is because most sites in Singapore naturally have heavy <a href="/page-index/horticulture-techniques/soil/">clay soil</a> that is difficult to work with and will need gradual improvement. However, soil will naturally improve the longer that it has been planted in, and your true ground planting will yield many benefits in the long run.</p>
 	<br>
 </section>
 <section>
 	<h4>Layers of soil</h4>
-	<img title="Loamy soil is generally found on top of clay soil. Photo by Jacqueline Chua." src="/images/Horti%20techniques/planterbedsoillayers%20(2)_jacquelinechua.jpg">
+	<img title="Dark, loamy soil is generally found on top of clay soil. Photo by Jacqueline Chua." src="/images/Horti%20techniques/true%20ground_soil%20layers_jacquelinechua.jpg">
 	<p>Organic matter is much lighter than the <a href="/page-index/horticulture-techniques/soil/">other components of soil</a>, and will break down over time. As a result, many true ground beds and <a href="/page-index/hardscapes/planter-beds/">planter beds</a> will end up with a layer of loamy soil on top and clay soil at the bottom. When soil is exposed to heavy rains, the loamy soil layer can get washed away, leaving the clay layer.</p>
 
 <section>
