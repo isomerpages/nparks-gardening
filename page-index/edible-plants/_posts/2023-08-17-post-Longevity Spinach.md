@@ -25,7 +25,7 @@ image: ""
 </section>
 
 <section>
-	<h4>Environmental needs:</h4>
+	<h4>Sun and soil needs:</h4>
 	<p>This plant grows best in <a href="/page-index/horticulture-techniques/gauging-light/">4-8 hours of indirect sunlight</a>. Plants may suffer from sunburn in more than 4 hours of direct sunlight. Plants do best in <a href="/page-index/horticulture-techniques/soil/">moist, well-drained soil</a> at least 10cm deep, making them suitable for container gardening and corridor gardening. These plants are vulnerable to <a href="/page-index/plant-problems/root-rot/">root rot</a>, so ensure that your pots drain well, and that your soil has plenty of <a href="/page-index/horticulture-techniques/soil-amendments/">organic matter</a> to let the roots breathe.</p>
 	<iframe width="100%" height="415" src="https://www.youtube.com/embed/SfuujJwcZR8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe><br>
 	<br>
