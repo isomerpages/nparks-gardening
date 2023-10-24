@@ -23,7 +23,7 @@ image: ""
 </section>
 
 <section>
-	<h4>Environmental needs:</h4>
+	<h4>Sun and soil needs:</h4>
 	<img title="Photo by Jacqueline Chua." src="/images/Plants/Passionfruit_JacChua%20(2).jpg">
 	<p>This vine does best in <a href="/page-index/horticulture-techniques/gauging-light">full sun gardens with a minimum of 6 hours of sunlight</a>. It can also grow in gardens with more than 4 hours of direct sunlight or at least 6 hours of indirect sunlight, but it may grow slower and produce less fruit. </p>
 	<p>Plants do best in moist, <a href="/page-index/horticulture-techniques/soil/">loamy soil</a> at least 30cm deep, or in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a>. The plant can also be readily grown in smaller pots about 20cm deep. These plants are vulnerable to <a href="/page-index/plant-problems/root-rot/">root rot</a>, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe. Keep your plants cool with <a href="/page-index/horticulture-techniques/mulching/">mulch</a> and plenty of water to encourage growth. </p>
