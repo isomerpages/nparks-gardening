@@ -20,7 +20,7 @@ image: ""
 	<img title="A metal planter bed growing edible plants. Photo by Jacqueline Chua." src="/images/Hardscapes/PlanterBed%20(25).jpg">
 	<p><b>Metal</b>, which is heavy and resilient. They last between 3-10years, but may be prone to rust if they are not coated with paint or glaze. They also tend to heat up when exposed to a lot of sunlight, which can cause plants to burn. Metal is also prone to bending outwards if the soil used is very heavy.</p> 
 	<img title="A wooden planter bed growing Ceylon Spinach. Photo by Jacqueline Chua." src="/images/Hardscapes/PlanterBed%20(23).jpg">
-	<p><b>Wood</b>, which can be heavy or light, but is also biodegradable and lasts between 3-5years in the tropics, even when coated with resin and other waterproofing materials. Wooden planter beds are commonly upcycled from old bedframes, plywood and palette wood, and can give your garden a rustic look. </p>
+	<p><b>Wood</b>, which can be heavy or light, but is also biodegradable and lasts between 3-5 years in the tropics, even when coated with resin and other waterproofing materials. Wooden planter beds are commonly upcycled from old bed frames, plywood and palette wood, and can give your garden a rustic look. </p>
 	<img title="A concrete planter bed cast in the shape of a boat. Photo by Jacqueline Chua." src="/images/Hardscapes/PlanterBed%20(13).jpg">
 	<p><b>Concrete or brick</b>, which can last for decades if built well. These planter beds may need annual scrubbing and painting as algae does tend to grow on the surface during the wet season. Concrete planter beds can also be cast into interesting shapes and painted to provide visual interest in a garden.</p> 
 	<br>
