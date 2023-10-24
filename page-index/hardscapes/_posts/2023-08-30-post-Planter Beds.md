@@ -45,7 +45,7 @@ image: ""
 <section>
 	<h4>Managing drainage</h4>
 	<img title="A diagram on how planter beds should be filled to ensure drainage. Graphic by NParks." src="/images/planterbed%203.png"> 
-	<p>Water naturally flows down, and planter beds with drainage cells or pipes on the bottom will encourage water to flow out, reducing <a href="/page-index/plant-problems/waterlogging/">waterlogging</a> within the bed. However, beds with no drainage, blocked drainage or too much clay soil on the bottom can have water pooling within the bed, which can result in <a href="/page-index/plant-problems/root-rot/">root rot</a> and the collection of stagnant water.  It is best practice to build a drainage layer at the bottom of your planter bed with drainage cells and geotextile that leads to an outlet, or incorporate a layer of stones or other inorganic soil amendments in the true ground underneath the planter bed itself to keep water flowing out.</p>
+	<p>Water naturally flows down, and planter beds with drainage cells or pipes on the bottom will encourage water to flow out, reducing <a href="/page-index/plant-problems/waterlogging/">waterlogging</a> within the bed. However, beds with no drainage, blocked drainage or too much clay soil on the bottom can have water pooling within the bed, which can result in <a href="/page-index/plant-problems/root-rot/">root rot</a> and the collection of stagnant water.  It is best practice to build a drainage layer at the bottom of your planter bed with drainage cells and geotextile that leads to an outlet, or incorporate a layer of stones or other <a href="/page-index/horticulture-techniques/soil-amendments/">inorganic soil amendments</a> in the true ground underneath the planter bed itself to keep water flowing out.</p>
 	<br>
 </section>
 
@@ -63,7 +63,7 @@ image: ""
 			<ul>
 				<li>Will eventually decompose into organic material that plants can use</li>
 				<li>Will cause the soil level to drop as decomposition takes place, and will need additional soil for topping up in a few years</li>
-				<li>Untreated woody material may harbour millipede eggs. Take care to choose heat-treated wood, wood chips and wood compost to prevent introducing too many millipedes to your garden.</li>
+				<li>Untreated woody material may harbour <a href="/page-index/biodiversity/soil-biodiversity/">millipede</a> eggs. Take care to choose heat-treated wood, wood chips and wood compost to prevent introducing too many millipedes to your garden.</li>
 			</ul>
 	</ul>
 	<img title="Stones used to line the bottom of planter beds. Photo by Jacqueline Chua." src="/images/Horti%20techniques/SoilAmendment_Grit_Jacchua%20(4).jpg"> 
