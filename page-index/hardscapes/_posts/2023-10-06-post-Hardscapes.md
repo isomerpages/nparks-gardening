@@ -55,7 +55,7 @@ image: ""
     <li><input id="accordion7" type="checkbox">
     	<label for="accordion7">Water Points</label><div>
 			<img title="A water point in a Community Garden. Photo by Jacqueline Chua." src="/images/Hardscapes/waterpoint_jacchua_2.jpg">
-			<p><a href="/hardscapes/water-points/">Water points</a> are needed within a garden so that gardeners can <a href="/page-index/horticulture-techniques/watering/">water</a> their plants easily. Standing taps, sinks, and irrigation points are all sources of water that can be used to keep a garden growing well.</p>
+			<p><a href="/page-index/hardscapes/water-points/">Water points</a> are needed within a garden so that gardeners can <a href="/page-index/horticulture-techniques/watering/">water</a> their plants easily. Standing taps, sinks, and irrigation points are all sources of water that can be used to keep a garden growing well.</p>
 					    </div></li>
     	</ul>
 	<br>
