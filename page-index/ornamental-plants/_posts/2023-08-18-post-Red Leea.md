@@ -24,7 +24,7 @@ image: ""
  
 <section> 
   <h4>Sun and soil needs:</h4> 
-		<img title="A Red Leea bush grown in true ground. Photo by Jacqueline Chua." src="/images/Plants/redleea%20(2)_jacquelinechua.jpg">
+	<img title="A Red Leea bush grown in true ground. Photo by Jacqueline Chua." src="/images/Plants/redleea%20(2)_jacquelinechua.jpg">
   <p>This plant thrives in <a href="/page-index/horticulture-techniques/gauging-light/">4-8 hours of direct sunlight</a>. Plants do best in <a href="/page-index/horticulture-techniques/soil/">moist, well-drained soil</a>. These plants are vulnerable to <a href="/page-index/plant-problems/root-rot/">root rot</a>, so ensure that your soil has plenty of <a href="/page-index/horticulture-techniques/soil-amendments/">organic matter</a> to let the roots breathe.</p> 
 	<br>
 </section>
