@@ -5,7 +5,7 @@ description: ""
 ---
 <div style="color: #215732;
 					 font-size: 24px;">
-  <b>Fill in the form below to get a list of suggested plants that may suit your garden conditions</b>
+  <b>Fill in the form below to get a list of suggested plants to grow in your garden! </b>
 </div>
 <br>
 <!-- Change the width and height values to suit you best -->
