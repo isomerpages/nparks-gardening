@@ -24,7 +24,7 @@ image: ""
 </section>
 
 <section>
-	<h4>Environmental needs:</h4>
+	<h4>Sun and soil needs:</h4>
 	<p>This vine does best in <a href="/page-index/horticulture-techniques/gauging-light/">full sun gardens with a minimum of 6 hours of sunlight</a>. This plant can also grow in areas with at least 6 hours of indirect sunlight, but growth will be slower, and the vine will produce less fruit.</p>
 	<p>Plants do best in <a href="/page-index/horticulture-techniques/soil/">moist, well-drained soil</a> at least 30cm deep, or in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a>. The plant can be grown in <a href="/page-index/horticulture-techniques/planting-in-containers/">smaller pots</a> about 20cm deep, but growth will be slower due to the lack of water retention in less soil and a smaller root ball.</p>
 	<p>As a fast-growing vine, this plant needs a sturdy <a href="/page-index/hardscapes/trellises/">trellis</a> to scramble on. Because the fruits hang down, it is ideal for arch-shaped trellises.</p>
