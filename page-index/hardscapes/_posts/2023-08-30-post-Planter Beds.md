@@ -18,7 +18,7 @@ image: ""
 	<img title="A plastic planter bed made from a PEG tray on a rooftop garden. Photo by Jacqueline Chua." src="/images/Garden%20design/BishanEastZone6_JacChua%20(2).jpg">
 	</p><p><b>Plastic</b>, which is flexible and light. They generally last between 1-10 years, but prolonged exposure to the sun can make the brittle. Most plastic planters can be bought at plant nurseries and garden shops. Many rooftop gardens use planter beds made of PEG trays, which are modular and easy to install.</p> 
 	<img title="A metal planter bed growing edible plants. Photo by Jacqueline Chua." src="/images/Hardscapes/PlanterBed%20(25).jpg">
-	<p><b>Metal</b>, which is heavy and resilient. They last between 3-10 years, but may be prone to rust if they are not coated with paint or glaze. They also tend to heat up when exposed to a lot of sunlight, which can cause plants to burn. Metal is also prone to bending outwards if the soil used is very heavy.</p> 
+	<p><b>Metal</b>, which is heavy and resilient. They last between 3-10years, but may be prone to rust if they are not coated with paint or glaze. They also tend to heat up when exposed to a lot of sunlight, which can cause plants to burn. Metal is also prone to bending outwards if the soil used is very heavy.</p> 
 	<img title="A wooden planter bed growing Ceylon Spinach. Photo by Jacqueline Chua." src="/images/Hardscapes/PlanterBed%20(23).jpg">
 	<p><b>Wood</b>, which can be heavy or light, but is also biodegradable and lasts between 3-5 years in the tropics, even when coated with resin and other waterproofing materials. Wooden planter beds are commonly upcycled from old bed frames, plywood and palette wood, and can give your garden a rustic look. </p>
 	<img title="A concrete planter bed cast in the shape of a boat. Photo by Jacqueline Chua." src="/images/Hardscapes/PlanterBed%20(13).jpg">
@@ -30,7 +30,7 @@ image: ""
 	<h4>Planter bed sizes</h4>
 	<p>The size of your planter bed will determine what and how much you can grow in it, along with who can access it. All planter beds should be no wider than 2m to make sure that all sides of the bed are accessible.</p>
 	<p>Here are some guidelines for various planter bed heights:</p>
-	<img title="Planter bed dimensions. Graphic by NParks." src="/images/picture1.png"> 
+	<img title="Planter bed dimensions. Graphic by NParks." src="/images/planterbed%20sizes.png"> 
 	<img title="Gardeners planting up a tall planter bed while standing. Photo by Jacqueline Chua." src="/images/Gardeners/Planting%20(5).jpg">
 	<p>Taller and deeper planter beds can grow larger plants and are more accessible to the elderly, but are generally more expensive to fill and build.</p>
 	<img title="Children tending to a low planter bed while squatting. Photo by NParks." src="/images/Gardeners/Kids%20(5).jpg">
