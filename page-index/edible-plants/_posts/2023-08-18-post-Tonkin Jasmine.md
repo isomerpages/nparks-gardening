@@ -23,7 +23,7 @@ image: ""
 </section>
 
 <section>
-	<h4>Environmental needs:</h4>
+	<h4>Sun and soil needs:</h4>
 	<img title="Tonkin Jasmine growing up a square trellis. Photo by Jacqueline Chua." src="/images/Plants/tonkinjasmine_trellis_jacquelinechua.jpg"> 
 	<p>This vine needs about <a href="/page-index/horticulture-techniques/gauging-light/">4-6 hours of direct sunlight or 6-8 hours of indirect sunlight</a>. This plant will grow faster in direct sunlight but will tolerate shadier conditions. Plants do best in <a href="/page-index/horticulture-techniques/soil/">moist, well-drained soil</a> at least 30cm deep, or in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a>. It is also tolerant of drought and infertile soils but is unable to stand <a href="/page-index/plant-problems/waterlogging/">waterlogging</a>. The plant can be grown in smaller pots about 15cm deep, but growth will be less vigorous due to the shallow soil.</p>
 	<p>As a fast-growing vine, this plant needs a sturdy <a href="/page-index/hardscapes/trellises/">trellis</a> to scramble on. <a href="/page-index/horticulture-techniques/pruning/">Regular pruning</a> will encourage additional growth and improve air circulation.</p>
