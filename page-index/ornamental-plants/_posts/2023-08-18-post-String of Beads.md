@@ -23,7 +23,7 @@ image: ""
 </section> 
  
 <section> 
-  <h4>Environmental needs:</h4> 
+  <h4>Sun and soil needs:</h4> 
 	<img title="A closeup of the leaces of the String of Beads. Photo by Victoria Lim." src="/images/Plants/stringofpearls_victorialim.jpg">
   <p>String of beads thrive in <a href="/page-index/horticulture-techniques/gauging-light/">4-6 hours of indirect sunlight or around 4 hours of direct sun</a>. They are best planted in <a href="/page-index/horticulture-techniques/soil/">sandy soil</a> around 10-15cm deep, making them suitable for <a href="/page-index/horticulture-techniques/planting-in-containers/">container gardening</a>. This plant is vulnerable to <a href="/page-index/plant-problems/root-rot/">root rot</a>, and will need soil with <a href="/page-index/horticulture-techniques/soil-amendments/">plenty of grit</a> for good drainage. The leaves of String of Beads can split open if it is suddenly exposed to a lot of water, and is thus best kept out of direct rain, especially during the monsoon season.</p> 
 	<br>
