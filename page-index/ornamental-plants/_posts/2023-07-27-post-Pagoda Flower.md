@@ -23,7 +23,7 @@ image: ""
 </p></section> 
  
 <section> 
-  <h4>Environmental needs:</h4>
+  <h4>Sun and soil needs:</h4>
 	<img title="A close up of pagoda flowers. photo by Victoria Lim." src="/images/Plants/pagodaflower%20(2)_victorialim.jpg">
    <p>This plant thrives in <a href="/page-index/horticulture-techniques/gauging-light/">4-6 hours of direct sunlight and more than 6 hours of indirect sunlight</a>. This plant does not do well with more than 6 hours of direct sunlight and is not suitable for exposed gardens like on rooftops.  Plants do best in <a href="/page-index/horticulture-techniques/soil/">moist, well-drained soil</a> at least 30cm deep, making them suitable for <a href="/page-index/horticulture-techniques/planting-in-containers/">large pots</a>. However, if planted in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a> and left with a lot of space, the plant can rapidly grow suckers and spread. These plants are vulnerable to <a href="/page-index/plant-problems/root-rot/">root rot</a>, so ensure that your pots drain well, and that your soil has plenty of <a href="/page-index/horticulture-techniques/soil-amendments/">organic matter</a> to let the roots breathe. This plant is relatively drought tolerant and can withstand some neglect.</p> 
 	<br>
