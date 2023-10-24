@@ -44,7 +44,7 @@ image: ""
 
 <section>
 	<h4>Managing drainage</h4>
-	<img title="A diagram on how planter beds should be filled to ensure drainage. Graphic by NParks." src="/images/picture3.png"> 
+	<img title="A diagram on how planter beds should be filled to ensure drainage. Graphic by NParks." src="/images/planterbed%203.png"> 
 	<p>Water naturally flows down, and planter beds with drainage cells or pipes on the bottom will encourage water to flow out, reducing waterlogging within the bed. However, beds with no drainage, blocked drainage or too much clay soil on the bottom can have water pooling within the bed, which can result in root rot and the collection of stagnant water.  It is best practice to build a drainage layer at the bottom of your planter bed with drainage cells and geotextile that leads to an outlet, or incorporate a layer of stones or other inorganic soil amendments in the true ground underneath the planter bed itself to keep water flowing out.</p>
 	<br>
 </section>
