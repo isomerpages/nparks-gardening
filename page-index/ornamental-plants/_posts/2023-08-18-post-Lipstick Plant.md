@@ -23,7 +23,7 @@ image: ""
 </section> 
  
 <section> 
-  <h4>Environmental needs:</h4> 
+  <h4>Sun and soil needs:</h4> 
   <p>This plant thrives in <a href="/page-index/horticulture-techniques/gauging-light/">less than 4 hours of direct sunlight or 4-8 hours of indirect sunlight</a>. Plants do best in <a href="/page-index/horticulture-techniques/soil/">loamy soil mixed with chunky organic soil amendments like cococoir</a>. These plants are vulnerable to <a href="/page-index/plant-problems/root-rot/">root rot</a>, so ensure that your soil has plenty of <a href="/page-index/horticulture-techniques/soil-amendments/">organic matter</a> and grit to let the roots breathe.</p>
 	<p>This plant is highly drought tolerant but will not survive <a href="/page-index/plant-problems/waterlogging/">waterlogging</a>. It is best to let the soil dry out before misting or watering.</p> 
 	<br>
