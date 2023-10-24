@@ -29,7 +29,7 @@ image: ""
 
 <section>
 	<h4>Dividing plantlets, offshoots and suckers</h4>
-	<img src="/images/Plants/Spiderplant_JacChua%20(2).jpg">
+	<img title="A spiderplant plantlet ready to be propagated via division. Photo by Jacqueline Chua" src="/images/Plants/Spiderplant_JacChua%20(2).jpg">
 	<p>Some plants like <a href="/page-index/edible-plants/pandan/">Pandan</a>,  <a href="/page-index/ornamental-plants/spider-plant/">Spider Plant</a>, <a href="/page-index/ornamental-plants/mother-of-thousands/">Mother of Thousand</a>, <a href="/page-index/ornamental-plants/flame-violet/">Flame Violet</a> and <a href="/page-index/ornamental-plants/aloe-vera/">Aloe Vera</a> will grow small plantlets and suckers, which are like tiny versions of the parent plant that are still attached. These offshoots should be cut using a sterile knife to reduce the chance of pathogens infecting the wounds made by division. Some offshoots can also be gently twisted off the parent plant directly. Plantlets and suckers can be planted directly into soil even without roots. They can also be encouraged to grow roots by being placed in water before planting, like how <a href="/page-index/horticulture-techniques/propagating-by-cuttings/">cuttings are rooted</a>.</p>
 	<br>
 </section>
