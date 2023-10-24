@@ -51,7 +51,7 @@ image: ""
 		<li><input type="checkbox" id="accordion2">
 		<label for="accordion2">Poor drainage</label><div>
 			<img title="Waterlogged soil in a pot. Photo by Jacqueline Chua." src="/images/Horti%20techniques/waterlogging_jacquelinechua.jpg">
-			<p><a href="/page-index/horticulture-techniques/mulching/">Clayey</a> or <a href="/page-index/plant-problems/waterlogging/">waterlogged soil</a> can sometimes form puddles that hold water for long periods of time, particularly during the wet season. Breaking up compacted soil or refreshing it by adding more organic matter to promote better drainage will prevent this and make the soil better for plant roots to grow.</p>
+			<p><a href="/page-index/horticulture-techniques/soil/">Clayey</a> or <a href="/page-index/plant-problems/waterlogging/">waterlogged soil</a> can sometimes form puddles that hold water for long periods of time, particularly during the wet season. Breaking up compacted soil or refreshing it by adding more <a href="/page-index/horticulture-techniques/soil-amendments/">organic matter</a> to promote better drainage will prevent this and make the soil better for plant roots to grow.</p>
 			<p><a href="/page-index/horticulture-techniques/planting-in-containers/">Plant pots</a> and <a href="/page-index/hardscapes/planter-beds/">planter beds</a> should have drainage holes, but these holes can get clogged by debris or soil. Checking regularly and unclogging these holes will prevent stagnant water from forming and will also resolve horticultural problems like <a href="/page-index/plant-problems/root-rot/">root rot</a>.</p>
 		</div></li>
 		<li><input type="checkbox" id="accordion3">
