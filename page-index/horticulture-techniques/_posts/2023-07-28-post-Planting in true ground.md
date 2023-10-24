@@ -8,14 +8,13 @@ image: ""
 ---
 <section>
 	<img title="Gardeners with freshly transplanted plants in true ground. Photo by Jacqueline Chua." src="/images/Garden%20design/JalanKayu_JacChua.jpg">
-	<img title="" src="">
 	<p><b>True ground planting</b> requires a lot of hard work and the luxury of space. This is because most sites in Singapore naturally have heavy <a href="/page-index/horticulture-techniques/soil/">clay soil</a> that is difficult to work with and will need gradual improvement. However, soil will naturally improve the longer that it has been planted in, and your true ground planting will yield many benefits in the long run.</p>
 	<br>
 </section>
 <section>
 	<h4>Layers of soil</h4>
 	<img title="Dark, loamy soil is generally found on top of clay soil. Photo by Jacqueline Chua." src="/images/Horti%20techniques/true%20ground_soil%20layers_jacquelinechua.jpg">
-	<p>Organic matter is much lighter than the <a href="/page-index/horticulture-techniques/soil/">other components of soil</a>, and will break down over time. As a result, many true ground beds and <a href="/page-index/hardscapes/planter-beds/">planter beds</a> will end up with a layer of loamy soil on top and clay soil at the bottom. When soil is exposed to heavy rains, the loamy soil layer can get washed away, leaving the clay layer.</p>
+	<p>Organic matter is much lighter than the <a href="/page-index/horticulture-techniques/soil/">other components of soil</a>, and will break down over time. As a result, many true ground beds will end up with a layer of loamy soil on top and clay soil at the bottom. When soil is exposed to heavy rains, the organic matter in loamy soil layer can get washed away, leaving behind clay and sand.</p>
 
 <section>
 	<h4>Improving soil</h4>
@@ -49,7 +48,7 @@ image: ""
 
 <section>
 	<h4>Alternatives to planting in true ground</h4>
-	<img title="Raised beds growing vegetables. Photo by Jacqueline Chua." src="/images/Hardscapes/PlanterBed%20(15).jpg">
+	<img title="Low raised beds growing vegetables. Photo by Jacqueline Chua." src="/images/Hardscapes/PlanterBed%20(15).jpg">
 	<p>If the existing soil is too difficult to work with, a <a href="/page-index/hardscapes/planter-beds/">planter bed</a> can be built on top of it and then filled with better soil. <a href="/page-index/horticulture-techniques/planting-in-containers/">Container planting</a> can also be considered but is generally not encouraged given that many containers can look cluttered, and harbour pests like <a href="/page-index/pests/snails-and-slugs/">snails</a> in between the pots.</p>
 	<br>
 </section></section>
