@@ -25,7 +25,7 @@ image: ""
 </section>
 
 <section>
-	<h4>Environmental needs:</h4>
+	<h4>Sun and soil needs:</h4>
 		<img title="Snake gourds growing on an arch trellis. Photo by Jacqueline Chua." src="/images/Hardscapes/Trellis%20(10).jpg">
 	<p>This vine does best in <a href="/page-index/horticulture-techniques/gauging-light/">full sun gardens with a minimum of 6 hours of direct sunlight</a>.</p>
 	<p>Plants do best in <a href="/page-index/horticulture-techniques/soil/">moist, well-drained soil</a> at least 30cm deep, or in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a>. The plant can be <a href="/page-index/horticulture-techniques/planting-in-containers/">grown in smaller pots</a> about 20cm deep, but growth will be slower due to the lack of water retention in less soil and a smaller root ball.</p>
