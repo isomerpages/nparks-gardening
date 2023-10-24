@@ -37,7 +37,7 @@ image: ""
 	<p>Smaller planter beds can be used to grow smaller plants and are cheaper, but may need gardeners to squat or bend down. Determining who will use your garden and what you want to plant before you design your garden will help you decide on what planter beds are appropriate.</p> 
 	<img title="Shallow planter beds raised on legs to make them more accessible. Photo by Jacqueline Chua." src="/images/Hardscapes/TablePlanterBed_JacChua%20(4).jpg"> 
 	<p>Shallow planter beds can also be raised on legs to gain the height needed for accessibility while reducing the amount of material needed to fill the bed itself. These legs can be bolted to the ground for stability or have wheels for flexibility in planter beds placement. Planter beds on legs are also more comfortable for wheelchair users as they can put their legs under the planter bed itself.</p> 
-	<img title="Planter bed heights for wheelchairs. Graphic by NParks." src="/images/picture2.png">
+	<img title="Planter bed heights for wheelchairs. Graphic by NParks." src="/images/screenshot%202023-10-24%20164820.png">
 	<p>Planter beds can also be specially designed for wheelchair users, whether for general gardening, horticultural therapy or for ease of viewing. To make the beds accessible for wheelchair users to garden, the height of the bed must enable the wheelchair users to reach across to access the plants.</p> 
 	<br>
 </section>
