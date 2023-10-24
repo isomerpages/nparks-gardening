@@ -18,7 +18,7 @@ image: ""
 </section> 
  
 <section> 
-  <h4>Environmental needs:</h4> 
+  <h4>Sun and soil needs:</h4> 
   <p>This plant thrives in <a href="/page-index/horticulture-techniques/gauging-light/">4-8 hours of indirect sunlight</a>, but <a href="/page-index/plant-problems/sunburn/">may burn</a> in direct sun.  Plants do best in <a href="/page-index/horticulture-techniques/soil/">loamy soil</a> at least 10cm deep, making them suitable for <a href="/page-index/horticulture-techniques/planting-in-containers/">container gardening</a>.</p> 
 	<br>
 </section>
