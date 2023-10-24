@@ -20,11 +20,11 @@ image: ""
 	<p>Overwatering plants is more common in the tropics, as the high humidity and regular rainfall makes it such that soil will take longer to dry out. Overwatering is also generally more fatal than underwatering plants. When in doubt, water less!</p>
 	<p>Plants prone to overwatering include:</p>
 	<ul>
-		<li><a href="/page-index/ornamental-plants/african-violet/">African Violets</a></li>
+		<li><a href="/page-index/ornamental-plants/african-violet/">African Violet</a></li>
 		<li><a href="/page-index/edible-plants/chives/">Chives</a></li>
-		<li><a href="/page-index/ornamental-plants/flame-violet/">Flame Violets</a></li>
+		<li><a href="/page-index/ornamental-plants/flame-violet/">Flame Violet</a></li>
 		<li><a href="/page-index/edible-plants/indian-borage/">Indian Borage</a></li>
-		<li><a href="/page-index/ornamental-plants/snake-plant/">Snake Plants</a></li>
+		<li><a href="/page-index/ornamental-plants/snake-plant/">Snake Plant</a></li>
 	</ul>
 	<br>
 </section>
