@@ -22,10 +22,10 @@ image: ""
 	<p>Thrifty gardeners often harvest their own seeds from existing plants in their garden. As a rule of thumb, mature fruits will have viable seeds that can be dried and stored in a cool, dry place for up to 6 months for planting.</p>
 	<p>Some common plants that have easily harvestable seeds include:</p><p>
 	</p><ul>
-		<li><a href="/page-index/edible-plants/Bayam/">Bayam</a> (<em>Amaranthus tricolor</em>)</li>
-		<li><a href="/page-index/edible-plants/butterfly-pea/">Butterfly pea</a> (<em>Clitoria ternatea</em>)</li>
+		<li><a href="/page-index/edible-plants/bayam/">Bayam</a> (<em>Amaranthus tricolor</em>)</li>
+		<li><a href="/page-index/edible-plants/butterfly-pea/">Butterfly Pea</a> (<em>Clitoria ternatea</em>)</li>
 		<li><a href="/page-index/edible-plants/chilli/">Chilli</a> (<em>Capsicum annuum</em>)</li>
-		<li><a href="/page-index/edible-plants/lady's-finger">Lady's Finger</a> (<em>Abelmoschus esculentus</em>)</li>
+		<li><a href="/page-index/edible-plants/ladys-finger">Lady's Finger</a> (<em>Abelmoschus esculentus</em>)</li>
 		<li><a href="/page-index/edible-plants/thai-basil/">Thai Basil</a> (<em>Ocimum basilicum</em>)</li>
 		</ul>
 		<img title="Unharvested Lady's Finger seeds starting to sprout. Photo by Jacqueline Chua." src="/images/Horti%20techniques/SproutingSeeds_Jacchua.jpg">
