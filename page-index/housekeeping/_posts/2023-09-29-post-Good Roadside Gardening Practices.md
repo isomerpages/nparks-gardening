@@ -53,33 +53,33 @@ image: ""
 		<li><input type="checkbox" id="accordion1">
 		<label for="accordion1">For 4-8 hours of direct sunlight:</label><div>
 			<ul>
-				<li><a href="/page-index/ornamental-plants/burros-tail">Burro's Tail</a></li>
-				<li><a href="/page-index/ornamental-plants/elephant-bush">Elephant Bush</a></li>
-				<li><a href="/page-index/edible-plants/lemongrass">Lemongrass</a></li>
-				<li><a href="/page-index/ornamental-plants/sunflower">Sunflower</a></li>
+				<li><a href="/page-index/ornamental-plants/burros-tail">Burro's Tail</a> (<em>Sedum morganianum</em>)</li>
+				<li><a href="/page-index/ornamental-plants/elephant-bush">Elephant Bush</a> (<em>Portulacaria afra</em>)</li>
+				<li><a href="/page-index/edible-plants/lemongrass">Lemongrass</a> (<em>Cymbopogon citratus</em>)</li>
+				<li><a href="/page-index/ornamental-plants/sunflower">Sunflower</a> (<em>Helianthus annus</em>)</li>
 				<li><a href="/page-index/ornamental-plants/bamboo-orchid">Bamboo orchid</a></li>
-				<li><a href="/page-index/ornamental-plants/globe-amaranth">Globe Amaranth</a></li>
-				<li><a href="/page-index/ornamental-plants/rose-myrtle">Rose Myrtle</a></li>
-				<li><a href="/page-index/ornamental-plants/singapore-rhododendron">Singapore Rhododendron</a></li>
-				<li><a href="/page-index/ornamental-plants/brazilian-tea">Brazilian Tea</a></li>
-				<li><a href="/page-index/ornamental-plants/false-heather">False Heather</a></li>
-				<li><a href="/page-index/ornamental-plants/javanese-ixora">Javanese Ixora</a></li>
-				<li><a href="/page-index/ornamental-plants/golden-dewdrop">Golden Dewdrop</a></li>
+				<li><a href="/page-index/ornamental-plants/globe-amaranth">Globe Amaranth</a> (<em>Gomphrena globose</em>)</li>
+				<li><a href="/page-index/ornamental-plants/rose-myrtle">Rose Myrtle</a> (<em>Rhodomyrtus tomentosa</em>)</li>
+				<li><a href="/page-index/ornamental-plants/singapore-rhododendron">Singapore Rhododendron</a> (<em>Melastoma malathericum</em>)</li>
+				<li><a href="/page-index/ornamental-plants/brazilian-tea">Brazilian Tea</a> (<em>Stachytarpheta jamaicensis</em>)</li>
+				<li><a href="/page-index/ornamental-plants/false-heather">False Heather</a> (<em>Cuphea hyssopifolia</em>)</li>
+				<li><a href="/page-index/ornamental-plants/javanese-ixora">Javanese Ixora</a> (<em>Ixora javanica</em>)</li>
+				<li><a href="/page-index/ornamental-plants/golden-dewdrop">Golden Dewdrop</a> (<em>Duranta erecta</em>)</li>
 			</ul>
 		</div></li>
 		<li><input type="checkbox" id="accordion2">
 		<label for="accordion2">For less than 4 hours of direct sunlight or 4-8 hours of indirect sunlight:</label><div>
 			<ul>
-				<li><a href="/page-index/ornamental-plants/flame-violet">Flame violet</a></li>
-				<li><a href="/page-index/ornamental-plants/snake-plant">Snake plant</a></li>
-				<li><a href="/page-index/ornamental-plants/spider-plant">Spider plant</a></li>
-				<li><a href="/page-index/ornamental-plants/devils-ivy">Devil's Ivy</a></li>
-				<li><a href="/page-index/ornamental-plants/fairy-washboard">Fairy Washboard</a></li>
-				<li><a href="/page-index/ornamental-plants/mother-of-thousands">Mother of Thousands</a></li>
-				<li><a href="/page-index/ornamental-plants/lawyers-tongue">Lawyer's Tongue</a></li>
-				<li><a href="/page-index/ornamental-plants/walking-sanseveria">Walking Sanseveria</a></li>
-				<li><a href="/page-index/ornamental-plants/peace-lily">Peace Lily</a></li>
-				<li><a href="/page-index/ornamental-plants/wild-pepper">Wild pepper</a></li>
+				<li><a href="/page-index/ornamental-plants/flame-violet">Flame violet</a> (<em>Episcia cupreata</em>)</li>
+				<li><a href="/page-index/ornamental-plants/snake-plant">Snake plant</a> (<em>Dracaena trifasciata</em>)</li>
+				<li><a href="/page-index/ornamental-plants/spider-plant">Spider plant</a> (<em>Chlorophytum comosum</em>)</li>
+				<li><a href="/page-index/ornamental-plants/devils-ivy">Devil's Ivy</a> (<em>Epripremnum aureum</em>)</li>
+				<li><a href="/page-index/ornamental-plants/fairy-washboard">Fairy Washboard</a> (<em>Haworthiopsis limifolia</em>)</li>
+				<li><a href="/page-index/ornamental-plants/mother-of-thousands">Mother of Thousands</a> (<em>Kalanchoe daigremontiana</em>)</li>
+				<li><a href="/page-index/ornamental-plants/lawyers-tongue">Lawyer's Tongue</a> (<em>Gasteria obliqua</em>)</li>
+				<li><a href="/page-index/ornamental-plants/walking-sanseveria">Walking Sanseveria</a> (<em>Dracaena pinguicula</em>)</li>
+				<li><a href="/page-index/ornamental-plants/peace-lily">Peace Lily</a> (<em>Spathiphyllum wallisii</em>)</li>
+				<li><a href="/page-index/ornamental-plants/wild-pepper">Wild pepper</a> (<em>Piper sarmentosum</em>)</li>
 			</ul>
 		</div></li>
 	</ul>
