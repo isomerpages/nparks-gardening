@@ -23,7 +23,7 @@ image: ""
 </section> 
  
 <section> 
-  <h4>Environmental needs:</h4> 
+  <h4>Sun and soil needs:</h4> 
     	<p> This plant thrives in <a href="/page-index/horticulture-techniques/gauging-light/">4-8 hours of direct sunlight</a>, but can also grow in at least 6 hours of indirect sunlight but may flower less. Plants do best in <a href="/page-index/horticulture-techniques/soil/">loamy soil</a>at least 15cm deep or in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a>. These plants are vulnerable to <a href="/page-index/plant-problems/root-rot/">root rot</a>, so ensure that your pots drain well, and that your soil has plenty of <a href="/page-index/horticulture-techniques/soil-amendments/">organic matter</a> to let the roots breathe.</p><p> 
 
 </p></section>
