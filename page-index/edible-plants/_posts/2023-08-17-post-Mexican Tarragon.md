@@ -23,7 +23,7 @@ image: ""
 </section> 
  
 <section> 
-  <h4>Environmental needs:</h4> 
+  <h4>Sun and soil needs:</h4> 
 		 <p> This plant thrives in <a href="/plant-index/horticulture-techniques/gauging-light/">6 or more hours of direct sunlight, or 6-8 hours of indirect sunlight</a>. Plants do best in <a href="/plant-index/horticulture-techniques/soil/">moist, well-drained soil</a> at least 15cm deep, making them suitable for <a href="/plant-index/horticulture-techniques/planting-in-containers/">container gardening</a>. These plants are vulnerable to <a href="/plant-index/plant-problems/root-rot/">root rot</a>, so ensure that your pots drain well, and that your soil has plenty of <a href="/plant-index/horticulture-techniques/soil-amendments/">organic matter</a> to let the roots breathe.</p> 
 	<br> 
 </section> 
