@@ -18,7 +18,7 @@ image: ""
 </section> 
  
 <section> 
-  <h4>Environmental needs:</h4> 
+  <h4>Sun and soil needs:</h4> 
   <p>Mexican Sedum thrives in <a href="/page-index/horticulture-techniques/gauging-light/">more than 4 hours of direct sunlight</a>. It can also grow in more than 6 hours of indirect sunlight, but growth will be slow and the colour less vibrant. It grows best in <a href="/page-index/horticulture-techniques/soil/">sandy soil</a> at least 5cm deep with plenty of drainage, making it <a href="/page-index/horticulture-techniques/planting-in-containers/">suitable for containers</a>, rooftops, and other exposed areas. It will not tolerate <a href="/page-index/plant-problems/waterlogging/">waterlogging</a>, and can die quickly if left standing in water.</p> 
 	<br>
 </section>
