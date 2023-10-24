@@ -20,13 +20,13 @@ image: ""
 		<p>Fingerroot produces a spice extracted from the <a href="/learn-more-about-gardening/glossary/#r">rhizome</a>, an underground horizontal stem that resembles a tuberous root. The root can be used raw or processed into a  powder or a paste to flavour soups, meat, and pickles. The young shoots can also be eaten raw in salads. It is named as such because its roots look like a bunch of fingers.</p>
 	<p>It is also commonly called Chinese ginger, although it is not in the same genus as true ginger (<em>Zingiber officinate</em>).</p>
 	<p>It is a medium <a href="/learn-more-about-gardening/glossary/#p">perennial</a> crop that readily grows in the tropics in both <a href="/page-index/horticulture-techniques/true-ground">true ground</a> and <a href="/page-index/horticulture-techniques/planting-in-containers">in pots</a>.</p>
-	<p>Fingerroot is part of the Zingiberaceae or Ginger family, which includes other popular edible plants like <a href="/page-index/edible-plants/torch-ginger">Torch Ginger</a> and <a href="/page-index/edible-plants/turmeric">Turmeric.</a></p><a href="/page-index/edible-plants/turmeric">       
+	<p>Fingerroot is part of the Zingiberaceae or Ginger family, which includes other popular edible plants like <a href="/page-index/edible-plants/torch-ginger">Torch Ginger</a> and <a href="/page-index/edible-plants/turmeric">Turmeric</a>.</p>
 	<br>
-</a></section><a href="/page-index/edible-plants/turmeric">
+</section>
 
-</a><section><a href="/page-index/edible-plants/turmeric">
-	<h4>Environmental needs:</h4>
-	</a><p><a href="/page-index/edible-plants/turmeric">Fingerroot grows well in </a><a href="/page-index/horticulture-techniques/gauging-light">4-6 hours of direct sunlight or 6-8 hours of indirect sunlight</a>. Plants do best in <a href="/page-index/horticulture-techniques/soil">moist, well-drained soil</a> at least 15cm deep, making them suitable for <a href="/page-index/horticulture-techniques/planting-in-container">container gardening</a> and corridor gardening. These plants are vulnerable to <a href="/page-index/plant-problems/root-rot">root rot</a>, so ensure that your pots drain well, and that your soil has plenty of <a href="/page-index/horticulture-techniques/soil-amendments">organic matter</a> to let the roots breathe.</p>
+<section>
+	<h4>Sun and soil needs:</h4>
+	<p>Fingerroot grows well in <a href="/page-index/horticulture-techniques/gauging-light">4-6 hours of direct sunlight or 6-8 hours of indirect sunlight</a>. Plants do best in <a href="/page-index/horticulture-techniques/soil">moist, well-drained soil</a> at least 15cm deep, making them suitable for <a href="/page-index/horticulture-techniques/planting-in-container">container gardening</a> and corridor gardening. These plants are vulnerable to <a href="/page-index/plant-problems/root-rot">root rot</a>, so ensure that your pots drain well, and that your soil has plenty of <a href="/page-index/horticulture-techniques/soil-amendments">organic matter</a> to let the roots breathe.</p>
 	<p>This plant will not do well in places with a lot of wind, like on rooftop gardens or corridor gardens on high floors. Protect the plant with other larger plants nearby to block off the wind.</p>
 	<br>
 </section>
