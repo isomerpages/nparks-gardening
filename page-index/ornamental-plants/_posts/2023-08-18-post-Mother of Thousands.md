@@ -23,7 +23,7 @@ image: ""
 </section> 
  
 <section> 
-  <h4>Environmental needs:</h4> 
+  <h4>Sun and soil needs:</h4> 
 	<img title="Mother of Thousands plants growing in a pot. Photo by Jacqueline Chua." src="/images/Horti%20techniques/ContainerPlanting_JacChua%20(1).jpg">
   <p>Mother of Thousands thrives in a wide variety of light conditions, from <a href="/page-index/horticulture-techniques/gauging-light/">at least two hours of direct sunlight to a minimum of 4 hours of indirect sunlight</a>.  They can be planted in a variety of soil types including <a href="/page-index/horticulture-techniques/soil/">well-draining loamy soil, sandy soils, and even clayey soils</a>.</p> 
 	<br>
