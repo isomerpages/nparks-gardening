@@ -24,7 +24,7 @@ image: ""
 </section>
 
 <section>
-  <h4>Environmental needs:</h4>
+  <h4>Sun and soil needs:</h4>
   <img title="Photo by Jacqueline Chua." src="/images/Plants/LadiesFinger_JacChua%20(1).jpg">
   <p>This plant does best in full sun gardens with <a href="/page-index/horticulture-techniques/gauging-light/">a minimum of 6 hours of direct sunlight</a>.</p>
 	<p>Plants do best in <a href="/page-index/horticulture-techniques/soil/">loamy soil</a> in containers that are at least 15cm deep, or in true ground. </p>
