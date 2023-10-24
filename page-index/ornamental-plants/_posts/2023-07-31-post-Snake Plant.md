@@ -23,7 +23,7 @@ image: ""
 </section> 
  
 <section> 
-  <h4>Environmental needs:</h4> 
+  <h4>Sun and soil needs:</h4> 
   <p>This plant thrives in <a href="/page-index/horticulture-techniques/gauging-light/">at least 2 hours of direct sunlight or with a minimum of 4 hours of indirect sunlight</a>. Snake plants do well in  <a href="/page-index/horticulture-techniques/soil/">loamy or sandy soil</a> at least 10cm deep, making them suitable for <a href="/page-index/horticulture-techniques/planting-in-containers/">container gardening</a>.</p> 
 	<br>
 </section>
