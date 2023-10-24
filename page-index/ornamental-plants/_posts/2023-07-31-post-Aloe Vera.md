@@ -23,7 +23,7 @@ image: ""
 </section> 
  
 <section> 
-  <h4>Environmental needs:</h4> 
+  <h4>Sun and soil needs:</h4> 
   <p>This plant thrives in <a href="/page-index/horticulture-techniques/gauging-light/">at least 6 hours of direct sunlight</a>. It can also grow in 4-6hours of direct sunlight or at least 6 hours of indirect sunlight, but at a much slower rate.  They do best in <a href="/page-index/horticulture-techniques/soil/">porous, well-drained soil</a> and require moderate watering.</p> 
 	<br>
 </section>
