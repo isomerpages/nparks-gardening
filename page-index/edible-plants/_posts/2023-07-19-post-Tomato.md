@@ -25,7 +25,7 @@ image: ""
 </section>
 
 <section>
-	<h4>Environmental needs:</h4>
+	<h4>Sun and soil needs:</h4>
 	<img src="/images/Plants/Tomato_JacChua%20(3).jpg">
 	<p>This vine does best in full sun gardens with a <a href="/page-index/horticulture-techniques/gauging-light/">minimum of 6 hours of direct sunlight</a>. This plant can also grow with 4-5 hours of direct sunlight and at least 6 hours of indirect sunlight, but will produce less fruits.</p>
 	<p>Plants do best in <a href="/page-index/horticulture-techniques/soil/">loamy or sandy soil</a> at least 15cm deep. They are usually grown in <a href="/page-index/horticulture-techniques/planting-in-containers/">pots</a>, but they can also be grown in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a> that has been heavily amended with <a href="/page-index/horticulture-techniques/soil-amendments/">organic soil amendments</a>.</p>
