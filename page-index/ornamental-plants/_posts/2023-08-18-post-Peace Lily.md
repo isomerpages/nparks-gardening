@@ -23,7 +23,7 @@ image: ""
 </section> 
  
 <section> 
-  <h4>Environmental needs:</h4> 
+  <h4>Sun and soil needs:</h4> 
 	<img title="PeaceLilies growing in true ground. Photo by Jacqueline Chua." src="/images/Plants/peacelily%20(5)_jacquelinechua.jpg">
   <p>This plant thrives in <a href="/page-index/horticulture-techniques/gauging-light/">2-6 hours of indirect sunlight</a>, and <a href="/page-index/plant-problems/sunburn/">will burn in direct sun</a>. Plants do best in <a href="/page-index/horticulture-techniques/soil/">loamy soil</a>. These plants are vulnerable to <a href="/page-index/plant-problems/root-rot/">root rot</a>, so ensure that your pots drain well, and that your soil has plenty of <a href="/page-index/horticulture-techniques/soil-amendments/">organic matter</a> to let the roots breathe. This plant is prone to <a href="/page-index/plant-problems/wilting/">wilting</a>, and will need consistently moist soil to grow well.</p> 
 	<br>
