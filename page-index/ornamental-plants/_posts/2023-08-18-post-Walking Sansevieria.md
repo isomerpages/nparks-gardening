@@ -18,7 +18,7 @@ image: ""
 </section> 
  
 <section> 
-  <h4>Environmental needs:</h4> 
+  <h4>Sun and soil needs:</h4> 
   <p>Walking Sansevieria thrives in <a href="/page-index/horticulture-techniques/gauging-light/">4-6 hours of indirect sunlight</a>, but <a href="/page-index/plant-problems/sunburn/">may burn</a> in direct sun. They are best planted in <a href="/page-index/horticulture-techniques/soil/">sandy soil</a> with <a href="/page-index/horticulture-techniques/soil-amendments/">plenty of inorganic soil amendments</a> as they are vulnerable to <a href="/page-index/plant-problems/root-rot/">root rot</a>.</p> 
 	<br>
 </section>
