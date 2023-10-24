@@ -23,7 +23,7 @@ image: ""
 </section> 
  
 <section> 
-  <h4>Environmental needs:</h4> 
+  <h4>Sun and soil needs:</h4> 
   <p>This plant thrives in areas with <a href="/page-index/horticulture-techniques/gauging-light/">at least 4 hours of indirect sunlight</a> and requires moderate watering. Plants do best in <a href="/page-index/horticulture-techniques/gauging-light/">loamy soil</a> at least 10cm deep, making them suitable for <a href="/page-index/horticulture-techniques/planting-in-containers/">container gardening</a>.</p> 
 	<br>
 </section>
