@@ -24,7 +24,7 @@ image: ""
 </section>
 
 <section>
-	<h4>Environmental needs:</h4>
+	<h4>Sun and soil needs:</h4>
 	<p>This vine does best in <a href="/page-index/horticulture-techniques/gauging-light/">full sun gardens with a minimum of 6 hours of sunlight</a>. It can also grow in areas with at least 6 hours of indirect sunlight but will produce less fruit.
 		</p><p>Plants do best in <a href="/page-index/horticulture-techniques/soil/">moist, well-drained soil</a> at least 30cm deep, or in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a>.</p>
 	<p>This vine is vulnerable to heat stress during the dry season. <a href="/page-index/horticulture-techniques/watering/">Water it regularly</a> and <a href="/page-index/horticulture-techniques/mulching/">mulch</a> the base to prevent water loss.</p>
