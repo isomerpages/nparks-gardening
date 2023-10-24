@@ -24,7 +24,7 @@ image: ""
 </section>
 
 <section>
-	<h4>Environmental needs:</h4>
+	<h4>Sun and soil needs:</h4>
 	<p>Elephant Foot Yam grows well in <a href="/page-index/horticulture-techniques/gauging-light">2-4 hours of direct sunlight or more than 6 hours of indirect sunlight</a>. Plants do best in <a href="/page-index/horticulture-techniques/soil">moist, well-drained soil</a> at least 60cm deep, making them most suitable for <a href="/page-index/horticulture-techniques/true-ground">true ground planting</a>. These plants are vulnerable to<a href="/page-index/plant-problems/root-rot"> root rot</a>, so ensure that your pots drain well, and that your soil has plenty of <a href="/page-index/horticulture-techniques/soil-amendments">organic matter</a> to let the roots breathe.</p>
 	<p>This plant will not do well in places with a lot of sun and is vulnerable to sunburn.</p>
 	<br>
