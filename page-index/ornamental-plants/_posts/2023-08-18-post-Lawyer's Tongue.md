@@ -18,7 +18,7 @@ image: ""
 </section> 
  
 <section> 
-  <h4>Environmental needs:</h4> 
+  <h4>Sun and soil needs:</h4> 
   <p>Lawyer’s Tongue grows best in <a href="/page-index/horticulture-techniques/gauging-light/">4-8 hours of indirect sunlight</a>. Some direct sunlight will cause its leaf tips to flush red, but more than 6 hours of direct sun will cause <a href="/page-index/plant-problems/sunburn/">sunburn</a>. This plant grows best in <a href="/page-index/horticulture-techniques/soil/">sandy soil</a> at least 10cm deep, making it suitable for <a href="/page-index/horticulture-techniques/planting-in-containers/">container gardening</a>. This plant is vulnerable to <a href="/page-index/plant-problems/root-rot/">root rot</a> and will need plenty of drainage.</p> 
 	<br>
 </section>
