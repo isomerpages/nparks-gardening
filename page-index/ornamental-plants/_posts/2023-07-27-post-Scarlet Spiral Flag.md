@@ -24,7 +24,7 @@ image: ""
 </section> 
  
 <section> 
-  <h4>Environmental needs:</h4> 
+  <h4>Sun and soil needs:</h4> 
 	<img title="Scarlet Spiral Flag plants used to line a shady area. Photo by Jacqueline Chua." src="/images/Plants/scarletspiralflag%20(2)_jacquelinechua.jpg">
     <p>Scarlet Spiral Flags thrive in <a href="/page-index/horticulture-techniques/gauging-light/">less than 4 hours of direct sunlight, or 4-6 hours of indirect sunlight</a>. Plants do best in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a> planting. These plants are vulnerable to <a href="/page-index/plant-problems/root-rot/">root rot</a>, so ensure that your soil drains well, and that your soil has plenty of <a href="/page-index/horticulture-techniques/soil-amendments/">organic matter</a> to let the roots breathe.</p>
 	<p>This plant will not do well in places with a lot of direct sunlight, like on rooftop gardens.</p> 
