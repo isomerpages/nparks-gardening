@@ -23,7 +23,7 @@ image: ""
 </section> 
  
 <section> 
-  <h4>Environmental needs:</h4> 
+  <h4>Sun and soil needs:</h4> 
 	<img title="Mistletoe Fig fruits. Photo by Victoria Lim." src="/images/Plants/mistletoefig%20(1)_victorialim.jpg">
   <p>This plant thrives in <a href="/page-index/horticulture-techniques/gauging-light/">4-8 hours of direct sunlight</a>, and can also grow in at least 6 hours of indirect sunlight, but at a slower pace. Plants do best in <a href="/page-index/horticulture-techniques/soil/">sandy soil</a> at least 10cm deep, making them suitable for <a href="/page-index/horticulture-techniques/planting-in-containers/">container gardening</a>. These plants are vulnerable to <a href="/page-index/plant-problems/root-rot/">root rot</a>, so ensure that your soil has <a href="/page-index/horticulture-techniques/soil-amendments/">plenty of grit</a> to let the roots breathe.</p> 
 	<br>
