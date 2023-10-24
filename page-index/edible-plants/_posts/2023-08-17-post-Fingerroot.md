@@ -20,7 +20,7 @@ image: ""
 		<p>Fingerroot produces a spice extracted from the <a href="/learn-more-about-gardening/glossary/#r">rhizome</a>, an underground horizontal stem that resembles a tuberous root. The root can be used raw or processed into a  powder or a paste to flavour soups, meat, and pickles. The young shoots can also be eaten raw in salads. It is named as such because its roots look like a bunch of fingers.</p>
 	<p>It is also commonly called Chinese ginger, although it is not in the same genus as true ginger (<em>Zingiber officinate</em>).</p>
 	<p>It is a medium <a href="/learn-more-about-gardening/glossary/#p">perennial</a> crop that readily grows in the tropics in both <a href="/page-index/horticulture-techniques/true-ground">true ground</a> and <a href="/page-index/horticulture-techniques/planting-in-containers">in pots</a>.</p>
-	<p>Fingerroot is part of the Zingiberaceae or Ginger family, which includes other popular edible plants like <a href="/page-index/edible-plants/torch-ginger">Torch Ginger</a> and <a href="/page-index/edible-plants/turmeric">Turmeric</a>.</p>
+	<p>Fingerroot is part of the Zingiberaceae or Ginger family, which includes other popular edible plants like <a href="/page-index/edible-plants/torch-ginger">Torch Ginger</a> and <a href="/page-index/edible-plants/turmeric">Turmeric</a>.</p>       
 	<br>
 </section>
 
