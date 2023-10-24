@@ -52,7 +52,7 @@ image: ""
 		<li><input type="checkbox" id="accordion6">
 		<label for="accordion6">Gravel</label><div>
 			<img title="Gravel being used as mulch to line a pathway. Photo by Jacqueline Chua." src="/images/Hardscapes/Pathway_JacChua%20(3).jpg">
-			<p>Small stones and gravel can be used as mulch or pathways and can make a garden look classy and neat. However, their weight can press on fine roots, and gardeners may accidentally kick them out of their intended area. Lightweight <a href="/page-index/horticulture-techniques/soil-amendments/">soil amendments</a> like grit or LECA are popular mulches for plants in containers.</p>
+			<p>Small stones and gravel can be used as mulch or pathways and can make a garden look classy and neat. However, their weight can press on fine roots, and gardeners may accidentally kick them out of their intended area. Lightweight <a href="/page-index/horticulture-techniques/soil-amendments/">soil amendments</a> like pumice are popular mulches for plants in containers.</p>
 		</div></li>
 	</ul>
 </section>
