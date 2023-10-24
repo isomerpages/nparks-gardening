@@ -9,8 +9,11 @@ description: ""
 </div>
 <br>
 <!-- Change the width and height values to suit you best -->
-<div style="padding-bottom:56.25%; position: relative; display:block; width:100%">
-	<iframe style="width: 100%; height:100%" src="https://form.gov.sg/64a65a32921cd400127fbfb2" id="iframe"></iframe>
+
+<div style="position: relative; padding-bottom: 56.25%; padding-top:25px; height:0">
+	<div style="position: absolute; top:0px; left:0px; width: 100%; height:100%">
+		<iframe src="https://form.gov.sg/64a65a32921cd400127fbfb2" id="iframe"></iframe>
+	</div>
 </div>
 
 <div style="font-size: 12px;
