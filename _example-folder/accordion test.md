@@ -9,7 +9,7 @@ description: ""
 </div>
 <br>
 <!-- Change the width and height values to suit you best -->
-<div style="padding-bottom:56.25%; position: relative; width:100%">
+<div style="padding-bottom:56.25%; position: relative; display:block; width:100%">
 	<iframe style="width: 100%; height:100%" src="https://form.gov.sg/64a65a32921cd400127fbfb2" id="iframe"></iframe>
 </div>
 
