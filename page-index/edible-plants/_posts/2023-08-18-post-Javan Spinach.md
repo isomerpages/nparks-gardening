@@ -7,17 +7,17 @@ description: ""
 image: ""
 ---
 <header>
-	<h3>Javan Spinach (<em>Talinum triangulare</em>)</h3>
+	<h3>Waterleaf (<em>Talinum triangulare</em>)</h3>
 </header>
 	
 <section>
-	<p><strong>Other common names:</strong> Surinum Purslane, Ceylon Spinach, Waterleaf, Wild ginseng</p>
+	<p><strong>Other common names:</strong> Surinum Purslane, Ceylon Spinach, Javan Spinach, Wild ginseng</p>
 	<br>
 </section>
 
 <section>
 	<img title="Javan Spinach flowers. Photo by Jacqueline Chua." src="/images/Plants/javanspinach_flowers_jacquelinechua.jpg">
-	<p>Javan Spinach is a hardy vegetable that also produces delicate pink flowers that attracts bees. Its leaves, stem and root can be eaten blanched, fried, or in stews.</p>
+	<p>Waterleaf is a hardy vegetable that also produces delicate pink flowers that attracts bees. Its leaves, stem and root can be eaten blanched, fried, or in stews.</p>
 	<p>An <a href="/learn-more-about-gardening/glossary/#a/">annual</a> crop, this plant is often grown and consumed under 6 months. It can be used for <a href="/page-index/horticulture-techniques/crop-rotation/">crop rotation</a>.</p>       
 	<br>
 </section>
@@ -37,7 +37,7 @@ image: ""
 
 <section>
 	<h4>Growing:</h4>
-	<p>Javan Spinach is a rapid grower and generally does not need fertiliser, but it can be fed with <a href="/page-index/horticulture-techniques/fertilising/">high nitrogen fertilisers</a> once a month to encourage leaf growth. <a href="/page-index/horticulture-techniques/pruning/">Regular pruning</a> will encourage additional growth and improve air circulation.</p>
+	<p>Waterleaf is a rapid grower and generally does not need fertiliser, but it can be fed with <a href="/page-index/horticulture-techniques/fertilising/">high nitrogen fertilisers</a> once a month to encourage leaf growth. <a href="/page-index/horticulture-techniques/pruning/">Regular pruning</a> will encourage additional growth and improve air circulation.</p>
 	<br>
 </section>
 
@@ -50,7 +50,7 @@ image: ""
 
 <section>
 	<h4>Propagation:</h4>
-	<p>Javan Spinach can be grown from <a href="/page-index/horticulture-techniques/propagating-by-seed/">seed</a>, but they are usually propagated <a href="/page-index/horticulture-techniques/propagating-by-cuttings/">via stem cuttings</a> in soil or water.</p>
+	<p>Waterleaf can be grown from <a href="/page-index/horticulture-techniques/propagating-by-seed/">seed</a>, but they are usually propagated <a href="/page-index/horticulture-techniques/propagating-by-cuttings/">via stem cuttings</a> in soil or water.</p>
 	<br>
 </section>
 
