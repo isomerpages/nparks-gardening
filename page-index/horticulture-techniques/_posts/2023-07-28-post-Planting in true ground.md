@@ -48,7 +48,7 @@ image: ""
 
 <section>
 	<h4>Alternatives to planting in true ground</h4>
-	<img title="Low raised beds growing vegetables. Photo by Jacqueline Chua." src="/images/Hardscapes/PlanterBed%20(15).jpg">
+	<img title="Low planter beds growing vegetables. Photo by Jacqueline Chua." src="/images/Hardscapes/PlanterBed%20(15).jpg">
 	<p>If the existing soil is too difficult to work with, a <a href="/page-index/hardscapes/planter-beds/">planter bed</a> can be built on top of it and then filled with better soil. <a href="/page-index/horticulture-techniques/planting-in-containers/">Container planting</a> can also be considered but is generally not encouraged given that many containers can look cluttered, and harbour pests like <a href="/page-index/pests/snails-and-slugs/">snails</a> in between the pots.</p>
 	<br>
 </section></section>
