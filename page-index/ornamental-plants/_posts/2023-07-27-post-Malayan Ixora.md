@@ -23,7 +23,7 @@ image: ""
 </section> 
  
 <section> 
-  <h4>Environmental needs:</h4> 
+  <h4>Sun and soil needs:</h4> 
 	<img title="Malayan Icora flowers. Photo by Victoria Lim." src="/images/Plants/malayanixora%20(3)_victorialim.jpg">
    <p>This plant thrives in <a href="/page-index/horticulture-techniques/gauging-light/">less than 6 hours of direct sunlight or 4-8 hours of indirect sunlight</a>. Plants do best in <a href="/page-index/horticulture-techniques/soil/">moist, well-drained soil</a>.</p> 
 	<br>
