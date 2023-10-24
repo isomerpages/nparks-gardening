@@ -23,7 +23,7 @@ image: ""
 </section>
 
 <section>
-	<h4>Environmental needs:</h4>
+	<h4>Sun and soil needs:</h4>
 	<p>This tree does best in <a href="/page-index/horticulture-techniques/gauging-light">full sun gardens with a minimum of 6 hours of sunlight</a>. It can also grow in gardens with a minimum of 6 hours of indirect sunlight, but the growth will be slow and the plant will have less fruits.</p>
 	<p>Plants do best in <a href="/page-index/horticulture-techniques/soil">moist, well-drained soil</a> at least 50cm deep, or in <a href="/page-index/horticulture-techniques/true-ground">true ground</a>. These plants are vulnerable to <a href="/page-index/plant-problems/root-rot">root rot</a>, so ensure that your pots drain well, and that your soil has plenty of <a href="/page-index/horticulture-techniques/soil-amendments">organic matter</a> to let the roots breathe. Root rot and poor drainage will also lead to a poor fruit yield. This tree is drought-tolerant.</p>
 	<p>This tree can grow up to 15m high. The tree is best maintained at roughly 1-1.5m high for easy maintenance and harvesting.</p>
