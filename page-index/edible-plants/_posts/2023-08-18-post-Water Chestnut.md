@@ -23,7 +23,7 @@ image: ""
 </section>
 
 <section>
-	<h4>Environmental needs:</h4>
+	<h4>Sun and soil needs:</h4>
 	<img title="Water chestnut plants growing in a pond. Photo by Flora and Fauna web." src="/images/Plants/waterchestnut%20(2)_ffw.jpg">
 	<p>Water Chestnuts are a hardy crop that grow rapidly in <a href="/page-index/horticulture-techniques/gauging-light/">4-8 hours of direct sunlight</a> in water bodies that are 100mm-300mm deep with <a href="/page-index/horticulture-techniques/soil/">loamy soil</a>. This makes it suitable for ponds in both <a href="/page-index/horticulture-techniques/planting-in-containers/">containers</a> and <a href="/page-index/horticulture-techniques/true-ground/">true ground</a>.</p>
 	<br>
