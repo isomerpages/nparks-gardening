@@ -24,7 +24,7 @@ image: ""
 </section>
 
 <section>
-	<h4>Environmental needs:</h4>
+	<h4>Sun and soil needs:</h4>
 	<p>Spearmints are usually grown in <a href="/page-index/horticulture-techniques/gauging-light/">about 4-8 hours of indirect sunlight, or 2-6 hours of direct sunlight</a> if watered frequently. Spearmints are vulnerable to heat stress, and need to be <a href="/page-index/horticulture-techniques/watering/">watered frequently</a> during the dry season or if they are grown in more than 4 hours of direct sunlight. </p>
 	<p>Plants do best in <a href="/page-index/horticulture-techniques/soil/">loamy soil</a>l at least 5cm deep, making them suitable for <a href="/page-index/horticulture-techniques/planting-in-containers/">container gardening</a>. These plants are vulnerable to <a href="/page-index/plant-problems/root-rot">root rot</a>, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe.</p>
 	<br>
