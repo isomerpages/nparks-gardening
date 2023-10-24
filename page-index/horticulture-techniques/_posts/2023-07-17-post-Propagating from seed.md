@@ -6,6 +6,12 @@ layout: post
 description: ""
 image: ""
 ---
+<style>
+	ol li {
+	 padding: 10px;
+	}
+</style>
+
 <section>
 	<img title="Seedlings growing in a cardboard egg tray. Photo by Jacqueline Chua." src="/images/Horti%20techniques/SeedlingTray_Jacchua%20(11).jpg">
 	<p>Growing plants from seeds is an important skill to master for any gardener as home-grown seedlings can be cheaper and healthier than plants sold in nurseries. Seeds can be obtained from our local nurseries or supermarkets, or even harvested from your own plants!</p>
