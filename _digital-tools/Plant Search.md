@@ -9,7 +9,7 @@ description: ""
 </div>
 <br>
 <!-- Change the width and height values to suit you best -->
-<iframe style="width: 100%; height: 750px" src="https://form.gov.sg/64a65a32921cd400127fbfb2" id="iframe"></iframe>
+<iframe style="width: 100%; height: 600px" src="https://form.gov.sg/64a65a32921cd400127fbfb2" id="iframe"></iframe>
 
 <div style="font-family: Sans-Serif;
     font-size: 12px;
