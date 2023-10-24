@@ -22,7 +22,7 @@ image: ""
 
 <section>
 	<h4>Stagnant Water Hotspots</h4>
-	<p>Stagnant water may accumulate at various spots in the garden, such as pots, dishes, pails, drains and even in plants! Mosquitoes can lay eggs in water the size and depth of a 50 cent coin, so it is important that gardeners are through in checking for stagnant water. Check areas in the garden that have containers or hardscapes, poor drainage, water features and plants that collect water for mosquito eggs and larvae.</p>
+	<p>Stagnant water may accumulate at various spots in the garden, such as pots, dishes, pails, drains and even in plants! Mosquitoes can lay eggs in water the size and depth of a 50 cent coin, so it is important that gardeners are thorough in checking for stagnant water. Check areas in the garden that have containers or hardscapes, poor drainage, water features and plants that collect water for mosquito eggs and larvae.</p>
 	<ul class="jekyllcodex_accordion">
 		<li><input type="checkbox" id="accordion1">
 		<label for="accordion1">Containers and garden hardscapes</label><div>
