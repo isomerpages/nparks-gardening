@@ -23,7 +23,7 @@ image: ""
 </section> 
  
 <section> 
-  <h4>Environmental needs:</h4>
+  <h4>Sun and soil needs:</h4>
 	<img title="A large fiddle leaf fig grown in true ground. Photo by Jacqueline Chua." src="/images/Plants/fiddleleaffig%20(1)_jacquelinechua.jpg">
   <p>This plant can grow to its full size in areas with <a href="/page-index/horticulture-techniques/gauging-light/">at least 6 hours of direct sunlight</a>. However, most gardeners keep it in areas with 4-6 hours of direct sunlight or at least 6 hours of indirect sunlight to slow its growth and keep it at a more manageable size. This makes it suitable as a feature plant for both indoor and outdoor gardens. These plants are vulnerable to <a href="/page-index/plant-problems/root-rot/">root rot</a>, so ensure that your pots drain well, and that your soil has plenty of <a href="/page-index/horticulture-techniques/soil-amendments/">organic matter</a> to let the roots breathe. Smaller plants less than 0.5m tall can be <a href="/page-index/horticulture-techniques/planting-in-containers/">grown in pots</a> around 20cm deep, but larger plants will need pots at least 30cm deep, or to be planted in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a>.</p> 
 	<br>
