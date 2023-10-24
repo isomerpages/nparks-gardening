@@ -15,7 +15,7 @@ image: ""
 <section>
 	<h4>What is a weed and how do they affect your plants?</h4>
 	<img title="Chinese mustard with some small weeds growing in the same planter bed. Photo by Jacqueline Chua." src="/images/Hardscapes/PegTray%20(2).jpg">
-	<p>Any plant that you don’t want in a particular spot can be considered a weed.  They are undesirable when they grow and spread faster than your selected plants and can overwhelm weak or sick plants rapidly.</p>
+	<p>Any plant that you do not want in a particular spot can be considered a weed.  They are undesirable when they grow and spread faster than your selected plants and can overwhelm weak or sick plants rapidly.</p>
 	<br>
 </section>
 
