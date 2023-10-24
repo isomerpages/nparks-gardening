@@ -18,7 +18,7 @@ image: ""
 </section> 
  
 <section> 
-  <h4>Environmental needs:</h4> 
+  <h4>Sun and soil needs:</h4> 
 	<img title="River Tarenna flowers photo by Jacqueline Chua." src="/images/Plants/rivertarenna_4%20(3)_jacquelinechua.jpg">
   <p>This plant thrives in <a href="/page-index/horticulture-techniques/gauging-light/">4-8 hours of direct or indirect sunlight</a>. Plants do best in <a href="/page-index/horticulture-techniques/soil/">loamy soil</a>. These plants can also grow well in <a href="/page-index/plant-problems/waterlogging/">waterlogged</a> sites with clayey soil. This plant can be grown in very clayey <a href="/page-index/horticulture-techniques/true-ground/">true ground</a>.</p> 
 	<br>
