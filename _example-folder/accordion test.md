@@ -10,7 +10,7 @@ description: ""
 <br>
 <!-- Change the width and height values to suit you best -->
 
-<div style="position: relative; padding-bottom: 56.25%; padding-top:25px; height:0">
+<div style="position: relative; padding-bottom: 56.25%; padding-top:25px; height:0; overflow: auto; -webkit-overflow-scrolling: touch;">
 	<div style="position: absolute; top:0px; left:0px; width: 100%; height:100%">
 		<iframe src="https://form.gov.sg/64a65a32921cd400127fbfb2" id="iframe"></iframe>
 	</div>
