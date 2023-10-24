@@ -38,6 +38,7 @@ image: ""
 		<li>Woody stems and soft wood*</li>
 			*Make sure these materials are broken down into small pieces before you add them to your compost as they take the longest to decompose
 	</ul>
+	<img title="A gardener cutting greens for composting Photo by Jacqueline Chua." src="/images/Horti%20techniques/cuttinggreens_composting%20(2)_jacquelinechua.jpg">
 	<p>Organic materials will break down faster if they are in smaller pieces, so it is best practice to cut up them up before adding new materials to your compost.</p>
 	<p>A good rule of thumb is to add 1:2 greens to browns to keep the compost healthy. Too many greens can result in anaerobic decomposition.This occurs when the liquid released by the greens prevents oxygen from reaching the middle of the compost, resulting in unpleasant smells and slimy material. Too many browns can result in the compost becoming too dry and slowing the decomposition process dramatically. </p>
 	<p>In the tropics, the humid and damp environment tends to cause compost to decompose anaerobically. This can be fixed by adding more browns and mixing the compost regularly. It is best to err on the side of caution and always add more browns than greens. The compost can be then watered as needed till the mixture feels damp like a wrung-out sponge. </p>
@@ -47,6 +48,7 @@ image: ""
 
 <section>
 	<h4>What should I compost in, and where?</h4>
+	<img title="A Community Garden compost bin made from a plastic crate and tarp. Photo by Jacqueline Chua." src="/images/Horti%20techniques/composting%20bin3_jacquelinechua.jpg">
 	<p>Composting in gardens and homes is usually be done in a container of some kind. These containers are usually made of plastic that can be drilled to make holes for aeration and still protect the compost from pests like <a href="/page-index/pests/pests/#rodents">rodents</a>. Compost can also be made in a heap and covered with a tarp, but this is less secure from animals, generally messier, and will need a large space. </p>
 	<p>Compost should be left in a shady area out of the rain or sun to prevent it from getting too dry or wet. Dry compost will stop decomposing, while overly wet compost may start becoming anaerobic, and produce unpleasant smells. </p>
 	<br>
@@ -79,9 +81,11 @@ image: ""
 		</div></li>
 		<li><input type="checkbox" id="accordion3">
 		<label for="accordion3">In-ground composting (Worm towers)</label><div>
-			<p>In the past, people used to simply bury their composting material directly into their planting areas. However, the decomposition process tends to use up nitrogen while it is happening, resulting in plants growing near actively decomposing compost to become <a href="/page-index/plant-problems/nutrient-deficiencies/">nutrient deficient</a> and vulnerable to pathogens that might be in the immature compost. Containing the compost in a pipe directly in your growing area is a more practical way to keep immature compost away from sensitive plant roots, and helps to feed your <a href="/page-index/biodiversity/soil-biodiversity/">soil biodiversity</a>.</p>
+			<p>In the past, people used to simply bury their composting material directly into their planting areas. However, the decomposition process tends to use up nitrogen while it is happening, resulting in plants growing near actively decomposing compost to become <a href="/page-index/plant-problems/nutrient-deficiencies/">nutrient deficient</a> and vulnerable to pathogens that might be in the immature compost. </p>
+						<img title="A worm tower made from a pipe and capped with a plastic dish. Photo by Jacqueline Chua." src="/images/Horti%20techniques/wormtower_jacquelinechua.jpg">
+			<p>Containing the compost in a pipe directly in your growing area is a more practical way to keep immature compost away from sensitive plant roots, and helps to feed your <a href="/page-index/biodiversity/soil-biodiversity/">soil biodiversity</a>.</p>
 			<iframe width="100%" height="415" src="https://www.youtube.com/embed/stVtUD6rcWk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
-			<p><b>Worm towers</b> are pipes or pots cut in half to contain composting material above ground, encouraging earthworms that live in true ground beds to eat and bury the material throughout your growing area. Take note that these earthworms are different from the worms used in vermicomposting because they are adapted to living in proper soil with clay components, and not purely organic material.</p>
+			<p><b>Worm towers</b> are pipes or pots cut in half to contain composting material above ground, encouraging <a href="/page-index/biodiversity/soil-biodiversity/">earthworms that live in true ground beds</a> to eat and bury the material throughout your growing area. Take note that these earthworms are different from the worms used in vermicomposting because they are adapted to living in proper soil with clay components, and not purely organic material.</p>
 			<p>Worm towers need very little maintenance as they don't require mixing and the compost is automatically added to your growing area, but the size of the pipe or pot does limit how much compost can be made at any one time. The pipe or pot will also need to be covered with a lid to prevent <a href="/page-index/pests/pests/#rodents">rodents</a> from digging up unfinished compost and making a mess.</p>
 		</div></li>
 	</ul>
