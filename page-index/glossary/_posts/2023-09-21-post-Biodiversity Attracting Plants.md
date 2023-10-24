@@ -134,7 +134,6 @@ image: ""
 
 <section>
 <h4 id="j">J</h4>
-<a class="body" href="/page-index/edible-plants/javan-spinach/">Javan Spinach</a><br>
 <a class="body" href="/page-index/ornamental-plants/javanese-ixora/">Javanese Ixora</a><br>
 	<br><br>
 	</section>
@@ -221,6 +220,7 @@ image: ""
 	
 <section>
 <h4 id="w">W</h4>
+<a class="body" href="/page-index/edible-plants/waterleaf/">Waterleaf</a><br>
 <a class="body" href="/page-index/edible-plants/watermelon/">Watermelon</a><br>
 <a class="body" href="/page-index/edible-plants/winged-bean/">Winged Bean</a><br>
 	<br><br>
