@@ -25,7 +25,7 @@ permalink: /example-folder/folder-page/
 	
 	a:hover.button {
 		border: solid 5px;
-		border-radius: 5px;
+		border-radius: 10px;
 	}
 </style>
 
