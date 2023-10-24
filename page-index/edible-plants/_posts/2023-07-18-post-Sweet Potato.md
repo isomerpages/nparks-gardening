@@ -24,7 +24,7 @@ image: ""
 </section>
 
 <section>
-	<h4>Environmental needs:</h4>
+	<h4>Sun and soil needs:</h4>
 	<img title="Flowering Sweet Potato Plant. Photo by Jacqueline Chua." src="images/Plants/SweetPotato_JacChua.jpg">
 	<p>This vine thrives in both full and partial sun gardens and grows best with <a href="/page-index/horticulture-techniques/gauging-light/">4-8 hours of direct sunlight, but can also grow in 4- 6 hours of indirect sunlight</a> but at a slower pace.</p>
 	<p>Plants do best in <a href="/page-index/horticulture-techniques/soil/">loamy soil</a> at least 30cm deep, or in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a>. The plant can be grown in smaller pots about 10cm deep but will not produce large tubers. Tuber growth can be encouraged by adding lots of <a href="/page-index/horticulture-techniques/soil-amendments/">organic material</a> to the soil, making it soft.</p>
