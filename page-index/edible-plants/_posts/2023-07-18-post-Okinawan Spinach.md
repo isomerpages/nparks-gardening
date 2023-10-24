@@ -25,7 +25,7 @@ image: ""
 </section>
 
 <section>
-	<h4>Environmental needs:</h4>
+	<h4>Sun and soil needs:</h4>
 			<iframe width="100%" height="415" src="https://www.youtube.com/embed/SfuujJwcZR8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe><br>
 		<p>This plant grows rapidly in <a href="/page-index/horticulture-techniques/gauging-light/">4-8 hours of indirect sunlight</a>. Plants may suffer from <a href="/page-index/plant-problems/sunburn/">sunburn</a> in more than 4 hours of direct sunlight. Plants do best in <a href="/page-index/horticulture-techniques/soil/">loamy or sandy soil</a> at least 10cm deep, making them suitable for container gardening. These plants are vulnerable to <a href="/page-index/plant-problems/root-rot/">root rot</a>, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe.</p>
 	<br>
