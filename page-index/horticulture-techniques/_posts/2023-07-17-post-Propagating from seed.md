@@ -70,9 +70,9 @@ image: ""
 				<li><a href="/page-index/edible-plants/kai-lan/">Kai Lan</a> (<em>Brassica oleracea</em> Alboglabra Group)</li>
 		<li><a href="/page-index/edible-plants/kale/">Kale</a> (<em>Brassica oleracea</em> Acephala Group)</li>
 		<li><a href="/page-index/edible-plants/lettuce/">Lettuce</a> (<em>Lactuca sativa</em>)</li>
-				<li><a href="/page-index/edible-plants/lady's-finger">Lady's Finger</a> (<em>Abelmoschus esculentus</em>)</li>
+				<li><a href="/page-index/edible-plants/ladys-finger">Lady's Finger</a> (<em>Abelmoschus esculentus</em>)</li>
 		<li><a href="/page-index/edible-plants/thai-basil/">Thai Basil</a> (<em>Ocimum basilicum</em>)</li>
-		<li><a href="/page-index/edible-plants/tomato">Tomatoes</a> (<em>Solanum lycopersicum</em>)</li>
+		<li><a href="/page-index/edible-plants/tomato">Tomato</a> (<em>Solanum lycopersicum</em>)</li>
 	</ul>
 		</div></li>
 	<li><input type="checkbox" id="accordion4">
@@ -93,7 +93,7 @@ image: ""
 	<p>This method of sowing seeds is particularly good for the following plants:</p>
 	<ul>
 		<li><a href="/page-index/edible-plants/bayam/">Bayam</a> (<em>Amaranthus tricolor</em>)</li>
-				<li><a href="/page-index/edible-plants/butterfly-pea/">Butterfly pea</a> (<em>Clitoria ternatea</em>)</li>
+				<li><a href="/page-index/edible-plants/butterfly-pea/">Butterfly Pea</a> (<em>Clitoria ternatea</em>)</li>
 		<li><a href="/page-index/edible-plants/kang-kong/">Kang Kong</a> (<em>Ipomoea aquatica</em>)</li>
 		<li><a href="/page-index/edible-plants/cucumber/">Cucumber</a> (<em>Cucumis sativus</em>)</li>
 		<li><a href="/page-index/edible-plants/sunflower/">Sunflower</a> (<em>Helianthus annuus</em>)</li>
