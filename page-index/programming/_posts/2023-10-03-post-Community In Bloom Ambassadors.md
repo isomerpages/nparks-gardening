@@ -17,7 +17,7 @@ image: ""
 
 <section>
 	<h4>Who can be a CIB Ambassador?</h4>
-	<img title="A young volunteer showcasing how to grow blue pea flowers at an event. Photo by Jacqueline Chua." src="/images/Gardeners/outreach_202307%20(1)_jacquelinechua.jpg">
+	<img title="A CIB Ambassador guiding children on how to water plants. Photo by NParks." src="/images/Gardeners/Kids%20(2).jpg">
 	<p>If you are part of a <a href="/get-involved/community-gardens/">Community Garden</a>, have a love for gardening outreach, and are keen to educate others, you may be the CIB ambassador that we are looking for!</p>
 	<p>Nominations for the 2023 edition of the CIB ambassador award are currently closed. Nominations for the 2024 edition will be via this page. Watch this space!</p>
 	<br>
