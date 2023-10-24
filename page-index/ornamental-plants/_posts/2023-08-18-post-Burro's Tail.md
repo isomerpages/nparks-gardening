@@ -23,7 +23,7 @@ image: ""
 </section> 
  
 <section> 
-  <h4>Environmental needs:</h4> 
+  <h4>Sun and soil needs:</h4> 
 	<img title="Burro's tail plant. Photo by Jacqueline Chua." src="/images/Plants/burrostail_jacquelinechua.jpg">
   <p>This plant thrives in areas with <a href="/page-index/horticulture-techniques/gauging-light/">4-6 hours of indirect sun</a> but may <a href="/page-index/plant-problems/sunburn/">burn</a> if exposed to more than 6 hours of direct sunlight. They do best in <a href="/page-index/horticulture-techniques/soil/">sandy soil with plenty of drainage</a> in at least 10cm of soil, making them ideal for <a href="/page-index/horticulture-techniques/planting-in-containers/">container gardening</a>.</p> 
 	<br>
