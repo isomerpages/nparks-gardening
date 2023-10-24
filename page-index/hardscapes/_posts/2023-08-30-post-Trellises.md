@@ -43,6 +43,6 @@ image: ""
 	<h4>Safety</h4>
 	<p>Trellises should all be stabilised via footing, lashed to supports, or secured with concrete underground. Trellises should be stable enough to endure shaking by people and windy conditions within the garden.</p> 
 	<img title="A plastic cap for poles. Photo by Jacqueline Chua." src="/images/Hardscapes/PXL_20230615_031940141.jpg">
-	<p>Some trellis materials like plastic and bamboo may have sharp points or consist of hollow poles. Caps can be used to shield gardeners from points and to prevent water collecting in the poles, which is an important part of managing mosquitoes in the garden.</p>
+	<p>Some trellis materials like plastic and bamboo may have sharp points or consist of hollow poles. Caps can be used to shield gardeners from points and to prevent water collecting in the poles, which is an important part of <a href="/page-index/housekeeping/keeping-gardens-mosquito-free">managing mosquitoes in the garden</a>.</p>
 	<br>
 </section>
