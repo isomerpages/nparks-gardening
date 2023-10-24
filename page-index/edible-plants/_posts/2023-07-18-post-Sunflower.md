@@ -24,7 +24,7 @@ image: ""
 </section>
 
 <section>
-	<h4>Environmental needs:</h4>
+	<h4>Sun and soil needs:</h4>
 		<img src="/images/Plants/SunflowerJacChua%20(2).jpg">
 	<p>Sunflowers grow best in <a href="/page-index/horticulture-techniques/gauging-light">6-8 hours of direct sunlight</a>. They can tolerate 4-5 hours of direct sunlight or at least 6 hours of indirect sunlight, but may have slower or stunted growth. Plants do best in <a href="/page-index/horticulture-techniques/soil/">sandy soil</a> at least 20cm deep. Taller cultivars that grow to 3m or more will require at least 50cm of soil for stability. These plants are vulnerable to <a href="/page-index/plant-problems/root-rot">root rot</a>, so ensure that your pots drain well, and that your soil has plenty of grit to let the roots breathe. </p>
 	<p>Keep your plants cool with <a href="/page-index/horticulture-techniques/mulching">mulch</a> and plenty of water to encourage growth.</p>
