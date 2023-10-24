@@ -28,7 +28,7 @@ image: ""
 	<h4>Designating a storage space within your garden</h4>
 	<img title="A garden shed hidden towards the back of a Community Garden. Photo by Jacqueline Chua." src="/images/Hardscapes/Pathway_JacChua%20(5).jpg">
 	<p>Figuring out where items should be stored will help you optimize the space in your garden and discourage people from leaving clutter around. Getting to the storage should be easy, with a primary pathway leading to the storage unit itself.</p> 
-	<p>Storage spaces with relevant tools should ideally be close enough to work areas, for example, having bonsai pruning tools close to the bonsai area of the garden. This will reduce clutter in the general storage area and reduce the chance of specialized tools from getting lost. </p> 
+	<p>Storage spaces with relevant tools should ideally be close enough to work areas. For example, having bonsai pruning tools close to the bonsai area of the garden. This will reduce clutter in the general storage area and reduce the chance of specialized tools from getting lost. </p> 
 	<p>Allotment gardens often come equipped with personal storage units built into the plots, while Community gardens may have a large garden shed placed in a corner for everyone to access. If a large shed is not possible, placing a few cupboards strategically throughout the garden can be considered as an alternative. </p>
 	<br>
 </section>
