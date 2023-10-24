@@ -26,7 +26,7 @@ image: ""
 </section> 
  
 <section> 
-  <h4>Environmental needs:</h4> 
+  <h4>Sun and soil needs:</h4> 
 	<p>Chinese Mustard does best in <a href="/page-index/horticulture-techniques/gauging-light/">more than 6 or more hours of indirect sunlight, or at least 4 hours of direct sunlight</a>. Plants do best in <a href="/page-index/horticulture-techniques/soil/">moist, well-drained soil</a> at least 10cm deep, making them suitable for <a href="/page-index/horticulture-techniques/planting-in-containers/">container gardening</a>. These plants are vulnerable to <a href="/page-index/plant-problems/root-rot/">root rot</a>, so ensure that your pots drain well, and that your soil has plenty of <a href="/page-index/horticulture-techniques/soil-amendments/">organic matter</a> to let the roots breathe. Keep your plants cool with <a href="/page-index/horticulture-techniques/mulching/">mulch</a> and plenty of water to encourage growth.</p> 
 	<br> 
 </section> 
