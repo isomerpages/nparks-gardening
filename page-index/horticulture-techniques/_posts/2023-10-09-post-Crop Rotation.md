@@ -29,21 +29,14 @@ image: ""
 				<li><a href="/page-index/edible-plants/bayam/">Bayam</a> (<em>Amaranthus tricolor</em>)</li>
 				<li><a href="/page-index/edible-plants/cai-xin/">Cai Xin</a> (<em>Brassica&nbsp;rapa</em>&nbsp;Caisin Group)</li>
 				<li><a href="/page-index/edible-plants/chinese-mustard/">Chinese Mustard</a> (<em>Brassica juncea</em> Broad-leaf Mustard)</li>
-				<li><a href="/page-index/edible-plants/javan-spinach/">Javan Spinach</a> (<em>Talinum triangulare
-					</em>)</li>
-				<li><a href="/page-index/edible-plants/kai-lan/">Kai Lan</a> (<em>Brassica oleracea</em> Alboglabra Group)
-</li>
-				<li><a href="/page-index/edible-plants/kale/">Kale</a> (<em>Brassica oleracea</em> Acephala Group)
-</li>
-				<li><a href="/page-index/edible-plants/kang-kong/">Kang Kong</a> (<em>Ipomoea aquatica
-					</em>)</li>
-				<li><a href="/page-index/edible-plants/lettuce/">Lettuce</a> (<em>Lactuca sativa
-					</em>)</li>
+				<li><a href="/page-index/edible-plants/waterleaf/">Waterleaf</a> (<em>Talinum triangulare</em>)</li>
+				<li><a href="/page-index/edible-plants/kai-lan/">Kai Lan</a> (<em>Brassica oleracea</em> Alboglabra Group)</li>
+				<li><a href="/page-index/edible-plants/kale/">Kale</a> (<em>Brassica oleracea</em> Acephala Group)</li>
+				<li><a href="/page-index/edible-plants/kang-kong/">Kang Kong</a> (<em>Ipomoea aquatica</em>)</li>
+				<li><a href="/page-index/edible-plants/lettuce/">Lettuce</a> (<em>Lactuca sativa</em>)</li>
 				<li><a href="/page-index/edible-plants/radish/">Radish</a> (<em>Raphanus raphanistrum subsp. sativus cultivar)</em></li>
-				<li><a href="/page-index/edible-plants/tapioca/">Tapioca</a> (<em>Manihot esculenta
-					</em>)</li>
-				<li><a href="/page-index/edible-plants/xiao-bai-cai/">Xiao Bai Cai</a> (<em>Brassica rapa</em> Pak Choi Group)
-</li>
+				<li><a href="/page-index/edible-plants/tapioca/">Tapioca</a> (<em>Manihot esculenta</em>)</li>
+				<li><a href="/page-index/edible-plants/xiao-bai-cai/">Xiao Bai Cai</a> (<em>Brassica rapa</em> Pak Choi Group)</li>
 			</ul>
 			</div></li>
 		<li><input type="checkbox" id="accordion2">
