@@ -44,7 +44,7 @@ image: ""
 
 <section>
 	<h4>Inorganic soil amendments</h4>
-	<p>Inorganic soil amendments or grit are usually made from materials that are mined or man-made. They are generally used to increase the drainage and aeration of the soil and to create air pockets to help roots breathe. These soil amendments will not decompose and generally only need to be added once. They come in different granule sizes, with large, coarse grain sizes used for large containers and raised beds, and smaller grain sizes used for seed starting and small containers. </p>
+	<p>Inorganic soil amendments or grit are usually made from materials that are mined or man-made. They are generally used to increase the drainage and aeration of the soil, creating air pockets to help roots breathe. These soil amendments will not decompose and generally only need to be added once. They come in different granule sizes, with large, coarse grain sizes used for large containers and raised beds, and smaller grain sizes used for seed starting and small containers. </p>
 </section>
 
 <ul class="jekyllcodex_accordion">
