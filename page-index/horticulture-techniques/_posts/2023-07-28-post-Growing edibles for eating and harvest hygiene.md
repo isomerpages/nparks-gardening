@@ -32,9 +32,11 @@ image: /images/Gardeners/Harvesting (3).jpg
 
 <section>
 	<h4>Harvesting hygiene</h4>
-	<iframe width="100%" height="415" src="https://www.youtube.com/embed/f_Uoug7ZSeg?start=154" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe><br>
+<img title="A Community Gardener cutting off roots and damaged leaves. Photo by Jacqueline Chua." src="/images/Gardeners/Harvesting%20(9).jpg">
 	<p>Edible plants should be harvested with a clean pair of secateurs or scissors to prevent the spread of plant diseases. Rotting and damaged leaves or fruit should be trimmed off.</p>
+	<img title="A Community GArdener washing freshly harvested vegetables with potable water. Photo by Jacqueline Chua." src="/images/Horti%20techniques/Harvesting_Jacchua.jpg">
 	<p>Wash all harvested plants thoroughly to remove soil, pests and environmental contaminants from your crops. Dry your harvest with clean paper towels and store in a cool dry place or the fridge before consumption.</p>
-	<p> Download and print out our <a href="/files/good%20food%20safety%20practices%20when%20growing%20edibles%20poster.pdf">checklist for the safe growing and harvesting of edible plants</a>!</p>
+		<iframe width="100%" height="415" src="https://www.youtube.com/embed/f_Uoug7ZSeg?start=154" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe><br>
+	<p> Download and print out our <a href="/files/good%20food%20safety%20practices%20when%20growing%20edibles%20poster.pdf">checklist for the safe growing and harvesting of edible plants</a> for reference!</p>
 	<br>
 </section>
