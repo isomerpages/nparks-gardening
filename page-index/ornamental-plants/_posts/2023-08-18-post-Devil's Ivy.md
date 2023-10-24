@@ -23,7 +23,7 @@ image: ""
 </section> 
  
 <section> 
-  <h4>Environmental needs:</h4>
+  <h4>Sun and soil needs:</h4>
 	<img title="Devil's Ivy grown in Hanging pots. Photo by Jacqueline Chua." src="/images/Plants/devilsivy%20(2)_jacquelinechua.jpg">
   <p>This plant thrives in areas with <a href="/page-index/horticulture-techniques/gauging-light/">2-8 hours of indirect sunlight, and can tolerate up to 4 hours of direct sun</a>. More than 4 hours of direct sun might cause <a href="/page-index/plant-problems/sunburn/">burns</a> on the leaves. Plants do best in <a href="/page-index/horticulture-techniques/soil/">loamy</a> at least 10cm deep, making them suitable for <a href="/page-index/horticulture-techniques/planting-in-containers/">container gardening</a>. This plant is highly drought tolerant, but frequent watering will encourage more growth.</p> 
 	<br>
