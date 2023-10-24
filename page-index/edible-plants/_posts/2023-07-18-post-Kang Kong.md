@@ -25,7 +25,7 @@ image: ""
 </section>
 
 <section>
-  <h4>Environmental needs:</h4>
+  <h4>Sun and soil needs:</h4>
 	<img title="Kang Kong grown in pots. Photo by Jacqueline Chua." src="/images/Plants/kangkong_jacquelinechua.jpg">
 	<p>This hardy vine thrives in full sun gardens and can grows best with <a href="/page-index/horticulture-techniques/gauging-light/">4-8 hours of direct sunlight</a>. It can also grow in more than 6 hours of indirect sunlight, but at a slower pace.</p>
 	<p>Plants do best in <a href="/page-index/horticulture-techniques/soil/">loamy soil</a> at least 10cm deep, making them suitable for <a href="/page-index/horticulture-techniques/planting-in-containers/">container gardening</a>. This plant is highly tolerant of <a href="/page-index/horticulture-techniques/soil/">clayey</a> and <a href="/page-index/plant-problems/waterlogging/">waterlogged soils</a> and can be used in gardens that are watered frequently, in gardens that are prone to flooding, in areas exposed to large amounts of rain, and along the edges of ponds. </p> 
