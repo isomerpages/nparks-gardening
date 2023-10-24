@@ -52,8 +52,8 @@ image: /images/Horti techniques/Compost_Jacchua.jpg
 
 <section>
 	<h4>What should I compost in, and where?</h4>
-	<img title="A Community Garden compost bin made from a plastic crate and tarp. Photo by Jacqueline Chua." src="/images/Horti%20techniques/composting%20bin3_jacquelinechua.jpg">
-	<p>Composting in gardens and homes is usually be done in a container of some kind. These containers are usually made of plastic that can be drilled to make holes for aeration and still protect the compost from pests like <a href="/page-index/pests/pests/#rodents">rodents</a>. Compost can also be made in a heap and covered with a tarp, but this is less secure from animals, generally messier, and will need a large space. </p>
+	<img title="A Community Garden compost heap under shelter. Photo by Jacqueline Chua." src="/images/Horti%20techniques/CompostHeap_Jacchua.jpg">
+	<p>Composting in gardens and homes is usually be done in a container of some kind. These containers are usually made of plastic that can be drilled to make holes for aeration and still protect the compost from pests like <a href="/page-index/pests/pests/#rodents">rodents</a>. Compost can also be made in a heap and covered with a tarp or shelter, but this is less secure from animals, generally messier, and will need a large space. </p>
 	<p>Compost should be left in a shady area out of the rain or sun to prevent it from getting too dry or wet. Dry compost will stop decomposing, while overly wet compost may start becoming anaerobic, and produce unpleasant smells. </p>
 	<br>
 </section>
