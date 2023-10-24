@@ -22,12 +22,14 @@ image: ""
 	<li><input type="checkbox" id="accordion1">
 		<label for="accordion1">Cocopeat/Coco Coir</label><div>
 		<img title="Cocopeat and coco coir is made from shredding and processing coconut husks. Photo by Jacqueline Chua" src="/images/Horti%20techniques/Soil_Amendment_Cocopeat.jpg">
-		<p><b>Cocopeat or coco coir</b> is a by-product of coconut husks and looks like fine brown particles that can rapidly expand in water. It is usually sold in dehydrated blocks that can expand up to 7 times their original volume when placed in water for rehydration. Coco coir is also much more sterile than compost and can be used for <a href="/page-index/horticulture-techniques/propagating-by-seed/">starting seeds</a>.</p>
+		<p><b>Cocopeat or coco coir</b> is a by-product of coconut husks and looks like fine brown particles that can rapidly expand in water.</p>
+		<img title="A dehydrated cocopeat block. Photo by Jacqueline Chua." src="/images/Horti%20techniques/Soil_Amendment_Cocopeat_block%20(1).jpg">
+		<p>It is usually sold in dehydrated blocks that can expand up to 7 times their original volume when placed in water. Coco coir is much more sterile than compost and can be used for <a href="/page-index/horticulture-techniques/propagating-by-seed/">starting seeds</a>.</p>
 	</div></li>
 	<li><input type="checkbox" id="accordion2">
 		<label for="accordion2">Coco Fiber</label><div>
-		<img title="Coco fibre is made from shredding coconut husks, and can be mixed into soil or used as mulch. Photo by Jacqueline Chua" src="/images/Horti%20techniques/Mulch_JacChua%20(1).jpg">
-		<p><b>Coco fibre</b> is also made from coconut husks, but the material is not ground down as finely and still looks like clumps of rough hair or chips. Coco fibre can also be directly mixed in with soil, but it is much chunkier and will not mix as readily as coco coir. Coco fibre is usually used as a lining for pots, or as a <a href="/page-index/horticulture-techniques/mulching/">mulch</a>.</p>
+		<img title="Coco fibre is made from breaking apart coconut husks, and can be mixed into soil or used as mulch. Photo by Jacqueline Chua" src="/images/Horti%20techniques/Mulch_Cocopeat_Jacchua.jpg">
+		<p><b>Coco fibre</b> is also made from coconut husks, but the material is not ground down as finely and still looks like clumps of rough hair or chips. Coco fibre can also be directly mixed in with soil, but it is much chunkier and will not mix as readily as coco coir. The large chunks will help to introduce air pockets within the soil before they decompose. Coco fibre is usually used as a lining for pots, or as a <a href="/page-index/horticulture-techniques/mulching/">mulch</a>.</p>
 	</div></li>
 	<li><input type="checkbox" id="accordion3">
 		<label for="accordion3">Mature Compost</label><div>
@@ -50,7 +52,7 @@ image: ""
 <ul class="jekyllcodex_accordion">
 	<li><input type="checkbox" id="accordion5">
 	<label for="accordion5">Horticultural Sand</label><div>
-		<img title="Horticultural sand with large grains. Photo by Jacqueline Chua." src="/images/Horti%20techniques/Soil_Sandy_Jacchua.jpg">
+		<img title="Horticultural sand with large grains. Photo by Victoria Lim." src="/images/Horti%20techniques/coarse%20sand%20(1)_victorialim.jpg">
 		<p><b>Horticultural sand</b> generally refers to river sand or coarse sand with grains larger than 2mm. It should not clump together when wet, and helps to increase the drainage and aeration of soil when mixed in. Coarser grains are generally preferred as fine sand mixed with clay soils will make a medium like concrete.  It can get heavy and dense in large amounts and should generally be mixed with organic amendments like compost to make a lighter soil mix that roots can grow through. </p>
 	</div></li>
 	<li><input type="checkbox" id="accordion6">
