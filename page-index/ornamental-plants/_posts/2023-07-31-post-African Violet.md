@@ -19,11 +19,11 @@ image: ""
 	<img title="African violets of varying colours. Photo by Flora and Fauna Web." src="/images/Plants/africanviolet_ffw_2.jpg">
 	<p>African Violets are small herbaceous plants with a low, compact growth form. It has dark green succulent leaves that are round or oval shaped, and are covered with short white hairs, giving it a velvety texture. Diffierent cultivars will produce flowers of various shapes, sizes and colours, ranging from blue to red and even purple.</p>
 	<p>A <a href="/learn-more-about-gardening/glossary/#p">perennial</a> flower, African Violets are a classic plant for indoor gardens and <a href="/page-index/horticulture-techniques/planting-in-containers/">container gardening</a>.</p>
-	 <br> 
+<br> 
 </section> 
  
 <section> 
-  <h4>Environmental needs:</h4> 
+  <h4>Sun and soil needs:</h4> 
   <p>This plant thrives in areas with <a href="/page-index/horticulture-techniques/gauging-light/">at least 4 hours of indirect sunlight</a>, but will <a href="/page-index/plant-problems/sunburn/">burn</a> in more than 6 hours of direct sunlight. Plants do best in <a href="/page-index/horticulture-techniques/soil/">sandy or loamy soil</a> at least 10cm deep, making them suitable for <a href="/page-index/horticulture-techniques/planting-in-container/">container gardening</a>.</p> 
 	<br>
 </section>
