@@ -17,7 +17,7 @@ image: ""
 		<li>The seed expiry date</li>
 		<li>Recommended sowing depth, distance, and harvest cycle</li>
 	</ul>
-		<p>This information is important for gardeners to take note of as it helps with<a href="/digital-tools/sowing-planner/"> sowing and harvest planning</a>, and managing the <a href="/horticulture-techniques/plant-spacing/">spacing of plants</a>. Planning when to sow seeds and where immediately after buying seed packets will ensure that you use them before they expire!</p>
+		<p>This information is important for gardeners to take note of as it helps with<a href="/digital-tools/sowing-planner/"> sowing and harvest planning</a>, and managing the <a href="/page-index/horticulture-techniques/plant-spacing/">spacing of plants</a>. Planning when to sow seeds and where immediately after buying seed packets will ensure that you use them before they expire!</p>
 		<iframe width="100%" height="415" src="https://www.youtube.com/embed/FuWK90da0GY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
 	<p>Thrifty gardeners often harvest their own seeds from existing plants in their garden. As a rule of thumb, mature fruits will have viable seeds that can be dried and stored in a cool, dry place for up to 6 months for planting.</p>
 	<p>Some common plants that have easily harvestable seeds include:</p><p>
