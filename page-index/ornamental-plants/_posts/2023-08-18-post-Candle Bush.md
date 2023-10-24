@@ -24,7 +24,7 @@ image: ""
 </section> 
  
 <section> 
-  <h4>Environmental needs:</h4> 
+  <h4>Sun and soil needs:</h4> 
   <p>This plant thrives in <a href="/page-index/horticulture-techniques/gauging-light/">4-8 hours of direct sunlight</a>. This plant can also be grown in at least 6 hours of indirect sunlight, but the plant will flower less. Plants do best in <a href="/page-index/horticulture-techniques/soil/">loamy soil</a>. This plant is also highly tolerant clayey soils and can survive both <a href="/page-index/plant-problems/waterlogging/">waterlogged</a> soils and drought, making it an incredibly hardy plant that can adapt to most garden conditions.</p> 
 	<br>
 </section>
