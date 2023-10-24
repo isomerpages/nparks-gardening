@@ -18,7 +18,7 @@ image: ""
 </section> 
  
 <section> 
-  <h4>Environmental needs:</h4> 
+  <h4>Sun and soil needs:</h4> 
   <p>Fairy Washboards thrive in <a href="/page-index/horticulture-techniques/gauging-light/">4-6 hours of indirect sunlight</a>, but are vulnerable to <a href="/page-index/plant-problems/sunburn/">sunburn</a> in areas with more than 4 hours of direct sunlight. They are best planted in <a href="/page-index/horticulture-techniques/soil/">sandy soil</a> that drains well. This plant requires very little water and is vulnerable to <a href="/page-index/plant-problems/root-rot/">root rot</a>. Consider <a href="/page-index/horticulture-techniques/bottom-watering/">bottom watering</a> this plant once  every two weeks or less to reduce the chances of rot.</p> 
 	<br>
 </section>
