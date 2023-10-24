@@ -23,7 +23,7 @@ image: ""
 <section>
 	<h4>Dividing corms, tubers, and rhizomes</h4>
 	<img title="Sweet potato plants with tubers that can be separated for propagation.. Photo by Victoria Lim." src="/images/Plants/sweetpotato_tuber%20(1)_victorialim.jpg">
-	<p>Corm-, tuber- or rhizome- producing plants like <a href="/page-index/edible-plants/turmeric/">Turmeric</a>, <a href="/page-index/edible-plants/sand-ginger/">Sand Gingers</a>, <a href="/page-index/edible-plants/fingerroot/">Fingerroot</a> and <a href="/page-index/edible-plants/sweet-potato/">Sweet Potatoes</a> can be propagated by separating these root structures and burying them into well-draining soil.</p>
+	<p>Corm-, tuber- or rhizome- producing plants like <a href="/page-index/edible-plants/turmeric/">Turmeric</a>, <a href="/page-index/edible-plants/sand-ginger/">Sand Ginger</a>, <a href="/page-index/edible-plants/fingerroot/">Fingerroot</a> and <a href="/page-index/edible-plants/sweet-potato/">Sweet Potato</a> can be propagated by separating these root structures and burying them into well-draining soil.</p>
 	<br>
 </section>
 
