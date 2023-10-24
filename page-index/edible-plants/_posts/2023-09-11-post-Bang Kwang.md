@@ -24,7 +24,7 @@ image: ""
 </section>
 
 <section>
-	<h4>Environmental needs:</h4>
+	<h4>Sun and soil needs:</h4>
 	<img title="Bangkwang flowers. Photo by Jacqueline Chua." src="/images/Plants/bangkwang%20(1)_jacquelinechua.jpg">
 	<p>This vine does best in <a href="/page-index/horticulture-techniques/gauging-light/">full sun gardens with a minimum of 6 hours of sunlight</a>. It can also grow in areas with at least 6 hours of indirect sunlight, but growth may be slower.</p>
 	<p>Plants do best in <a href="/page-index/horticulture-techniques/soil/">loamy soil</a> at least 30cm deep, or in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a>.</p>
