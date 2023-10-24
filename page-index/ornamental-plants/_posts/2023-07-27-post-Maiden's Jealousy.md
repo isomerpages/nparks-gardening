@@ -23,7 +23,7 @@ image: ""
 </section> 
  
 <section> 
-  <h4>Environmental needs:</h4> 
+  <h4>Sun and soil needs:</h4> 
 	<img title="Maiden's Jealousy vines grown in a plant nursery. Photo by Victoria lim." src="/images/Plants/maidensjealousy%20(1)_victorialim.jpg">
    <p>This plant thrives in <a href="/page-index/horticulture-techniques/guaging-light/">4-8 hours of direct sunlight</a>. It can also tolerate areas with more than 6 hours of indirect sunlight, but may produce less flowers. Plants do best in <a href="/page-index/horticulture-techniques/soil/">moist, well-drained soil</a>. These plants are vulnerable to <a href="/page-index/plant-problems/root-rot/">root rot</a>, so ensure that your soil has plenty of <a href="/page-index/horticulture-techniques/soil-amendments/">organic matter</a> to let the roots breathe. This plant is a versatile climber that does well on a variety of <a href="/page-index/hardscapes/trellises/">trellises</a>.</p> 
 	<br>
