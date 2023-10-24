@@ -20,11 +20,11 @@ image: ""
 	<p>Overwatering plants is more common in the tropics, as the high humidity and regular rainfall makes it such that soil will take longer to dry out. Overwatering is also generally more fatal than underwatering plants. When in doubt, water less!</p>
 	<p>Plants prone to overwatering include:</p>
 	<ul>
-		<li><a href="/page-index/ornamental-plants/african-violet/">African Violet</a></li>
+		<li><a href="/page-index/ornamental-plants/african-violet/">African Violets</a></li>
 		<li><a href="/page-index/edible-plants/chives/">Chives</a></li>
-		<li><a href="/page-index/ornamental-plants/flame-violet/">Flame Violet</a></li>
+		<li><a href="/page-index/ornamental-plants/flame-violet/">Flame Violets</a></li>
 		<li><a href="/page-index/edible-plants/indian-borage/">Indian Borage</a></li>
-		<li><a href="/page-index/ornamental-plants/snake-plant/">Snake Plant</a></li>
+		<li><a href="/page-index/ornamental-plants/snake-plant/">Snake Plants</a></li>
 	</ul>
 	<br>
 </section>
@@ -52,7 +52,7 @@ image: ""
 	<img title="Children using a watering can with a rose attachment to water plants. Photo by NParks." src="/images/Gardeners/Kids%20(3).jpg">
 	<p>The best way to keep your plant perfectly watered is to use a well-draining <a href="/page-index/horticulture-techniques/soil/">soil mix</a> with lots of <a href="/page-index/horticulture-techniques/soil-amendments/">organic matter</a>. Organic matter will keep the soil moist, while allowing excess water to drain away, preventing waterlogging and root rot. </p>
 	<p>Soil should ideally be watered when the top 5cm feels dry. Touching the soil is the best way to gauge this, and most gardeners use a chopstick or their finger to check. If the plant is in a pot, you can also weigh it just after watering to see how heavy it is when the soil is moist and compare its weight to when its dry.</p>
-	<p>Having a regular watering schedule to keep the soil consistently moist is also key. Regularly checking your soil will help you understand how fast it dries out, and then decide if you need to adjust your watering schedule. Don’t blindly water without seeing whether the soil is dry!</p>
+	<p>Having a regular watering schedule to keep the soil consistently moist is also key. Regularly checking your soil will help you understand how fast it dries out, and then decide if you need to adjust your watering schedule. Do not blindly water without seeing whether the soil is dry!</p>
 	<img title="A Community Gardener using a hose with a fine spray to water leafy vegetables. Photo by NParks." src="/images/Gardeners/Woodlands%20zone%202%20(47).jpg">
 	<p>Most gardeners use watering cans or hoses to water their plants. It is good practice to have a watering attachment like a rose for a watering can or a nozzle for a hose to break the water into a fine spray, which is gentler on the roots and stops large chunks of soil from being washed away. Aim to get water mostly on the soil, as stray water droplets on leaves can encourage the growth of fungi and other pathogens, particularly when the weather is humid.</p>
 	<p>Plants in containers with drainage holes can also be watered via <a href="/page-index/horticulture-techniques/bottom-watering/">bottom watering</a>. This is a good way to keep the soil moist for a longer time, reducing the regularity of watering needed. However, because the containers need to be put in a basin of water, it is usually recommended only for smaller plants.</p>
