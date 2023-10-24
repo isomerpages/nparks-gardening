@@ -30,6 +30,7 @@ image: ""
 
 <section>
 	<h4>Fungi</h4>
+	<img src="/images/schizophyllum%20commune.JPG">
 	<p>Mushrooms are the fruiting bodies of fungi, and while they look delicious it is generally not recommended that you eat them. The tropics has a massive diversity of fungi, some of which can be poisonous. It is better to be safe rather than sorry and leave them be!</p>
 	<p>Fungi are important decomposers and are key to breaking down woody plant material into nutrients that can be taken up by plants. Soil, compost, and mulch that have a lot of woody material will have more mushrooms appearing and should not cause alarm. However, mushrooms appearing in pots can be concerning as they generally need moist environments to survive; a very mushroomy plant pot could be overly moist due to poor drainage, which may eventually lead to root rot for the plant.</p>
 	<br>
