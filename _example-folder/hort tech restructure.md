@@ -20,33 +20,20 @@ description: ""
 </style>
 
 <section>
+	<h4>Browse by categories:</h4>
+	<ul>
+		<li>General maintenance</li>
+		<li>Learn about soil</li>
+		<li>Pest management</li>
+		<li>Edible gardening</li>
+		<li>Planting in small spaces</li>
+		<li>Planting indoors</li>
+	</ul>
+</section>
+
+<section>
 	<div class="wrapper">
-		<div class="box">
-			<h5>Planting in small places</h5>
-			<img style="display: inline" src="/images/Horti%20techniques/ContainerPlanting_JacChua%20(7).jpg"><br>
-			<ul>
-				<li><a href="/page-index/horticulture-techniques/bottom-watering/">Bottom Watering</a></li>
-				<li><a href="/page-index/horticulture-techniques/choosing-plants/">Choosing Plants</a></li>
-				<li><a href="/page-index/horticulture-techniques/planting-in-containers/">Planting in Containers</a></li>
-				<li><a href="/page-index/horticulture-techniques/gauging-light/">Gauging Light</a></li>
-				<li><a href="/page-index/horticulture-techniques/microgreens/">Microgreens</a></li>
-			</ul>
-		</div>
-		<div class="box">
-			<h5>Planting indoors</h5>
-			<img style="display: inline" src="/images/Hardscapes/Growlight_JacChua.jpg"><br>
-			<ul>
-				<li><a href="/page-index/horticulture-techniques/bottom-watering/">Bottom Watering</a></li>
-				<li><a href="/page-index/horticulture-techniques/choosing-plants/">Choosing Plants</a></li>
-				<li><a href="/page-index/horticulture-techniques/gauging-light/">Gauging Light</a></li>
-				<li><a href="/page-index/horticulture-techniques/grow-lights/">Grow Lights</a></li>
-				<li><a href="/page-index/horticulture-techniques/planting-in-containers/">Planting in Containers</a></li>
-				<li><a href="/page-index/horticulture-techniques/gauging-light/">Gauging Light</a></li>
-				<li><a href="/page-index/horticulture-techniques/microgreens/">Microgreens</a></li>
-				<li><a href="/page-index/horticulture-techniques/soil-amendments/">Soil Amendments</a></li>
-			</ul>
-		</div>
-		<div class="box">
+		<div id="general-maintenance" class="box">
 			<h5>General maintenance</h5>
 			<img style="display: inline" src="/images/Horti%20techniques/weeding_jacquelinechua.jpg"><br>
 			<ul>
@@ -57,7 +44,16 @@ description: ""
 				<li><a href="/page-index/horticulture-techniques/weeding/">Weeding</a></li>
 			</ul>
 		</div>
-		<div class="box">
+		<div id="learn-about-soil" class="box">
+			<h5>Learn about soil</h5>
+			<img style="display: inline" src="/images/Horti%20techniques/Soil_Mixing_JacChua.jpg"><br>
+			<ul>
+				<li><a href="/page-index/horticulture-techniques/soil/">Soil</a></li>
+				<li><a href="/page-index/horticulture-techniques/soil-amendments/">Soil Amendments</a></li>
+				<li><a href="/page-index/horticulture-techniques/composting/">Composting</a></li>
+			</ul>
+		</div>
+		<div id="pest-management" class="box">
 			<h5>Pest management</h5>
 			<img style="display: inline" src="/images/Biodiversity/Mealybugs_JacChua.jpg"><br>
 			<ul>
@@ -66,7 +62,7 @@ description: ""
 				<li><a href="/page-index/horticulture-techniques/pest-control/">Pest Control</a></li>
 			</ul>
 		</div>
-		<div class="box">
+		<div id="edible-gardening" class="box">
 			<h5>Edible gardening</h5>
 			<img style="display: inline" src="/images/Horti%20techniques/Spacing_JacChua%20(6).jpg"><br>
 			<ul>
@@ -82,13 +78,29 @@ description: ""
 				<li><a href="/page-index/horticulture-techniques/crop-rotation/">Crop Rotation</a></li>
 			</ul>
 		</div>
-		<div class="box">
-			<h5>Learn about soil</h5>
-			<img style="display: inline" src="/images/Horti%20techniques/Soil_Mixing_JacChua.jpg"><br>
+		<div id="planting-in-small-spaces" class="box">
+			<h5>Planting in small places</h5>
+			<img style="display: inline" src="/images/Horti%20techniques/ContainerPlanting_JacChua%20(7).jpg"><br>
 			<ul>
-				<li><a href="/page-index/horticulture-techniques/soil/">Soil</a></li>
+				<li><a href="/page-index/horticulture-techniques/bottom-watering/">Bottom Watering</a></li>
+				<li><a href="/page-index/horticulture-techniques/choosing-plants/">Choosing Plants</a></li>
+				<li><a href="/page-index/horticulture-techniques/planting-in-containers/">Planting in Containers</a></li>
+				<li><a href="/page-index/horticulture-techniques/gauging-light/">Gauging Light</a></li>
+				<li><a href="/page-index/horticulture-techniques/microgreens/">Microgreens</a></li>
+			</ul>
+		</div>
+		<div id="planting-indoors" class="box">
+			<h5>Planting indoors</h5>
+			<img style="display: inline" src="/images/Hardscapes/Growlight_JacChua.jpg"><br>
+			<ul>
+				<li><a href="/page-index/horticulture-techniques/bottom-watering/">Bottom Watering</a></li>
+				<li><a href="/page-index/horticulture-techniques/choosing-plants/">Choosing Plants</a></li>
+				<li><a href="/page-index/horticulture-techniques/gauging-light/">Gauging Light</a></li>
+				<li><a href="/page-index/horticulture-techniques/grow-lights/">Grow Lights</a></li>
+				<li><a href="/page-index/horticulture-techniques/planting-in-containers/">Planting in Containers</a></li>
+				<li><a href="/page-index/horticulture-techniques/gauging-light/">Gauging Light</a></li>
+				<li><a href="/page-index/horticulture-techniques/microgreens/">Microgreens</a></li>
 				<li><a href="/page-index/horticulture-techniques/soil-amendments/">Soil Amendments</a></li>
-				<li><a href="/page-index/horticulture-techniques/composting/">Composting</a></li>
 			</ul>
 		</div>
 	</div>
