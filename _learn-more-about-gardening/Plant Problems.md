@@ -1,7 +1,7 @@
 ---
 title: Plant Problems
 permalink: /learn-more-about-gardening/plant-problems/
-description: "Learn more about pests and other plant problems here. "
+description: Learn more about pests and other plant problems here.
 image: /images/Plant problems/NitrogenDeficient_JacChua (3).jpg
 ---
 <style>
