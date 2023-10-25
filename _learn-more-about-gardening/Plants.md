@@ -30,25 +30,39 @@ description: ""
 	}
 </style>
 
-<div class="wrapper">
-  <a class="button" href="/page-index/glossary/edible-plants/"><div class="box">
-		<h4>Edible Plants</h4>
-	  <img style="height:275px; width:275px" src="/images/Graphics/edibleplant_6oct.png"><br>
-	</div></a>
-	<a class="button" href="/page-index/glossary/ornamental-plants/"><div class="box">
-		<h4>Ornamental Plants</h4>
-	  <img style="height:275px; width:275px" src="/images/Graphics/ornamentalplant_6oct.png"><br>
-	</div></a>
-	<a class="button" href="/page-index/glossary/native-plants/"><div class="box">
-		<h4>Native Plants</h4>
-	  <img style="height:275px; width:275px" src="/images/Graphics/nativeplant_6oct.png"><br>
-	</div></a>
-	<a class="button" href="/page-index/glossary/biodiversity-attracting-plants/"><div class="box">
-		<h4>Biodiversity Attracting Plants</h4>
-	  <img style="height:275px; width:275px" src="/images/Graphics/biodivplant_6oct.png"><br>
-	</div></a>
-</div>
+<section>
+	<h3>Plants by categories</h3><br>
+	<div class="wrapper">
+		<a class="button" href="/page-index/glossary/edible-plants/"><div class="box">
+			<h4>Edible Plants</h4>
+			<img style="height:275px; width:275px" src="/images/Graphics/edibleplant_6oct.png"><br>
+		</div></a>
+		<a class="button" href="/page-index/glossary/ornamental-plants/"><div class="box">
+			<h4>Ornamental Plants</h4>
+			<img style="height:275px; width:275px" src="/images/Graphics/ornamentalplant_6oct.png"><br>
+		</div></a>
+		<a class="button" href="/page-index/glossary/native-plants/"><div class="box">
+			<h4>Native Plants</h4>
+			<img style="height:275px; width:275px" src="/images/Graphics/nativeplant_6oct.png"><br>
+		</div></a>
+		<a class="button" href="/page-index/glossary/biodiversity-attracting-plants/"><div class="box">
+			<h4>Biodiversity Attracting Plants</h4>
+			<img style="height:275px; width:275px" src="/images/Graphics/biodivplant_6oct.png"><br>
+		</div></a>
+	</div>
+	<br>
+</section>
 
-<p>If you are not sure what plants are suitable for your garden space, you may use our <a href="/digital-tools/plant-search/">Plant Suggester</a> here.</p>
-
-<p>Still can't find the plants that you are looking for? Visit <a href="https://www.nparks.gov.sg/florafaunaweb">NPark's Flora and Fauna Web</a> here!</p>
+<section>
+	<h3>Still not sure what plants are suitable for your garden space?</h3>
+	<div class="wrapper">
+		<a class="button" href="/digital-tools/plant-search/"><div class="box">
+			<h4>Plant Suggester</h4>
+			<img style="height:275px; width:275px" src="/images/Digital%20Tools/plantsearchicon_square.png">
+		</div></a>
+		<a class="button" href="https://www.nparks.gov.sg/florafaunaweb"><div class="box">
+			<h4>NParks' Flora and Fauna Web</h4>
+			<img style="height:275px; width:275px" src="/images/flora%20and%20fauna%20web%20screenshot.jpg"><br>
+		</div></a>
+	</div>
+</section>
