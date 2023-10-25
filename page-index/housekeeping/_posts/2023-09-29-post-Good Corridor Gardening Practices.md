@@ -61,10 +61,10 @@ image: ""
 				<li><a href="/page-index/edible-plants/turmeric">Turmeric</a> (<em>Curcuma longa</em>)</li>
 				<li><a href="/page-index/edible-plants/fingerroot">Fingerroot</a> (<em>Boesenbergia rotunda</em>)</li>
 				<li><a href="/page-index/edible-plants/sissoo-spinach">Sissoo Spinach</a> (<em>Alternanthera sissoo</em>)</li>
-				<li><a href="/page-index/edible-plants/wild-pepper">Wild pepper</a> (<em>Piper sarmentosum</em>)</li>
-				<li><a href="/page-index/edible-plants/sand-ginger">Sand ginger</a> (<em>Kaempferia galanga</em>)</li>
-				<li><a href="/page-index/edible-plants/okinawan-spinach">Okinawan spinach</a> (<em>Gynura bicolor</em>)</li>
-				<li><a href="/page-index/edible-plants/longevity-spinach">	Longevity spinach</a> (<em>Gynura procumbens</em>)</li>
+				<li><a href="/page-index/edible-plants/wild-pepper">Wild Pepper</a> (<em>Piper sarmentosum</em>)</li>
+				<li><a href="/page-index/edible-plants/sand-ginger">Sand Ginger</a> (<em>Kaempferia galanga</em>)</li>
+				<li><a href="/page-index/edible-plants/okinawan-spinach">Okinawan Spinach</a> (<em>Gynura bicolor</em>)</li>
+				<li><a href="/page-index/edible-plants/longevity-spinach">	Longevity Spinach</a> (<em>Gynura procumbens</em>)</li>
 			</ul>
 		</div>
 	</li></ul>
