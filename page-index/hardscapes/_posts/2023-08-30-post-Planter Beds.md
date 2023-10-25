@@ -14,31 +14,55 @@ image: ""
 
 <section>
 	<h4>Planter bed materials</h4>
-	<p>Like containers, planter beds can be made from a variety of long-lasting waterproof materials. Some examples are:
+	<p>Like <a href="/page-index/horticulture-techniques/planting-in-containers/">containers</a>, planter beds can be made from a variety of long-lasting waterproof materials. Some examples are:
+		</p><ul class="jekyllcodex_accordion">
+	<li><input type="checkbox" id="accordion1">
+		<label for="accordion1">Plastic</label><div>
 	<img title="A plastic planter bed made from a PEG tray on a rooftop garden. Photo by Jacqueline Chua." src="/images/Garden%20design/BishanEastZone6_JacChua%20(2).jpg">
-	</p><p><b>Plastic</b>, which is flexible and light. They generally last between 1-10 years, but prolonged exposure to the sun can make the brittle. Most plastic planters can be bought at plant nurseries and garden shops. Many rooftop gardens use planter beds made of PEG trays, which are modular and easy to install.</p> 
+	<p></p><p><b>Plastic</b>, which is flexible and light. They generally last between 1-10 years, but prolonged exposure to the sun can make the brittle. Most plastic planters can be bought at plant nurseries and garden shops. Many rooftop gardens use planter beds made of PEG trays, which are modular and easy to install.</p> 
+		</div></li>
+	<li><input type="checkbox" id="accordion2">
+		<label for="accordion2">Metal</label><div>
 	<img title="A metal planter bed growing edible plants. Photo by Jacqueline Chua." src="/images/Hardscapes/PlanterBed%20(25).jpg">
 	<p><b>Metal</b>, which is heavy and resilient. They last between 3-10years, but may be prone to rust if they are not coated with paint or glaze. They also tend to heat up when exposed to a lot of sunlight, which can cause plants to burn. Metal is also prone to bending outwards if the soil used is very heavy.</p> 
+	</div></li>
+	<li><input type="checkbox" id="accordion3">
+		<label for="accordion3">Wood</label><div>
 	<img title="A wooden planter bed growing Ceylon Spinach. Photo by Jacqueline Chua." src="/images/Hardscapes/PlanterBed%20(23).jpg">
 	<p><b>Wood</b>, which can be heavy or light, but is also biodegradable and lasts between 3-5 years in the tropics, even when coated with resin and other waterproofing materials. Wooden planter beds are commonly upcycled from old bed frames, plywood and palette wood, and can give your garden a rustic look. </p>
+	</div></li>
+	<li><input type="checkbox" id="accordion4">
+		<label for="accordion4">Concrete or brick</label><div>
 	<img title="A concrete planter bed cast in the shape of a boat. Photo by Jacqueline Chua." src="/images/Hardscapes/PlanterBed%20(13).jpg">
 	<p><b>Concrete or brick</b>, which can last for decades if built well. These planter beds may need annual scrubbing and painting as algae does tend to grow on the surface during the wet season. Concrete planter beds can also be cast into interesting shapes and painted to provide visual interest in a garden.</p> 
+	</div></li>
+	</ul>
 	<br>
 </section>
 
 <section>
 	<h4>Planter bed sizes</h4>
-	<p>The size of your planter bed will determine what and how much you can grow in it, along with who can access it. All planter beds should be no wider than 2m to make sure that all sides of the bed are accessible.</p>
-	<p>Here are some guidelines for various planter bed heights:</p>
 	<img title="Planter bed dimensions. Graphic by NParks." src="/images/planterbed%20sizes.png"> 
+	<p>The size of your planter bed will determine what and how much you can grow in it, along with who can access it. All planter beds should be no wider than 2m to make sure that all sides of the bed are accessible. As a rule of thumb, planter beds higher 900mm or higher will need gardeners to stand next to it, planter beds 04m-0.7m tall are accessible for seated gardeners, and anything below 0.4m will need gardeners to squat. Determining who will use your garden and what you want to plant before you design your garden will help you decide on what planter beds are appropriate </p>
+	<ul class="jekyllcodex_accordion">
+	<li><input type="checkbox" id="accordion5">
+		<label for="accordion5">Taller planter beds (900mm or higher)</label><div>
 	<img title="Gardeners planting up a tall planter bed while standing. Photo by Jacqueline Chua." src="/images/Gardeners/Planting%20(5).jpg">
 	<p>Taller and deeper planter beds can grow larger plants and are more accessible to the elderly, but are generally more expensive to fill and build.</p>
-	<img title="Children tending to a low planter bed while squatting. Photo by NParks." src="/images/Gardeners/Kids%20(5).jpg">
-	<p>Smaller planter beds can be used to grow smaller plants and are cheaper, but may need gardeners to squat or bend down. Determining who will use your garden and what you want to plant before you design your garden will help you decide on what planter beds are appropriate.</p> 
-	<img title="Shallow planter beds raised on legs to make them more accessible. Photo by Jacqueline Chua." src="/images/Hardscapes/TablePlanterBed_JacChua%20(4).jpg"> 
+			<img title="Shallow planter beds raised on legs to make them more accessible. Photo by Jacqueline Chua." src="/images/Hardscapes/TablePlanterBed_JacChua%20(4).jpg"> 
 	<p>Shallow planter beds can also be raised on legs to gain the height needed for accessibility while reducing the amount of material needed to fill the bed itself. These legs can be bolted to the ground for stability or have wheels for flexibility in planter beds placement. Planter beds on legs are also more comfortable for wheelchair users as they can put their legs under the planter bed itself.</p> 
-	<img title="Planter bed heights for wheelchairs. Graphic by NParks." src="/images/screenshot%202023-10-24%20164820.png">
-	<p>Planter beds can also be specially designed for wheelchair users, whether for general gardening, horticultural therapy or for ease of viewing. To make the beds accessible for wheelchair users to garden, the height of the bed must enable the wheelchair users to reach across to access the plants.</p> 
+			</div></li>
+	<li><input type="checkbox" id="accordion6">
+		<label for="accordion6">Wheelchair-accessible planter beds (0.4m-0.7m)</label><div>
+			<img title="Planter bed heights for wheelchairs. Graphic by NParks." src="/images/screenshot%202023-10-24%20164820.png">
+	<p>Planter beds can also be specially designed for wheelchair users, whether for general gardening, horticultural therapy or for ease of viewing. To make the beds accessible for wheelchair users to garden, the height of the bed must enable the wheelchair users to reach across to access the plants.</p>
+					</div></li>
+	<li><input type="checkbox" id="accordion7">
+		<label for="accordion7">Low planter beds (Less than 0.4m)</label><div>
+	<img title="Children tending to a low planter bed while squatting. Photo by NParks." src="/images/Gardeners/Kids%20(5).jpg">
+	<p>Low planter beds can have their bottom in contact with <a href="/page-index/horticulture-techniques/true-ground/">true ground</a>, which can increase the size of the plants you can grow. If the bottom is not true ground, the size of the plants that can be grown are a lot smaller, but the bed itself will be cheaper to fill. These beds will need gardeners to squat or bend down, but are particularly accessible for children.</p>  
+	</div></li>
+	</ul>
 	<br>
 </section>
 
