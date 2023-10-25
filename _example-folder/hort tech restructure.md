@@ -32,7 +32,7 @@ description: ""
 				<li><a href="/page-index/horticulture-techniques/gauging-light/">Gauging Light</a></li>
 				<li><a href="/page-index/horticulture-techniques/microgreens/">Microgreens</a></li>
 				<li><a href="/page-index/horticulture-techniques/soil/">Soil</a></li>
-				<li><a href="/page-index/horticulture-techniques/soil-amendments/">soil-amendments</a></li>
+				<li><a href="/page-index/horticulture-techniques/soil-amendments/">Soil Amendments</a></li>
 			</ul>
 		</div>
 		<div class="box">
