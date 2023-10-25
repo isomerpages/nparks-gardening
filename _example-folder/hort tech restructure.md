@@ -70,7 +70,11 @@ description: ""
 			<h5>Edible gardening</h5>
 			<img style="display: inline" src="/images/Horti%20techniques/Spacing_JacChua%20(6).jpg"><br>
 			<ul>
-				<li></li>
+				<li><a href="/page-index/horticulture-techniques/choosing-plants/">Choosing Plants</a></li>
+				<li><a href="/page-index/horticulture-techniques/cloches/">Cloche</a></li>
+				<li><a href="/page-index/horticulture-techniques/companion-planting/">Companion Planting</a></li>
+				<li><a href="/page-index/horticulture-techniques/composting/">Composting</a></li>
+				<li><a href="/page-index/horticulture-techniques/cut-and-come-again/">Cut and Come Again Harvesting</a></li>
 			</ul>
 		</div>
 		<div class="box">
