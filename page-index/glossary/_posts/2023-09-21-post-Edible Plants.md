@@ -216,7 +216,7 @@ image: ""
 <section>
 <h4 id="s">S</h4>
 	<a class="body" href="/page-index/edible-plants/sand-ginger/">Sand Ginger</a><br>
-<a class="body" href="/page-index/edible-plants/sawtooth-corriander/">Sawtooth Corriander</a><br>
+<a class="body" href="/page-index/edible-plants/sawtooth-coriander/">Sawtooth Coriander</a><br>
 <a class="body" href="/page-index/ornamental-plants/scarlet-spiral-flag/">Scarlet Spiral Flag</a><br>
 <a class="body" href="/page-index/edible-plants/sissoo-spinach/">Sissoo Spinach</a><br>
 <a class="body" href="/page-index/edible-plants/smooth-loofah/">Smooth Loofah</a><br>
