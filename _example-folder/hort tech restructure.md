@@ -22,7 +22,7 @@ description: ""
 <section>
 	<h4>Browse by categories:</h4>
 	<ul>
-		<li>General maintenance</li>
+		<li><a href="/example-folder/hort-tech-restructure/#general-maintenance">General maintenance</a></li>
 		<li>Learn about soil</li>
 		<li>Pest management</li>
 		<li>Edible gardening</li>
