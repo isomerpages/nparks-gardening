@@ -63,7 +63,7 @@ description: ""
 		</div></a>
 		<a class="button" href="https://www.nparks.gov.sg/florafaunaweb"><div class="box">
 			<h4>NParks' Flora and Fauna Web</h4>
-			<img style="height:275px; width:275px" src="/images/florafaunaweb.jpg">
+			<img style="width:275px" src="/images/annotation%202023-10-25%20164043.jpg">
 			<p align="left">Browse the database for plants and animals found in Singapore online!</p>
 		</div></a>
 	</div>
