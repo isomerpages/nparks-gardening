@@ -25,7 +25,14 @@ description: ""
 			<h5>Planting in small places</h5>
 			<img style="display: inline" src="/images/Horti%20techniques/ContainerPlanting_JacChua%20(7).jpg"><br>
 			<ul>
-				<li></li>
+				<li><a href="/page-index/horticulture-techniques/bottom-watering/">Bottom Watering</a></li>
+				<li><a href="/page-index/horticulture-techniques/choosing-plants/">Choosing Plants</a></li>
+				<li><a href="/page-index/horticulture-techniques/planting-in-containers/">Planting in Containers</a></li>
+				<li><a href="/page-index/horticulture-techniques/fertilising/">Fertilising</a></li>
+				<li><a href="/page-index/horticulture-techniques/gauging-light/">Gauging Light</a></li>
+				<li><a href="/page-index/horticulture-techniques/microgreens/">Microgreens</a></li>
+				<li><a href="/page-index/horticulture-techniques/soil/">Soil</a></li>
+				<li><a href="/page-index/horticulture-techniques/soil-amendments/">soil-amendments</a></li>
 			</ul>
 		</div>
 		<div class="box">
