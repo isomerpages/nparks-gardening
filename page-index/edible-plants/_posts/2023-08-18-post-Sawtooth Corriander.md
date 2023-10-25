@@ -7,7 +7,7 @@ description: ""
 image: ""
 ---
 <header>
-	<h3>Sawtooth Corriander (<em>Eryngium foetidum</em>)</h3>
+	<h3>Sawtooth Coriander (<em>Eryngium foetidum</em>)</h3>
 </header>
 	
 <section>
