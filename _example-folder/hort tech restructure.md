@@ -30,7 +30,7 @@ description: ""
 		</div>
 		<div class="box">
 			<h5>Planting indoors</h5>
-			<img style="display: inline" src="/images/Biodiversity/limecaterpillar_jacchua_3.jpg"><br>
+			<img style="display: inline" src="/images/Hardscapes/Growlight_JacChua.jpg"><br>
 			<ul>
 				<li></li>
 			</ul>
