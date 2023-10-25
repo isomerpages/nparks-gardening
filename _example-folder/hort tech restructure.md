@@ -51,7 +51,7 @@ description: ""
 		</div>
 		<div class="box">
 			<h5>Edible gardening</h5>
-			<img style="display: inline" src="/images/Biodiversity/squirrel%20at%20hortpark%20(4)victorialim.jpg"><br>
+			<img style="display: inline" src="/images/Horti%20techniques/Spacing_JacChua%20(6).jpg"><br>
 			<ul>
 				<li></li>
 			</ul>
