@@ -44,21 +44,21 @@ description: ""
 		</div>
 		<div class="box">
 			<h5>Pest management</h5>
-			<img style="display: inline" src="/images/Biodiversity/Mealybugs_JacChua.jpg"><br>
+			<img style="display: inline" src="/images/Biodiversity/squirrel%20at%20hortpark%20(4)victorialim.jpg"><br>
 			<ul>
 				<li></li>
 			</ul>
 		</div>
 		<div class="box">
 			<h5>Edible gardening</h5>
-			<img style="display: inline" src="/images/Horti%20techniques/ContainerPlanting_JacChua%20(2).jpg"><br>
+			<img style="display: inline" src="/images/Biodiversity/squirrel%20at%20hortpark%20(4)victorialim.jpg"><br>
 			<ul>
 				<li></li>
 			</ul>
 		</div>
 		<div class="box">
 			<h5>Soil</h5>
-			<img style="display: inline" src="/images/Biodiversity/squirrel%20at%20hortpark%20(4)victorialim.jpg"><br>
+			<img style="display: inline" src="/images/Horti%20techniques/Soil_Mixing_JacChua.jpg"><br>
 			<ul>
 				<li></li>
 			</ul>
