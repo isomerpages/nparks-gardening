@@ -23,7 +23,7 @@ description: ""
 	<div class="wrapper">
 		<div class="box">
 			<h5>Planting in small places</h5>
-			<img style="display: inline" src="/images/Biodiversity/aphids%20(2)_plantscienceandhealth_nparks.jpg"><br>
+			<img style="display: inline" src="/images/Horti%20techniques/ContainerPlanting_JacChua%20(7).jpg"><br>
 			<ul>
 				<li></li>
 			</ul>
