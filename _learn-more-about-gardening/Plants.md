@@ -16,45 +16,37 @@ description: ""
 		border: solid 1px #215732 ;
 		border-radius: 5px;
 		padding: 5px 10px 15px 10px;
-		justify-self: stretch;
+		text-align:center;
 	}
 	
-	.button-primary {
-    background-color: #215732;
-    border: 2px solid #215732;
-    padding: 10px;
-  	border-radius: 10px;
-    color: white !important;
-	  text-decoration: none !important;
-  }
+	a:link.button, a:visited.button {
+		text-decoration:none;
+		color:#215732
+	}
+	
+	a:hover.button {
+		border: solid 5px;
+		border-radius: 10px;
+	}
 </style>
 
 <div class="wrapper">
-  <div class="box">
+  <a class="button" href="/page-index/glossary/edible-plants/"><div class="box">
 		<h4>Edible Plants</h4>
-	     <img style="height:275px; width:275px; display: inline" src="/images/Graphics/edibleplant_6oct.png"><br>
-				<br>
-		<a class="button-primary" href="/page-index/glossary/edible-plants/">Explore now!</a>
-	</div>
-	<div class="box">
+	  <img style="height:275px; width:275px" src="/images/Graphics/edibleplant_6oct.png"><br>
+	</div></a>
+	<a class="button" href="/page-index/glossary/ornamental-plants/"><div class="box">
 		<h4>Ornamental Plants</h4>
-	     <img style="height:275px; width:275px; display: inline" src="/images/Graphics/ornamentalplant_6oct.png"><br>
-			<br>
-			<a class="button-primary" href="/page-index/glossary/ornamental-plants/">Explore now!</a><br>
-	</div>
-	<div class="box">
+	  <img style="height:275px; width:275px" src="/images/Graphics/ornamentalplant_6oct.png"><br>
+	</div></a>
+	<a class="button" href="/page-index/glossary/native-plants/"><div class="box">
 		<h4>Native Plants</h4>
-	     <img style="height:275px; width:275px; display: inline" src="/images/Graphics/nativeplant_6oct.png"><br>
-			<br>
-			<a class="button-primary" href="/page-index/glossary/native-plants/">Explore now!</a><br>
-	</div>
-	<div class="box">
+	  <img style="height:275px; width:275px" src="/images/Graphics/nativeplant_6oct.png"><br>
+	</div></a>
+	<a class="button" href="/page-index/glossary/biodiversity-attracting-plants/"><div class="box">
 		<h4>Biodiversity Attracting Plants</h4>
-	     <img style="height:275px; width:275px; display: inline" src="/images/Graphics/biodivplant_6oct.png"><br>
-			<br>
-			<a class="button-primary" href="/page-index/glossary/biodiversity-attracting-plants/">Explore now!</a><br>
-	</div>
-	<br>
+	  <img style="height:275px; width:275px" src="/images/Graphics/biodivplant_6oct.png"><br>
+	</div></a>
 </div>
 
 <p>If you are not sure what plants are suitable for your garden space, you may use our <a href="/digital-tools/plant-search/">Plant Suggester</a> here.</p>
