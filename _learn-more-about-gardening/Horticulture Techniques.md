@@ -75,8 +75,8 @@ image: /images/Gardeners/Kim tian_processed-24.jpg
 				<li><a href="/page-index/horticulture-techniques/cut-and-come-again/">Cut and Come Again Harvesting</a></li>
 				<li><a href="/page-index/horticulture-techniques/harvesting-hygiene/">Growing Edibles for Consumption</a></li>
 				<li><a href="/page-index/horticulture-techniques/microgreens/">Microgreens</a></li>
-				<li><a href="/page-index/horticulture-techniques/true-ground/">Planting in True Ground</a></li>
 				<li><a href="/page-index/horticulture-techniques/planting-in-containers/">Planting in Containers</a></li>
+				<li><a href="/page-index/horticulture-techniques/true-ground/">Planting in True Ground</a></li>
 				<li><a href="/page-index/horticulture-techniques/plant-spacing/">Plant Spacing</a></li>
 			</ul>
 		</div>
