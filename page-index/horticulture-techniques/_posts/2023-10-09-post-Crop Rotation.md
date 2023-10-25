@@ -71,7 +71,7 @@ image: /images/Garden design/BukitPanjangZone8_JacChua.jpg
 			<ul>
 				<li><a href="/page-index/edible-plants/chives/">Chives</a> (<em>Allium tuberosum</em>)</li>
 				<li><a href="/page-index/edible-plants/laksa/">Laksa</a> (<em>Persicaria ordorata</em>)</li>
-				<li><a href="/page-index/edible-plants/sawtooth-corriander/">Sawtooth Coriander</a> (<em>Eryngium foetidum</em>)</li>
+				<li><a href="/page-index/edible-plants/sawtooth-coriander/">Sawtooth Coriander</a> (<em>Eryngium foetidum</em>)</li>
 				<li><a href="/page-index/edible-plants/spearmint/">Spearmint</a> (<em>Mentha spicata</em>)</li>
 				<li><a href="/page-index/edible-plants/thai-basil/">Thai Basil</a> (<em>Ocimum basilicum</em>)</li>
 			</ul>
