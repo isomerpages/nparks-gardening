@@ -42,13 +42,13 @@ image: ""
 				<li><a href="/page-index/edible-plants/bayam">Bayam</a> (<em>Amaranthus tricolor</em>)</li>
 				<li><a href="/page-index/edible-plants/kang-kong">Kang kong</a> (<em>Ipomoea aquatica</em>)</li>
 				<li><a href="/page-index/edible-plants/lettuce">Lettuce</a> (<em>Lactuca sativa</em>)</li>
-				<li><a href="/page-index/edible-plants/cai-xin">Cai Xin</a>(<em>Brassica&nbsp;rapa</em>&nbsp;Caisin Group)</li>
-				<li><a href="/page-index/edible-plants/kai-lan">Kai Lan</a>(<em>Brassica oleracea</em> Alboglabra Group)</li>
-				<li><a href="/page-index/edible-plants/xiao-bai-cai">Xiao Bai Cai</a>(<em>Brassica rapa</em> Pak Choi Group)</li>
-				<li><a href="/page-index/edible-plants/chinese-mustard">Chinese Mustard</a>(<em>Brassica juncea</em> Broad-leaf Mustard)</li>
-				<li><a href="/page-index/edible-plants/chilli">Chilli</a>(<em>Capsicum annuum</em>)</li>
-				<li><a href="/page-index/edible-plants/chives">Chives</a>(<em>Allium tuberosum</em>)</li>
-				<li><a href="/page-index/edible-plants/thai-basil">Thai Basil</a>(<em>Ocimum basilicum</em>)</li>
+				<li><a href="/page-index/edible-plants/cai-xin">Cai Xin</a> (<em>Brassica rapa</em> Caisin Group)</li>
+				<li><a href="/page-index/edible-plants/kai-lan">Kai Lan</a> (<em>Brassica oleracea</em> Alboglabra Group)</li>
+				<li><a href="/page-index/edible-plants/xiao-bai-cai">Xiao Bai Cai</a> (<em>Brassica rapa</em> Pak Choi Group)</li>
+				<li><a href="/page-index/edible-plants/chinese-mustard">Chinese Mustard</a> (<em>Brassica juncea</em> Broad-leaf Mustard)</li>
+				<li><a href="/page-index/edible-plants/chilli">Chilli</a> (<em>Capsicum annuum</em>)</li>
+				<li><a href="/page-index/edible-plants/chives">Chives</a> (<em>Allium tuberosum</em>)</li>
+				<li><a href="/page-index/edible-plants/thai-basil">Thai Basil</a> (<em>Ocimum basilicum</em>)</li>
 			</ul>
 		</div></li>
 		<input type="checkbox" id="accordion2">
