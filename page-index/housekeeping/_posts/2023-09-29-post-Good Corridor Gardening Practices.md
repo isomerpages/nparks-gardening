@@ -38,35 +38,35 @@ image: ""
 		<li><input type="checkbox" id="accordion1">
 		<label for="accordion1">For 4-8 hours of direct sunlight</label><div>
 			<ul>
-				<li><a href="/page-index/edible-plants/bayam">Bayam</a></li>
-				<li><a href="/page-index/edible-plants/kang-kong">Kang kong</a></li>
-				<li><a href="/page-index/edible-plants/lettuce">Lettuce</a></li>
-				<li><a href="/page-index/edible-plants/cai-xin">Cai Xin</a></li>
-				<li><a href="/page-index/edible-plants/kai-lan">Kai Lan</a></li>
-				<li><a href="/page-index/edible-plants/xiao-bai-cai">Xiao Bai Cai</a></li>
-				<li><a href="/page-index/edible-plants/chinese-mustard">Chinese Mustard</a></li>
-				<li><a href="/page-index/edible-plants/chilli">Chilli</a></li>
-				<li><a href="/page-index/edible-plants/chives">Chives</a></li>
-				<li><a href="/page-index/edible-plants/thai-basil">Thai Basil</a></li>
-			</ul>
-		</div></li>
+				<li><a href="/page-index/edible-plants/bayam">Bayam</a> (<em>Amaranthus tricolor</em>)</li>
+				<li><a href="/page-index/edible-plants/kang-kong">Kang kong</a> (<em>Ipomoea aquatica</em>)</li>
+				<li><a href="/page-index/edible-plants/lettuce">Lettuce</a> (<em>)</em></li><em>
+				<li><a href="/page-index/edible-plants/cai-xin">Cai Xin</a>(<em>)</em></li><em>
+				<li><a href="/page-index/edible-plants/kai-lan">Kai Lan</a>(<em>)</em></li><em>
+				<li><a href="/page-index/edible-plants/xiao-bai-cai">Xiao Bai Cai</a>(<em>)</em></li><em>
+				<li><a href="/page-index/edible-plants/chinese-mustard">Chinese Mustard</a>(<em>)</em></li><em>
+				<li><a href="/page-index/edible-plants/chilli">Chilli</a>(<em>)</em></li><em>
+				<li><a href="/page-index/edible-plants/chives">Chives</a>(<em>)</em></li><em>
+				<li><a href="/page-index/edible-plants/thai-basil">Thai Basil</a>(<em>)</em></li><em>
+			</em></em></em></em></em></em></em></em></ul><em><em><em>
+		</em></em></em></div></li><em><em><em>
 		<li><input type="checkbox" id="accordion2">
 		<label for="accordion2">For 4 hours of direct sunlight or 4-8 hours of indirect sunlight</label><div>
 			<ul>
-				<li><a href="/page-index/edible-plants/english-mint">English Mint</a></li>
-				<li><a href="/page-index/edible-plants/indian-borage">Indian Borage</a></li>
-				<li><a href="/page-index/edible-plants/sawtooth-coriander">Sawtooth Coriander</a></li>
-				<li><a href="/page-index/edible-plants/thai-basil">Thai Basil</a></li>
-				<li><a href="/page-index/edible-plants/turmeric">Turmeric</a></li>
-				<li><a href="/page-index/edible-plants/fingerroot">Fingerroot</a></li>
-				<li><a href="/page-index/edible-plants/sissoo-spinach">Sissoo Spinach</a></li>
-				<li><a href="/page-index/edible-plants/wild-pepper">Wild pepper</a></li>
-				<li><a href="/page-index/edible-plants/sand-ginger">Sand ginger</a></li>
-				<li><a href="/page-index/edible-plants/okinawan-spinach">Okinawan spinach</a></li>
-				<li><a href="/page-index/edible-plants/longevity-spinach">	Longevity spinach</a></li>
-			</ul>
-		</div></li>
-	</ul>
+				<li><a href="/page-index/edible-plants/english-mint">English Mint</a>(<em>)</em></li><em>
+				<li><a href="/page-index/edible-plants/indian-borage">Indian Borage</a>(<em>)</em></li><em>
+				<li><a href="/page-index/edible-plants/sawtooth-coriander">Sawtooth Coriander</a>(<em>)</em></li><em>
+				<li><a href="/page-index/edible-plants/thai-basil">Thai Basil</a>(<em>)</em></li><em>
+				<li><a href="/page-index/edible-plants/turmeric">Turmeric</a>(<em>)</em></li><em>
+				<li><a href="/page-index/edible-plants/fingerroot">Fingerroot</a>(<em>)</em></li><em>
+				<li><a href="/page-index/edible-plants/sissoo-spinach">Sissoo Spinach</a>(<em>)</em></li><em>
+				<li><a href="/page-index/edible-plants/wild-pepper">Wild pepper</a>(<em>)</em></li><em>
+				<li><a href="/page-index/edible-plants/sand-ginger">Sand ginger</a>(<em>)</em></li><em>
+				<li><a href="/page-index/edible-plants/okinawan-spinach">Okinawan spinach</a>(<em>)</em></li><em>
+				<li><a href="/page-index/edible-plants/longevity-spinach">	Longevity spinach</a>(<em>)</em></li><em>
+			</em></em></em></em></em></em></em></em></em></em></em></ul><em><em><em>
+		</em></em></em></div></li><em><em><em>
+	</em></em></em></em></em></em></ul><em><em><em>
 	<br>
 	<p>Here are some ornamental plants to grow along your corridor</p>
 	<ul class="jekyllcodex_accordion">
@@ -97,4 +97,4 @@ image: ""
 		</div></li>
 	</ul>
 		<p>Download our <a download="" href="/files/introduction%20to%20indoor%20gardening.pdf">indoor gardening guide</a> for more information. </p>
-</section>
+</em></em></em></section>
