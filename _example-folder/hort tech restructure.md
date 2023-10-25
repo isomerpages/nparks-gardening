@@ -23,11 +23,11 @@ description: ""
 	<h4>Browse by categories:</h4>
 	<ul>
 		<li><a href="/example-folder/hort-tech-restructure/#general-maintenance">General maintenance</a></li>
-		<li>Learn about soil</li>
-		<li>Pest management</li>
-		<li>Edible gardening</li>
-		<li>Planting in small spaces</li>
-		<li>Planting indoors</li>
+		<li><a href="/example-folder/hort-tech-restructure/#learn-about-soil">Learn about soil</a></li>
+		<li><a href="/example-folder/hort-tech-restructure/#pest-management">Pest management</a></li>
+		<li><a href="/example-folder/hort-tech-restructure/#edible-gardening">Edible gardening</a></li>
+		<li><a href="/example-folder/hort-tech-restructure/#planting-in-small-spaces">Planting in small spaces</a></li>
+		<li><a href="/example-folder/hort-tech-restructure/#planting-indoors">Planting indoors</a></li>
 	</ul>
 </section>
 
