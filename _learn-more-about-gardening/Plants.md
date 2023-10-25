@@ -58,11 +58,13 @@ description: ""
 	<div class="wrapper">
 		<a class="button" href="/digital-tools/plant-search/"><div class="box">
 			<h4>Plant Suggester</h4>
-			<img style="height:275px; width:275px" src="/images/Digital%20Tools/plantsearchicon_square.png">
+			<img style="height:275px; width:275px" src="/images/Digital%20Tools/plantsearchicon_square.png"><br>
+			Find a plant to grow based on your garden conditions!
 		</div></a>
 		<a class="button" href="https://www.nparks.gov.sg/florafaunaweb"><div class="box">
 			<h4>NParks' Flora and Fauna Web</h4>
 			<img style="height:275px; width:275px" src="/images/flora%20and%20fauna%20web%20screenshot.jpg"><br>
+			Browse the database for plants and animals found in Singapore online
 		</div></a>
 	</div>
 </section>
