@@ -40,55 +40,56 @@ image: ""
 			<ul>
 				<li><a href="/page-index/edible-plants/bayam">Bayam</a> (<em>Amaranthus tricolor</em>)</li>
 				<li><a href="/page-index/edible-plants/kang-kong">Kang kong</a> (<em>Ipomoea aquatica</em>)</li>
-				<li><a href="/page-index/edible-plants/lettuce">Lettuce</a> (<em></em>)</li>
-				<li><a href="/page-index/edible-plants/cai-xin">Cai Xin</a> (<em></em>)</li>
-				<li><a href="/page-index/edible-plants/kai-lan">Kai Lan</a> (<em></em>)</li>
-				<li><a href="/page-index/edible-plants/xiao-bai-cai">Xiao Bai Cai</a> (<em></em>)</li>
-				<li><a href="/page-index/edible-plants/chinese-mustard">Chinese Mustard</a> (<em></em>)</li>
-				<li><a href="/page-index/edible-plants/chilli">Chilli</a> (<em></em>)</li>
-				<li><a href="/page-index/edible-plants/chives">Chives</a> (<em></em>)</li>
-				<li><a href="/page-index/edible-plants/thai-basil">Thai Basil</a> (<em></em>)</li>
-		<input type="checkbox" id="accordion2">
-		<label for="accordion2">For 4 hours of direct sunlight or 4-8 hours of indirect sunlight</label><div>
-				<li><a href="/page-index/edible-plants/english-mint">English Mint</a> (<em></em>)</li>
-				<li><a href="/page-index/edible-plants/indian-borage">Indian Borage</a> (<em></em>)</li>
-				<li><a href="/page-index/edible-plants/sawtooth-coriander">Sawtooth Coriander</a> (<em></em>)</li>
-				<li><a href="/page-index/edible-plants/thai-basil">Thai Basil</a> (<em></em>)</li>
-				<li><a href="/page-index/edible-plants/turmeric">Turmeric</a> (<em></em>)</li>
-				<li><a href="/page-index/edible-plants/fingerroot">Fingerroot</a> (<em></em>)</li>
-				<li><a href="/page-index/edible-plants/sissoo-spinach">Sissoo Spinach</a> (<em></em>)</li>
-				<li><a href="/page-index/edible-plants/wild-pepper">Wild pepper</a> (<em></em>)</li>
-				<li><a href="/page-index/edible-plants/sand-ginger">Sand ginger</a> (<em></em>)</li>
-				<li><a href="/page-index/edible-plants/okinawan-spinach">Okinawan spinach</a> (<em></em>)</li>
-				<li><a href="/page-index/edible-plants/longevity-spinach">	Longevity spinach</a> (<em></em>)</li>
+				<li><a href="/page-index/edible-plants/lettuce">Lettuce</a> (<em>)</em></li><em>
+				<li><a href="/page-index/edible-plants/cai-xin">Cai Xin</a>(<em>)</em></li><em>
+				<li><a href="/page-index/edible-plants/kai-lan">Kai Lan</a>(<em>)</em></li><em>
+				<li><a href="/page-index/edible-plants/xiao-bai-cai">Xiao Bai Cai</a>(<em>)</em></li><em>
+				<li><a href="/page-index/edible-plants/chinese-mustard">Chinese Mustard</a>(<em></em>)</li>
+				<li><a href="/page-index/edible-plants/chilli">Chilli</a>(<em></em>)</li>
+				<li><a href="/page-index/edible-plants/chives">Chives</a>(<em></em>)</li>
+				<li><a href="/page-index/edible-plants/thai-basil">Thai Basil</a>(<em></em>)</li>
+		</em></em><li><em><em><input type="checkbox" id="accordion2">
+		<label for="accordion2">For 4 hours of direct sunlight or 4-8 hours of indirect sunlight</label></em></em><div><em><em>
+			</em></em><ul><em><em>
+				<li><a href="/page-index/edible-plants/english-mint">English Mint</a>(<em></em>)</li>
+				<li><a href="/page-index/edible-plants/indian-borage">Indian Borage</a>(<em></em>)</li>
+				<li><a href="/page-index/edible-plants/sawtooth-coriander">Sawtooth Coriander</a>(<em></em>)</li>
+				<li><a href="/page-index/edible-plants/thai-basil">Thai Basil</a>(<em></em>)</li>
+				<li><a href="/page-index/edible-plants/turmeric">Turmeric</a>(<em></em>)</li>
+				<li><a href="/page-index/edible-plants/fingerroot">Fingerroot</a>(<em></em>)</li>
+				<li><a href="/page-index/edible-plants/sissoo-spinach">Sissoo Spinach</a>(<em></em>)</li>
+				<li><a href="/page-index/edible-plants/wild-pepper">Wild pepper</a>(<em></em>)</li>
+				<li><a href="/page-index/edible-plants/sand-ginger">Sand ginger</a>(<em></em>)</li>
+				<li><a href="/page-index/edible-plants/okinawan-spinach">Okinawan spinach</a>(<em></em>)</li>
+				<li><a href="/page-index/edible-plants/longevity-spinach">	Longevity spinach</a>(<em></em>)</li>
 	<br>
 	<p>Here are some ornamental plants to grow along your corridor</p>
 	<ul class="jekyllcodex_accordion">
 		<li><input type="checkbox" id="accordion3">
 		<label for="accordion3">For 4-8 hours of direct sunlight</label><div>
 			<ul>
-				<li><a href="/page-index/ornamental-plants/burros-tail">Burro's Tail</a></li>
-				<li><a href="/page-index/ornamental-plants/elephant-bush">Elephant Bush</a></li>
-				<li><a href="/page-index/ornamental-plants/fairy-washboard">Fairy Washboard</a></li>
-				<li><a href="/page-index/ornamental-plants/mexican-hen-and-chicks">Mexican Hen and Chicks</a></li>
-				<li><a href="/page-index/ornamental-plants/mexican-sedum">Mexican Sedum</a></li>
-				<li><a href="/page-index/ornamental-plants/string-of-beads">String of beads</a></li>
+				<li><a href="/page-index/ornamental-plants/burros-tail">Burro's Tail</a> (<em></em>)</li>
+				<li><a href="/page-index/ornamental-plants/elephant-bush">Elephant Bush</a> (<em></em>)</li>
+				<li><a href="/page-index/ornamental-plants/fairy-washboard">Fairy Washboard</a> (<em></em>)</li>
+				<li><a href="/page-index/ornamental-plants/mexican-hen-and-chicks">Mexican Hen and Chicks</a> (<em></em>)</li>
+				<li><a href="/page-index/ornamental-plants/mexican-sedum">Mexican Sedum</a> (<em></em>)</li>
+				<li><a href="/page-index/ornamental-plants/string-of-beads">String of beads</a> (<em></em>)</li>
 			</ul>
 		</div></li>
 		<li><input type="checkbox" id="accordion4">
 		<label for="accordion4">For 4 hours of direct sunlight or 4-8 hours of indirect sunlight</label><div>
 			<ul>
-				<li><a href="/page-index/ornamental-plants/burros-tail">African Violet</a></li>
-				<li><a href="/page-index/ornamental-plants/elephant-bush">Flame violet</a></li>
-				<li><a href="/page-index/ornamental-plants/fairy-washboard">Satin Pothos</a></li>
-				<li><a href="/page-index/ornamental-plants/mexican-hen-and-chicks">Snake plant</a></li>
-				<li><a href="/page-index/ornamental-plants/mexican-sedum">Spider plant</a></li>
-				<li><a href="/page-index/ornamental-plants/string-of-beads">Fairy Washboard</a></li>
-				<li><a href="/page-index/ornamental-plants/string-of-beads">Mother of Thousands</a></li>
-				<li><a href="/page-index/ornamental-plants/string-of-beads">Lawyer's Tongue</a></li>
-				<li><a href="/page-index/ornamental-plants/string-of-beads">Walking Sanseveria</a></li>
+				<li><a href="/page-index/ornamental-plants/burros-tail">African Violet</a> (<em></em>)</li>
+				<li><a href="/page-index/ornamental-plants/elephant-bush">Flame violet</a> (<em></em>)</li>
+				<li><a href="/page-index/ornamental-plants/fairy-washboard">Satin Pothos</a> (<em></em>)</li>
+				<li><a href="/page-index/ornamental-plants/mexican-hen-and-chicks">Snake plant</a> (<em></em>)</li>
+				<li><a href="/page-index/ornamental-plants/mexican-sedum">Spider plant</a> (<em></em>)</li>
+				<li><a href="/page-index/ornamental-plants/string-of-beads">Fairy Washboard</a> (<em></em>)</li>
+				<li><a href="/page-index/ornamental-plants/string-of-beads">Mother of Thousands</a> (<em></em>)</li>
+				<li><a href="/page-index/ornamental-plants/string-of-beads">Lawyer's Tongue</a> (<em></em>)</li>
+				<li><a href="/page-index/ornamental-plants/string-of-beads">Walking Sanseveria</a> (<em></em>)</li>
 			</ul>
 		</div></li>
 	</ul>
-		<p>Download our <a download="" href="/files/introduction%20to%20indoor%20gardening.pdf">indoor gardening guide</a> for more information. </p>
-</div></ul></div></li></ul></section>
+	<p>Download our <a download="" href="/files/introduction%20to%20indoor%20gardening.pdf">indoor gardening guide</a> for more information. </p>
+</em></em></ul></div></li></em></em></ul></div></li></ul></section>
