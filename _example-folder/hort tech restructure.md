@@ -73,7 +73,6 @@ description: ""
 				<li><a href="/page-index/horticulture-techniques/choosing-plants/">Choosing Plants</a></li>
 				<li><a href="/page-index/horticulture-techniques/cloches/">Cloche</a></li>
 				<li><a href="/page-index/horticulture-techniques/companion-planting/">Companion Planting</a></li>
-				<li><a href="/page-index/horticulture-techniques/composting/">Composting</a></li>
 				<li><a href="/page-index/horticulture-techniques/cut-and-come-again/">Cut and Come Again Harvesting</a></li>
 				<li><a href="/page-index/horticulture-techniques/harvesting-hygiene/">Growing Edibles for Consumption</a></li>
 				<li><a href="/page-index/horticulture-techniques/microgreens/">Microgreens</a></li>
@@ -84,11 +83,12 @@ description: ""
 			</ul>
 		</div>
 		<div class="box">
-			<h5>Soil</h5>
+			<h5>Learn about soil</h5>
 			<img style="display: inline" src="/images/Horti%20techniques/Soil_Mixing_JacChua.jpg"><br>
 			<ul>
 				<li><a href="/page-index/horticulture-techniques/soil/">Soil</a></li>
 				<li><a href="/page-index/horticulture-techniques/soil-amendments/">Soil Amendments</a></li>
+				<li><a href="/page-index/horticulture-techniques/composting/">Composting</a></li>
 			</ul>
 		</div>
 	</div>
