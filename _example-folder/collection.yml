@@ -2,6 +2,7 @@ collections:
   example-folder:
     output: true
     order:
+      - hort tech restructure.md
       - accordion test.md
       - folder-page.md
       - example-subfolder/.keep
