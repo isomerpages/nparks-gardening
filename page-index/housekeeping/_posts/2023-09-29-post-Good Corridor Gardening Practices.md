@@ -30,7 +30,7 @@ image: ""
 
 <section>
 	<h4>Choosing plants for your corridor</h4>
-				<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/eVBFePei-Bk?si=rz827tqlwF7jGvPC" width="100%" height="415"></iframe><br>
+	<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/eVBFePei-Bk?si=rz827tqlwF7jGvPC" width="100%" height="415"></iframe><br>
 	<p>As with any other garden, it is best to figure out how much space you can work with, and <a href="/page-index/horticulture-techniques/gauging-light">how much light</a> you receive throughout the year before you choose your plants.  In this case, small plants that <a href="/page-index/horticulture-techniques/planting-in-containers/">thrive in containers</a> that can also tolerate shade would be the best choice for most corridors. Do take note that your pot placement will also affect how much light and space your plant will get. For the most amount of light, try to place your racks or pot stands flush against the parapet.</p>
 	<p>Because corridors also have a lot of traffic, it is also important to choose plants that are not thorny, sharp, or otherwise dangerous to keep you and your neighbours safe.</p>
 	<p>Here are some edible plants to grow along your corridor:</p>
@@ -40,17 +40,19 @@ image: ""
 			<ul>
 				<li><a href="/page-index/edible-plants/bayam">Bayam</a> (<em>Amaranthus tricolor</em>)</li>
 				<li><a href="/page-index/edible-plants/kang-kong">Kang kong</a> (<em>Ipomoea aquatica</em>)</li>
-				<li><a href="/page-index/edible-plants/lettuce">Lettuce</a> (<em>)</em></li><em>
-				<li><a href="/page-index/edible-plants/cai-xin">Cai Xin</a>(<em>)</em></li><em>
-				<li><a href="/page-index/edible-plants/kai-lan">Kai Lan</a>(<em>)</em></li><em>
-				<li><a href="/page-index/edible-plants/xiao-bai-cai">Xiao Bai Cai</a>(<em>)</em></li><em>
+				<li><a href="/page-index/edible-plants/lettuce">Lettuce</a> (<em></em>)</li>
+				<li><a href="/page-index/edible-plants/cai-xin">Cai Xin</a>(<em></em>)</li>
+				<li><a href="/page-index/edible-plants/kai-lan">Kai Lan</a>(<em></em>)</li>
+				<li><a href="/page-index/edible-plants/xiao-bai-cai">Xiao Bai Cai</a>(<em></em>)</li>
 				<li><a href="/page-index/edible-plants/chinese-mustard">Chinese Mustard</a>(<em></em>)</li>
 				<li><a href="/page-index/edible-plants/chilli">Chilli</a>(<em></em>)</li>
 				<li><a href="/page-index/edible-plants/chives">Chives</a>(<em></em>)</li>
 				<li><a href="/page-index/edible-plants/thai-basil">Thai Basil</a>(<em></em>)</li>
-		</em></em><li><em><em><input type="checkbox" id="accordion2">
-		<label for="accordion2">For 4 hours of direct sunlight or 4-8 hours of indirect sunlight</label></em></em><div><em><em>
-			</em></em><ul><em><em>
+			</ul>
+		</div></li>
+		<input type="checkbox" id="accordion2">
+		<label for="accordion2">For 4 hours of direct sunlight or 4-8 hours of indirect sunlight</label><div>
+			<ul>
 				<li><a href="/page-index/edible-plants/english-mint">English Mint</a>(<em></em>)</li>
 				<li><a href="/page-index/edible-plants/indian-borage">Indian Borage</a>(<em></em>)</li>
 				<li><a href="/page-index/edible-plants/sawtooth-coriander">Sawtooth Coriander</a>(<em></em>)</li>
@@ -62,6 +64,9 @@ image: ""
 				<li><a href="/page-index/edible-plants/sand-ginger">Sand ginger</a>(<em></em>)</li>
 				<li><a href="/page-index/edible-plants/okinawan-spinach">Okinawan spinach</a>(<em></em>)</li>
 				<li><a href="/page-index/edible-plants/longevity-spinach">	Longevity spinach</a>(<em></em>)</li>
+			</ul>
+		</div>
+	</ul>
 	<br>
 	<p>Here are some ornamental plants to grow along your corridor</p>
 	<ul class="jekyllcodex_accordion">
@@ -92,4 +97,4 @@ image: ""
 		</div></li>
 	</ul>
 	<p>Download our <a download="" href="/files/introduction%20to%20indoor%20gardening.pdf">indoor gardening guide</a> for more information. </p>
-</em></em></ul></div></li></em></em></ul></div></li></ul></section>
+</section>
