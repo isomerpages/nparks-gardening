@@ -50,9 +50,9 @@ image: /images/Gardeners/Kim tian_processed-24.jpg
 			<h5>Learn about soil</h5>
 			<img style="display: inline" src="/images/Horti%20techniques/Soil_Mixing_JacChua.jpg"><br>
 			<ul>
+				<li><a href="/page-index/horticulture-techniques/composting/">Composting</a></li>
 				<li><a href="/page-index/horticulture-techniques/soil/">Soil</a></li>
 				<li><a href="/page-index/horticulture-techniques/soil-amendments/">Soil Amendments</a></li>
-				<li><a href="/page-index/horticulture-techniques/composting/">Composting</a></li>
 			</ul>
 		</div>
 		<div id="pest-management" class="box">
@@ -71,13 +71,13 @@ image: /images/Gardeners/Kim tian_processed-24.jpg
 				<li><a href="/page-index/horticulture-techniques/choosing-plants/">Choosing Plants</a></li>
 				<li><a href="/page-index/horticulture-techniques/cloches/">Cloche</a></li>
 				<li><a href="/page-index/horticulture-techniques/companion-planting/">Companion Planting</a></li>
+				<li><a href="/page-index/horticulture-techniques/crop-rotation/">Crop Rotation</a></li>
 				<li><a href="/page-index/horticulture-techniques/cut-and-come-again/">Cut and Come Again Harvesting</a></li>
 				<li><a href="/page-index/horticulture-techniques/harvesting-hygiene/">Growing Edibles for Consumption</a></li>
 				<li><a href="/page-index/horticulture-techniques/microgreens/">Microgreens</a></li>
 				<li><a href="/page-index/horticulture-techniques/true-ground/">Planting in True Ground</a></li>
 				<li><a href="/page-index/horticulture-techniques/planting-in-containers/">Planting in Containers</a></li>
 				<li><a href="/page-index/horticulture-techniques/plant-spacing/">Plant Spacing</a></li>
-				<li><a href="/page-index/horticulture-techniques/crop-rotation/">Crop Rotation</a></li>
 			</ul>
 		</div>
 		<div id="planting-in-small-spaces" class="box">
@@ -86,8 +86,8 @@ image: /images/Gardeners/Kim tian_processed-24.jpg
 			<ul>
 				<li><a href="/page-index/horticulture-techniques/bottom-watering/">Bottom Watering</a></li>
 				<li><a href="/page-index/horticulture-techniques/choosing-plants/">Choosing Plants</a></li>
-				<li><a href="/page-index/horticulture-techniques/planting-in-containers/">Planting in Containers</a></li>
 				<li><a href="/page-index/horticulture-techniques/gauging-light/">Gauging Light</a></li>
+				<li><a href="/page-index/horticulture-techniques/planting-in-containers/">Planting in Containers</a></li>
 				<li><a href="/page-index/horticulture-techniques/microgreens/">Microgreens</a></li>
 			</ul>
 		</div>
@@ -100,7 +100,6 @@ image: /images/Gardeners/Kim tian_processed-24.jpg
 				<li><a href="/page-index/horticulture-techniques/gauging-light/">Gauging Light</a></li>
 				<li><a href="/page-index/horticulture-techniques/grow-lights/">Grow Lights</a></li>
 				<li><a href="/page-index/horticulture-techniques/planting-in-containers/">Planting in Containers</a></li>
-				<li><a href="/page-index/horticulture-techniques/gauging-light/">Gauging Light</a></li>
 				<li><a href="/page-index/horticulture-techniques/microgreens/">Microgreens</a></li>
 				<li><a href="/page-index/horticulture-techniques/soil-amendments/">Soil Amendments</a></li>
 			</ul>
