@@ -57,7 +57,9 @@ description: ""
 			<h5>Pest management</h5>
 			<img style="display: inline" src="/images/Biodiversity/Mealybugs_JacChua.jpg"><br>
 			<ul>
-				<li></li>
+				<li><a href="/page-index/horticulture-techniques/finding-pests/">Finding Pests</a></li>
+				<li><a href="/page-index/horticulture-techniques/ipm/">Integrated Pest Management</a></li>
+				<li><a href="/page-index/horticulture-techniques/pest-control/">Pest Control</a></li>
 			</ul>
 		</div>
 		<div class="box">
