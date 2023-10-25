@@ -37,7 +37,7 @@ description: ""
 		</div>
 		<div class="box">
 			<h5>General maintenance</h5>
-			<img style="display: inline" src="/images/Biodiversity/LeafMiner_JacChua.jpg"><br>
+			<img style="display: inline" src="/images/Horti%20techniques/weeding_jacquelinechua.jpg"><br>
 			<ul>
 				<li></li>
 			</ul>
