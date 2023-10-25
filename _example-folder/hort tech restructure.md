@@ -80,6 +80,7 @@ description: ""
 				<li><a href="/page-index/horticulture-techniques/true-ground/">Planting in True Ground</a></li>
 				<li><a href="/page-index/horticulture-techniques/planting-in-containers/">Planting in Containers</a></li>
 				<li><a href="/page-index/horticulture-techniques/plant-spacing/">Plant Spacing</a></li>
+				<li><a href="/page-index/horticulture-techniques/crop-rotation/">Crop Rotation</a></li>
 			</ul>
 		</div>
 		<div class="box">
