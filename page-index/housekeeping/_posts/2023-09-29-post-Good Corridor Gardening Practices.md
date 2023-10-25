@@ -42,29 +42,29 @@ image: ""
 				<li><a href="/page-index/edible-plants/bayam">Bayam</a> (<em>Amaranthus tricolor</em>)</li>
 				<li><a href="/page-index/edible-plants/kang-kong">Kang kong</a> (<em>Ipomoea aquatica</em>)</li>
 				<li><a href="/page-index/edible-plants/lettuce">Lettuce</a> (<em>Lactuca sativa</em>)</li>
-				<li><a href="/page-index/edible-plants/cai-xin">Cai Xin</a> (<em>Brassica rapa</em>Caisin Group)</li>
-				<li><a href="/page-index/edible-plants/kai-lan">Kai Lan</a> (<em>Brassica oleracea</em> Alboglabra Group)</li>
-				<li><a href="/page-index/edible-plants/xiao-bai-cai">Xiao Bai Cai</a> (<em>Brassica rapa</em> Pak Choi Group)</li>
-				<li><a href="/page-index/edible-plants/chinese-mustard">Chinese Mustard</a> (<em>Brassica juncea</em> Broad-leaf Mustard)</li>
-				<li><a href="/page-index/edible-plants/chilli">Chilli</a> (<em>Capsicum annuum</em>)</li>
-				<li><a href="/page-index/edible-plants/chives">Chives</a> (<em>Allium tuberosum</em>)</li>
-				<li><a href="/page-index/edible-plants/thai-basil">Thai Basil</a> (<em>Ocimum basilicum</em>)</li>
+				<li><a href="/page-index/edible-plants/cai-xin">Cai Xin</a>(<em>Brassica&nbsp;rapa</em>&nbsp;Caisin Group)</li>
+				<li><a href="/page-index/edible-plants/kai-lan">Kai Lan</a>(<em>Brassica oleracea</em> Alboglabra Group)</li>
+				<li><a href="/page-index/edible-plants/xiao-bai-cai">Xiao Bai Cai</a>(<em>Brassica rapa</em> Pak Choi Group)</li>
+				<li><a href="/page-index/edible-plants/chinese-mustard">Chinese Mustard</a>(<em>Brassica juncea</em> Broad-leaf Mustard)</li>
+				<li><a href="/page-index/edible-plants/chilli">Chilli</a>(<em>Capsicum annuum</em>)</li>
+				<li><a href="/page-index/edible-plants/chives">Chives</a>(<em>Allium tuberosum</em>)</li>
+				<li><a href="/page-index/edible-plants/thai-basil">Thai Basil</a>(<em>Ocimum basilicum</em>)</li>
 			</ul>
 		</div></li>
 		<input type="checkbox" id="accordion2">
 		<label for="accordion2">For 4 hours of direct sunlight or 4-8 hours of indirect sunlight</label><div>
 			<ul>
-				<li><a href="/page-index/edible-plants/english-mint">English Mint</a>(<em></em>)</li>
-				<li><a href="/page-index/edible-plants/indian-borage">Indian Borage</a>(<em></em>)</li>
-				<li><a href="/page-index/edible-plants/sawtooth-coriander">Sawtooth Coriander</a>(<em></em>)</li>
-				<li><a href="/page-index/edible-plants/thai-basil">Thai Basil</a>(<em></em>)</li>
-				<li><a href="/page-index/edible-plants/turmeric">Turmeric</a>(<em></em>)</li>
-				<li><a href="/page-index/edible-plants/fingerroot">Fingerroot</a>(<em></em>)</li>
-				<li><a href="/page-index/edible-plants/sissoo-spinach">Sissoo Spinach</a>(<em></em>)</li>
-				<li><a href="/page-index/edible-plants/wild-pepper">Wild pepper</a>(<em></em>)</li>
-				<li><a href="/page-index/edible-plants/sand-ginger">Sand ginger</a>(<em></em>)</li>
-				<li><a href="/page-index/edible-plants/okinawan-spinach">Okinawan spinach</a>(<em></em>)</li>
-				<li><a href="/page-index/edible-plants/longevity-spinach">	Longevity spinach</a>(<em></em>)</li>
+				<li><a href="/page-index/edible-plants/spearmint">Spearmint</a> (<em>Mentha spicata</em>)</li>
+				<li><a href="/page-index/edible-plants/indian-borage">Indian Borage</a> (<em>Coleus amboinicus</em>)</li>
+				<li><a href="/page-index/edible-plants/sawtooth-coriander">Sawtooth Coriander</a> (<em>Eryngium foetidum</em>)</li>
+				<li><a href="/page-index/edible-plants/thai-basil">Thai Basil</a> (<em>Ocimum basilicum</em>)</li>
+				<li><a href="/page-index/edible-plants/turmeric">Turmeric</a> (<em>Curcuma longa</em>)</li>
+				<li><a href="/page-index/edible-plants/fingerroot">Fingerroot</a> (<em>Boesenbergia rotunda</em>)</li>
+				<li><a href="/page-index/edible-plants/sissoo-spinach">Sissoo Spinach</a> (<em>Alternanthera sissoo</em>)</li>
+				<li><a href="/page-index/edible-plants/wild-pepper">Wild pepper</a> (<em>Piper sarmentosum</em>)</li>
+				<li><a href="/page-index/edible-plants/sand-ginger">Sand ginger</a> (<em>Kaempferia galanga</em>)</li>
+				<li><a href="/page-index/edible-plants/okinawan-spinach">Okinawan spinach</a> (<em>Gynura bicolor</em>)</li>
+				<li><a href="/page-index/edible-plants/longevity-spinach">	Longevity spinach</a> (<em>Gynura procumbens</em>)</li>
 			</ul>
 		</div>
 	</ul>
