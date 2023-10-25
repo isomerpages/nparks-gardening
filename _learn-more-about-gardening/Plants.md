@@ -54,19 +54,17 @@ description: ""
 </section>
 
 <section>
-	<h3>Still not sure what plants are suitable for your garden space?</h3><br>
+	<h3>Still not sure what plants are suitable for your garden space?</h3>
 	<div class="wrapper">
 		<a class="button" href="/digital-tools/plant-search/"><div class="box">
 			<h4>Plant Suggester</h4>
-			<img style="height:275px; width:275px" src="/images/Digital%20Tools/plantsearchicon_square.png"><br>
-			Find a plant to grow based on your garden conditions!
-			<br>
+			<img style="height:275px; width:275px" src="/images/Digital%20Tools/plantsearchicon_square.png">
+			<p align="left">Find a plant to grow based on your garden conditions!</p>
 		</div></a>
 		<a class="button" href="https://www.nparks.gov.sg/florafaunaweb"><div class="box">
 			<h4>NParks' Flora and Fauna Web</h4>
-			<img style="height:275px; width:275px" src="/images/florafaunaweb.jpg"><br>
-			Browse the database for plants and animals found in Singapore online!
-			<br>
+			<img style="height:275px; width:275px" src="/images/florafaunaweb.jpg">
+			<p align="left">Browse the database for plants and animals found in Singapore online!</p>
 		</div></a>
 	</div>
 </section>
