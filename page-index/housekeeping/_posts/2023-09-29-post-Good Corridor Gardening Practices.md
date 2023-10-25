@@ -74,12 +74,12 @@ image: ""
 		<li><input type="checkbox" id="accordion3">
 		<label for="accordion3">For 4-8 hours of direct sunlight</label><div>
 			<ul>
-				<li><a href="/page-index/ornamental-plants/burros-tail">Burro's Tail</a> (<em></em>)</li>
-				<li><a href="/page-index/ornamental-plants/elephant-bush">Elephant Bush</a> (<em></em>)</li>
-				<li><a href="/page-index/ornamental-plants/fairy-washboard">Fairy Washboard</a> (<em></em>)</li>
-				<li><a href="/page-index/ornamental-plants/mexican-hen-and-chicks">Mexican Hen and Chicks</a> (<em></em>)</li>
-				<li><a href="/page-index/ornamental-plants/mexican-sedum">Mexican Sedum</a> (<em></em>)</li>
-				<li><a href="/page-index/ornamental-plants/string-of-beads">String of beads</a> (<em></em>)</li>
+				<li><a href="/page-index/ornamental-plants/burros-tail">Burro's Tail</a> (<em>Sedum morganianum</em>)</li>
+				<li><a href="/page-index/ornamental-plants/elephant-bush">Elephant Bush</a> (<em>Portulacaria afra</em>)</li>
+				<li><a href="/page-index/ornamental-plants/fairy-washboard">Fairy Washboard</a> (<em>Haworthiopsis limifolia</em>)</li>
+				<li><a href="/page-index/ornamental-plants/mexican-hen-and-chicks">Mexican Hen and Chicks</a> (<em>Echeveria spp. and cultivars</em>)</li>
+				<li><a href="/page-index/ornamental-plants/mexican-sedum">Mexican Sedum</a> (<em>Sedum mexicanum</em>)</li>
+				<li><a href="/page-index/ornamental-plants/string-of-beads">String of beads</a> (<em>Curio herreanus</em>)</li>
 			</ul>
 		</div></li>
 		<li><input type="checkbox" id="accordion4">
