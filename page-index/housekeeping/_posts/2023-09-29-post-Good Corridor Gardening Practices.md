@@ -51,7 +51,7 @@ image: ""
 				<li><a href="/page-index/edible-plants/thai-basil">Thai Basil</a> (<em>Ocimum basilicum</em>)</li>
 			</ul>
 		</div></li>
-		<input type="checkbox" id="accordion2">
+		<li><input type="checkbox" id="accordion2">
 		<label for="accordion2">For 4 hours of direct sunlight or 4-8 hours of indirect sunlight</label><div>
 			<ul>
 				<li><a href="/page-index/edible-plants/spearmint">Spearmint</a> (<em>Mentha spicata</em>)</li>
@@ -67,7 +67,7 @@ image: ""
 				<li><a href="/page-index/edible-plants/longevity-spinach">	Longevity spinach</a> (<em>Gynura procumbens</em>)</li>
 			</ul>
 		</div>
-	</ul>
+	</li></ul>
 	<br>
 	<p>Here are some ornamental plants to grow along your corridor</p>
 	<ul class="jekyllcodex_accordion">
