@@ -54,7 +54,7 @@ description: ""
 </section>
 
 <section>
-	<h3>Still not sure what plants are suitable for your garden space?</h3>
+	<h3>Still not sure what plants are suitable for your garden space?</h3><br>
 	<div class="wrapper">
 		<a class="button" href="/digital-tools/plant-search/"><div class="box">
 			<h4>Plant Suggester</h4>
