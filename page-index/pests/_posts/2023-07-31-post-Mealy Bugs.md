@@ -31,8 +31,7 @@ image: ""
 
 <section>
 	<h4>Preventive and control measures:</h4>
-			<p>Always isolate and inspect newly bought plants for pests before introducing them to your plant collection.</p>
-	<p>Isolate affected plants immediately if pests are found.</p>
+			<p>Always isolate and inspect newly bought plants for pests before introducing them to your plant collection. Isolate affected plants immediately if pests are found.</p>
 <p>Heavily infested plant parts should be <a href="/page-index/horticulture-techniques/pruning/">pruned</a> as soon as possible. Severe infestations may need the entire plant to be removed. Bag up the infested plant or plant parts securely for proper disposal to prevent further spread. Do not use the removed plant waste for composting or for consumption.</p>
 <p>Chrysanthemum spray, horticultural oils and sulphur soap sprays can kill soft-bodied pests on contact. Use <a href="/page-index/horticulture-techniques/pest-control/#chemical_control">chemical controls</a> like these sparingly as they tend to also affect other types of biodiversity.</p>
 	<p>Encourage <a href="/page-index/biodiversity/predators/">predators</a> to establish in your garden by keeping it pesticide-free. Ladybirds feed on Mealy Bugs and can keep their population under control.</p>  
