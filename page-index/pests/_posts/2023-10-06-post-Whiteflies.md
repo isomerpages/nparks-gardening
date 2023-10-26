@@ -11,6 +11,7 @@ image: ""
 	<h3>Whiteflies (Family Aleyrodidae)</h3>
 </header>
 </section>
+
 <section>
 <img title="Whiteflies on the underside of a leaf. Photo by Victoria Lim." src="/images/Biodiversity/white%20flies%20(4)victorialim.jpg">
 	<p>Whiteflies are tiny pests that can fly and spread quickly between plants. They are sap-sucking insects that can feed on feed on a variety of plants, and are most often found on the underside of leaves in clusters.</p>
@@ -26,6 +27,7 @@ image: ""
 		<p>Leaves turn yellow, and begin to dry out.</p>
 	<br>
 </section>
+	
 <section>
 	<h4>Preventive and control measures:</h4>
 	<p>Always isolate and inspect newly bought plants for pests before introducing them to your plant collection. Isolate affected plants immediately if pests are found.</p>
