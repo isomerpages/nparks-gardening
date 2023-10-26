@@ -32,7 +32,7 @@ image: ""
 <section>
 	<h4>Preventive and control measures:</h4>
 	<img title="A lime caterpillar next to a partially eaten leaf. Lime caterpillars are often reared by schools for science class. Photo by Jacqueline Chua." src="/images/Biodiversity/Caterpillar_LimeCaterpillar_JacChua%20(1).jpg">
-	<p>The best way to manage caterpillars is to prevent them from reaching your plants in the first place. <a href="/page-index/horticulture-techniques/pest-control/&quot;#mechanical_control&quot;">Mechanical control</a> methods like netting up your plants with mesh will prevent butterflies from laying their eggs on your plants. </p>
+	<p>The best way to manage caterpillars is to prevent them from reaching your plants in the first place. <a href="/page-index/horticulture-techniques/pest-control/#mechanical_control">Mechanical control</a> methods like netting up your plants with mesh will prevent butterflies from laying their eggs on your plants. </p>
 <p>Remove caterpillars and eggs by hand as soon as they are spotted. Preschools and primary schools near you may want to adopt them!</p>
 	<p>A <a href="/page-index/horticulture-techniques/pest-control/#biological_control">microbial insecticide </a>containing the soil borne bacterium <b>Bacillus thuringiensis kurstaki (BtK)</b> can be applied to the infected plant. Once eaten by the caterpillar, the formulated BtK is broken down into particles that damage the guts of the caterpillar and cause death around a day.</p>
 	<img title="A dead caterpillar in a potter wasp nest. Potter wasps will feed caterpillars to their young. Photo by Jacqueline Chua." src="/images/Biodiversity/CaterpillarInPotterWaspNest_JacChua%20(1).jpg">
