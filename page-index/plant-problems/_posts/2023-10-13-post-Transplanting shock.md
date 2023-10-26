@@ -17,11 +17,12 @@ image: ""
 	<p>Older leaves may turn yellow and drop off. This is normal for transplants as they put more energy into growing more roots and new leaves. This symptom looks similar to the early stages of <a href="/page-index/plant-problems/nutrient-deficiencies/">nitrogen deficiency</a>, but will not ultimately affect the new leaves.</p>
 	<p>Transplants are more prone to <a href="/page-index/plant-problems/wilting/">wilting</a> as the roots take time to establish.</p>
 	<br>
-	</section>
-	<section>
+</section>
+
+<section>
 	<h4>Treatment</h4>
 	<p><a href="/page-index/horticulture-techniques/watering/">Water</a> fresh transplants daily for at least a week until their roots grow in. After a week, water only when the soil is dry.</p>
-	<a href="/page-index/horticulture-techniques/pruning/">Prune</a> old and yellowing leaves to help the plant direct more energy into growing new roots, shoots, and leaves.<p></p>
+	<p><a href="/page-index/horticulture-techniques/pruning/">Prune</a> old and yellowing leaves to help the plant direct more energy into growing new roots, shoots, and leaves.</p>
 	<p>Protect fresh transplants with <a href="/page-index/hardscapes/netting/">shade netting</a> or in a shaded area with at least <a href="/page-index/horticulture-techniques/gauging-light/">4 hours of indirect sunlight</a> for a week for the transplant to settle</p>
 	<p>Fertilise the transplant with a <a href="/page-index/horticulture-techniques/fertilising/">balanced fertiliser</a> two weeks after transplanting to encourage more growth.</p>
-	</section>
+</section>
