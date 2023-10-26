@@ -14,7 +14,7 @@ image: ""
 	<img title="Stinging nettle caterpillars feeding on a leaf. Photo by Victoria Lim." src="/images/Biodiversity/blue-striped%20nettle%20grub%20(parasa%20lepida)%20-%20caterpillar%20-%20ppn%205victorialim.jpg">
 <p>Caterpillars are the larvae of moths and butterflies and feed heavily on leaves, either in groups or individually.</p>
 <p>They come in many different forms, colours, and sizes, with some even sporting stinging hairs to deter predators! </p>
-<p>Certain species of caterpillars will only feed on specific plants. For example, Lime butterfly caterpillars will only feed on plants from the citrus family, like Lime and Limau Purut, and cabbage white caterpillars will feed on plants from the Brassica genus like Cai Xin, Kai Lan and Xiao Bai Cai. These are called host plants and can be used to attract more butterflies into your garden.  </p>
+<p>Certain species of caterpillars will only feed on specific plants. For example, Lime butterfly caterpillars will only feed on plants from the citrus family, like <a href="/page-index/edible-plants/lime/">Lime</a> and <a href="/page-index/edible-plants/limau-purut/">Limau Purut</a>, and cabbage white caterpillars will feed on plants from the Brassica genus like <a href="/page-index/edible-plants/cai-xin/">Cai Xin</a>, <a href="/page-index/edible-plants/kai-lan/">Kai Lan</a> and <a href="/page-index/edible-plants/xiao-bai-cai/">Xiao Bai Cai</a>. These are called host plants and can be used to attract more butterflies into your garden.  </p>
 <br>
 </section>
 		
