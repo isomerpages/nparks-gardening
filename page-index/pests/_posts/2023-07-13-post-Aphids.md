@@ -38,8 +38,7 @@ image: ""
 
 <section>
 	<h4>Preventive and control measures:</h4>
-			<p>Always isolate and inspect newly bought plants for pests before introducing them to your plant collection.</p>
-	<p>Isolate affected plants immediately if pests are found.</p>
+			<p>Always isolate and inspect newly bought plants for pests before introducing them to your plant collection. Isolate affected plants immediately if pests are found.</p>
 <p>Healthy plants are generally resilient to infestations. If you have a severe pest infestation, check your plants regularly for additional underlying problems such as <a href="/page-index/plant-problems/root-rot/">root rot</a> from <a href="/page-index/plant-problems/waterlogging/">waterlogging</a>, <a href="/page-index/plant-problems/etiolation/">etoilation</a>, or <a href="/page-index/horticulture-techniques/plant-spacing/">overcrowding</a>.</p>
 <p>Check your plants regularly for aphids, especially on the stems and the underside of leaves, which may be distorted or curled.</p> 
 <p>If there are only a few aphids, you can spray them off with water or use a wet cloth to wipe them away.</p>
