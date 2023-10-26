@@ -37,7 +37,7 @@ image: ""
 				</ul></li>
 		<li><b>Wilting due to transplanting shock</b></li>
 		<ul>
-			<li>Freshly transplanted <a href="/page-index/horticulture-techniques/propagating-by-cuttings/">cuttings</a> or <a href="/page-index/horticulture-techniques/propagating-by-seed/">seedlings</a> will need to grow their roots out before they become stable enough to survive in the garden. While they are adapting to their new environment, these plants may wilt, which is what we refer to as transplanting shock.</li>
+			<li>Freshly transplanted <a href="/page-index/horticulture-techniques/propagating-by-cuttings/">cuttings</a> or <a href="/page-index/horticulture-techniques/propagating-by-seed/">seedlings</a> will need to grow their roots out before they become stable enough to survive in the garden. While they are adapting to their new environment, these plants may wilt, which is what we refer to as <a href="/page-index/plant-problems/transplanting-shock/">transplanting shock</a>.</li>
 			<li>Plants showing signs of transplanting shock will need to be watered more, and moved to a shadier area or have <a href="/page-index/hardscapes/netting/">shade netting</a> installed to protect them for at least a week before they can be exposed to direct sunlight again. </li>
 	</ul>
 		<li><b>Wilting due to being root-bound</b></li>
