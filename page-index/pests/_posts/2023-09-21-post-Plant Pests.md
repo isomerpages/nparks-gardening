@@ -24,12 +24,12 @@ image: ""
 	<li><input type="checkbox" id="accordion1">
 		<label for="accordion1">Aphids</label><div>
 <img title="Yellow aphids clustered along a leaf vein. Photo by Victoria Lim." src="/images/Biodiversity/dancing%20aphids%20on%20calotropis%20(1)victorialim.jpg">
-	<p><a href="https://staging.dmhtu0pi4p9u7.amplifyapp.com/page-index/pests/aphids/">Aphids</a> are small, sucking pests that are usually found in clusters along stems and leaf veins on both the top and undersides of leaves.</p>
+	<p><a href="/page-index/pests/aphids/">Aphids</a> are small, sucking pests that are usually found in clusters along stems and leaf veins on both the top and undersides of leaves.</p>
 		</div></li>
 	<li><input type="checkbox" id="accordion2">
 		<label for="accordion2">Scale insects</label><div>
 <img title="Scale insects clustered along a stem. Photo by Victoria Lim" src="/images/Biodiversity/scales%20(1)victorialim.jpg">
-		<p><a href="/page-index/pests/scale-insects/">Scale</a> insects can have soft or hard shells, but they all look like scales clustered around stems and leaf veins on both the top and undersides of leaves.</p>  
+		<p><a href="/page-index/pests/scale-insects/">Scale insects</a> can have soft or hard shells, but they all look like scales clustered around stems and leaf veins on both the top and undersides of leaves.</p>  
 				</div></li>
 	<li><input type="checkbox" id="accordion3">
 		<label for="accordion3">Spider Mites</label><div>
@@ -44,7 +44,7 @@ image: ""
 	<li><input type="checkbox" id="accordion5">
 		<label for="accordion5">Whiteflies</label><div>
 <img title="Whiteflies deeding under a leaf. Photo by Victoria Lim." src="/images/Biodiversity/white%20flies%20(4)victorialim.jpg">
-		<p>Whiteflies are tiny flying pests that are white or silvery, with larvae and eggs that resemble clusters of small scales. Both the adult and larvae suck sap on the underside of leaves.</p>
+		<p><a href="/page-index/pests/whiteflies/">Whiteflies</a> are tiny flying pests that are white or silvery, with larvae and eggs that resemble clusters of small scales. Both the adult and larvae suck sap on the underside of leaves.</p>
 </div></li></ul>
 <br>
 </section>
