@@ -24,6 +24,7 @@ image: /images/Gardeners/Outreach (3).jpg
 	<li><a download="" href="/files/know%2010%20leafy%20vegetables.pdf">Know 10 Leafy Vegetables</a></li>
 	<li><a download="" href="/files/know%2010%20mediterranean%20herbs%20and%20spices.pdf">Know 10 Mediterranean Herbs and Spices</a></li>
 	<li><a download="" href="/files/know%2010%20native%20plants.pdf">Know 10 Native Plants</a></li>
+	<li><a href="/files/10%20pollinator-attracting%20plants.pdf">10 Pollinator-attracting Plants</a></li>
 	<li><a download="" href="/files/know%2010%20root%20vegetables.pdf">Know 10 Root Vegetables</a></li>
 	<li><a download="" href="/files/know%2010%20shade-tolerant%20edibles%20(readable).pdf">Know 10 Shade-Tolerant Edibles</a></li>	
 	<li><a download="" href="/files/know%2010%20succulents.pdf">Know 10 Succulents</a></li>
@@ -45,7 +46,9 @@ image: /images/Gardeners/Outreach (3).jpg
 				<li><a download="" href="/files/gardening%20practices%20to%20prevent%20mosquito%20breeding%20(readable)-1.pdf">Gardening Practices to Prevent Mosquito Breeding</a></li>	
 				<li><a download="" href="/files/good%20corridor%20gardening%20practices.pdf">Good Corridor Gardening Practices</a></li>		
 				<li><a download="" href="/files/good%20roadside%20gardening%20practices.pdf">Good Roadside Gardening Practices</a></li>	
-				<li><a download="" href="/files/introduction%20to%20indoor%20gardening.pdf">Introduction to Indoor Gardening</a></li>	
+	<li><a href="/files/good%20perimeter%20planting%20practices.pdf">Good Perimeter Planting Practices</a></li>			
+	<li><a href="/files/introduction%20to%20community%20gardening.pdf">Introduction to Community Gardening</a></li>
+	<li><a download="" href="/files/introduction%20to%20indoor%20gardening.pdf">Introduction to Indoor Gardening</a></li>	
 				<li><a target="_blank" href="https://go.gov.sg/allotment-guide">A Guide to Designing and Implementing Allotment Gardens</a></li>	
 				<li><a target="_blank" href="https://go.gov.sg/community-garden-design">A Guide to Designing and Implementing Community Gardens</a></li>	
 				<li><a target="_blank" href="https://go.gov.sg/best-practices-edible-gardening">Horticultural Best Practices for Edible Gardening</a></li>	
