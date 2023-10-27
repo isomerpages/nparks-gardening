@@ -33,4 +33,9 @@ image: /images/Hardscapes/PXL_20230225_024540757.jpg
 		<li>Acts of violence, misconduct and mischief are not allowed within the garden. Should such incidents occur, the Garden Leader and Grassroots organisation reserves the right to terminate group member’s involvement in the community garden.</li>
 		<li>Have suggestions or questions? Contact us at ExampleGarden123@gmail.com or via whatsapp at XXXXXXXX!</li>
 	</ol>
+	<p>Looking for more inspiration? Refer to more garden rules in your guides below!</p>
+	<ul>
+						<li><a target="_blank" href="https://go.gov.sg/allotment-guide">A Guide to Designing and Implementing Allotment Gardens</a></li>	
+				<li><a target="_blank" href="https://go.gov.sg/community-garden-design">A Guide to Designing and Implementing Community Gardens</a></li>	
+</ul>
 </section>
