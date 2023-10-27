@@ -26,10 +26,7 @@ image: ""
 <section>
 	<h4>Sun and soil needs:</h4>
 	<p>This vine does best in full sun gardens with a minimum of <a href="/page-index/horticulture-techniques/gauging-light/">6 hours of direct sunlight</a>. This plant can also grow with 4-5 hours of direct sunlight and at least 6 hours of indirect sunlight, but will produce less fruits.</p>
-	<p>Plants do best in <a href="/page-index/horticulture-techniques/soil/">loamy soil</a> at least 30cm deep, or in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a>. The plant can be grown in smaller pots about 20cm deep, but growth will be slower due to the lack of water retention in less soil and a smaller root ball.</p>
-	<p>This vine is vulnerable to heat stress during the dry season. Water it regularly and <a href="/page-index/horticulture-techniques/mulching/">mulch</a> the base to prevent water loss.</p>
-<p>As a fast-growing vine, this plant needs a sturdy <a href="/page-index/hardscapes/trellises">trellis</a> to scramble on. Because the fruits hang down, it is ideal for arch-shaped trellises.</p>	
-	<p>As with all members of the melon family, this plant is <a href="/page-index/biodiversity/pollinators/">bee-pollinated</a> and produces male and female flowers. To encourage the formation of more fruits, it is best to have at least 3 separate plants growing in the same area to have both male and female flowers available, and to have <a href="/page-index/glossary/biodiversity-attracting-plants/">bee-attracting plants</a> within the garden to encourage pollination.</p>
+	<p>Plants do best in <a href="/page-index/horticulture-techniques/planting-in-containers/">pots</a> with <a href="/page-index/horticulture-techniques/soil/">loamy soil</a> at least 30cm deep, or in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a>. The plant can be grown in smaller pots about 20cm deep, but will grow slower and produce less fruits.</p>
 	<br>
 </section>
 
@@ -45,6 +42,9 @@ image: ""
 	<h4>Growing:</h4>
 	<p>Cucumbers will produce more <a href="/learn-more-about-gardening/glossary/#flower">flowers</a> and thus more fruit when fed with fertilisers high in phosphorus and potassium. Plants can be <a href="/page-index/horticulture-techniques/fertilising/">fertilised</a> regularly once a month or once every two months after the plant produces its first flower for a fuller crop.</p>
 	<p>Because the vines will grow on top of each other, it is a good practice to <a href="/page-index/horticulture-techniques/pruning">prune</a> regularly and remove dead leaves and vines to improve ventilation and allow light to reach more of the plant.</p>
+		<p>This vine is vulnerable to heat stress during the dry season. Water it regularly and <a href="/page-index/horticulture-techniques/mulching/">mulch</a> the base to prevent water loss.</p>
+<p>As a fast-growing vine, this plant needs a sturdy <a href="/page-index/hardscapes/trellises">trellis</a> to scramble on. Because the fruits hang down, it is ideal for arch-shaped trellises.</p>	
+	<p>As with all members of the melon family, this plant is <a href="/page-index/biodiversity/pollinators/">bee-pollinated</a> and produces male and female flowers. To encourage the formation of more fruits, it is best to have at least 3 separate plants growing in the same area to have both male and female flowers available, and to have <a href="/page-index/glossary/biodiversity-attracting-plants/">bee-attracting plants</a> within the garden to encourage pollination.</p>
 	<p>Direct sunlight can damage the fruit. Allow leaves to grow over the fruit or protect it using a cloth cover.</p>
 	<p><b>Young fruits have prickly hairs or small spines which can irritate the skin. Use gloves when handling the plant for safety.</b></p>
 	<p>The fruit is prone to rotting if it is left in contact with the wet ground. Consider placing the fruit on a burlap sack or grow the plant up a trellis to encourage the fruits to hang downwards.</p>
