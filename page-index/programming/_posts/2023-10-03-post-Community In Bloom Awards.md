@@ -29,12 +29,12 @@ image: /images/Gardeners/Posing (12).jpg
 	<h4>Past awards</h4>
 	<p>Download the results dossiers for previous editions below:</p>
 	<ul>
-		<li>CIB Awards 2022 (Housing estates)</li>
-		<li>CIB Awards 2021 (Schools &amp; Organisations)</li> 
-		<li>CIB Awards 2020 (Housing Estates)</li>
-		<li>CIB Awards 2018</li>
-		<li>CIB Awards 2016</li>
-		<li>CIB Awards 2014</li>
+		<li><a href="https://go.gov.sg/ciba2022-results-dossier">CIB Awards 2022 (Housing estates)</a></li>
+		<li><a href="https://go.gov.sg/ciba2021-results-dossier">CIB Awards 2021 (Schools &amp; Organisations)</a></li> 
+		<li><a href="https://go.gov.sg/ciba2020-results-dossier">CIB Awards 2020 (Housing Estates)</a></li>
+		<li><a href="https://go.gov.sg/ciba2018-results-dossier">CIB Awards 2018</a></li>
+		<li><a href="https://go.gov.sg/ciba2016-results-dossier">CIB Awards 2016</a></li>
+		<li><a href="https://go.gov.sg/ciba2014-results-dossier">CIB Awards 2014</a></li>
 	</ul>
 	<p>Watch videos of previous Gardens of the Year Awards winners:</p>
 	<iframe width="100%" height="415" src="https://www.youtube.com/embed/jB1WD0su6oU?si=TY3EsdD3dEmV3Vpu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
