@@ -12,8 +12,8 @@ image: /images/Garden design/AllotmentGarden_JacChua (2).jpg
         cursor: pointer;
         }
     
-   summary:after {
-        font-style: bold;
+   summary:open {
+        font-weight: 900;
         }
 </style>
 
