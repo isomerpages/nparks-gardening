@@ -12,8 +12,8 @@ image: /images/Biodiversity/earthworm_trueground.jpg
 	<ul>
 		<li>Regularly add organic matter to the soil in the form of <a href="/page-index/horticulture-techniques/mulching/">mulch</a> or <a href="/page-index/horticulture-techniques/composting/">compost</a></li>
 		<li>Avoid leaving the soil bare for long periods of time. Heavy rains will wash away organic matter, leaving dense and sticky clay that is difficult for most organisms to live in. Grow <a href="/page-index/horticulture-techniques/companion-planting/">groundcovers</a> or practice <a href="/page-index/horticulture-techniques/plant-spacing/">interplanting</a> to protect your soil</li>
-			</ul>
 		<li>Avoid using general pesticides which may kill biodiversity as it is washed into the soil</li>
+	</ul>
 	<p>Some common things you will see in your soil are:</p>
 	<br>
 </section>
@@ -30,8 +30,9 @@ image: /images/Biodiversity/earthworm_trueground.jpg
 
 <section>
 	<h4>Fungi</h4>
+	<img title="Fruiting bodies of fungi. Photo by Zara Chin." src="/images/Biodiversity/fungi_zarachin.jpg">
 	<p>Mushrooms are the fruiting bodies of fungi, and while they look delicious it is generally not recommended that you eat them. The tropics has a massive diversity of fungi, some of which can be poisonous. It is better to be safe rather than sorry and leave them be!</p>
-	<p>Fungi are important decomposers and are key to breaking down woody plant material into nutrients that can be taken up by plants. Soil, compost, and mulch that have a lot of woody material will have more mushrooms appearing and should not cause alarm. However, mushrooms appearing in pots can be concerning as they generally need moist environments to survive; a plant pot with many mushrooms could be overly moist due to poor drainage, which may eventually lead to root rot for the plant.</p>
+	<p>Fungi are important decomposers and are key to breaking down woody plant material into nutrients that can be taken up by plants. <a href="/page-index/horticulture-techniques/soil/">Soil</a>, <a href="/page-index/horticulture-techniques/composting/">compost</a>, and <a href="/page-index/horticulture-techniques/mulching/">organic mulch</a> that has a lot of woody material will have more mushrooms appearing, particularly during the wet season, and should not cause alarm. However, mushrooms appearing in pots can be concerning as they generally need moist environments to survive; a plant pot with many mushrooms could be overly moist due to poor drainage, which may eventually lead to <a href="/page-index/plant-problems/root-rot/">root rot</a> for the plant.</p>
 	<br>
 </section>
 
@@ -39,7 +40,7 @@ image: /images/Biodiversity/earthworm_trueground.jpg
 	<h4>Millipedes</h4>
 		<img title="Milipedes mating Photo by Victoria Lim." src="/images/Biodiversity/millipedes_victorialim.jpg">
 	<p>These many-legged creatures are often found in parks and gardens that use mulch and compost with a lot of woody material. They are harmless, but they can produce an unpleasant smell if startled.</p>
-	<p>Another decomposer, millipedes eat decaying wood and leaf litter. Their eggs can sometimes be brought into a garden via unheated compost or in woody mulch, and adults generally appear during the wet season.</p>
+	<p>Another decomposer, millipedes eat decaying wood and leaf litter. Their eggs can sometimes be brought into a garden via unheated <a href="/page-index/horticulture-techniques/composting/">compost</a> or in <a href="/page-index/horticulture-techniques/mulching/">woody mulch</a>. Adults usually appear during the wet season.</p>
 	<p>Millipedes are generally not considered a pest, although their waste products can cause burns on young leafy vegetables if they are present in a garden in high numbers. Millipedes can be removed by hand, and their population controlled by using less woody material in the garden.</p>
 	<p>Download a Research Technical Note on Millipedes in Singapore <a href="https://www.nparks.gov.sg/-/media/cuge/pdf/rtn-11-2012---urban-millipedes-in-singapore.ashx">here</a>.</p>
 	<br>
