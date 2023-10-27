@@ -18,7 +18,7 @@ image: ""
 <section>
 	<img title="Long bean plants growing on a square trellis. Photo by Jacqueline Chua." src="/images/Plants/longbean_cagetrellis_jacquelinechua.jpg">
 	<p>Long beans are a hardy and productive crop suitable for new gardeners who want to grow a fruiting climber. Immature long beans can be eaten raw, stir-fried or steamed.</p>
-	<p>An <a href="/learn-more-about-gardening/glossary/#a/">annual</a> crop, these plants are often grown in rotation with other fruiting climbers. </p>
+	<p>An <a href="/learn-more-about-gardening/glossary/#a/">annual</a> crop, these plants are often grown as part of <a href="/page-index/horticulture-techniques/crop-rotation/">crop rotation</a> with other fruiting climbers. </p>
 	<p>This plant is part of the 	Fabaceae or Bean family, which includes other popular edible fruits like Winged Bean, Peanut, and Sword Bean.  All members of the bean family can be used for <a href="/page-index/horticulture-techniques/companion-planting">companion planting</a> as they can fix nitrogen into the soil. 
 </p>
 	<br>
