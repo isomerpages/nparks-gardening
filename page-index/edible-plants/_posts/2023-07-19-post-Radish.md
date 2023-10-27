@@ -16,7 +16,7 @@ image: ""
 </section>
 
 <section>
-	<img title="Photo by Jacqueline Chua." src="/images/Plants/Radish_JacChua%20(1).jpg">
+	<img title="Radish plants growing in true ground. Photo by NParks." src="/images/Plants/Radish_JacChua%20(1).jpg">
 	<p>Radishes are a popular root vegetable that is eaten raw, steamed, in soup or in sauces. Both the fleshy root and the leaves are edible and have a slightly spicy taste. </p>
 	<p>An <a href="/learn-more-about-gardening/glossary/#a">annual</a> crop, this plant is often grown and consumed under 2 months. Its rapid harvest cycle makes it useful for <a href="/page-index/horticulture-techniques/crop-rotation/">crop rotation</a>.</p>
 	<p>Radishes are part of the Brassica or cabbage family, which also includes other popular vegetables like <a href="/page-index/edible-plants/kai-lan/">Kai Lan</a> and <a href="/page-index/edible-plants/xiao-bai-cai/">Xiao Bai Cai</a>.</p>
@@ -26,7 +26,8 @@ image: ""
 <section>
 	<h4>Sun and soil needs:</h4>
 		<img title="Photo by Jacqueline Chua." src="/images/Plants/Radish_JacChua%20(4).jpg">
-<p>As with most vegetables, Radishes need <a href="/page-index/horticulture-techniques/gauging-light/">about 4-6 hours of direct sunlight</a>. They can also grow in at least 6 hours of indirect sunlight, but may produce smaller leaves and roots. Plants do best in <a href="/page-index/horticulture-techniques/soil/">loamy soil</a> at least 15cm deep, making them suitable for <a href="/page-index/horticulture-techniques/container-planting/">container gardening</a>. These plants are vulnerable to <a href="/page-index/plant-problems/root-rot/">root rot</a>, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe. High organic matter content also makes the soil soft, encouraging more root growth and larger roots overall. </p>
+<p>As with most vegetables, Radishes need <a href="/page-index/horticulture-techniques/gauging-light/">about 4-6 hours of direct sunlight</a>. They can also grow in at least 6 hours of indirect sunlight, but may produce smaller leaves and roots.</p>
+	<p> Plants do best in <a href="/page-index/horticulture-techniques/planting-in-containers/">pots</a> with <a href="/page-index/horticulture-techniques/soil/">loamy soil</a> at least 30cm deep, or in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a>. </p><p>These plants are vulnerable to <a href="/page-index/plant-problems/root-rot/">root rot</a>, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe. High organic matter content also makes the soil soft, encouraging more root growth and larger roots overall. </p>
 	<br>
 </section>
 
