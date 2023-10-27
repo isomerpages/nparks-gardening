@@ -27,10 +27,7 @@ image: ""
 <section>
 	<h4>Sun and soil needs:</h4>
 	<p>This vine does best in <a href="/page-index/horticulture-techniques/gauging-light/">full sun gardens with a minimum of 6 hours of direct sunlight</a>. It can also grow in 4-6hours of direct sunlight or more than 6 hours of indirect sunlight, but the plant may be less lush and produce less fruits. </p>
-	<p>Plants do best in <a href="/page-index/horticulture-techniques/soil/">loamy soil</a> at least 30cm deep, or in true ground. </p>
-	<p>This vine is vulnerable to heat stress during the dry season. Water it regularly and <a href="/page-index/horticulture-techniques/mulching/">mulch</a> the base to prevent water loss.</p>
-	<p>As a fast-growing vine, this plant can be grown on the ground or trained up a sturdy <a href="/page-index/hardscapes/trellises/">trellis</a>. The fruits are quite long and often exceed 30cm, so they do best on tall trellises. </p>
-	<p>As with all members of the bean family, this plant is pollinated by bees. Growing more <a href="/page-index/glossary/biodiversity-attracting-plants">bee-attracting plants</a> within the garden will encourage pollination. </p>
+	<p>Plants do best in <a href="/page-index/horticulture-techniques/planting-in-containers/">pots</a> with <a href="/page-index/horticulture-techniques/soil/">loamy soil</a> at least 30cm deep, or in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a>. </p>
 	<br>
 </section>
 
@@ -44,8 +41,10 @@ image: ""
 
 <section>
 	<h4>Growing:</h4>
-	<p>Bean plants generally don’t require much fertilising because they are able to fix their own nitrogen. However, they do benefit from being fed high potassium and phosphorus <a href="/page-index/horticulture-techniques/fertilising/">fertilisers</a> to encourage flowering and thus fruiting. </p>
-Because the vines will grow on top of each other, it is a good practice to <a href="/page-index/horticulture-techniques/pruning/">prune</a> regularly and remove dead leaves and vines to improve ventilation and allow light to reach more of the plant.<p></p>
+	<p>Bean plants generally don’t require much fertilising because they are able to fix their own nitrogen. However, they do benefit from being fed high potassium and phosphorus <a href="/page-index/horticulture-techniques/fertilising/">fertilisers</a> once a month after their first flower to encourage flowering and thus fruiting. </p>
+<p>Because the vines will grow on top of each other, it is a good practice to <a href="/page-index/horticulture-techniques/pruning/">prune</a> regularly and remove dead leaves and vines to improve ventilation and allow light to reach more of the plant.</p>
+		<p>This vine is vulnerable to heat stress during the dry season. Water it regularly and <a href="/page-index/horticulture-techniques/mulching/">mulch</a> the base to prevent water loss.</p>
+	<p>As a fast-growing vine, this plant can be grown on the ground or trained up a sturdy <a href="/page-index/hardscapes/trellises/">trellis</a>. The fruits are quite long and often exceed 30cm, so they do best on tall trellises. </p>
 	<br>
 </section>
 
@@ -94,11 +93,8 @@ Because the vines will grow on top of each other, it is a good practice to <a hr
 	<h4>Common problems &amp; solutions:</h4>
 <p>Young plants have soft stems and can be completely eaten by <a href="/page-index/pests/snails-and-slugs/">slugs and snails</a>. Grow seedlings till they are at least 10cm tall before planting them in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a>, or use DIY <a href="/page-index/horticulture-techniques/cloches/">cloches</a> or <a href="/page-index/hardscapes/netting/">netting</a> to protect young plants. </p>
 <p>If your plant has few to no flowers, you can fertilise the plant with <a href="/page-index/horticulture-techniques/fertilising/">fertilisers high in phosphorus and potassium</a>. These nutrients encourage root and flower growth, which are important for the plant to produce more fruit.</p>
-	<p>However, if your plant is producing lots of flowers but is not bearing fruit, you may not have female and male flowers present in the same area together. Pollen from the male flower needs to be transferred to the female flower before the female flower can become a fruit. This process is called pollination and is important or the formation of many edible fruits. Vines from the melon family generally produce male flowers before female flowers. Having at least 3 plants of varying ages in the garden will make both male and female flowers present for pollination to happen.</p>
-<p> Many plants require <a href="/page-index/biodiversity/pollinators/">pollinators</a> to help them fruit. Bees, butterflies, birds and even beetles transport pollen from one flower to another, pollinating your crops and increasing their fruit yield. Attract some pollinators to your garden by growing <a href="/page-index/glossary/biodiversity-attracting-plants">pollinator-attracting crops</a>.</p>
 <p><a href="/page-index/pests/aphids/">Aphids</a>, <a href="/page-index/pests/mealy-bugs/">Mealy Bugs</a>, <a href="/page-index/pests/whiteflies/">Whiteflies</a>, and <a href="/page-index/pests/spider-mites/">spider mites</a> often infest the plant if it has <a href="/learn-more-about-gardening/plant-problems/">underlying problems</a> like repeated wilting from heat stress. <a href="/horticulture-techniques/pest-control/">Mechanical pest control</a> methods like <a href="/page-index/horticulture-techniques/pruning/">pruning</a> the infested parts are the best methods for managing these pests in the short term, but resolving the underlying problem will prevent them in the long term.</p>
 		<p><a href="/page-index/plant-problems/wilting/">Wilting</a> leaves during hot weather is a sign of heat stress. Increase the number of times the plant is watered daily, and apply mulch at the base to prevent water loss.</p>
-	<p><a href="/page-index/pests/oriental-fruit-flies/">Fruit flies</a>,  can lay eggs in the fruit, resulting in larvae damaging the fruit and creating spots on the skin. Wrap your fruit in <a href="/page-index/hardscapes/netting">netting</a> when it starts to develop from a fertilised flower, ideally after all the petals have dropped off.</p>
 	<p><a href="/page-index/pests/pests/#rodents">Squirrels and birds</a> may eat unripe or ripe fruit. Wrap your fruit in <a href="/page-index/hardscapes/netting">netting</a> when it starts to develop from a fertilised flower, ideally after all the petals have dropped off.</p>
 	<br>
 </section>
