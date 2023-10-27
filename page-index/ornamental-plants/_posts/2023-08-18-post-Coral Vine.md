@@ -25,7 +25,7 @@ image: ""
 <section> 
   <h4>Sun and soil needs:</h4> 
 	<img title="Coral vines growing along a fence. Photo by Jacqueline Chua." src="/images/Plants/coralvine%20(3)_jacquelinechua.jpg">
-  <p>This plant thrives in <a href="/page-index/horticulture-techniques/gauging-light/">4-8 hours of direct sunlight</a>. This plant can also grow in at least 6 hours of indirect sunlight, but growth will be slower and the plant will produce less flowers. Plants do best in <a href="/page-index/horticulture-techniques/soil/">loamy soil</a>. These plants are vulnerable to <a href="/page-index/plant-problems/root-rot/">root rot</a>, so ensure that your soil has plenty of <a href="/page-index/horticulture-techniques/soil-amendments/">organic matter</a> to let the roots breathe. This plant is a versatile climber that does well on a variety of <a href="/page-index/hardscapes/trellises/">trellises</a>.</p> 
+  <p>This plant thrives in <a href="/page-index/horticulture-techniques/gauging-light/">4-8 hours of direct sunlight</a>. This plant can also grow in at least 6 hours of indirect sunlight, but growth will be slower and the plant will produce less flowers. Plants do best in <a href="/page-index/horticulture-techniques/planting-in-containers/">pots</a> with <a href="/page-index/horticulture-techniques/soil/">loamy soil</a> at least 30cm deep, or in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a>. These plants are vulnerable to <a href="/page-index/plant-problems/root-rot/">root rot</a>, so ensure that your soil has plenty of <a href="/page-index/horticulture-techniques/soil-amendments/">organic matter</a> to let the roots breathe. This plant is a versatile climber that does well on a variety of <a href="/page-index/hardscapes/trellises/">trellises</a>.</p> 
 	<br>
 </section>
 
@@ -45,5 +45,6 @@ image: ""
   <h4>Common problems &amp; solutions:</h4> 
 	<p>This plant is relatively resistant to pests and disease if kept healthy.</p>
 	<p>If the plant does not receive enough light, it will stop producing flowers. <a href="/page-index/horticulture-techniques/pruning/">Prune</a> surrounding plants or move the plant to a sunnier spot to promote flower growth.</p>
+	<p>If your plant has few to no flowers, you can fertilise the plant with <a href="/page-index/horticulture-techniques/fertilising/">fertilisers high in phosphorus and potassium</a>. </p>
 	<br> 
 </section>
