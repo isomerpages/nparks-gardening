@@ -19,13 +19,14 @@ image: ""
  
 <section> 
   <h4>Sun and soil needs:</h4> 
-  <p>Walking Sansevieria thrives in <a href="/page-index/horticulture-techniques/gauging-light/">4-6 hours of indirect sunlight</a>, but <a href="/page-index/plant-problems/sunburn/">may burn</a> in direct sun. They are best planted in <a href="/page-index/horticulture-techniques/soil/">sandy soil</a> with <a href="/page-index/horticulture-techniques/soil-amendments/">plenty of inorganic soil amendments</a> as they are vulnerable to <a href="/page-index/plant-problems/root-rot/">root rot</a>.</p> 
+  <p>Walking Sansevieria thrives in <a href="/page-index/horticulture-techniques/gauging-light/">4-6 hours of indirect sunlight</a>, but <a href="/page-index/plant-problems/sunburn/">may burn</a> in direct sun. Plants do best in <a href="/page-index/horticulture-techniques/planting-in-containers/">pots</a> with <a href="/page-index/horticulture-techniques/soil/">sandy soil</a> at least 10cm deep.</p> 
 	<br>
 </section>
 
 <section> 
   <h4>Growing:</h4> 
-	<p>Walking Sansevieria are slow-growing and does not need frequent fertilising. <a href="/page-index/horticulture-techniques/fertilising/">A balanced slow releasing fertiliser</a> every 6 months would be sufficient. Ensure that there is good airflow to dry out the soil before watering again.</p> 
+	<p>Walking Sansevieria are slow-growing and does not need frequent fertilising. <a href="/page-index/horticulture-techniques/fertilising/">A balanced slow releasing fertiliser</a> every 6 months would be sufficient.</p>
+		<p>This plant requires very little water and is vulnerable to <a href="/page-index/plant-problems/root-rot/">root rot</a>. Consider <a href="/page-index/horticulture-techniques/bottom-watering/">bottom watering</a> this plant once  every two weeks or less to reduce the chances of rot.</p>
 	<p>As with all potted plants, regular repotting once a year will prevent it from becoming <a href="/page-index/plant-problems/root-bound/">root bound</a>.</p> 
 	<br> 
 </section> 
