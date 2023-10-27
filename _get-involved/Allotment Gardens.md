@@ -196,8 +196,8 @@ will continue making available more plots across the island for new gardeners. N
 			</details>
 			</div>
 				</li>
-<li><input type="checkbox" id="accordion5">
-		<label for="accordion5">Temporary Occupation Licence (TOL) Payments</label>
+<li><input type="checkbox" id="accordion6">
+		<label for="accordion6">Temporary Occupation Licence (TOL) Payments</label>
 		<div>
 			<details>
 				<summary>26. Can I get refund of my TOL once I have made payment?</summary>
