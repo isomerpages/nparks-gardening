@@ -18,19 +18,19 @@ image: ""
 <section>
 	<img title="Aloe Vera plants grown in pots. Photo by Jacqueline Chua." src="/images/Plants/aloevera5_jacquelinechua.jpg">
 	<p>Aloe Vera is a succulent herb that grows usually up to 0.3 – 0.6m but can be 1.2m tall in the wild. It has long fleshy triangular leaves arranged in a rosette and is drought tolerant. The smooth leaves are light green with white spots and a spiny leaf margin. It has golden yellow flowers that grows in a cluster, forming an inflorescence.</p>
-	<p>A <a href="/learn-more-about-gardening/glossary/#p">perennial</a>, fleshy herb, Aloe Veras are great plants to <a href="/page-index/horticulture-techniques/planting-in-containers/">grown in containers</a> outdoors. Or in gardens with sandy soil. Historically, Aloe Vera gel has been used for a wide range of skin conditions and was thought to promote wound healing and soothe inflammations. The jelly-like flesh of the leaves is also edible, and often used in beverages and desserts.</p>
+	<p>A <a href="/learn-more-about-gardening/glossary/#p">perennial</a>, fleshy herb, Aloe Veras are great plants to <a href="/page-index/horticulture-techniques/planting-in-containers/">grow in containers</a> outdoors, or in gardens with sandy soil. Historically, Aloe Vera gel has been used for a wide range of skin conditions and was thought to promote wound healing and soothe inflammations. The jelly-like flesh of the leaves is also edible, and often used in beverages and desserts.</p>
 	 <br> 
 </section> 
  
 <section> 
   <h4>Sun and soil needs:</h4> 
-  <p>This plant thrives in <a href="/page-index/horticulture-techniques/gauging-light/">at least 6 hours of direct sunlight</a>. It can also grow in 4-6hours of direct sunlight or at least 6 hours of indirect sunlight, but at a much slower rate.  They do best in <a href="/page-index/horticulture-techniques/soil/">porous, well-drained soil</a> and require moderate watering.</p> 
+  <p>This plant thrives in <a href="/page-index/horticulture-techniques/gauging-light/">at least 6 hours of direct sunlight</a>. It can also grow in 4-6hours of direct sunlight or at least 6 hours of indirect sunlight, but at a much slower rate. Plants do best in <a href="/page-index/horticulture-techniques/planting-in-containers/">pots</a> with <a href="/page-index/horticulture-techniques/soil/">sandy soil</a> at least 15cm deep, or in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a></p> 
 	<br>
 </section>
 
 <section> 
   <h4>Growing:</h4> 
-	<p>Watering should be done at the soil level if possible, to prevent water collecting on the leaves which can cause fungal diseases, leading to rot. <a href="/page-index/horticulture-techniques/fertilising/">Fertilise</a> Aloe Veras sparingly, at most once a month with a balanced fertiliser at half the dosage. You may also want to divide new offshoots as they form, so that the mother plant will not grow off centre.</p> 
+	<p>Watering should be done at the soil level if possible to prevent water collecting on the leaves which can cause fungal diseases, leading to rot. <a href="/page-index/horticulture-techniques/fertilising/">Fertilise</a> Aloe Veras sparingly, at most once a month with a balanced fertiliser at half the dosage.  Offshoots can also be divided as they form so that the mother plant will not grow off centre.</p> 
 	<br> 
 </section> 
 
