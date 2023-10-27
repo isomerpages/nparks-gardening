@@ -25,7 +25,7 @@ image: ""
 <section> 
   <h4>Sun and soil needs:</h4> 
 	<img title="Javanese Ixora bush in flower. Photo by Jacqueline Chua." src="/images/Plants/javaneseixora%20(1)_jacquelinechua.jpg">
-  <p>This plant thrives in <a href="/page-index/horticulture-techniques/gauging-light/">4-8 hours of direct or indirect sunlight</a>. Plants do best in <a href="/page-index/horticulture-techniques/soil/">loamy soil but are also tolerant of clayey soils</a>.</p> 
+  <p>This plant thrives in <a href="/page-index/horticulture-techniques/gauging-light/">4-8 hours of direct or indirect sunlight</a>.Plants do best in <a href="/page-index/horticulture-techniques/planting-in-containers/">pots</a> with <a href="/page-index/horticulture-techniques/soil/">loamy soil</a> at least 30cm deep, or in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a>. This plant is also tolerant of clayey soils.</p> 
 	<br>
 </section>
 
@@ -47,6 +47,7 @@ image: ""
 	<p>This plant is relatively resistant to pests and disease if kept healthy.</p>
 	<p>Javanese Ixoras may look leggy when young. Encourage bushiness with <a href="/page-index/horticulture-techniques/pruning/">regular pruning</a>.</p>
 	<p>If the plant does not receive enough light, it will stop producing flowers. Prune surrounding plants or move the plant to a sunnier spot to promote flower growth.</p>
-	<p>This plant is prone to <a href="/page-index/plant-problems/nutrient-deficiencies/">iron deficiencies</a> when grown in <a href="/page-index/plant-problems/waterlogging/">waterlogged</a> soil.</p>
+	<p><a href="/page-index/pests/mealy-bugs/">Mealy Bugs</a> and <a href="/page-index/pests/scale-insects/">Scale Insects</a> often infest the plant if it has <a href="/learn-more-about-gardening/plant-problems/">underlying problems</a> like waterlogging. <a href="/horticulture-techniques/pest-control/">Mechanical pest control</a> methods like <a href="/page-index/horticulture-techniques/pruning/">pruning</a> the infested parts are the best methods for managing these pests in the short term, but resolving the underlying problem will prevent them in the long term.</p>
+<p>This plant may show signs of <a href="/page-index/plant-problems/nutrient-deficiencies/">iron deficiency</a> in which new leaves will turn pale yellow with dark green veins. This is usually caused by <a href="/page-index/plant-problems/waterlogging/">waterlogged</a> soil, particularly during the wet season. Improve drainage by mixing in more <a href="/horticulture-techniques/soil-amendments/"> organic matter</a> or adding a subsoil drain nearby.</p>
 	<br> 
 </section>
