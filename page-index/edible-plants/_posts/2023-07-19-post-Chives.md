@@ -26,21 +26,21 @@ image: ""
 <section>
 	<h4>Sun and soil needs:</h4>
 	<img title="Chive plants growing in pots.Photo by Jacqueline Chua." src="/images/Plants/chives_jacquelinechua.jpg">
-	<p>As with most herbs, Chives need about <a href="/page-index/horticulture-techniques/gauging-light">4-6 hours of direct sunlight or 6-8 hours of indirect sunlight</a>. This plant will grow faster in direct sunlight but will tolerate shadier conditions. Plants do best in <a href="/page-index/horticulture-techniques/soil/">loamy or sandy soil</a> at least 5cm deep, making them suitable for container gardening. These plants are vulnerable to <a href="/page-index/plant-problems/root-rot/">root rot</a>, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe. </p>
+	<p>As with most herbs, Chives need about <a href="/page-index/horticulture-techniques/gauging-light">4-6 hours of direct sunlight or 6-8 hours of indirect sunlight</a>. This plant will grow faster in direct sunlight but will tolerate shadier conditions. Plants do best in <a href="/page-index/horticulture-techniques/planting-in-containers/">pots</a> with <a href="/page-index/horticulture-techniques/soil/">loamy soil</a> at least 30cm deep, or in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a>. These plants are vulnerable to <a href="/page-index/plant-problems/root-rot/">root rot</a>, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe. </p>
 	<br>
 </section>
 
 <section>
   <h4>Sowing seeds:</h4>
 		<iframe width="100%" height="415" src="https://www.youtube.com/embed/x7J87wY7U6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
-	<p>Sow seeds individually in a seedling tray filled with potting mix or seedling mix. Lightly mist the soil until damp, once a day. Seeds should sprout within two weeks.</p>
+	<p><a href="/page-index/horticulture-techniques/propagating-by-seed">Sow seeds</a> individually in a seedling tray filled with potting mix or seedling mix. Lightly mist the soil until damp, once a day. Seeds should sprout within two weeks.</p>
 	<p>The seedlings will be vulnerable to high heat and heavy rain and are best kept in a sheltered propagation area or a shaded space with around 4 hours of partial or direct sunlight.</p>
 	<br>
 </section>
 
 <section>
 	<h4>Transplanting:</h4>
-	<p>Seedlings will be ready for transplanting into pots or true ground when they are roughly 10cm tall. Leave 5-10cm between each plant to encourage more growth and better ventilation.</p>
+	<p>Seedlings will be ready for <a href="/page-index/horticulture-techniques/transplanting/">transplanting</a> into pots or true ground when they are roughly 10cm tall. Leave 5-10cm between each plant to encourage more growth and better ventilation.</p>
 	<br>
 </section>
 	
@@ -54,7 +54,7 @@ image: ""
 	<h4>Harvesting:</h4>
 	<p>Plants can be harvested for leaves at any time, with younger leaves being the most tender. They are typically harvested continuously via the <a href="/page-index/horticulture-techniques/cut-and-come-again">cut-and-come-again method</a>.</p>
 	<img title="Dry black seed pods of Chives. Photo by Jacqueline Chua." src="/images/Plants/Chives_JacChua%20(2).jpg">
-	<p>If allowed the flower, the young, yellow flowers can also be harvested for eating. If the flowers are turn into fruit and produce dry, black seed pods, the seeds can be used to grow another crop.</p>
+	<p>If allowed the flower, the young flowers can also be harvested for eating. If the flowers are turn into fruit and produce dry, black seed pods, the seeds can be used to grow another crop.</p>
 	<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/FuWK90da0GY" height="415" width="100%"></iframe><br>
 	<br>
 </section>
