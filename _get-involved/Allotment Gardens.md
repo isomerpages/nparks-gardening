@@ -33,6 +33,12 @@ image: /images/Garden design/AllotmentGarden_JacChua (2).jpg
 	<li><input type="checkbox" id="accordion1">
 		<label for="accordion1">Allotment Garden Scheme - General</label>
 		<div>
+			<details>
+				<summary>What is an allotment garden?</summary>
+				These are the **details** for this item.
+		</details>
+		</div>
+		<div>
 			<ul class="jekyllcodex_accordion">
 				<li><input type="checkbox" id="accordion1a">
 					<label for="accordion1a">What is an allotment garden?</label><div><p>Allotment gardens are areas located within parks and gardens that house gardening plots available for lease to the community to grow their own plants. With most of the population living in high-rise flats with minimalspace for gardening within their household footprint, these allotment garden plots provide them with further opportunities to garden. To date, more than 2000 allotment garden plots have been made available to the community with plans for further expansion. In tandem, NParks is working with Town Councils and Grassroot Organisations to provide advice on setting up of allotment gardens in public housing estates so that residents can garden closer to their homes. </p></div>
