@@ -102,6 +102,7 @@ image: /images/Hardscapes/Corridorgarden_JacChua (2).jpg
 				<li><a href="/page-index/ornamental-plants/lawyers-tongue">Lawyer's Tongue</a> (<em>Gasteria obliqua</em>)</li>
 				<li><a href="/page-index/ornamental-plants/lipstick-plant/">Lipstick Plant</a> (<em>Aeschynanthus pulcher</em>)
 				</li><li><a href="/page-index/ornamental-plants/walking-sansevieria">Walking Sansevieria</a> (<em>Dracaena pinguicula</em>)</li>
+				<li><a href="/page-index/ornamental-plants/wandering-jew/">Wandering Jew</a> (<em>Tradescantia zebrina</em>)</li>
 			</ul>
 		</div></li>
 	</ul>
