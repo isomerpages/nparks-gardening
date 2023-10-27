@@ -26,20 +26,15 @@ image: ""
 
 <section>
 	<h4>Sun and soil needs:</h4>
-	<img src="/images/Plants/Tomato_JacChua%20(3).jpg">
+	<img title="Yellow cherry tomatoes ripening one after the other. Photo by Jacqueline Chua." src="/images/Plants/Tomato_JacChua%20(3).jpg">
 	<p>This vine does best in full sun gardens with a <a href="/page-index/horticulture-techniques/gauging-light/">minimum of 6 hours of direct sunlight</a>. This plant can also grow with 4-5 hours of direct sunlight and at least 6 hours of indirect sunlight, but will produce less fruits.</p>
-	<p>Plants do best in <a href="/page-index/horticulture-techniques/soil/">loamy or sandy soil</a> at least 15cm deep. They are usually grown in <a href="/page-index/horticulture-techniques/planting-in-containers/">pots</a>, but they can also be grown in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a> that has been heavily amended with <a href="/page-index/horticulture-techniques/soil-amendments/">organic soil amendments</a>.</p>
-	<iframe width="100%" height="415" src="https://www.youtube.com/embed/eGBg_S8yj0U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
-	<p>Depending on the cultivar, tomatoes can grow as a vine (indeterminate) or as a small shrub (determinate). Vining varieties will need <a href="/page-index/hardscapes/staking/">stakes</a> or a <a href="/page-index/hardscapes/trellises/">trellis</a> to support their growth.</p>
-	<p>As with all members of the Nightshade family, this plant is buzz-pollinated and produces the most fruit when bees are around to pollinate it. Growing more <a href="/page-index/glossary/biodiversity-attracting-plants/">bee-attracting plants</a> within the garden will encourage pollination.  </p>
-	<p> Tomato plants need to be watered consistently, and have good soil drainage. Plants in <a href="/page-index/plant-problems/waterlogging/">waterlogged soil</a> or pots with poor drainage tend to get <a href="/page-index/plant-problems/root-rot/">root rot</a> easily, resulting in the plant dying quickly. Tomatoes exposed to a lot of water suddenly, like during the first storm of the monsoon season, may have their fruits crack. Plants that lack water or are <a href="/page-index/horticulture-techniques/watering/">inconsistently watered</a> tend to <a href="/page-index/plant-problems/wilting/">wilt</a>, particularly at the hottest part of the day, and may get <a href="/page-index/plant-problems/nutrient-deficiencies/">blossom end rot</a>. Blossom end rot looks like dark, sunken patches at the end of fruits, and is a symptom of a lack of calcium. Most soils in Singapore have plenty of calcium, but a lack of water will prevent it from reaching the fruit.</p>
-	<p>All of these watering-related problems can be managed by planting tomatoes in well-draining soil with plenty of <a href="/page-index/horticulture-techniques/soil-amendments/">organic matter like compost and cocopeat</a>. This is because organic matter soaks water up like a sponge, but will allow excess water to drain away, thus making sure that the roots can breathe and prevents root rot. With such well-draining soil, the plants can then be watered by hand or via an irrigation system twice a day to keep the soil moist, and the plant well-watered. Plants grown during the monsoon season can be protected by a <a href="/page-index/hardscapes/shelters/">shelter</a> to prevent the large influx of water during storms from cracking fruits.</p>
+	<p>Plants do best in <a href="/page-index/horticulture-techniques/planting-in-containers/">pots</a> with <a href="/page-index/horticulture-techniques/soil/">loamy soil</a> at least 15cm deep, or in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a>.</p>
 	<br>
 </section>
 
 <section>
   <h4>Sowing seeds:</h4>
-	<p>Sow seeds individually in a seedling tray filled with potting mix or seedling mix. Lightly mist the soil until damp, once a day. Seeds should sprout within two weeks.</p>
+	<p><a href="/page-index/horticulture-techniques/propagating-by-seed/">Sow seeds individually</a> in a seedling tray filled with potting mix or seedling mix. Lightly mist the soil until damp, once a day. Seeds should sprout within two weeks.</p>
 	<iframe width="100%" height="415" src="https://www.youtube.com/embed/x7J87wY7U6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
 	<p>The seedlings will be vulnerable to high heat and heavy rain and are best kept in a sheltered propagation area or a shaded space with around 4 hours of partial or direct sunlight. </p>
 	<br>
@@ -48,13 +43,15 @@ image: ""
 <section>
 	<h4>Transplanting:</h4>
 	<img title="A tomato seedling being transplanted into a bigger pot. Photo by Jacqueline Chua." src="/images/Horti%20techniques/tomatotransplanting%20(3)_jacquelinechua.jpg">
-	<p>Seedlings will be ready for transplanting into pots or true ground when they have developed 4 or more leaves, or roughly a week or two after germination. Leave 15-30cm between each plant to encourage more growth and better ventilation. </p>
+	<p>Seedlings will be ready for <a href="/page-index/horticulture-techniques/transplanting/">transplanting</a> into pots or true ground when they have developed 4 or more leaves, or roughly a week or two after germination. Leave 15-30cm between each plant to encourage more growth and better ventilation. </p>
 	<br>
 </section>
 	
 <section>
 	<h4>Growing:</h4>
-	<p>Tomatoes will produce more flowers and thus more fruit when fed with <a href="/page-index/horticulture-techniques/fertilising/">fertilisers high in Phosphorus and Potassium</a>. Plants can be fertilised regularly a month after germination for a fuller crop. </p>
+	<p>Tomatoes will produce more flowers and thus more fruit when fed with <a href="/page-index/horticulture-techniques/fertilising/">fertilisers high in Phosphorus and Potassium</a>. Plants can be fertilised once a month after the first flower ins produced for a fuller crop. </p>
+	<p>Depending on the cultivar, tomatoes can grow as a vine (indeterminate) or as a small shrub (determinate). Vining varieties will need <a href="/page-index/hardscapes/staking/">stakes</a> or a <a href="/page-index/hardscapes/trellises/">trellis</a> to support their growth.</p>
+	<p>As with all members of the Nightshade family, this plant is buzz-pollinated and produces the most fruit when <a href="/page-index/biodiversity/pollinators/">bees</a> are around to pollinate it. Growing more <a href="/page-index/glossary/biodiversity-attracting-plants/">bee-attracting plants</a> within the garden will encourage pollination.  </p>
 	<p>For both vining and shrub varieties, it is a good practice to <a href="/page-index/horticulture-techniques/pruning/">prune regularly</a> and remove dead leaves and stems to improve ventilation and allow light to reach more of the plant. Regular pruning also decreases the likelihood of pests quickly taking over the plant. Suckers can be removed as part of regular pruning and propagated via division.</p>
 	<br>
 </section>
