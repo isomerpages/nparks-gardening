@@ -9,7 +9,7 @@ image: /images/Garden design/AllotmentGarden_JacChua (2).jpg
 ---
 <style>
 details[open] > summary {
-        font-weight: 900;
+        font-weight: 800;
         }
 </style>
 
@@ -140,6 +140,23 @@ trimming overgrown shrubs, removing weeds, pest-infested plants, dead and damage
 				<summary>15. Can you call me back when the allotment plots in the park I am interested in are open for application?</summary>
 				Please check our NParks Allotment Gardens webpage and our social media platforms for updates on available plots and registration details.<br><br> 
 			</details>
+			<details>
+				<summary>16. I missed the Allotment Garden registration exercise/opening, can I be placed on a waitlist?</summary>
+				There are no waiting lists as all available plots will be assigned to successfully balloted applicants. You may apply for a plot when the registration opens again for other allotment gardens. Please check our NParks Allotment Gardens webpage and our social media platforms for updates on available plots and registration details. <br><br>
+		</details>
+		<details>
+			<summary>17. I am a foreigner, can I apply for an allotment garden plot?</summary>
+			Yes, but Singaporeans and Permanent Residents will be given priority.<br><br>
+				</details>
+				<details>
+					<summary>18. What is the minimum age to apply for an allotment garden plot?</summary>
+					The minimum age to apply for a plot is 18 years old at the time of application. <br><br>
+				</details>
+				<details>
+					<summary>19. If I live close to the new allotment garden plot, do I stand a higher chance to secure a plot?</summary>
+					Singaporeans and Permanent Residents are eligible to register for an allotment garden plot when registration exercises open on NParks website. Each household is allowed to apply for and lease only 1 allotment garden plot at any one time across the island. The minimum age to apply for a plot is 18 years old at the time of application. New allotment
+garden plots are allocated by computerised balloting.   No priority is accorded to applicants by virtue of proximity of the allotment garden to the applicant’s address. This ensures fair opportunity for all applicants to secure a plot. <br><br>
+				</details>
 			</div>
 	</li>
 	<li>
@@ -174,12 +191,12 @@ will continue making available more plots across the island for new gardeners. N
 				Existing gardeners who have maintained good gardening etiquette will be allowed to renew their allotment garden plots. Should they choose not to continue gardening their plots will be released for balloting. NParks will also continue to provide more allotment garden plots in our parks.<br><br>
 			</details>
 			<details>
-				<summary>25. When can new gardeners apply for allotment garden plots?  </summary>
+				<summary>25. When can new gardeners apply for allotment garden plots? </summary>
 				More details will be provided when ready. We will be updating the NParks website (www.nparks.gov.sg/gardening/allotment-gardens) and social media sites when plots are open for application.<br><br>
 			</details>
 			</div>
 				</li>
-		<li><input type="checkbox" id="accordion5">
+<li><input type="checkbox" id="accordion5">
 		<label for="accordion5">Temporary Occupation Licence (TOL) Payments</label>
 		<div>
 			<details>
@@ -199,12 +216,8 @@ will continue making available more plots across the island for new gardeners. N
 				A Letter of Offer will be sent to all successful applicants. Payment will be by bank transfer to an NParks bank account or by scanning the unique PayNow QR code provided. The details will be provided in the Letter of Offer.<br><br>
 			</details>
 			</div>
-	</li>
+	 </li>
 </ul>
 
-
-<br> <br>
-<p>Have a question about the Allotment Gardening Scheme? Please refer to the <a href="https://go.gov.sg/nparks-allotment-gardens-faqs">FAQs</a> here.</p><p></p>
-
-<br> <br>
+<br>
 <p>Can't find what you're looking for? Submit your enquiries via our <a href="http://www.nparks.gov.sg/feedback">Feedback Form</a>.</p>
