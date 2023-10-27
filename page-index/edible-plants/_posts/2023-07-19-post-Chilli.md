@@ -50,6 +50,7 @@ image: ""
 <section>
 	<h4>Growing:</h4>
 	<p>Chillies will produce more flowers and thus more fruit when fed with fertilisers high in Phosphorus and Potassium. Plants can be <a href="/page-index/horticulture-techniques/fertilising">fertilised</a> once a month after the plant produces its first flower for a fuller crop. </p>
+		<p>As with all members of the Nightshade family, this plant is buzz-pollinated and produces the most fruit when <a href="/page-index/biodiversity/pollinators/">bees</a> are around to pollinate it. Growing more <a href="/page-index/glossary/biodiversity-attracting-plants/">bee-attracting plants</a> within the garden will encourage pollination.  </p>
 	<p>Shoot tips can be <a href="/page-index/horticulture-techniques/pruning/">pruned off</a> when the plant is around 30cm tall to encourage branching, with more branches bearing more fruit. </p>
 	<p>It is a good practice to <a href="/page-index/horticulture-techniques/pruning">prune regularly</a> and remove dead leaves and stems to improve ventilation and allow light to reach more of the plant. Regular pruning also decreases the likelihood of pests quickly taking over the plant. </p>
 	<br>
