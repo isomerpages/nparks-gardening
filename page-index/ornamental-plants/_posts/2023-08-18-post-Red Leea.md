@@ -25,7 +25,7 @@ image: ""
 <section> 
   <h4>Sun and soil needs:</h4> 
 	<img title="A Red Leea bush grown in true ground. Photo by Jacqueline Chua." src="/images/Plants/redleea%20(2)_jacquelinechua.jpg">
-  <p>This plant thrives in <a href="/page-index/horticulture-techniques/gauging-light/">4-8 hours of direct sunlight</a>. Plants do best in <a href="/page-index/horticulture-techniques/soil/">moist, well-drained soil</a>. These plants are vulnerable to <a href="/page-index/plant-problems/root-rot/">root rot</a>, so ensure that your soil has plenty of <a href="/page-index/horticulture-techniques/soil-amendments/">organic matter</a> to let the roots breathe.</p> 
+  <p>This plant thrives in <a href="/page-index/horticulture-techniques/gauging-light/">4-8 hours of direct sunlight</a>. Plants do best in <a href="/page-index/horticulture-techniques/soil/">loamy soil</a> at least 30cm deep in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a>. These plants are vulnerable to <a href="/page-index/plant-problems/root-rot/">root rot</a>, so ensure that your soil has plenty of <a href="/page-index/horticulture-techniques/soil-amendments/">organic matter</a> to let the roots breathe.</p> 
 	<br>
 </section>
 
@@ -46,5 +46,6 @@ image: ""
   <h4>Common problems &amp; solutions:</h4> 
 	<p>This plant is relatively resistant to pests and disease if kept healthy.</p>
 	<p>If the plant does not receive enough light, it will stop producing flowers. Prune surrounding plants or move the plant to a sunnier spot to promote flower growth.</p>
+	<p> <a href="/page-index/pests/mealy-bugs/">Mealy Bugs</a> and <a href="/page-index/pests/scale-insects/">Scale Insects</a> often infest the plant if it has <a href="/learn-more-about-gardening/plant-problems/">underlying problems</a> like waterlogging. <a href="/horticulture-techniques/pest-control/">Mechanical pest control</a> methods like <a href="/page-index/horticulture-techniques/pruning/">pruning</a> the infested parts are the best methods for managing these pests in the short term, but resolving the underlying problem will prevent them in the long term.</p>
 	<br> 
 </section>
