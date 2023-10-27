@@ -61,7 +61,7 @@ description: ""
 			<img style="height:275px; width:275px" src="/images/Digital%20Tools/plantsearchicon_square.png">
 			<p align="left">Find a plant to grow based on your garden conditions!</p>
 		</div></a>
-		<a class="button" href="https://www.nparks.gov.sg/florafaunaweb"><div class="box">
+		<a class="button" href="https://go.gov.sg/ffw-nparks"><div class="box">
 			<h4>NParks' Flora and Fauna Web</h4>
 			<img style="height:275px; width:275px" src="/images/florafaunaweb.jpg">
 			<p align="left">Browse the database for plants and animals found in Singapore online!</p>
