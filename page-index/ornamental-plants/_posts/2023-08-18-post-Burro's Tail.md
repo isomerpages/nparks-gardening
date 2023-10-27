@@ -25,7 +25,7 @@ image: ""
 <section> 
   <h4>Sun and soil needs:</h4> 
 	<img title="Burro's tail plant. Photo by Jacqueline Chua." src="/images/Plants/burrostail_jacquelinechua.jpg">
-  <p>This plant thrives in areas with <a href="/page-index/horticulture-techniques/gauging-light/">4-6 hours of indirect sun</a> but may <a href="/page-index/plant-problems/sunburn/">burn</a> if exposed to more than 6 hours of direct sunlight. They do best in <a href="/page-index/horticulture-techniques/soil/">sandy soil with plenty of drainage</a> in at least 10cm of soil, making them ideal for <a href="/page-index/horticulture-techniques/planting-in-containers/">container gardening</a>.</p> 
+  <p>This plant thrives in areas with <a href="/page-index/horticulture-techniques/gauging-light/">4-6 hours of indirect sun</a> but may <a href="/page-index/plant-problems/sunburn/">burn</a> if exposed to more than 6 hours of direct sunlight. Plants do best in <a href="/page-index/horticulture-techniques/planting-in-containers/">pots</a> with <a href="/page-index/horticulture-techniques/soil/">sandy soil</a> at least 10cm deep.</p> 
 	<br>
 </section>
 
@@ -44,7 +44,7 @@ image: ""
  
 <section> 
   <h4>Common problems &amp; solutions:</h4> 
-	<p>Elephant Bush plants are usually quite resistant to pests if kept healthy.</p>
-	<p><a href="/page-index/pests/aphids/">Aphids</a>, <a href="/page-index/pests/scale-insects/">scale insects</a> and <a href="/page-index/pests/spider-mites/">Spider mites</a> often infect plants that have underlying problems like a lack of light, <a href="/page-index/plant-problems/root-rot/">root rot</a>, or <a href="/page-index/plant-problems/nutrient-deficiencies/">nutrient deficiencies</a>. It is usually difficult to completely remove these pests, making it critical to immediately prune off infected parts and horticultural oils like neem oil to suffocate remaining pests. All infected plants should be quarantined to prevent further spread, and severely infected plants should be completely disposed of.</p>
+	<p>Burro's Tail plants are usually quite resistant to pests if kept healthy.</p>
+	<p><a href="/page-index/pests/aphids/">Aphids</a>, <a href="/page-index/pests/scale-insects/">scale insects</a> and <a href="/page-index/pests/spider-mites/">Spider mites</a>  often infest the plant if it has <a href="/learn-more-about-gardening/plant-problems/">underlying problems</a> like root rot. <a href="/horticulture-techniques/pest-control/">Mechanical pest control</a> methods like <a href="/page-index/horticulture-techniques/pruning/">pruning</a> the infested parts are the best methods for managing these pests in the short term, but resolving the underlying problem will prevent them in the long term.</p>
 	<br> 
 </section>
