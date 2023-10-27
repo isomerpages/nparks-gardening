@@ -19,7 +19,8 @@ image: ""
  
 <section> 
   <h4>Sun and soil needs:</h4> 
-  <p>Mexican Hen and Chicks thrives in gardens with <a href="/page-index/horticulture-techniques/gauging-light/">4-8 hours of indirect sunlight, or 4-6 hours of direct sunlight</a>. More hours of direct sunlight may cause <a href="/page-index/plant-problems/sunburn/">sunburn</a>. This plant grows best in <a href="/page-index/horticulture-techniques/soil/">sandy soil</a> at least 5cm deep, making it suitable for <a href="/page-index/horticulture-techniques/planting-in-containers/">container gardening</a>. This plant is very vulnerable to <a href="/page-index/plant-problems/root-rot/">root rot</a> and will need <a href="/page-index/horticulture-techniques/soil-amendments/">plenty of inorganic soil amendments</a> and good drainage to keep the soil well-aerated.</p> 
+  <p>Mexican Hen and Chicks thrives in gardens with <a href="/page-index/horticulture-techniques/gauging-light/">4-8 hours of indirect sunlight, or 4-6 hours of direct sunlight</a>. More hours of direct sunlight may cause <a href="/page-index/plant-problems/sunburn/">sunburn</a>.</p>
+	<p> Plants do best in <a href="/page-index/horticulture-techniques/planting-in-containers/">pots</a> with <a href="/page-index/horticulture-techniques/soil/">sandy soil</a> at least 5cm deep. This plant is very vulnerable to <a href="/page-index/plant-problems/root-rot/">root rot</a> and will need <a href="/page-index/horticulture-techniques/soil-amendments/">plenty of inorganic soil amendments</a> and good drainage to keep the soil well-aerated.</p> 
 	<br>
 </section>
 
