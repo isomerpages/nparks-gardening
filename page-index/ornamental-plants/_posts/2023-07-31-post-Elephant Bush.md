@@ -25,7 +25,7 @@ image: ""
 <section> 
   <h4>Sun and soil needs:</h4> 
 	<img title="Elephant bush growing in a pot. Photo by Jacqueline Chua." src="/images/Plants/elephantsfood%20(1)_jacquelinechua.jpg">
-  <p>This plant thrives in grows best in <a href="/page-index/horticulture-techniques/gauging-light/">at least 4 hours of direct sunlight</a>. It can tolerate a minimum of 4 hours of indirect sunlight or 2-4 hours of direct sunlight, but may grow long and leggy. They do best in <a href="/page-index/horticulture-techniques/soil/">sandy soil</a> and require moderate watering.</p> 
+  <p>This plant thrives in grows best in <a href="/page-index/horticulture-techniques/gauging-light/">at least 4 hours of direct sunlight</a>. It can tolerate a minimum of 4 hours of indirect sunlight or 2-4 hours of direct sunlight, but may grow long and leggy. Plants do best in <a href="/page-index/horticulture-techniques/planting-in-containers/">pots</a> with <a href="/page-index/horticulture-techniques/soil/">sandy soil</a> at least 15cm deep.</p> 
 	<br>
 </section>
 
