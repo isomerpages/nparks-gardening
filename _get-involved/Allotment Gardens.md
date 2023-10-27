@@ -47,21 +47,21 @@ image: /images/Garden design/AllotmentGarden_JacChua (2).jpg
 		</div>
 	</li>
   <li><input type="checkbox" id="accordion2">
-					<label for="accordion2">Allotment Garden Plot - Amenities</label>
+		<label for="accordion2">Allotment Garden Plot - Amenities</label>
 		<div>
-	<details>
-		<summary><strong>3. Can I plant anything that I like?</strong></summary>
-		All plants and gardening structures should not exceed 1 metre in standing height (measured from soil level in the planter bed). Gardeners are advised not to plant poisonous plants or those with sap as these plants can cause discomfort and are harmful to the public. Plants that are illegal are not allowed to be planted. 
-		<br>Please also be mindful of the neighbouring plots when planting up your mini garden and ensure that your plants do not encroach into their space. Keep your space clean and tidy for the safety of all your fellow allotment gardeners.<br>
-	</details>
-	<details>
-		<summary><strong>4. Can I use pesticides at the allotment garden plot?</strong></summary>
-		Chemical pesticides, herbicides and fungicides are not allowed to be used at the allotment garden plots as they may kill insects, such as bees and wasps, which play an important role in the pollination process of flowering plants. Such chemicals may also spread to other plots and may cause adverse reactions to gardeners tending to other plots or public who visit the plots. <br>
+			<details>
+				<summary><strong>3. Can I plant anything that I like?</strong></summary>
+				All plants and gardening structures should not exceed 1 metre in standing height (measured from soil level in the planter bed). Gardeners are advised not to plant poisonous plants or those with sap as these plants can cause discomfort and are harmful to the public. Plants that are illegal are not allowed to be planted. 
+			<br>Please also be mindful of the neighbouring plots when planting up your mini garden and ensure that your plants do not encroach into their space. Keep your space clean and tidy for the safety of all your fellow allotment gardeners.<br>
+		</details>
+		<details>
+			<summary><strong>4. Can I use pesticides at the allotment garden plot?</strong></summary>
+			Chemical pesticides, herbicides and fungicides are not allowed to be used at the allotment garden plots as they may kill insects, such as bees and wasps, which play an important role in the pollination process of flowering plants. Such chemicals may also spread to other plots and may cause adverse reactions to gardeners tending to other plots or public who visit the plots. <br>
 		</details>
 	</div></li>
-	  <li><input type="checkbox" id="accordion3">
-					<label for="accordion3">Allotment Garden Plot - Application</label>
-			<div>
+	<li><input type="checkbox" id="accordion3">
+		<label for="accordion3">Allotment Garden Plot - Application</label>
+		<div>
 			<details>
 				<summary><strong>11. How many plots can I apply for and how many plots can I lease?</strong></summary>
 				Each household is allowed to apply for and lease only 1 allotment garden plot at any one time, regardless of the number of persons in the household.<br>
@@ -82,10 +82,8 @@ image: /images/Garden design/AllotmentGarden_JacChua (2).jpg
 				<summary><strong>15. Can you call me back when the allotment plots in the park I am interested in are open for application?</strong></summary>
 				Please check our NParks Allotment Gardens webpage and our social media platforms for updates on available plots and registration details.<br> 
 			</details>
-			</div>
-	</li>
-	<li>
-		<input type="checkbox" id="accordion4">
+		</div></li>
+	<li><input type="checkbox" id="accordion4">
 		<label for="accordion4">For Existing Gardeners</label>
 		<div>
 			<details>
@@ -98,12 +96,11 @@ image: /images/Garden design/AllotmentGarden_JacChua (2).jpg
 			</details>
 			<details>
 				<summary><strong>22. Why are existing gardeners being given the opportunity to renew their gardening plots? Why not keep the existing system of computerised balloting? </strong></summary>
-We hope to continue fostering a love for gardening by allowing existing gardeners who have maintained good gardening etiquette to renew their allotment garden plots. We
+				We hope to continue fostering a love for gardening by allowing existing gardeners who have maintained good gardening etiquette to renew their allotment garden plots. We
 will continue making available more plots across the island for new gardeners. New allotment garden plots will also continue being allocated by computerised balloting.
 			</details>
-		</div>
-	</li>
-				</ul>
+		</div></li>
+	</ul>
 
 
 <br> <br>
