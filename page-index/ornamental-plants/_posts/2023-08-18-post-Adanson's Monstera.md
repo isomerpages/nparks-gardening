@@ -33,7 +33,9 @@ image: ""
   <h4>Growing:</h4> 
 	<p>Adanson’s Monstera is a low maintenance plant that does best in consistently moist soil and environments with high humidity. <a href="/page-index/horticulture-techniques/pruning/">Regular pruning</a> will encourage a bushier look.</p> 
 	<p>For consistent and rapid growth, this plant can be <a href="/page-index/horticulture-techniques/fertilising/">fertilised once a month with a high nitrogen fertiliser</a>.</p> 
+		<p>Wipe down the leaves with a soft rag to remove dust deposited to prevent pests such as <a href="/page-index/pests/spider-mites/">spider mites</a>. </p>
 <p>As with all potted plants, regular repotting once a year will prevent it from becoming <a href="/page-index/plant-problems/root-bound/">root bound</a>.</p> 
+		<p>This plant can be trained to climb up a <a href="/page-index/hardscapes/trellises/">trellis</a> or a wall. Take note that the roots used for climbing may leave marks on surfaces.</p>
 	<br> 
 </section> 
 
