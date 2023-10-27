@@ -16,7 +16,7 @@ image: ""
 </section>
 
 <section>
-	<img title="Photo by Jacqueline Chua." src="/images/Plants/ThaiBasil_JacChua%20(1).jpg">
+	<img title="Flowering Thai Basil plants. Photo by Jacqueline Chua." src="/images/Plants/ThaiBasil_JacChua%20(1).jpg">
 	<p>Thai basil is a staple herb in many Southeast Asian gardens, and thrives in tropical climates. Thai basil leaves and flowers are harvested for salads, sauces, soups and stir-fries for many Thai and Vietnamese dishes.</p>
 	<p>Thai Basil plants are typically treated as <a href="/learn-more-about-gardening/glossary/#a">annual</a> crops due to their rapid flowering, but they can also be kept as <a href="/learn-more-about-gardening/glossary/#a">perennials</a> if their flowers are pruned before they can set seed.</p>
 	<p>Thai Basils are part of the Lamiaceae or Mint family, which includes other popular herbs like <a href="/page-index/edible-plants/indian-borage/">Indian Borage</a>, and <a href="/page-index/edible-plants/spearmint/">Spearmint</a>.</p>
@@ -25,8 +25,8 @@ image: ""
 
 <section>
 	<h4>Sun and soil needs:</h4>
-	<img title="Photo by Jacqueline Chua." src="/images/Plants/ThaiBasil_JacChua%20(3).jpg">
-	<p>Thai Basil thrives in <a href="/page-index/horticulture-techniques/gauging-light/">4-6 hours of direct sunlight</a>, but plants can also tolerate about 6-8 hours of indirect sunlight. Plants do best in <a href="/page-index/horticulture-techniques/soil/">loamy soil</a> at least 15cm deep, making them suitable for <a href="/page-index/horticulture-techniques/planting-in-containers/">container gardening</a>, but they also do well in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a>. These plants are vulnerable to <a href="/page-index/plant-problems/root-rot/">root rot</a>, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe. Keep your plants cool with <a href="/page-index/horticulture-techniques/mulching/">mulch</a> and plenty of water to encourage growth.</p>
+	<img title="A Dwarf Red Honey Bee collecting nectar from Thai Basil flowers. Photo by Jacqueline Chua." src="/images/Plants/ThaiBasil_JacChua%20(3).jpg">
+	<p>Thai Basil thrives in <a href="/page-index/horticulture-techniques/gauging-light/">4-6 hours of direct sunlight</a>, but plants can also tolerate about 6-8 hours of indirect sunlight. Plants do best in <a href="/page-index/horticulture-techniques/planting-in-containers/">pots</a> with <a href="/page-index/horticulture-techniques/soil/">loamy soil</a> at least 15cm deep, or in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a>. These plants are vulnerable to <a href="/page-index/plant-problems/root-rot/">root rot</a>, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe. Keep your plants cool with <a href="/page-index/horticulture-techniques/mulching/">mulch</a> and plenty of water to encourage growth.</p>
 	<br>
 </section>
 
@@ -63,8 +63,8 @@ image: ""
 
 <section>
 	<h4>Propagation:</h4>
-	<p>Thai Basil can be grown from <a href="/page-index/horticulture-techniques/propagating-by-seed/">seed</a> or <a href="/page-index/horticulture-techniques/propagating-by-cuttings/">propagated via stem cuttings</a> in water or soil.</p>
-	<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/wv-LZCwUArE" height="415" width="100%"></iframe><br>
+		<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/wv-LZCwUArE" height="415" width="100%"></iframe><br>
+	<p>Thai Basil can be grown from <a href="/page-index/horticulture-techniques/propagating-by-seed/">seed</a> or <a href="/page-index/horticulture-techniques/propagating-by-cuttings/">propagated via stem cuttings</a> rooted in water or soil.</p>
 	<br>
 </section>
 
