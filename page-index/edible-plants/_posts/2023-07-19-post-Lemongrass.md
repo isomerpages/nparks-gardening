@@ -25,7 +25,9 @@ image: ""
 <section>
 	<h4>Sun and soil needs:</h4>
 		<img title="Lemongrass growing in a planter bed. Photo by Jacqueline Chua." src="/images/Plants/lemongrass_jacquelinechua.jpg">
-<p>Lemongrass flourishes in <a href="/page-index/horticulture-techniques/gauging-light/">6-8 hours of direct sunlight</a>. Plants do best in <a href="/page-index/horticulture-techniques/soil/">sandy soil</a> at least 15cm deep, making them suitable for <a href="/page-index/horticulture-techniques/planting-in-containers/">container gardening</a>, but the diameter of the pot will greatly limit the size of the plant. Take note that Lemongrass can grow up to 1.2m tall, and that larger pots of at least 20cm width will be needed for the plant to grow offshoots. These plants are vulnerable to <a href="/page-index/plant-problems/root-rot/">root rot</a>, so ensure that your pots drain well, and that your soil has plenty of <a href="/page-index/horticulture-techniques/soil-amendments/">inorganic soil amendments</a> to let the roots breathe. </p>
+<p>Lemongrass flourishes in <a href="/page-index/horticulture-techniques/gauging-light/">6-8 hours of direct sunlight</a>. </p>
+	<p>Plants do best in <a href="/page-index/horticulture-techniques/planting-in-containers/">pots</a> with <a href="/page-index/horticulture-techniques/soil/">sandy soil</a> at least 15cm deep, but the diameter of the pot will greatly limit the growth of offshoots making <a href="/page-index/horticulture-techniques/true-ground/">true ground</a> planting more practical. Take note that Lemongrass can grow up to 1.2m tall, and that larger pots of at least 20cm width will be needed for the plant to grow offshoots.</p> 
+	<p>These plants are vulnerable to <a href="/page-index/plant-problems/root-rot/">root rot</a>, so ensure that your pots drain well, and that your soil has plenty of <a href="/page-index/horticulture-techniques/soil-amendments/">inorganic soil amendments</a> to let the roots breathe. </p>
 	<br>
 	</section>
 
