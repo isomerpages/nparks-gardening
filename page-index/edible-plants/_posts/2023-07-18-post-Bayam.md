@@ -26,14 +26,14 @@ image: ""
 <section>
 	<h4>Sun and soil needs:</h4>
 				<img title="Green bayam. Photo by Jacqueline Chua." src="/images/Plants/bayam3_jacquelinechua.jpg">
-		<p>This leafy vegetable thrives in <a href="/page-index/horticulture-techniques/gauging-light/">4-8 hours of direct sunlight, or more than 6 hours of indirect sunlight</a>. Plants do best in <a href="/page-index/horticulture-techniques/soil/">loamy soil</a> at least 10cm deep, making them suitable for <a href="/page-index/horticulture-techniques/planting-in-containers/">container gardening</a>. However, if planted in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a> and left with a lot of space, the plant can grow up to 1.5m high with a thick stem. These plants are vulnerable to <a href="/page-index/plant-problems/root-rot/">root rot</a>, so ensure that your pots drain well, and that your soil has plenty of <a href="/page-index/horticulture-techniques/soil/">organic matter</a> to let the roots breathe. This plant is relatively drought tolerant and can withstand some neglect.</p>
+		<p>This leafy vegetable thrives in <a href="/page-index/horticulture-techniques/gauging-light/">4-8 hours of direct sunlight, or more than 6 hours of indirect sunlight</a>. Plants do best in <a href="/page-index/horticulture-techniques/planting-in-containers/">pots</a> with <a href="/page-index/horticulture-techniques/soil/">loamy soil</a> at least 10cm deep, or in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a>. If planted in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a> and left with a lot of space, the plant can grow up to 1.5m high with a thick stem. These plants are vulnerable to <a href="/page-index/plant-problems/root-rot/">root rot</a>, so ensure that your pots drain well, and that your soil has plenty of <a href="/page-index/horticulture-techniques/soil/">organic matter</a> to let the roots breathe. This plant is relatively drought tolerant and can withstand some neglect.</p>
 	<br>
 </section>
 
 <section>
   <h4>Sowing seeds:</h4>
 			<iframe width="100%" height="415" src="https://www.youtube.com/embed/x7J87wY7U6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
-		<p>Seeds can be scattered directly into a pot or into true ground, and then covered with a layer of soil or compost. Lightly water the soil until damp, once a day. Seeds should sprout within a week.</p>
+		<p><a href="/page-index/horticulture-techniques/propagating-by-seed/">Seeds can be directly sowed</a> into a pot or into true ground, and then covered with a layer of soil or compost. Lightly water the soil until damp, once a day. Seeds should sprout within a week.</p>
 <p>The seedlings may be  eaten by <a href="/page-index/pests/snails-and-slugs/">snails</a> or <a href="/page-index/pests/pests/#birds">birds</a>. Protect your young plants with a DIY <a href="/page-index/horticulture-techniques/cloches">cloche</a> or <a href="/page-index/hardscapes/netting">netting</a>.</p>
 	<br>
 </section>
