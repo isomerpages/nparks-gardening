@@ -19,13 +19,14 @@ image: ""
  
 <section> 
   <h4>Sun and soil needs:</h4> 
-  <p>Lawyer’s Tongue grows best in <a href="/page-index/horticulture-techniques/gauging-light/">4-8 hours of indirect sunlight</a>. Some direct sunlight will cause its leaf tips to flush red, but more than 6 hours of direct sun will cause <a href="/page-index/plant-problems/sunburn/">sunburn</a>. This plant grows best in <a href="/page-index/horticulture-techniques/soil/">sandy soil</a> at least 10cm deep, making it suitable for <a href="/page-index/horticulture-techniques/planting-in-containers/">container gardening</a>. This plant is vulnerable to <a href="/page-index/plant-problems/root-rot/">root rot</a> and will need plenty of drainage.</p> 
+  <p>Lawyer’s Tongue grows best in <a href="/page-index/horticulture-techniques/gauging-light/">4-8 hours of indirect sunlight</a>. Some direct sunlight will cause its leaf tips to flush red, but more than 6 hours of direct sun will cause <a href="/page-index/plant-problems/sunburn/">sunburn</a>. Plants do best in <a href="/page-index/horticulture-techniques/planting-in-containers/">pots</a> with <a href="/page-index/horticulture-techniques/soil/">sandy soil</a> at least 10cm deep.</p>
 	<br>
 </section>
 
 <section> 
   <h4>Growing:</h4> 
 	<p>Lawyer’s Tongue does not need frequent fertilising. <a href="/page-index/horticulture-techniques/fertilising/">A balanced slow releasing fertiliser</a> every few months would be sufficient for steady growth. Ensure that there is good airflow to dry out the soil before watering again.</p> 
+		<p>This plant requires very little water and is vulnerable to <a href="/page-index/plant-problems/root-rot/">root rot</a>. Consider <a href="/page-index/horticulture-techniques/bottom-watering/">bottom watering</a> this plant once  every week or less to reduce the chances of rot.</p>
 	<br> 
 </section> 
 
