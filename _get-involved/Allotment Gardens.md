@@ -61,6 +61,7 @@ image: /images/Garden design/AllotmentGarden_JacChua (2).jpg
 	</div></li>
 	  <li><input type="checkbox" id="accordion3">
 					<label for="accordion3">Allotment Garden Plot - Application</label>
+			<div>
 			<details>
 				<summary><strong>11. How many plots can I apply for and how many plots can I lease?</strong></summary>
 				Each household is allowed to apply for and lease only 1 allotment garden plot at any one time, regardless of the number of persons in the household.<br>
@@ -81,6 +82,7 @@ image: /images/Garden design/AllotmentGarden_JacChua (2).jpg
 				<summary><strong>15. Can you call me back when the allotment plots in the park I am interested in are open for application?</strong></summary>
 				Please check our NParks Allotment Gardens webpage and our social media platforms for updates on available plots and registration details.<br> 
 			</details>
+			</div>
 	</li>
 	<li>
 		<input type="checkbox" id="accordion4">
