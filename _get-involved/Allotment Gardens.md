@@ -58,6 +58,29 @@ image: /images/Garden design/AllotmentGarden_JacChua (2).jpg
 		Chemical pesticides, herbicides and fungicides are not allowed to be used at the allotment garden plots as they may kill insects, such as bees and wasps, which play an important role in the pollination process of flowering plants. Such chemicals may also spread to other plots and may cause adverse reactions to gardeners tending to other plots or public who visit the plots. <br>
 		</details>
 	</li>
+	  <li><input type="checkbox" id="accordion3">
+					<label for="accordion3">Allotment Garden Plot - Application</label>
+			<details>
+				<summary><strong>11. How many plots can I apply for and how many plots can I lease?</strong></summary>
+				Each household is allowed to apply for and lease only 1 allotment garden plot at any one time, regardless of the number of persons in the household.<br>
+			</details>
+			<details>
+				<summary><strong>12.  Will submitting multiple applications per household increase my chances of getting a
+					plot?</strong></summary>
+				No. If there are multiple applications received from the same household address, only 1 entry will be considered for balloting.<br>
+			</details>
+			<details>
+				<summary><strong>13. Can I choose the plot to lease?</strong></summary> All plots (waist- or knee-height) are assigned strictly through a balloting system.<br>
+			</details>
+			<details>
+				<summary><strong>14. How would applicants know if they are successful? When can I expect to start gardening after applying for a plot?</strong></summary>
+				All successful applicants will receive a Letter of Offer from NParks. In this Letter of Offer, we will state the date in which you will be able to start gardening on-site.<br>
+			</details>
+			<details>
+				<summary><strong>15. Can you call me back when the allotment plots in the park I am interested in are open for application?</strong></summary>
+				Please check our NParks Allotment Gardens webpage and our social media platforms for updates on available plots and registration details.<br> 
+			</details>
+	</li>
 				</ul>
 
 
