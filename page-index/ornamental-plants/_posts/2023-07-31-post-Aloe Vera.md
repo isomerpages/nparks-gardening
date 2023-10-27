@@ -24,7 +24,8 @@ image: ""
  
 <section> 
   <h4>Sun and soil needs:</h4> 
-  <p>This plant thrives in <a href="/page-index/horticulture-techniques/gauging-light/">at least 6 hours of direct sunlight</a>. It can also grow in 4-6hours of direct sunlight or at least 6 hours of indirect sunlight, but at a much slower rate. Plants do best in <a href="/page-index/horticulture-techniques/planting-in-containers/">pots</a> with <a href="/page-index/horticulture-techniques/soil/">sandy soil</a> at least 15cm deep, or in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a></p> 
+	<img title="Aloe vera plants growin in true ground. Photo by Jacqueline Chua." src="/images/Plants/alevera_trueground_jacquelinechua.jpg">
+  <p>This plant thrives in <a href="/page-index/horticulture-techniques/gauging-light/">at least 6 hours of direct sunlight</a>. It can also grow in 4-6 hours of direct sunlight or at least 6 hours of indirect sunlight, but at a much slower rate. Plants do best in <a href="/page-index/horticulture-techniques/planting-in-containers/">pots</a> with <a href="/page-index/horticulture-techniques/soil/">sandy soil</a> at least 15cm deep, or in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a> that has been amended with plenty of <a href="/page-index/horticulture-techniques/soil-amendments/">inorganic soil amendments</a> to make it well-draining.</p> 
 	<br>
 </section>
 
