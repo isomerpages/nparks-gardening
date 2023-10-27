@@ -72,7 +72,7 @@ image: /images/Hardscapes/Corridorgarden_JacChua (2).jpg
 		</div>
 	</li></ul>
 	<br>
-	<p>Here are some ornamental plants to grow along your corridor</p>
+	<p>Here are some ornamental plants to grow along your corridor:</p>
 	<ul class="jekyllcodex_accordion">
 		<li><input type="checkbox" id="accordion3">
 		<label for="accordion3">For 4-8 hours of direct sunlight</label><div>
@@ -80,6 +80,7 @@ image: /images/Hardscapes/Corridorgarden_JacChua (2).jpg
 				<li><a href="/page-index/ornamental-plants/burros-tail">Burro's Tail</a> (<em>Sedum morganianum</em>)</li>
 				<li><a href="/page-index/ornamental-plants/elephant-bush">Elephant Bush</a> (<em>Portulacaria afra</em>)</li>
 				<li><a href="/page-index/ornamental-plants/fairy-washboard">Fairy Washboard</a> (<em>Haworthiopsis limifolia</em>)</li>
+				<li><a href="/page-index/ornamental-plants/mistletoe-fig/">Mistletoe Fig</a> (<em>Ficus deltoidea</em>)</li>
 				<li><a href="/page-index/ornamental-plants/mexican-hen-and-chicks">Mexican Hen and Chicks</a> (<em>Echeveria spp. and cultivars</em>)</li>
 				<li><a href="/page-index/ornamental-plants/mexican-sedum">Mexican Sedum</a> (<em>Sedum mexicanum</em>)</li>
 				<li><a href="/page-index/ornamental-plants/string-of-beads">String of Beads</a> (<em>Curio herreanus</em>)</li>
@@ -89,14 +90,17 @@ image: /images/Hardscapes/Corridorgarden_JacChua (2).jpg
 		<label for="accordion4">For 4 hours of direct sunlight or 4-8 hours of indirect sunlight</label><div>
 			<ul>
 				<li><a href="/page-index/ornamental-plants/african-violet">African Violet</a> (<em>Streptocarpus ionanthus</em>)</li>
+				<li><a href="/page-index/ornamental-plants/devils-ivy/">Devil's Ivy</a> (<em>Epipremnum aureum</em>)</li>
 				<li><a href="/page-index/ornamental-plants/flame-violet">Flame Violet</a> (<em>Episcia cupreata</em>)</li>
+				<li><a href="/page-index/ornamental-plants/peace-lily/">Peace Lily</a> (<em>Spathiphyllum wallisii</em>)</li>
 				<li><a href="/page-index/ornamental-plants/satin-pothos">Satin Pothos</a> (<em>Scindapsus pictus</em>)</li>
 				<li><a href="/page-index/ornamental-plants/snake-plant">Snake Plant</a> (<em>Dracaena trifasciata</em>)</li>
 				<li><a href="/page-index/ornamental-plants/spider-plant">Spider Plant</a> (<em>Chlorophytum comosum</em>)</li>
 				<li><a href="/page-index/ornamental-plants/fairy-washboard">Fairy Washboard</a> (<em>Haworthiopsis limifolia</em>)</li>
 				<li><a href="/page-index/ornamental-plants/mother-of-thousands">Mother of Thousands</a> (<em>Kalanchoe daigremontiana</em>)</li>
 				<li><a href="/page-index/ornamental-plants/lawyers-tongue">Lawyer's Tongue</a> (<em>Gasteria obliqua</em>)</li>
-				<li><a href="/page-index/ornamental-plants/walking-sansevieria">Walking Sansevieria</a> (<em>Dracaena pinguicula</em>)</li>
+				<li><a href="/page-index/ornamental-plants/lipstick-plant/">Lipstick Plant</a> (<em>Aeschynanthus pulcher</em>)
+				</li><li><a href="/page-index/ornamental-plants/walking-sansevieria">Walking Sansevieria</a> (<em>Dracaena pinguicula</em>)</li>
 			</ul>
 		</div></li>
 	</ul>
