@@ -101,6 +101,7 @@ image: ""
 
 <section>
 	<h4>Common problems &amp; solutions:</h4>
+	<img title="Chilli fruit with blossom end rot. Photo by Jacqueline Chua." src="/images/Plant%20problems/blossomendrot_jacquelinechua.jpg">
 <p>If your plant has few to no flowers, you can fertilise the plant with <a href="/page-index/horticulture-techniques/fertilising/">fertilisers high in phosphorus and potassium</a>. These nutrients encourage root and flower growth, which are important for the plant to produce more fruit.</p>
 	<p>As with all members of the Nightshade family, this plant is buzz-pollinated and produces the most fruit when bees are around to pollinate it. Growing more <a href="/page-index/glossary/biodiversity-attracting-plants/">bee-attracting plants</a> within the garden will encourage pollination.  </p>
 	<p><a href="/page-index/pests/ahpids">Aphids</a>, <a href="/page-index/pests/mealy-bugs">mealy bugs</a>, and <a href="/page-index/pests/spider-mites">spider mites</a> often infest the plant if it is <a href="/page-index/plant-problems/waterlogging/">waterlogged</a>. <a href="/horticulture-techniques/pest-control/">Mechanical pest control</a> methods like <a href="/page-index/horticulture-techniques/pruning/">pruning</a> the infested parts are the best methods for managing these pests.</p>
