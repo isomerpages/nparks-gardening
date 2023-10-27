@@ -27,3 +27,6 @@ image: /images/Garden design/AllotmentGarden_JacChua (2).jpg
 <p>Interested to lease a plot? Check this webpage on a regular basis for more information on the upcoming plots and registration details.</p> 
 
 <p>You can also follow us on <a href="https://www.facebook.com/nparksbuzz">Facebook</a> (turn on the page notifications!) for announcements on allotment garden plot registrations.</p>
+
+
+<p>Have a question abou the Allotment Gardening Scheme? Please refer to the <a href="https://go.gov.sg/nparks-allotment-gardens-faqs">FAQs</a> here.</p><p></p>
