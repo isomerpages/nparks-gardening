@@ -43,7 +43,6 @@ image: ""
   <h4>Transplanting:</h4>
 		<iframe width="100%" height="415" src="https://www.youtube.com/embed/eGBg_S8yj0U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
 	<p>Seedlings will be ready for <a href="/page-index/horticulture-techniques/transplanting/">transplanting</a> into pots or <a href="/page-index/horticulture-techniques/true-ground/">true ground</a> when they have developed 4 or more leaves, or roughly a week or two after germination. Leave 15-30cm between each plant to encourage more growth and better ventilation. </p>
-<br>
 </section>
 	
 <section>
@@ -102,6 +101,6 @@ image: ""
   <h4>Common problems &amp; solutions:</h4>
 <p>If your plant has few to no flowers, you can fertilise the plant with <a href="/page-index/horticulture-techniques/fertilising/">fertilisers high in phosphorus and potassium</a>. These nutrients encourage root and flower growth, which are important for the plant to produce more fruit.</p>
 <p><a href="/page-index/pests/aphids/">Aphids</a>, <a href="/page-index/pests/mealy-bugs/">Mealy Bugs</a>, <a href="/page-index/pests/whiteflies/">Whiteflies</a>, and <a href="/page-index/pests/spider-mites/">spider mites</a> often infest the plant if it has <a href="/learn-more-about-gardening/plant-problems/">underlying problems</a> like repeated wilting from heat stress. <a href="/horticulture-techniques/pest-control/">Mechanical pest control</a> methods like <a href="/page-index/horticulture-techniques/pruning/">pruning</a> the infested parts are the best methods for managing these pests in the short term, but resolving the underlying problem will prevent them in the long term.</p>
-	<p>This plant is prone to mildew during the wet season.  methods like <a href="/page-index/horticulture-techniques/pruning/">Prune</a> the plant regularly to increase airflow, and remove heavily affected leaves. </p>
+	<p>This plant is prone to mildew during the wet season.  <a href="/page-index/horticulture-techniques/pruning/">Prune</a> the plant regularly to increase airflow, and remove heavily affected leaves. </p>
 	<br>
 </section>
