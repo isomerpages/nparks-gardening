@@ -47,7 +47,7 @@ image: ""
 	
 <section>
 	<h4>Growing:</h4>
-	<p>Thai Basil plants grow rapidly, especially with regular harvesting and the use of high nitrogen fertilisers will encourage the plant to grow more leaves. Plants can be <a href="/page-index/horticulture-techniques/fertilising/">fertilised</a> once a month after transplanting, or after <a href="/page-index/horticulture-techniques/pruning/">hard pruning</a>.</p>
+	<p>Thai Basil plants grow rapidly, especially with regular harvesting. The use of high nitrogen fertilisers will encourage the plant to grow more leaves. Plants can be <a href="/page-index/horticulture-techniques/fertilising/">fertilised</a> once a month after transplanting, or after <a href="/page-index/horticulture-techniques/pruning/">hard pruning</a>.</p>
 	<p>Thai basil plants will die after setting seed. Prolong your harvest by pinching off flowers when they appear.
 </p>
 	<br>
