@@ -24,7 +24,7 @@ image: ""
  
 <section> 
   <h4>Sun and soil needs:</h4> 
-  <p>This plant thrives in areas with <a href="/page-index/horticulture-techniques/gauging-light/">at least 4 hours of indirect sunlight</a> and requires moderate watering. Plants do best in <a href="/page-index/horticulture-techniques/gauging-light/">loamy soil</a> at least 10cm deep, making them suitable for <a href="/page-index/horticulture-techniques/planting-in-containers/">container gardening</a>.</p> 
+  <p>This plant thrives in areas with <a href="/page-index/horticulture-techniques/gauging-light/">at least 4 hours of indirect sunlight</a> and requires moderate watering. Plants do best in <a href="/page-index/horticulture-techniques/planting-in-containers/">pots</a> with <a href="/page-index/horticulture-techniques/soil/">loamy soil</a> at least 10cm deep, or in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a>.</p> 
 	<br>
 </section>
 
@@ -32,13 +32,14 @@ image: ""
   <h4>Growing:</h4> 
 	<p>This plant grows quickly and generally does not need fertilising, but feedinga  <a href="/page-index/horticulture-techniques/fertilising/">balanced fertiliser</a> once a year will boost its growth and make it fuller.</p>
 	<p>Grow the plant in bright indirect light to keep the variegation on the leaves. The leaves will lose their variegation and get <a href="/page-index/plant-problems/sunburn/">burned</a> if the light is too strong.</p>
-	<p>As with all potted plants, regular repotting once a year will prevent it from becoming &lt; a href="/page-index/plant-problems/root-bound/"&gt;root bound.</p> 
+	<p>As with all potted plants, regular repotting once a year will prevent it from becoming <a href="/page-index/plant-problems/root-bound/">root bound</a>.</p> 
+	<p>This plant can be trained to climb up a <a href="/page-index/hardscapes/trellises/">trellis</a> or a wall. Take note that the roots used for climbing may leave marks on surfaces.</p>
 	<br> 
 </section> 
 
 <section> 
   <h4>Propagation:</h4> 
-	<p>Satin Pothos can be propagated by <a href="/page-index/horticulture-techniques/propagating-by-cuttings/">stem cuttings</a> or <a href="/page-index/horticulture-techniques/propagating-by-seed/">seeds</a>.</p> 
+	<p>Satin Pothos can be propagated by <a href="/page-index/horticulture-techniques/propagating-by-cuttings/">stem cuttings</a>.</p> 
 	<br> 
 </section> 
  
