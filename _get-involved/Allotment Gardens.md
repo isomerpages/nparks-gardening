@@ -28,8 +28,20 @@ image: /images/Garden design/AllotmentGarden_JacChua (2).jpg
 
 <p>You can also follow us on <a href="https://www.facebook.com/nparksbuzz">Facebook</a> (turn on the page notifications!) for announcements on allotment garden plot registrations.</p>
 
+<h4>FAQs</h4>
+<ul class="jekyllcodex_accordion">
+	<li><input type="checkbox" id="accordion1">
+		<label for="accordion1">Allotment Garden Scheme - General</label>
+		<div>
+			<ul class="jekyllcodex_accordion">
+				<li><input type="checkbox" id="accordion1a">
+					<label for="accordion1a">What is an allotment garden?</label><div><p>Allotment gardens are areas located within parks and gardens that house gardening plots available for lease to the community to grow their own plants. With most of the population living in high-rise flats with minimalspace for gardening within their household footprint, these allotment garden plots provide them with further opportunities to garden. To date, more than 2000 allotment garden plots have been made available to the community with plans for further expansion. In tandem, NParks is working with Town Councils and Grassroot Organisations to provide advice on setting up of allotment gardens in public housing estates so that residents can garden closer to their homes. </p></div>
+				</li>
+				</ul></div></li>
+
+
 <br> <br>
 <p>Have a question about the Allotment Gardening Scheme? Please refer to the <a href="https://go.gov.sg/nparks-allotment-gardens-faqs">FAQs</a> here.</p><p></p>
 
 <br> <br>
-<p>Can't find what you're looking for? Submit your enquiries via our <a href="http://www.nparks.gov.sg/feedback">Feedback Form</a>.</p>
+<p>Can't find what you're looking for? Submit your enquiries via our <a href="http://www.nparks.gov.sg/feedback">Feedback Form</a>.</p></ul>
