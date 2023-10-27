@@ -34,7 +34,7 @@ image: ""
 	<p>Using collars with sharp edges (pictured above) can protect young plants as snails are less likely to climb over the sharp edge.</p>
 	<p>	Placing <a href="/page-index/hardscapes/netting/">netting</a> or <a href="/page-index/horticulture-techniques/cloches/">cloches</a> over planter beds can protect your plants from large pests in general.</p>
 		<p>Remove slugs and snails by hand and dispose of them.</p>
-	<p>Solarisation of the soil, or leaving soil exposed to the sun for a month or so, is effective in killing snail eggs. </p>
+	<p>Heating the soil by placing black <a href="/page-index/horticulture-techniques/mulching/">plastic mulch</a> over soil and letting it heat up in the sun for two weeks is an effective way to kill snail eggs. </p>
 		<p>Encourage <a href="/page-index/biodiversity/predators/">predators</a> to establish in your garden by keeping it pesticide-free. Birds feed on snails and can keep their population under control.</p> 
 	<p>Avoid using salt to kill the slugs and snails as it can result in high soil salinity, which affects the uptake of nutrients by plants. Use of snail bait is not encouraged as it is not only highly toxic to snails and slugs, but also to humans and pets.</p>
 	<br>
