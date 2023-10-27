@@ -117,11 +117,31 @@ will continue making available more plots across the island for new gardeners. N
 			</details>
 			<details>
 				<summary>25. When can new gardeners apply for allotment garden plots?  </summary>
-				More details will be provided when ready. We will be updating the NParks website(www.nparks.gov.sg/gardening/allotment-gardens)  and social media sites when plots are open for application.<br><br>
+				More details will be provided when ready. We will be updating the NParks website (www.nparks.gov.sg/gardening/allotment-gardens) and social media sites when plots are open for application.<br><br>
 			</details>
 			</div>
 				</li>
-	
+		<li><input type="checkbox" id="accordion5">
+		<label for="accordion5">Temporary Occupation Licence (TOL) Payments</label>
+		<div>
+			<details>
+				<summary>26. Can I get refund of my TOL once I have made payment? </summary>
+				It is important to read all Terms and Conditions of the TOL document. The TOL, once paid, is non-refundable. <br><br>
+			</details>
+			<details>
+				<summary>27. Can I just pay the fee for 1 year? </summary>
+				The allotment garden plot is leased on a 3-year basis. You  will need to pay for 3 years at the start of your leasing period.<br><br>
+			</details>
+			<details>
+				<summary>28.Will I get a refund if I need to end the lease before the third year?</summary>
+				No refund will be given if you decide to terminate the Licence before the lease expires. <br><br>
+			</details>
+			<details>
+				<summary>29. When must I pay for the plot and what is the payment mode?</summary>
+				A Letter of Offer will be sent to all successful applicants. Payment will be by bank transfer to an NParks bank account or by scanning the unique PayNow QR code provided. The details will be provided in the Letter of Offer.<br><br>
+			</details>
+			</div>
+	</li>
 </ul>
 
 
