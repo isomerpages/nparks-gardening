@@ -8,11 +8,7 @@ description: Allotment gardens are common green spaces where aspiring gardeners
 image: /images/Garden design/AllotmentGarden_JacChua (2).jpg
 ---
 <style>
-   summary {
-        cursor: pointer;
-        }
-    
-   summary:open {
+details[open] > summary {
         font-weight: 900;
         }
 </style>
