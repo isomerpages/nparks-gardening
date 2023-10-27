@@ -19,9 +19,10 @@ locations:
     title: NParks HQ
 contacts:
   - content:
-      - phone: +65 6123 4567
-      - email: enquiries@abc.gov.sg
-      - other: Any text here <i>including HTML</i>
+      - phone: ""
+      - email: ""
+      - other: Please visit our NPark's Feedback and Enquiry form<a
+          href="https://www.nparks.gov.sg/feedback-and-enquiry">here!</a>.
     title: General Enquiries & Feedback
 feedback: https://www.nparks.gov.sg/feedback-and-enquiry
 ---
