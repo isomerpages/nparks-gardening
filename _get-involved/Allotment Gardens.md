@@ -48,6 +48,7 @@ image: /images/Garden design/AllotmentGarden_JacChua (2).jpg
 	</li>
   <li><input type="checkbox" id="accordion2">
 					<label for="accordion2">Allotment Garden Plot - Amenities</label>
+		<div>
 	<details>
 		<summary><strong>3. Can I plant anything that I like?</strong></summary>
 		All plants and gardening structures should not exceed 1 metre in standing height (measured from soil level in the planter bed). Gardeners are advised not to plant poisonous plants or those with sap as these plants can cause discomfort and are harmful to the public. Plants that are illegal are not allowed to be planted. 
@@ -57,7 +58,7 @@ image: /images/Garden design/AllotmentGarden_JacChua (2).jpg
 		<summary><strong>4. Can I use pesticides at the allotment garden plot?</strong></summary>
 		Chemical pesticides, herbicides and fungicides are not allowed to be used at the allotment garden plots as they may kill insects, such as bees and wasps, which play an important role in the pollination process of flowering plants. Such chemicals may also spread to other plots and may cause adverse reactions to gardeners tending to other plots or public who visit the plots. <br>
 		</details>
-	</li>
+	</div></li>
 	  <li><input type="checkbox" id="accordion3">
 					<label for="accordion3">Allotment Garden Plot - Application</label>
 			<details>
