@@ -26,7 +26,7 @@ image: ""
 <section>
 	<h4>Sun and soil needs:</h4>
 	<p>Curry Leaf Plants need <a href="/page-index/horticulture-techniques/soil/">at least 6 hours of direct sunlight</a> to flourish. They can also grow in 4-6 hours of direct sunlight or in more than 6 hours of indirect sunlight, but the plant will be leggy and less lush.</p>
-	<p>Plants do best in <a href="/page-index/horticulture-techniques/soil/">loamy soil</a> at least 30cm deep, or in true ground. These plants are vulnerable to <a href="/page-index/plant-problems/root-rot">root rot</a>, so ensure that your soil drains well, and that your soil has plenty of organic matter to let the roots breathe.</p>
+	<p>Plants do best in <a href="/page-index/horticulture-techniques/planting-in-containers/">pots</a> with <a href="/page-index/horticulture-techniques/soil/">loamy soil</a> at least 30cm deep, or in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a>.</p>
 	<p>This tree can grow up to 2.5m high, but it can be pruned down to a around 1.5m for easy maintenance.</p>
 	<br>
 </section>
@@ -60,6 +60,6 @@ image: ""
 	<h4>Common problems &amp; solutions:</h4>
 	<p>Like most strong-smelling herbs, this plant is relatively resistant to pests and disease if kept healthy.</p>
 	<p>This plant is vulnerable to fungal diseases that form leaf spots during the wet season or when the plant is overgrown. Increase air circulation with regular pruning and remove affected leaves to reduce the spread.</p>
-	<p><a href="/page-index/pests/aphids">Aphids</a>, may infest the plant if it is sickly or overgrown. Prune off the infested parts, or apply horticultural oils like neem oil and white summer oil to suffocate the remaining pests. Regularly prune the plant to allow light and air to reach throughout the plant, and check the plant for underlying problems like root rot, lack of sunlight, and nutrient deficiencies.</p>
+<p><a href="/page-index/pests/aphids/">Aphids</a>, <a href="/page-index/pests/mealy-bugs/">Mealy Bugs</a>, and <a href="/page-index/pests/scale-insects/">Scale Insects</a> often infest the plant if it has <a href="/learn-more-about-gardening/plant-problems/">underlying problems</a> like waterlogging. <a href="/horticulture-techniques/pest-control/">Mechanical pest control</a> methods like <a href="/page-index/horticulture-techniques/pruning/">pruning</a> the infested parts are the best methods for managing these pests in the short term, but resolving the underlying problem will prevent them in the long term.</p>
 	<br>
 </section>
