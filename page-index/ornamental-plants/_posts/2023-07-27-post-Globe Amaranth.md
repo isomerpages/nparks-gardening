@@ -24,7 +24,7 @@ image: ""
 
 <section>
 	<h4>Sun and soil needs:</h4>
-	<p>Globe Amaranth grows best in <a href="/page-index/horticulture-techniques/gauging-light/">6-8 hours of direct sunlight</a>. Plants do best in <a href="/page-index/horticulture-techniques/soil/">moist, well-drained soil</a>, but are also tolerant of sandy and heavy clay soils. Soil needs to be at least 10cm deep, making them suitable for <a href="/page-index/horticulture-techniques/planting-in-containers/">container gardening</a>.</p>
+	<p>Globe Amaranth grows best in <a href="/page-index/horticulture-techniques/gauging-light/">6-8 hours of direct sunlight</a>. Plants do best in <a href="/page-index/horticulture-techniques/planting-in-containers/">pots</a> with <a href="/page-index/horticulture-techniques/soil/">loamy soil</a> at least 10cm deep, or in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a>. These plants are also highly tolerant of sandy and clayey soil, and can be used as part of <a href="/page-index/horticulture-techniques/crop-rotation/">crop rotation</a>.</p>
 	<br>
 </section>
 
