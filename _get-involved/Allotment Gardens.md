@@ -7,6 +7,16 @@ description: Allotment gardens are common green spaces where aspiring gardeners
   organisations.
 image: /images/Garden design/AllotmentGarden_JacChua (2).jpg
 ---
+<style>
+   summary {
+        cursor: pointer;
+        }
+    
+   summary:after {
+        font-style: bold;
+        }
+</style>
+
 <img src="/images/Garden%20design/allotment%20garden%20at%20jurong%20lake%20gardens%20west.jpg">
 
 <p>Allotment gardens are common green spaces where aspiring gardeners can lease gardening plots to hone their skills and grow their own greens. They can be found in various parks, heartlands, private estates and even organisations.</p>
