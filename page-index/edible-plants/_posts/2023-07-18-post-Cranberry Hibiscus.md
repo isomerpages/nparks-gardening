@@ -27,7 +27,7 @@ image: ""
 	<h4>Sun and soil needs:</h4>
 		<img title="Cranberry hibiscus growing in a vertical planting system. Photo by Jacqueline Chua" src="/images/Hardscapes/ContainerGardening_JacChua%20(5).jpg">
 	<p>This plant does best in full sun gardens with a minimum of <a href="/page-index/horticulture-techniques/gauging-light/">6 hours of sunlight</a>. It can also grow in gardens with more than 4 hours of direct sunlight or at least 6 hours of indirect sunlight, but its growth will be slower, and it may not flush as deep a red.</p>
-	<p>Plants do best in <a href="/page-index/horticulture-techniques/soil/">loamy soil</a> at least 15cm deep, or in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a>. These plants are vulnerable to <a href="/page-index/plant-problems/root-rot/">root rot</a>, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe.</p>
+	<p>Plants do best in <a href="/page-index/horticulture-techniques/planting-in-containers/">pots</a> with <a href="/page-index/horticulture-techniques/soil/">loamy soil</a> at least 15cm deep, or in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a>. These plants are vulnerable to <a href="/page-index/plant-problems/root-rot/">root rot</a>, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe.</p>
 	<br>
 </section>
 
@@ -41,13 +41,13 @@ image: ""
 
 <section>
 	<h4>Transplanting:</h4>
-		<p>Seedlings will be ready for transplanting into pots or <a href="/page-index/horticulture-techniques/true-ground/">true ground</a> when they have developed 4 or more leaves, or roughly a week or two after germination. Leave 15-30cm between each plant to encourage more growth and better ventilation.</p>
+		<p>Seedlings will be ready for <a href="/page-index/horticulture-techniques/transplanting/">transplanting</a> into pots or <a href="/page-index/horticulture-techniques/true-ground/">true ground</a> when they have developed 4 or more leaves, or roughly a week or two after germination. Leave 15-30cm between each plant to encourage more growth and better ventilation.</p>
 	<br>
 </section>
 	
 <section>
 	<h4>Growing:</h4>
-		<p>Cranberry Hibiscus will produce more flowers when fed with fertilisers high in Phosphorus and Potassium, and more leaves when fed with fertilisers high in Nitrogen. To encourage both leaves and flowers, the plants can be fed with balanced fertilisers.  Plants can be <a href="/page-index/horticulture-techniques/fertilising/">fertilised</a> regularly a month after germination for a fuller crop. </p>
+		<p>Cranberry Hibiscus will produce more flowers when fed with fertilisers high in Phosphorus and Potassium, and more leaves when fed with fertilisers high in Nitrogen. To encourage both leaves and flowers, the plants can be fed with balanced fertilisers.  Plants can be <a href="/page-index/horticulture-techniques/fertilising/">fertilised</a> regularly once a month after transplanting for a fuller crop. </p>
 		<p>It is a good practice to <a href="/page-index/horticulture-techniques/pruning/">prune</a> regularly and remove dead leaves and stems to improve ventilation and allow light to reach more of the plant. Regular pruning also decreases the likelihood of pests quickly taking over the plant.</p>
 		<p>This plant can grow more than 2m tall, but for the ease of harvesting it can be topped off at a manageable hight of around 1.5m.</p>
 	<br>
@@ -69,7 +69,7 @@ image: ""
 <section>
 	<h4>Common problems &amp; solutions:</h4>
 		<p>If your plant has little to no flowers, you try <a href="/page-index/horticulture-techniques/fertilising/">fertilising</a> the plant with fertilisers high in Phosphorus and Potassium. These nutrients encourage root and flower growth.</p>
-		<p><a href="/page-index/pests/aphids/">Aphids</a>, <a href="/page-index/pests/mealy-bugs/">Mealy Bugs</a>, <a href="/page-index/pests/whiteflies/">Whiteflies</a>, and <a href="/page-index/pests/spider-mites/">spider mites</a> often infest the plant if it has <a href="/learn-more-about-gardening/plant-problems/">underlying problems</a> like repeated wilting from heat stress. <a href="/horticulture-techniques/pest-control/">Mechanical pest control</a> methods like <a href="/page-index/horticulture-techniques/pruning/">pruning</a> the infested parts are the best methods for managing these pests in the short term, but resolving the underlying problem will prevent them in the long term.</p>
+<p><a href="/page-index/pests/aphids/">Aphids</a>, <a href="/page-index/pests/mealy-bugs/">Mealy Bugs</a>, <a href="/page-index/pests/scale-insects/">Scale Insects</a>, <a href="/page-index/pests/whiteflies/">Whiteflies</a>, and <a href="/page-index/pests/spider-mites/">spider mites</a> often infest the plant if it has <a href="/learn-more-about-gardening/plant-problems/">underlying problems</a> like repeated wilting from heat stress. <a href="/horticulture-techniques/pest-control/">Mechanical pest control</a> methods like <a href="/page-index/horticulture-techniques/pruning/">pruning</a> the infested parts are the best methods for managing these pests in the short term, but resolving the underlying problem will prevent them in the long term.</p>
 	<p><a href="/page-index/plant-problems/wilting/">Wilting</a> leaves during hot weather is a sign of heat stress. Increase the number of times the plant is watered daily, and apply mulch at the base to prevent water loss.</p>
 	<br>
 </section>
