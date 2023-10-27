@@ -19,13 +19,14 @@ image: ""
  
 <section> 
   <h4>Sun and soil needs:</h4> 
-  <p>This plant thrives in <a href="/page-index/horticulture-techniques/gauging-light/">4-8 hours of indirect sunlight</a>, but <a href="/page-index/plant-problems/sunburn/">may burn</a> in direct sun.  Plants do best in <a href="/page-index/horticulture-techniques/soil/">loamy soil</a> at least 10cm deep, making them suitable for <a href="/page-index/horticulture-techniques/planting-in-containers/">container gardening</a>.</p> 
+  <p>This plant thrives in <a href="/page-index/horticulture-techniques/gauging-light/">4-8 hours of indirect sunlight</a>, but <a href="/page-index/plant-problems/sunburn/">may burn</a> in direct sun.  Plants do best in <a href="/page-index/horticulture-techniques/planting-in-containers/">pots</a> with <a href="/page-index/horticulture-techniques/soil/">loamy soil</a> at least 10cm deep, or in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a>.</p> 
 	<br>
 </section>
 
 <section> 
   <h4>Growing:</h4> 
-	<p>Spider Plants are very hardy and can grow quickly with very little care. This plant can tolerate some neglect, but will grow lush and produce more leaves when the soil is kept moist with regular watering. Root-bound Spider Plants are more likely to produce plantlets. Plants should be <a href="/page-index/horticulture-techniques/fertilising/">fertilised</a> with balanced fertiliser once every 3-4 months as heavily fertilised plants may not produce as many plantlets.</p> 
+	<p>Spider Plants are very hardy and can grow quickly with very little care. This plant can tolerate some neglect, but will grow lush and produce more leaves when the soil is kept moist with regular watering.</p> 
+	<p><a href="/page-index/plant-problems/root-bound/">Root-bound</a> Spider Plants are more likely to produce plantlets. Plants should be <a href="/page-index/horticulture-techniques/fertilising/">fertilised</a> with balanced fertiliser once every 3-4 months as heavily fertilised plants may not produce as many plantlets.</p> 
 	<br> 
 </section> 
 
