@@ -17,7 +17,7 @@ image: ""
  
 <section> 
 	<img title="A sand ginger clump. Photo by Jacqueline Chua." src="/images/Plants/sandginger_jacquelinechua.jpg"> 
-  <p> Sand Gingers are small, aromatic spice used in Malaysian and Indonesian cooking. Its leaves can be consumed raw or in soups, and its <a href="/learn-more-about-gardening/glossary/#r">rhizome</a>, an underground horizontal stem that resembles a tuberous root, is often pounded into a powder and used to flavour sauces and curries.</p>
+  <p> Sand Gingers are a small, aromatic spice used in Malaysian and Indonesian cooking. Its leaves can be consumed raw or in soups, and its <a href="/learn-more-about-gardening/glossary/#r">rhizome</a> is often pounded into a powder and used to flavour sauces and curries.</p>
 	<p>It is a small <a href="/learn-more-about-gardening/glossary/#p">perennial</a> crop that readily grows in the tropics in both <a href="/page-index/horticulture-techniques/true-ground/">true ground</a> and in <a href="/page-index/horticulture-techniques/planting-in-containers/">pots</a>. This is a common plant in herb gardens, and is sometimes used as a <a href="/page-index/horticulture-techniques/companion-planting/">living mulch as part of companion planting</a>.</p>
 	<p>Sand Gingers are part of the Zingiberaceae or Ginger family, which includes other popular edible plants like <a href="/page-index/edible-plants/torch-ginger/">Torch Ginger</a> and <a href="/page-index/edible-plants/fingerroot/">Fingerroot</a>.</p>
  <br> 
@@ -25,7 +25,7 @@ image: ""
  
 <section> 
   <h4>Sun and soil needs:</h4> 
-   <p> Sand Ginger thrives in <a href="/page-index/horticulture-techniques/gauging-light/">more than 2-4 hours of direct sun or 4-6 hours of indirect sun</a>. Plants do best in <a href="/page-index/horticulture-techniques/soil/">sandy soil</a> at least 10cm deep, making them suitable for <a href="/page-index/horticulture-techniques/planting-in-containers/">container gardening</a>. These plants are vulnerable to <a href="/page-index/plant-problems/root-rot">root rot</a>, so ensure that your pots drain well, and that your soil has plenty of <a href="/page-index/horticulture-techniques/soil-amendments/">inorganic soil amendments</a> to let the roots breathe.</p> 
+   <p> Sand Ginger thrives in <a href="/page-index/horticulture-techniques/gauging-light/">more than 2-4 hours of direct sun or 4-6 hours of indirect sun</a>. Plants do best in <a href="/page-index/horticulture-techniques/planting-in-containers/">pots</a> with <a href="/page-index/horticulture-techniques/soil/">loamy soil</a> at least 10cm deep, or in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a>. These plants are vulnerable to <a href="/page-index/plant-problems/root-rot">root rot</a>, so ensure that your pots drain well, and that your soil has plenty of <a href="/page-index/horticulture-techniques/soil-amendments/">inorganic soil amendments</a> to let the roots breathe.</p> 
 	<br> 
 </section> 
 
