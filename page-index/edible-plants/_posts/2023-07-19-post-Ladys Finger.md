@@ -43,6 +43,7 @@ image: ""
   <h4>Transplanting:</h4>
 		<iframe width="100%" height="415" src="https://www.youtube.com/embed/eGBg_S8yj0U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
 	<p>Seedlings will be ready for <a href="/page-index/horticulture-techniques/transplanting/">transplanting</a> into pots or <a href="/page-index/horticulture-techniques/true-ground/">true ground</a> when they have developed 4 or more leaves, or roughly a week or two after germination. Leave 15-30cm between each plant to encourage more growth and better ventilation. </p>
+<br>
 </section>
 	
 <section>
