@@ -18,8 +18,10 @@ image: ""
 	<p><b>Pavilions</b> are simple shelters with a solid roof and no walls. These are ideal for providing seating and storage options as gardeners will naturally gather under these shelters. Pavilions should be installed by contractors to ensure safety and resilience against the elements.</p> 
 	<img title="A wooden pergola for climbing plants. Photo by Jacqueline Chua." src="/images/Hardscapes/Trellis%20(2).jpg">
 	<p><b>Pergolas</b> are usually made of wood or metal, and have a slatted roof for vines to grow over. These shelters will not protect you from rain, but are ideal for providing dappled sunlight conditions for a rest area or to grow plants that need more shade.</p> 
-	<img title="A propagation station made of PVC pipes and plastic sheets. Photo by Jacqueline Chua." src="/images/Hardscapes/Shelter_JacChua%20(1).jpg">
+	<img title="A bench under shelter used to propagate seedlings and cuttings. Photo by Jacqueline Chua." src="/images/Hardscapes/PropagationStation_JacChua.jpg">
 	<p><b>Propagation stations</b> are usually small shelters built to protect vulnerable seedlings and cuttings from direct sun and rain. These stations can be standalone or incorporated as part of a larger structure. Propagation stations can have a solid roof, or a simple netting with fine mesh.</p>  
+		<img title="A propagation station made of PVC pipes and plastic sheets. Photo by Jacqueline Chua." src="/images/Hardscapes/Shelter_JacChua%20(1).jpg">
+	<p><b>Rain shelters</b> are small shelters with solid roofs made of clear plastic that completely protect plants from rain. Plants like <a href="/page-index/edible-plants/tomato/">Tomatoes</a> and <a href="/page-index/edible-plants/chilli/">Chillies</a> often benefit from growing under such shelters as their fruits are vulnerable to rain damage.
 	<iframe width="100%" height="415" src="https://www.youtube.com/embed/AYcnBctE27M?si=aiSLJPeQh4RDnSWR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe><br>
 	<br>
-</section>
+</p></section>
