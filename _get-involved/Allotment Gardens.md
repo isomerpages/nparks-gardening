@@ -125,7 +125,7 @@ will continue making available more plots across the island for new gardeners. N
 		<label for="accordion5">Temporary Occupation Licence (TOL) Payments</label>
 		<div>
 			<details>
-				<summary>26. Can I get refund of my TOL once I have made payment? </summary>
+				<summary>26. Can I get refund of my TOL once I have made payment?</summary>
 				It is important to read all Terms and Conditions of the TOL document. The TOL, once paid, is non-refundable. <br><br>
 			</details>
 			<details>
