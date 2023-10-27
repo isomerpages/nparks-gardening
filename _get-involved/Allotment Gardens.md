@@ -103,7 +103,26 @@ will continue making available more plots across the island for new gardeners. N
 			</details>
 		</div>
 	</li>
-				</ul>
+	<li>
+		<input type="checkbox" id="accordion5">
+		<label for="accordion5">For New Gardeners</label>
+		<div>
+			<details>
+				<summary>23. How can new gardeners get an opportunity to secure an allotment garden plot, if existing gardeners are staying on with their plots? </summary>
+				NParks will continue to roll out new allotment garden plots in more parks across Singapore to provide the community with opportunities to garden near their homes. To date, more than 2000 allotment garden plots have been introduced in 23 parks and gardens across Singapore. We will also continue to provide more allotment gardens in the future. More details will be released when ready. All this will allow us to continue fostering a love for gardening among Singaporeans and nurturing a community of gardeners.<br><br>
+			</details>
+			<details>
+				<summary>24. Out of all the allotment garden plots, how many will NParks renew and how many will be given to new gardeners?  Are all gardeners eligible for renewal? How many will be given to new gardeners? Is there a cap for the number of plots that NParks will allow renewal for?  </summary>
+				Existing gardeners who have maintained good gardening etiquette will be allowed to renew their allotment garden plots. Should they choose not to continue gardening their plots will be released for balloting. NParks will also continue to provide more allotment garden plots in our parks.<br><br>
+			</details>
+			<details>
+				<summary>25. When can new gardeners apply for allotment garden plots?  </summary>
+				More details will be provided when ready. We will be updating the NParks website(www.nparks.gov.sg/gardening/allotment-gardens)  and social media sites when plots are open for application.<br><br>
+			</details>
+			</div>
+				</li>
+	
+</ul>
 
 
 <br> <br>
