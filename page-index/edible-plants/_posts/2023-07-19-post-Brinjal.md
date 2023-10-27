@@ -43,6 +43,7 @@ image: ""
 	<h4>Growing:</h4>
 		<iframe width="100%" height="415" src="https://www.youtube.com/embed/eGBg_S8yj0U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
 	<p>Brinjals will produce more flowers and thus more fruit when fed with fertilisers high in Phosphorus and Potassium. Plants can be <a href="/page-index/horticulture-techniques/fertilising">fertilised</a> once a month after the plant produces its first flower for a fuller crop.</p>
+		<p>As with all members of the Nightshade family, this plant is buzz-pollinated and produces the most fruit when <a href="/page-index/biodiversity/pollinators/">bees</a> are around to pollinate it. Growing more <a href="/page-index/glossary/biodiversity-attracting-plants/">bee-attracting plants</a> within the garden will encourage pollination.  </p>
 	<p>This plant grows as a small shrub, producing large leaves on a few branches. It is a good practice to prune regularly and remove dead leaves to improve ventilation and allow light to reach more of the plant. </p>
 	<br>
 </section>
