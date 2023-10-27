@@ -16,7 +16,7 @@ image: ""
 </section>
 
 <section>
-	<img title="Photo by Flora and Fauna Web." src="/images/Plants/mistletoefig_ffw.jfif">
+	<img title="Mistletoe Fig fruits. Photo by Victoria Lim." src="/images/Plants/mistletoefig%20(1)_victorialim.jpg">
 	<p>Mistletoe Figs are a small, hardy free-fruiting shrub that is commonly seen in rewilding areas, nature parks, in roadside gardens, and biodiversity-attracting gardens. The fruits are attractive to birds and small mammals. This plant is also native to Singapore and is naturally found growing along scrub and areas with sandy soil.</p>
 	<p>A <a href="/learn-more-about-gardening/glossary/#p">perennial</a> shrub, Mistletoe Figs are useful as <a href="/page-index/glossary/biodiveristy-attracting-plants/">biodiversity-attracting plants</a> and perimeter plants to add a pop of colour to any garden. They are also highly drought resistant and will do well in exposed gardens such as those on rooftops.</p>
 	 <br> 
@@ -24,8 +24,8 @@ image: ""
  
 <section> 
   <h4>Sun and soil needs:</h4> 
-	<img title="Mistletoe Fig fruits. Photo by Victoria Lim." src="/images/Plants/mistletoefig%20(1)_victorialim.jpg">
-  <p>This plant thrives in <a href="/page-index/horticulture-techniques/gauging-light/">4-8 hours of direct sunlight</a>, and can also grow in at least 6 hours of indirect sunlight, but at a slower pace. Plants do best in <a href="/page-index/horticulture-techniques/soil/">sandy soil</a> at least 10cm deep, making them suitable for <a href="/page-index/horticulture-techniques/planting-in-containers/">container gardening</a>. These plants are vulnerable to <a href="/page-index/plant-problems/root-rot/">root rot</a>, so ensure that your soil has <a href="/page-index/horticulture-techniques/soil-amendments/">plenty of grit</a> to let the roots breathe.</p> 
+	<img title="Mistletoe Fig plants growing in pots. Photo by Victoria Lim." src="/images/Plants/mistletoefig_victorialim.jpg">
+  <p>This plant thrives in <a href="/page-index/horticulture-techniques/gauging-light/">4-8 hours of direct sunlight</a>, and can also grow in at least 6 hours of indirect sunlight, but at a slower pace.Plants do best in <a href="/page-index/horticulture-techniques/planting-in-containers/">pots</a> with <a href="/page-index/horticulture-techniques/soil/">sandy soil</a> at least 10cm deep, or in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a>. These plants are vulnerable to <a href="/page-index/plant-problems/root-rot/">root rot</a>, so ensure that your soil has <a href="/page-index/horticulture-techniques/soil-amendments/">plenty of inorganic soil amendments</a> to let the roots breathe.</p> 
 	<br>
 </section>
 	
@@ -44,5 +44,6 @@ image: ""
 <section> 
   <h4>Common problems &amp; solutions:</h4> 
 	<p>This plant is relatively resistant to pests and disease if kept healthy.</p>
+	<p><a href="/page-index/pests/mealy-bugs/">Mealy Bugs</a>, <a href="/page-index/pests/scale-insects/">Scale Insects</a>,  and <a href="/page-index/pests/spider-mites/">spider mites</a> often infest the plant if it has <a href="/learn-more-about-gardening/plant-problems/">underlying problems</a> like waterloggging. <a href="/horticulture-techniques/pest-control/">Mechanical pest control</a> methods like <a href="/page-index/horticulture-techniques/pruning/">pruning</a> the infested parts are the best methods for managing these pests in the short term, but resolving the underlying problem will prevent them in the long term.</p>
 	<br> 
 </section>
