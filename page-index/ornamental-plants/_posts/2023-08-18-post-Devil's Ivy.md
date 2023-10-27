@@ -41,7 +41,7 @@ image: ""
 <section> 
   <h4>Propagation:</h4> 
 	<img title="A Devil's Ivy stem being prepared for water rooting. Photo by Jacqueline Chua." src="/images/Horti%20techniques/devilsivy_propagation_nodes_jacquelinechua.jpg">
-	<p>Devil’s Ivy can be propagated by <a href="/page-index/horticulture-techniques/propagating-by-cuttings/">stem cuttings</a>.</p> 
+	<p>Devil’s Ivy can be propagated by <a href="/page-index/horticulture-techniques/propagating-by-cuttings/">stem cuttings</a> rooted in water.</p> 
 	<br> 
 </section> 
  
