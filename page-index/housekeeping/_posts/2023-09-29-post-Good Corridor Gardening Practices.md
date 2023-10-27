@@ -37,6 +37,7 @@ image: /images/Hardscapes/Corridorgarden_JacChua (2).jpg
 	<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/eVBFePei-Bk?si=rz827tqlwF7jGvPC" width="100%" height="415"></iframe><br>
 	<p>As with any other garden, it is best to figure out how much space you can work with, and <a href="/page-index/horticulture-techniques/gauging-light">how much light</a> you receive throughout the year before you choose your plants.  In this case, small plants that <a href="/page-index/horticulture-techniques/planting-in-containers/">thrive in containers</a> that can also tolerate shade would be the best choice for most corridors. Do take note that your pot placement will also affect how much light and space your plant will get. For the most amount of light, try to place your racks or pot stands flush against the parapet.</p>
 	<p>Because corridors also have a lot of traffic, it is also important to choose plants that are not thorny, sharp, or otherwise dangerous to keep you and your neighbours safe.</p>
+	<img title="Small leafy vegetables and herbs being grown along a corridor. Photo by Jacqueline Chua." src="/images/Garden%20design/CorridorGardens_JacChua%20(3).jpg">
 	<p>Here are some edible plants to grow along your corridor:</p>
 	<ul class="jekyllcodex_accordion">
 		<li><input type="checkbox" id="accordion1">
@@ -60,7 +61,6 @@ image: /images/Hardscapes/Corridorgarden_JacChua (2).jpg
 				<li><a href="/page-index/edible-plants/spearmint">Spearmint</a> (<em>Mentha spicata</em>)</li>
 				<li><a href="/page-index/edible-plants/indian-borage">Indian Borage</a> (<em>Coleus amboinicus</em>)</li>
 				<li><a href="/page-index/edible-plants/sawtooth-coriander">Sawtooth Coriander</a> (<em>Eryngium foetidum</em>)</li>
-				<li><a href="/page-index/edible-plants/thai-basil">Thai Basil</a> (<em>Ocimum basilicum</em>)</li>
 				<li><a href="/page-index/edible-plants/turmeric">Turmeric</a> (<em>Curcuma longa</em>)</li>
 				<li><a href="/page-index/edible-plants/fingerroot">Fingerroot</a> (<em>Boesenbergia rotunda</em>)</li>
 				<li><a href="/page-index/edible-plants/sissoo-spinach">Sissoo Spinach</a> (<em>Alternanthera sissoo</em>)</li>
@@ -72,6 +72,7 @@ image: /images/Hardscapes/Corridorgarden_JacChua (2).jpg
 		</div>
 	</li></ul>
 	<br>
+	<img title="Ornamental plants being grown along a corridor. Photo by Jacqueline Chua." src="/images/Garden%20design/CorridorGarden_JacChua.jpg">
 	<p>Here are some ornamental plants to grow along your corridor:</p>
 	<ul class="jekyllcodex_accordion">
 		<li><input type="checkbox" id="accordion3">
@@ -104,5 +105,5 @@ image: /images/Hardscapes/Corridorgarden_JacChua (2).jpg
 			</ul>
 		</div></li>
 	</ul>
-	<p>Download our <a download="" href="/files/introduction%20to%20indoor%20gardening.pdf">indoor gardening guide</a> for more information. </p>
+	<p>Download our <a download="" href="/files/introduction%20to%20indoor%20gardening.pdf">indoor gardening guide</a> for more information and references. </p>
 </section>
