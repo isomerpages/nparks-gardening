@@ -24,7 +24,7 @@ image: ""
  
 <section> 
   <h4>Sun and soil needs:</h4> 
-   <p>This plant thrives in <a href="/page-index/horticulture-techniques/gauging-light/">more than 4 hours of direct sunlight</a>. Plants do best in <a href="/page-index/horticulture-techniques/soil/">moist, well-drained soil</a>. These plants are vulnerable to <a href="/page-index/plant-problems/root-rot/">root rot</a>, so ensure that your soil has plenty of <a href="/page-index/horticulture-techniques/soil-amendments/">organic matter</a> to let the roots breathe. This plant is also highly drought tolerant, making it suitable for exposed gardens like on rooftops.</p> 
+   <p>This plant thrives in <a href="/page-index/horticulture-techniques/gauging-light/">more than 4 hours of direct sunlight</a>. Plants do best in <a href="/page-index/horticulture-techniques/planting-in-containers/">pots</a> with <a href="/page-index/horticulture-techniques/soil/">loamy soil</a> at least 30cm deep, or in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a>. These plants are vulnerable to <a href="/page-index/plant-problems/root-rot/">root rot</a>, so ensure that your soil has plenty of <a href="/page-index/horticulture-techniques/soil-amendments/">organic matter</a> to let the roots breathe. This plant is also highly drought tolerant, making it suitable for exposed gardens like on rooftops.</p> 
 	<br>
 </section>
 
@@ -37,7 +37,7 @@ image: ""
 <section> 
   <h4>Propagation:</h4> 
 	<img title="Rose Myrtle fruits. Photo by Victoria Lim." src="/images/Plants/rosemyrtle%20(1)_victorialim.jpg">
-	<p>Rose Myrtles can be grown from <a href="/page-index/horticulture-techniques/propagating-by-seed/">seed</a>.</p> 
+	<p>Rose Myrtles can be grown from <a href="/page-index/horticulture-techniques/propagating-by-seed/">seed</a> harvested from ripe fruits.</p> 
 	<br> 
 </section> 
  
@@ -46,5 +46,6 @@ image: ""
 	<p>This plant is relatively resistant to pests and disease if kept healthy.</p>
 	<p>This plant may sometimes have round holes in its leaves made by <a href="/page-index/pests/caterpillars/">bagworm caterpillars</a>. Remove the caterpillars by hand to reduce damage.</p>
 		<p>If the plant does not receive enough light, it will stop producing flowers. Prune surrounding plants or move the plant to a sunnier spot to promote flower growth.</p>
+	<p>If your plant has few to no flowers, you can fertilise the plant with <a href="/page-index/horticulture-techniques/fertilising/">fertilisers high in phosphorus and potassium</a>. These nutrients encourage root and flower growth, which are important for the plant to produce more fruit.</p>
 	<br> 
 </section>
