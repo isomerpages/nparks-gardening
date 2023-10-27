@@ -32,4 +32,4 @@ image: /images/Garden design/AllotmentGarden_JacChua (2).jpg
 <p>Have a question about the Allotment Gardening Scheme? Please refer to the <a href="https://go.gov.sg/nparks-allotment-gardens-faqs">FAQs</a> here.</p><p></p>
 
 <br> <br>
-<p>Can't find what you're looking for? Submit your enquiries via our <a href="http://www.nparks.gov.sg/feedback">Feedback Form</a>. For questions related to the November 2023 Application Exercise, please contact AXS Pte Ltd at 65602727 (8.30am - 6pm daily) or via WhatsApp at 81026213 (6pm - 10pm daily).</p>
+<p>Can't find what you're looking for? Submit your enquiries via our <a href="http://www.nparks.gov.sg/feedback">Feedback Form</a>.</p>
