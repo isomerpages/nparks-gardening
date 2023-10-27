@@ -33,7 +33,7 @@ image: ""
 <section>
   <h4>Sowing seeds:</h4>
 		<iframe width="100%" height="415" src="https://www.youtube.com/embed/x7J87wY7U6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe><br>
-	<p>Sow seeds individually in a seedling tray filled with potting mix or seedling mix. Lightly mist the soil until damp, once a day. Seeds should sprout within two weeks.</p>
+	<p><a href="/page-index/horticulture-techniques/propagating-by-seed/">Sow seeds individually</a> in a seedling tray filled with potting mix or seedling mix. Lightly mist the soil until damp, once a day. Seeds should sprout within two weeks.</p>
 	<p>The seedlings will be vulnerable to high heat and heavy rain and are best kept in a sheltered propagation area or a shaded space with around 4 hours of partial or direct sunlight. </p>
 	<p>Seeds can also be sown directly into pots or the ground around 15cm apart. Lightly water the soil until damp, once a day. Seeds should sprout within a week.</p>
 	<br>
@@ -41,7 +41,7 @@ image: ""
 
 <section>
 	<h4>Transplanting:</h4>
-	<p>Seedlings will be ready for transplanting into pots or true ground when they are roughly 10cm tall. Leave 15cm between each plant to encourage more growth and better ventilation.</p>
+	<p>Seedlings will be ready for <a href="/page-index/horticulture-techniques/transplanting/">transplanting</a> into pots or true ground when they are roughly 10cm tall. Leave 15cm between each plant to encourage more growth and better ventilation.</p>
 	<br>
 </section>
 	
