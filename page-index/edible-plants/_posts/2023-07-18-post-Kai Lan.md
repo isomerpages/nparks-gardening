@@ -17,7 +17,7 @@ image: ""
 
 <section>
 	<img title="Photo by Jacqueline Chua." src="/images/Plants/KaiLan_JacChua%20(3).jpg">
-	<p>Kai Lan is a versatile vegetable that has tender leaves and a thick, crunchy stem. It can be eaten blanched, steamed, or stir-fried. The flowers, stem and leaves are edible, and are a staple in many Chinese dishes.</p>
+	<p>Kai Lan is a versatile vegetable that has tender leaves and a thick, crunchy stem. It can be eaten blanched, steamed, or stir-fried. The flowers, stem and leaves are edible, and are a staple in many Chinese dishes. The sprouts can also be eaten as <a href="/page-index/horticulture-techniques/microgreens">microgreens</a>!</p>
 	<p>An <a href="/learn-more-about-gardening/glossary/#a">annual</a> crop, this plant is often grown and consumed under 2 months. Its rapid harvest cycle makes it useful for <a href="/page-index/horticulture-techniques/crop-rotation/">crop rotation</a>.</p>
   <p>Due to its shallow root system, these plants are a popular choice for <a href="/page-index/horticulture-techniques/planting-in-containers/">container gardening</a>.</p>
 	<p>Kai Lan is part of the Brassica or cabbage family, which also includes other popular vegetables like <a href="/page-index/edible-plants/cai-xin/">Cai Xin</a> and <a href="/page-index/edible-plants/xiao-bai-cai/">Xiao Bai Cai</a>.</p>
