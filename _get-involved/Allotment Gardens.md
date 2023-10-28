@@ -23,7 +23,7 @@ details[open] > summary {
 
 <p>NParks will be progressively introducing more plots in various parks across Singapore, and work closely with agencies, Town Councils and Grassroots Organisations to implement more allotment gardens in areas outside of parklands to enable more people to garden closer to where they live. To support these efforts, NParks has also published ‘<a href="https://go.gov.sg/guide-to-design-allotment-gardens">A Guide to Designing and Implementing Allotment Gardens</a>', which is free for all to download.</p> 
 
-<p>Keen to kick-start an allotment garden in your estate with like-minded residents? Check out how you can do so under the Community in Bloom inti
+<p>Keen to kick-start an allotment garden in your estate with like-minded residents? Check out how you can do so under the <a href="https://go.gov.sg/cib-initiative">Community in Bloom</a> programme!
 
 </p><h4>About the Allotment Gardening Scheme</h4>
 
@@ -37,13 +37,14 @@ details[open] > summary {
 <p>You can also follow us on <a href="https://www.facebook.com/nparksbuzz">Facebook</a> (turn on the page notifications!) for announcements on allotment garden plot registrations.</p>
 
 <h4>FAQs</h4>
+<p>Have a question about the Allotment Gardening Scheme? Check out the FAQs below!</p>
 <ul class="jekyllcodex_accordion">
 	<li><input type="checkbox" id="accordion1">
 		<label for="accordion1">Allotment Garden Scheme - General</label>
 		<div>
 			<details>
 				<summary>1. What is an allotment garden?</summary>
-				Allotment gardens are areas located within parks and gardens that house gardening plots available for lease to the community to grow their own plants. With most of the population living in high-rise flats with minimalspace for gardening within their household footprint, these allotment garden plots provide them with further opportunities to garden. To date, more than 2000 allotment garden plots have been made available to the community with plans for further expansion. In tandem, NParks is working with Town Councils and Grassroot Organisations to provide advice on setting up of allotment gardens in public housing estates so that residents can garden closer to their homes. <br><br>
+				Allotment gardens are areas located within parks and gardens that house gardening plots available for lease to the community to grow their own plants. With most of the population living in high-rise flats with minimalspace for gardening within their household footprint, these allotment garden plots provide them with further opportunities to garden. To date, close to 2,200 allotment garden plots have been made available to the community with plans for further expansion. In tandem, NParks is working with Town Councils and Grassroot Organisations to provide advice on setting up of allotment gardens in public housing estates so that residents can garden closer to their homes. <br><br>
 		</details>
 		<details>
 			<summary>2. Which parks can allotment gardens be found?</summary>
