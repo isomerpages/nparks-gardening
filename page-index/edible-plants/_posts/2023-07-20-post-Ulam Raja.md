@@ -25,7 +25,8 @@ image: ""
 <section>
 	<h4>Sun and soil needs:</h4>
 	<img title="Ulam Raja flower. Photo by Victoria Lim." src="/images/Plants/ulamraja_victorialim.jpg">
-	<p>Ulam Raja grows well in <a href="/page-index/horticulture-techniques/gauging-light/">6-8 hours of direct sunlight</a>. They can also be grown in more than 4 hours of direct sunlight or more than 6 hours of indirect sunlight, but will produce less leaves and flowers. Plants do best in <a href="/page-index/horticulture-techniques/soil/">loamy soil</a> at least 20cm deep, or in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a>. These plants are vulnerable to <a href="/page-index/plant-problems/root-rot/">root rot</a>, so ensure that your pots drain well, and that your soil has plenty of <a href="/page-index/horticulture-techniques/soil-amendments/">organic matter</a> to let the roots breathe.</p>
+	<p>Ulam Raja grows well in <a href="/page-index/horticulture-techniques/gauging-light/">6-8 hours of direct sunlight</a>. They can also be grown in more than 4 hours of direct sunlight or more than 6 hours of indirect sunlight, but will produce less leaves and flowers.</p>
+	<p>Plants do best in <a href="/page-index/horticulture-techniques/planting-in-containers/">pots</a> with <a href="/page-index/horticulture-techniques/soil/">loamy soil</a> at least 20cm deep, or in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a>. These plants are vulnerable to <a href="/page-index/plant-problems/root-rot/">root rot</a>, so ensure that your pots drain well, and that your soil has plenty of <a href="/page-index/horticulture-techniques/soil-amendments/">organic matter</a> to let the roots breathe.</p>
 	<br>
 </section>
 
@@ -40,13 +41,13 @@ image: ""
 
 <section>
 	<h4>Transplanting:</h4>
-	<p>Seedlings will be ready for transplanting into pots or true ground when they have developed 4 or more leaves, or roughly a week or two after germination. Leave 15cm between each plant to encourage more growth and better ventilation.</p>
+	<p>Seedlings will be ready for <a href="/page-index/horticulture-techniques/transplanting/">transplanting</a> into pots or true ground when they have developed 4 or more leaves, or roughly a week or two after germination. Leave 15cm between each plant to encourage more growth and better ventilation.</p>
 	<br>
 </section>
 
 <section>
 	<h4>Growing:</h4>
-	<p>Ulam Raja plants grow rapidly, especially with regular harvesting and the use of high nitrogen fertilisers will encourage the plant to grow more leaves. Plants can be <a href="/page-index/horticulture-techniques/fertilising/">fertilised</a> once every two weeks after transplanting, or after hard pruning.</p>
+	<p>Ulam Raja plants grow rapidly, especially with regular harvesting, and generally does not need fertilising.</p>
 	<p>Ulam Raja plants will die after producing seeds. Prolong your harvest by pinching off flowers when they appear.</p>
 	<br>
 </section>
