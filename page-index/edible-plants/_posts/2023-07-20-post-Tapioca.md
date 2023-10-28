@@ -24,13 +24,14 @@ image: ""
 
 <section>
 	<h4>Sun and soil needs:</h4>
-	<p>Tapioca is a hardy crop that can grows well in well in <a href="/page-index/horticulture-techniques/gauging-light/">4-6 hours of direct sunlight or at least 6 hours of indirect sunlight</a>. Plants do best in <a href="/page-index/horticulture-techniques/soil/">sandy soil</a> at least 30cm deep but are also highly tolerant of dry soils and drought-prone environments. To optimise tuber growth, add plenty of <a href="/page-index/horticulture-techniques/soil-amendments/">organic matter</a> to the soil to encourage root and stem growth.</p>
+	<p>Tapioca is a hardy crop that can grows well in well in <a href="/page-index/horticulture-techniques/gauging-light/">4-6 hours of direct sunlight or at least 6 hours of indirect sunlight</a>.</p>
+	<p>Plants do best in <a href="/page-index/horticulture-techniques/planting-in-containers/">pots</a> with <a href="/page-index/horticulture-techniques/soil/">sandy soil</a> at least 30cm deep, or in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a>. They are also highly tolerant of dry soils and drought-prone environments. To optimise tuber growth, add plenty of <a href="/page-index/horticulture-techniques/soil-amendments/">inorganic soil amendments</a> to the soil to encourage root and stem growth.</p>
 	<br>
 </section>
 
 <section>
 	<h4>Growing:</h4>
-	<p>Tapioca is a rapid grower and generally does not need fertilizing. Plants can grow up to 4m high with enough sunlight, and is prone to snapping. <a href="/page-index/horticulture-techniques/pruning/">Prune</a> the plant to around 1.5m for ease of maintenance. Older leaves and side branches should be pruned regularly pruned to allow the plant to focus its energy on growing tubers.</p>
+	<p>Tapioca is a rapid grower and generally does not need fertilizing. Plants can grow up to 4m high with enough sunlight, and is prone to snapping. <a href="/page-index/horticulture-techniques/pruning/">Prune</a> the plant to around 1.5m for ease of maintenance. Older leaves and side branches should be regularly pruned to force the plant to focus its energy on growing tubers.</p>
 	<br>
 </section>
 
