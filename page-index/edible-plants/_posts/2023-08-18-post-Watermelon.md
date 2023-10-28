@@ -26,17 +26,12 @@ image: ""
 <section>
 	<h4>Sun and soil needs:</h4>
 	<p>This vine does best in full sun gardens with <a href="/page-index/horticulture-techniques/gauging-light/">a minimum of 6 hours of sunlight</a>. It can also be grown in areas with at least 6 hours of indirect sunlight but will produce less and smaller fruit.</p>
-	<p>Plants do best in <a href="/page-index/horticulture-techniques/soil/">moist, well-drained soil</a> at least 30cm deep, or in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a>. The plant can be <a href="/page-index/horticulture-techniques/planting-in-containers/">grown in smaller pots</a> about 20cm deep, but growth will be slower due to the lack of water retention in less soil and a smaller root ball.</p>
-	<p>As a fast-growing vine, this plant needs space to scramble on the ground or a sturdy <a href="/page-index/hardscapes/trellises/">trellis</a> to scramble on.</p>
-		<img title="Watermelon fruit being supported by well-draining mulch. Photo by Jacqueline Chua." src="/images/Plants/watermelon%20fruit_jacquelinechua.jpg">
-	<p>Fruits are heavy and are vulnerable to rot if left in direct contact with the ground. Fruits can be protected from rotting be being placed on well-draining waterproof materials like burlap sacks or on small, elevated platforms. Fruits growing on trellises should be supported with a cradle to prevent the vine from snapping.</p>
-	<p>As with all members of the melon family, this plant is bee pollinated and produces male and female flowers. To encourage the formation of more fruits, it is best to have at least 3 separate plants growing in the same area to have both male and female flowers available, and to have <a href="/page-index/glossary/biodiversity-attracting-plants/">bee-attracting plants</a> within the garden to encourage pollination.</p>
+	<p>Plants do best in <a href="/page-index/horticulture-techniques/planting-in-containers/">pots</a> with <a href="/page-index/horticulture-techniques/soil/">loamy soil</a> at least 30cm deep, or in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a>. The plant can be <a href="/page-index/horticulture-techniques/planting-in-containers/">grown in smaller pots</a> about 20cm deep, but growth will be slower and the plant will produce less fruits.</p>
 	<br>
 </section>
 
 <section>
   <h4>Sowing seeds:</h4>
-			<iframe width="100%" height="415" src="https://www.youtube.com/embed/x7J87wY7U6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
 	<p><a href="/page-index/horticulture-techniques/propagation-by-seeds">Seeds can be sown directly into pots or the ground</a> around 15-30cm apart. Lightly water the soil until damp, once a day. Seeds should sprout within 10 days.</p>
 <p>The seedlings are generally resilient to most environmental factors but may be vulnerable to being eaten by <a href="/page-index/pests/snails-and-slugs/">snails</a> or <a href="/page-index/pests/pests/#birds">birds</a>. Protect your young plants with a DIY <a href="/page-index/horticulture-techniques/cloches">cloche</a> or <a href="/page-index/hardscapes/netting">netting</a>.</p>
 	<br>
@@ -47,7 +42,10 @@ image: ""
 	<p>This plant will produce more flowers and thus more fruit when <a href="/page-index/horticulture-techniques/fertilising/">fed with fertilisers high in Phosphorus and Potassium</a>. Plants can be fertilised regularly once a month after germination for a fuller crop.</p>
 	<p>Because the vines will grow on top of each other, it is a good practice to <a href="/page-index/horticulture-techniques/pruning/">prune regularly</a> and remove dead leaves and vines to improve ventilation and allow light to reach more of the plant.</p>
 	<p>Young fruits might rot if they are left in contact with wet soil. They can be protected by being placed on well-draining waterproof materials like burlap sacks or small platforms.</p>
-	<p>Cradles can be used to support larger fruits if the vine is growing up a <a href="/page-index/hardscapes/trellises/">trellis</a>.</p>
+		<p>As a fast-growing vine, this plant needs space to scramble on the ground or a sturdy <a href="/page-index/hardscapes/trellises/">trellis</a> to scramble on.</p>
+		<img title="Watermelon fruit being supported by well-draining mulch. Photo by Jacqueline Chua." src="/images/Plants/watermelon%20fruit_jacquelinechua.jpg">
+	<p>Fruits are heavy and are vulnerable to rot if left in direct contact with the ground. Fruits can be protected from rotting be being placed on well-draining waterproof materials like burlap sacks or on small, elevated platforms. Fruits growing on trellises should be supported with a cradle to prevent the vine from snapping.</p>
+	<p>As with all members of the melon family, this plant is bee pollinated and produces male and female flowers. To encourage the formation of more fruits, it is best to have at least 3 separate plants growing in the same area to have both male and female flowers available, and to have <a href="/page-index/glossary/biodiversity-attracting-plants/">bee-attracting plants</a> within the garden to encourage pollination.</p>
 	<br>
 </section>
 
