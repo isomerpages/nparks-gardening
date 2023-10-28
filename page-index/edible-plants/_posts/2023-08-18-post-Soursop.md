@@ -25,24 +25,23 @@ image: ""
 <section>
 	<h4>Sun and soil needs:</h4>
 	<p>This tree does best in <a href="/page-index/horticulture-techniques/gauging-light/">full sun gardens with a minimum of 6 hours of direct sunlight</a>.</p>
-	<p>Plants do best in <a href="/page-index/horticulture-techniques/soil/">moist, well-drained soil</a> at least 50cm deep, or in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a>. These plants are vulnerable to <a href="/page-index/plant-problems/root-rot/">root rot</a>, so ensure that your pots drain well, and that your soil has plenty of <a href="/page-index/horticulture-techniques/soil-amendments/">organic matter</a> to let the roots breathe. Keep your plants cool with <a href="/page-index/horticulture-techniques/mulching/">mulch</a> and plenty of water to encourage growth.</p>
-	<p>This tree can grow up to 10m high. The tree is best maintained at roughly 2m high for easy maintenance and harvesting.</p>
-	<p>It is currently unclear what pollinates Soursop trees in Singapore, but in their native range they are pollinated by beetles. Flowers can be hand-pollinated if male flowers are harvested from another tree.</p>
+	<p>Plants do best in <a href="/page-index/horticulture-techniques/planting-in-containers/">pots</a> with <a href="/page-index/horticulture-techniques/soil/">loamy soil</a> at least 1m deep, or in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a>. These plants are vulnerable to <a href="/page-index/plant-problems/root-rot/">root rot</a>, so ensure that your pots drain well, and that your soil has plenty of <a href="/page-index/horticulture-techniques/soil-amendments/">organic matter</a> to let the roots breathe. Keep your plants cool with <a href="/page-index/horticulture-techniques/mulching/">mulch</a> and plenty of water to encourage growth.</p>
 	<br>
 </section>
 
 <section>
 	<h4>Sowing Seeds</h4>
-	<p>Seeds can be sown directly into pots or the ground. Because the plant eventually grows into a tree, it is easier to grow a few seedlings in separate pots before selecting the healthiest one to be grown in true ground.</p>
-	<iframe width="100%" height="415" src="https://www.youtube.com/embed/x7J87wY7U6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
+	<p><a href="/page-index/horticulture-techniques/propagating-by-seed/">Seeds can be sown directly</a> into pots or the ground. Because the plant eventually grows into a tree, it is easier to grow a few seedlings in separate pots before selecting the healthiest one to be grown in true ground.</p>
 	<p>The seedlings are generally resilient to most environmental factors but may be vulnerable to being eaten by snails or birds. Protect your young plants with a DIY <a href="/page-index/horticulture-techniques/cloches/">cloche</a> or <a href="/page-index/hardscapes/netting/">netting</a>.</p>
 	<br>
 </section>
 
 <section>
   <h4>Growing:</h4>
-	<p>Soursop trees are steady growers but do benefit from being fed <a href="/page-index/horticulture-techniques/fertilising/">high potassium and phosphorus fertilisers</a> to encourage flowering and thus fruiting. <a href="/page-index/horticulture-techniques/pruning/">Regular pruning</a> to promote airflow will keep the plant healthy and neat.</p>
+	<p>Soursop trees are steady growers but do benefit from being fed <a href="/page-index/horticulture-techniques/fertilising/">high potassium and phosphorus fertilisers</a> once every two months after its first flower to encourage flowering and thus fruiting. <a href="/page-index/horticulture-techniques/pruning/">Regular pruning</a> to promote airflow will keep the plant healthy and neat.</p>
+		<p>This tree can grow up to 10m high. The tree is best maintained at roughly 2m high for easy maintenance and harvesting.</p>
 	<p>The tree will need to be around 3 years old before it starts producing fruit if grown from seed.</p>
+		<p>It is currently unclear what pollinates Soursop trees in Singapore, but in their native range they are pollinated by beetles. Flowers can be hand-pollinated if male flowers are harvested from another tree.</p>
 	<br>
 </section>
 
