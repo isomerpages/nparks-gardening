@@ -27,8 +27,7 @@ image: ""
 	<h4>Sun and soil needs:</h4>
 	<img title="Peanut plants in poly bags. Photo by Jacqueline Chua." src="/images/Plants/peanut%20(2)_jacquelinechua.jpg">
 	<p>This plant does best in <a href="/page-index/horticulture-techniques/gauging-light/">full sun gardens with a minimum of 6 hours of direct sunlight</a>. This plant can also grow in gardens with at least 6 hours of indirect sunlight, but growth will be slow and the plant will be less healthy.</p>
-	<p>Plants do best in <a href="/page-index/horticulture-techniques/soil/">sandy soil</a> at least 15cm deep, making them suitable for <a href="/page-index/horticulture-techniques/planting-in-containers/">container gardening</a>. These plants are vulnerable to <a href="/page-index/plant-problems/root-rot/">root rot</a>, so ensure that your pots drain well, and that your soil has plenty of <a href="/page-index/horticulture-techniques/soil-amendments/">organic matter and grit</a> to let the roots breathe.</p>
-	<p>As with all members of the bean family, this plant is pollinated by bees. Growing more <a href="/page-index/glossary/biodiversity-attracting-plants/">bee-attracting plants</a> within the garden will encourage pollination.</p>
+	<p>Plants do best in <a href="/page-index/horticulture-techniques/planting-in-containers/">pots</a> with <a href="/page-index/horticulture-techniques/soil/">sandy soil</a> at least 15cm deep, or in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a>. These plants are vulnerable to <a href="/page-index/plant-problems/root-rot/">root rot</a>, so ensure that your pots drain well, and that your soil has plenty of <a href="/page-index/horticulture-techniques/soil-amendments/">organic and inorganic soil amendments</a> to let the roots breathe.</p>
 	<br>
 </section>
 
@@ -42,7 +41,8 @@ image: ""
 <section>
 	<h4>Growing:</h4>
 		<img title="A Peanut plant with flowers. Photo by Jacqueline Chua." src="/images/Plants/peanut%20(4)_jacquelinechua.jpg">
-	<p>These plants generally do not require much fertilising because they are able to fix their own nitrogen. To encourage flowering and thus more seed pods, you can fertilise the plant with <a href="/page-index/horticulture-techniques/fertilising/">fertilisers high in phosphorus and potassium</a>. These nutrients encourage root and flower growth, which are important for the plant to produce more seed pods. Unfertilised peanut flowers grow above ground like most other plants, but when they are fertilised they will grow special structures that produce the peanut seed pods underground.</p>
+	<p>These plants generally do not require much fertilising because they are able to fix their own nitrogen. To encourage flowering and thus more seed pods, you can fertilise the plant with <a href="/page-index/horticulture-techniques/fertilising/">fertilisers high in phosphorus and potassium</a> once a month after the plant produces its first flower. These nutrients encourage root and flower growth, which are important for the plant to produce more seed pods.</p>
+	<p>Unfertilised peanut flowers grow above ground like most other plants, but when they are fertilised they will grow special structures that produce the peanut seed pods underground.</p>
 	<p>Individual peanut plants will quickly grow a network of roots that are delicate. Do not disturb the roots if possible, and <a href="/page-index/horticulture-techniques/mulching/">mulch</a> them to prevent water loss.</p>
 	<p><a href="/page-index/pests/pests/#rodents">Squirrels and birds</a> may dig up and eat seed pods. Cover your plants in <a href="/page-index/hardscapes/netting">netting</a> to prevent this.</p>
 	<br>
