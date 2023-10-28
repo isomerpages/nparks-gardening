@@ -27,9 +27,9 @@ image: ""
 	<h4>Sun and soil needs:</h4>
 	<img title="Bangkwang flowers. Photo by Jacqueline Chua." src="/images/Plants/bangkwang%20(1)_jacquelinechua.jpg">
 	<p>This vine does best in <a href="/page-index/horticulture-techniques/gauging-light/">full sun gardens with a minimum of 6 hours of sunlight</a>. It can also grow in areas with at least 6 hours of indirect sunlight, but growth may be slower.</p>
-	<p>Plants do best in <a href="/page-index/horticulture-techniques/soil/">loamy soil</a> at least 30cm deep, or in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a>.</p>
+	<p>Plants do best in <a href="/page-index/horticulture-techniques/planting-in-containers/">pots</a> with <a href="/page-index/horticulture-techniques/soil/">loamy soil</a> at least 30cm deep, or in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a>.</p>
 	<p>This vine is vulnerable to heat stress during the dry season. Water it regularly and <a href="/page-index/horticulture-techniques/mulching/">mulch</a> the base to prevent water loss.</p>
-	<p>As a fast-growing vine, this plant needs to be trained up a light <a href="/page-index/hardscapes/trellises/">trellis</a>. The vine readily produces flowers and can be used to beautify fences and arch trellises.</p>
+	<br>
 </section>
 
 <section>
@@ -42,8 +42,9 @@ image: ""
 
 <section>
   <h4>Growing:</h4>
-	<p>Bean plants generally don’t require much fertilising because they are able to fix their own nitrogen. However, they do benefit from being fed high potassium and phosphorus <a href="/page-index/horticulture-techniques/fertilising/">fertilisers</a> to encourage flowering and thus fruiting. </p>
+	<p>Bean plants generally don’t require much fertilising because they are able to fix their own nitrogen. However, they do benefit from being fed high potassium and phosphorus <a href="/page-index/horticulture-techniques/fertilising/">fertilisers</a> once a month after their first flower to encourage additional root and tuber growth. </p>
 		<p>Because the vines will grow on top of each other, it is a good practice to <a href="/page-index/horticulture-techniques/pruning/">prune regularly</a> and remove dead leaves and vines to improve ventilation and allow light to reach more of the plant.</p>
+		<p>As a fast-growing vine, this plant needs to be trained up a light <a href="/page-index/hardscapes/trellises/">trellis</a>. The vine readily produces flowers and can be used to beautify fences and arch trellises.</p>
 	<br>
 </section>
 
