@@ -16,7 +16,7 @@ image: ""
 </section>
 
 <section>
-	<img title="Photo by Flora and Fauna Web." src="/images/Plants/commonpepper_ffw.jfif">
+	<img title="Common pepper fruit. Photo by Jacqueline Chua." src="/images/Plants/commonpepper_jacquelinechua.jpg">
 	<p>Common Pepper plants produce small hard fruits that can be processed into various kinds of pepper. Traditional black pepper is made from the dried immature fruit, white pepper is made from the seeds of mature fruit, while green pepper is made from fresh, immature fruit.</p>
 	<p>As a <a href="/learn-more-about-gardening/glossary/#p">perennial</a> vine, it is an uncommon sight in edible gardens, and is usually found growing up a wall or trellis.</p>
 	<br>
@@ -25,8 +25,7 @@ image: ""
 <section>
 	<h4>Sun and soil needs:</h4>
 	<p>This vine does best in gardens with <a href="/page-index/horticulture-techniques/gauging-light">a minimum of 6 hours of bright indirect sunlight or dappled shade</a>. More than 6 hours of direct sunlight might <a href="/page-index/plant-problems/sunburn/">burn</a> the plant.</p>
-	<p>Plants do best in <a href="/page-index/horticulture-techniques/soil">moist, well-drained soil</a> at least 30cm deep, or in <a href="/page-index/horticulture-techniques/true-ground">true ground</a>. The plant can be grown in <a href="/page-index/horticulture-techniques/planting-in-containers">smaller pots</a> about 20cm deep, but growth will be slower due to the lack of water retention in less soil and a smaller root ball.</p>
-	<p>As a fast-growing vine, this plant needs a tall, sturdy <a href="/page-index/hardscapes/trellises">trellis</a> to scramble on. It can be trained up walls, or large trees.</p>
+	<p>Plants do best in <a href="/page-index/horticulture-techniques/planting-in-containers/">pots</a> with <a href="/page-index/horticulture-techniques/soil/">loamy soil</a> at least 30cm deep, or in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a>. The plant can be grown in <a href="/page-index/horticulture-techniques/planting-in-containers">smaller pots</a> about 20cm deep, but growth will be slower and the plant will produce less fruits.</p>
 	<br>
 </section>
 
@@ -39,7 +38,8 @@ image: ""
 	
 <section>
 	<h4>Growing:</h4>
-	<p>Common Peppers grow readily without fertilisers and will produce fruits all year long. However, they can be fed with <a href="/page-index/horticulture-techniques/fertilising">fertilisers</a> high in Phosphorus and Potassium to encourage additional flower and thus fruit growth.</p>
+		<p>As a fast-growing vine, this plant needs a tall, sturdy <a href="/page-index/hardscapes/trellises">trellis</a> to scramble on. It can also be trained up walls, or large trees.</p>
+	<p>Common Peppers grow readily without fertilisers and will produce fruits all year long. However, they can be fed with <a href="/page-index/horticulture-techniques/fertilising">fertilisers</a> high in Phosphorus and Potassium once a month after the first flower to encourage additional flower and thus fruit growth.</p>
 	<p>Because the vines will grow on top of each other, it is a good practice to <a href="/page-index/horticulture-techniques/pruning">prune regularly</a> and remove dead leaves and vines to improve ventilation and allow light to reach more of the plant. Regular pruning will also encourage the plant to grow more shoots and produce more flowers and thus fruit.</p>
 	<br>
 </section>
