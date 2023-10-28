@@ -21,7 +21,7 @@ details[open] > summary {
 
 <iframe height="415" width="100%" src="https://www.google.com/maps/d/embed?mid=1kuZLALaPolG-7unwBI4NZC1jdzpoVgs&amp;ehbc=2E312F&amp;noprof=1"></iframe>
 
-<p>NParks will be progressively introducing more plots in various parks across Singapore, and work closely with agencies, Town Councils and Grassroots Organisations to implement more allotment gardens in areas outside of parklands to enable more people to garden closer to where they live. To support these efforts, NParks has also published ‘<a href="https://go.gov.sg/guide-to-design-allotment-gardens">A Guide to Designing and Implementing Allotment Gardens</a>' which is free for all to download.</p>
+<p>NParks will be progressively introducing more plots in various parks across Singapore, and work closely with agencies, Town Councils and Grassroots Organisations to implement more allotment gardens in areas outside of parklands to enable more people to garden closer to where they live. To support these efforts, NParks has also published ‘<a href="https://go.gov.sg/guide-to-design-allotment-gardens">A Guide to Designing and Implementing Allotment Gardens</a>', which is free for all to download.</p>
 
 <h4>About the Allotment Gardening Scheme</h4>
 
