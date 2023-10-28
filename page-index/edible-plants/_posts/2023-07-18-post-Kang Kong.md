@@ -17,7 +17,7 @@ image: ""
 
 <section>
 	<img title="Kang kong seedlings grown in rows spaced 10cm apart. Photo by Jacqueline Chua" src="/images/Horti%20techniques/Spacing_Jacchua%20(8).jpg">
-	<p>Kang Kong is an iconic staple in a variety of Southeast Asian cuisines, and a common sight in local edible gardens around the region. It is a <a href="/learn-more-about-gardening/glossary/#p">perennial</a> crop that grows as a vine, making it a useful permanent addition to any edible garden. Young leaves and stems are eaten raw, stir fried or blanched.</p>
+	<p>Kang Kong is an iconic staple in a variety of Southeast Asian cuisines, and a common sight in local edible gardens around the region. It is a <a href="/learn-more-about-gardening/glossary/#p">perennial</a> crop that grows as a vine, making it a useful permanent addition to any edible garden. Young leaves and stems are eaten raw, stir fried or blanched. The sprouts can also be eaten as <a href="/page-index/horticulture-techniques/microgreens">microgreens</a>!</p>
   <p>This fast-growing perennial crop can be used as an edible groundcover or a <a href="/page-index/horticulture-techniques/companion-planting/">living mulch</a> to suppress weeds and protect soil from the sun and rain.</p>
   <p>Because the stem of this plant is hollow, it can float on water and can be found growing naturally along the banks of water bodies like rivers and ponds, forming a thick mat of vegetation.</p>
   <p>This vine is from the Ipomoea or Morning Glory family, and in the same genus as <a href="/page-index/edible-plants/sweet-potato/">Sweet Potato</a>.</p>
