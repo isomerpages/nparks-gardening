@@ -25,7 +25,7 @@ image: ""
 <section>
 	<h4>Sun and soil needs:</h4>
 	<p>This tree does best in <a href="/page-index/horticulture-techniques/gauging-light/">full sun gardens with a minimum of 6 hours of sunlight</a>.</p>
-	<p>Plants do best in <a href="/page-index/horticulture-techniques/soil/">loamy soil</a> at least 30cm deep, or in true ground. These plants are vulnerable to  <a href="/page-index/plant-problems/root-rot/">root rot</a>, so ensure that your pots drain well, and that your soil has plenty of  <a href="/page-index/horticulture-techniques/soil-amendments/">organic matter</a> to let the roots breathe. Keep your plants cool with  <a href="/page-index/horticulture-techniques/mulching/">mulch</a> and plenty of water to encourage growth.</p>
+	<p>Plants do best in <a href="/page-index/horticulture-techniques/planting-in-containers/">pots</a> with <a href="/page-index/horticulture-techniques/soil/">loamy soil</a> at least 30cm deep, or in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a>. These plants are vulnerable to  <a href="/page-index/plant-problems/root-rot/">root rot</a>, so ensure that your pots drain well, and that your soil has plenty of  <a href="/page-index/horticulture-techniques/soil-amendments/">organic matter</a> to let the roots breathe. Keep your plants cool with  <a href="/page-index/horticulture-techniques/mulching/">mulch</a> and plenty of water to encourage growth.</p>
 	<p>This tree can grow up to 15m high. The tree is best maintained at roughly 1.5m high for easy maintenance and harvesting.</p>
 	<br>
 </section>
@@ -47,7 +47,7 @@ image: ""
 
 <section>
 	<h4>Propagation:</h4>
-	<p>This tree can be grown  <a href="/page-index/horticulture-techniques/propagating-by-seeds/">via seed</a> but are usually propagated  <a href="/page-index/horticulture-techniques/propagating-by-cuttings/">via woody cuttings</a> with rooting hormone.</p>
+	<p>This tree can be grown  <a href="/page-index/horticulture-techniques/propagating-by-seeds/">via seed</a> but are usually propagated  <a href="/page-index/horticulture-techniques/propagating-by-cuttings/">via stem cuttings</a> rooted directly in soil.</p>
 	<br>
 </section>
 
