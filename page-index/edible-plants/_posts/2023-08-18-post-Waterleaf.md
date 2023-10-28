@@ -16,7 +16,7 @@ image: ""
 </section>
 
 <section>
-	<img title="Javan Spinach flowers. Photo by Jacqueline Chua." src="/images/Plants/javanspinach_flowers_jacquelinechua.jpg">
+	<img title="Waterleaf plants. Photo by Jacqueline Chua." src="/images/Plants/javanspinach%20(2)_jacquelinechua.jpg">
 	<p>Waterleaf is a hardy vegetable that also produces delicate pink flowers that attracts bees. Its leaves, stem and root can be eaten blanched, fried, or in stews.</p>
 	<p>An <a href="/learn-more-about-gardening/glossary/#a/">annual</a> crop, this plant is often grown and consumed under 6 months. It can be used for <a href="/page-index/horticulture-techniques/crop-rotation/">crop rotation</a>.</p>       
 	<br>
@@ -24,8 +24,9 @@ image: ""
 
 <section>
 	<h4>Sun and soil needs:</h4>
-	<img title="Javan spinach plant. Photo by Jacqueline Chua." src="/images/Plants/javanspinach%20(1)_jacquelinechua.jpg">
-	<p>This plant needs <a href="/page-index/horticulture-techniques/gauging-light/">about 4-8 hours of direct sunlight</a>. Plants do best in <a href="/page-index/horticulture-techniques/soil/">moist, well-drained soil</a> at least 10cm deep, making them suitable for <a href="/page-index/horticulture-techniques/planting-in-containers/">container gardening</a>. These plants are vulnerable to <a href="/page-index/plant-problems/root-rot/">root rot</a>, so ensure that your pots drain well, and that your soil has plenty of <a href="/page-index/horticulture-techniques/soil-amendments/">organic matter</a> to let the roots breathe. Keep your plants cool with <a href="/page-index/horticulture-techniques/mulching/">mulch</a> and plenty of water to encourage growth.</p>
+	<img title="Javan Spinach flowers. Photo by Jacqueline Chua." src="/images/Plants/javanspinach_flowers_jacquelinechua.jpg">
+	<p>This plant needs <a href="/page-index/horticulture-techniques/gauging-light/">about 4-8 hours of direct sunlight</a>, or at least 6 hours of indirect sunlight.</p>
+	<p>Plants do best in <a href="/page-index/horticulture-techniques/planting-in-containers/">pots</a> with <a href="/page-index/horticulture-techniques/soil/">loamy soil</a> at least 10cm deep, or in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a>. These plants are vulnerable to <a href="/page-index/plant-problems/root-rot/">root rot</a>, so ensure that your pots drain well, and that your soil has plenty of <a href="/page-index/horticulture-techniques/soil-amendments/">organic matter</a> to let the roots breathe. Keep your plants cool with <a href="/page-index/horticulture-techniques/mulching/">mulch</a> and plenty of water to encourage growth.</p>
 	<br>
 </section>
 
@@ -57,6 +58,7 @@ image: ""
 <section>
 	<h4>Common problems &amp; solutions:</h4>
 	<p>This plant is relatively resistant to pests and disease if kept healthy.</p>
+	<p><a href="/page-index/pests/aphids/">Aphids</a>, <a href="/page-index/pests/mealy-bugs/">Mealy Bugs</a>, and <a href="/page-index/pests/whiteflies/">Whiteflies</a> often infest the plant if it has <a href="/learn-more-about-gardening/plant-problems/">underlying problems</a> like repeated wilting from heat stress. <a href="/horticulture-techniques/pest-control/">Mechanical pest control</a> methods like <a href="/page-index/horticulture-techniques/pruning/">pruning</a> the infested parts are the best methods for managing these pests in the short term, but resolving the underlying problem will prevent them in the long term.</p>
 	<p><a href="/page-index/plant-problems/wilting/">Wilting</a> leaves during hot weather is a sign of heat stress. Increase the number of times the plant is watered daily, or move it to a shadier part of the garden.</p>
 	<br>
 </section>
