@@ -25,7 +25,7 @@ image: ""
 <section>
 	<h4>Sun and soil needs:</h4>
 	<p>This tree does best in <a href="/page-index/horticulture-techniques/gauging-light">full sun gardens with a minimum of 6 hours of sunlight</a>. This plant can also grow in areas with at least 6 hours of indirect sunlight, but growth will be slow and the plant will produce less fruits.</p>
-	<p>Plants do best in <a href="/page-index/horticulture-techniques/soil/">loamy soil</a> at least 50cm deep, or in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a>. This tree is highly tolerant of a wide variety of <a href="/page-index/horticulture-techniques/soil/"> soil types</a>, from sandy to clayey.</p>
+	<p>Plants do best in <a href="/page-index/horticulture-techniques/planting-in-containers/">pots</a> with <a href="/page-index/horticulture-techniques/soil/">loamy soil</a> at least 1m deep, or in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a>. This tree is highly tolerant of a wide variety of <a href="/page-index/horticulture-techniques/soil/"> soil types</a>, from sandy to clayey.</p>
 	<p>This tree can grow up to 10m high. The tree is best maintained at roughly 2m high for easy maintenance and harvesting.</p>
 	<br>
 </section>
