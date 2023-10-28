@@ -27,7 +27,7 @@ image: ""
 <section>
 	<h4>Sun and soil needs:</h4>
 	<p>Fingerroot grows well in <a href="/page-index/horticulture-techniques/gauging-light">4-6 hours of direct sunlight or 6-8 hours of indirect sunlight</a>.</p>
-	<p>Plants do best in <a href="/page-index/horticulture-techniques/planting-in-containers/">pots</a> with <a href="/page-index/horticulture-techniques/soil/">loamy soil</a> at least 15cm deep, or in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a>.These plants are vulnerable to <a href="/page-index/plant-problems/root-rot">root rot</a>, so ensure that your pots drain well, and that your soil has plenty of <a href="/page-index/horticulture-techniques/soil-amendments">organic matter</a> to let the roots breathe.</p>
+	<p>Plants do best in <a href="/page-index/horticulture-techniques/planting-in-containers/">pots</a> with <a href="/page-index/horticulture-techniques/soil/">loamy soil</a> at least 15cm deep, or in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a>. These plants are vulnerable to <a href="/page-index/plant-problems/root-rot">root rot</a>, so ensure that your pots drain well, and that your soil has plenty of <a href="/page-index/horticulture-techniques/soil-amendments">organic matter</a> to let the roots breathe.</p>
 	<p>This plant will not do well in places with a lot of wind, like on rooftop gardens or corridor gardens on high floors. Protect the plant with other larger plants nearby to block off the wind.</p>
 	<br>
 </section>
