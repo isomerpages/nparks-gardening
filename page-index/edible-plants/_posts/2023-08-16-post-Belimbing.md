@@ -26,9 +26,8 @@ image: ""
 	<h4>Sun and soil needs:</h4>
 	<img title="A belimbling tree growing new leaves. Photo by Jacqueline Chua." src="/images/Plants/belimbling%20(1)_jacquelinechua.jpg">
 	<p>This tree does best in <a href="/page-index/horticulture-techniques/gauging-light/">full sun gardens with a minimum of 6 hours of sunlight</a>.</p>
-	<p>Plants do best in <a href="/page-index/horticulture-techniques/soil/">loamy soil</a> at least 50cm deep, or in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a>. These plants are vulnerable to <a href="/page-index/plant-problems/root-rot/">root rot</a>, so ensure that your pots drain well, and that your soil has plenty of <a href="/page-index/horticulture-techniques/soil-amendments/">organic matter</a> to let the roots breathe.</p>
+	<p>Plants do best in <a href="/page-index/horticulture-techniques/planting-in-containers/">pots</a> with <a href="/page-index/horticulture-techniques/soil/">loamy soil</a> at least 1m deep, or in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a>. These plants are vulnerable to <a href="/page-index/plant-problems/root-rot/">root rot</a>, so ensure that your pots drain well, and that your soil has plenty of <a href="/page-index/horticulture-techniques/soil-amendments/">organic matter</a> to let the roots breathe.</p>
 	<p>This tree can grow up to 10m high, but because the fruits form along the stem, it is best to <a href="/page-index/horticulture-techniques/pruning/">prune</a> it down to around 2 or 3m for easy harvesting.</p>
- <p>This plant can be grown year-round.</p>
 	<br>
 </section>
 
