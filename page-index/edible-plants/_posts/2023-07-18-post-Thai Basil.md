@@ -17,7 +17,7 @@ image: ""
 
 <section>
 	<img title="Flowering Thai Basil plants. Photo by Jacqueline Chua." src="/images/Plants/ThaiBasil_JacChua%20(1).jpg">
-	<p>Thai basil is a staple herb in many Southeast Asian gardens, and thrives in tropical climates. Thai basil leaves and flowers are harvested for salads, sauces, soups and stir-fries for many Thai and Vietnamese dishes.</p>
+	<p>Thai basil is a staple herb in many Southeast Asian gardens, and thrives in tropical climates. Thai basil leaves and flowers are harvested for salads, sauces, soups and stir-fries for many Thai and Vietnamese dishes. The sprouts can also be eaten as <a href="/page-index/horticulture-techniques/microgreens">microgreens</a>!</p>
 	<p>Thai Basil plants are typically treated as <a href="/learn-more-about-gardening/glossary/#a">annual</a> crops due to their rapid flowering, but they can also be kept as <a href="/learn-more-about-gardening/glossary/#a">perennials</a> if their flowers are pruned before they can set seed.</p>
 	<p>Thai Basils are part of the Lamiaceae or Mint family, which includes other popular herbs like <a href="/page-index/edible-plants/indian-borage/">Indian Borage</a>, and <a href="/page-index/edible-plants/spearmint/">Spearmint</a>.</p>
 	<br>
