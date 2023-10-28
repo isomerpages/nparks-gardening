@@ -21,9 +21,11 @@ details[open] > summary {
 
 <iframe height="415" width="100%" src="https://www.google.com/maps/d/embed?mid=1kuZLALaPolG-7unwBI4NZC1jdzpoVgs&amp;ehbc=2E312F&amp;noprof=1"></iframe>
 
-<p>NParks will be progressively introducing more plots in various parks across Singapore, and work closely with agencies, Town Councils and Grassroots Organisations to implement more allotment gardens in areas outside of parklands to enable more people to garden closer to where they live. To support these efforts, NParks has also published ‘<a href="https://go.gov.sg/guide-to-design-allotment-gardens">A Guide to Designing and Implementing Allotment Gardens</a>', which is free for all to download.</p>
+<p>NParks will be progressively introducing more plots in various parks across Singapore, and work closely with agencies, Town Councils and Grassroots Organisations to implement more allotment gardens in areas outside of parklands to enable more people to garden closer to where they live. To support these efforts, NParks has also published ‘<a href="https://go.gov.sg/guide-to-design-allotment-gardens">A Guide to Designing and Implementing Allotment Gardens</a>', which is free for all to download.</p> 
 
-<h4>About the Allotment Gardening Scheme</h4>
+<p>Keen to kick-start an allotment garden in your estate with like-minded residents? Check out how you can do so under the Community in Bloom inti
+
+</p><h4>About the Allotment Gardening Scheme</h4>
 
 <p>Under NParks’ Allotment Gardening Scheme, each household may apply and ballot for one garden plot at any one location at a time. Each plot consists of a raised planter bed (2.5m x 1m) with soil and a mini storage area for tools and may be leased for a period of up to 3 years at a charge of <b>$57 per year</b> (excluding prevailing GST). </p> 
 
