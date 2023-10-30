@@ -61,16 +61,18 @@ details[open] > summary {
 			11. Jurong Central Park<br>
 			12. Jurong Lake Gardens<br>
 			13. Kallang Riverside Park<br>
-			14. Lower Seletar Reservoir Park<br>
-			15. one-north Park<br>
-			16. Pasir Ris Park<br>
-			17. Punggol Park<br>
-			18. Punggol Waterway Park<br>
-			19. Sengkang Riverside Park<br>
-			20. Tiong Bahru Park<br>
-			21. West Coast Park<br>
-			22. Yishun Park<br>
-			23. Yishun Neighbourhood Park<br>
+			14. Kent Ridge Park <br>
+			15. Lower Seletar Reservoir Park<br>
+			16. one-north Park<br>
+			17. Pasir Ris Park<br>
+			18. Punggol Park<br>
+			19. Punggol Waterway Park<br>
+			20. Sembawang Park<br>
+			21. Sengkang Riverside Park<br>
+			22. Tiong Bahru Park<br>
+			23. West Coast Park<br>
+			24. Yishun Park<br>
+			25. Yishun Neighbourhood Park<br>
 			<br>
 			</details>
 		</div>
