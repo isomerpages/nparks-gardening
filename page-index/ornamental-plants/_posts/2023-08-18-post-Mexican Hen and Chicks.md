@@ -13,7 +13,7 @@ image: ""
 <section>
 	<img title="A Mexican hen-and-chicks plant. Photo by Flora and Fauna web." src="/images/Plants/mexicanhenandchicks_ffw.jpg">
 	<p>Mexican Hen-and-Chicks plants grow as a short rosettes up to 15cm across, with larger plants growing smaller plants along the margin, resembling how chicks will cluster around a mother hen.</p>
-	<p>A <a href="/learn-more-about-gardening/glossary/#p">perennial</a> succulent, this plant is great to grow in containers or as a center piece or a part in a succulent dish arrangement. This genus has many species and cultivars, each with their unique leaf shape and colours. These plants require more care in the tropics as they do not do well with humidity, and will need care with watering to prevent rot.</p>
+	<p>A <a href="/learn-more-about-gardening/glossary/#p">perennial</a> succulent, this plant is great to <a href="/page-index/horticulture-techniques/planting-in-containers">grow in containers</a> or as a center piece or a part in a succulent dish arrangement. This genus has many species and cultivars, each with their unique leaf shape and colours. These plants require more care in the tropics as they do not do well with humidity, and will need care with watering to prevent rot.</p>
 	 <br> 
 </section> 
  
