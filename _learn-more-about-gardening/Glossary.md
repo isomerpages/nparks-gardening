@@ -210,6 +210,9 @@ Pollination refers to the transport of pollen to the stigma of a plant, which is
 	<div id="stem"><b><u>Stem</u></b></div>
 	The main stalk of a plant, where leaves, flowers and fruits can grow from nodes.
 	<br><br>
+	<div id="Succulent"><b><u>Succulent</u></b></div>
+	Parts of the plants that are thicken and fleshy to help retain water for plants that are in dry environments or soil conditions.
+	<br><br>
 	<div id="sucker"><b><u>Sucker</u></b></div>
 Shoots that are produced from the main stem of a plant, and  can be divided from the mother plant to be propagated. Sometimes also known as "Offshoots".  
 	<br><br><br>
