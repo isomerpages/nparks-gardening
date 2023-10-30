@@ -47,7 +47,7 @@ details[open] > summary {
 				Allotment gardens are areas located within parks and gardens that house gardening plots available for lease to the community to grow their own plants. With most of the population living in high-rise flats with minimalspace for gardening within their household footprint, these allotment garden plots provide them with further opportunities to garden. To date, close to 2,200 allotment garden plots have been made available to the community with plans for further expansion. In tandem, NParks is working with Town Councils and Grassroot Organisations to provide advice on setting up of allotment gardens in public housing estates so that residents can garden closer to their homes. <br><br>
 		</details>
 		<details>
-			<summary>2. Which parks can allotment gardens be found?</summary>
+			<summary>2. In which parks can allotment gardens be found?</summary>
 			1. Ang Mo Kio Town Garden West<br>
 			2. Aljunied Park<br>
 			3. Bedok Reservoir Park<br>
