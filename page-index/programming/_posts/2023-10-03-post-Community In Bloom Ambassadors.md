@@ -12,24 +12,40 @@ image: /images/Gardeners/Kids (2).jpg
 ---
 <section>
 	<img title="Community In Bloom ambassadors at the Community Garden Festival in 2019. Photo by NParks." src="/images/Gardeners/Posing%20(2).jpg">
-	<p>The Community in Bloom (CIB) Ambassador Awards recognises individuals who promote the love for gardening amongst the community through various initiatives such as outreach, starting gardens, and more. Since its introduction in 2008, the Awards have celebrated the efforts of our volunteers going above and beyond in contributing to Singapore's gardening movement.</p>
+	<p>Community in Bloom (CIB) Ambassadors are passionate volunteers with excellent horticulture and gardening skills. They actively share their knowledge with the community and lead gardening projects to improve green spaces around them.</p> 
+
+<p>Watch our CIB Ambassadors in action:
+</p>
 	<iframe width="100%" height="415" src="https://www.youtube.com/embed/NjoavpXdiX4?si=tr229_ZUR517j94X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
 	<br>
-	<p>CIB Ambassadors are passionate volunteers with excellent horticulture and gardening skills. They actively share their knowledge with the community and lead gardening projects to improve green spaces around them. They conduct themselves well, and can engage and mobilise their fellow gardeners towards a common cause.</p> 
+</section>
+
+<section>	
+<h4>About the CIB Ambassador Awards</h4>
+	<p>The CIB Ambassador Awards recognises individuals who promote the love for gardening amongst the community through various initiatives such as outreach and facilitating gardening-based community projects. Since its introduction in 2008, the Awards have celebrated the efforts of our volunteers going above and beyond in contributing to Singapore's gardening movement.</p> 
 	<br>
 </section>
 
 <section>
-	<h4>Who can be a CIB Ambassador?</h4>
+	<h4>Why be a CIB Ambassador</h4>
+	<ul>
+		<li>Network with like-minded people who share your passion for gardening</li>
+		<li>Expand your gardening knowledge through various training opportunities</li>
+		<li>Be invited to specially curated learning journeys</li>
+		<li>Work on gardening-related projects with NParks</li>
+</ul></section>
+	
+<section>
+	<h4>How to be a CIB Ambassador?</h4>
 	<img title="A CIB Ambassador guiding children on how to water plants. Photo by NParks." src="/images/Gardeners/Kids%20(2).jpg">
-	<p>If you are part of a <a href="/get-involved/community-gardens/">Community Garden</a>, have a love for gardening outreach, and are keen to educate others, you may be the CIB ambassador that we are looking for!</p>
-	<p>Nominations for the 2023 edition of the CIB ambassador award are currently closed. Nominations for the 2024 edition will be via this page. Watch this space!</p>
+	<p>If you are part of a <a href="/get-involved/community-gardens/">Community Garden</a>, have a love for gardening outreach, and are keen to educate others, you may be the CIB Ambassador that we are looking for!</p>
+	<p>Nominations open yearly online. Watch this space for the next cycle of the CIB Ambassador Awards in 2024!</p>
 	<br>
 </section>
 	
 <section>
 	<h4>Who are our current CIB Ambassadors?</h4>
-	<p>There are currently 104 CIB ambassadors from Community Gardens across Singapore.</p>
+	<p>There are currently 95 CIB ambassadors from Community Gardens across Singapore.</p>
 	<ul class="jekyllcodex_accordion">
 		<li><input type="checkbox" id="accordion1">
 		<label for="accordion1"><strong>Click here to see the full list of our CIB Ambassadors to date!</strong></label><div>
