@@ -76,6 +76,9 @@ description: ""
 
 <section>
 <h4 id="b">B</h4>
+	<div id="bacterial-ooze"><b><u>Bacterial ooze</u></b></div>
+A liquid discharge coming out from a bacterial infected part of the plant.
+	<br><br>
 	<div id="biodiversity-attracting"><b><u>Biodiversity-attracting plants</u></b></div>
 Plants that produce materials that attracts animals, like food or nesting materials. Food materials include nectar, pollen, and fruit, while nesting materials include hollow twigs, leaves for lining nests, or large branches. 
 	<br><br>
