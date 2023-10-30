@@ -1,5 +1,5 @@
 title: GardeningSG
-url: https://staging.dmhtu0pi4p9u7.amplifyapp.com
+url: https://gardeningsg.nparks.gov.sg
 favicon: /images/favicon-isomer.ico
 colors:
   primary-color: "#7a9a01"
@@ -53,7 +53,7 @@ staging: https://staging.dmhtu0pi4p9u7.amplifyapp.com
 prod: https://master.dmhtu0pi4p9u7.amplifyapp.com
 facebook-pixel: ""
 shareicon: /images/isomer-logo.svg
-is_government: false
+is_government: true
 google_analytics: ""
 google_analytics_ga4: ""
 linkedin-insights: ""
