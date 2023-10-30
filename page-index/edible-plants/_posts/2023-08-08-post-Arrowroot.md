@@ -18,7 +18,7 @@ image: ""
 <section>
 	<img title="Arrowroot plants growing in polybags. Photo by Jacqueline Chua." src="/images/Plants/arrowroot_jacquelinechua.jpg">
 	<p>Arrowroot is primarily grown for its <a href="/learn-more-about-gardening/glossary/#r">rhizome</a>, an underground horizontal stem that resembles a tuberous root. The rhizome can be eaten fried or steamed, or processed into flour.</p>
-	<p>A medium <a href="/learn-more-about-gardening/glossary/#p">perennial</a> crop, it readily grows in the tropics in both true ground and in pots. This is an uncommon plant in edible gardens.</p>       
+	<p>A medium <a href="/learn-more-about-gardening/glossary/#p">perennial</a> crop, it readily grows in the tropics in both <a href="/page-index/horticulture-techniques/true-ground/">true ground</a> and in <a href="/page-index/horticulture-techniques/planting-in-containers/">pots</a>. This is an uncommon plant in edible gardens.</p>       
 	<br>
 </section>
 
