@@ -46,7 +46,7 @@ image: /images/Garden design/KimTianWest_JacChua (1).jpg
 	<li><input type="checkbox" id="accordion3">
 		<label for="accordion3">How do I start a Community Garden?</label><div>
 		<img src="/images/Gardeners/Outreach%20(3).jpg">
-		<p>The starting process will be different depending on where you site your garden. All gardens will need to form a gardening group, have a managing body (for example, a Residents' Committee or Network, Neighbourhood Committee, School or Organisation), and to seek permission from the relevant landowner. NParks has also published '<a href="https://go.gov.sg/guide-to-design-community-garden">A Guide to Designing and Implementing Community Garden</a>', which is free for all to download.</p>
+		<p>While the starting process will be different depending on where your garden is sited at, a gardening group must first be formed. All community gardens must also be supported by a managing body (for example, a Residents' Committee or Network, Neighbourhood Committee, School or Organisation), and permission from the relevant landowner must be sought. To aid these community efforts, NParks has also published '<a href="https://go.gov.sg/guide-to-design-community-garden">A Guide to Designing and Implementing Community Garden</a>', which is free for all to download.</p>
 		<p>Ready to start a community garden? Fill out the form below and a Community In Bloom staff will get in touch with you!</p>
 		<a class="button-primary" href="https://form.gov.sg/64b78ef1a218a40012387fa4">Start a Community Garden now!</a><br>
 	</div></li>
