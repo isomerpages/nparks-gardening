@@ -66,7 +66,7 @@ image: /images/Hardscapes/Netting (1).jpg
 		</div></li>
 	<li><input type="checkbox" id="accordion2">
 		<label for="accordion2">Chrysanthemum spray: for most insects, including soft-bodied sucking pests and chewing pests</label><div>
-	<p><b>Chrysanthemum sprays</b> can be made by boiling 100g of dried chrysanthemum flowers in 4L of water for 20 minutes, allowed it to steep overnight, and then sieved for use. The spray will degrade and lose its effectiveness within a week. This spray can be used to kill most insects, including <a href="/page-index/pests/aphids/">Aphids</a>, <a href="/page-index/pests/mealy-bugs/">Mealy Bugs</a>, <a href="/page-index/pests/whiteflies/">Whiteflies</a>, <a href="/page-index/pests/spider-mites/">Spider Mites</a>, and <a href="/page-index/pests/grasshoppers-crickets-and-katydids/">Grasshoppers</a>, but unfortunately also affects beneficial insects like <a href="/page-index/biodiversity/pollinators/">bees</a> and <a href="/page-index/biodiversity/predators/">ladybirds</a>. Spray the solution directly onto target pests and use in moderation.</p>
+	<p><b>Chrysanthemum sprays</b> can be made by boiling 100g of dried chrysanthemum flowers in 4L of water for 20 minutes, allowed it to steep overnight, and then sieved for use. The spray will degrade and lose its effectiveness within a week. This spray can be used to kill most insects, including <a href="/page-index/pests/aphids/">Aphids</a>, <a href="/page-index/pests/mealy-bugs/">Mealy Bugs</a>, <a href="/page-index/pests/whiteflies/">Whiteflies</a>, <a href="/page-index/pests/spider-mites/">Spider Mites</a>, and <a href="/page-index/pests/grasshoppers-crickets-and-katydids/">Grasshoppers</a>, but unfortunately also affects beneficial insects like <a href="/page-index/biodiversity/pollinators/">Bees</a> and <a href="/page-index/biodiversity/predators/">Ladybirds</a>. Spray the solution directly onto target pests and use in moderation.</p>
 		</div></li>
 	<li><input type="checkbox" id="accordion3">
 		<label for="accordion3">Dilute milk sprays: for fungi, powdery mildew, and sooty mould</label><div>
@@ -74,7 +74,7 @@ image: /images/Hardscapes/Netting (1).jpg
 		</div></li>
 	<li><input type="checkbox" id="accordion4">
 		<label for="accordion4">Garlic, onion and chilli spray: for most large insects and rodents</label><div>
-	<p><b>Garlic, onion and chilli spray</b> is made from chopping up two chillies, two onions, and two bulbs of garlic, then steeping them in 1L of water for at least 24 hours. The solution can then be sieved and kept for a maximum of two weeks, after which it loses its effect. Compounds in garlic, onions and chillies will repel thrips, <a href="/page-index/pests/pests/#rodents">rodents</a>, and <a href="/page-index/pests/caterpillars/">caterpillars</a>. This solution can be used as a preventative spray in moderation.</p>
+	<p><b>Garlic, onion and chilli spray</b> is made from chopping up two chillies, two onions, and two bulbs of garlic, then steeping them in 1L of water for at least 24 hours. The solution can then be sieved and kept for a maximum of two weeks, after which it loses its effect. Compounds in garlic, onions and chillies will repel Thrips, <a href="/page-index/pests/pests/#rodents">Rodents</a>, and <a href="/page-index/pests/caterpillars/">Caterpillars</a>. This solution can be used as a preventative spray in moderation.</p>
 		</div></li>
 		</ul>
 <br>
@@ -92,7 +92,7 @@ image: /images/Hardscapes/Netting (1).jpg
 	<p><b>Hydrogen peroxide</b>, which is a common disinfectant that can be bought in pharmacies. 100ml of 3% hydrogen peroxide can be mixed with 400ml of water to make a drench that kills Soil <a href="/page-index/pests/mealy-bugs/">Mealy Bugs</a>. Wash affected roots in the solution for maximum effect.</p>
 					</div></li>
 	<li><input type="checkbox" id="accordion7">
-		<label for="accordion7">Rubbing Alcohol: for scale insects and mealy bugs</label><div>
+		<label for="accordion7">Rubbing Alcohol: for Scale Insects and Mealy Bugs</label><div>
 	<p><b>Rubbing alcohol</b> is a common disinfectant that can be bought in pharmacies. It can be directly applied on <a href="/page-index/pests/scale-insects/">Scale Insects</a> and <a href="/page-index/pests/mealy-bugs/">Mealy Bugs</a> to dissolve their waxy outer coating and dehydrate the vulnerable soft body underneath. This is best applied with cotton swabs or pads to reach as many nooks and crannies as possible.</p>
 					</div></li>
 	<li><input type="checkbox" id="accordion8">
