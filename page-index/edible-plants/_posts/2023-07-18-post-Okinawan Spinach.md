@@ -55,6 +55,6 @@ image: ""
 		<p>This plant is relatively resistant to pests and disease if kept healthy.</p>
 	<p>Smaller plants may be vulnerable to being eaten by <a href="/page-index/pests/snails-and-slugs/">snails and slugs</a>. Protect your plants with a DIY <a href="/page-index/horticulture-techniques/cloches">cloche</a> or <a href="/page-index/hardscapes/netting">netting</a>.</p>
 			<p>These plants are vulnerable to <a href="/page-index/plant-problems/sunburn/">sunburn</a> in more than 4 hours of direct sunlight. Use <a href="/page-index/hardscapes/netting/">shade netting</a> to protect your plants or replant in a shadier spot.</p>
-				<p>This plant is especially vulnerable to <a href="/page-index/plant-problems/root-rot/">root rot</a> caused by <a href="/page-index/plant-problems/waterlogging/">waterlogging</a>. It is best to grow the plant in <a href="/page-index/horticulture-techniques/soil/">loamy or sandy soil</a> with plenty of  <a href="/page-index/horticulture-techniques/soil-amendments/">soil amendments</a> to prevent this.</p>
+				<p>This plant is especially vulnerable to <a href="/page-index/plant-problems/root-rot/">root rot</a> caused by <a href="/page-index/plant-problems/waterlogging/">waterlogging</a>. It is best to grow the plant in <a href="/page-index/horticulture-techniques/soil/">loamy or sandy soil</a> with plenty of <a href="/page-index/horticulture-techniques/soil-amendments/">soil amendments</a> to prevent this.</p>
 	<br>
 </section>
