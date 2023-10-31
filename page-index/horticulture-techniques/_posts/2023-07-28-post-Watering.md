@@ -22,11 +22,11 @@ image: /images/Gardeners/Kampung Admiralty (4).jpg
 	<p>Overwatering plants is more common in the tropics, as the high humidity and regular rainfall makes it such that soil will take longer to dry out. Overwatering is also generally more fatal than underwatering plants. When in doubt, water less!</p>
 	<p>Plants prone to overwatering include:</p>
 	<ul>
-		<li><a href="/page-index/ornamental-plants/african-violet/">African Violets</a></li>
-		<li><a href="/page-index/edible-plants/chives/">Chives</a></li>
-		<li><a href="/page-index/ornamental-plants/flame-violet/">Flame Violets</a></li>
-		<li><a href="/page-index/edible-plants/indian-borage/">Indian Borage</a></li>
-		<li><a href="/page-index/ornamental-plants/snake-plant/">Snake Plants</a></li>
+		<li><a href="/page-index/ornamental-plants/african-violet/">African Violet</a> (<em>Streptocarpus ionanthus</em>)</li>
+		<li><a href="/page-index/edible-plants/chives/">Chives</a> (<em>Allium tuberosum</em>)</li>
+		<li><a href="/page-index/ornamental-plants/flame-violet/">Flame Violet</a> (<em>Episcia cupreata</em>)</li>
+		<li><a href="/page-index/edible-plants/indian-borage/">Indian Borage</a> (<em>Coleus amboinicus</em>)</li>
+		<li><a href="/page-index/ornamental-plants/snake-plant/">Snake Plant</a> (<em>Dracaena triasciata</em>)</li>
 	</ul>
 	<br>
 </section>
