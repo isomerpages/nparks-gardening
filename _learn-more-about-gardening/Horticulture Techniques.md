@@ -42,6 +42,7 @@ image: /images/Gardeners/Kim tian_processed-24.jpg
 				<li><a href="/page-index/horticulture-techniques/fertilising/">Fertilising</a></li>
 				<li><a href="/page-index/horticulture-techniques/mulching/">Mulching</a></li>
 				<li><a href="/page-index/horticulture-techniques/pruning/">Pruning</a></li>
+				<li><a href="/page-index/horticulture-techniques/transplanting/">Transplanting</a></li>
 				<li><a href="/page-index/horticulture-techniques/watering/">Watering</a></li>
 				<li><a href="/page-index/horticulture-techniques/weeding/">Weeding</a></li>
 			</ul>
