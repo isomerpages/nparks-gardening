@@ -49,7 +49,7 @@ image: ""
  
 <section> 
   <h4>Growing:</h4> 
-		<p>Cai Xin is a rapid grower and will produce more leaves if fed with <a href="/page-index/horticulture-techniques/fertilising/">high nitrogen fertilisers</a>. Plants can be <a href="/page-index/horticulture-techniques/fertilising/">fertilised</a> regularly once every two weeks after transplanting for a fuller crop.</p>
+		<p>Cai Xin is a rapid grower and will produce more leaves if fed with high nitrogen fertilisers. Plants can be <a href="/page-index/horticulture-techniques/fertilising/">fertilised</a> regularly once every two weeks after transplanting for a fuller crop.</p>
 	<br> 
 </section> 
  
@@ -84,7 +84,7 @@ image: ""
       </tr> 
     </tbody> 
   </table> 
-		 <p>Check out our&nbsp;<a href="/digital-tools/sowing-planner/">sowing and harvest planner</a>&nbsp;to schedule your growing!</p> 
+	<p>Check out our&nbsp;<a href="/digital-tools/sowing-planner/">sowing and harvest planner</a>&nbsp;to schedule your growing!</p> 
 	<br> 
 </section> 
  
@@ -97,8 +97,8 @@ image: ""
 <section> 
   <h4>Common problems &amp; solutions:</h4> 
 	<p>Young plants have soft stems and can be completely eaten by <a href="/page-index/pests/snails-and-slugs/">slugs and snails</a>. Grow seedlings till they are at least 10cm tall before planting them in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a>, or use DIY <a href="/page-index/horticulture-techniques/cloches/">cloches</a> or <a href="/page-index/hardscapes/netting/">netting</a> to protect young plants. </p>
-	<p><a href="/page-index/pests/caterpillars/">Caterpillars</a>, usually from the Diamondback moth and Tussock moth, can rapidly eat all the leaves of your plant. If your plant has lots of large holes and small brown or black faecal pellets scattered around damaged leaves, you likely have a caterpillar infestation. Manually remove the caterpillars by hand and protect your plants with <a href="/page-index/hardscapes/netting/">netting</a>.</p>
-	<p><a href="/page-index/pests/leaf-miner/">Leaf miners</a> are fly larvae that eat the leaves from the inside, leaving white lines or patches in their wake. Manually remove damaged leaves and use <a href="/page-index/hardscapes/netting/">fine mesh netting</a> to stop the adult flies from laying eggs on the plant again.</p>
+	<p><a href="/page-index/pests/caterpillars/">Caterpillars</a>, usually from the Diamondback moth and Tussock moth, can rapidly eat all the leaves of your plant. If your plant has lots of large holes and small brown or black faecal pellets scattered around damaged leaves, you likely have a caterpillar infestation. Manually remove the caterpillars by hand and protect your plants with netting.</p>
+	<p><a href="/page-index/pests/leaf-miner/">Leaf miners</a> are fly larvae that eat the leaves from the inside, leaving white lines or patches in their wake. Manually remove damaged leaves and use fine mesh netting to stop the adult flies from laying eggs on the plant again.</p>
 	<p><a href="/page-index/plant-problems/etiolation/">Etiolation</a> is characterised by plants growing long and skinny, with weak stems and small leaves. The plants may also sometimes look yellowish. Plants etiolate when they do not get enough sunlight, which results in slow growth and untidy forms. To prevent this, grow plants in environments with enough light for them and make sure that each plant has enough space to prevent overcrowding.</p>
 	<p>These plants are vulnerable to <a href="/page-index/plant-problems/sunburn/">sunburn</a> in more than 6 hours of direct sunlight. Use <a href="/page-index/hardscapes/netting/">shade netting</a> to protect your plants or replant in a shadier spot.</p>
 	<br> 
