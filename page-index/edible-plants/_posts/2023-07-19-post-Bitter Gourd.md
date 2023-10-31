@@ -20,7 +20,7 @@ image: ""
 	<p>Bitter Gourd, as the name implies, is a bitter fruit used in a variety of Asian dishes. Eaten as an immature fruit, it can be stewed, fried, steamed or juiced. </p>
 	<p>The fruit has a lumpy appearance, with Chinese cultivars looking more warty and Indian varieties sporting spikes. The immature fruit ranges from bright green to white depending on cultivar, and the mature fruit turns orange with bright red seeds.</p>
 	<p>An <a href="/learn-more-about-gardening/glossary/#a">annual</a> crop, these plants are often grown in <a href="/page-index/horticulture-techniques/crop-rotation/">rotation</a> with other fruiting climbers.</p>
-	<p>This plant is part of the Cucurbita or Melon family, which includes other popular edible fruits like <a href="/page-index/edible-plants/cucumber/">Cucumber</a>, <a href="/page-index/edible-plants/winter-melon/">Winter melon</a>, and <a href="/page-index/edible-plants/pumpkin/">Pumpkin</a>.</p>
+	<p>This plant is part of the Cucurbita or Melon family, which includes other popular edible fruits like <a href="/page-index/edible-plants/cucumber/">Cucumber</a>, <a href="/page-index/edible-plants/winter-melon/">Winter Melon</a>, and <a href="/page-index/edible-plants/pumpkin/">Pumpkin</a>.</p>
 	<br>
 </section>
 
@@ -30,7 +30,7 @@ image: ""
 	<p>This vine does best in <a href="/page-index/horticulture-techniques/gauging-light">full sun gardens with a minimum of 6 hours of direct sunlight</a>. This plant can also grow with 4-5 hours of direct sunlight and at least 6 hours of indirect sunlight but will produce less fruits.</p>
 	<p>Plants do best in <a href="/page-index/horticulture-techniques/planting-in-containers/">pots</a> with <a href="/page-index/horticulture-techniques/soil/">loamy soil</a> at least 30cm deep, or in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a>. The plant can be grown in smaller pots about 20cm deep, but growth will be slower and the plant will produce less fruit. </p>
 	<p>As a fast-growing vine, this plant needs a sturdy <a href="/page-index/hardscapes/trellises">trellis</a> to scramble on. Because the fruits hang down, it is ideal for arch-shaped trellises.</p>	
-	<p>As with all members of the melon family, this plant is <a href="/page-index/biodiversity/pollinators/">bee-pollinated</a> and produces male and female flowers. To encourage the formation of more fruits, it is best to have at least 3 separate plants growing in the same area to have both male and female flowers available, and to have <a href="/page-index/glossary/biodiversity-attracting-plants/">bee-attracting plants</a> within the garden to encourage pollination.</p>
+	<p>As with all members of the melon family, this plant is <a href="/page-index/biodiversity/pollinators/">bee-pollinated</a> and produces male and female flowers. To encourage the formation of more fruits, it is best to have at least 3 separate plants growing in the same area to have both male and female flowers available. Also, include <a href="/page-index/glossary/biodiversity-attracting-plants/">bee-attracting plants</a> within the garden to encourage pollination.</p>
 	<br>
 </section>
 
