@@ -17,7 +17,7 @@ image: ""
 
 <section>
 	<img title="Elephant foot yam. Photo by Jacqueline Chua." src="/images/Plants/elephantfootyam%20(3)_jacquelinechua.jpg">
-	<p>Elephant Foot Yam is a large crop with edible root known as a corm which is used in curries, stews, chips or pickles.Young leaves are also cooked and eaten as a vegetable.</p>
+	<p>Elephant Foot Yam is a large crop with edible root known as a corm which is used in curries, stews, chips or pickles. Young leaves are also cooked and eaten as a vegetable.</p>
 	<p>This plant is typically grown as an <a href="/learn-more-about-gardening/glossary/#a">annual</a> crop, but if the main <a href="/learn-more-about-gardening/glossary/#c">corm</a> is left intact, it can grow back as a <a href="/learn-more-about-gardening/glossary/#p">perennial</a>.</p>
 	<p>Elephant Foot Yams are part of the Araceae or Aroid family, which includes other edible plants like <a href="/page-index/edible-plants/taro">Taro</a>. Many ornamental members of the family are very popular as houseplants, including Monsteras and <a href="/page-index/ornamental-plants/devils-ivy">Devil’s Ivy</a>.</p>       
 	<br>
