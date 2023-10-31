@@ -19,7 +19,7 @@ image: ""
 	<img title="Photo by Jacqueline Chua." src="/images/Plants/CurryLeafTree_JacChua.jpg">
 	<p>A staple in many Southeast Asian gardens, Curry Leaf Plants thrive in full sun gardens and can quickly grow up to 2.5m in height. Their leaves produce highly aromatic oils that give curry its distinctive taste, and can be dried and powdered, fried, or boiled. </p>
 	<p>A large <a href="/learn-more-about-gardening/glossary/#p">perennial</a> crop, curry leaf trees are usually planted in true ground. </p>
-	<p>Curry leaf plants are part of the Rutaceae or Rue family, which includes other popular edible plants like Limes and Limau Purut. </p>       
+	<p>Curry leaf plants are part of the Rutaceae or Rue family, which includes other popular edible plants like <a href="/page-index/edible-plants/lime">Lime</a> and <a href="/page-index/edible-plants/limau-purut">Limau Purut</a>. </p>       
 	<br>
 </section>
 
