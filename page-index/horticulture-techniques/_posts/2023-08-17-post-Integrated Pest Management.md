@@ -25,7 +25,7 @@ image: /images/Gardeners/Pruning (1).jpg
 		<li><strong>Identify your pests</strong></li>
 			<ul>
 				<li>Identifying pests correctly is the most important part of pest management. Different pests will need different management methods, so being specific is the most efficient way.</li>
-				<li>Use our <a href="/digital-tools/pestid/">Pest identifier tool</a> and explore<a href="/page-index/pests/pests/"> pest pages</a> to learn about pests and their life cycles!</li>
+				<li>Use our <a href="/digital-tools/pestid/">pest identifier tool</a> and explore<a href="/page-index/pests/pests/"> pest pages</a> to learn about pests and their life cycles!</li>
 			</ul>
 		<li><strong>Monitor for pests</strong></li>
 			<ul>
@@ -40,7 +40,7 @@ image: /images/Gardeners/Pruning (1).jpg
 		<li><strong>Prevention</strong></li>
 			<ul>
 				<li>The first line of pest control is to <a href="/page-index/horticulture-techniques/pest-control/">prevent the pest</a> from becoming a threat.</li>
-				<li>Keeping plants healthy, using hardscapes like &lt; a href="/page-index/hardscapes/netting/"&gt;netting, quarantining new plants, regular pest checks and general maintenance are good ways to prevent pests from taking over your garden. </li>
+				<li>Keeping plants healthy, using hardscapes like <a href="/page-index/hardscapes/netting/">netting</a>, quarantining new plants, regular pest checks and general maintenance are good ways to prevent pests from taking over your garden. </li>
 			</ul>
 		<li><strong>Control</strong></li>
 			<ul>
