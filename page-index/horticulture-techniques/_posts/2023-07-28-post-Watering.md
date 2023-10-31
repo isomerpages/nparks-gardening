@@ -40,11 +40,11 @@ image: /images/Gardeners/Kampung Admiralty (4).jpg
 	<p>Plants that naturally grow in <a href="/page-index/plant-problems/waterlogging/">waterlogged</a> soil, have climbing or soft stems, or very large and soft leaves are more likely to suffer from underwatering as they naturally lose more water throughout the day. Exposing your plant to many hours of direct sunlight, having an inconsistent watering schedule, and using very well-draining soil mixes will sometimes result in underwatering.</p>
 	<p>Plants prone to underwatering include:</p>
 	<ul>
-		<li><a href="/page-index/edible-plants/cucumber/">Cucumber</a></li>
-		<li><a href="/page-index/edible-plants/laksa/">Laksa</a></li>
-		<li><a href="/page-index/edible-plants/lettuce/">Lettuce</a></li>
-		<li><a href="/page-index/edible-plants/smooth-loofah/">Smooth Loofah</a></li>
-		<li><a href="/page-index/edible-plants/spearmint/">Spearmint</a></li>
+		<li><a href="/page-index/edible-plants/cucumber/">Cucumber</a> (<em>Cucumis sativus</em>)</li>
+		<li><a href="/page-index/edible-plants/laksa/">Laksa</a> (<em>Persicaria ordorata</em>)</li>
+		<li><a href="/page-index/edible-plants/lettuce/">Lettuce</a> (<em>Lactuca sativa</em>)</li>
+		<li><a href="/page-index/edible-plants/smooth-loofah/">Smooth Loofah</a> (<em>Luffa aegyptiaca</em>)</li>
+		<li><a href="/page-index/edible-plants/spearmint/">Spearmint</a> (<em>Mentha spicata</em>)</li>
 	</ul>
 	<br>
 </section>
