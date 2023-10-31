@@ -17,8 +17,8 @@ image: ""
 
 <section>
 	<img title="Belimbling fruit growing on a branch. Photo by Jacqueline Chua." src="/images/Plants/belimbling%20(3)_jacquelinechua.jpg">
-	<p>Belimbing trees are small fruit trees that produce numerous small, oblong green fruits that are very sour. The fruits can be eaten raw as a relish, stewed with chilli, or blended into sauces. Its numerous <a href="/learn-more-about-gardening/glossary/#f/">flowers</a> are very attractive to bees and butterflies.</p>
-	<p>As a <a href="/learn-more-about-gardening/glossary/#p/">perennial</a> tree, it is a common sight in edible gardens.</p>       
+	<p>Belimbing trees are small fruit trees that produce numerous small, oblong green fruits that are very sour. The fruits can be eaten raw as a relish, stewed with chilli, or blended into sauces. Its numerous flowers are very attractive to bees and butterflies.</p>
+	<p>As a <a href="/learn-more-about-gardening/glossary/#p">perennial</a> tree, it is a common sight in edible gardens.</p>       
 	<br>
 </section>
 
