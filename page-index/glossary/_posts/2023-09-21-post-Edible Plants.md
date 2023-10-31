@@ -156,7 +156,7 @@ image: ""
 
 <section>
 <h4 id="k">K</h4>
-	<a class="body" href="/page-index/edible-plants/kai-lan/">Kailan</a><br>
+	<a class="body" href="/page-index/edible-plants/kai-lan/">Kai Lan</a><br>
 <a class="body" href="/page-index/edible-plants/kale/">Kale</a><br>
 	<a class="body" href="/page-index/edible-plants/kang-kong/">Kang Kong</a><br>
 <a class="body" href="/page-index/edible-plants/kedondong/">Kedondong</a><br>
