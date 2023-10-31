@@ -48,14 +48,14 @@ image: ""
 	
 <section>
 	<h4>Growing:</h4>
-		<p>Lettuce is a rapid grower and will produce more leaves if fed with <a href="/page-index/horticulture-techniques/fertilising/">high nitrogen fertilisers</a>. Plants can be <a href="/page-index/horticulture-techniques/fertilising/">fertilised</a> regularly once every two weeks after transplanting for a fuller crop.</p>
+		<p>Lettuce is a rapid grower and will produce more leaves if fed with high nitrogen fertilisers. Plants can be <a href="/page-index/horticulture-techniques/fertilising/">fertilised</a> regularly once every two weeks after transplanting for a fuller crop.</p>
 	<br>
 </section>
 
 <section>
 	<h4>Harvesting:</h4>
 				<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/f_Uoug7ZSeg" height="415" width="100%"></iframe><br>
-		<p>Plants can be <a href="/page-index/horticulture-techniques/harvesting-hygiene/">harvested for leaves</a> at any time, with younger leaves being the most tender. However, the leaves will become bitter when the plant starts to <a href="/learn-more-about-gardening/glossary/#flower">flower</a>. Most gardeners will <a href="/page-index/horticulture-techniques/harvesting-hygiene/">harvest</a> their crop around a month and a half after sowing.</p>
+		<p>Plants can be <a href="/page-index/horticulture-techniques/harvesting-hygiene/">harvested for leaves</a> at any time, with younger leaves being the most tender. However, the leaves will become bitter when the plant starts to flower. Most gardeners will harvest their crop around a month and a half after sowing.</p>
 		<img title="A gardener harvesting outer leaves as per the cut-and-come-again method. Photo by Jacqueline Chua." src="/images/Horti%20techniques/cutandcomeagain_lettuce_jacquelinechua.jpg">
 		<p>The whole plant can be harvested once by cutting the head at the base or multiple times by harvesting the older leaves as per the <a href="/page-index/horticulture-techniques/cut-and-come-again/">cut-and-come-again</a> method.</p>
 	<br>
@@ -97,7 +97,7 @@ image: ""
 	<h4>Common problems &amp; solutions:</h4>
 	<p>Young plants have soft stems and can be completely eaten by <a href="/page-index/pests/snails-and-slugs/">slugs and snails</a>. Grow seedlings till they are at least 10cm tall before planting them in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a>, or use DIY <a href="/page-index/horticulture-techniques/cloches/">cloches</a> or <a href="/page-index/hardscapes/netting/">netting</a> to protect young plants. </p>
 		<p><a href="/page-index/pests/caterpillars/">Caterpillars</a>, usually from the Diamondback moth and Tussock moth, can rapidly eat all the leaves of your plant. If your plant has lots of large holes and small brown or black poo pellets scattered around damaged leaves, you likely have a caterpillar infestation. Manually remove the caterpillars by hand and protect your plants with <a href="/page-index/hardscapes/netting/">netting</a>.</p>
-		<p><a href="/page-index/pests/leaf-miner/">Leaf miners</a> are fly larvae that eat the leaves from the inside, leaving white lines or patches in their wake. Manually remove damaged leaves and use <a href="/page-index/hardscapes/netting/">fine mesh netting</a> to stop the adult flies from laying eggs on the plant again.</p>
+		<p><a href="/page-index/pests/leaf-miner/">Leaf miners</a> are fly larvae that eat the leaves from the inside, leaving white lines or patches in their wake. Manually remove damaged leaves and use fine mesh netting to stop the adult flies from laying eggs on the plant again.</p>
 	<p><a href="/page-index/plant-problems/etiolation/">Etiolation</a> is characterised by plants growing long and skinny, with weak stems and small leaves. The plants may also sometimes look yellowish. Plants etiolate when they do not get enough sunlight, which results in slow growth and untidy forms. To prevent this, grow plants in environments with enough light for them and make sure that each plant has enough space to prevent overcrowding.</p>
 		<p>These plants are vulnerable to <a href="/page-index/plant-problems/sunburn/">sunburn</a> in more than 6 hours of direct sunlight. Use <a href="/page-index/hardscapes/netting/">shade netting</a> to protect your plants or replant in a shadier spot.</p>
 	<br>
