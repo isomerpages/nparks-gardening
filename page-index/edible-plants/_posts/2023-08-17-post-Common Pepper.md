@@ -31,7 +31,7 @@ image: ""
 
 <section>
   <h4>Sowing seeds:</h4>
-	<p><a href="/page-index/horticulture-techniques/propagation-by-seed/">Seeds can be sown directly into pots or the ground</a> around 15-30cm apart. Lightly water the soil until damp, once a day. Seeds should sprout within 10 days.</p>
+	<p><a href="/page-index/horticulture-techniques/propagating-by-seed/">Seeds can be sown directly into pots or the ground</a> around 15-30cm apart. Lightly water the soil until damp, once a day. Seeds should sprout within 10 days.</p>
 	<p>The seedlings are vulnerable to heat stress and <a href="/page-index/plant-problems/wilting/">wilting</a>. Water seedlings daily or once every other day during the dry season.</p>
 	<br>
 </section>
@@ -54,7 +54,7 @@ image: ""
 
 <section>
 	<h4>Propagation:</h4>
-	<p>This vine can be grown <a href="/page-index/horticulture-techniques/propagation-by-seed/">via seeds</a> or <a href="/page-index/horticulture-techniques/propagation-by-cuttings/">cuttings</a> rooted in soil or water.</p>
+	<p>This vine can be grown <a href="/page-index/horticulture-techniques/propagating-by-seed/">via seeds</a> or <a href="/page-index/horticulture-techniques/propagating-by-cuttings/">cuttings</a> rooted in soil or water.</p>
 	<br>
 </section>
 
