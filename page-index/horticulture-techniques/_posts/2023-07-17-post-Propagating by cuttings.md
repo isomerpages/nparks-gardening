@@ -55,11 +55,11 @@ image: /images/Horti
 		<li><a href="/page-index/edible-plants/indian-borage/">Indian Borage</a> (<em>Coleus amboinicus</em>)</li>
 		<li><a href="/page-index/ornamental-plants/javanese-ixora/">Javanese Ixora</a>* (<em>Ixora javanica</em>)</li>
 		<li><a href="/page-index/ornamental-plants/malayan-ixora/">Malayan Ixora</a>* (<em>Ixora congesta</em>)</li>
-		<li><a href="/page-index/edible-plants/okinawan-spinach/">Okinawan spinach</a> (<em>Gynura bicolor</em>)</li>
+		<li><a href="/page-index/edible-plants/okinawan-spinach/">Okinawan Spinach</a> (<em>Gynura bicolor</em>)</li>
 		<li><a href="/page-index/ornamental-plants/pagoda-flower/">Pagoda Flower</a>* (<em>Clerodendrum paniculatum</em>)</li>
 		<li><a href="/page-index/edible-plants/tapioca/">Tapioca</a> (<em>Manihot esculenta</em>)</li>
 		<li><a href="/page-index/ornamental-plants/turks-turban/">Turk's Turban</a>* (<em>Malvaviscus arboreus</em>)</li>
-		<li><a href="/page-index/edible-plants/white-mulberry/">White mulberry</a> (<em>Morus alba</em>)</li>
+		<li><a href="/page-index/edible-plants/white-mulberry/">White Mulberry</a> (<em>Morus alba</em>)</li>
 	</ul>
 			</div></li>
 	</ul>
