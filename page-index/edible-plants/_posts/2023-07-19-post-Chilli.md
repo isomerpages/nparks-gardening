@@ -52,7 +52,7 @@ image: ""
 	<p>Chillies will produce more flowers and thus more fruit when fed with fertilisers high in Phosphorus and Potassium. Plants can be <a href="/page-index/horticulture-techniques/fertilising">fertilised</a> once a month after the plant produces its first flower for a fuller crop. </p>
 		<p>As with all members of the Nightshade family, this plant is buzz-pollinated and produces the most fruit when <a href="/page-index/biodiversity/pollinators/">bees</a> are around to pollinate it. Growing more <a href="/page-index/glossary/biodiversity-attracting-plants/">bee-attracting plants</a> within the garden will encourage pollination.  </p>
 	<p>Shoot tips can be <a href="/page-index/horticulture-techniques/pruning/">pruned off</a> when the plant is around 30cm tall to encourage branching, with more branches bearing more fruit. </p>
-	<p>It is a good practice to <a href="/page-index/horticulture-techniques/pruning">prune regularly</a> and remove dead leaves and stems to improve ventilation and allow light to reach more of the plant. Regular pruning also decreases the likelihood of pests quickly taking over the plant. </p>
+	<p>It is a good practice to prune regularly and remove dead leaves and stems to improve ventilation and allow light to reach more of the plant. Regular pruning also decreases the likelihood of pests quickly taking over the plant. </p>
 	<br>
 </section>
 
@@ -96,7 +96,7 @@ image: ""
 
 <section>
 	<h4>Propagation:</h4>
-	<p>Chillies are grown from <a href="/page-index/horticulture-techniques/propagating-by-seed">seed</a>. </p>
+	<p>Chillies are grown from <a href="/page-index/horticulture-techniques/propagating-by-seed/">seed</a>. </p>
 	<br>
 </section>
 
@@ -105,7 +105,7 @@ image: ""
 	<img title="Chilli fruit with blossom end rot. Photo by Jacqueline Chua." src="/images/Plant%20problems/blossomendrot_jacquelinechua.jpg">
 <p>If your plant has few to no flowers, you can fertilise the plant with <a href="/page-index/horticulture-techniques/fertilising/">fertilisers high in phosphorus and potassium</a>. These nutrients encourage root and flower growth, which are important for the plant to produce more fruit.</p>
 	<p>As with all members of the Nightshade family, this plant is buzz-pollinated and produces the most fruit when <a href="/page-index/biodiversity/pollinators/">bees</a> are around to pollinate it. Growing more <a href="/page-index/glossary/biodiversity-attracting-plants/">bee-attracting plants</a> within the garden will encourage pollination.  </p>
-	<p><a href="/page-index/pests/ahpids">Aphids</a>, <a href="/page-index/pests/mealy-bugs">mealy bugs</a>, and <a href="/page-index/pests/spider-mites">spider mites</a> often infest the plant if it is <a href="/page-index/plant-problems/waterlogging/">waterlogged</a>. <a href="/horticulture-techniques/pest-control/">Mechanical pest control</a> methods like <a href="/page-index/horticulture-techniques/pruning/">pruning</a> the infested parts are the best methods for managing these pests.</p>
+	<p><a href="/page-index/pests/aphids">Aphids</a>, <a href="/page-index/pests/mealy-bugs">mealy bugs</a>, and <a href="/page-index/pests/spider-mites">Spider Mites</a> often infest the plant if it is <a href="/page-index/plant-problems/waterlogging/">waterlogged</a>. <a href="/page-index/horticulture-techniques/pest-control/">Mechanical pest control</a> methods like <a href="/page-index/horticulture-techniques/pruning/">pruning</a> the infested parts are the best methods for managing these pests.</p>
 	<p><a href="/page-index/pests/oriental-fruit-flies">Fruit flies</a> can lay eggs in the fruit, resulting in larvae damaging the fruit and creating spots on the skin. Wrap your fruit in netting when it starts to develop from a fertilised flower, ideally after all the petals have dropped off. </p>
 	<p> Sudden exposure heavy rain, like during the Monsoon season, can cause fruits to be knocked off the plant. Protect your plants with a <a href="/page-index/hardscapes/shelters/"> rain shelter</a> during the wet season to prevent this.</p>
 	<p><a href="/page-index/plant-problems/wilting">Wilting</a> leaves during hot weather is a sign of heat stress. Increase the number of times the plant is watered daily, and apply mulch at the base to prevent water loss. </p>
