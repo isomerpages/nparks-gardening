@@ -31,7 +31,7 @@ image: ""
 
 <section>
 	<h4>Sowing Seeds</h4>
-	<p><a href="/page-index/horticulture-techniques/propagating-by-seeds/">Seeds can be sown directly</a> into pots or the ground. Because the plant eventually grows into a tree, it is easier to grow a few seedlings in separate pots before selecting the healthiest one to be grown in true ground.</p>
+	<p><a href="/page-index/horticulture-techniques/propagating-by-seed/">Seeds can be sown directly</a> into pots or the ground. Because the plant eventually grows into a tree, it is easier to grow a few seedlings in separate pots before selecting the healthiest one to be grown in true ground.</p>
 	<p>The seedlings are generally resilient to most environmental factors but may be vulnerable to being eaten by snails or birds. Protect your young plants with a DIY <a href="/page-index/horticulture-techniques/cloches/">cloche</a> or <a href="/page-index/hardscapes/netting/">netting</a>.</p>
 	<br>
 </section>
@@ -54,7 +54,7 @@ image: ""
 
 <section>
 	<h4>Propagation:</h4>
-	<p>This tree is grown <a href="/page-index/horticulture-techniques/propagating-by-seeds/">via seed</a>, or <a href="/page-index/horticulture-techniques/propagating-by-cuttings/">via woody cuttings</a> with rooting hormone.</p>
+	<p>This tree is grown <a href="/page-index/horticulture-techniques/propagating-by-seed/">via seed</a>, or <a href="/page-index/horticulture-techniques/propagating-by-cuttings/">via woody cuttings</a> with rooting hormone.</p>
 	<br>
 </section>
 
