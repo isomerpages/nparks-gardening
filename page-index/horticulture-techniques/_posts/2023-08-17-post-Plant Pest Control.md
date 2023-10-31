@@ -19,7 +19,7 @@ image: /images/Hardscapes/Netting (1).jpg
 <section>
 	<h4 id="cultural_control">Cultural control, or preventative control</h4>
 	<img title="Community Gardeners checking their plants for pests. Photo by Jacqueline Chua." src="/images/Gardeners/Harvesting_JacChua%20(2).jpg">
-	<p>Cultural Control starts with the intention to maintain high standards of garden hygiene and maintenance to keep your plants healthy, and your garden manageable. This ongoing form of control depends on consistent work so that pests are easier to spot and treat before they become a massive infestation. Unhealthy plants will attract pests, which will then affect other plants in your garden.</p>
+	<p>Cultural control starts with the intention to maintain high standards of garden hygiene and maintenance to keep your plants healthy, and your garden manageable. This ongoing form of control depends on consistent work so that pests are easier to spot and treat before they become a massive infestation. Unhealthy plants will attract pests, which will then affect other plants in your garden.</p>
 	<p>Here’s how you can keep your plants healthy:</p>
 	<ul>
 		<li><a href="/page-index/horticulture-techniques/choosing-plants/">Choose plants</a> that can thrive in your garden’s environment. Plants that cannot adapt to your garden’s prevailing environmental conditions will be inherently unhealthy and pest prone. For example, sun-loving plants will attract pests when planted in shady areas and vice versa. Use our <a href="/plant-search/">plant suggester tool</a> to choose your plants wisely. </li>
@@ -52,20 +52,21 @@ image: /images/Hardscapes/Netting (1).jpg
 <section>
 	<h4 id="chemical_control">Chemical control</h4>
 	<p>Any chemical substance that is meant to kill or repel plant pests is a pesticide. It can be made synthetically or from natural sources, usually other plants. When used in excess, pesticides can become harmful to the environment and <a href="/learn-more-about-gardening/garden-biodiversity/">garden biodiversity</a>. Pesticides take time to wash away or wear off and can be harmful to humans upon consumption if it is applied too close to harvest. Because pesticides can have such extreme effects, chemical control should be only used as a last resort.</p>
-	<p>Most chemical controls are applied as a spray. Chemicals can wash off the plant during rain or watering, and are thus best applied during the dry season, or when leaves are dry. Strong chemicals can also burn plants if applied in large amounts if they are left too long on the leaves, or exposed to strong sunlight. A good rule of thumb is to test chemical controls on a small area for up to two days before using it on more plants. Always follow manufacturer instructions while applying pesticides on your plants.</p>
+	<p>Most chemical controls are applied as a spray. Chemicals can wash off the plant during rain or watering, and are thus best applied during the dry season, or when leaves are dry. Strong chemicals can also burn plants if applied in large amounts if they are left too long on the leaves, or exposed to strong sunlight. A good rule of thumb is to test chemical controls on a small area for up to two days before using it on more plants. Always follow the manufacturer's instructions while applying pesticides on your plants.</p>
 	<br>
 </section>
+
 <section>
 	<h4>Chemical control for edible plants</h4>
 	<p>To keep your edible plants <a href="/page-index/horticulture-techniques/harvesting-hygiene/">safe for consumption</a>, it is best to use pesticides made from food-safe materials. As an extra precaution, harvest your crops at least a week after the last application of chemical controls to make sure none of the chemicals are left on the plant. Some crop-safe examples of chemical controls are:</p>
 	<ul class="jekyllcodex_accordion">
 	<li><input type="checkbox" id="accordion1">
 		<label for="accordion1">Baking soda spray: for fungi, powdery mildew, and sooty mould </label><div>
-		<p><b>Baking soda spray</b>, which is made from mixing half a teaspoon of baking powder with 500ml of water. This spray will increase the pH of whatever it touches, making it an effective tool to remove fungal diseases like powdery mildew. Take care to use this in moderation, as large amounts seeping into the soil may kill the plant.</p>
+		<p><b>Baking soda spray</b> is made from mixing half a teaspoon of baking powder with 500ml of water. This spray will increase the pH of whatever it touches, making it an effective tool to remove fungal diseases like powdery mildew. Take care to use this in moderation, as large amounts seeping into the soil may kill the plant.</p>
 		</div></li>
 	<li><input type="checkbox" id="accordion2">
 		<label for="accordion2">Chrysanthemum spray: for most insects, including soft-bodied sucking pests and chewing pests</label><div>
-	<p><b>Chrysanthemum sprays</b>, which can be made by boiling 100g of dried chrysanthemum flowers in 4L of water for 20 minutes, allowed it to steep overnight, and then sieved for use. The spray will degrade and lose its effectiveness within a week. This spray can be used to kill most insects, including <a href="/page-index/pests/aphids/">Aphids</a>, <a href="/page-index/pests/mealy-bugs/">Mealy Bugs</a>, <a href="/page-index/pests/whiteflies/">Whiteflies</a>, <a href="/page-index/pests/spider-mites/">Spider Mites</a>, and <a href="/page-index/pests/grasshoppers/">Grasshoppers</a>, but unfortunately also affects beneficial insects like <a href="/page-index/biodiversity/pollinators/">bees</a> and <a href="/page-index/biodiversity/predators/">ladybirds</a>. Spray the solution directly onto target pests and use in moderation.</p>
+	<p><b>Chrysanthemum sprays</b> can be made by boiling 100g of dried chrysanthemum flowers in 4L of water for 20 minutes, allowed it to steep overnight, and then sieved for use. The spray will degrade and lose its effectiveness within a week. This spray can be used to kill most insects, including <a href="/page-index/pests/aphids/">Aphids</a>, <a href="/page-index/pests/mealy-bugs/">Mealy Bugs</a>, <a href="/page-index/pests/whiteflies/">Whiteflies</a>, <a href="/page-index/pests/spider-mites/">Spider Mites</a>, and <a href="/page-index/pests/grasshoppers-crickets-and-katydids/">Grasshoppers</a>, but unfortunately also affects beneficial insects like <a href="/page-index/biodiversity/pollinators/">bees</a> and <a href="/page-index/biodiversity/predators/">ladybirds</a>. Spray the solution directly onto target pests and use in moderation.</p>
 		</div></li>
 	<li><input type="checkbox" id="accordion3">
 		<label for="accordion3">Dilute milk sprays: for fungi, powdery mildew, and sooty mould</label><div>
