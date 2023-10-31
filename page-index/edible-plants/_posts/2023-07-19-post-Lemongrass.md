@@ -56,6 +56,6 @@ image: ""
 <section>
 	<h4>Common problems &amp; solutions:</h4>
 	<p>Like most strong-smelling herbs, this plant is relatively resistant to pests and disease if kept healthy.</p>
-	<p><a href="/page-index/pests/mealy-bugs/">Mealy bugs</a> can infest the plant if it is suffering from other problems like <a href="/page-index/plant-problems/waterlogging/">waterlogging</a>. <a href="/horticulture-techniques/pest-control/">Mechanical pest control</a> methods like <a href="/page-index/horticulture-techniques/pruning/">pruning</a> the infested parts are the best methods for managing these pests.</p>
+	<p><a href="/page-index/pests/mealy-bugs/">Mealy Bugs</a> can infest the plant if it is suffering from other problems like <a href="/page-index/plant-problems/waterlogging/">waterlogging</a>. <a href="/page-index/horticulture-techniques/pest-control/">Mechanical pest control</a> methods like <a href="/page-index/horticulture-techniques/pruning/">pruning</a> the infested parts are the best methods for managing these pests.</p>
 	<br>
 </section>
