@@ -16,7 +16,7 @@ image: /images/Horti techniques/tomatotransplanting (3)_jacquelinechua.jpg
 </section>
 <section>
 <h4>What can be transplanted?</h4>
-<p>It is important to transplant <a href="/page-index/horticulture-techniques/propagating-by-seed/">seedlings</a> when they have 4-8 leaves and healthy <a href="/page-index/horticulture-techniques/propagating-by-cuttings/">cuttings</a> with new growth because plants regularly go through a process called <a href="/page-index/plant-problems/transplanting-shock/">transplanting shock</a> after they are transplanted, which may cause the newly transplanted plant to drop their older leaves as they redirect their energy into growing new roots and shoots. Very young seedlings and unhealthy cuttings will have a higher risk of dying before they take root after transplanting.</p>
+<p>It is important to transplant <a href="/page-index/horticulture-techniques/propagating-by-seed/">seedlings</a> when they have 4-8 leaves and healthy <a href="/page-index/horticulture-techniques/propagating-by-cuttings/">cuttings</a> with new growth. This is because plants regularly go through a process called <a href="/page-index/plant-problems/transplanting-shock/">transplanting shock</a> after they are transplanted, which may cause the newly transplanted plant to drop their older leaves as they redirect their energy into growing new roots and shoots. Very young seedlings and unhealthy cuttings will have a higher risk of dying before they take root after transplanting.</p>
 	<br>
 <section>
 	<h4>Transplanting steps</h4>
