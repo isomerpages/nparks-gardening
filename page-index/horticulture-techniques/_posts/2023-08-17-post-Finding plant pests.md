@@ -38,6 +38,6 @@ image: /images/Biodiversity/scaleinsects_pestid_jacquelinechua.jpg
 	<img title="Yellow sticky paper with insects stuck on the surface. Photo by Jacqueline Chua." src="/images/Horti%20techniques/yellowstickypaper_jacquelinechua.jpg">
 	<p><b>Sticky traps</b> are pieces of paper or plastic coated in glue or petroleum jelly, and are good for trapping a broad range of flying pests. Yellow traps attracts most insects, while blue traps are good for capturing thrips. Take note that you should deploy the traps for a short period of time, generally up to two days or less. This is because sticky traps can also trap beneficial biodiversity like pollinators and predators, and thus should not be used as a long term control solution.</p>
 	<img title="A pheromone trap for beetles. Photo by Jacqueline Chua." src="/images/Horti%20techniques/pheramonetrap_jacquelinechua.jpg"> 
-	<p><b>Pheromone Traps</b> come in many shapes and sizes, but generally are shaped like containers with a pheromone diffuser inside. This trap uses chemicals such as pheromones to attract and trap insects. This trap is good for trapping specific pests, as specific pheromones will attract specific species of pests.</p>
+	<p><b>Pheromone traps</b> come in many shapes and sizes, but generally are shaped like containers with a pheromone diffuser inside. This trap uses chemicals such as pheromones to attract and trap insects. This trap is good for trapping specific pests, as specific pheromones will attract specific species of pests.</p>
 	<br>
 </section>
