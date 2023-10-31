@@ -40,7 +40,7 @@ image: ""
 
 <section>
 	<h4>Transplanting:</h4>
-	<p>Seedlings will be ready for &gt;<a href="/page-index/horticulture-techniques/transplanting">transplanting</a> into <a href="/page-index/horticulture-techniques/planting-in-containers/">pots</a> or <a href="/page-index/horticulture-techniques/true-ground/">true ground</a> when they have developed 4 or more leaves, or roughly a week or two after germination. Leave 10cm between each plant to encourage more growth and better ventilation.</p>
+	<p>Seedlings will be ready for <a href="/page-index/horticulture-techniques/transplanting">transplanting</a> into <a href="/page-index/horticulture-techniques/planting-in-containers/">pots</a> or <a href="/page-index/horticulture-techniques/true-ground/">true ground</a> when they have developed 4 or more leaves, or roughly a week or two after germination. Leave 10cm between each plant to encourage more growth and better ventilation.</p>
 	<br>
 </section>
 	
