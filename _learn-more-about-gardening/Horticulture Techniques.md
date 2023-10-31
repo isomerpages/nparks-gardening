@@ -43,7 +43,7 @@ image: /images/Gardeners/Kim tian_processed-24.jpg
 				<li><a href="/page-index/horticulture-techniques/mulching/">Mulching</a></li>
 				<li><a href="/page-index/horticulture-techniques/pruning/">Pruning</a></li>
 				<li><a href="/page-index/horticulture-techniques/propagating-by-cuttings/">Propagating by cuttings</a></li>
-				<li><a href="/page-index/horticulture-techniques/propagating-by division/">Propagating by division</a></li>
+				<li><a href="/page-index/horticulture-techniques/propagating-by-division/">Propagating by division</a></li>
 				<li><a href="/page-index/horticulture-techniques/propagating-by-seed/">Propagating by seed</a></li>
 				<li><a href="/page-index/horticulture-techniques/transplanting/">Transplanting</a></li>
 				<li><a href="/page-index/horticulture-techniques/watering/">Watering</a></li>
