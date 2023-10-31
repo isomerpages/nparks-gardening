@@ -39,7 +39,7 @@ image: ""
 
 <section>
 	<h4>Harvesting:</h4>
-	<p><a href="/page-index/plant-problems/root-rot">Plants can be harvested for young leaves</a> at any time. They are typically harvested continuously via the <a href="/page-index/horticulture-techniques/cut-and-come-again">cut-and-come-again method</a>.</p>
+	<p><a href="/page-index/plant-problems/harvesting-hygiene/">Plants can be harvested for young leaves</a> at any time. They are typically harvested continuously via the <a href="/page-index/horticulture-techniques/cut-and-come-again">cut-and-come-again method</a>.</p>
 	<br>
 </section>
 
