@@ -34,7 +34,7 @@ image: ""
 <section> 
   <h4>Sowing seeds:</h4> 
 		<iframe width="100%" height="415" src="https://www.youtube.com/embed/x7J87wY7U6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
-	<p><a href="/page-index/horticulture-techniques/propagation-by-seeds">Seeds can be sown directly into pots or the ground</a> around 10cm apart. Lightly water the soil until damp, once a day. Seeds should sprout within a week.</p> 
+	<p><a href="/page-index/horticulture-techniques/propagation-by-seed/">Seeds can be sown directly into pots or the ground</a> around 10cm apart. Lightly water the soil until damp, once a day. Seeds should sprout within a week.</p> 
 <p>The seedlings are generally resilient to most environmental factors but may be vulnerable to being eaten by <a href="/page-index/pests/snails-and-slugs/">snails</a> or <a href="/page-index/pests/pests/#birds">birds</a>. Protect your young plants with a DIY <a href="/page-index/horticulture-techniques/cloches">cloche</a> or <a href="/page-index/hardscapes/netting">netting</a>.</p>
 	<br> 
 </section> 
@@ -75,14 +75,14 @@ image: ""
       </tr> 
     </tbody> 
   </table> 
-		 <p>Check out our&nbsp;<a href="/digital-tools/sowing-planner/">sowing and harvest planner</a>&nbsp;to schedule your growing!</p> 
+	<p>Check out our&nbsp;<a href="/digital-tools/sowing-planner/">sowing and harvest planner</a>&nbsp;to schedule your growing!</p> 
 	<br> 
 </section> 
  
 <section> 
   <h4>Propagation:</h4> 
 	<img title="Ceylon Spinach cutting planted in true ground. Photo by Jacqueline Chua." src="/images/img_9692_jacquelinechua.jpg">
-		<p>This vine can be grown <a href="/page-index/horticulture-techniques/propagating-by-seeds/">via seeds</a> or by <a href="/page-index/horticulture-techniques/propagating-by-cuttings/">stem cuttings</a> rooted in water or soil.</p> 
+		<p>This vine can be grown <a href="/page-index/horticulture-techniques/propagating-by-seed/">via seeds</a> or by <a href="/page-index/horticulture-techniques/propagating-by-cuttings/">stem cuttings</a> rooted in water or soil.</p> 
 	<br> 
 </section> 
  
@@ -93,6 +93,6 @@ image: ""
 	<p>This plant is vulnerable to fungal diseases that form leaf spots during the wet season or when the plant is overgrown. Increase air circulation with <a href="/page-index/horticulture-techniques/pruning/">regular pruning</a> and remove affected leaves to reduce the spread.</p>
 	<p>This plant is susceptible to root-knot nematodes which cause the plant to have galls on its roots which result in leaf <a href="/page-index/plant-problems/wilting/">wilting</a> and root decay. <a href="/page-index/horticulture-techniques/crop-rotation/">Rotate your crops</a> and change the soil to remedy the infestation.</p>
 	<p><a href="/page-index/plant-problems/etiolation/">Etiolation</a> is characterised by plants growing long and skinny, with weak stems and small leaves. The plants may also sometimes look yellowish. Plants etiolate when they do not get enough sunlight, which results in slow growth and untidy forms. To prevent this, grow plants in environments with enough light for them and make sure that each plant has enough space to prevent overcrowding.</p>
-<p><a href="/page-index/pests/aphids/">Aphids</a>, <a href="/page-index/pests/mealy-bugs/">Mealy Bugs</a>, <a href="/page-index/pests/whiteflies/">Whiteflies</a>, and <a href="/page-index/pests/spider-mites/">spider mites</a> often infest the plant if it has <a href="/learn-more-about-gardening/plant-problems/">underlying problems</a> like repeated wilting from heat stress. <a href="/horticulture-techniques/pest-control/">Mechanical pest control</a> methods like <a href="/page-index/horticulture-techniques/pruning/">pruning</a> the infested parts are the best methods for managing these pests in the short term, but resolving the underlying problem will prevent them in the long term.</p>
+<p><a href="/page-index/pests/aphids/">Aphids</a>, <a href="/page-index/pests/mealy-bugs/">Mealy Bugs</a>, <a href="/page-index/pests/whiteflies/">Whiteflies</a>, and <a href="/page-index/pests/spider-mites/">Spider Mites</a> often infest the plant if it has <a href="/learn-more-about-gardening/plant-problems/">underlying problems</a> like repeated wilting from heat stress. <a href="/apge-index/horticulture-techniques/pest-control/">Mechanical pest control</a> methods like <a href="/page-index/horticulture-techniques/pruning/">pruning</a> the infested parts are the best methods for managing these pests in the short term, but resolving the underlying problem will prevent them in the long term.</p>
 		<p><a href="/page-index/plant-problems/wilting/">Wilting</a> leaves during hot weather is a sign of heat stress. Increase the number of times the plant is watered daily, and apply mulch at the base to prevent water loss.</p>
 </section>
