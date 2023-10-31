@@ -39,20 +39,20 @@ image: ""
 
 <section>
 	<h4>Growing:</h4>
-	<p>Curry trees are rapid growers and will need regular pruning to be maintained at manageable height. Because they already grow rapidly, they generally do not require <a href="/page-index/horticulture-techniques/fertilising">fertilising</a>, but a use of a high nitrogen fertiliser after <a href="/page-index/horticulture-techniques/pruning">hard pruning</a> will encourage the plant to bounce back quickly. </p>
+	<p>Curry trees are rapid growers and will need regular pruning to be maintained at manageable height. Because they already grow rapidly, they generally do not require <a href="/page-index/horticulture-techniques/fertilising/">fertilising</a>, but a use of a high nitrogen fertiliser after <a href="/page-index/horticulture-techniques/pruning/">hard pruning</a> will encourage the plant to bounce back quickly. </p>
 	<br>
 </section>
 
 <section>
 	<h4>Harvesting:</h4>
-	<p>Plants can be harvested for leaves at any time. Regular harvesting will encourage bushier growth and will keep the plant at a manageable height.</p>
+	<p>Plants can be <a href="/page-index/horticulture-techniques/harvesting-hygiene/">harvested for leaves at any time. Regular harvesting will encourage bushier growth and will keep the plant at a manageable height.</a></p><a href="/page-index/horticulture-techniques/harvesting-hygiene/">
 	<p>Mature, black fruits can be harvested for seeds. Sow seeds from ripe fruit immediately after harvesting as they tend to rot quickly.</p>
 	<br>
-</section>
+</a></section><a href="/page-index/horticulture-techniques/harvesting-hygiene/">
 
-<section>
+</a><section><a href="/page-index/horticulture-techniques/harvesting-hygiene/">
 	<h4>Propagation:</h4>
-	<p>Curry Leaf Plants can be grown from <a href="/page-index/horticulture-techniques/propagating-by-seed">seed</a> or <a href="/page-index/horticulture-techniques/propagating-by-cuttings">propagated via woody stem cuttings</a>. Woody stem cuttings should be dipped in rooting hormone before being potted up in rooting media.</p>
+	</a><p><a href="/page-index/horticulture-techniques/harvesting-hygiene/">Curry Leaf Plants can be grown from </a><a href="/page-index/horticulture-techniques/propagating-by-seed">seed</a> or <a href="/page-index/horticulture-techniques/propagating-by-cuttings">propagated via woody stem cuttings</a>. Woody stem cuttings should be dipped in rooting hormone before being potted up in rooting media.</p>
 	<br>
 </section>
 
