@@ -34,7 +34,7 @@ image: ""
 <section>
   <h4>Sowing seeds:</h4>
 		<iframe width="100%" height="415" src="https://www.youtube.com/embed/x7J87wY7U6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
-	<p><a href="/page-index/horticulture-techniques/propagation-by-seeds">Seeds can be sown directly into pots or the ground</a> around 15-30cm apart. Lightly water the soil until damp, once a day. Seeds should sprout within 2 weeks. </p>
+	<p><a href="/page-index/horticulture-techniques/propagating-by-seed/">Seeds can be sown directly into pots or the ground</a> around 15-30cm apart. Lightly water the soil until damp, once a day. Seeds should sprout within 2 weeks. </p>
 <p>The seedlings are generally resilient to most environmental factors but may be vulnerable to being eaten by <a href="/page-index/pests/snails-and-slugs/">snails</a> or <a href="/page-index/pests/pests/#birds">birds</a>. Protect your young plants with a DIY <a href="/page-index/horticulture-techniques/cloches">cloche</a> or <a href="/page-index/hardscapes/netting">netting</a>.</p> <p></p>
 	<br>
 </section>
@@ -85,7 +85,7 @@ image: ""
 <section>
 	<h4>Propagation:</h4>
 	<img title="Long bean seedlings. Photo by Jacqueline Chua." src="/images/Plants/longbean_seedlings_jacquelinechua.jpg">
-	<p>This vine can be grown <a href="/page-index/horticulture-techniques/propagating-by-seeds/">via seeds</a>. </p>
+	<p>This vine can be grown <a href="/page-index/horticulture-techniques/propagating-by-seed/">via seeds</a>. </p>
 	<br>
 </section>
 
