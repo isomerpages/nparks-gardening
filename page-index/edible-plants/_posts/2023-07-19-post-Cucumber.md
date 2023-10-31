@@ -34,7 +34,7 @@ image: ""
   <h4>Sowing seeds:</h4>
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/x7J87wY7U6s" height="415" width="100%"></iframe><br>
 	<p><a href="/page-index/horticulture-techniques/propagating-by-seed/">Seeds can be sown</a> directly into pots or the ground around 15-30cm apart. Lightly water the soil until damp, once a day. Seeds should sprout within 2 weeks.</p>
-	<p>The seedlings are generally resilient to most environmental factors but may be vulnerable to being eaten by <a href="/page-index/pests/snails-and-slugs/">snails</a> or birds. Protect your young plants with a DIY <a href="/page-index/horti-culture-techniques/cloches/">cloche</a> or <a href="/page-index/hardscapes/netting/">netting</a>.</p>
+	<p>The seedlings are generally resilient to most environmental factors but may be vulnerable to being eaten by <a href="/page-index/pests/snails-and-slugs/">snails</a> or birds. Protect your young plants with a DIY <a href="/page-index/horticulture-techniques/cloches/">cloche</a> or <a href="/page-index/hardscapes/netting/">netting</a>.</p>
 	<br>
 </section>
 
