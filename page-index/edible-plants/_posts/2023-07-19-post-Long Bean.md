@@ -54,6 +54,7 @@ image: ""
 	<p>Plants can be <a href="/page-index/horticulture-techniques/harvesting-hygiene/">harvested</a> for fruits around 2 months after sowing. The best time to harvest the fruit is in the early morning, before 9am. </p>
 	<p>Only green, immature beans can be eaten. Dry, brown pods are mature, and can be used for seeds.
 </p>
+	<br>
 </section>
 
 <section>
