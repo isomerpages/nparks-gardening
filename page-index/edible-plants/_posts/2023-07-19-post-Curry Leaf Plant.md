@@ -45,14 +45,14 @@ image: ""
 
 <section>
 	<h4>Harvesting:</h4>
-	<p>Plants can be <a href="/page-index/horticulture-techniques/harvesting-hygiene/">harvested for leaves at any time. Regular harvesting will encourage bushier growth and will keep the plant at a manageable height.</a></p><a href="/page-index/horticulture-techniques/harvesting-hygiene/">
+	<p>Plants can be <a href="/page-index/horticulture-techniques/harvesting-hygiene/">harvested</a> for leaves at any time. Regular harvesting will encourage bushier growth and will keep the plant at a manageable height.</p>
 	<p>Mature, black fruits can be harvested for seeds. Sow seeds from ripe fruit immediately after harvesting as they tend to rot quickly.</p>
 	<br>
-</a></section><a href="/page-index/horticulture-techniques/harvesting-hygiene/">
+</section>
 
-</a><section><a href="/page-index/horticulture-techniques/harvesting-hygiene/">
+<section>
 	<h4>Propagation:</h4>
-	</a><p><a href="/page-index/horticulture-techniques/harvesting-hygiene/">Curry Leaf Plants can be grown from </a><a href="/page-index/horticulture-techniques/propagating-by-seed">seed</a> or <a href="/page-index/horticulture-techniques/propagating-by-cuttings">propagated via woody stem cuttings</a>. Woody stem cuttings should be dipped in rooting hormone before being potted up in rooting media.</p>
+	<p>Curry Leaf Plants can be grown from <a href="/page-index/horticulture-techniques/propagating-by-seed/">seed</a> or <a href="/page-index/horticulture-techniques/propagating-by-cuttings">propagated via woody stem cuttings</a>. Woody stem cuttings should be dipped in rooting hormone before being potted up in rooting media.</p>
 	<br>
 </section>
 
@@ -60,6 +60,6 @@ image: ""
 	<h4>Common problems &amp; solutions:</h4>
 	<p>Like most strong-smelling herbs, this plant is relatively resistant to pests and disease if kept healthy.</p>
 	<p>This plant is vulnerable to fungal diseases that form leaf spots during the wet season or when the plant is overgrown. Increase air circulation with regular pruning and remove affected leaves to reduce the spread.</p>
-<p><a href="/page-index/pests/aphids/">Aphids</a>, <a href="/page-index/pests/mealy-bugs/">Mealy Bugs</a>, and <a href="/page-index/pests/scale-insects/">Scale Insects</a> often infest the plant if it has <a href="/learn-more-about-gardening/plant-problems/">underlying problems</a> like waterlogging. <a href="/horticulture-techniques/pest-control/">Mechanical pest control</a> methods like <a href="/page-index/horticulture-techniques/pruning/">pruning</a> the infested parts are the best methods for managing these pests in the short term, but resolving the underlying problem will prevent them in the long term.</p>
+<p><a href="/page-index/pests/aphids/">Aphids</a>, <a href="/page-index/pests/mealy-bugs/">Mealy Bugs</a>, and <a href="/page-index/pests/scale-insects/">Scale Insects</a> often infest the plant if it has <a href="/learn-more-about-gardening/plant-problems/">underlying problems</a> like waterlogging. <a href="/page-index/horticulture-techniques/pest-control/">Mechanical pest control</a> methods like <a href="/page-index/horticulture-techniques/pruning/">pruning</a> the infested parts are the best methods for managing these pests in the short term, but resolving the underlying problem will prevent them in the long term.</p>
 	<br>
 </section>
