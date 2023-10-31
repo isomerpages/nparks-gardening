@@ -42,7 +42,7 @@ image: ""
 	<h4>Growing:</h4>
 	<p>Bottle gourds will produce more flowers and thus more fruit when fed with fertilisers high in Phosphorus and Potassium. Plants can be <a href="/page-index/horticulture-techniques/fertilising/">fertilised regularly</a> once a month after the first flower for a fuller crop.</p>
 	<p>Because the vines will grow on top of each other, it is a good practice to <a href="/page-index/horticulture-techniques/pruning/">prune regularly</a> and remove dead leaves and vines to improve ventilation and allow light to reach more of the plant.</p>
-		<p>As with all members of the melon family, this plant is bee pollinated and produces male and female flowers. To encourage the formation of more fruits, it is best to have at least 3 separate plants growing in the same area to have both male and female flowers available, and to have bee-attracting plants within the garden to encourage <a href="/learn-more-about-gardening/glossary/#p">pollination</a>. If your garden lacks bees, the plant can also be hand pollinated.</p>
+		<p>As with all members of the melon family, this plant is bee pollinated and produces male and female flowers. To encourage the formation of more fruits, it is best to have at least 3 separate plants growing in the same area to have both male and female flowers available. Also, include bee-attracting plants within the garden to encourage <a href="/learn-more-about-gardening/glossary/#p">pollination</a>. If your garden lacks bees, the plant can also be hand pollinated.</p>
 	<br>
 </section>
 
