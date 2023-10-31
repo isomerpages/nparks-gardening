@@ -18,7 +18,7 @@ image: ""
 <section>
 	<img title="Chilli fruits in varying stages of maturation. Photo by Jacqueline Chua." src="/images/Plants/Chilli_JacChua.jpg">
 	<p>Chillies are an essential plant in most edible gardens across South and Southeast Asia, and are famous for adding a spicy kick to sauces, stews, salads, and more! There are a wide variety of Chilli cultivars, with fruit that vary wildly in colour, shape, and size. </p>
-	<p>Most varieties of Chilli can be grown as a <a href="/page-index/glossary/#p">perennial</a> crop in Singapore, but due to their susceptibility to pests during the rainy season, many are grown as <a href="/learn-more-about-gardening/glossary/#a">annuals</a>.  Most small varieties of chilli can also be grown in pots. </p>
+	<p>Most varieties of Chilli can be grown as a <a href="/learn-more-about-gardening/glossary/#p">perennial</a> crop in Singapore, but due to their susceptibility to pests during the rainy season, many are grown as <a href="/learn-more-about-gardening/glossary/#a">annuals</a>.  Most small varieties of chilli can also be grown in pots. </p>
 	<p>This plant is part of the Solanum or Nightshade family, which includes other popular edible fruits like <a href="/page-index/edible-plants/brinjal/">Brinjal</a> and <a href="/page-index/edible-plants/tomato/">Tomato</a>.</p>
 	<br>
 </section>
