@@ -62,7 +62,7 @@ image: /images/Gardeners/Kim tian_processed-24.jpg
 			<ul>
 				<li><a href="/page-index/horticulture-techniques/finding-pests/">Finding Pests</a></li>
 				<li><a href="/page-index/horticulture-techniques/ipm/">Integrated Pest Management</a></li>
-				<li><a href="/page-index/horticulture-techniques/pest-control/">Pest Control</a></li>
+				<li><a href="/page-index/horticulture-techniques/pest-control/">Plant Pest Control</a></li>
 			</ul>
 		</div>
 		<div id="edible-gardening" class="box">
