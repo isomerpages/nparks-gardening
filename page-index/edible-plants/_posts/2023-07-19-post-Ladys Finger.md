@@ -11,7 +11,7 @@ image: ""
 </header>
 	
 <section>
-	<p><strong>Other common names:</strong>Lady's Fingers, Okra, Gumbo, Bendi, 咖啡黄葵, 黄苏葵, 黄秋葵, 羊角豆</p>
+	<p><strong>Other common names:</strong> Lady's Fingers, Okra, Gumbo, Bendi, 咖啡黄葵, 黄苏葵, 黄秋葵, 羊角豆</p>
 	<br>
 </section>
 
@@ -43,6 +43,7 @@ image: ""
   <h4>Transplanting:</h4>
 		<iframe width="100%" height="415" src="https://www.youtube.com/embed/eGBg_S8yj0U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
 	<p>Seedlings will be ready for <a href="/page-index/horticulture-techniques/transplanting/">transplanting</a> into pots or <a href="/page-index/horticulture-techniques/true-ground/">true ground</a> when they have developed 4 or more leaves, or roughly a week or two after germination. Leave 15-30cm between each plant to encourage more growth and better ventilation. </p>
+	<br>
 </section>
 	
 <section>
@@ -50,7 +51,7 @@ image: ""
 	<img title="Lady's finger plants gbeing supported by stakes. Photo by Jacqueline Chua." src="/images/Hardscapes/Staking_JacChua.jpg">
 	<p>Lady’s-Fingers will produce more flowers and thus more fruit when fed with fertilisers high in Phosphorus and Potassium. Plants can be <a href="/page-index/horticulture-techniques/fertilising/">fertilised</a> regularly once a month after the plant produces its first flower for a fuller crop. </p>
 	<p>It is a good practice to <a href="/page-index/horticulture-techniques/pruning/">prune</a> regularly and remove dead leaves and stems to improve ventilation and allow light to reach more of the plant. Regular pruning also decreases the likelihood of pests quickly taking over the plant.</p> 
-	<p>This plant can grow more than 2m tall, but for the ease of harvesting it can be pruned to a manageable hight of around 1m and continue to fruit. Taller plants can be <a href="/page-index/hardscape/staking/">staked</a> for additional support and prevent the stem from snapping.</p>
+	<p>This plant can grow more than 2m tall, but for the ease of harvesting it can be pruned to a manageable hight of around 1m and continue to fruit. Taller plants can be <a href="/page-index/hardscapes/staking/">staked</a> for additional support and prevent the stem from snapping.</p>
 		<p>Lady’s-finger plants are pollinated by Woodborer bees, but most varieties are self-pollinated. </p>
 	<br>
 </section>
