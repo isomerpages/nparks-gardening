@@ -18,7 +18,7 @@ image: ""
 <section>
 		<img title="Peanut pods grow underground as part of the roots. Photo by Jacqueline Chua." src="/images/Plants/peanut%20(1)_jacquelinechua.jpg">
 	<p>Peanut plants are grown for their underground fruit which have edible seeds that can be eaten raw, salted, fried, or steamed. The seeds are also processed into products, the most famous being peanut butter.</p>
-	<p>A small to medium-sized shrubby <a href="learn-more-about-gardening/glossary/#a">annual</a> crop, this plant is often used for <a href="/page-index/horticulture-techniques/crop-rotation/">crop rotation</a>. It grows rapidly and can also be used as a <a href="/page-index/horticulture-techniques/companion-planting/">groundcover</a>.</p>
+	<p>A small to medium-sized shrubby <a href="/learn-more-about-gardening/glossary/#a">annual</a> crop, this plant is often used for <a href="/page-index/horticulture-techniques/crop-rotation/">crop rotation</a>. It grows rapidly and can also be used as a groundcover.</p>
 	<p>This plant is part of the 	Fabaceae or Bean family, which includes other popular edible fruits like <a href="/page-index/edible-plants/winged-bean/">Winged Bean</a> and <a href="/page-index/edible-plants/sword-bean/">Sword Bean</a>.  All members of the bean family can be used for <a href="/page-index/horticulture-techniques/companion-planting/">companion planting</a> as they can fix nitrogen into the soil.</p>
 	<br>
 </section>
