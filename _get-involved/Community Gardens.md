@@ -58,7 +58,7 @@ image: /images/Garden design/KimTianWest_JacChua (1).jpg
 			<li>Grow some <a href="/page-index/glossary/edible-plants/">edible plants</a> and organise a <a href="/page-index/horticulture-techniques/harvesting-hygiene/">harvest sharing</a> event</li>
 			<li>Run a gardening workshop</li>
 			<li><a href="/page-index/horticulture-techniques/propagating-by-cuttings/">Propagate cuttings</a> and give them away in <a href="/page-index/horticulture-techniques/planting-in-containers/">upcycled pots</a></li>
-			<li>Run a roadshow booth to promote your garden and <a href="/page-index/garden-group-managment/attracting-volunteers/">attract volunteers</a> </li>
+			<li>Run a roadshow booth to promote your garden and <a href="/page-index/garden-group-management/attracting-volunteers/">attract volunteers</a> </li>
 			<li> Start a plant adoption corner</li>
 			<li> Look for <a href="/learn-more-about-gardening/garden-biodiversity/">biodiversity in your garden</a>, and document sightings</li>
 		</ul>
@@ -82,4 +82,8 @@ image: /images/Garden design/KimTianWest_JacChua (1).jpg
 		<ul>
 			<li><a href="https://southeast.cdc.gov.sg/what-we-do/future-ready/sustainable-living-south-east/"> Sustainable Living @ South East Grant </a></li>
 			</ul>																																															</div></li>
+	<li><input type="checkbox" id="accordion6">
+		<label for="accordion6">About CIB Awards and CIB Ambassador Awards</label><div>
+		<p>If you are looking to further heighten your horticulture skills after your community garden is set up and go beyond your own garden, you may consider participating in <a href="/page-index/programming/cib-awards/">CIB Awards</a> and <a href="/page-index/programming/cib-ambassadors/">CIB Ambassador Awards</a>.</p>
+		</div></li>
 </ul>
