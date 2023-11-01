@@ -40,7 +40,7 @@ details[open] > summary {
 <p>Have a question about the Allotment Gardening Scheme? Check out the FAQs below!</p>
 <ul class="jekyllcodex_accordion">
 	<li><input type="checkbox" id="accordion1">
-		<label for="accordion1">Allotment Garden Scheme - General</label>
+		<label for="accordion1">Allotment Gardening Scheme - General</label>
 		<div>
 			<details>
 				<summary>What is an allotment garden?</summary>
@@ -48,11 +48,11 @@ details[open] > summary {
 		</details>
 		<details>
 				<summary>How many allotment garden plots are there now, and will the numbers continue to be increased?</summary>	
-				To date, close to 2,200 allotment garden plots have been made available to the community with plans for further expansion.<br><br>
-			In tandem, NParks is working with Town Councils and Grassroot Organisations to provide advice on setting up of allotment gardens in public housing estates so that residents can garden closer to their homes. <br><br>
+				To date, close to 2,200 allotment garden plots have been made available to the community with plans for further expansion.<br>
+			<br>In tandem, NParks is working with Town Councils and Grassroot Organisations to provide advice on setting up of allotment gardens in public housing estates so that residents can garden closer to their homes. <br><br>
 		</details>
 		<details>
-			<summary>2. In which parks can allotment gardens be found?</summary>
+			<summary>In which parks can allotment gardens be found?</summary>
 			1. Ang Mo Kio Town Garden West<br>
 			2. Aljunied Park<br>
 			3. Bedok Reservoir Park<br>
@@ -83,15 +83,15 @@ details[open] > summary {
 		</div>
 	</li>
   <li><input type="checkbox" id="accordion2">
-					<label for="accordion2">Allotment Garden Plot - Amenities</label>
+					<label for="accordion2">Allotment Garden Plot &amp; Amenity Related</label>
 		<div>
 	<details>
-		<summary>3. Can I plant anything that I like?</summary>
-		All plants and gardening structures should not exceed 1 metre in standing height (measured from soil level in the planter bed). Gardeners are advised not to plant poisonous plants or those with sap as these plants can cause discomfort and are harmful to the public. Plants that are illegal are not allowed to be planted. 
-		<br>Please also be mindful of the neighbouring plots when planting up your mini garden and ensure that your plants do not encroach into their space. Keep your space clean and tidy for the safety of all your fellow allotment gardeners.<br><br>
+		<summary>Can I plant anything that I like?</summary>
+		All plants and gardening structures should not exceed 1 metre in standing height (measured from soil level in the planter bed). Gardeners are advised not to plant poisonous plants or those with sap as these plants can cause discomfort and are harmful to the public. Plants that are illegal are not allowed to be planted.<br> 
+		<br>Gardeners are to be mindful of the neighbouring plots when planting up their plots and ensure that their plants do not encroach into the neighbouring plots’ space and walking paths within the parks. Gardeners should keep their space clean and tidy for the safety of all allotment gardeners.<br><br>
 	</details>
 	<details>
-		<summary>4. Can I use pesticides at the allotment garden plot?</summary>
+		<summary>Can I use pesticides at the allotment garden plot?</summary>
 		Chemical pesticides, herbicides and fungicides are not allowed to be used at the allotment garden plots as they may kill insects, such as bees and wasps, which play an important role in the pollination process of flowering plants. Such chemicals may also spread to other plots and may cause adverse reactions to gardeners tending to other plots or public who visit the plots. <br><br>
 		</details>
 			<details>
