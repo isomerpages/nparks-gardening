@@ -47,14 +47,14 @@ image: ""
 <section>
 	<h4>Propagation:</h4>
 		<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/wv-LZCwUArE" height="415" width="100%"></iframe><br>
-	<p>Spearmint is usually propagated <a href="/page-index/horticulture-techniques/propagating-by-cuttings">via stem cuttings</a> rooted in water or via <a href="/page-index/horticulture-techniques/propagating-by-division/">division</a>. </p>
+	<p>Spearmint is usually propagated <a href="/page-index/horticulture-techniques/propagating-by-cuttings">via stem cuttings</a> rooted in water. </p>
 	<br>
 </section>
 
 <section>
 	<h4>Common problems &amp; solutions:</h4>
 	<p>Like most strong-smelling herbs, this plant is relatively resistant to pests and disease if kept healthy.</p>
-	<p><a href="/page-index/pests/aphids/">Aphids</a> and <a href="/page-index/pests/mealy-bugs/">Mealy Bugs</a> often infest the plant if it has <a href="/learn-more-about-gardening/plant-problems/">underlying problems</a> like repeated wilting from heat stress. <a href="/horticulture-techniques/pest-control/">Mechanical pest control</a> methods like <a href="/page-index/horticulture-techniques/pruning/">pruning</a> the infested parts are the best methods for managing these pests in the short term, but resolving the underlying problem will prevent them in the long term.</p>
+	<p><a href="/page-index/pests/aphids/">Aphids</a> and <a href="/page-index/pests/mealy-bugs/">Mealy Bugs</a> often infest the plant if it has <a href="/learn-more-about-gardening/plant-problems/">underlying problems</a> like repeated wilting from heat stress. <a href="/page-index/horticulture-techniques/pest-control/">Mechanical pest control</a> methods like <a href="/page-index/horticulture-techniques/pruning/">pruning</a> the infested parts are the best methods for managing these pests in the short term, but resolving the underlying problem will prevent them in the long term.</p>
 	<p><a href="/page-index/plant-problems/wilting/">Wilting</a> leaves during hot weather is a sign of heat stress. Increase the number of times the plant is watered daily, or move it to a shadier part of the garden.</p>
 	<br>
 </section>
