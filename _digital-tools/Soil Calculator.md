@@ -4,8 +4,10 @@ permalink: /digital-tools/soilcalculator/
 description: ""
 ---
 To calculate:
-- The amount of soil required for the planter
-- The cost of the required soil (for budgeting)
+- The amount of soil required for a rectangular planter
+- The estimated cost of the required soil (for budgeting)
+
+*Please note that the calculation of the soil volume and cost provided is an estimation based on the input provided by the user. The result provided should be taken as a reference only. It is recommended to consult with a professional for a more accurate assessment.* 
 
 <img src="/images/Digital%20Tools/planter_diagram_lwd1.png">				
 
