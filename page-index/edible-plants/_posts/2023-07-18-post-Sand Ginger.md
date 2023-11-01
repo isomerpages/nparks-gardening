@@ -29,7 +29,6 @@ image: ""
    <p> Sand Ginger thrives in <a href="/page-index/horticulture-techniques/gauging-light/">more than 2-4 hours of direct sun or 4-6 hours of indirect sun</a>. Plants do best in <a href="/page-index/horticulture-techniques/planting-in-containers/">pots</a> with <a href="/page-index/horticulture-techniques/soil/">loamy soil</a> at least 10cm deep, or in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a>. These plants are vulnerable to <a href="/page-index/plant-problems/root-rot">root rot</a>, so ensure that your pots drain well, and that your soil has plenty of <a href="/page-index/horticulture-techniques/soil-amendments/">inorganic soil amendments</a> to let the roots breathe.</p> 
 	<br> 
 </section> 
-
  
 <section> 
   <h4>Growing:</h4> 
@@ -40,8 +39,8 @@ image: ""
 <section> 
   <h4>Harvesting:</h4> 
 	<img title="Sand ginger rhizome. Photo by Flora and Fauna web." src="/images/sandginger_ffw.jpg">
-	<p>Young Sand Ginger leaves can be harvested at any time via the <a href="/page-index/horticulture-techniques/cut-and-come-again">cut-and-come-again method</a>.</p>
-	<p>Plants can be harvested for <a href="/learn-more-about-gardening/glossary/#r">rhizomes</a> at any time. They are typically harvested continuously via division.</p> 
+	<p>Young Sand Ginger leaves can be <a href="/page-index/horticulture-techniques/harvesting-hygiene/">harvested</a> at any time via the <a href="/page-index/horticulture-techniques/cut-and-come-again">cut-and-come-again method</a>.</p>
+	<p>Plants can be harvested for rhizomes at any time. They are typically harvested continuously via division.</p> 
 	<br> 
 </section> 
  
