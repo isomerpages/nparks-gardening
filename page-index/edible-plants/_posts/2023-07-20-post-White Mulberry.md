@@ -47,13 +47,13 @@ image: ""
 
 <section>
 	<h4>Propagation:</h4>
-	<p>This tree can be grown  <a href="/page-index/horticulture-techniques/propagating-by-seeds/">via seed</a> but are usually propagated  <a href="/page-index/horticulture-techniques/propagating-by-cuttings/">via stem cuttings</a> rooted directly in soil.</p>
+	<p>This tree can be grown  <a href="/page-index/horticulture-techniques/propagating-by-seed/">via seed</a> but are usually propagated  <a href="/page-index/horticulture-techniques/propagating-by-cuttings/">via stem cuttings</a> rooted directly in soil.</p>
 	<br>
 </section>
 
 <section>
 	<h4>Common problems &amp; solutions:</h4>
-<p><a href="/page-index/pests/aphids/">Aphids</a>, <a href="/page-index/pests/mealy-bugs/">Mealy Bugs</a>, <a href="/page-index/pests/whiteflies/">Whiteflies</a>, and <a href="/page-index/pests/spider-mites/">spider mites</a> often infest the plant if it has <a href="/learn-more-about-gardening/plant-problems/">underlying problems</a> like root rot. <a href="/horticulture-techniques/pest-control/">Mechanical pest control</a> methods like <a href="/page-index/horticulture-techniques/pruning/">pruning</a> the infested parts are the best methods for managing these pests in the short term, but resolving the underlying problem will prevent them in the long term.</p>
+<p><a href="/page-index/pests/aphids/">Aphids</a>, <a href="/page-index/pests/mealy-bugs/">Mealy Bugs</a>, <a href="/page-index/pests/whiteflies/">Whiteflies</a>, and <a href="/page-index/pests/spider-mites/">Spider Mites</a> often infest the plant if it has <a href="/learn-more-about-gardening/plant-problems/">underlying problems</a> like root rot. <a href="/page-index/horticulture-techniques/pest-control/">Mechanical pest control</a> methods like <a href="/page-index/horticulture-techniques/pruning/">pruning</a> the infested parts are the best methods for managing these pests in the short term, but resolving the underlying problem will prevent them in the long term.</p>
 	<p>Squirrels and birds may eat unripe or ripe fruit. Wrap your fruit in <a href="/page-index/hardscapes/netting/">netting</a> when it starts to develop.</p>
 	<br>
 </section>
