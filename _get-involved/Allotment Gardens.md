@@ -168,7 +168,7 @@ details[open] > summary {
 			</details>
 			<details>
 				<summary>What does it mean to maintain good gardening etiquette?</summary>
-				Good gardening etiquette includes keeping the allotment garden plot tidy and clean, maintaining the plants well and keep them pest free, storing all gardening items neatly, ensure all planting structures installed are compliant with terms and conditions, and conducting regularly checks for stagnant water to prevent mosquito breeding. Having a well-kept and maintained allotment garden plot ensures that it is safe and enjoyable for everyone. For more information on good gardening etiquette, check out the <a href="http://www.go.gov.sg/garden-housekeeping">garden housekeeping</a> page. <br><br>
+				Good gardening etiquette includes keeping the allotment garden plot tidy and clean, maintaining the plants well and keep them pest free, storing all gardening items neatly, ensure all planting structures installed are compliant with terms and conditions, and conducting regularly checks for stagnant water to prevent mosquito breeding. Having a well-kept and maintained allotment garden plot ensures that it is safe and enjoyable for everyone. For more information on good gardening etiquette, check out the <a href="/page-index/housekeeping/">garden housekeeping</a> page. <br><br>
 			</details>
 			<details>
 				<summary>Why are existing gardeners being given the opportunity to renew their gardening plots? Why not keep the existing system of computerised balloting?</summary>
