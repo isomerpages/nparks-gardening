@@ -56,14 +56,14 @@ image: ""
 <section>
 	<h4>Harvesting:</h4>
 	<p>Plants can be <a href="/page-index/horticulture-techniques/harvesting-hygiene">harvested</a> for leaves at any time. They are typically harvested continuously via the <a href="/page-index/horticulture-techniques/cut-and-come-again/">cut-and-come-again method</a>. Regular harvesting via pruning will encourage bushiness and keep the plant productive.</p>
-		<img title="Thai basil plants flowers developing into mature seed capsules. Photo by Jacqueline Chua." src="/images/Plants/ThaiBasil_JacChua%20(2).jpg">
+	<img title="Thai basil plants flowers developing into mature seed capsules. Photo by Jacqueline Chua." src="/images/Plants/ThaiBasil_JacChua%20(2).jpg">
 	<p><a href="/page-index/horticulture-techniques/propagating-by-seed/">Seeds</a> can be harvested from flowers that have developed into dry, brown seed capsules.</p>
-	<br><br>
+	<br>
 </section>
 
 <section>
 	<h4>Propagation:</h4>
-		<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/wv-LZCwUArE" height="415" width="100%"></iframe><br>
+	<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/wv-LZCwUArE" height="415" width="100%"></iframe><br>
 	<p>Thai Basil can be grown from <a href="/page-index/horticulture-techniques/propagating-by-seed/">seed</a> or <a href="/page-index/horticulture-techniques/propagating-by-cuttings/">propagated via stem cuttings</a> rooted in water or soil.</p>
 	<br>
 </section>
@@ -71,7 +71,7 @@ image: ""
 <section>
 	<h4>Common problems &amp; solutions:</h4>
 	<p>Like most strong-smelling herbs, this plant is relatively resistant to pests and disease if kept healthy.</p>
-		<p><a href="/page-index/pests/aphids/">Aphids</a>, <a href="/page-index/pests/mealy-bugs/">Mealy Bugs</a>, <a href="/page-index/pests/whiteflies/">Whiteflies</a>, and <a href="/page-index/pests/spider-mites/">spider mites</a> often infest the plant if it has <a href="/learn-more-about-gardening/plant-problems/">underlying problems</a> like repeated wilting from heat stress. <a href="/horticulture-techniques/pest-control/">Mechanical pest control</a> methods like <a href="/page-index/horticulture-techniques/pruning/">pruning</a> the infested parts are the best methods for managing these pests in the short term, but resolving the underlying problem will prevent them in the long term.</p>
+		<p><a href="/page-index/pests/aphids/">Aphids</a>, <a href="/page-index/pests/mealy-bugs/">Mealy Bugs</a>, <a href="/page-index/pests/whiteflies/">Whiteflies</a>, and <a href="/page-index/pests/spider-mites/">Spider Mites</a> often infest the plant if it has <a href="/learn-more-about-gardening/plant-problems/">underlying problems</a> like repeated wilting from heat stress. <a href="/page-index/horticulture-techniques/pest-control/">Mechanical pest control</a> methods like <a href="/page-index/horticulture-techniques/pruning/">pruning</a> the infested parts are the best methods for managing these pests in the short term, but resolving the underlying problem will prevent them in the long term.</p>
 	<p><a href="/page-index/plant-problems/wilting/">Wilting</a> leaves during hot weather is a sign of heat stress. Increase the number of times the plant is watered daily, and apply mulch at the base to prevent water loss.</p>
 	<br>
 </section>
