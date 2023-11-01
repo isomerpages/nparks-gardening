@@ -43,15 +43,16 @@ image: /images/Gardeners/Outreach (3).jpg
 <section>
 <h4>Gardening guides</h4>
 <ul>
-				<li><a download="" href="/files/gardening%20practices%20to%20prevent%20mosquito%20breeding%20(readable)-1.pdf">Gardening Practices to Prevent Mosquito Breeding</a></li>	
-				<li><a download="" href="/files/good%20corridor%20gardening%20practices.pdf">Good Corridor Gardening Practices</a></li>		
-				<li><a download="" href="/files/good%20roadside%20gardening%20practices.pdf">Good Roadside Gardening Practices</a></li>	
+	<li><a download="" href="/files/gardening%20practices%20to%20prevent%20mosquito%20breeding%20(readable)-1.pdf">Gardening Practices to Prevent Mosquito Breeding</a></li>	
+	<li><a download="" href="[](/files/good%20allotment%20gardening%20practices%20brochure.pdf)">Good Allotment Gardening Practices</a></li>			
+	<li><a download="" href="/files/good%20corridor%20gardening%20practices.pdf">Good Corridor Gardening Practices</a></li>		
+	<li><a download="" href="/files/good%20roadside%20gardening%20practices.pdf">Good Roadside Gardening Practices</a></li>	
 	<li><a href="/files/good%20perimeter%20planting%20practices.pdf">Good Perimeter Planting Practices</a></li>			
 	<li><a href="/files/introduction%20to%20community%20gardening.pdf">Introduction to Community Gardening</a></li>
 	<li><a download="" href="/files/introduction%20to%20indoor%20gardening.pdf">Introduction to Indoor Gardening</a></li>	
-				<li><a target="_blank" href="https://go.gov.sg/allotment-guide">A Guide to Designing and Implementing Allotment Gardens</a></li>	
-				<li><a target="_blank" href="https://go.gov.sg/community-garden-design">A Guide to Designing and Implementing Community Gardens</a></li>	
-				<li><a target="_blank" href="https://go.gov.sg/best-practices-edible-gardening">Horticultural Best Practices for Edible Gardening</a></li>	
+	<li><a target="_blank" href="https://go.gov.sg/allotment-guide">A Guide to Designing and Implementing Allotment Gardens</a></li>	
+	<li><a target="_blank" href="https://go.gov.sg/community-garden-design">A Guide to Designing and Implementing Community Gardens</a></li>	
+	<li><a target="_blank" href="https://go.gov.sg/best-practices-edible-gardening">Horticultural Best Practices for Edible Gardening</a></li>	
 </ul>
 		<br>
 </section>
