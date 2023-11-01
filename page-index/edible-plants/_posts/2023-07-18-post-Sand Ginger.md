@@ -39,7 +39,7 @@ image: ""
 <section> 
   <h4>Harvesting:</h4> 
 	<img title="Sand ginger rhizome. Photo by Flora and Fauna web." src="/images/sandginger_ffw.jpg">
-	<p>Young Sand Ginger leaves can be <a href="/page-index/horticulture-techniques/harvesting-hygiene/">harvested</a> at any time via the <a href="/page-index/horticulture-techniques/cut-and-come-again">cut-and-come-again method</a>.</p>
+	<p>Young Sand Ginger leaves can be <a href="/page-index/horticulture-techniques/harvesting-hygiene/">harvested</a> at any time via the <a href="/page-index/horticulture-techniques/cut-and-come-again/">cut-and-come-again method</a>.</p>
 	<p>Plants can be harvested for rhizomes at any time. They are typically harvested continuously via division.</p> 
 	<br> 
 </section> 
@@ -47,7 +47,7 @@ image: ""
 <section> 
   <h4>Propagation:</h4> 
 	<img title="Sand ginger rhizome sprouting. Photo by Flora and Fauna Web." src="/images/Plants/sandginger2_ffw.jpg">
-	<p>Sand ginger is <a href="/page-index/horticulture-techniques/propagating-by-division">propagated via division</a> of the rhizomes.</p> 
+	<p>Sand ginger is <a href="/page-index/horticulture-techniques/propagating-by-division/">propagated via division</a> of the rhizomes.</p> 
 	<br> 
 </section> 
  
@@ -56,6 +56,6 @@ image: ""
 	<img title="Sand Gingers that are sunburned due to being exposed to too much sunlight. Photo by Jacqueline Chua." src="/images/Plants/sandginger_sunburn_jacquelinechua.jpg">
   <p>This plant is relatively resistant to pests and disease if kept healthy.</p>
 	<p><a href="/page-index/plant-problems/wilting/">Wilting</a> leaves during hot weather is a sign of heat stress. Increase the number of times the plant is watered daily, or move it to a shadier part of the garden.</p>
-	<p>Plants are vulnerable to <a href="/page-index/plant-problems/sunburn/">sunburn</a> in more than 4 hours of direct sunlight. Use <a href="/page-index/hardscapes/netting">shade netting</a> to protect your plants or replant in a shadier spot.</p>
+	<p>Plants are vulnerable to <a href="/page-index/plant-problems/sunburn/">sunburn</a> in more than 4 hours of direct sunlight. Use <a href="/page-index/hardscapes/netting/">shade netting</a> to protect your plants or replant in a shadier spot.</p>
 	<br> 
 </section>
