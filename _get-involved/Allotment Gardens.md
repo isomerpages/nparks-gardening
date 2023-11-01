@@ -124,31 +124,31 @@ details[open] > summary {
 			</details>
 	</div></li>
 	  <li><input type="checkbox" id="accordion3">
-					<label for="accordion3">Allotment Garden Plot - Application</label>
+					<label for="accordion3">Allotment Garden Plot Application Related</label>
 			<div>
 			<details>
-				<summary>11. How many plots can I apply for and how many plots can I lease?</summary>
-				Each household is allowed to apply for and lease only 1 allotment garden plot at any one time, regardless of the number of persons in the household.<br><br>
+				<summary>How many plots can I apply for and how many plots can I lease?</summary>
+				Applications are based on a per household basis. Each applicant is allowed to apply for only one (1) allotment garden plot at any one time. If the application is successful, only one (1) license will be issued to the applicant, regardless of the number of persons in the household.<br><br>
 			</details>
 			<details>
-				<summary>12.  Will submitting multiple applications per household increase my chances of getting a
-					plot?</summary>
-				No. If there are multiple applications received from the same household address, only 1 entry will be considered for balloting.<br><br>
+				<summary>Will submitting multiple applications per household increase my chances of getting a plot?</summary>
+				No. If there are multiple applications received from the same household address, only one (1) entry will be considered for balloting. All other applications made from the same household will be disregarded.<br><br>
 			</details>
 			<details>
-				<summary>13. Can I choose the plot to lease?</summary> All plots (waist- or knee-height) are assigned strictly through a balloting system.<br><br>
+				<summary>Can I choose the plot to lease?</summary> 
+				All plots (waist- or knee-height) are assigned strictly through a balloting system.<br><br>
 			</details>
 			<details>
-				<summary>14. How would applicants know if they are successful? When can I expect to start gardening after applying for a plot?</summary>
-				All successful applicants will receive a Letter of Offer from NParks. In this Letter of Offer, we will state the date in which you will be able to start gardening on-site.<br><br>
+				<summary>How would applicants know if they are successful? When can I expect to start gardening after applying for a plot?</summary>
+				All successful applicants will receive a Letter of Offer via email from NParks. In this Letter of Offer, we will state the date in which you will be able to start gardening on-site. A Temporary Occupation Licence (TOL) will also be issued to successful applicants in respect of the use of the allotment garden plot.<br><br>
 			</details>
 			<details>
-				<summary>15. Can you call me back when the allotment plots in the park I am interested in are open for application?</summary>
+				<summary>Can you call/SMS me back when the allotment plots in the park I am interested in are open for application?</summary>
 				Please check our NParks Allotment Gardens webpage and our social media platforms for updates on available plots and registration details.<br><br> 
 			</details>
 			<details>
-				<summary>16. I missed the Allotment Garden registration exercise/opening, can I be placed on a waitlist?</summary>
-				There are no waiting lists as all available plots will be assigned to successfully balloted applicants. You may apply for a plot when the registration opens again for other allotment gardens. Please check our NParks Allotment Gardens webpage and our social media platforms for updates on available plots and registration details. <br><br>
+				<summary>I missed the allotment garden Plot application exercise/opening, can I be placed on a waitlist?</summary>
+				There are no waiting lists as all available plots will be assigned to successfully balloted applicants. Applicants may apply for a plot when the registration opens again for other allotment gardens. Please check our NParks Allotment Gardens webpage and our social media platforms for updates on available plots and registration details. <br><br>
 		</details>
 		<details>
 			<summary>17. I am a foreigner, can I apply for an allotment garden plot?</summary>
