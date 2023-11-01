@@ -28,7 +28,7 @@ You are required to comply with all applicable law in connection with Your acces
 * Is sexually-explicit; or
 * Contains viruses, Trojan horses, worms, time bombs, or other computer programming routines or engines that are intended to damage, detrimentally interfere with, surreptitiously intercept or expropriate any system, data or information.
 
-**You further agree not to: **
+**You further agree not to:** 
 * Use or attempt to use any engine, software, tool, agent or other device or mechanism (including without limitation browsers, robots, spiders, other automatic devices) to navigate, search, monitor or copy any pages within the Website or the Contents without the National Parks Board’s prior written consent;
 * Use any device, software or routine to interfere or attempt to interfere with the proper working of the Website;
 * Take any action that imposes an unreasonable or disproportionately large load on the National Parks Board’s infrastructure; and
