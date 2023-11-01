@@ -18,7 +18,7 @@ image: ""
 <section>
 	<img title="Sawtooth coriander plants growing in true ground. Photo by Jacqueline Chua." src="/images/Plants/sawtoothgroundcover_jacquelinechua.jpg">
 	<p>Sawtooth Coriander is such a common herb in many gardens that some may even consider it a weed. It tastes like true Coriander (<em>Coriandrum sativum</em>) but is much more tolerant of tropical weather. The leaves have a very strong taste and can be used as a replacement for true coriander in soups and stir-fries.</p>
-	<p>Sawtooth Coriander grows as a <a href="/learn-more-about-gardening/glossary/#p/">perennial</a> crop in Southeast Asia, but because the leaves get much tougher and less juicy after flowering, it is often cultivated as an <a href="/learn-more-about-gardening/glossary/#a/">annual</a>. It readily flowers and sets seed, making it a useful self-propagating herb that can be used for <a href="/page-index/horticulture-techniques/plant-spacing/">interplanting</a> or as a <a href="/page-index/horticulture-techniques/companion-planting/">living mulch</a>. Its shallow root system also makes it a popular choice for <a href="/page-index/horticulture-techniques/planting-in-containers/">growing in pots</a>.</p>
+	<p>Sawtooth Coriander grows as a <a href="/learn-more-about-gardening/glossary/#p">perennial</a> crop in Southeast Asia, but because the leaves get much tougher and less juicy after flowering, it is often cultivated as an <a href="/learn-more-about-gardening/glossary/#a">annual</a>. It readily flowers and sets seed, making it a useful self-propagating herb that can be used for <a href="/page-index/horticulture-techniques/plant-spacing/">interplanting</a> or as a <a href="/page-index/horticulture-techniques/companion-planting/">living mulch</a>. Its shallow root system also makes it a popular choice for <a href="/page-index/horticulture-techniques/planting-in-containers/">growing in pots</a>.</p>
 	<br>
 </section>
 
@@ -30,7 +30,7 @@ image: ""
 
 <section>
   <h4>Sowing seeds:</h4>
-	<p><a href="/page-index/horticulture-techniques/propagation-by-seeds">Seeds can be scattered directly</a> into pots or <a href="/page-index/horticulture-techniques/true-ground/">true ground</a>. Seeds should sprout within two weeks.</p>
+	<p><a href="/page-index/horticulture-techniques/propagating-by-seed/">Seeds can be scattered directly</a> into pots or <a href="/page-index/horticulture-techniques/true-ground/">true ground</a>. Seeds should sprout within two weeks.</p>
 	<br>
 </section>
 
