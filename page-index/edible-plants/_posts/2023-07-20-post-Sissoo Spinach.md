@@ -19,7 +19,7 @@ image: ""
 	<img title="Photo by Jacqueline Chua." src="/images/Plants/SissooSpinach_JacChua.jpg">
 	<p>Sissoo spinach is a hardy, succulent vegetable that readily grows in semi-shade. Its leaves and stem can be blanched, steamed, and made into soup.</p>
 	<p>This plant is a small <a href="/learn-more-about-gardening/glossary/#p">perennial</a> crop that is easy to propagate, making it a popular choice as a <a href="/page-index/horticulture-techniques/companion-planting/">living mulch</a> in edible gardens.</p>
-	<p>Due to its shallow root system and tolerance for shade, these plants are a popular choice for <a href="/page-index/horticulture-techniques/planting-in-containers">container gardening</a> and <a href="/page-index/housekeeping/good-corridor-gardening-practices/">corridor gardening</a>.</p>       
+	<p>Due to its shallow root system and tolerance for shade, these plants are a popular choice for <a href="/page-index/horticulture-techniques/planting-in-containers/">container gardening</a> and corridor gardening.</p>       
 	<br>
 </section>
 
@@ -38,7 +38,7 @@ image: ""
 
 <section>
 	<h4>Harvesting:</h4>
-	<p>Plants can be harvested for young leaves at any time. They are typically harvested continuously via the <a href="/page-index/horticulture-techniques/cut-and-come-again/">cut-and-come-again method</a>.</p>
+	<p>Plants can be <a href="/page-index/horticulture-techniques/harvesting-hygiene/">harvested</a> for young leaves at any time. They are typically harvested continuously via the <a href="/page-index/horticulture-techniques/cut-and-come-again/">cut-and-come-again method</a>.</p>
 	<br>
 </section>
 
