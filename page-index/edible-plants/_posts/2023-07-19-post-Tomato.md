@@ -17,10 +17,10 @@ image: ""
 
 <section>
 	<img title="Ripe cherry tomatoes. Photo by Jacqueline Chua." src="/images/Plants/Tomato_JacChua%20(4).jpg">
-	<p>Tomatoes are a popular crop grown in home and Community Gardens and are often considered one of the most desirable crops for new gardeners to try. There are many Tomato cultivars, with the most common varieties seen in Singapore being heat- and rain-tolerant cherry tomato varieties. Tomatoes are usually red but can also come in other colours like yellow or pink, and range in shape and size depending on the <a href="/learn-more-about-gardening/glossary/#c/">cultivar</a>.</p>
+	<p>Tomatoes are a popular crop grown in home and Community Gardens and are often considered one of the most desirable crops for new gardeners to try. There are many Tomato cultivars, with the most common varieties seen in Singapore being heat- and rain-tolerant cherry tomato varieties. Tomatoes are usually red but can also come in other colours like yellow or pink, and range in shape and size depending on the <a href="/learn-more-about-gardening/glossary/#c">cultivar</a>.</p>
 	<p>Immature tomatoes can be eaten after they have been cooked, with the most common methods being frying or making them into chutney. Ripe Tomatoes can be eaten raw, in soup, roasted or made into sauces.</p>
-	<p>As an <a href="/page-index/glossary/#a">annual</a> crop, these plants do well as part of scheduled <a href="/page-index/horticulture-techniques/crop-rotation/">crop rotation</a>.</p>
-	<p>This plant is part of the Solanum or Nightshade family, which includes other popular edible fruits like <a href="/page-index/edible-plants/brinjal/">Brinjals</a> and <a href="/page-index/edible-plants/chilli/">Chillies</a>.</p>
+	<p>As an <a href="/learn-more-about-gardening/glossary/#a">annual</a> crop, these plants do well as part of scheduled <a href="/page-index/horticulture-techniques/crop-rotation/">crop rotation</a>.</p>
+	<p>This plant is part of the Solanum or Nightshade family, which includes other popular edible fruits like <a href="/page-index/edible-plants/brinjal/">Brinjal</a> and <a href="/page-index/edible-plants/chilli/">Chilli</a>.</p>
 	<br>
 </section>
 
