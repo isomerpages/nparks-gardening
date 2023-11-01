@@ -18,8 +18,8 @@ image: ""
 <section>
 	<img title="A Smooth Luffa fruit. Photo by Victoria Lim." src="/images/Plants/smoothluffa_victorialim.jpg">
 	<p>Smooth Loofahs are large oblong fruits that can be eaten when young, or used as a natural sponge when mature. Young fruits are fried, stewed, boiled, or steamed in a variety of dishes. Mature fruit have fibrous, spongy flesh that can be used as a skin exfoliator, to clean dishes, and as padding.</p>
-	<p>An <a href="/learn-more-about-gardening/glossary/#a">annual crop</a>, these plants are often grown as part of <a href="/page-index/horticulture-techniques/crop-rotation/">crop rotation</a> with other fruiting climbers.</p>
-	<p>This plant is part of the Cucurbita or Melon family, which includes other popular edible fruits like <a href="/page-index/edible-plants/cucumber">Cucumber</a>, <a href="/page-index/edible-plants/winter-melon">Winter melon</a>, and <a href="/page-index/edible-plants/pumpkin">Pumpkin</a>.</p>
+	<p>An <a href="/learn-more-about-gardening/glossary/#a">annual</a> crop, these plants are often grown as part of <a href="/page-index/horticulture-techniques/crop-rotation/">crop rotation</a> with other fruiting climbers.</p>
+	<p>This plant is part of the Cucurbita or Melon family, which includes other popular edible fruits like <a href="/page-index/edible-plants/cucumber">Cucumber</a>, <a href="/page-index/edible-plants/winter-melon">Winter Melon</a>, and <a href="/page-index/edible-plants/pumpkin">Pumpkin</a>.</p>
 	<br>
 </section>
 
