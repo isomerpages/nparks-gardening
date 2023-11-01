@@ -18,7 +18,7 @@ image: ""
 <section>
 	<img title="Flowering Thai Basil plants. Photo by Jacqueline Chua." src="/images/Plants/ThaiBasil_JacChua%20(1).jpg">
 	<p>Thai basil is a staple herb in many Southeast Asian gardens, and thrives in tropical climates. Thai basil leaves and flowers are harvested for salads, sauces, soups and stir-fries for many Thai and Vietnamese dishes. The sprouts can also be eaten as <a href="/page-index/horticulture-techniques/microgreens">microgreens</a>!</p>
-	<p>Thai Basil plants are typically treated as <a href="/learn-more-about-gardening/glossary/#a">annual</a> crops due to their rapid flowering, but they can also be kept as <a href="/learn-more-about-gardening/glossary/#a">perennials</a> if their flowers are pruned before they can set seed.</p>
+	<p>Thai Basil plants are typically treated as <a href="/learn-more-about-gardening/glossary/#a">annual</a> crops due to their rapid flowering, but they can also be kept as <a href="/learn-more-about-gardening/glossary/#p">perennials</a> if their flowers are pruned before they can set seed.</p>
 	<p>Thai Basils are part of the Lamiaceae or Mint family, which includes other popular herbs like <a href="/page-index/edible-plants/indian-borage/">Indian Borage</a>, and <a href="/page-index/edible-plants/spearmint/">Spearmint</a>.</p>
 	<br>
 </section>
@@ -55,7 +55,7 @@ image: ""
 
 <section>
 	<h4>Harvesting:</h4>
-	<p>Plants can be harvested for leaves at any time. They are typically harvested continuously via the <a href="/page-index/horticulture-techniques/cut-and-come-again/">cut-and-come-again method</a>. Regular harvesting via pruning will encourage bushiness and keep the plant productive.</p>
+	<p>Plants can be <a href="/page-index/horticulture-techniques/harvesting-hygiene">harvested</a> for leaves at any time. They are typically harvested continuously via the <a href="/page-index/horticulture-techniques/cut-and-come-again/">cut-and-come-again method</a>. Regular harvesting via pruning will encourage bushiness and keep the plant productive.</p>
 		<img title="Thai basil plants flowers developing into mature seed capsules. Photo by Jacqueline Chua." src="/images/Plants/ThaiBasil_JacChua%20(2).jpg">
 	<p><a href="/page-index/horticulture-techniques/propagating-by-seed/">Seeds</a> can be harvested from flowers that have developed into dry, brown seed capsules.</p>
 	<br><br>
