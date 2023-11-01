@@ -95,25 +95,22 @@ details[open] > summary {
 		Chemical pesticides, herbicides and fungicides are not allowed to be used at the allotment garden plots as they may kill insects, such as bees and wasps, which play an important role in the pollination process of flowering plants. Such chemicals may also spread to other plots and may cause adverse reactions to gardeners tending to other plots or public who visit the plots. <br><br>
 		</details>
 			<details>
-				<summary>5. Where can I store my tools and gardening related materials?</summary>
-				There is a storage area in each allotment garden planter where tools and other gardening-related materials (e.g. soil, compost) must be kept when not in use. All items stored at the
-allotment garden plot must be kept neatly within storage area at all times and not in common spaces or along pathways.<br>
-(For Sengkang Riverside Park, there is a separate storage area due to site constraints).<br><br>
+				<summary>Where can I store my tools and gardening related materials?</summary>
+				There is a storage area in each allotment garden planter where tools and other gardening-related materials (e.g. soil, compost) must be kept when not in use. All items stored within the storage area must be kept neatly at all times and not in common spaces or along pathways.<br>
+<br>For Sengkang Riverside Park, there is a separate storage area due to site layout.<br><br>
 			</details>
 			<details>
-				<summary>6. Will NParks provide fencing, security or surveillance at allotment gardens?</summary>
-				As all allotment gardens are situated in our public parks and gardens, they are unfenced to enable the public to visit and appreciate the gardens. NParks has put in place signs reminding park users not to remove plants within the allotment garden plots that do not belong to them.<br>
-				Allotment gardeners are responsible for the security of all items kept within their planting plot (including plants, produce, structures and gardening materials) and items stored within storage box.<br>
-				NParks will not be responsible for the loss or damage of any items including all produce from the allotment garden plots.<br>
-				However, if there are recurrent reports on incidents of theft or vandalism at particular locations, NParks will consider additional measures to deter such occurrences.<br>
-				Allotment Gardeners are not to install any structures (including any type of video surveillance equipment orsecurity system equipment such as personal CCTV cameras) at their allotment gardening plot.<br><br>
+				<summary>Will NParks provide fencing, security or surveillance at allotment gardens?</summary>
+				Our allotment gardens are located in publicly accessible areas to allow park visitors to appreciate our green spaces and amenities holistically. Gardeners are informed during registration on this. We also inform gardeners upfront that no CCTVs or fencing are to be installed and that a storage box is provided for their tools and gardening materials.<br>
+				<br>NParks would like to remind all park visitors to be considerate and keep our parks a place for everyone to enjoy, by not picking or damaging the plants in the parks including those belonging to the allotment gardeners.<br>
+				<br>However, if there are recurrent reports on incidents of theft or vandalism at particular locations, NParks will consider additional measures to deter such occurrences. These may include putting up more signages at prominent areas of the allotment garden premises to remind public, and/or installation of CCTVs for general park surveillance.<br><br>
 			</details>
 			<details>
-				<summary>7. Will water and electricity be provided?</summary>
+				<summary>Will water and electricity be provided?</summary>
 			Shared water points are available for use at the allotment garden. No electricity will be provided. <br><br>
 			</details>
 			<details>
-				<summary>8. Will NParks or their contractors help me to maintain the allotment garden plot if I am unable to do so?  Who is responsible/pay for any mosquito breeding summons?</summary>
+				<summary>Will NParks or their contractors help me to maintain the allotment garden plot if I am unable to do so?  Who is responsible/will pay for any mosquito breeding summons?</summary>
 				You are required at all times and at your own expense, to maintain the allotment garden plot and its immediate surroundings in a good and presentable condition, including
 trimming overgrown shrubs, removing weeds, pest-infested plants, dead and damaged plants/products. <br>
 				NParks will also not be responsible for any instances of mosquito breeding detected by the National Environment Agency (NEA) at the allotment garden plots. You are responsible for taking all precautions and measures to prevent breeding of mosquitoes at your allotment garden plot.<br><br>
