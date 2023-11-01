@@ -30,7 +30,7 @@ image: ""
 
 <section> 
   <h4>Growing:</h4> 
-	<p>Applying a <a href="/page-index/horticulture-techniques/fertilising/">dilute fertiliser with a higher Phosphorous and Potassium content</a> once every two months will help encourage flowering. <a href="/page-index/horticulture-techniques/pruning/">Pruning</a> spent flowers encourages the plant to flower again. </p>
+	<p>Applying a <a href="/page-index/horticulture-techniques/fertilising/">dilute fertiliser with a higher phosphorous and potassium content</a> once every two months will help encourage flowering. <a href="/page-index/horticulture-techniques/pruning/">Pruning</a> spent flowers encourages the plant to flower again. </p>
 		<p>Take care to water directly onto the soil or do <a href="/page-index/horticulture-techniques/bottom-watering/">bottom-up watering</a> as water on the leaves causes rot.</p>
 		<p>As with all potted plants, regular repotting once a year will prevent it from becoming <a href="/page-index/plant-problems/root-bound/">root bound</a>.</p> 
 	<br> 
@@ -45,7 +45,7 @@ image: ""
 <section> 
   <h4>Common problems &amp; solutions:</h4> 
 		<p>African Violets leaves tend to rot if kept in high humidity or if the leaves are in contact with water for too long. <a href="/page-index/horticulture-techniques/bottom-watering/">Bottom watering</a> would be the best way to avoid getting excess water on its foliage.</p>
-	<p>This plant is susceptible to <a href="/page-index/plant-problems/root-rot/">root rot</a> if grown in <a href="/page-index/plant-problems/waterlogging/">waterlogged soil</a>. To prevent rot, grow the plant in <a href="/page-index/horticulture-techniques/soil/">sandy soil</a> with plenty of <a href="/page-index/horticulture-techniques/soil-amendments/">inorganic soil amendments</a>. Plants can also be <a href="/page-index/horticulture-techniques/bottom-watering/">bottom watered</a> once a week or less to keep the soil airy.</p>
-<p><a href="/page-index/pests/mealy-bugs/">Mealy Bugs</a> and <a href="/page-index/pests/spider-mites/">spider mites</a> often infest the plant if it has <a href="/learn-more-about-gardening/plant-problems/">underlying problems</a> like root rot. <a href="/horticulture-techniques/pest-control/">Mechanical pest control</a> methods like <a href="/page-index/horticulture-techniques/pruning/">pruning</a> the infested parts are the best methods for managing these pests in the short term, but resolving the underlying problem will prevent them in the long term.</p>
+	<p>This plant is susceptible to <a href="/page-index/plant-problems/root-rot/">root rot</a> if grown in <a href="/page-index/plant-problems/waterlogging/">waterlogged soil</a>. To prevent rot, grow the plant in <a href="/page-index/horticulture-techniques/soil/">sandy soil</a> with plenty of <a href="/page-index/horticulture-techniques/soil-amendments/">inorganic soil amendments</a>. Plants can also be bottom watered once a week or less to keep the soil airy.</p>
+<p><a href="/page-index/pests/mealy-bugs/">Mealy Bugs</a> and <a href="/page-index/pests/spider-mites/">Spider Mites</a> often infest the plant if it has <a href="/learn-more-about-gardening/plant-problems/">underlying problems</a> like root rot. <a href="/page-index/horticulture-techniques/pest-control/">Mechanical pest control</a> methods like <a href="/page-index/horticulture-techniques/pruning/">pruning</a> the infested parts are the best methods for managing these pests in the short term, but resolving the underlying problem will prevent them in the long term.</p>
 	<br> 
 </section>
