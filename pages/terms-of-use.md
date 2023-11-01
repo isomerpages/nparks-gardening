@@ -34,7 +34,7 @@ You are required to comply with all applicable law in connection with Your acces
 * Take any action that imposes an unreasonable or disproportionately large load on the National Parks Board’s infrastructure; and
 * Attempt to decipher, decompile, disassemble or reverse engineer any of the software comprising of in any way making up a part of the Website.
 
-**You further agree not to violate or attempt to violate the security of the Website, including, without limitation by: **
+**You further agree not to violate or attempt to violate the security of the Website, including, without limitation by:** 
 * Accessing data not intended for You or logging into a server or account that You are not authorised to access;
 * Attempting to probe, scan or test the vulnerability of a system or network or to breach security or authentication measures without proper authorisation;
 * Attempting to interfere with the Website to any user, host or network, including without limitation, by way of submitting a virus to, or overloading, “flooding”, “spamming”, “mailbombing” or “crashing” the Website; and
