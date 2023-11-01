@@ -111,17 +111,16 @@ details[open] > summary {
 			</details>
 			<details>
 				<summary>Will NParks or their contractors help me to maintain the allotment garden plot if I am unable to do so?  Who is responsible/will pay for any mosquito breeding summons?</summary>
-				You are required at all times and at your own expense, to maintain the allotment garden plot and its immediate surroundings in a good and presentable condition, including
-trimming overgrown shrubs, removing weeds, pest-infested plants, dead and damaged plants/products. <br>
-				NParks will also not be responsible for any instances of mosquito breeding detected by the National Environment Agency (NEA) at the allotment garden plots. You are responsible for taking all precautions and measures to prevent breeding of mosquitoes at your allotment garden plot.<br><br>
+				Allotment gardeners are required, at all times and at your own expense, to maintain the allotment garden plot and its immediate surroundings in a good and presentable condition, including trimming overgrown shrubs, removing weeds, pest-infested plants, dead and damaged plants/products. <br>
+				<br>NParks will also not be responsible for any instances of mosquito breeding detected by the National Environment Agency (NEA) at the allotment garden plots. Allotment gardeners are responsible for taking all precautions and measures to prevent breeding of mosquitoes at their respective allotment garden plots.<br><br>
 			</details>
 			<details>
-				<summary>9. What if I am unable to maintain my plot for a period of time?</summary>
-				If you fail to maintain your allotment garden plot, and within the time stipulated by NParks, we reserve the right to terminate the lease, so that the plot can be allocated to another gardener.<br><br>
+				<summary>What if I am unable to maintain my plot for a period of time?</summary>
+				Should an allotment gardener fail to maintain his/her allotment garden plot, and within the time stipulated by NParks, then NParks reserves the right to rescind the licence granted to the allotment gardener. NParks may choose, at its discretion, to allocate the allotment garden plot to another gardener. The registered licensee is solely responsible for the maintenance and upkeep of the allocated allotment garden plot. Assigning the maintenance and/or upkeep of the plot to another person is strictly not allowed.<br><br>
 			</details>
 			<details>
-				<summary>10. Who can I approach when there is a beehive or rodents in my plot?</summary>
-				You may contact NParks at www.nparks.gov.sg/feedback to seek assistance.<br><br>
+				<summary>Who can I approach when there is a beehive, rodents or other wildlife present in my plot?</summary>
+				Please contact NParks at www.nparks.gov.sg/feedback to seek assistance. For urgent animal-related matters, please call the NParks Animal Response Centre at 1800 476 1600.<br><br>
 			</details>
 	</div></li>
 	  <li><input type="checkbox" id="accordion3">
