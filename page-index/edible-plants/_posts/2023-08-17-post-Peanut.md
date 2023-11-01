@@ -33,8 +33,8 @@ image: ""
 
 <section>
   <h4>Sowing seeds:</h4>
-	<p><a href="/page-index/horticulture-techniques/propagation-by-seeds">Seeds should be sown directly</a> into pots or the ground around 15cm apart. Lightly water the soil until damp, once a day. Seeds should sprout within 10 days. </p>
-<p>The seedlings are generally resilient to most environmental factors but may be vulnerable to being eaten by <a href="/page-index/pests/snails-and-slugs/">snails</a>, <a href="/page-index/pests/pests/#birds">rodents or birds</a>. Protect your young plants with a DIY <a href="/page-index/horticulture-techniques/cloches">cloche</a> or <a href="/page-index/hardscapes/netting">netting</a>.</p>
+	<p><a href="/page-index/horticulture-techniques/propagating-by-seed/">Seeds should be sown directly</a> into pots or the ground around 15cm apart. Lightly water the soil until damp, once a day. Seeds should sprout within 10 days. </p>
+<p>The seedlings are generally resilient to most environmental factors but may be vulnerable to being eaten by <a href="/page-index/pests/snails-and-slugs/">snails</a>, <a href="/page-index/pests/pests/#birds">rodents or birds</a>. Protect your young plants with a DIY <a href="/page-index/horticulture-techniques/cloches/">cloche</a> or <a href="/page-index/hardscapes/netting/">netting</a>.</p>
 	<br>
 </section>
 
@@ -44,7 +44,7 @@ image: ""
 	<p>These plants generally do not require much fertilising because they are able to fix their own nitrogen. To encourage flowering and thus more seed pods, you can fertilise the plant with <a href="/page-index/horticulture-techniques/fertilising/">fertilisers high in phosphorus and potassium</a> once a month after the plant produces its first flower. These nutrients encourage root and flower growth, which are important for the plant to produce more seed pods.</p>
 	<p>Unfertilised peanut flowers grow above ground like most other plants, but when they are fertilised they will grow special structures that produce the peanut seed pods underground.</p>
 	<p>Individual peanut plants will quickly grow a network of roots that are delicate. Do not disturb the roots if possible, and <a href="/page-index/horticulture-techniques/mulching/">mulch</a> them to prevent water loss.</p>
-	<p><a href="/page-index/pests/pests/#rodents">Squirrels and birds</a> may dig up and eat seed pods. Cover your plants in <a href="/page-index/hardscapes/netting">netting</a> to prevent this.</p>
+	<p><a href="/page-index/pests/pests/#rodents">Squirrels and birds</a> may dig up and eat seed pods. Cover your plants in <a href="/page-index/hardscapes/netting/">netting</a> to prevent this.</p>
 	<br>
 </section>
 
