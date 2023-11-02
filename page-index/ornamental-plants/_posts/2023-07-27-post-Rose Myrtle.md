@@ -11,7 +11,7 @@ image: ""
 </header> 
  
 <section> 
-	<p><strong>Other common names:</strong> Kemunting,桃金娘</p> 
+	<p><strong>Other common names:</strong> Kemunting, 桃金娘</p> 
 	<br> 
 </section> 
  
