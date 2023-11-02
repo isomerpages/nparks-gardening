@@ -16,7 +16,7 @@ image: ""
 </section>
 
 <section>
-	<img title="Wandering jew growing as a groundcover in true ground. Photo by Flora and Fauna Web." src="/images/Plants/wanderingjew_ffw_2.jpg">
+	<img title="Wandering jew growing as a groundcover in true ground. Photo by Jacqueline Chua." src="/images/Plants/wanderingjew_jacquelinechua.jpg">
 	<p>The Wandering Jew is a creeping, herbaceous shrub that can grow up to 15cm tall. It has hairy leaves with silver and purple stripes on its upper side, while the underside is uniformly purple. Its stems are green and have purple shoots.</p>
 	<p>A <a href="/learn-more-about-gardening/glossary/#p">perennial</a> plant, the Wandering Jew is a great for indoor plant that is suitable for hanging planters and <a href="/page-index/horticulture-techniques/planting-in-containers/">containers</a>. It can also be used as a <a href="/page-index/horticulture-techniques/companion-planting/">living mulch</a> for shady areas.</p>
 	 <br> 
@@ -24,7 +24,7 @@ image: ""
  
 <section> 
   <h4>Sun and soil needs:</h4> 
-	<img title="Wandering jew leaves. Photo by Jacqueline Chua." src="/images/Plants/wanderingjew%20(1)_jacquelinechua.jpg">
+	<img title="Wandering jew growing as a groundcover in true ground. Photo by Flora and Fauna Web." src="/images/Plants/wanderingjew_ffw_2.jpg">
   <p>This plant thrives in <a href="/page-index/horticulture-techniques/gauging-light/">4-6 hours of indirect sunlight</a>, and can tolerate up to 4 hours of direct sun.  Plants do best in <a href="/page-index/horticulture-techniques/planting-in-containers/">pots</a> with <a href="/page-index/horticulture-techniques/soil/">loamy soil</a> at least 10cm deep, or in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a>.These plants are vulnerable to <a href="/page-index/plant-problems/root-rot/">root rot</a>, so ensure that your pots drain well, and that your soil has plenty of <a href="/page-index/horticulture-techniques/soil-amendments/">organic matter</a> to let the roots breathe.</p> 
 	<br>
 </section>
@@ -46,5 +46,5 @@ image: ""
 <section> 
   <h4>Common problems &amp; solutions:</h4> 
 	<p>This plant is relatively resistant to pests and disease if kept healthy.</p>
-<p><a href="/page-index/pests/aphids/">Aphids</a>, <a href="/page-index/pests/mealy-bugs/">Mealy Bugs</a>, and <a href="/page-index/pests/spider-mites/">spider mites</a> often infest the plant if it has <a href="/learn-more-about-gardening/plant-problems/">underlying problems</a> like repeated wilting from heat stress. <a href="/horticulture-techniques/pest-control/">Mechanical pest control</a> methods like <a href="/page-index/horticulture-techniques/pruning/">pruning</a> the infested parts are the best methods for managing these pests in the short term, but resolving the underlying problem will prevent them in the long term.</p>
+<p><a href="/page-index/pests/aphids/">Aphids</a>, <a href="/page-index/pests/mealy-bugs/">Mealy Bugs</a>, and <a href="/page-index/pests/spider-mites/">Spider Mites</a> often infest the plant if it has <a href="/learn-more-about-gardening/plant-problems/">underlying problems</a> like repeated wilting from heat stress. <a href="/page-index/horticulture-techniques/pest-control/">Mechanical pest control</a> methods like <a href="/page-index/horticulture-techniques/pruning/">pruning</a> the infested parts are the best methods for managing these pests in the short term, but resolving the underlying problem will prevent them in the long term.</p>
 </section>

@@ -24,8 +24,8 @@ image: ""
  
 <section> 
   <h4>Sun and soil needs:</h4> 
-  <p>This plant thrives in <a href="/page-index/horticulture-techniques/gauging-light/">less than 4 hours of direct sunlight or 4-8 hours of indirect sunlight</a>. Plants  do best in <a href="/page-index/horticulture-techniques/planting-in-containers/">pots</a> with <a href="/page-index/horticulture-techniques/soil/">loamy soil</a><a> at least 10cm deep</a>. These plants are vulnerable to <a href="/page-index/plant-problems/root-rot/">root rot</a>, so ensure that your soil consist of 50% <a href="/page-index/horticulture-techniques/soil-amendments/">chunky organic matter like cocochips or cococoir</a> to let the roots breathe.</p>
-	<p>This plant can also be grown on trees. Bundle the root ball in loamy soil with plenty of chunky organic matter, and wrap the soil and roots in a cocofibre mate to be lashed to a branch.</p>
+  <p>This plant thrives in <a href="/page-index/horticulture-techniques/gauging-light/">less than 4 hours of direct sunlight or 4-8 hours of indirect sunlight</a>. Plants  do best in <a href="/page-index/horticulture-techniques/planting-in-containers/">pots</a> with <a href="/page-index/horticulture-techniques/soil/">loamy soil</a> at least 10cm deep. These plants are vulnerable to <a href="/page-index/plant-problems/root-rot/">root rot</a>, so ensure that your soil consist of 50% <a href="/page-index/horticulture-techniques/soil-amendments/">chunky organic matter like cocochips or cococoir</a> to let the roots breathe.</p>
+	<p>This plant can also be grown on trees. Bundle the root ball in loamy soil with plenty of chunky organic matter, and wrap the soil and roots in a cocofibre mat to be lashed to a branch.</p>
 	<p>This plant is highly drought tolerant but will not survive <a href="/page-index/plant-problems/waterlogging/">waterlogging</a>. It is best to let the soil dry out before misting or watering.</p> 
 	<br>
 </section>
@@ -38,7 +38,7 @@ image: ""
 
 <section> 
   <h4>Propagation:</h4> 
-	<p>Lipstick plants can be grown from <a href="/page-index/horticulture-techniques/propagating-by-cuttings/">stem cuttings</a> rooted in organic soil amendments like cococoir.</p> 
+	<p>Lipstick plants can be grown from <a href="/page-index/horticulture-techniques/propagating-by-cuttings/">stem cuttings</a> rooted in organic soil amendments like coco coir.</p> 
 	<br> 
 </section> 
  

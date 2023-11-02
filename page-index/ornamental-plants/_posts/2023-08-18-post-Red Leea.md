@@ -17,7 +17,7 @@ image: ""
 
 <section>
 	<img title="Red Leea flower. photo by Jacqueline Chua." src="/images/Plants/redleea%20(1)_jacquelinechua.jpg">
-	<p>Red Leeas are a hardy <a href="/learn-mor-about-gardening/glossary/#f">free-flowering</a> shrub that is commonly seen in rewilding areas, nature parks, in roadside gardens, and biodiversity-attracting gardens. The flowers are highly attractive to bees and butterflies, while the fruits attract birds and small mammals. This plant is also <a href="/page-index/glossary/native-plants/">native</a> to Singapore and is naturally found growing along primary and secondary forests.</p>
+	<p>Red Leeas are a hardy <a href="/learn-more-about-gardening/glossary/#f">free-flowering</a> shrub that is commonly seen in rewilding areas, nature parks, in roadside gardens, and biodiversity-attracting gardens. The flowers are highly attractive to bees and butterflies, while the fruits attract birds and small mammals. This plant is also <a href="/page-index/glossary/native-plants/">native</a> to Singapore and is naturally found growing along primary and secondary forests.</p>
 	<p>A <a href="/learn-more-about-gardening/glossary/#p">perennial</a> flower, Red Leeas are useful as <a href="/page-index/glossary/biodiversity-attracting-plants/">biodiversity-attracting plants</a> and perimeter plants to add a pop of colour to any garden.</p>
 	 <br> 
 </section> 
@@ -46,6 +46,6 @@ image: ""
   <h4>Common problems &amp; solutions:</h4> 
 	<p>This plant is relatively resistant to pests and disease if kept healthy.</p>
 	<p>If the plant does not receive enough light, it will stop producing flowers. Prune surrounding plants or move the plant to a sunnier spot to promote flower growth.</p>
-	<p> <a href="/page-index/pests/mealy-bugs/">Mealy Bugs</a> and <a href="/page-index/pests/scale-insects/">Scale Insects</a> often infest the plant if it has <a href="/learn-more-about-gardening/plant-problems/">underlying problems</a> like waterlogging. <a href="/horticulture-techniques/pest-control/">Mechanical pest control</a> methods like <a href="/page-index/horticulture-techniques/pruning/">pruning</a> the infested parts are the best methods for managing these pests in the short term, but resolving the underlying problem will prevent them in the long term.</p>
+	<p> <a href="/page-index/pests/mealy-bugs/">Mealy Bugs</a> and <a href="/page-index/pests/scale-insects/">Scale Insects</a> often infest the plant if it has <a href="/learn-more-about-gardening/plant-problems/">underlying problems</a> like waterlogging. <a href="/page-index/horticulture-techniques/pest-control/">Mechanical pest control</a> methods like <a href="/page-index/horticulture-techniques/pruning/">pruning</a> the infested parts are the best methods for managing these pests in the short term, but resolving the underlying problem will prevent them in the long term.</p>
 	<br> 
 </section>

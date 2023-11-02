@@ -9,15 +9,10 @@ image: ""
 <header> 
 	<h3>Flame Violet (<em>Episcia cupreata</em>)</h3> 
 </header> 
- 
-<section> 
-	<p><strong>Other common names:</strong> -</p> 
-	<br> 
-</section> 
- 
+
 <section> 
 	<img title="Photo by Jacqueline Chua." src="/images/Plants/Episcia_JacChua.jpg">
-	<p>The Flame Violets are a fast growing, herbaceous creeping shrub with runners that produce plantlets. It has velvety and patterned leaves, often with a copper tinge. It has trumpet-shaped flowers that are bright red and furry in texture, usually blooming for two to three days.</p>
+	<p>The Flame Violets are a fast growing, herbaceous creeping shrub with runners that produce plantlets. It has velvety and patterned leaves, often with a copper tinge.Its trumpet-shaped flowers are bright red and furry in texture, usually blooming for two to three days.</p>
 	<p>A <a href="/learn-more-about-gardening/glossary/#p">perennial</a> flower, Flame Violets are great for <a href="/page-index/housekeeping/good-corridor-gardening-practices/">corridor</a>, indoor, or shady gardens. Different cultivars have different leaf and flower colours. Due to its creeping nature, it looks beautiful in hanging baskets. It is also suitable for terrariums.</p>
 	 <br> 
 </section> 
@@ -30,7 +25,7 @@ image: ""
 
 <section> 
   <h4>Growing:</h4> 
-	<p>Applying a <a href="/page-index/horticulture-techniques/fertilising/">dilute fertiliser with a higher Phosphorous and Potassium content</a> once every two months will help encourage flowering. <a href="/page-index/horticulture-techniques/pruning/">Pruning</a> spent flowers encourages the plant to flower again. </p>
+	<p>Applying a <a href="/page-index/horticulture-techniques/fertilising/">dilute fertiliser</a> with a higher phosphorous and potassium content once every two months will help encourage flowering. <a href="/page-index/horticulture-techniques/pruning/">Pruning</a> spent flowers encourages the plant to flower again. </p>
 <p>Take care to water directly onto the soil or do <a href="/page-index/horticulture-techniques/bottom-watering/">bottom-up watering</a> as water on the leaves causes rot. Make sure that your Flame Violets get enough bright, indirect light to encourage flowering.</p>
 		<p>As with all potted plants, regular repotting once a year will prevent it from becoming <a href="/page-index/plant-problems/root-bound/">root bound</a>.</p> 
 	<br> 
@@ -44,7 +39,7 @@ image: ""
  
 <section> 
   <h4>Common problems &amp; solutions:</h4> 
-<p><a href="/page-index/pests/aphids/">Aphids</a>, <a href="/page-index/pests/mealy-bugs/">Mealy Bugs</a>, and <a href="/page-index/pests/spider-mites/">spider mites</a> often infest the plant if it has <a href="/learn-more-about-gardening/plant-problems/">underlying problems</a> like repeated wilting from heat stress. <a href="/horticulture-techniques/pest-control/">Mechanical pest control</a> methods like <a href="/page-index/horticulture-techniques/pruning/">pruning</a> the infested parts are the best methods for managing these pests in the short term, but resolving the underlying problem will prevent them in the long term.</p>
+<p><a href="/page-index/pests/aphids/">Aphids</a>, <a href="/page-index/pests/mealy-bugs/">Mealy Bugs</a>, and <a href="/page-index/pests/spider-mites/">Spider Mites</a> often infest the plant if it has <a href="/learn-more-about-gardening/plant-problems/">underlying problems</a> like repeated wilting from heat stress. <a href="/page-index/horticulture-techniques/pest-control/">Mechanical pest control</a> methods like <a href="/page-index/horticulture-techniques/pruning/">pruning</a> the infested parts are the best methods for managing these pests in the short term, but resolving the underlying problem will prevent them in the long term.</p>
 	<p>Fungal leafspots, stem blights and <a href="/page-index/plant-problems/root-rot/">root rot</a> can occur when the plant is <a href="/page-index/horticulture-techniques/watering/">overwatered</a>. Water only when the surface of the soil is dry.</p>
 	<br> 
 </section>

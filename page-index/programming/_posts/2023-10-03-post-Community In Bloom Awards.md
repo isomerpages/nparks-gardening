@@ -20,16 +20,14 @@ image: /images/Gardeners/Posing (12).jpg
 	<h4>CIB Awards 2023 (Educational Institutions and Organisations)</h4>
 	<p>Take a peek at the Garden of the Year (GOYA) Awardees here!</p>
 	<iframe width="100%" height="415" src="https://www.youtube.com/embed/rRkCP-nlMtM?si=-MQl0qtHxnB5uLyh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
-	<br>
-	<p>Download the results dossier for the CIB Awards 2023 edition here.</p>
+	<p>Download and view the <a href="https://go.gov.sg/ciba2023-results-dossier">CIB Awards 2023 (Schools &amp; Organisations)</a> result dossier for full results.</p>
 	<br>
 </section>
 
 <section>
-	<h4>Past awards</h4>
+	<h4>Results dossiers and videos</h4>
 	<p>Download the results dossiers for previous editions below:</p>
 	<ul>
-		<li><a href="https://go.gov.sg/ciba2023-results-dossier">CIB Awards 2023 (Schools &amp; Organisations)</a></li> 
 		<li><a href="https://go.gov.sg/ciba2022-results-dossier">CIB Awards 2022 (Housing estates)</a></li>
 		<li><a href="https://go.gov.sg/ciba2021-results-dossier">CIB Awards 2021 (Schools &amp; Organisations)</a></li> 
 		<li><a href="https://go.gov.sg/ciba2020-results-dossier">CIB Awards 2020 (Housing Estates)</a></li>

@@ -8,7 +8,7 @@ image: ""
 ---
 <section>
 	<img title="A storage shed with a Community Gardener arranging tools. Photo by Jacqueline Chua." src="/images/Hardscapes/Storage_JacChua%20(5).jpg">
-	<p>Keeping tools and gardening materials in dedicated storage spaces will extend the life of these objects and keep your garden neat. Bagged compost, fertilisers, pots, seeds, tools, hardscape materials, and pest control materials are just some of the things that should be kept in storage to keep them functional. </p>
+	<p>Keeping tools and gardening materials in dedicated storage spaces will extend the life of these objects and keep your garden neat. Bagged <a href="/page-index/horticulture-techniques/soil-amendments/">compost</a>, <a href="/page-index/horticulture-techniques/fertilising/">fertilisers</a>, <a href="/page-index/horticulture-techniques/planting-in-containers/">pots</a>, seeds, tools, hardscape materials, and <a href="/page-index/horticulture-techniques/pest-control/">pest control</a> materials are just some of the things that should be kept in storage to keep them functional. </p>
 	<br>
 </section>
 
@@ -27,7 +27,7 @@ image: ""
 <section>
 	<h4>Designating a storage space within your garden</h4>
 	<img title="A garden shed hidden towards the back of a Community Garden. Photo by Jacqueline Chua." src="/images/Hardscapes/Pathway_JacChua%20(5).jpg">
-	<p>Figuring out where items should be stored will help you optimize the space in your garden and discourage people from leaving clutter around. Getting to the storage should be easy, with a primary pathway leading to the storage unit itself.</p> 
+	<p>Figuring out where items should be stored will help you optimize the space in your garden and discourage people from leaving clutter around. Getting to the storage should be easy, with a <a href="/page-index/hardscapes/pathways/">primary pathway</a> leading to the storage unit itself.</p> 
 	<p>Storage spaces with relevant tools should ideally be close enough to work areas. For example, having bonsai pruning tools close to the bonsai area of the garden. This will reduce clutter in the general storage area and reduce the chance of specialized tools from getting lost. </p> 
 	<p>Allotment gardens often come equipped with personal storage units built into the plots, while Community gardens may have a large garden shed placed in a corner for everyone to access. If a large shed is not possible, placing a few cupboards strategically throughout the garden can be considered as an alternative. </p>
 	<br>

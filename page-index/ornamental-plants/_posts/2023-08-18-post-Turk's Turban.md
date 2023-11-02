@@ -11,7 +11,7 @@ image: ""
 </header>
 
 <section>
-	<p><strong>Other common names:</strong>Sleepy Mallow, Wax Mallow, Mexican Turk's Cap,小悬铃花</p>
+	<p><strong>Other common names: </strong>Sleepy Mallow, Wax Mallow, Mexican Turk's Cap, 小悬铃花</p>
 	<br>
 </section>
 
@@ -19,7 +19,7 @@ image: ""
 	<img title="Turks turban plant. Photo by Jacqueline Chua." src="/images/Plants/turkturban'%20(1)_jacquelinechua.jpg">
 	<p>Turk’s Turbans are large, hardy, <a href="/learn-more-about-gardening/glossary/#f">free-flowering</a> shrubs that are commonly seen in roadside gardens, perimeter planting and biodiversity-attracting gardens. The nectar-filled flowers are highly attractive to nectivorous birds.</p>
 	<p>As large and woody <a href="/learn-more-about-gardening/glossary/#p">perennial</a> bush, this plant is a staple in perimeter planting, biodiversity-attracting gardens, and low-maintenance beds.</p>
-	<p>This plant is part of the Malvaceae or Hibiscus family, which includes other plants like <a href="/page-index/edible-plants/ladys-finger/">Lady’s-Finger</a> and <a href="/page-index/ornamental-plants/cranberry-hibiscus/">Cranberry Hibiscus</a>.</p>
+	<p>This plant is part of the Malvaceae or Hibiscus family, which includes other plants like <a href="/page-index/edible-plants/ladys-finger/">Lady’s-Finger</a> and <a href="/page-index/edible-plants/cranberry-hibiscus/">Cranberry Hibiscus</a>.</p>
 	 <br> 
 </section> 
  
@@ -46,6 +46,6 @@ image: ""
   <h4>Common problems &amp; solutions:</h4> 
 	<p>This plant is relatively resistant to pests and disease if kept healthy.</p>
 	<p>If your plant has little to no flowers, you try <a href="/page-index/horticulture-techniques/fertilising/">fertilising</a> the plant with fertilisers high in Phosphorus and Potassium. These nutrients encourage root and flower growth.</p>
-<p><a href="/page-index/pests/aphids/">Aphids</a>, <a href="/page-index/pests/mealy-bugs/">Mealy Bugs</a>, and <a href="/page-index/pests/scale-insects/">Scale Insects</a>, often infest the plant if it has <a href="/learn-more-about-gardening/plant-problems/">underlying problems</a> like repeated wilting from heat stress. <a href="/horticulture-techniques/pest-control/">Mechanical pest control</a> methods like <a href="/page-index/horticulture-techniques/pruning/">pruning</a> the infested parts are the best methods for managing these pests in the short term, but resolving the underlying problem will prevent them in the long term.</p>
+<p><a href="/page-index/pests/aphids/">Aphids</a>, <a href="/page-index/pests/mealy-bugs/">Mealy Bugs</a>, and <a href="/page-index/pests/scale-insects/">Scale Insects</a>, often infest the plant if it has <a href="/learn-more-about-gardening/plant-problems/">underlying problems</a> like repeated wilting from heat stress. <a href="/page-index/horticulture-techniques/pest-control/">Mechanical pest control</a> methods like <a href="/page-index/horticulture-techniques/pruning/">pruning</a> the infested parts are the best methods for managing these pests in the short term, but resolving the underlying problem will prevent them in the long term.</p>
 	<br> 
 </section>

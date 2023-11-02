@@ -5,7 +5,7 @@ permalink: /terms-of-use/
 ## Terms of Use
 In these Terms of Use, the user of the Website is defined as “You” or “Your” and the provider of the Website is defined as “We”, “Us” or “Our”.
 
-These Terms of Use apply to Your use of the website at https://pcn.nparks.gov.sg/ and its related sites (“Website”). The Website is owned and operated by the National Parks Board. Access to and use of the Website is subjected to the following Terms of Use. Your access to and use of the Website constitute Your acceptance of these Terms of Use which shall take effect from the first date You access the Website. If You do not agree to these Terms of Use, You are not authorised to access the Website and should cease using the Website immediately.
+These Terms of Use apply to Your use of the website at https://gardeningsg.nparks.gov.sg/ and its related sites (“Website”). The Website is owned and operated by the National Parks Board. Access to and use of the Website is subjected to the following Terms of Use. Your access to and use of the Website constitute Your acceptance of these Terms of Use which shall take effect from the first date You access the Website. If You do not agree to these Terms of Use, You are not authorised to access the Website and should cease using the Website immediately.
 
 The National Parks Board may at any time revise the terms and conditions contained in this section of the Website. 
 

@@ -8,7 +8,7 @@ description: Soil amendments are materials that change the properties of soil
 image: /images/Horti techniques/SoilAmendment_Grit_Jacchua (4).jpg
 ---
 <section>
-	<p>Soil amendments are materials that change the <a href="/page-index/horticulture-techniques/soil/">properties of soil</a> when mixed in. Soil amendments are not the same as fertilisers, which are materials that release nutrients for plant growth. </p>
+	<p>Soil amendments are materials that change the <a href="/page-index/horticulture-techniques/soil/">properties of soil</a> when mixed in. Soil amendments are not the same as <a href="/page-index/horticulture-techniques/fertilising/">fertilisers</a>, which are materials that release nutrients for plant growth. </p>
 	<iframe width="100%" height="415" src="https://www.youtube.com/embed/ZOMLfqymu5Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
 	<p>They are largely split into organic and inorganic amendments, with some common types listed below:</p>
 	<br>

@@ -56,7 +56,7 @@ image: /images/Hardscapes/Corridorgarden_JacChua (2).jpg
 			</ul>
 		</div></li>
 		<li><input type="checkbox" id="accordion2">
-		<label for="accordion2">For 4 hours of direct sunlight or 4-8 hours of indirect sunlight</label><div>
+		<label for="accordion2">For less than 4 hours of direct sunlight or 4-8 hours of indirect sunlight</label><div>
 			<ul>
 				<li><a href="/page-index/edible-plants/spearmint">Spearmint</a> (<em>Mentha spicata</em>)</li>
 				<li><a href="/page-index/edible-plants/indian-borage">Indian Borage</a> (<em>Coleus amboinicus</em>)</li>
@@ -82,13 +82,13 @@ image: /images/Hardscapes/Corridorgarden_JacChua (2).jpg
 				<li><a href="/page-index/ornamental-plants/elephant-bush">Elephant Bush</a> (<em>Portulacaria afra</em>)</li>
 				<li><a href="/page-index/ornamental-plants/fairy-washboard">Fairy Washboard</a> (<em>Haworthiopsis limifolia</em>)</li>
 				<li><a href="/page-index/ornamental-plants/mistletoe-fig/">Mistletoe Fig</a> (<em>Ficus deltoidea</em>)</li>
-				<li><a href="/page-index/ornamental-plants/mexican-hen-and-chicks">Mexican Hen and Chicks</a> (<em>Echeveria spp. and cultivars</em>)</li>
+				<li><a href="/page-index/ornamental-plants/mexican-hen-and-chicks">Mexican Hen and Chicks</a> (<em>Echeveria</em> spp. and cultivars)</li>
 				<li><a href="/page-index/ornamental-plants/mexican-sedum">Mexican Sedum</a> (<em>Sedum mexicanum</em>)</li>
 				<li><a href="/page-index/ornamental-plants/string-of-beads">String of Beads</a> (<em>Curio herreanus</em>)</li>
 			</ul>
 		</div></li>
 		<li><input type="checkbox" id="accordion4">
-		<label for="accordion4">For 4 hours of direct sunlight or 4-8 hours of indirect sunlight</label><div>
+		<label for="accordion4">For less than 4 hours of direct sunlight or 4-8 hours of indirect sunlight</label><div>
 			<ul>
 				<li><a href="/page-index/ornamental-plants/african-violet">African Violet</a> (<em>Streptocarpus ionanthus</em>)</li>
 				<li><a href="/page-index/ornamental-plants/devils-ivy/">Devil's Ivy</a> (<em>Epipremnum aureum</em>)</li>
@@ -106,5 +106,5 @@ image: /images/Hardscapes/Corridorgarden_JacChua (2).jpg
 			</ul>
 		</div></li>
 	</ul>
-	<p>Download our <a download="" href="/files/introduction%20to%20indoor%20gardening.pdf">indoor gardening guide</a> for more information and references. </p>
+	<p>Download our <a href="/files/introduction%20to%20community%20gardening.pdf">Introduction to Community Gardening</a> for more information and references. </p>
 </section>

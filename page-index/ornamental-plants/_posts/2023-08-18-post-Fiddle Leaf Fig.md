@@ -34,7 +34,7 @@ These plants are vulnerable to <a href="/page-index/plant-problems/root-rot/">ro
 <section> 
   <h4>Growing:</h4> 
 	<img title="Fiddle leaf figs being sold as small houseplants. Photo by Jacqueline Chua." src="/images/Plants/fiddleleaffig%20(6)_jacquelinechua.jpg">
-	<p>Fiddle Leaf Figs start off as a slow growing plant and prefers partial shade when young. <a href="/page-index/horticulture-techniques/fertilising/">Fertilising</a> should only be done once a month with a dilute balanced liquid fertiliser. <a href="/page-index/horticulture-techniques/pruning/">Pruning</a> the growing tips or top of the plant when it is young will encourage branching. </p>
+	<p>The Fiddle Leaf Fig start off as a slow growing plant and prefers partial shade when young. <a href="/page-index/horticulture-techniques/fertilising/">Fertilising</a> should only be done once a month with a dilute balanced liquid fertiliser. <a href="/page-index/horticulture-techniques/pruning/">Pruning</a> the growing tips or top of the plant when it is young will encourage branching. </p>
 	<p><b>When pruning, be sure to wear gloves as the plant produces a milky, sticky sap which is mildly toxic and can irritate the skin.</b></p>
 	<p> As with all potted plants, regular repotting once a year will prevent it from becoming <a href="/page-index/plant-problems/root-bound/">root bound</a>.</p> 
 	<br> 
@@ -49,6 +49,6 @@ These plants are vulnerable to <a href="/page-index/plant-problems/root-rot/">ro
 <section> 
   <h4>Common problems &amp; solutions:</h4> 
 	<p>This plant is relatively resistant to pests and disease if kept healthy.</p>
-<p> <a href="/page-index/pests/mealy-bugs/">Mealy Bugs</a>, <a href="/page-index/pests/scale-insects/">Scale insects</a>, and <a href="/page-index/pests/spider-mites/">spider mites</a> often infest the plant if it has <a href="/learn-more-about-gardening/plant-problems/">underlying problems</a> like repeated wilting from heat stress. <a href="/horticulture-techniques/pest-control/">Mechanical pest control</a> methods like <a href="/page-index/horticulture-techniques/pruning/">pruning</a> the infested parts are the best methods for managing these pests in the short term, but resolving the underlying problem will prevent them in the long term.</p>
+<p> <a href="/page-index/pests/mealy-bugs/">Mealy Bugs</a>, <a href="/page-index/pests/scale-insects/">Scale insects</a>, and <a href="/page-index/pests/spider-mites/">Spider Mites</a> often infest the plant if it has <a href="/learn-more-about-gardening/plant-problems/">underlying problems</a> like repeated wilting from heat stress. <a href="/page-index/horticulture-techniques/pest-control/">Mechanical pest control</a> methods like <a href="/page-index/horticulture-techniques/pruning/">pruning</a> the infested parts are the best methods for managing these pests in the short term, but resolving the underlying problem will prevent them in the long term.</p>
 	<br> 
 </section>

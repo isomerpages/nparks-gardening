@@ -20,7 +20,7 @@ image: ""
 <section> 
   <h4>Sun and soil needs:</h4> 
 	<img title="River Tarenna flowers photo by Jacqueline Chua." src="/images/Plants/rivertarenna_4%20(3)_jacquelinechua.jpg">
-  <p>This plant thrives in <a href="/page-index/horticulture-techniques/gauging-light/">4-8 hours of direct or indirect sunlight</a>. Plants do best in <a href="/page-index/horticulture-techniques/soil/">loamy soil</a> in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a>. This plant can also be grown in <a href="/page-index/plant-problems/waterlogging/">waterlogged</a>, clayey <a href="/page-index/horticulture-techniques/true-ground/">true ground</a>.</p> 
+  <p>This plant thrives in <a href="/page-index/horticulture-techniques/gauging-light/">4-8 hours of direct or indirect sunlight</a>. Plants do best in <a href="/page-index/horticulture-techniques/soil/">loamy soil</a> in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a>. This plant can also be grown in <a href="/page-index/plant-problems/waterlogging/">waterlogged</a>, clayey true ground.</p> 
 	<br>
 </section>
 
@@ -41,6 +41,6 @@ image: ""
 	<p>This plant is relatively resistant to pests and disease if kept healthy.</p>
 	<p>If your plant has few to no flowers, you can fertilise the plant with <a href="/page-index/horticulture-techniques/fertilising/">fertilisers high in phosphorus and potassium</a>.</p>
 	<p>If the plant does not receive enough light, it will stop producing flowers. Prune surrounding plants or move the plant to a sunnier spot to promote flower growth.</p>
-	<p> <a href="/page-index/pests/scale-insects/">Scale Insects</a> often infest the plant if it has <a href="/learn-more-about-gardening/plant-problems/">underlying problems</a> like repeated wilting from heat stress. <a href="/horticulture-techniques/pest-control/">Mechanical pest control</a> methods like <a href="/page-index/horticulture-techniques/pruning/">pruning</a> the infested parts are the best methods for managing these pests in the short term, but resolving the underlying problem will prevent them in the long term.</p>
+	<p> <a href="/page-index/pests/scale-insects/">Scale Insects</a> often infest the plant if it has <a href="/learn-more-about-gardening/plant-problems/">underlying problems</a> like repeated wilting from heat stress. <a href="/page-index/horticulture-techniques/pest-control/">Mechanical pest control</a> methods like <a href="/page-index/horticulture-techniques/pruning/">pruning</a> the infested parts are the best methods for managing these pests in the short term, but resolving the underlying problem will prevent them in the long term.</p>
 	<br> 
 </section>

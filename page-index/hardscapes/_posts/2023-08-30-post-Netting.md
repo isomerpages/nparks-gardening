@@ -8,14 +8,14 @@ image: ""
 ---
 <section>
 	<iframe width="100%" height="415" src="https://www.youtube.com/embed/0hTJYGhBNa8?si=DoIsF1ypKYq0-A-7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
-	<p>Netting within the garden can be used to protect your plants from pests, heavy rain, or scorching sun. Netting frames can be of various materials that are durable under the elements, but it must be stable enough for nets to be pulled tautly across the edges. The colour and mesh size will influence how your netting will be used in your garden.</p>
+	<p>Netting within the garden can be used to protect your plants from <a href="/page-index/pests/pests/">pests</a>, heavy rain, or scorching sun. Netting frames can be of various materials that are durable under the elements, but it must be stable enough for nets to be pulled tautly across the edges. The colour and mesh size will influence how your netting will be used in your garden.</p>
 	<br>
 </section>
 
 <section>
 	<h4>Colours</h4>
 	<img title="Black shade netting protecting young seedlings from harsh sun. Photo by Jacqueline Chua." src="/images/Horti%20techniques/shadenetting_jacquelinechua.jpg">
-	<p><b>Black shade netting</b> comes in various shade percentages, with higher percentages indicating denser shade. Black shade netting is usually used for growing full shade or partial shade plants in gardens that are full sun, or to make shaded propagation stations. </p> 
+	<p><b>Black shade netting</b> comes in various shade percentages, with higher percentages indicating denser shade. Black shade netting is usually used for growing full shade or partial shade plants in gardens that are <a href="/page-index/horticulture-techniques/gauging-light/">full sun</a>, or to make shaded <a href="/page-index/hardscapes/shelters/">propagation stations</a>. </p> 
 	<img title="White netting covering a DIY raised bed. Photo by Jacqueline Chua." src="/images/Hardscapes/Netting%20(5).jpg">
 	<p><b>White netting</b> will let sunlight through and are usually used to protect plants from pests or heavy rain. Most leafy vegetables like Cai Xin and Lettuce will benefit from being completely netted up, while individual fruits on fruiting shrubs like Brinjals and Tomatoes can also be protected with small bags made from white netting.</p> 
 	<br>
@@ -47,6 +47,6 @@ image: ""
 	<img title="Community Gardeners handling netting that is well secured and safe. Photo by Jacqueline Chua." src="/images/Gardeners/Harvesting%20(1).jpg">
 	<p>Netting frames should all have footing, which is a portion of the frame driven into soil, lashed to supports, or stabilised with concrete or weights underground. Frames should be stable enough to endure shaking by people and windy conditions within the garden. </p> 
 	<img title="A plastic cap for poles to prevent them from collecting water and to cap sharp edges. Photo by Jacqueline Chua." src="/images/Hardscapes/PXL_20230615_031940141.jpg">
-	<p>Some frame materials like plastic or metal may have sharp points or consist of hollow poles. Caps can be used to shield gardeners from points and to prevent water collecting in the poles, which is an important part of managing mosquitoes in the garden.</p>
+	<p>Some frame materials like plastic or metal may have sharp points or consist of hollow poles. Caps can be used to shield gardeners from points and to prevent water collecting in the poles, which is an important part of <a href="/page-index/housekeeping/keeping-gardens-mosquito-free/">managing mosquitoes</a> in the garden.</p>
 	<br>
 </section>

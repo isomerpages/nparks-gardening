@@ -22,14 +22,14 @@ image: ""
 	<img title="A wooden trellis made from upcycled wooden poles. Photo by Jacqueline Chua." src="/images/Hardscapes/Trellis%20(5).jpg">
 	<p><b>Wooden trellises</b> can be heavy or light, but are also biodegradable and lasts between 3-5years in the tropics, even when coated with resin and other waterproofing materials. Wooden trellises are commonly upcycled from old bedframes, plywood and palette wood.</p>
 	<img title="A square bamboo trellis in a pot. Photo by Jacqueline Chua." src="/images/Hardscapes/Trellis_JacChua.jpg">
-		<p><b>Bamboo trellises</b> are very flexible and light, but are also not sturdy and will degrade after 1 year if the bamboo is not sealed with plastic or resin. Bamboo tends to snap under weight or in high winds, and thus should only be used for very light climbing plants like Butterfly Peas in sheltered gardens with less wind.</p>
+		<p><b>Bamboo trellises</b> are very flexible and light, but are also not sturdy and will degrade after 1 year if the bamboo is not sealed with plastic or resin. Bamboo tends to snap under weight or in high winds, and thus should only be used for very light climbing plants like <a href="/page-index/edible-plants/butterfly-pea/">Butterfly Pea</a> in sheltered gardens with less wind.</p>
 	<br>
 </section>
 
 <section>
 	<h4>Trellis shapes</h4>
 	<img title="an arch trellis in raised beds. Photo by Jacqueline Chua." src="/images/Hardscapes/Trellis%20(9).jpg">
-	<p><b>Arch trellises</b> are great for maximising spaces above walkways or at the entrance of a garden.</p>
+	<p><b>Arch trellises</b> are great for maximising spaces above walkways or at the entrance of a garden. Plants with fruits that hang down like <a href="/page-index/edible-plants/bitter-gourd/">Bitter Gourd</a> are fun options for arch trellises.</p>
 	<img title="A teepee trellis made of bamboo. Photo by Jacqueline Chua." src="/images/Hardscapes/teepeetrellis_jacquelinechua-2.jpg">
 	<p>A <b>teepee trellis</b> consists of three poles bound at the top, and are a a fast and simple way to make a trellis. This trellis type is ideal for light plants like <a href="/page-index/edible-plants/butterfly-pea/">Butterfly Pea</a>.</p>
 	<img title="Wall trellises made from metal and rope. Photo by Jacqueline Chua." src="/images/Hardscapes/Trellis%20(3).jpg">
