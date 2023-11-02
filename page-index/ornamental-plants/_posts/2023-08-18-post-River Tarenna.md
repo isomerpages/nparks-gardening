@@ -20,7 +20,7 @@ image: ""
 <section> 
   <h4>Sun and soil needs:</h4> 
 	<img title="River Tarenna flowers photo by Jacqueline Chua." src="/images/Plants/rivertarenna_4%20(3)_jacquelinechua.jpg">
-  <p>This plant thrives in <a href="/page-index/horticulture-techniques/gauging-light/">4-8 hours of direct or indirect sunlight</a>. Plants do best in <a href="/page-index/horticulture-techniques/soil/">loamy soil</a> in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a>. This plant can also be grown in <a href="/page-index/plant-problems/waterlogging/">waterlogged</a>, clayey <a href="/page-index/horticulture-techniques/true-ground/">true ground</a>.</p> 
+  <p>This plant thrives in <a href="/page-index/horticulture-techniques/gauging-light/">4-8 hours of direct or indirect sunlight</a>. Plants do best in <a href="/page-index/horticulture-techniques/soil/">loamy soil</a> in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a>. This plant can also be grown in <a href="/page-index/plant-problems/waterlogging/">waterlogged</a>, clayey true ground.</p> 
 	<br>
 </section>
 
