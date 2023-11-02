@@ -17,7 +17,7 @@ image: ""
 
 <section>
 	<img title="Red Leea flower. photo by Jacqueline Chua." src="/images/Plants/redleea%20(1)_jacquelinechua.jpg">
-	<p>Red Leeas are a hardy <a href="/learn-mor-about-gardening/glossary/#f">free-flowering</a> shrub that is commonly seen in rewilding areas, nature parks, in roadside gardens, and biodiversity-attracting gardens. The flowers are highly attractive to bees and butterflies, while the fruits attract birds and small mammals. This plant is also <a href="/page-index/glossary/native-plants/">native</a> to Singapore and is naturally found growing along primary and secondary forests.</p>
+	<p>Red Leeas are a hardy <a href="/learn-more-about-gardening/glossary/#f">free-flowering</a> shrub that is commonly seen in rewilding areas, nature parks, in roadside gardens, and biodiversity-attracting gardens. The flowers are highly attractive to bees and butterflies, while the fruits attract birds and small mammals. This plant is also <a href="/page-index/glossary/native-plants/">native</a> to Singapore and is naturally found growing along primary and secondary forests.</p>
 	<p>A <a href="/learn-more-about-gardening/glossary/#p">perennial</a> flower, Red Leeas are useful as <a href="/page-index/glossary/biodiversity-attracting-plants/">biodiversity-attracting plants</a> and perimeter plants to add a pop of colour to any garden.</p>
 	 <br> 
 </section> 
