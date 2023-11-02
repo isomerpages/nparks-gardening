@@ -25,7 +25,7 @@ image: ""
 
 <section> 
   <h4>Growing:</h4> 
-	<p>Applying a <a href="/page-index/horticulture-techniques/fertilising/">dilute fertiliser with a higher phosphorous and potassium content</a> once every two months will help encourage flowering. <a href="/page-index/horticulture-techniques/pruning/">Pruning</a> spent flowers encourages the plant to flower again. </p>
+	<p>Applying a <a href="/page-index/horticulture-techniques/fertilising/">dilute fertiliser</a> with a higher phosphorous and potassium content once every two months will help encourage flowering. <a href="/page-index/horticulture-techniques/pruning/">Pruning</a> spent flowers encourages the plant to flower again. </p>
 <p>Take care to water directly onto the soil or do <a href="/page-index/horticulture-techniques/bottom-watering/">bottom-up watering</a> as water on the leaves causes rot. Make sure that your Flame Violets get enough bright, indirect light to encourage flowering.</p>
 		<p>As with all potted plants, regular repotting once a year will prevent it from becoming <a href="/page-index/plant-problems/root-bound/">root bound</a>.</p> 
 	<br> 
