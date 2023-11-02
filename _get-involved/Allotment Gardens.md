@@ -172,8 +172,7 @@ details[open] > summary {
 			</details>
 			<details>
 				<summary>Why are existing gardeners being given the opportunity to renew their gardening plots? Why not keep the existing system of computerised balloting?</summary>
-We hope to continue fostering a love for gardening by allowing existing gardeners who have maintained good gardening etiquette to renew their allotment garden plots. We
-will continue making available more plots across the island for new gardeners. New allotment garden plots will also continue being allocated by computerised balloting.<br><br>
+We hope to continue fostering a love for gardening by allowing existing gardeners who have maintained good gardening etiquette to renew their allotment garden plots.<br><br>
 			</details>
 		</div>
 	</li>
