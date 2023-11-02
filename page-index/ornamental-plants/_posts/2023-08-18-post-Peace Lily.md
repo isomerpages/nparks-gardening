@@ -11,7 +11,7 @@ image: ""
 </header>
 
 <section>
-	<p><strong>Other common names:</strong>White Sails</p>
+	<p><strong>Other common names: </strong>White Sails</p>
 	<br>
 </section>
 
