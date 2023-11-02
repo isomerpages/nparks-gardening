@@ -15,6 +15,7 @@ image: ""
 
 <section>
 	<h4>Symptoms</h4>
+	<img title="A waterlogged plant pot. Photo by Jacqueline Chua." src="/images/Plant%20problems/waterlogging_jacquelinechua_4.jpg">
 	<p>Waterlogging is usually characterized by water remaining at the surface of soil for more than a day, having very wet and damp soil despite dry conditions, and observing <a href="/page-index/plant-problems/root-rot/">root rot</a> in plants. There may also be a stale, foul smell from the soil and water.</p>
 	<br>
 </section>
