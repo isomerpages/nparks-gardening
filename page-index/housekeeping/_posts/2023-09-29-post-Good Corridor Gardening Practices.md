@@ -106,5 +106,5 @@ image: /images/Hardscapes/Corridorgarden_JacChua (2).jpg
 			</ul>
 		</div></li>
 	</ul>
-	<p>Download our <a download="" href="/files/introduction%20to%20indoor%20gardening.pdf">indoor gardening guide</a> for more information and references. </p>
+	<p>Download our <a href="/files/introduction%20to%20community%20gardening.pdf">Introduction to Community Gardening</a> for more information and references. </p>
 </section>
