@@ -11,7 +11,7 @@ image: ""
 </header>
 
 <section>
-	<p><strong>Other common names:</strong>Sleepy Mallow, Wax Mallow, Mexican Turk's Cap,小悬铃花</p>
+	<p><strong>Other common names: </strong>Sleepy Mallow, Wax Mallow, Mexican Turk's Cap, 小悬铃花</p>
 	<br>
 </section>
 
