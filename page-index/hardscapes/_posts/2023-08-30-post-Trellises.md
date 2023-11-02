@@ -22,7 +22,7 @@ image: ""
 	<img title="A wooden trellis made from upcycled wooden poles. Photo by Jacqueline Chua." src="/images/Hardscapes/Trellis%20(5).jpg">
 	<p><b>Wooden trellises</b> can be heavy or light, but are also biodegradable and lasts between 3-5years in the tropics, even when coated with resin and other waterproofing materials. Wooden trellises are commonly upcycled from old bedframes, plywood and palette wood.</p>
 	<img title="A square bamboo trellis in a pot. Photo by Jacqueline Chua." src="/images/Hardscapes/Trellis_JacChua.jpg">
-		<p><b>Bamboo trellises</b> are very flexible and light, but are also not sturdy and will degrade after 1 year if the bamboo is not sealed with plastic or resin. Bamboo tends to snap under weight or in high winds, and thus should only be used for very light climbing plants like <a href="/page-index/edible-plants/butterfly-pea/">Butterfly Peas</a> in sheltered gardens with less wind.</p>
+		<p><b>Bamboo trellises</b> are very flexible and light, but are also not sturdy and will degrade after 1 year if the bamboo is not sealed with plastic or resin. Bamboo tends to snap under weight or in high winds, and thus should only be used for very light climbing plants like <a href="/page-index/edible-plants/butterfly-pea/">Butterfly Pea</a> in sheltered gardens with less wind.</p>
 	<br>
 </section>
 
