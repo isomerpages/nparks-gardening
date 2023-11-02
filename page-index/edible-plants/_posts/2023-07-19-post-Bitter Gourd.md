@@ -87,7 +87,7 @@ image: ""
 <section>
 	<h4>Propagation:</h4>
 	<img title="A mature bitter gourd fruit. Photo by Jacqueline Chua." src="/images/Plants/Bittergourd_JacChua.jpg">
-	<p>This vine can be grown via <a href="/page-index/horticulture-techniques/propagating-by-seeds/">seeds</a>. Seeds can be taken from mature fruit for immediate planting.</p>
+	<p>This vine can be grown via <a href="/page-index/horticulture-techniques/propagating-by-seed/">seeds</a>. Seeds can be taken from mature fruit for immediate planting.</p>
 	<br>
 </section>
 
