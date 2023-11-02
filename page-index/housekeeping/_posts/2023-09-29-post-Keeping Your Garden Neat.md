@@ -51,7 +51,7 @@ Ailing plants can be moved to a quarantine area to recover or cut up to be repro
 	<h4>Have a regular task list</h4>
 	<p>Gardeners tend to get lost in their excitement, and sometimes lose sight of small but important tasks that need to be done regularly. Here is a suggested list to guide you whenever you garden:</p>
 	<ul>
-		<li>Check for and remove stagnant water to prevent <a href="/page-index/housekeeping/keeping-your-gardens-mosquito-free/">mosquito breeding</a></li>
+		<li>Check for and remove stagnant water to prevent <a href="/page-index/housekeeping/keeping-gardens-mosquito-free/">mosquito breeding</a></li>
 		<li>Check plants for pests and disease</li>
 		<li><a href="/page-index/horticulture-techniques/pruning/">Prune</a> overgrown plants or plants with a lot of pests</li>
 		<li>Keep all loose gardening materials in their appropriate storage space</li>
