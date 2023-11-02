@@ -83,7 +83,8 @@ image: /images/Garden design/KimTianWest_JacChua (1).jpg
 			<li><a href="https://southeast.cdc.gov.sg/what-we-do/future-ready/sustainable-living-south-east/"> Sustainable Living @ South East Grant </a></li>
 			</ul>																																															</div></li>
 	<li><input type="checkbox" id="accordion6">
-		<label for="accordion6">About CIB Awards and CIB Ambassador Awards</label><div>
-		<p>If you are looking to further heighten your horticulture skills after your community garden is set up and go beyond your own garden, you may consider participating in <a href="/page-index/programming/cib-awards/">CIB Awards</a> and <a href="/page-index/programming/cib-ambassadors/">CIB Ambassador Awards</a>.</p>
+		<label for="accordion6">About the Community In Bloom Awards and Community In Bloom Ambassadors</label><div>
+		<p>Looking to showcase your garden or see some inspiring award-winners? Check out the <a href="/page-index/programming/cib-awards/">Community In Bloom Awards</a> to see the best Community Gardens in Singapore, and aim to join their ranks!</p>
+		<p>Do you know a Community Gardener that goes above and beyond in educating others and spreading their love for gardening? Nominate them to be a <a href="/page-index/programming/cib-ambassadors/">Community In Bloom Ambassador</a>!</p>
 		</div></li>
 </ul>
