@@ -97,7 +97,7 @@ image: ""
 <section>
 <h4 id="c">C</h4>
 <a class="body" href="/page-index/ornamental-plants/candle-bush/">Candle Bush</a><br>
-<a class="body" href="/page-index/ornamental-plants/coral-bush/">Coral Bush</a><br>
+<a class="body" href="/page-index/ornamental-plants/coral-vine/">Coral Vine</a><br>
 <a class="body" href="/page-index/edible-plants/cranberry-hibiscus/">Cranberry Hibiscus</a><br>
 	 <br><br>
 </section>
