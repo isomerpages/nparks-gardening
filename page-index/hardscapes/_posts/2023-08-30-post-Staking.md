@@ -8,7 +8,7 @@ image: ""
 ---
 <section>
 	<img title="PVC pipes being used as stakes for Lady's-Finger plants. Photo by Jacqueline Chua." src="/images/Hardscapes/Staking_JacChua.jpg">
-	<p>Staking is act of using small support structures to give support to plants, usually climbers, vines, or plants that are tall and unstable. Stakes are different from trellises in that they are usually used to support only one plant, and the plant may not necessarily climb onto the structure like trellises. Staking can be done in various ways with a wide range of materials, but when done properly, it helps your garden plants to look their best and facilitate healthy growth.</p>
+	<p>Staking is act of using small support structures to give support to plants, usually climbers, vines, or plants that are tall and unstable. Stakes are different from <a href="/page-index/hardscapes/trellises/">trellises</a> in that they are usually used to support only one plant, and the plant may not necessarily climb onto the structure like trellises. Staking can be done in various ways with a wide range of materials, but when done properly, it helps your garden plants to look their best and facilitate healthy growth.</p>
 	<p>Plants lean, topple or flop over for various reasons:</p>
 	<ul>
 		<li>Some plants have weaker stems due to a floppy growth habit, stunted growth or <a href="/page-index/plant-problem/etiolation/">etiolation</a></li> 
@@ -26,7 +26,7 @@ image: ""
 	<img title="A cage stake in a large pot, supporting a single climbing plant. Photo by Jacqueline Chua." src="/images/Hardscapes/Trellis_JacChua.jpg">
 	<p><b>Cage staking</b> is where stakes are arranged around the plant like a cage. This can be done with a single piece of chicken wire, or made from wooden planks or bamboo. This staking method is sometimes also referred to as a square or ring trellis. Cage stakes are good for small growing areas as they keep the plant contained in a column, and are particularly useful for plants in large pots. Indeterminate tomatoes are usually grown in cage stakes. </p>
 	<img title="Cucurbit plants supported by string stakes. Photo by Jacqueline Chua." src="/images/Hardscapes/stringtrellis_jacquelinechua.jpg">
-	<p><b>String staking</b> uses strings tied to a frame to keep plants growing upright. The plant can be continually wrapped around or tied to the string as it grows longer. This method of staking is often used to grow large vines like <a href="/page-idex/edible-plants/pumpkin/">Pumpkin</a> in a small space. 
+	<p><b>String staking</b> uses strings tied to a frame to keep plants growing upright. The plant can be continually wrapped around or tied to the string as it grows longer. This method of staking is often used to grow large vines like <a href="/page-index/edible-plants/cucumber/">Cucumbers</a> in a small space. 
 	</p>
 	<br>
 </section>
