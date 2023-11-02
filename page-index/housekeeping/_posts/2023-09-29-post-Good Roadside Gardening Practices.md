@@ -81,9 +81,9 @@ image: /images/Hardscapes/Nim roadside (2).jpg
 				<li><a href="/page-index/ornamental-plants/fairy-washboard">Fairy Washboard</a> (<em>Haworthiopsis limifolia</em>)</li>
 				<li><a href="/page-index/ornamental-plants/mother-of-thousands">Mother of Thousands</a> (<em>Kalanchoe daigremontiana</em>)</li>
 				<li><a href="/page-index/ornamental-plants/lawyers-tongue">Lawyer's Tongue</a> (<em>Gasteria obliqua</em>)</li>
-				<li><a href="/page-index/ornamental-plants/walking-sanseveria">Walking Sanseveria</a> (<em>Dracaena pinguicula</em>)</li>
+				<li><a href="/page-index/ornamental-plants/walking-sansevieria">Walking Sansevieria</a> (<em>Dracaena pinguicula</em>)</li>
 				<li><a href="/page-index/ornamental-plants/peace-lily">Peace Lily</a> (<em>Spathiphyllum wallisii</em>)</li>
-				<li><a href="/page-index/ornamental-plants/wild-pepper">Wild pepper</a> (<em>Piper sarmentosum</em>)</li>
+				<li><a href="/page-index/edible-plants/wild-pepper">Wild pepper</a> (<em>Piper sarmentosum</em>)</li>
 			</ul>
 		</div></li>
 	</ul>
