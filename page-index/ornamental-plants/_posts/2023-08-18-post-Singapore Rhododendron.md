@@ -24,7 +24,7 @@ image: ""
  
 <section> 
   <h4>Sun and soil needs:</h4> 
-  <p>This plant thrives in <a href="/page-index/horticulture-techniques/gauging-light/">4-8 hours of direct or indirect sunlight</a>. Plants do best in <a href="/page-index/horticulture-techniques/soil/">loamy soil</a> at least 30cm deep in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a>. This plant is highly tolerant of <a href="/page-index/horticulture-techniques/waterlogging/">waterlogged</a> soils and can be used in true ground with high clay content, in waterlogged gardens that are prone to flooding, in areas exposed to large amounts of rain, and next to ponds.</p> 
+  <p>This plant thrives in <a href="/page-index/horticulture-techniques/gauging-light/">4-8 hours of direct or indirect sunlight</a>. Plants do best in <a href="/page-index/horticulture-techniques/soil/">loamy soil</a> at least 30cm deep in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a>. This plant is highly tolerant of <a href="/page-index/plant-problems/waterlogging/">waterlogged</a> soils and can be used in true ground with high clay content, in waterlogged gardens that are prone to flooding, in areas exposed to large amounts of rain, and next to ponds.</p> 
 	<br>
 </section>
 
