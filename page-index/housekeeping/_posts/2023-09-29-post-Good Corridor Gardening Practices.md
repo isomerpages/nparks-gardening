@@ -82,7 +82,7 @@ image: /images/Hardscapes/Corridorgarden_JacChua (2).jpg
 				<li><a href="/page-index/ornamental-plants/elephant-bush">Elephant Bush</a> (<em>Portulacaria afra</em>)</li>
 				<li><a href="/page-index/ornamental-plants/fairy-washboard">Fairy Washboard</a> (<em>Haworthiopsis limifolia</em>)</li>
 				<li><a href="/page-index/ornamental-plants/mistletoe-fig/">Mistletoe Fig</a> (<em>Ficus deltoidea</em>)</li>
-				<li><a href="/page-index/ornamental-plants/mexican-hen-and-chicks">Mexican Hen and Chicks</a> (<em>Echeveria spp. and cultivars</em>)</li>
+				<li><a href="/page-index/ornamental-plants/mexican-hen-and-chicks">Mexican Hen and Chicks</a> (<em>Echeveria</em> spp. and cultivars)</li>
 				<li><a href="/page-index/ornamental-plants/mexican-sedum">Mexican Sedum</a> (<em>Sedum mexicanum</em>)</li>
 				<li><a href="/page-index/ornamental-plants/string-of-beads">String of Beads</a> (<em>Curio herreanus</em>)</li>
 			</ul>
