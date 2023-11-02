@@ -38,8 +38,8 @@ image: /images/Biodiversity/earthworm_trueground.jpg
 
 <section>
 	<h4>Millipedes</h4>
-		<img title="Milipedes mating Photo by Victoria Lim." src="/images/Biodiversity/millipedes_victorialim.jpg">
-	<p>These many-legged creatures are often found in parks and gardens that use mulch and compost with a lot of woody material. They are harmless, but they can produce an unpleasant smell if startled.</p>
+		<img title="A millipede on a plant pot. Photo by Jacqueline Chua." src="/images/Biodiversity/millipede_3_jacquelinechua.jpg">
+	<p>These many-legged creatures are often found in parks and gardens that use <a href="/page-index/horticulture-techniques/mulching/">mulch</a> and <a href="/page-index/horticulture-techniques/composting/">compost</a> with a lot of woody material. They are harmless, but they can produce an unpleasant smell if startled.</p>
 	<p>Another decomposer, millipedes eat decaying wood and leaf litter. Their eggs can sometimes be brought into a garden via unheated <a href="/page-index/horticulture-techniques/composting/">compost</a> or in <a href="/page-index/horticulture-techniques/mulching/">woody mulch</a>. Adults usually appear during the wet season.</p>
 	<p>Millipedes are generally not considered a pest, although their waste products can cause burns on young leafy vegetables if they are present in a garden in high numbers. Millipedes can be removed by hand, and their population controlled by using less woody material in the garden.</p>
 	<p>Download a Research Technical Note on Millipedes in Singapore <a href="https://www.nparks.gov.sg/-/media/cuge/pdf/rtn-11-2012---urban-millipedes-in-singapore.ashx">here</a>.</p>
