@@ -11,7 +11,7 @@ image: ""
 </header>
 
 <section>
-	<p><strong>Other common names:</strong>Mother-of-Millions, Bryophyllum</p>
+	<p><strong>Other common names: </strong>Mother-of-Millions, Bryophyllum</p>
 	<br>
 </section>
 
