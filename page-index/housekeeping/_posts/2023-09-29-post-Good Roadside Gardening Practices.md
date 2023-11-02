@@ -60,8 +60,8 @@ image: /images/Hardscapes/Nim roadside (2).jpg
 				<li><a href="/page-index/ornamental-plants/burros-tail">Burro's Tail</a> (<em>Sedum morganianum</em>)</li>
 				<li><a href="/page-index/ornamental-plants/elephant-bush">Elephant Bush</a> (<em>Portulacaria afra</em>)</li>
 				<li><a href="/page-index/edible-plants/lemongrass">Lemongrass</a> (<em>Cymbopogon citratus</em>)</li>
-				<li><a href="/page-index/ornamental-plants/sunflower">Sunflower</a> (<em>Helianthus annus</em>)</li>
-				<li><a href="/page-index/ornamental-plants/bamboo-orchid">Bamboo orchid</a></li>
+				<li><a href="/page-index/edible-plants/sunflower">Sunflower</a> (<em>Helianthus annus</em>)</li>
+				<li><a href="/page-index/ornamental-plants/bamboo-orchid">Bamboo orchid</a> (<em>Arundina graminifolia</em>)</li>
 				<li><a href="/page-index/ornamental-plants/globe-amaranth">Globe Amaranth</a> (<em>Gomphrena globose</em>)</li>
 				<li><a href="/page-index/ornamental-plants/rose-myrtle">Rose Myrtle</a> (<em>Rhodomyrtus tomentosa</em>)</li>
 				<li><a href="/page-index/ornamental-plants/singapore-rhododendron">Singapore Rhododendron</a> (<em>Melastoma malathericum</em>)</li>
