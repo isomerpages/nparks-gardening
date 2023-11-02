@@ -8,7 +8,7 @@ image: ""
 ---
 <section>
 	<img title="A community Garden with tall planter beds. Photo by Jacqueline Chua." src="/images/Garden%20design/OpenGarden_JacChua.jpg">
-	<p>Planter beds are structures that hold soil above ground level. When built well, planter beds will have better drainage than <a href="/page-index/horticulture-techniques/true-ground/">true ground</a> as they sit above the water table, making them appealing options for gardening in Singapore, which has naturally <a href="##### /page-index/horticulture-techniques/soil/">clayey</a> and <a href="/page-index/plant-problems/waterlogging/">waterlogged</a> soil. Planter beds can also be built tall enough to reduce the need for bending or squatting while gardening, or even be modified for wheelchair users to access.</p>
+	<p>Planter beds are structures that hold soil above ground level. When built well, planter beds will have better drainage than <a href="/page-index/horticulture-techniques/true-ground/">true ground</a> as they sit above the water table, making them appealing options for gardening in Singapore, which has naturally <a href="/page-index/horticulture-techniques/soil/">clayey</a> and <a href="/page-index/plant-problems/waterlogging/">waterlogged</a> soil. Planter beds can also be built tall enough to reduce the need for bending or squatting while gardening, or even be modified for wheelchair users to access.</p>
 	<br>
 </section>
 
