@@ -56,7 +56,7 @@ image: /images/Hardscapes/Corridorgarden_JacChua (2).jpg
 			</ul>
 		</div></li>
 		<li><input type="checkbox" id="accordion2">
-		<label for="accordion2">For 4 hours of direct sunlight or 4-8 hours of indirect sunlight</label><div>
+		<label for="accordion2">For less than 4 hours of direct sunlight or 4-8 hours of indirect sunlight</label><div>
 			<ul>
 				<li><a href="/page-index/edible-plants/spearmint">Spearmint</a> (<em>Mentha spicata</em>)</li>
 				<li><a href="/page-index/edible-plants/indian-borage">Indian Borage</a> (<em>Coleus amboinicus</em>)</li>
@@ -88,7 +88,7 @@ image: /images/Hardscapes/Corridorgarden_JacChua (2).jpg
 			</ul>
 		</div></li>
 		<li><input type="checkbox" id="accordion4">
-		<label for="accordion4">For 4 hours of direct sunlight or 4-8 hours of indirect sunlight</label><div>
+		<label for="accordion4">For less than 4 hours of direct sunlight or 4-8 hours of indirect sunlight</label><div>
 			<ul>
 				<li><a href="/page-index/ornamental-plants/african-violet">African Violet</a> (<em>Streptocarpus ionanthus</em>)</li>
 				<li><a href="/page-index/ornamental-plants/devils-ivy/">Devil's Ivy</a> (<em>Epipremnum aureum</em>)</li>
