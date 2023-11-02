@@ -9,12 +9,7 @@ image: ""
 <header> 
 	<h3>Flame Violet (<em>Episcia cupreata</em>)</h3> 
 </header> 
- 
-<section> 
-	<p><strong>Other common names:</strong> -</p> 
-	<br> 
-</section> 
- 
+
 <section> 
 	<img title="Photo by Jacqueline Chua." src="/images/Plants/Episcia_JacChua.jpg">
 	<p>The Flame Violets are a fast growing, herbaceous creeping shrub with runners that produce plantlets. It has velvety and patterned leaves, often with a copper tinge. It has trumpet-shaped flowers that are bright red and furry in texture, usually blooming for two to three days.</p>
