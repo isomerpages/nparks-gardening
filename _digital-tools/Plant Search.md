@@ -20,4 +20,4 @@ description: ""
 </div>
 
   If the form above is not loaded, you can also fill it in at
-  <a href="https://go.gov.sg/plantsuggester">this link</a>.
+  <a href="https://form.gov.sg/64a65a32921cd400127fbfb2">this link</a>.
