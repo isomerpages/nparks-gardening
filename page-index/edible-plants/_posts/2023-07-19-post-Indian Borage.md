@@ -26,7 +26,7 @@ image: ""
 <section>
 	<h4>Sun and soil needs:</h4>
 	<img title="Photo by Jacqueline Chua" src="/images/Plants/IndianBorage_JacChua%20(2).jpg">
-	<p>As with most herbs, Indian Borage are usually grown in about <a href="/page-index/horticulture-techniques/gauing-light/">4-8 hours of indirect sunlight, or 2-6 hours of direct sunlight</a>. </p>
+	<p>As with most herbs, Indian Borage are usually grown in about <a href="/page-index/horticulture-techniques/gauging-light/">4-8 hours of indirect sunlight, or 2-6 hours of direct sunlight</a>. </p>
 	<p>Plants do best in <a href="/page-index/horticulture-techniques/planting-in-containers/">pots</a> with <a href="/page-index/horticulture-techniques/soil/">loamy soil</a> at least 10cm deep, or in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a>.</p>
 	<p> These plants  are very vulnerable to <a href="/page-index/plant-problems/root-rot">root rot</a>, so ensure that your pots drain well and have plenty of <a href="/page-index/horticulture-techniques/soil-amendments/">inorganic soil amendments. </a></p>
 	<br>
@@ -39,7 +39,7 @@ image: ""
 
 <section>
 	<h4>Harvesting:</h4>
-	<p><a href="/page-index/plant-problems/harvesting-hygiene/">Plants can be harvested for young leaves</a> at any time. They are typically harvested continuously via the <a href="/page-index/horticulture-techniques/cut-and-come-again">cut-and-come-again method</a>.</p>
+	<p><a href="/page-index/horticulture-techniques/harvesting-hygiene/">Plants can be harvested for young leaves</a> at any time. They are typically harvested continuously via the <a href="/page-index/horticulture-techniques/cut-and-come-again">cut-and-come-again method</a>.</p>
 	<br>
 </section>
 
