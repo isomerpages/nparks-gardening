@@ -19,7 +19,7 @@ image: ""
 	<img title="Turks turban plant. Photo by Jacqueline Chua." src="/images/Plants/turkturban'%20(1)_jacquelinechua.jpg">
 	<p>Turk’s Turbans are large, hardy, <a href="/learn-more-about-gardening/glossary/#f">free-flowering</a> shrubs that are commonly seen in roadside gardens, perimeter planting and biodiversity-attracting gardens. The nectar-filled flowers are highly attractive to nectivorous birds.</p>
 	<p>As large and woody <a href="/learn-more-about-gardening/glossary/#p">perennial</a> bush, this plant is a staple in perimeter planting, biodiversity-attracting gardens, and low-maintenance beds.</p>
-	<p>This plant is part of the Malvaceae or Hibiscus family, which includes other plants like <a href="/page-index/edible-plants/ladys-finger/">Lady’s-Finger</a> and <a href="/page-index/ornamental-plants/cranberry-hibiscus/">Cranberry Hibiscus</a>.</p>
+	<p>This plant is part of the Malvaceae or Hibiscus family, which includes other plants like <a href="/page-index/edible-plants/ladys-finger/">Lady’s-Finger</a> and <a href="/page-index/edible-plants/cranberry-hibiscus/">Cranberry Hibiscus</a>.</p>
 	 <br> 
 </section> 
  
