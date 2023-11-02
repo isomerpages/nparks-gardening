@@ -18,7 +18,7 @@ image: ""
 <section>
 	<img title="Mistletoe Fig fruits. Photo by Victoria Lim." src="/images/Plants/mistletoefig%20(1)_victorialim.jpg">
 	<p>Mistletoe Figs are a small, hardy free-fruiting shrub that is commonly seen in rewilding areas, nature parks, in roadside gardens, and biodiversity-attracting gardens. The fruits are attractive to birds and small mammals. This plant is also native to Singapore and is naturally found growing along scrub and areas with sandy soil.</p>
-	<p>A <a href="/learn-more-about-gardening/glossary/#p">perennial</a> shrub, Mistletoe Figs are useful as <a href="/page-index/glossary/biodiveristy-attracting-plants/">biodiversity-attracting plants</a> and perimeter plants to add a pop of colour to any garden. They are also highly drought resistant and will do well in exposed gardens such as those on rooftops.</p>
+	<p>A <a href="/learn-more-about-gardening/glossary/#p">perennial</a> shrub, Mistletoe Figs are useful as <a href="/page-index/glossary/biodiversity-attracting-plants/">biodiversity-attracting plants</a> and perimeter plants to add a pop of colour to any garden. They are also highly drought resistant and will do well in exposed gardens such as those on rooftops.</p>
 	 <br> 
 </section> 
  
