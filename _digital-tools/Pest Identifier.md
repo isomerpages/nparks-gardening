@@ -4,7 +4,7 @@ permalink: /digital-tools/pestid/
 description: ""
 ---
 <!-- Change the width and height values to suit you best -->
-<iframe style="width: 100%; height: 1000px" src="https://form.gov.sg/64af6893b319a900123c792a" id="iframe"></iframe>
+<iframe style="width: 100%; height: 1500px" src="https://form.gov.sg/64af6893b319a900123c792a" id="iframe"></iframe>
 
 <div style="font-family: Sans-Serif;
     font-size: 12px;
