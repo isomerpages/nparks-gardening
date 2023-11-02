@@ -12,7 +12,7 @@ image: ""
 
 <section> 
 	<img title="Photo by Jacqueline Chua." src="/images/Plants/Episcia_JacChua.jpg">
-	<p>The Flame Violets are a fast growing, herbaceous creeping shrub with runners that produce plantlets. It has velvety and patterned leaves, often with a copper tinge. It has trumpet-shaped flowers that are bright red and furry in texture, usually blooming for two to three days.</p>
+	<p>The Flame Violets are a fast growing, herbaceous creeping shrub with runners that produce plantlets. It has velvety and patterned leaves, often with a copper tinge.Its trumpet-shaped flowers are bright red and furry in texture, usually blooming for two to three days.</p>
 	<p>A <a href="/learn-more-about-gardening/glossary/#p">perennial</a> flower, Flame Violets are great for <a href="/page-index/housekeeping/good-corridor-gardening-practices/">corridor</a>, indoor, or shady gardens. Different cultivars have different leaf and flower colours. Due to its creeping nature, it looks beautiful in hanging baskets. It is also suitable for terrariums.</p>
 	 <br> 
 </section> 
