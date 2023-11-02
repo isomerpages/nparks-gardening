@@ -45,6 +45,6 @@ image: ""
 <section> 
   <h4>Common problems &amp; solutions:</h4> 
 	<p>Burro's Tail plants are usually quite resistant to pests if kept healthy.</p>
-	<p><a href="/page-index/pests/aphids/">Aphids</a>, <a href="/page-index/pests/scale-insects/">scale insects</a> and <a href="/page-index/pests/spider-mites/">Spider mites</a>  often infest the plant if it has <a href="/learn-more-about-gardening/plant-problems/">underlying problems</a> like root rot. <a href="/horticulture-techniques/pest-control/">Mechanical pest control</a> methods like <a href="/page-index/horticulture-techniques/pruning/">pruning</a> the infested parts are the best methods for managing these pests in the short term, but resolving the underlying problem will prevent them in the long term.</p>
+	<p><a href="/page-index/pests/aphids/">Aphids</a>, <a href="/page-index/pests/scale-insects/">Scale Insects</a> and <a href="/page-index/pests/spider-mites/">Spider Mites</a>  often infest the plant if it has <a href="/learn-more-about-gardening/plant-problems/">underlying problems</a> like root rot. <a href="/page-index/horticulture-techniques/pest-control/">Mechanical pest control</a> methods like <a href="/page-index/horticulture-techniques/pruning/">pruning</a> the infested parts are the best methods for managing these pests in the short term, but resolving the underlying problem will prevent them in the long term.</p>
 	<br> 
 </section>
