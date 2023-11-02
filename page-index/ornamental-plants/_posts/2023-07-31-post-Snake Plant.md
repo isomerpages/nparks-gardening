@@ -24,7 +24,7 @@ image: ""
  
 <section> 
   <h4>Sun and soil needs:</h4> 
-  <p>This plant thrives in <a href="/page-index/horticulture-techniques/gauging-light/">at least 2 hours of direct sunlight or with a minimum of 4 hours of indirect sunlight</a>. Plants do best in <a href="/page-index/horticulture-techniques/planting-in-containers/">pots</a> with <a href="/page-index/horticulture-techniques/soil/">loamy or sandy soil</a> at least 10cm deep, or in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a>..</p> 
+  <p>This plant thrives in <a href="/page-index/horticulture-techniques/gauging-light/">at least 2 hours of direct sunlight or with a minimum of 4 hours of indirect sunlight</a>. Plants do best in <a href="/page-index/horticulture-techniques/planting-in-containers/">pots</a> with <a href="/page-index/horticulture-techniques/soil/">loamy or sandy soil</a> at least 10cm deep, or in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a>.</p> 
 	<br>
 </section>
 
