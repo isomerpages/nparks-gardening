@@ -22,7 +22,7 @@ image: /images/Garden design/KimTianWest_JacChua (1).jpg
 	.box{
 		border: solid 1px #215732;
 		background: #215732;
-		border-radius: 5px;
+		border-radius: 10px;
 		padding: 10px;
 </style>
 
