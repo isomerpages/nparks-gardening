@@ -38,7 +38,7 @@ image: /images/Gardeners/Posing (10).jpg
 		<li><input type="checkbox" id="accordion3">
 		<label for="accordion3">Programme Head</label><div>
 			<ul>
-				<li>Coordinate and organise events to engage the other members of the group, such as visits to farmers’ markets and other gardens, gardening programmes for residents, seniors or school children</li>
+				<li>Coordinate and organise events to engage the other members of the group, such as visits to <a href="/get-involved/events/">gardening events</a> or other <a href="/get-involved/community-gardens/">Community Gardens</a>, or arrange gardening programmes for residents, seniors or school children</li>
 				<li>Communicate with the rest of the group on activities and events</li>
 				<li>Create content for flyers, brochures and social media posts to promote the garden and engage members of the group</li>
 			</ul>
@@ -64,13 +64,7 @@ image: /images/Gardeners/Posing (10).jpg
 <section>
 	<h5>Sustaining interest in gardening</h5>
 	<img src="/images/Gardeners/Outreach%20(2).jpg">
-	<p>Gardeners that learn are gardeners that improve! Scheduling learning journeys to other Community Gardens, attending gardening events, and collaborating with other stakeholders are fun ways to enrich your community’s gardening experience by exposing them to new ideas and techniques. If your community is up for the challenge, they can also consider joining the Community In Bloom Awards to show off their garden, or develop their outreach skills to become a Community In Bloom ambassador.</p>
+	<p>Gardeners that learn are gardeners that improve! Scheduling learning journeys to other <a href="/get-involved/community-gardens/">Community Gardens</a>, attending <a href="/get-involved/events/">gardening events</a>, and collaborating with other stakeholders are fun ways to enrich your community’s gardening experience by exposing them to new ideas and techniques. If your community is up for the challenge, they can also consider joining the <a href="/page-index/programming/cib-awards/">Community In Bloom Awards</a> to show off their garden, or develop their outreach skills to become a <a href="/page-index/programming/cib-ambassadors/">Community In Bloom Ambassador</a>.</p>
 <p>Not sure where to start in learning new gardening topics? Check out our <a href="/learn-more-about-gardening/horticulture-techniques/">Horticulture Techniques</a> pages or use our <a href="/get-involved/community-gardens">Community Garden page</a> to find another garden to visit near you!</p>
-	<br>
-</section>
-
-<section>
-	<h5>Additional resources</h5>
-	<p>For more information on garden management, please download our <a href="https://www.nparks.gov.sg/-/media/nparks-real-content/gardening/community-gardens/start-a-community-garden/a-garden-leader's-guide-for-community-garden-projects/a-garden-leader's-guide-to-community-garden-projects-(public-housing-estates).pdf?la=en">Garden Leader’s Guide series</a>.</p>
 	<br>
 </section>
