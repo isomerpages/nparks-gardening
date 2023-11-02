@@ -34,7 +34,7 @@ image: ""
 <section>
   <h4>Sowing seeds:</h4>
 		<p><a href="/page-index/horticulture-techniques/propagating-by-seed/">Sow seeds</a> individually in a seedling tray filled with potting mix or seedling mix. Lightly mist the soil until damp, once a day. Seeds should sprout within 2 weeks.</p>
-		<p>The seedlings will be vulnerable to high heat and heavy rain and are best kept in a sheltered propagation area or a shaded space with around 4 hours of partial or direct sunlight.</p>
+		<p>The seedlings will be vulnerable to high heat and heavy rain. It is best to kept them in a sheltered propagation area or a shaded space with around 4 hours of partial or direct sunlight.</p>
 		<p>Seeds can be sown directly into pots or the ground around 15-30cm apart. Lightly water the soil until damp, once a day. Seeds should sprout within 10 days.</p>
 	<br>
 </section>
