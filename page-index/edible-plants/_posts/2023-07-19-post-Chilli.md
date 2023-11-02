@@ -28,7 +28,7 @@ image: ""
 	<img title="Immature Chilli fruits. Photo by Jacqueline Chua." src="/images/Plants/Chilli_JacChua%20(2).jpg">
 	<p>This plant does best in <a href="/page-index/horticulture-techniques/gauging-light/">full sun gardens with a minimum of 6 hours of direct sunlight</a>. This plant can also grow with 4-5 hours of direct sunlight and at least 6 hours of indirect sunlight, but will produce less fruits.</p>
 	<p>Plants do best in <a href="/page-index/horticulture-techniques/planting-in-containers/">pots</a> with <a href="/page-index/horticulture-techniques/soil/">loamy soil</a> at least 15cm deep, or in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a>.</p>
-	<p>These plants can get <a href="/page-index/nutrient-deficiencies/nutrient-deficiencies/">blossom end rot</a>, which shows up as dark, sunken blotches at the end of fruits. It is a symptom of a lack of calcium reaching the fruit, which is usually caused by <a href="/page-index/horticulture-techniques/watering/">a lack of water or inconsistent watering</a>. Keep your soil moist but not <a href="/page-index/plant-problems/waterlogging/">waterlogged</a> and take care to water more often during the dry season.</p>
+	<p>These plants can get <a href="/page-index/plant-problems/nutrient-deficiencies/">blossom end rot</a>, which shows up as dark, sunken blotches at the end of fruits. It is a symptom of a lack of calcium reaching the fruit, which is usually caused by <a href="/page-index/horticulture-techniques/watering/">a lack of water or inconsistent watering</a>. Keep your soil moist but not <a href="/page-index/plant-problems/waterlogging/">waterlogged</a> and take care to water more often during the dry season.</p>
 	<br>
 </section>
 
@@ -49,7 +49,7 @@ image: ""
 	
 <section>
 	<h4>Growing:</h4>
-	<p>Chillies will produce more flowers and thus more fruit when fed with fertilisers high in Phosphorus and Potassium. Plants can be <a href="/page-index/horticulture-techniques/fertilising">fertilised</a> once a month after the plant produces its first flower for a fuller crop. </p>
+	<p>Chillies will produce more flowers and thus more fruit when fed with fertilisers high in phosphorus and potassium. Plants can be <a href="/page-index/horticulture-techniques/fertilising">fertilised</a> once a month after the plant produces its first flower for a fuller crop. </p>
 		<p>As with all members of the Nightshade family, this plant is buzz-pollinated and produces the most fruit when <a href="/page-index/biodiversity/pollinators/">bees</a> are around to pollinate it. Growing more <a href="/page-index/glossary/biodiversity-attracting-plants/">bee-attracting plants</a> within the garden will encourage pollination.  </p>
 	<p>Shoot tips can be <a href="/page-index/horticulture-techniques/pruning/">pruned off</a> when the plant is around 30cm tall to encourage branching, with more branches bearing more fruit. </p>
 	<p>It is a good practice to prune regularly and remove dead leaves and stems to improve ventilation and allow light to reach more of the plant. Regular pruning also decreases the likelihood of pests quickly taking over the plant. </p>
