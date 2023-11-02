@@ -17,8 +17,8 @@ image: ""
  
 <section>
 	<img title="A brazilian Tea bush. Photo by Jacqueline Chua." src="/images/Plants/brazilliantea_jacquelinechua.jpg">
-	<p>Brazilian Tea plants are hard hardy <a href="/learn-more-about-gardening/glossary/#f/">free-flowering</a> shrubs that are commonly seen in rewilding areas, nature parks, in roadside gardens, and biodiversity-attracting gardens. The flowers are highly attractive to bees, butterflies, and birds.</p>
-	<p>A <a href="/learn-more-about-gardening/glossary/#p/">perennial</a> shrub, Brazilian Tea plants are useful as <a href="/page-index/glossary/biodiversity-attracting-plants/">biodiversity-attracting plants</a> and perimeter plants to add a pop of colour to any garden.</p>
+	<p>Brazilian Tea plants are hard hardy <a href="/learn-more-about-gardening/glossary/#f">free-flowering</a> shrubs that are commonly seen in rewilding areas, nature parks, in roadside gardens, and biodiversity-attracting gardens. The flowers are highly attractive to bees, butterflies, and birds.</p>
+	<p>A <a href="/learn-more-about-gardening/glossary/#p">perennial</a> shrub, Brazilian Tea plants are useful as <a href="/page-index/glossary/biodiversity-attracting-plants/">biodiversity-attracting plants</a> and perimeter plants to add a pop of colour to any garden.</p>
 	 <br> 
 </section> 
  
@@ -45,6 +45,6 @@ image: ""
 	<p>This plant is relatively resistant to pests and disease if kept healthy.</p>
 	<p>If your plant has few to no flowers, you can fertilise the plant with <a href="/page-index/horticulture-techniques/fertilising/">fertilisers high in phosphorus and potassium</a>.</p>
 	<p>This plant can be considered weedy if left unmanaged. <a href="/page-index/horticulture-techniques/pruning/">Regularly prune</a> the plant to maintain its size and remove accidental seedlings if found.</p>
-<p><a href="/page-index/pests/aphids/">Aphids</a>, <a href="/page-index/pests/mealy-bugs/">Mealy Bugs</a>, and <a href="/page-index/pests/whiteflies/">Whiteflies</a> often infest the plant if it has <a href="/learn-more-about-gardening/plant-problems/">underlying problems</a> like repeated wilting from heat stress. <a href="/horticulture-techniques/pest-control/">Mechanical pest control</a> methods like <a href="/page-index/horticulture-techniques/pruning/">pruning</a> the infested parts are the best methods for managing these pests in the short term, but resolving the underlying problem will prevent them in the long term.</p>
+<p><a href="/page-index/pests/aphids/">Aphids</a>, <a href="/page-index/pests/mealy-bugs/">Mealy Bugs</a>, and <a href="/page-index/pests/whiteflies/">Whiteflies</a> often infest the plant if it has <a href="/learn-more-about-gardening/plant-problems/">underlying problems</a> like repeated wilting from heat stress. <a href="/page-index/horticulture-techniques/pest-control/">Mechanical pest control</a> methods like pruning the infested parts are the best methods for managing these pests in the short term, but resolving the underlying problem will prevent them in the long term.</p>
 	<br> 
 </section>
