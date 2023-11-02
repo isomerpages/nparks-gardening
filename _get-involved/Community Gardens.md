@@ -12,7 +12,7 @@ image: /images/Garden design/KimTianWest_JacChua (1).jpg
 <style>
 	.wrapper {
 		display: grid;
-		grid-template-columns: repeat(auto-fit, 250px);
+		grid-template-columns: repeat(auto-fit, minmax(200px, 250px));
 		grid-template-rows: auto-fit;
 		column-gap: 10px;
 		row-gap: 10px;
