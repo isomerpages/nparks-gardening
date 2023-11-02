@@ -21,7 +21,7 @@ image: ""
 	<img title="A bench under shelter used to propagate seedlings and cuttings. Photo by Jacqueline Chua." src="/images/Hardscapes/PropagationStation_JacChua.jpg">
 	<p><b>Propagation stations</b> are usually small shelters built to protect vulnerable seedlings and cuttings from direct sun and rain. These stations can be standalone or incorporated as part of a larger structure. Propagation stations can have a solid roof, or a simple <a href="/page-index/hardscapes/netting/">netting</a> with fine mesh.</p>  
 		<img title="A propagation station made of PVC pipes and plastic sheets. Photo by Jacqueline Chua." src="/images/Hardscapes/Shelter_JacChua%20(1).jpg">
-	<p><b>Rain shelters</b> are small shelters with solid roofs made of clear plastic that completely protect plants from rain. Plants like <a href="/page-index/edible-plants/tomato/">Tomatoes</a> and <a href="/page-index/edible-plants/chilli/">Chillies</a> often benefit from growing under such shelters as their fruits are vulnerable to rain damage.
+	<p><b>Rain shelters</b> are small shelters with solid roofs made of clear plastic that completely protect plants from rain. Plants like <a href="/page-index/edible-plants/tomato/">Tomato</a> and <a href="/page-index/edible-plants/chilli/">Chilli</a> often benefit from growing under such shelters as their fruits are vulnerable to rain damage.
 	<iframe width="100%" height="415" src="https://www.youtube.com/embed/AYcnBctE27M?si=aiSLJPeQh4RDnSWR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe><br>
 	<br>
 </p></section>
