@@ -11,7 +11,7 @@ image: ""
 	<p>Staking is act of using small support structures to give support to plants, usually climbers, vines, or plants that are tall and unstable. Stakes are different from <a href="/page-index/hardscapes/trellises/">trellises</a> in that they are usually used to support only one plant, and the plant may not necessarily climb onto the structure like trellises. Staking can be done in various ways with a wide range of materials, but when done properly, it helps your garden plants to look their best and facilitate healthy growth.</p>
 	<p>Plants lean, topple or flop over for various reasons:</p>
 	<ul>
-		<li>Some plants have weaker stems due to a floppy growth habit, stunted growth or <a href="/page-index/plant-problem/etiolation/">etiolation</a></li> 
+		<li>Some plants have weaker stems due to a floppy growth habit, stunted growth or <a href="/page-index/plant-problems/etiolation/">etiolation</a></li> 
 		<li>Heavy rain and strong winds can bend stems or cause them to snap</li> 
 		<li>Some plants have inflorescences or fruit that are simply too big and heavy</li> 
 		<li><a href="/page-index/horticulture-techniques/fertilising/">Overfertilising</a> can sometimes lead to weaker stems</li> 
