@@ -8,7 +8,7 @@ image: ""
 ---
 <section>
 	<img title="A community Garden with tall planter beds. Photo by Jacqueline Chua." src="/images/Garden%20design/OpenGarden_JacChua.jpg">
-	<p>Planter beds are structures that hold soil above ground level. When built well, planter beds will have better drainage than true ground, making them appealing options for gardening in Singapore, which has naturally clayey and waterlogged soil. Planter beds can also be built tall enough to reduce the need for bending or squatting while gardening, or even be modified for wheelchair users to access.</p>
+	<p>Planter beds are structures that hold soil above ground level. When built well, planter beds will have better drainage than <a href="/page-index/horticulture-techniques/true-ground/">true ground</a> as they sit above the water table, making them appealing options for gardening in Singapore, which has naturally <a href="##### /page-index/horticulture-techniques/soil/">clayey</a> and <a href="/page-index/plant-problems/waterlogging/">waterlogged</a> soil. Planter beds can also be built tall enough to reduce the need for bending or squatting while gardening, or even be modified for wheelchair users to access.</p>
 	<br>
 </section>
 
@@ -43,7 +43,7 @@ image: ""
 <section>
 	<h4>Planter bed sizes</h4>
 	<img title="Planter bed dimensions. Graphic by NParks." src="/images/planterbed%20sizes.png"> 
-	<p>The size of your planter bed will determine what and how much you can grow in it, along with who can access it. All planter beds should be no wider than 2m to make sure that all sides of the bed are accessible. As a rule of thumb, planter beds higher 900mm or higher will need gardeners to stand next to it, planter beds 04m-0.7m tall are accessible for seated gardeners, and anything below 0.4m will need gardeners to squat. Determining who will use your garden and what you want to plant before you design your garden will help you decide on what planter beds are appropriate </p>
+	<p>The size of your planter bed will determine what and how much you can grow in it, along with who can access it. All planter beds should be no wider than 2m to make sure that all parts of the bed are accessible. As a rule of thumb, planter beds higher 0.9m or higher will need gardeners to stand next to it, planter beds 04m-0.7m tall are accessible for seated gardeners, and anything below 0.4m will need gardeners to squat. Determining who will use your garden and what you want to plant before you design your garden will help you decide on what planter beds are appropriate </p>
 	<ul class="jekyllcodex_accordion">
 	<li><input type="checkbox" id="accordion5">
 		<label for="accordion5">Taller planter beds (900mm or higher)</label><div>
