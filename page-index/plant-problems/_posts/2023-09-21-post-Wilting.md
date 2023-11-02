@@ -16,6 +16,7 @@ image: ""
 	<h4>Symptoms</h4> 
 	<img title="A marigold wilting from prolonged heat stress. Photo by Jacqueline Chua." src="/images/Plant%20problems/Wilting_JacChua.jpg">
 	<p>Leaves will start to fold up and droop, and soft stems will bend over. Flowers may close and droop as well.</p>
+	<p>Repeated wilting will weaken the plant, making it vulnerable to pests like <a href="/page-index/pests/aphids/">Aphids</a>, <a href="/page-index/pests/mealy-bugs/">Mealy Bugs</a>, <a href="/page-index/pests/whiteflies/">Whiteflies</a>, and <a href="/page-index/pests/spider-mites/">Spider Mites</a>. </p>
 	<br>
 </section>
 
