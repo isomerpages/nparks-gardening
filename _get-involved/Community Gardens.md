@@ -10,14 +10,20 @@ description: Community In Bloom (CIB) is a nationwide gardening programme under
 image: /images/Garden design/KimTianWest_JacChua (1).jpg
 ---
 <style>
-		  .button-primary {
-    background-color: #215732;
-    border: 2px solid #215732;
-    padding: 0.5rem 1rem;
-  	border-radius: 1rem;
-    color: white !important;
-	  text-decoration: none !important;
-  }
+	.wrapper {
+		display: grid;
+		grid-template-columns: repeat(auto-fit, 250px);
+		grid-template-rows: auto-fit;
+		column-gap: 10px;
+		row-gap: 10px;
+		text-align: center;
+	}
+
+	.box{
+		border: solid 1px #215732;
+		background: #215732;
+		border-radius: 5px;
+		padding: 10px;
 </style>
 
 <section>
@@ -48,7 +54,10 @@ image: /images/Garden design/KimTianWest_JacChua (1).jpg
 		<img src="/images/Gardeners/Outreach%20(3).jpg">
 		<p>While the starting process will be different depending on where your garden is sited at, a gardening group must first be formed. All community gardens must also be supported by a managing body (for example, a Residents' Committee or Network, Neighbourhood Committee, School or Organisation), and permission from the relevant landowner must be sought. To aid these community efforts, NParks has also published '<a href="https://go.gov.sg/guide-to-design-community-garden">A Guide to Designing and Implementing Community Garden</a>', which is free for all to download.</p>
 		<p>Ready to start a community garden? Fill out the form below and a Community In Bloom staff will get in touch with you!</p>
-		<a class="button-primary" href="https://form.gov.sg/64b78ef1a218a40012387fa4">Start a Community Garden now!</a><br>
+		<div class="wrapper">
+			<a style="text-decoration:none; color: white" href="https://form.gov.sg/64b78ef1a218a40012387fa4"><div class="box">
+				Start a Community Garden now!</div></a>
+		</div>
 	</div></li>
 	<li><input type="checkbox" id="accordion4">
 		<label for="accordion4">What can I do with my Community Garden?</label><div>
