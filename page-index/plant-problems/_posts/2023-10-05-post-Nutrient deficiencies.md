@@ -5,6 +5,7 @@ date: 2023-10-05
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 <section>
 	<iframe width="100%" height="415" src="https://www.youtube.com/embed/dSfJVuVNB0c?si=n0MWx5ESwqZ2Y0xH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
@@ -70,8 +71,8 @@ image: ""
 		</div></li>
 		<li><input type="checkbox" id="accordion10">
 		<label for="accordion10">Iron deficiency: New leaves are pale with dark green veins </label><div>
-			<img title="A Ceylon Spinach with iron deficiency with pale new leaves with green veins. Photo by Jacqueline Chua." src="/images/Plant%20problems/NitrogenDeficient_JacChua%20(2).jpg"> 
-			<p>Iron deficiencies look like magnesium deficiency, but the leaves that are pale with dark green veins are new and generally on the top of the plant. Plants in waterlogged soils will often show signs of iron deficiency, but this is easily remedied by improving soil drainage by mixing in <a href="/page-index/horticulture-techniques/soil-amendments/">organic soil amendments</a> like compost. Occasionally, plants may be growing in alkaline soils with a pH over 7 and will have problems absorbing iron, resulting in the deficiency. This can be remedied by adding more acidic soil amendments like sulphur. </p>
+			<img title="A Javanese Ixora with iron deficiency with pale new leaves with green veins. Photo by Jacqueline Chua." src="/images/Plant%20problems/irondeficiency_2_jacquelinechua.jpg"> 
+			<p>Iron deficiencies look like magnesium deficiency, but the leaves that are pale with dark green veins are new and generally on the top of the plant. Plants in waterlogged soils will often show signs of iron deficiency, but this is easily remedied by improving soil drainage by mixing in <a href="/page-index/horticulture-techniques/soil-amendments/">organic soil amendments</a> like cocopeat. Occasionally, plants may be growing in alkaline soils with a pH over 7 and will have problems absorbing iron, resulting in the deficiency. This can be remedied by adding more acidic soil amendments like sulphur or <a href="/page-index/horticulture-techniques/composting/">compost</a>. </p>
 		</div></li>
 	</ul>
 </section>
