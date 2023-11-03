@@ -46,8 +46,10 @@ variant: markdown
 	<ul class="jekyllcodex_accordion">
 		<li><input type="checkbox" id="accordion5">
 		<label for="accordion5">Nitrogen deficiency: Older leaves or all leaves turn pale yellow</label><div>
-			<img title="A nitrogen deficient Bang Kwang with pale yellow leaves next to a healthy one. Photo by Jacqueline Chua." src="/images/Plant%20problems/nitrogendeficient_vs_jacquelinechua.jpg">
-			<p>Nitrogen deficiencies often show up as plants looking yellowish and leggy despite having enough light, or slow and stunted leaf growth. It can also look like entire leaves turning yellow, with the older leaves at the bottom yellowing first and progressing up the plant to the new leaves at the top. Nitrogen is highly soluble in water, so heavy rains or <a href="/page-index/horticulture-techniques/watering/">overwatering</a> may also cause nitrogen deficiencies as the nitrogen is washed away. However, this deficiency is easily remedied by using <a href="/page-index/horticulture-techniques/fertilising/">fertilisers</a> high in nitrogen, or growing legumes in the same plot as part of <a href="/page-index/horticulture-techniques/companion-planting/">companion planting</a>.</p> 
+			<img title="Nitrogen deficient Xiao Bai Cai with yellow older leaves. Photo by Jacqueline Chua." src="/images/Plant%20problems/etiolation_3_jacquelinechua.jpg">
+			<p>Nitrogen deficiencies often show up as plants looking yellowish and leggy despite having enough light, or slow and stunted leaf growth. It can also look like entire leaves turning yellow, with the older leaves at the bottom yellowing first and progressing up the plant to the new leaves at the top.</p>
+						<img title="A nitrogen deficient Bang Kwang with pale yellow leaves next to a healthy one. Photo by Jacqueline Chua." src="/images/Plant%20problems/nitrogendeficient_vs_jacquelinechua.jpg">
+			<p> Nitrogen is highly soluble in water, so heavy rains or <a href="/page-index/horticulture-techniques/watering/">overwatering</a> may also cause nitrogen deficiencies as the nitrogen is washed away. However, this deficiency is easily remedied by using <a href="/page-index/horticulture-techniques/fertilising/">fertilisers</a> high in nitrogen, or growing legumes in the same plot as part of <a href="/page-index/horticulture-techniques/companion-planting/">companion planting</a>.</p> 
 		</div></li>
 		<li><input type="checkbox" id="accordion6">
 		<label for="accordion6">Phosphorus deficiency: Older leaves have red, purple or bronze patches</label><div>
