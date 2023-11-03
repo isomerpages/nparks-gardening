@@ -13,7 +13,7 @@ variant: markdown
 <style>
 	.wrapper {
 		display: grid;
-		grid-template-columns: repeat(auto-fit, minmax(150px, 250px));
+		grid-template-columns: repeat(auto-fit, minmax(150px, 300px));
 		grid-template-rows: auto-fit;
 		column-gap: 10px;
 		row-gap: 10px;
