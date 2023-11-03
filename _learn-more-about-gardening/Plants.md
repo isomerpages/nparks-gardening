@@ -2,6 +2,7 @@
 title: Plants
 permalink: /learn-more-about-gardening/plants/
 description: ""
+variant: markdown
 ---
 <style>
 	.wrapper {
@@ -46,7 +47,7 @@ description: ""
 			<img style="height:275px; width:275px" src="/images/Graphics/nativeplant_6oct.png"><br>
 		</div></a>
 		<a class="button" href="/page-index/glossary/biodiversity-attracting-plants/"><div class="box">
-			<h4>Biodiversity Attracting Plants</h4>
+			<h4>Biodiversity-Attracting Plants</h4>
 			<img style="height:275px; width:275px" src="/images/Graphics/biodivplant_6oct.png"><br>
 		</div></a>
 	</div>

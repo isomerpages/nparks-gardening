@@ -5,6 +5,7 @@ date: 2023-10-05
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 <section>
 	<iframe width="100%" height="415" src="https://www.youtube.com/embed/dSfJVuVNB0c?si=n0MWx5ESwqZ2Y0xH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
@@ -45,8 +46,10 @@ image: ""
 	<ul class="jekyllcodex_accordion">
 		<li><input type="checkbox" id="accordion5">
 		<label for="accordion5">Nitrogen deficiency: Older leaves or all leaves turn pale yellow</label><div>
-			<img title="A nitrogen deficient Bang Kwang with pale yellow leaves next to a healthy one. Photo by Jacqueline Chua." src="/images/Plant%20problems/nitrogendeficient_vs_jacquelinechua.jpg">
-			<p>Nitrogen deficiencies often show up as plants looking yellowish and leggy despite having enough light, or slow and stunted leaf growth. It can also look like entire leaves turning yellow, with the older leaves at the bottom yellowing first and progressing up the plant to the new leaves at the top. Nitrogen is highly soluble in water, so heavy rains or <a href="/page-index/horticulture-techniques/watering/">overwatering</a> may also cause nitrogen deficiencies as the nitrogen is washed away. However, this deficiency is easily remedied by using <a href="/page-index/horticulture-techniques/fertilising/">fertilisers</a> high in nitrogen, or growing legumes in the same plot as part of <a href="/page-index/horticulture-techniques/companion-planting/">companion planting</a>.</p> 
+			<img title="Nitrogen deficient Xiao Bai Cai with yellow older leaves. Photo by Jacqueline Chua." src="/images/Plant%20problems/etiolation_3_jacquelinechua.jpg">
+			<p>Nitrogen deficiencies often show up as plants looking yellowish and leggy despite having enough light, or slow and stunted leaf growth. It can also look like entire leaves turning yellow, with the older leaves at the bottom yellowing first and progressing up the plant to the new leaves at the top.</p>
+						<img title="A nitrogen deficient Bang Kwang with pale yellow leaves next to a healthy one. Photo by Jacqueline Chua." src="/images/Plant%20problems/nitrogendeficient_vs_jacquelinechua.jpg">
+			<p> Nitrogen is highly soluble in water, so heavy rains or <a href="/page-index/horticulture-techniques/watering/">overwatering</a> may also cause nitrogen deficiencies as the nitrogen is washed away. However, this deficiency is easily remedied by using <a href="/page-index/horticulture-techniques/fertilising/">fertilisers</a> high in nitrogen, or growing legumes in the same plot as part of <a href="/page-index/horticulture-techniques/companion-planting/">companion planting</a>.</p> 
 		</div></li>
 		<li><input type="checkbox" id="accordion6">
 		<label for="accordion6">Phosphorus deficiency: Older leaves have red, purple or bronze patches</label><div>
@@ -70,8 +73,8 @@ image: ""
 		</div></li>
 		<li><input type="checkbox" id="accordion10">
 		<label for="accordion10">Iron deficiency: New leaves are pale with dark green veins </label><div>
-			<img title="A Ceylon Spinach with iron deficiency with pale new leaves with green veins. Photo by Jacqueline Chua." src="/images/Plant%20problems/NitrogenDeficient_JacChua%20(2).jpg"> 
-			<p>Iron deficiencies look like magnesium deficiency, but the leaves that are pale with dark green veins are new and generally on the top of the plant. Plants in waterlogged soils will often show signs of iron deficiency, but this is easily remedied by improving soil drainage by mixing in <a href="/page-index/horticulture-techniques/soil-amendments/">organic soil amendments</a> like compost. Occasionally, plants may be growing in alkaline soils with a pH over 7 and will have problems absorbing iron, resulting in the deficiency. This can be remedied by adding more acidic soil amendments like sulphur. </p>
+			<img title="A Javanese Ixora with iron deficiency with pale new leaves with green veins. Photo by Jacqueline Chua." src="/images/Plant%20problems/irondeficiency_2_jacquelinechua.jpg"> 
+			<p>Iron deficiencies look like magnesium deficiency, but the leaves that are pale with dark green veins are new and generally on the top of the plant. Plants in waterlogged soils will often show signs of iron deficiency, but this is easily remedied by improving soil drainage by mixing in <a href="/page-index/horticulture-techniques/soil-amendments/">organic soil amendments</a> like cocopeat. Occasionally, plants may be growing in alkaline soils with a pH over 7 and will have problems absorbing iron, resulting in the deficiency. This can be remedied by adding more acidic soil amendments like sulphur or <a href="/page-index/horticulture-techniques/composting/">compost</a>. </p>
 		</div></li>
 	</ul>
 </section>

@@ -3,6 +3,7 @@ title: Plant Problems
 permalink: /learn-more-about-gardening/plant-problems/
 description: Learn more about pests and other plant problems here.
 image: /images/Plant problems/NitrogenDeficient_JacChua (3).jpg
+variant: markdown
 ---
 <style>
 	.wrapper {
@@ -21,11 +22,11 @@ image: /images/Plant problems/NitrogenDeficient_JacChua (3).jpg
 </style>
 
 <header>
-	<h3>Pests</h3>
+	<h3>Plant Pests</h3>
 </header>
 
 <section>
-	<p><a href="/page-index/pests/pests">Pests</a> come in various shapes and sizes, and their mode of damage to plants varies as well. Learning about pests is the first step to managing them.</p>
+	<p><a href="/page-index/pests/pests">Plant Pests</a> come in various shapes and sizes, and their mode of damage to plants varies as well. Learning about pests is the first step to managing them.</p>
 	<br>
 </section>
 

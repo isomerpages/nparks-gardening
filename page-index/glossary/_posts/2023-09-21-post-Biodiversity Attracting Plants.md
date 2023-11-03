@@ -5,6 +5,7 @@ date: 2023-09-21
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 <style>
 	a:link.body, a:visited.body {
@@ -85,7 +86,6 @@ image: ""
 <section>
 <h4 id="b">B</h4>
 <a class="body" href="/page-index/ornamental-plants/bamboo-orchid/">Bamboo Orchid</a><br>
-<a class="body" href="/page-index/edible-plants/bang-kwang/">Bang Kwang</a><br>
 <a class="body" href="/page-index/edible-plants/bottle-gourd/">Bottle Gourd</a><br>
 <a class="body" href="/page-index/ornamental-plants/brazilian-tea/">Brazilian Tea</a><br>
 <a class="body" href="/page-index/edible-plants/butterfly-pea/">Butterfly Pea</a><br>
@@ -183,7 +183,7 @@ image: ""
 <section>
 <h4 id="r">R</h4>
 <a class="body" href="/page-index/ornamental-plants/red-leea/">Red Leea</a><br>
-<a class="body" href="/page-index/ornamental-plants/river-tarenna/">River tarenna</a><br>
+<a class="body" href="/page-index/ornamental-plants/river-tarenna/">River Tarenna</a><br>
 <a class="body" href="/page-index/ornamental-plants/rose-myrtle/">Rose Myrtle</a><br>
 	<br><br>
 </section>

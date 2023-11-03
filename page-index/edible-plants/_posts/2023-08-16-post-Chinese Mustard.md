@@ -20,7 +20,7 @@ image: ""
 	<p>Chinese Mustard is a resilient crop that is great for beginners. Both its leaves and seeds pack a spicy kick, which make them relatively pest resilient and an interesting vegetable to grow in your edible garden. Leaves can be eaten raw in salads or added to soup, and sprouted seeds are eaten as <a href="/page-index/horticulture-techniques/microgreens/">microgreens</a>.</p>
 	<p>An <a href="/learn-more-about-gardening/glossary/#a">annual</a> crop, this plant is often grown and consumed under 2 months. Its rapid harvest cycle makes it useful for <a href="/page-index/horticulture-techniques/crop-rotation/">crop rotation</a>.</p>
 	<p>Due to its shallow root system, these plants are a popular choice for <a href="/page-index/horticulture-techniques/planting-in-containers/">container gardening</a> and corridor gardening.</p>
-	<p>Chinese Mustard is part of the Brassica or cabbage family, which also includes other popular vegetables like <a href="/page-index/edible-plants/cai-xin/">Cai Xin</a> and <a href="/page-index/edibles-plants/kai-lan/">Kai Lan</a>. 
+	<p>Chinese Mustard is part of the Brassica or cabbage family, which also includes other popular vegetables like <a href="/page-index/edible-plants/cai-xin/">Cai Xin</a> and <a href="/page-index/edible-plants/kai-lan/">Kai Lan</a>. 
 </p>
   <br> 
 </section> 

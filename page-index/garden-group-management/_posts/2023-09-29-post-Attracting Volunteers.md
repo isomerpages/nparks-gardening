@@ -1,6 +1,6 @@
 ---
 title: Attracting Volunteers
-permalink: /page-index/garden-group-managment/attracting-volunteers/
+permalink: /page-index/garden-group-management/attracting-volunteers/
 date: 2023-09-29
 layout: post
 description: Volunteers are the lifeblood of any Community Garden, so attracting
@@ -9,6 +9,7 @@ description: Volunteers are the lifeblood of any Community Garden, so attracting
   play other roles, such as managing social media or organising logistics for
   learning journeys.
 image: /images/Gardeners/Outreach (7).jpg
+variant: tiptap
 ---
 <style>
 	ol li {

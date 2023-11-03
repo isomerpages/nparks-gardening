@@ -8,11 +8,12 @@ description: Community In Bloom (CIB) is a nationwide gardening programme under
   Gardeners through educational resources like this website, competitions, and
   the CIB Ambassador programme.
 image: /images/Garden design/KimTianWest_JacChua (1).jpg
+variant: markdown
 ---
 <style>
 	.wrapper {
 		display: grid;
-		grid-template-columns: repeat(auto-fit, minmax(150px, 250px));
+		grid-template-columns: repeat(auto-fit, minmax(150px, 350px));
 		grid-template-rows: auto-fit;
 		column-gap: 10px;
 		row-gap: 10px;
@@ -39,7 +40,7 @@ image: /images/Garden design/KimTianWest_JacChua (1).jpg
 		<img title="Community Gardeners working together to check plants for pests. Photo by NParks." src="/images/Gardeners/GeneralMaintainence_JacChua%20(2).jpg">
 		<p>Community In Bloom (CIB) is a nationwide gardening programme under the <a href="https://www.nparks.gov.sg/">National Parks Board (NParks)</a> in Singapore. Since the programme’s inception in 2005, NParks has been actively engendering a gardening culture, a greater sense of civic ownership and community stewardship by facilitating the starting and development of Community Gardens islandwide. CIB provides guidance for Community Garden design, community management and site selection for new community gardens, and supports the educational development of Community Gardeners through educational resources like this website, <a href="/page-index/programming/cib-awards/">competitions</a>, and the <a href="/page-index/programming/cib-ambassadors/">CIB Ambassador programme</a>.</p>
 		<img title="A Community Garden on the roof of a multi-story carpark. Photo by Jacqueline Chua." src="/images/Garden%20design/KimTianWest_JacChua%20(1).jpg">
-		<p>Today, the CIB programme has registered over 1,900 community gardens across Singapore, engaging more than 45,000 gardening enthusiasts from all walks of life and across ages. Community gardens can be found in public and private estates, schools, and organisations. These gardens come in many forms, and serve a wide variety of functions; from edible gardens where the community grows a wide variety of <a href="/page-index/glossary/edible-plants/">edible plant</a> species for either self-consumption or sharing with community, habitat-enhancing gardens where they grow plants to support <a href="/learn-more-about-gardening/garden-biodiversity/">local biodiversity</a>, and ornamental gardens where they showcase expertise like orchid cultivation or bonsai growing. These gardens also support community bonding and other social activities, making them hubs for collaboration for residents, students, teachers, researchers and more.</p> 
+		<p>Today, the CIB programme has registered over 1,900 community gardens across Singapore, engaging more than 45,000 gardening enthusiasts from all walks of life and across ages. Community gardens can be found in public and private estates, schools, and organisations. These gardens come in many forms, and serve a wide variety of functions; from edible gardens where the community grows a wide variety of <a href="/page-index/glossary/edible-plants/">edible plant species</a> for either self-consumption or sharing with community, habitat-enhancing gardens where they grow plants to support <a href="/learn-more-about-gardening/garden-biodiversity/">local biodiversity</a>, and ornamental gardens where they showcase expertise like orchid cultivation or bonsai growing. These gardens also support community bonding and other social activities, making them hubs for collaboration for residents, students, teachers, researchers and more.</p> 
 		<img title="Community Gardeners examining a Lady's-finger plant. Photo by NParks." src="/images/Gardeners/GeneralMaintainence_JacChua%20(12).jpg">
 		<p>In addition to being part of <a href="https://www.nparks.gov.sg/about-us/city-in-nature">NPark’s City In Nature vision</a>, community gardeners are also active participants in other nationwide programmes, including the Gardening with Edibles campaign, in which NParks encouraged the public to grow their own edibles during the pandemic, the Ministry of Sustainability and Environment’s <a href="https://www.greenplan.gov.sg/">Singapore Green Plan</a>, which is a whole-of-nation movement to advance Singapore’s national agenda on sustainable development, and the Singapore Food Authority’s <a href="https://www.ourfoodfuture.gov.sg/30by30/">30 by 30 campaign</a>, which aims to build up Singapore’s agri-food industry’s capability and capacity to sustainably produce 30% of Singapore’s nutritional needs by 2030.</p>
 	</div></li>
@@ -90,10 +91,11 @@ image: /images/Garden design/KimTianWest_JacChua (1).jpg
 		<strong>Gardens in the South East CDC:</strong>
 		<ul>
 			<li><a href="https://southeast.cdc.gov.sg/what-we-do/future-ready/sustainable-living-south-east/"> Sustainable Living @ South East Grant </a></li>
-			</ul>																																															</div></li>
+		</ul>																																															
+	</div></li>
 	<li><input type="checkbox" id="accordion6">
-		<label for="accordion6">About the Community In Bloom Awards and Community In Bloom Ambassadors</label><div>
+	<label for="accordion6">About the Community In Bloom Awards and Community In Bloom Ambassadors</label><div>
 		<p>Looking to showcase your garden or see some inspiring award-winners? Check out the <a href="/page-index/programming/cib-awards/">Community In Bloom Awards</a> to see the best Community Gardens in Singapore, and aim to join their ranks!</p>
 		<p>Do you know a Community Gardener that goes above and beyond in educating others and spreading their love for gardening? Nominate them to be a <a href="/page-index/programming/cib-ambassadors/">Community In Bloom Ambassador</a>!</p>
-		</div></li>
+	</div></li>
 </ul>

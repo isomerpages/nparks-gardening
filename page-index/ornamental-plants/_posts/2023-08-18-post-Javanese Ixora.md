@@ -5,6 +5,7 @@ date: 2023-08-18
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 <header> 
 	<h3>Javanese Ixora (<em>Ixora javanica</em>)</h3> 
@@ -45,9 +46,10 @@ image: ""
 <section> 
   <h4>Common problems &amp; solutions:</h4> 
 	<p>This plant is relatively resistant to pests and disease if kept healthy.</p>
+					<img title="A Javanese Ixora with iron deficiency with pale new leaves with green veins. Photo by Jacqueline Chua." src="/images/Plant%20problems/irondeficiency_2_jacquelinechua.jpg"> 
+<p>This plant may show signs of <a href="/page-index/plant-problems/nutrient-deficiencies/">iron deficiency</a> in which new leaves will turn pale yellow with dark green veins. This is usually caused by <a href="/page-index/plant-problems/waterlogging/">waterlogged</a> soil, particularly during the wet season. Improve drainage by mixing in more <a href="/page-index/horticulture-techniques/soil-amendments/"> organic matter</a> or adding a subsoil drain nearby.</p>
 	<p>Javanese Ixoras may look leggy when young. Encourage bushiness with <a href="/page-index/horticulture-techniques/pruning/">regular pruning</a>.</p>
 	<p>If the plant does not receive enough light, it will stop producing flowers. Prune surrounding plants or move the plant to a sunnier spot to promote flower growth.</p>
 	<p><a href="/page-index/pests/mealy-bugs/">Mealy Bugs</a> and <a href="/page-index/pests/scale-insects/">Scale Insects</a> often infest the plant if it has <a href="/learn-more-about-gardening/plant-problems/">underlying problems</a> like waterlogging. <a href="/page-index/horticulture-techniques/pest-control/">Mechanical pest control</a> methods like <a href="/page-index/horticulture-techniques/pruning/">pruning</a> the infested parts are the best methods for managing these pests in the short term, but resolving the underlying problem will prevent them in the long term.</p>
-<p>This plant may show signs of <a href="/page-index/plant-problems/nutrient-deficiencies/">iron deficiency</a> in which new leaves will turn pale yellow with dark green veins. This is usually caused by <a href="/page-index/plant-problems/waterlogging/">waterlogged</a> soil, particularly during the wet season. Improve drainage by mixing in more <a href="/page-index/horticulture-techniques/soil-amendments/"> organic matter</a> or adding a subsoil drain nearby.</p>
 	<br> 
 </section>

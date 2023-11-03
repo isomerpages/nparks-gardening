@@ -9,6 +9,7 @@ description: Managing a community of gardeners is no easy feat. Detailed
   management strategies that can be used to keep volunteers happy and
   productive.
 image: /images/Gardeners/Posing (10).jpg
+variant: tiptap
 ---
 <section>
 	<img src="/images/Gardeners/Posing%20(10).jpg">
