@@ -5,6 +5,7 @@ date: 2023-07-20
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 <header>
 	<h3>Winged Bean (<em>Psophocarpus tetragonolobus</em>)</h3>
@@ -45,7 +46,7 @@ image: ""
 	<h4>Growing:</h4>
 	<p>Bean plants generally do not require much fertilising because they are able to fix their own nitrogen. However, they do benefit from being fed high potassium and phosphorus <a href="/page-index/horticulture-techniques/fertilising/">fertilisers</a> once a month after their first flower to encourage flowering and thus fruiting. </p><p></p>
 	<p>Because the vines will grow on top of each other, it is a good practice to <a href="/page-index/horticulture-techniques/pruning/">prune regularly</a> and remove dead leaves and vines to improve ventilation and allow light to reach more of the plant.</p>
-		<p>As a fast-growing vine, this plant can be grown on the ground or trained up a sturdy <a href="/page-index/hardscapes/trellis/">trellis.</a></p>
+		<p>As a fast-growing vine, this plant can be grown on the ground or trained up a sturdy <a href="/page-index/hardscapes/trellises/">trellis.</a></p>
 	<br>
 </section>
 
