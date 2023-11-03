@@ -5,6 +5,7 @@ date: 2023-08-17
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 <header>
 	<h3>Custard Apple (<em>Annona squamosa</em>)</h3>
@@ -65,6 +66,6 @@ image: ""
 <p><a href="/page-index/pests/aphids/">Aphids</a>, <a href="/page-index/pests/mealy-bugs/">Mealy Bugs</a>, <a href="/page-index/pests/scale-insects/">Scale Insects</a>, and <a href="/page-index/pests/whiteflies/">Whiteflies</a> often infest the plant if it has <a href="/learn-more-about-gardening/plant-problems/">underlying problems</a> like repeated waterlogging. <a href="/page-index/horticulture-techniques/pest-control/">Mechanical pest control</a> methods like <a href="/page-index/horticulture-techniques/pruning/">pruning</a> the infested parts are the best methods for managing these pests in the short term, but resolving the underlying problem will prevent them in the long term.</p>
 	<p> Many plants require <a href="/page-index/biodiversity/pollinators/">pollinators</a> to help them fruit. Bees, butterflies, birds and even beetles transport pollen from one flower to another, pollinating your crops and increasing their fruit yield. Attract some pollinators to your garden by growing <a href="/page-index/glossary/biodiversity-attracting-plants">pollinator-attracting crops</a>.</p> 
 	<p><a href="/page-index/pests/oriental-fruit-flies">Fruit flies</a> can lay eggs in the fruit, resulting in larvae damaging the fruit and creating spots on the skin. Wrap your fruit in <a href="/page-index/hardscapes/netting">netting</a> when it starts to develop from a fertilised flower, ideally after all the petals have dropped off.</p>
-	<p><a href="/page-index/pests/pests/#rodents">Birdsand rodents</a> may eat unripe or ripe fruit. Wrap your fruit in netting when it starts to develop from a fertilised flower, ideally after all the petals have dropped off.</p>
+	<p><a href="/page-index/pests/pests/#rodents">Birds and rodents</a> may eat unripe or ripe fruit. Wrap your fruit in netting when it starts to develop from a fertilised flower, ideally after all the petals have dropped off.</p>
 	<br>
 </section>
