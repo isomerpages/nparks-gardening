@@ -12,7 +12,7 @@ variant: markdown
 </header>
 
 <section>
-	<img title="Mealy Bugs clustering along a stem. Photo by Plant Science and Health, NParks." src="/images/Biodiversity/mealybug%20(3)_plantscienceandhealth_nparks.jpg">
+	<img title="Mealy Bugs clustering under a leaf. Photo by Jacqueline Chua." src="/images/Biodiversity/img_9938_jacquelinechua.jpg">
 	<p>Mealy Bugs are small, white soft-bodied insects with a cotton-like covering. The cotton-like covering is waxy and generally chemical-proof, making mealy bugs hard to treat with chemicals or organic pesticides. They are sap-sucking insects that can feed on feed on a variety of plants, and are most often found on stems, on the underside of leaves, and on roots.</p> 
 	<img title="Mealy bugs clustered on a severely affected stem. Photo by Jacqueline Chua." src="/images/Biodiversity/Mealybug_JacChua.jpg">
 	<p>Mealy bugs tend to deposit yellow eggs within a white, cottony, thread-like mass. The young mealy bugs tend to hide themselves in stems crotches, leaf folds and other locations on the plant where water or pesticides cannot reach. This makes infestations hard to remove, making mealy bugs a common reoccurrence in a garden once they establish.</p>
