@@ -5,6 +5,7 @@ description: Need to print out some information to refer to offline? Download
   our brochures, guides and checklists to print for your garden, or for
   reference!
 image: /images/Gardeners/Outreach (3).jpg
+variant: markdown
 ---
 <section>
 <img title="An NParks officer talking to a Community Gardener about gardening brochures. Photo by Jacqueline Chua." src="/images/Gardeners/Outreach%20(3).jpg">
@@ -44,7 +45,7 @@ image: /images/Gardeners/Outreach (3).jpg
 <h4>Gardening guides</h4>
 <ul>
 	<li><a download="" href="/files/gardening%20practices%20to%20prevent%20mosquito%20breeding%20(readable)-1.pdf">Gardening Practices to Prevent Mosquito Breeding</a></li>	
-	<li><a download="" href="[](/files/good%20allotment%20gardening%20practices%20brochure.pdf)">Good Allotment Gardening Practices</a></li>			
+	<li><a download="" href="/files/good%20allotment%20gardening%20practices%20brochure.pdf">Good Allotment Gardening Practices</a></li>			
 	<li><a download="" href="/files/good%20corridor%20gardening%20practices.pdf">Good Corridor Gardening Practices</a></li>		
 	<li><a download="" href="/files/good%20roadside%20gardening%20practices.pdf">Good Roadside Gardening Practices</a></li>	
 	<li><a href="/files/good%20perimeter%20planting%20practices.pdf">Good Perimeter Planting Practices</a></li>			
