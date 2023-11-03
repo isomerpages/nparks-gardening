@@ -24,10 +24,10 @@ variant: markdown
 	<p> As with most pests, Whiteflies generally attack plants that are already unhealthy. Check your plant for additional problems such as <a href="/page-index/plant-problems/root-rot/">root rot</a> from <a href="/page-index/plant-problems/waterlogging/">waterlogging</a>, <a href="/page-index/plant-problems/etiolation/">etiolation</a>, or <a href="/page-index/horticulture-techniques/plant-spacing/">overcrowding</a>.  <a href="/page-index/horticulture-techniques/pest-control/#cultural_control"> Cultural control</a> methods should be implemented to prevent your plants from becoming unhealthy in the first place. </p>
 	<section>
 	<h4>Symptoms</h4>
-	<img title="Sooty mould on a leaf. Photo by Jacqueline Chua." src="/images/Plant%20problems/SootyMold_JacChua.jpg">
+<img title="A leaf covered in black, powdery fungus known as sooty mould. Photo by Jacqueline Chua" src="/images/Plant%20problems/sootmould_armoredscales%20(2)_jacquelinechua.jpg">	
 			<p>Leaves appear sticky, and can become covered in sooty mould.</p>
 		<p>Small flies are seen with white, scale-like masses on th the underside of leaves. The scale-like masses often have a dark center fringed with white, resembling an eye.</p>
-		<p>Leaves turn yellow, and begin to dry out.</p>
+		<p>Leaves turn yellow, and begin to dry out and <a href="/page-index/plant-problems/wilting/">wilt</a>.</p>
 	<br>
 </section>
 	
