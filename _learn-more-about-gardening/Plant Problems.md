@@ -26,7 +26,7 @@ variant: markdown
 </header>
 
 <section>
-	<p><a href="/page-index/pests/pests">Plant Pests</a> come in various shapes and sizes, and their mode of damage to plants varies as well. Learning about pests is the first step to managing them. If you have trouble identifying your pests on your plants, you may try out our pest identifier tool <a href="/digital-tools/pestid/">here</a>!</p>
+	<p><a href="/page-index/pests/pests">Plant Pests</a> come in various shapes and sizes, and their mode of damage to plants varies as well. Learning about pests is the first step to managing them. If you have trouble identifying the pests on your plants, you may try out our pest identifier tool <a href="/digital-tools/pestid/">here</a>!</p>
 	<br>
 </section>
 
