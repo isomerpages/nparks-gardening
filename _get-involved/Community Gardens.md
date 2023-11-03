@@ -91,10 +91,11 @@ variant: markdown
 		<strong>Gardens in the South East CDC:</strong>
 		<ul>
 			<li><a href="https://southeast.cdc.gov.sg/what-we-do/future-ready/sustainable-living-south-east/"> Sustainable Living @ South East Grant </a></li>
-			</ul>																																															</div></li>
+		</ul>																																															
+	</div></li>
 	<li><input type="checkbox" id="accordion6">
-		<label for="accordion6">About the Community In Bloom Awards and Community In Bloom Ambassadors</label><div>
+	<label for="accordion6">About the Community In Bloom Awards and Community In Bloom Ambassadors</label><div>
 		<p>Looking to showcase your garden or see some inspiring award-winners? Check out the <a href="/page-index/programming/cib-awards/">Community In Bloom Awards</a> to see the best Community Gardens in Singapore, and aim to join their ranks!</p>
 		<p>Do you know a Community Gardener that goes above and beyond in educating others and spreading their love for gardening? Nominate them to be a <a href="/page-index/programming/cib-ambassadors/">Community In Bloom Ambassador</a>!</p>
-		</div></li>
+	</div></li>
 </ul>
