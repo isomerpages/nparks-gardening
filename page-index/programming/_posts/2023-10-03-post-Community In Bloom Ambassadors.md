@@ -47,7 +47,7 @@ variant: markdown
 <section>
 	<h4>Meet our New CIB Ambassadors for 2023!</h4>
 	<img src="/images/2023%20cib%20ambassadors%20collage_for%20gardeningsg.jpg">
-	<br>
+	<br><br>
 </section>
 
 <section>
