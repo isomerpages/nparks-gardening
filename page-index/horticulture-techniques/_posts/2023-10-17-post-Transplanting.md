@@ -33,11 +33,11 @@ variant: markdown
 	<ol>
 		 <li>
 			 <img title="A gardener preparing a large pot for transplanting tomato seedlings. Photo by NParks." src="/images/Horti%20techniques/Soil_Mixing_JacChua.jpg">
-			 <p>Make sure that the new planting area, be it a pot, planter bed, or true ground is <a href="/page-index/horticulture-techniques/plant-spacing/">large enough</a> with the appropriate soil depth for the fully-grown plant. Prepare the  <a href="/page-index/horticulture-techniques/soil/">soil</a> and remove <a href="/page-index/horticulture-techniques/weeding/">weeds</a> from the planting area.</p>
+			 <p>Make sure that the new planting area, be it a pot, planter bed, or true ground is <a href="/page-index/horticulture-techniques/plant-spacing/">large enough</a> with the appropriate soil depth for the fully-grown plant. Prepare the  <a href="/page-index/horticulture-techniques/soil/">soil</a> and remove <a href="/page-index/horticulture-techniques/weeding/">weeds</a> from the planting area.</p><br>
 		</li> 
 		<li>
 			<img title="A tomato seedling ready for transplanting. Photo by Jacqueline Chua" src="/images/Horti%20techniques/tomatotransplanting%20(2)_jacquelinechua.jpg">
-			<p>Gently remove the seedling or cutting from its container.</p>
+			<p>Gently remove the seedling or cutting from its container.</p><br>
 		</li>
 		<li>
 			<img title="Tomato seedlings with plenty of white, healthy roots. Photo by Jacqueline Chua." src="/images/Horti%20techniques/transplants_tomato%20(2)_jacquelinechua.jpg">
