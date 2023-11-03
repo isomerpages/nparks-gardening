@@ -183,7 +183,7 @@ variant: markdown
 <section>
 <h4 id="r">R</h4>
 <a class="body" href="/page-index/ornamental-plants/red-leea/">Red Leea</a><br>
-<a class="body" href="/page-index/ornamental-plants/river-tarenna/">River tarenna</a><br>
+<a class="body" href="/page-index/ornamental-plants/river-tarenna/">River Tarenna</a><br>
 <a class="body" href="/page-index/ornamental-plants/rose-myrtle/">Rose Myrtle</a><br>
 	<br><br>
 </section>
