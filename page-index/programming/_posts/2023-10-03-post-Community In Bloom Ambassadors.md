@@ -9,6 +9,7 @@ description: The Community in Bloom (CIB) Ambassador Awards recognises
   introduction in 2008, the Awards have celebrated the efforts of our volunteers
   going above and beyond in contributing to Singapore's gardening movement.
 image: /images/Gardeners/Kids (2).jpg
+variant: markdown
 ---
 <section>
 	<img title="Community In Bloom ambassadors at the Community Garden Festival in 2019. Photo by NParks." src="/images/Gardeners/Posing%20(2).jpg">
@@ -43,6 +44,12 @@ image: /images/Gardeners/Kids (2).jpg
 	<br>
 </section>
 	
+<section>
+	<h4>Meet our New CIB Ambassadors for 2023!</h4>
+	<img src="/images/2023%20cib%20ambassadors%20collage_for%20gardeningsg.jpg">
+	<br><br>
+</section>
+
 <section>
 	<h4>Recipients of Past CIB Ambassador Awards</h4>
 <p></p>
