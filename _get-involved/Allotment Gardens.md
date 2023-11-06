@@ -6,6 +6,7 @@ description: Allotment gardens are common green spaces where aspiring gardeners
   can be found in various parks, the heartlands, private estates and even
   organisations.
 image: /images/Garden design/AllotmentGarden_JacChua (2).jpg
+variant: markdown
 ---
 <style>
 details[open] > summary {
@@ -17,7 +18,7 @@ details[open] > summary {
 
 <p>Allotment gardens are common green spaces where aspiring gardeners can lease gardening plots to hone their skills and grow their own greens. They can be found in various parks, heartlands, private estates and even organisations.</p>
 
-<p>There are now close to 2,200 allotment garden plots across 25 parks and gardens in Singapore. Check out the map below to locate an allotment garden in our parklands near you!</p> 
+<p>There are now over 2,200 allotment garden plots across 26 parks and gardens in Singapore. Check out the map below to locate an allotment garden in our parklands near you!</p> 
 
 <iframe height="415" width="100%" src="https://www.google.com/maps/d/u/1/embed?mid=1apkeSb5QHzODZOp7DdtNxFTa61GSA9U&amp;ehbc=2E312F&amp;noprof=1"></iframe>
 
@@ -48,7 +49,7 @@ details[open] > summary {
 		</details>
 		<details>
 				<summary>How many allotment garden plots are there now, and will the numbers continue to be increased?</summary>	
-				To date, close to 2,200 allotment garden plots have been made available to the community with plans for further expansion.<br>
+				To date, over 2,200 allotment garden plots have been made available to the community with plans for further expansion.<br>
 			<br>In tandem, NParks is working with Town Councils and Grassroot Organisations to provide advice on setting up of allotment gardens in public housing estates so that residents can garden closer to their homes. <br><br>
 		</details>
 		<details>
@@ -75,9 +76,10 @@ details[open] > summary {
 			20. Sembawang Park<br>
 			21. Sengkang Riverside Park<br>
 			22. Tiong Bahru Park<br>
-			23. West Coast Park<br>
-			24. Yishun Park<br>
-			25. Yishun Neighbourhood Park<br>
+			23. Villa Verde Park <br>
+      24. West Coast Park<br>
+			25. Yishun Park<br>
+			26. Yishun Neighbourhood Park<br>
 			<br>
 			</details>
 		</div>
@@ -164,14 +166,14 @@ details[open] > summary {
 			<div>
 			<details>
 				<summary>Can existing gardeners re-apply to continue gardening at their allotment garden plot after the end of the 3-year TOL?</summary>
-				Before the 3-year Temporary Occupation Licence (TOL) expires, existing gardeners who have maintained good gardening etiquette will be contacted by NParks officers to offer them renewal of the 3-year TOL. The terms and conditions and fees for the allotment garden plot may be updated from time to time and allotment gardeners are requested to read the updated terms and conditions of the TOL. <br><br>
+				Before the 3-year Temporary Occupation Licence (TOL) expires, existing gardeners who have maintained good gardening etiquette will be contacted by NParks officers to offer them an additonal 3-years TOL. The terms and conditions and fees for the allotment garden plot may be updated from time to time and allotment gardeners are requested to read the updated terms and conditions of the TOL. <br><br>
 			</details>
 			<details>
 				<summary>What does it mean to maintain good gardening etiquette?</summary>
 				Good gardening etiquette includes keeping the allotment garden plot tidy and clean, maintaining the plants well and keep them pest free, storing all gardening items neatly, ensure all planting structures installed are compliant with terms and conditions, and conducting regularly checks for stagnant water to prevent mosquito breeding. Having a well-kept and maintained allotment garden plot ensures that it is safe and enjoyable for everyone. For more information on good gardening etiquette, check out the <a href="/page-index/housekeeping/">garden housekeeping</a> page. <br><br>
 			</details>
 			<details>
-				<summary>Why are existing gardeners being given the opportunity to renew their gardening plots? Why not keep the existing system of computerised balloting?</summary>
+				<summary>Why are existing gardeners being given the opportunity to continue gardening at their plots? Why not keep the existing system of computerised balloting?</summary>
 We hope to continue fostering a love for gardening by allowing existing gardeners who have maintained good gardening etiquette to renew their allotment garden plots.<br><br>
 			</details>
 		</div>
