@@ -174,7 +174,7 @@ details[open] > summary {
 			</details>
 			<details>
 				<summary>Why are existing gardeners being given the opportunity to continue gardening at their plots? Why not keep the existing system of computerised balloting?</summary>
-We hope to continue fostering a love for gardening by allowing existing gardeners who have maintained good gardening etiquette to renew their allotment garden plots.<br><br>
+We hope to continue fostering a love for gardening by allowing existing gardeners who have maintained good gardening etiquette to continue gardening at their allotment garden plots.<br><br>
 			</details>
 		</div>
 	</li>
@@ -187,8 +187,8 @@ We hope to continue fostering a love for gardening by allowing existing gardener
 				NParks will continue to roll out new allotment garden plots in more parks across Singapore to provide the community with opportunities to garden near their homes. In tandem, we are working closely with agencies, Town Councils and Grassroot Organisations to implement more allotment gardens in areas outside of parklands, as part of efforts to provide allotment gardens closer to residents for their convenience. More details will be released when ready. All this will allow us to continue fostering a love for gardening among Singaporeans and nurturing a community of gardeners.<br><br>
 			</details>
 			<details>
-				<summary>Out of all the allotment garden plots, how many will NParks renew and how many will be given to new gardeners? </summary>
-				Existing gardeners who have maintained good gardening etiquette will be allowed to renew their allotment garden plots. Should they choose not to continue gardening their plots will be released for balloting. NParks will also continue to provide more allotment garden plots in our parks.<br><br>
+				<summary>Out of all the allotment garden plots, how many will NParks reoffer to exsiting gardeners and how many will be opened to new gardeners for balloting? </summary>
+				Existing gardeners who have maintained good gardening etiquette will be reoffered to continue gardening at their allotment garden plots. Should they choose not to continue gardening, their plots will be released for balloting. NParks will also continue to provide more allotment garden plots in our parks.<br><br>
 			</details>
 			<details>
 				<summary>When can new gardeners apply for allotment garden plots? </summary>
