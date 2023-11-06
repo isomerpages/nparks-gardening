@@ -45,7 +45,7 @@ details[open] > summary {
 		<div>
 			<details>
 				<summary>What is an allotment garden?</summary>
-				Allotment gardens are areas located within parks and gardens that house gardening plots available for lease to the community to grow their own plants. With most of the population living in high-rise flats with minimalspace for gardening within their household footprint, these allotment garden plots provide them with further opportunities to garden. <br><br>
+				Allotment gardens are areas located within parks and gardens that house gardening plots available for lease to the community to grow their own plants. With most of the population living in high-rise flats with minimal space for gardening within their household footprint, these allotment garden plots provide them with further opportunities to garden. <br><br>
 		</details>
 		<details>
 				<summary>How many allotment garden plots are there now, and will the numbers continue to be increased?</summary>	
