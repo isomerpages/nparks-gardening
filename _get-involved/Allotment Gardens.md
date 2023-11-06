@@ -89,7 +89,7 @@ details[open] > summary {
 		<div>
 	<details>
 		<summary>Can I plant anything that I like?</summary>
-		All plants and gardening structures should not exceed 1 metre in standing height (measured from soil level in the planter bed). Gardeners are advised not to plant poisonous plants or those with sap as these plants can cause discomfort and are harmful to the public. Plants that are illegal are not allowed to be planted.<br> 
+		All plants and gardening structures should not exceed one (1) metre in standing height (measured from soil level in the planter bed). Gardeners are advised not to plant poisonous plants or those with sap as these plants can cause discomfort and are harmful to the public. Plants that are illegal are not allowed to be planted.<br> 
 		<br>Gardeners are to be mindful of the neighbouring plots when planting up their plots and ensure that their plants do not encroach into the neighbouring plots’ space and walking paths within the parks. Gardeners should keep their space clean and tidy for the safety of all allotment gardeners.<br><br>
 	</details>
 	<details>
@@ -142,7 +142,7 @@ details[open] > summary {
 			</details>
 			<details>
 				<summary>How would applicants know if they are successful? When can I expect to start gardening after applying for a plot?</summary>
-				All successful applicants will receive a Letter of Offer via email from NParks. In this Letter of Offer, we will state the date in which you will be able to start gardening on-site. A Temporary Occupation Licence (TOL) will also be issued to successful applicants in respect of the use of the allotment garden plot.<br><br>
+				All successful applicants will receive a Letter of Offer via email from NParks within three (3) months form the closing date of the application exercise. More information, such as the payment instructions and start date of gardening on-site, will be shared in the Letter. A Temporary Occupation Licence (TOL) will also be issued to successful applicants in respect of the use of the allotment garden plot.<br><br>
 			</details>
 			<details>
 				<summary>Can you call/SMS me back when the allotment plots in the park I am interested in are open for application?</summary>
