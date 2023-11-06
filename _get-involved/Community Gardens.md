@@ -86,7 +86,7 @@ variant: markdown
 		</ul>
 		<strong>Gardens in the South West CDC:</strong>
 		<ul>
-			<li><a href="https://southwest.cdc.gov.sg/what-we-do/for-environment/ecofund/">South West CDC's Eco Fund Plus</a></li>
+			<li><a href="https://southwest.cdc.gov.sg/what-we-do/for-environment/greenspaces/">Green Spaces @ South West</a></li>
 		</ul>
 		<strong>Gardens in the South East CDC:</strong>
 		<ul>

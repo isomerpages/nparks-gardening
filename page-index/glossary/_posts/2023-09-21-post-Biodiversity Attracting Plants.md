@@ -95,7 +95,7 @@ variant: markdown
 <section>
 <h4 id="c">C</h4>
 <a class="body" href="/page-index/ornamental-plants/candle-bush/">Candle Bush</a><br>
-<a class="body" href="/page-index/ornamental-plants/coral-bush/">Coral Vine</a><br>
+<a class="body" href="/page-index/ornamental-plants/coral-vine/">Coral Vine</a><br>
 	 <br><br>
 </section>
 
@@ -190,7 +190,7 @@ variant: markdown
 
 <section>
 <h4 id="s">S</h4>
-<a class="body" href="/page-index/ornamental-plants/scarlet-spiral-flag /">Scarlet Spiral Flag</a><br>
+<a class="body" href="/page-index/ornamental-plants/scarlet-spiral-flag/">Scarlet Spiral Flag</a><br>
 <a class="body" href="/page-index/ornamental-plants/singapore-rhododendron/">Singapore Rhododendron</a><br>
 <a class="body" href="/page-index/edible-plants/smooth-loofah/">Smooth Loofah</a><br>
 <a class="body" href="/page-index/edible-plants/snake-gourd/">Snake Gourd</a><br>
@@ -201,7 +201,7 @@ variant: markdown
 
 <section>
 <h4 id="t">T</h4>
-<a class="body" href="/page-index/ornamental-plants/tonkin-jasmine/">Tonkin Jasmine</a><br>
+<a class="body" href="/page-index/edible-plants/tonkin-jasmine/">Tonkin Jasmine</a><br>
 <a class="body" href="/page-index/edible-plants/torch-ginger/">Torch Ginger</a><br>
 <a class="body" href="/page-index/ornamental-plants/turks-turban/">Turk's Turban</a><br>
 	<br><br>
