@@ -187,7 +187,7 @@ We hope to continue fostering a love for gardening by allowing existing gardener
 				NParks will continue to roll out new allotment garden plots in more parks across Singapore to provide the community with opportunities to garden near their homes. In tandem, we are working closely with agencies, Town Councils and Grassroot Organisations to implement more allotment gardens in areas outside of parklands, as part of efforts to provide allotment gardens closer to residents for their convenience. All this will allow us to continue fostering a love for gardening among Singaporeans and nurturing a community of gardeners.<br><br>
 			</details>
 			<details>
-				<summary>Out of all the allotment garden plots, how many will NParks reoffer to exsiting gardeners and how many will be opened to new gardeners for balloting? </summary>
+				<summary>Out of all the allotment garden plots, how many will NParks reoffer to existing gardeners and how many will be opened to new gardeners for balloting? </summary>
 				Existing gardeners who have maintained good gardening etiquette will be reoffered to continue gardening at their allotment garden plots. Should they choose not to continue gardening, their plots will be released for balloting. NParks will also continue to provide more allotment garden plots in our parks.<br><br>
 			</details>
 			<details>
