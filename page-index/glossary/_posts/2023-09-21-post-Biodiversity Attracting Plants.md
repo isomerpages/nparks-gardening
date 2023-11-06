@@ -201,7 +201,7 @@ variant: markdown
 
 <section>
 <h4 id="t">T</h4>
-<a class="body" href="/page-index/ornamental-plants/tonkin-jasmine/">Tonkin Jasmine</a><br>
+<a class="body" href="/page-index/edible-plants/tonkin-jasmine/">Tonkin Jasmine</a><br>
 <a class="body" href="/page-index/edible-plants/torch-ginger/">Torch Ginger</a><br>
 <a class="body" href="/page-index/ornamental-plants/turks-turban/">Turk's Turban</a><br>
 	<br><br>
