@@ -54,85 +54,87 @@ details[open] > summary {
 		<div>
 			<details>
 				<summary>What is an allotment garden?</summary>
-				Allotment gardens are areas located within parks and gardens that house gardening plots available for lease to the community to grow their own plants. With most of the population living in high-rise flats with minimal space for gardening within their household footprint, these allotment garden plots provide them with further opportunities to garden. <br><br>
+				<p>Allotment gardens are areas located within parks and gardens that house gardening plots available for lease to the community to grow their own plants. With most of the population living in high-rise flats with minimal space for gardening within their household footprint, these allotment garden plots provide them with further opportunities to garden.</p><br>
 		</details>
 		<details>
 				<summary>How many allotment garden plots are there now, and will the numbers continue to be increased?</summary>	
-				To date, over 2,200 allotment garden plots have been made available to the community with plans for further expansion.<br>
-			<br>In tandem, NParks is working with Town Councils and Grassroot Organisations to provide advice on setting up of allotment gardens in public housing estates so that residents can garden closer to their homes. <br><br>
+				<p>To date, over 2,200 allotment garden plots have been made available to the community with plans for further expansion.</p>
+			<p>In tandem, NParks is working with Town Councils and Grassroot Organisations to provide advice on setting up of allotment gardens in public housing estates so that residents can garden closer to their homes. </p><br>
 		</details>
 		<details>
 			<summary>In which parks can allotment gardens be found?</summary>
-			1. Ang Mo Kio Town Garden West<br>
-			2. Aljunied Park<br>
-			3. Bedok Reservoir Park<br>
-			4. Bedok Town Park<br>
-			5. Bishan-Ang Mo Kio Park<br>
-			6. Bukit Gombak Park<br>
-			7. Choa Chu Kang Park<br>
-			8. Clementi Woods Park<br>
-			9. East Coast Park<br>
-			10. HortPark<br>
-			11. Jurong Central Park<br>
-			12. Jurong Lake Gardens<br>
-			13. Kallang Riverside Park<br>
-			14. Kent Ridge Park <br>
-			15. Lower Seletar Reservoir Park<br>
-			16. one-north Park<br>
-			17. Pasir Ris Park<br>
-			18. Punggol Park<br>
-			19. Punggol Waterway Park<br>
-			20. Sembawang Park<br>
-			21. Sengkang Riverside Park<br>
-			22. Tiong Bahru Park<br>
-			23. Villa Verde Park <br>
-      24. West Coast Park<br>
-			25. Yishun Park<br>
-			26. Yishun Neighbourhood Park<br>
+			<ol>
+				<li>Ang Mo Kio Town Garden West</li>
+				<li>Aljunied Park</li>
+				<li>Bedok Reservoir Park</li>
+				<li>Bedok Town Park</li>
+				<li>Bishan-Ang Mo Kio Park</li>
+				<li>Bukit Gombak Park</li>
+				<li>Choa Chu Kang Park</li>
+				<li>Clementi Woods Park</li>
+				<li>East Coast Park</li>
+				<li>HortPark</li>
+				<li>Jurong Central Park</li>
+				<li>Jurong Lake Gardens</li>
+				<li>Kallang Riverside Park</li>
+				<li>Kent Ridge Park</li>
+				<li>Lower Seletar Reservoir Park</li>
+				<li>one-north Park</li>
+				<li>Pasir Ris Park</li>
+				<li>Punggol Park</li>
+				<li>Punggol Waterway Park</li>
+				<li>Sembawang Park</li>
+				<li>Sengkang Riverside Park</li>
+				<li>Tiong Bahru Park</li>
+				<li>Villa Verde Park</li>
+				<li>West Coast Park</li>
+				<li>Yishun Park</li>
+				<li>Yishun Neighbourhood Park</li>
+			</ol>
 			<br>
 			</details>
 		</div>
 	</li>
   <li><input type="checkbox" id="accordion2">
-					<label for="accordion2">Allotment Garden Plot &amp; Amenity Related</label>
+		<label for="accordion2">Allotment Garden Plot &amp; Amenity Related</label>
 		<div>
-	<details>
-		<summary>Can I plant anything that I like?</summary>
-		All plants and gardening structures should not exceed one (1) metre in standing height (measured from soil level in the planter bed). Gardeners are advised not to plant poisonous plants or those with sap as these plants can cause discomfort and are harmful to the public. Plants that are illegal are not allowed to be planted.<br> 
-		<br>Gardeners are to be mindful of the neighbouring plots when planting up their plots and ensure that their plants do not encroach into the neighbouring plots’ space and walking paths within the parks. Gardeners should keep their space clean and tidy for the safety of all allotment gardeners.<br><br>
-	</details>
-	<details>
-		<summary>Can I use pesticides at the allotment garden plot?</summary>
-		Chemical pesticides, herbicides and fungicides are not allowed to be used at the allotment garden plots as they may kill insects, such as bees and wasps, which play an important role in the pollination process of flowering plants. Such chemicals may also spread to other plots and may cause adverse reactions to gardeners tending to other plots or public who visit the plots. <br><br>
-		</details>
 			<details>
-				<summary>Where can I store my tools and gardening related materials?</summary>
-				There is a storage area in each allotment garden planter where tools and other gardening-related materials (e.g. soil, compost) must be kept when not in use. All items stored within the storage area must be kept neatly at all times and not in common spaces or along pathways.<br>
-<br>For Sengkang Riverside Park, there is a separate storage area due to site layout.<br><br>
+				<summary>Can I plant anything that I like?</summary>
+				<p>All plants and gardening structures should not exceed one (1) metre in standing height (measured from soil level in the planter bed). Gardeners are advised not to plant poisonous plants or those with sap as these plants can cause discomfort and are harmful to the public. Plants that are illegal are not allowed to be planted.</p>
+				<p>Gardeners are to be mindful of the neighbouring plots when planting up their plots and ensure that their plants do not encroach into the neighbouring plots’ space and walking paths within the parks. Gardeners should keep their space clean and tidy for the safety of all allotment gardeners.</p><br>
 			</details>
 			<details>
-				<summary>Will NParks provide fencing, security or surveillance at allotment gardens?</summary>
-				Our allotment gardens are located in publicly accessible areas to allow park visitors to appreciate our green spaces and amenities holistically. Gardeners are informed during registration on this. We also inform gardeners upfront that no CCTVs or fencing are to be installed and that a storage box is provided for their tools and gardening materials.<br>
-				<br>NParks would like to remind all park visitors to be considerate and keep our parks a place for everyone to enjoy, by not picking or damaging the plants in the parks including those belonging to the allotment gardeners.<br>
-				<br>However, if there are recurrent reports on incidents of theft or vandalism at particular locations, NParks will consider additional measures to deter such occurrences. These may include putting up more signages at prominent areas of the allotment garden premises to remind public, and/or installation of CCTVs for general park surveillance.<br><br>
-			</details>
-			<details>
-				<summary>Will water and electricity be provided?</summary>
-			Shared water points are available for use at the allotment garden. No electricity will be provided. <br><br>
-			</details>
-			<details>
-				<summary>Will NParks or their contractors help me to maintain the allotment garden plot if I am unable to do so?  Who is responsible/will pay for any mosquito breeding summons?</summary>
-				Allotment gardeners are required, at all times and at your own expense, to maintain the allotment garden plot and its immediate surroundings in a good and presentable condition, including trimming overgrown shrubs, removing weeds, pest-infested plants, dead and damaged plants/products. <br>
-				<br>NParks will also not be responsible for any instances of mosquito breeding detected by the National Environment Agency (NEA) at the allotment garden plots. Allotment gardeners are responsible for taking all precautions and measures to prevent breeding of mosquitoes at their respective allotment garden plots.<br><br>
-			</details>
-			<details>
-				<summary>What if I am unable to maintain my plot for a period of time?</summary>
-				Should an allotment gardener fail to maintain his/her allotment garden plot, and within the time stipulated by NParks, then NParks reserves the right to rescind the licence granted to the allotment gardener. NParks may choose, at its discretion, to allocate the allotment garden plot to another gardener. The registered licensee is solely responsible for the maintenance and upkeep of the allocated allotment garden plot. Assigning the maintenance and/or upkeep of the plot to another person is strictly not allowed.<br><br>
-			</details>
-			<details>
-				<summary>Who can I approach when there is a beehive, rodents or other wildlife present in my plot?</summary>
-				Please contact NParks via this <a href="http://www.nparks.gov.sg/feedback">Feedback Form</a> to seek assistance. For urgent animal-related matters, please call the NParks Animal Response Centre at 1800 476 1600.<br><br>
-			</details>
+				<summary>Can I use pesticides at the allotment garden plot?</summary>
+				<p>Chemical pesticides, herbicides and fungicides are not allowed to be used at the allotment garden plots as they may kill insects, such as bees and wasps, which play an important role in the pollination process of flowering plants. Such chemicals may also spread to other plots and may cause adverse reactions to gardeners tending to other plots or public who visit the plots. </p><br>
+				</details>
+				<details>
+					<summary>Where can I store my tools and gardening related materials?</summary>
+					<p>There is a storage area in each allotment garden planter where tools and other gardening-related materials (e.g. soil, compost) must be kept when not in use. All items stored within the storage area must be kept neatly at all times and not in common spaces or along pathways.</p>
+					<p>For Sengkang Riverside Park, there is a separate storage area due to site layout.</p><br>
+				</details>
+				<details>
+					<summary>Will NParks provide fencing, security or surveillance at allotment gardens?</summary>
+					<p>Our allotment gardens are located in publicly accessible areas to allow park visitors to appreciate our green spaces and amenities holistically. Gardeners are informed during registration on this. We also inform gardeners upfront that no CCTVs or fencing are to be installed and that a storage box is provided for their tools and gardening materials.</p>
+					<p>NParks would like to remind all park visitors to be considerate and keep our parks a place for everyone to enjoy, by not picking or damaging the plants in the parks including those belonging to the allotment gardeners.</p>
+					<p>However, if there are recurrent reports on incidents of theft or vandalism at particular locations, NParks will consider additional measures to deter such occurrences. These may include putting up more signages at prominent areas of the allotment garden premises to remind public, and/or installation of CCTVs for general park surveillance.</p><br>
+				</details>
+				<details>
+					<summary>Will water and electricity be provided?</summary>
+					<p>Shared water points are available for use at the allotment garden. No electricity will be provided.</p><br>
+				</details>
+				<details>
+					<summary>Will NParks or their contractors help me to maintain the allotment garden plot if I am unable to do so?  Who is responsible/will pay for any mosquito breeding summons?</summary>
+					<p>Allotment gardeners are required, at all times and at your own expense, to maintain the allotment garden plot and its immediate surroundings in a good and presentable condition, including trimming overgrown shrubs, removing weeds, pest-infested plants, dead and damaged plants/products.</p>
+					<p>NParks will also not be responsible for any instances of mosquito breeding detected by the National Environment Agency (NEA) at the allotment garden plots. Allotment gardeners are responsible for taking all precautions and measures to prevent breeding of mosquitoes at their respective allotment garden plots.</p><br>
+				</details>
+				<details>
+					<summary>What if I am unable to maintain my plot for a period of time?</summary>
+					<p>Should an allotment gardener fail to maintain his/her allotment garden plot, and within the time stipulated by NParks, then NParks reserves the right to rescind the licence granted to the allotment gardener. NParks may choose, at its discretion, to allocate the allotment garden plot to another gardener. The registered licensee is solely responsible for the maintenance and upkeep of the allocated allotment garden plot. Assigning the maintenance and/or upkeep of the plot to another person is strictly not allowed.</p><br>
+				</details>
+				<details>
+					<summary>Who can I approach when there is a beehive, rodents or other wildlife present in my plot?</summary>
+						<p>Please contact NParks via this <a href="http://www.nparks.gov.sg/feedback">Feedback Form</a> to seek assistance. For urgent animal-related matters, please call the NParks Animal Response Centre at 1800 476 1600.</p><br>
+				</details>
 	</div></li>
 	  <li><input type="checkbox" id="accordion3">
 			<label for="accordion3">Allotment Garden Plot Application Related</label>
