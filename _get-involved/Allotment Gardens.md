@@ -21,6 +21,10 @@ details > summary {
 details > p {
 	margin-left: 22px;
 	}
+
+details > ol li {
+	margin-left: 22px;
+	}
 	
 details[open] > summary {
 	font-weight: 800;
