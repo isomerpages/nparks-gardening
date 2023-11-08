@@ -66,12 +66,12 @@ details[open] > summary {
 		</details>
 		<details>
 				<summary>How many allotment garden plots are there now, and will the numbers continue to be increased?</summary>	
-				<p style="margin-top: 0px">To date, over 2,200 allotment garden plots have been made available to the community with plans for further expansion.</p>
-			<p style="margin-top: 0px">In tandem, NParks is working with Town Councils and Grassroot Organisations to provide advice on setting up of allotment gardens in public housing estates so that residents can garden closer to their homes. </p><br>
+				<p style="margin-top: 5px; margin-bottom: 25px">To date, over 2,200 allotment garden plots have been made available to the community with plans for further expansion.</p>
+			<p style="margin-top: 5px; margin-bottom: 25px">In tandem, NParks is working with Town Councils and Grassroot Organisations to provide advice on setting up of allotment gardens in public housing estates so that residents can garden closer to their homes. </p>
 		</details>
 		<details>
 			<summary>In which parks can allotment gardens be found?</summary>
-			<ol>
+			<ol style="margin-top: 5px; margin-bottom: 25px">
 				<li>Ang Mo Kio Town Garden West</li>
 				<li>Aljunied Park</li>
 				<li>Bedok Reservoir Park</li>
@@ -99,7 +99,6 @@ details[open] > summary {
 				<li>Yishun Park</li>
 				<li>Yishun Neighbourhood Park</li>
 			</ol>
-			<br>
 			</details>
 		</div>
 	</li>
