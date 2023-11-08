@@ -9,6 +9,10 @@ image: /images/Garden design/AllotmentGarden_JacChua (2).jpg
 variant: markdown
 ---
 <style>
+details {
+	cursor: pointer;
+	}
+	
 details[open] > summary {
         font-weight: 800;
         }
