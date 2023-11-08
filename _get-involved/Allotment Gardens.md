@@ -11,7 +11,7 @@ variant: markdown
 <style>
 details {
 	cursor: pointer;
-	width: 500px;
+	width: 845px;
 	}
 	
 details[open] > summary {
