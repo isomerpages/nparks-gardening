@@ -14,8 +14,8 @@ details {
 	}
 	
 details > summary {
-	text-indent:-18px;
-	margin-left:18px;
+	text-indent:-20px;
+	margin-left:20px;
 	}
 	
 details[open] > summary {
