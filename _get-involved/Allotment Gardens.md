@@ -11,12 +11,16 @@ variant: markdown
 <style>
 details {
 	cursor: pointer;
-	width: 845px;
+	}
+	
+details > summary {
+	text-indent:-17px;
+	margin-left:17px;
 	}
 	
 details[open] > summary {
-        font-weight: 800;
-        }
+	font-weight: 800;
+	}
 </style>
 
 <img src="/images/Garden%20design/allotment%20garden%20at%20jurong%20lake%20gardens%20west.jpg">
