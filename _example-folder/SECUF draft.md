@@ -55,11 +55,11 @@ details[open] > summary {
 		</div></li>
 		<li><input type="checkbox" id="accordion4">
 		<label for="accordion4">Eligibilty Criteria</label><div>
-			<p><u>Infrastructure Support Grant</u></p>
+			<p><strong><u>Infrastructure Support Grant</u></strong></p>
 			<p>The Infrastructure Support Grant provides support for the infrastructure costs involved in the establishment of SECUFs. Applicants must have successfully tendered for pre-identified sites* for SECUF usage. Detailed business proposals must be submitted. Proposal must include provision for allotment gardening plots and an outreach plan of a minimum of 500 people per year. Funding amount will be 25% of the infrastructure set up costs incurred by the SE, subjected to fundable items and to a cap of $500,000 per site. Funded SEs will have to maintain and operate the SECUF for an undertaking period of 5 years, and are precluded from further applications within this period.</p>
 			<p><em>*More details on the pre-identified sites will be released soon</em></p>
 			<br>
-			<p><u>Programming Support Grant</u></p>
+			<p><strong><u>Programming Support Grant</u></strong></p>
 			<p>The Programming Support Grant provides funding support for costs incurred in the conducting of hands-on edible gardening workshops for seniors, special needs and low income individuals/ families. Applicants must submit a proposal of their programming plan for at least 120 unique participants per application. Up to 50% of the set up and programming cost can be funded, subjected to fundable items only and a cap of $50,000 per SE. Applicants for the Programming Support Grant must not have tapped onto the same Grant within the past 6 months or before fulfilling the targets of the previous application.</p>
 		</div></li>
 		<li><input type="checkbox" id="accordion5">
@@ -70,8 +70,8 @@ details[open] > summary {
 					<p style="margin-top:10px; margin-bottom:25px">Applicants who are interested in the grant are welcome to fill in a query form <a href="">here</a>.</p>
 					<p>Upon receiving your query, our Manager In-Charge will assess your eligibility and guide you on the application process thereafter. Do note that the application needs to be approved before any works begin, to ensure that the SECUF or programmes qualify for funding.</p>
 					<p>After the application has been approved, applicants will receive a letter of offer from NParks. This letter of offer is valid for 12 months during which the funds will be reserved. The funded infrastructure and gardening programmes must be completed within this period. Do note that the applicant can only commence with their works only upon receiving the letter of offer.</p>
-					<p>Supporting documents for Application of Infrastructure Support Grant</p><p>
-					</p><ul>
+					<p><strong>Supporting documents for Application of Infrastructure Support Grant</strong></p>
+					<ul>
 						<li>The duly completed Application Form</li>
 						<li>Membership letter from the Singapore Centre for Social Enterprise (raiSE)</li>
 						<li>Business proposal, including nature, mode of operation and space layout of all the components of the SECUF, etc.</li>
@@ -81,7 +81,7 @@ details[open] > summary {
 						<li>Employment opportunities for disadvantaged communities (if any)</li>
 						<li>Any other documents as may be requested for by NParks</li>
 					</ul>
-					<p>Supporting documents for Application of Programming Support Grant</p>
+					<p><strong>Supporting documents for Application of Programming Support Grant</strong></p>
 					<ul>
 						<li>The duly completed Application Form</li>
 						<li>Membership letter from the Singapore Centre for Social Enterprise (raiSE)</li>
@@ -97,7 +97,7 @@ details[open] > summary {
 				<summary>Stage 2: Reimbursement</summary>
 					<p style="margin-top:10px; margin-bottom:25px">After the SECUF set up is complete (for Infrastructure Grant), or after you have finished programme delivery (for Programming Grant), a reimbursement form must be submitted for the funding to be disbursed. For Infrastructure Grant, your SECUF has to be functional with outreach and allotment gardening programmes running. A site inspection will also be carried out to verify the set up. Please contact your manager in-charge upon project completion and you will be guided through the reimbursement process.</p>
 					<p><em>**Do note that if the applicant is GST registered, they are not allowed to claim the input tax amount during reimbursement.</em></p>
-					<p>Supporting documents for Reimbursement of Infrastructure Support Grant</p>
+					<p><strong>Supporting documents for Reimbursement of Infrastructure Support Grant</strong></p>
 					<ul>
 						<li>The duly completed Reimbursement Form</li>
 						<li>Membership letter from the Singapore Centre for Social Enterprise (raiSE)</li>
@@ -110,7 +110,7 @@ details[open] > summary {
 						<li>Employment opportunities for disadvantaged communities (if any)</li>
 						<li>Any other documents as may be requested for by NParks</li>
 					</ul>
-					<p>Supporting documents for Reimbursement of Programming Support Grant</p>
+					<p><strong>Supporting documents for Reimbursement of Programming Support Grant</strong></p>
 					<ul>
 						<li>The duly completed Reimbursement Form</li>
 						<li>Membership letter from the Singapore Centre for Social Enterprise (raiSE)</li>
