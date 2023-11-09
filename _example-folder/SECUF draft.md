@@ -5,8 +5,20 @@ variant: markdown
 description: ""
 ---
 <style>
-	details[open] > summary {
-		font-weight: 800;
+	details {
+	cursor: pointer;
+	}
+
+details > p {
+	margin-left: 22px;
+	}
+
+details > ul li {
+	margin-left: 22px;
+	}
+	
+details[open] > summary {
+	font-weight: 800;
 	}
 
 </style>
@@ -80,7 +92,6 @@ description: ""
 					</ul>
 					<p>Upon obtaining our in-principle approval of your successful application, you may proceed with your set up works (for Infrastructure Support Grant) as well as preparation for programme delivery (for Programming Support Grant). Please take note of the documents required during reimbursement stage and keep a good record of the information and documents required. We reserve the right to exclude items for funding if documentation is incomplete or unclear. Once your set up works (for Infrastructure Support Grant) and programming delivery (for Programming Support Grant) is completed, please inform your Manager In-Charge, and you will be guided for the reimbursement process.</p>
 			</details>
-			<br>
 			<details>
 				<summary>Stage 2: Reimbursement</summary>
 					<p>After the SECUF set up is complete (for Infrastructure Grant), or after you have finished programme delivery (for Programming Grant), a reimbursement form must be submitted for the funding to be disbursed. For Infrastructure Grant, your SECUF has to be functional with outreach and allotment gardening programmes running. A site inspection will also be carried out to verify the set up. Please contact your manager in-charge upon project completion and you will be guided through the reimbursement process.</p>
@@ -98,8 +109,9 @@ description: ""
 						<li>Employment opportunities for disadvantaged communities (if any)</li>
 						<li>Any other documents as may be requested for by NParks</li>
 					</ul>
-					<p>Supporting documents for Reimbursement of Programming Support Grant</p><p>
-						</p><li>The duly completed Reimbursement Form</li>
+					<p>Supporting documents for Reimbursement of Programming Support Grant</p>
+					<ul>
+						<li>The duly completed Reimbursement Form</li>
 						<li>Membership letter from the Singapore Centre for Social Enterprise (raiSE)</li>
 						<li>Proof of payments and itemised cost breakdown of the programme delivery and the set up required for the programme</li>
 						<li>A tabulated report of the following information for all the workshops: date and time of workshop, type/name of workshop, targeted community segment, number of participants</li>
@@ -108,7 +120,8 @@ description: ""
 						<li>Dated photographic evidence (Minimum 2 photos for each workshop )
 						</li><li>Photographic evidence of any materials procured as part of the set up required for the programme</li>
 						<li>Any other documents as may be requested for by NParks</li>
-					</details>
+					</ul>
+				</details>
 			</div></li>
 	</ul>
 	<br>
