@@ -47,59 +47,59 @@ variant: markdown
 			<p>There are 2 stages:</p>
 			<details>
 				<summary>Stage 1: Application<summary>
-				<p>Applicants who are interested in the grant are welcome to fill in a query form <a href="">here</a>.</p>
-				<p>Upon receiving your query, our Manager In-Charge will assess your eligibility and guide you on the application process thereafter. Do note that the application needs to be approved before any works begin, to ensure that the SECUF or programmes qualify for funding.</p>
-				<p>After the application has been approved, applicants will receive a letter of offer from NParks. This letter of offer is valid for 12 months during which the funds will be reserved. The funded infrastructure and gardening programmes must be completed within this period. Do note that the applicant can only commence with their works only upon receiving the letter of offer.</p>
- 				<p>Supporting documents for Application of Infrastructure Support Grant</p><p>
-				</p><ul>
-					<li>The duly completed Application Form</li>
-					<li>Membership letter from the Singapore Centre for Social Enterprise (raiSE)</li>
-					<li>Business proposal, including nature, mode of operation and space layout of all the components of the SECUF, etc.</li>
-					<li>A formal document (such as quotation or a receipt) showing the detailed breakdown of the proposed cost of the infrastructure set up</li>
-					<li>Detailed plans for outreach efforts to the community, e.g. calendar of events, types and frequencies of workshops/seminars/webinars, etc.</li>
-					<li>ACRA Business Profile</li>
-					<li>Employment opportunities for disadvantaged communities (if any)</li>
-					<li>Any other documents as may be requested for by NParks</li>
- 				</ul>
-				<p>Supporting documents for Application of Programming Support Grant</p>
-				<ul>
-					<li>The duly completed Application Form</li>
-					<li>Membership letter from the Singapore Centre for Social Enterprise (raiSE)</li>
-					<li>A proposal of the type of programme and its content, target community segment(s) and class size, frequency and period of programme</li>
-					<li>Quotations for the actual programme delivery as well as the set up required</li>
-					<li>ACRA Business Profile</li>
-					<li>Any other documents as may be requested for by NParks</li>
-				</ul>
-				<p>Upon obtaining our in-principle approval of your successful application, you may proceed with your set up works (for Infrastructure Support Grant) as well as preparation for programme delivery (for Programming Support Grant). Please take note of the documents required during reimbursement stage and keep a good record of the information and documents required. We reserve the right to exclude items for funding if documentation is incomplete or unclear. Once your set up works (for Infrastructure Support Grant) and programming delivery (for Programming Support Grant) is completed, please inform your Manager In-Charge, and you will be guided for the reimbursement process.</p>
+					<p>Applicants who are interested in the grant are welcome to fill in a query form <a href="">here</a>.</p>
+					<p>Upon receiving your query, our Manager In-Charge will assess your eligibility and guide you on the application process thereafter. Do note that the application needs to be approved before any works begin, to ensure that the SECUF or programmes qualify for funding.</p>
+					<p>After the application has been approved, applicants will receive a letter of offer from NParks. This letter of offer is valid for 12 months during which the funds will be reserved. The funded infrastructure and gardening programmes must be completed within this period. Do note that the applicant can only commence with their works only upon receiving the letter of offer.</p>
+					<p>Supporting documents for Application of Infrastructure Support Grant</p><p>
+					</p><ul>
+						<li>The duly completed Application Form</li>
+						<li>Membership letter from the Singapore Centre for Social Enterprise (raiSE)</li>
+						<li>Business proposal, including nature, mode of operation and space layout of all the components of the SECUF, etc.</li>
+						<li>A formal document (such as quotation or a receipt) showing the detailed breakdown of the proposed cost of the infrastructure set up</li>
+						<li>Detailed plans for outreach efforts to the community, e.g. calendar of events, types and frequencies of workshops/seminars/webinars, etc.</li>
+						<li>ACRA Business Profile</li>
+						<li>Employment opportunities for disadvantaged communities (if any)</li>
+						<li>Any other documents as may be requested for by NParks</li>
+					</ul>
+					<p>Supporting documents for Application of Programming Support Grant</p>
+					<ul>
+						<li>The duly completed Application Form</li>
+						<li>Membership letter from the Singapore Centre for Social Enterprise (raiSE)</li>
+						<li>A proposal of the type of programme and its content, target community segment(s) and class size, frequency and period of programme</li>
+						<li>Quotations for the actual programme delivery as well as the set up required</li>
+						<li>ACRA Business Profile</li>
+						<li>Any other documents as may be requested for by NParks</li>
+					</ul>
+					<p>Upon obtaining our in-principle approval of your successful application, you may proceed with your set up works (for Infrastructure Support Grant) as well as preparation for programme delivery (for Programming Support Grant). Please take note of the documents required during reimbursement stage and keep a good record of the information and documents required. We reserve the right to exclude items for funding if documentation is incomplete or unclear. Once your set up works (for Infrastructure Support Grant) and programming delivery (for Programming Support Grant) is completed, please inform your Manager In-Charge, and you will be guided for the reimbursement process.</p>
 			</summary></summary></details>
 			<details>
 				<summary>Stage 2: Reimbursement</summary>
-				<p>After the SECUF set up is complete (for Infrastructure Grant), or after you have finished programme delivery (for Programming Grant), a reimbursement form must be submitted for the funding to be disbursed. For Infrastructure Grant, your SECUF has to be functional with outreach and allotment gardening programmes running. A site inspection will also be carried out to verify the set up. Please contact your manager in-charge upon project completion and you will be guided through the reimbursement process.</p>
-				<p><em>**Do note that if the applicant is GST registered, they are not allowed to claim the input tax amount during reimbursement.</em></p><p>
-				</p><p>Supporting documents for Reimbursement of Infrastructure Support Grant</p>
-				<ul>
-					<li>The duly completed Reimbursement Form</li>
-					<li>Membership letter from the Singapore Centre for Social Enterprise (raiSE)</li>
-					<li>Proof of payments for the total set up cost</li>
-					<li>Bill of quantities for the set up</li>
-					<li>As-built drawings of the Community Urban Farm</li>
-					<li>An audited Statement of Accounts by an ACRA-registered external auditor with the stated Terms of References</li>
-					<li>Detailed Plans for outreach efforts to the community, e.g. calendar of events, types and frequencies of workshops/seminars/webinars, etc</li>
-					<li>A letter of undertaking to maintain the funded infrastructure and operate Community Urban Farm for the duration of the Holding Period</li>
-					<li>Employment opportunities for disadvantaged communities (if any)</li>
-					<li>Any other documents as may be requested for by NParks</li>
-				</ul>
-				<p>Supporting documents for Reimbursement of Programming Support Grant</p><p>
-					</p><li>The duly completed Reimbursement Form</li>
-					<li>Membership letter from the Singapore Centre for Social Enterprise (raiSE)</li>
-					<li>Proof of payments and itemised cost breakdown of the programme delivery and the set up required for the programme</li>
-					<li>A tabulated report of the following information for all the workshops: date and time of workshop, type/name of workshop, targeted community segment, number of participants</li>
-					<li>List of participants comprising of the following information: Full name of participants (as per NRIC), last 4 alphanumeric characters of NRIC, age, organisation the participants belong to, community segment involved</li>
-					<li>Supporting documentation from organisation receiving the programming (for organised groups)</li>
-					<li>Dated photographic evidence (Minimum 2 photos for each workshop )
-					</li><li>Photographic evidence of any materials procured as part of the set up required for the programme</li>
-					<li>Any other documents as may be requested for by NParks</li>
-				</details></div></li></ul>
+					<p>After the SECUF set up is complete (for Infrastructure Grant), or after you have finished programme delivery (for Programming Grant), a reimbursement form must be submitted for the funding to be disbursed. For Infrastructure Grant, your SECUF has to be functional with outreach and allotment gardening programmes running. A site inspection will also be carried out to verify the set up. Please contact your manager in-charge upon project completion and you will be guided through the reimbursement process.</p>
+					<p><em>**Do note that if the applicant is GST registered, they are not allowed to claim the input tax amount during reimbursement.</em></p><p>
+					</p><p>Supporting documents for Reimbursement of Infrastructure Support Grant</p>
+					<ul>
+						<li>The duly completed Reimbursement Form</li>
+						<li>Membership letter from the Singapore Centre for Social Enterprise (raiSE)</li>
+						<li>Proof of payments for the total set up cost</li>
+						<li>Bill of quantities for the set up</li>
+						<li>As-built drawings of the Community Urban Farm</li>
+						<li>An audited Statement of Accounts by an ACRA-registered external auditor with the stated Terms of References</li>
+						<li>Detailed Plans for outreach efforts to the community, e.g. calendar of events, types and frequencies of workshops/seminars/webinars, etc</li>
+						<li>A letter of undertaking to maintain the funded infrastructure and operate Community Urban Farm for the duration of the Holding Period</li>
+						<li>Employment opportunities for disadvantaged communities (if any)</li>
+						<li>Any other documents as may be requested for by NParks</li>
+					</ul>
+					<p>Supporting documents for Reimbursement of Programming Support Grant</p><p>
+						</p><li>The duly completed Reimbursement Form</li>
+						<li>Membership letter from the Singapore Centre for Social Enterprise (raiSE)</li>
+						<li>Proof of payments and itemised cost breakdown of the programme delivery and the set up required for the programme</li>
+						<li>A tabulated report of the following information for all the workshops: date and time of workshop, type/name of workshop, targeted community segment, number of participants</li>
+						<li>List of participants comprising of the following information: Full name of participants (as per NRIC), last 4 alphanumeric characters of NRIC, age, organisation the participants belong to, community segment involved</li>
+						<li>Supporting documentation from organisation receiving the programming (for organised groups)</li>
+						<li>Dated photographic evidence (Minimum 2 photos for each workshop )
+						</li><li>Photographic evidence of any materials procured as part of the set up required for the programme</li>
+						<li>Any other documents as may be requested for by NParks</li>
+					</details></div></li></ul>
 			
 		
 	
