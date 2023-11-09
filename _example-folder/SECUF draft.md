@@ -4,6 +4,13 @@ permalink: /example-folder/secuf-draft/
 variant: markdown
 description: ""
 ---
+<style>
+	details[open] > summary {
+		font-weight: 800;
+	}
+
+</style>
+
 <section>
 	<p>Community Urban Farms are gardening hubs that bring the community together through edibles gardening and curated programmes that revolve around it. Activities in Community Urban Farms could include leasing allotment gardening plots for the public to garden, organising workshops and lessons on gardening, community harvest festivals; coordinating the sale/distribution of harvests etc. Gardening together strengthens family and community bonds to build social resilience.</p>
 	<br>
@@ -101,10 +108,9 @@ description: ""
 						<li>Dated photographic evidence (Minimum 2 photos for each workshop )
 						</li><li>Photographic evidence of any materials procured as part of the set up required for the programme</li>
 						<li>Any other documents as may be requested for by NParks</li>
-					</details></div></li></ul>
-			
-		
-	
+					</details>
+			</div></li>
+	</ul>
 	<br>
 </section>
 
