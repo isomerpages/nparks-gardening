@@ -46,7 +46,7 @@ variant: markdown
 		<label for="accordion5">Applcation Procedure</label><div>
 			<p>There are 2 stages:</p>
 			<details>
-				<summary>Stage 1: Application<summary>
+				<summary>Stage 1: Application</summary>
 					<p>Applicants who are interested in the grant are welcome to fill in a query form <a href="">here</a>.</p>
 					<p>Upon receiving your query, our Manager In-Charge will assess your eligibility and guide you on the application process thereafter. Do note that the application needs to be approved before any works begin, to ensure that the SECUF or programmes qualify for funding.</p>
 					<p>After the application has been approved, applicants will receive a letter of offer from NParks. This letter of offer is valid for 12 months during which the funds will be reserved. The funded infrastructure and gardening programmes must be completed within this period. Do note that the applicant can only commence with their works only upon receiving the letter of offer.</p>
@@ -71,7 +71,7 @@ variant: markdown
 						<li>Any other documents as may be requested for by NParks</li>
 					</ul>
 					<p>Upon obtaining our in-principle approval of your successful application, you may proceed with your set up works (for Infrastructure Support Grant) as well as preparation for programme delivery (for Programming Support Grant). Please take note of the documents required during reimbursement stage and keep a good record of the information and documents required. We reserve the right to exclude items for funding if documentation is incomplete or unclear. Once your set up works (for Infrastructure Support Grant) and programming delivery (for Programming Support Grant) is completed, please inform your Manager In-Charge, and you will be guided for the reimbursement process.</p>
-			</summary></summary></details>
+			</details>
 			<details>
 				<summary>Stage 2: Reimbursement</summary>
 					<p>After the SECUF set up is complete (for Infrastructure Grant), or after you have finished programme delivery (for Programming Grant), a reimbursement form must be submitted for the funding to be disbursed. For Infrastructure Grant, your SECUF has to be functional with outreach and allotment gardening programmes running. A site inspection will also be carried out to verify the set up. Please contact your manager in-charge upon project completion and you will be guided through the reimbursement process.</p>
