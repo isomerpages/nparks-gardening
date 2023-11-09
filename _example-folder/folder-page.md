@@ -43,7 +43,7 @@ variant: markdown
 			<p>The Programming Support Grant provides funding support for costs incurred in the conducting of hands-on edible gardening workshops for seniors, special needs and low income individuals/ families. Applicants must submit a proposal of their programming plan for at least 120 unique participants per application. Up to 50% of the set up and programming cost can be funded, subjected to fundable items only and a cap of $50,000 per SE. Applicants for the Programming Support Grant must not have tapped onto the same Grant within the past 6 months or before fulfilling the targets of the previous application.</p>
 		</div></li>
 		<li><input type="checkbox" id="accordion5">
-		<label for="accordion5">Applcation Procedure</label><div>
+		<label for="accordion5">Application Procedure</label><div>
 			<p>There are 2 stages:</p>
 			<details>
 				<summary>Stage 1: Application</summary>
