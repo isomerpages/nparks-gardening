@@ -25,6 +25,7 @@ description: The SECUF Grant encourages Social Enterprises (SEs) to set up and
 		<li>Encourage communities to grow their own edibles as part of an effort to strengthen social resilience and support Singapore’s food resilience 30 by 30 goal</li>
 		<li>Encourage  seniors, special needs and low income individuals/ families to remain purposefully and meaningfully engaged in the community by engaging them with curated gardening programmes</li>
 	</ul>
+	<h5>
 			
 
-</section>
+</h5></section>
