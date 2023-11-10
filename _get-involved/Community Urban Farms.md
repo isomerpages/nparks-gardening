@@ -96,7 +96,7 @@ details[open] > summary {
 			<br>
 			<details>
 				<summary>Stage 2: Reimbursement</summary>
-					<p style="margin-top:10px; margin-bottom:25px">After the SECUF set up is complete (for Infrastructure Grant), or after you have finished programme delivery (for Programming Grant), a reimbursement form must be submitted for the funding to be disbursed. For Infrastructure Grant, your SECUF has to be functional with outreach and allotment gardening programmes running. A site inspection will also be carried out to verify the set up. Please contact your manager in-charge upon project completion and you will be guided through the reimbursement process.</p>
+					<p style="margin-top:10px; margin-bottom:25px">After the SECUF set up is complete (for Infrastructure Grant), or after you have finished programme delivery (for Programming Grant), a reimbursement form** must be submitted for the funding to be disbursed. For Infrastructure Grant, your SECUF has to be functional with outreach and allotment gardening programmes running. A site inspection will also be carried out to verify the set up. Please contact your manager in-charge upon project completion and you will be guided through the reimbursement process.</p>
 					<p><em>**Do note that if the applicant is GST registered, they are not allowed to claim the input tax amount during reimbursement.</em></p>
 					<p><strong>Supporting documents for Reimbursement of Infrastructure Support Grant</strong></p>
 					<ul>
