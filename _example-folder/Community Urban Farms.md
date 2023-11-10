@@ -31,6 +31,7 @@ details[open] > summary {
 
 <section>
 	<h3>Social Enterprise Community Urban Farm (SECUF) Grant</h3>
+	<img src="/images/PXL_20230406_071359052_MP.jpg">
 	<p>The SECUF Grant encourages Social Enterprises (SEs) to set up and operate Community Urban Farms, as well as conduct gardening programmes for seniors, special needs and low-income individuals/families. With their social objectives, SEs are able to impact the community positively. This grant was introduced under the Gardening with Edibles initiative which was launched by NParks in June 2020 to encourage Singaporeans to grow edibles at home as part of Singapore's vision of Growing our City in Nature.
 	</p><ul class="jekyllcodex_accordion">
 		<li><input type="checkbox" id="accordion1">
