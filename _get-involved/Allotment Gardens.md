@@ -49,8 +49,6 @@ details[open] > summary {
 
 <img src="/images/Garden%20design/allotment%20garden%20at%20jurong%20lake%20gardens%20west.jpg">
 
-<p><strong>Applications for allotment garden plots are now open. Please scroll down for more information on how to apply.</strong></p>
-
 <p>Allotment gardens are common green spaces where aspiring gardeners can lease gardening plots to hone their skills and grow their own greens. They can be found in various parks, heartlands, private estates and even organisations.</p>
 
 <p>There are now over 2,200 allotment garden plots across 26 parks and gardens in Singapore. Check out the map below to locate an allotment garden in our parklands near you!</p> 
