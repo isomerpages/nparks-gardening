@@ -68,7 +68,7 @@ details[open] > summary {
 			<p>There are 2 stages:</p>
 			<details>
 				<summary>Stage 1: Application</summary>
-					<p style="margin-top:10px; margin-bottom:25px">Applicants who are interested in the grant are welcome to fill in a query form <a href="">here</a>.</p>
+					<p style="margin-top:10px; margin-bottom:25px">Applicants who are interested in the grant are welcome to fill in a query form <a href="https://form.gov.sg/613ee1537ca28500127562b2">here</a>.</p>
 					<p>Upon receiving your query, our Manager In-Charge will assess your eligibility and guide you on the application process thereafter. Do note that the application needs to be approved before any works begin, to ensure that the SECUF or programmes qualify for funding.</p>
 					<p>After the application has been approved, applicants will receive a letter of offer from NParks. This letter of offer is valid for 12 months during which the funds will be reserved. The funded infrastructure and gardening programmes must be completed within this period. Do note that the applicant can only commence with their works only upon receiving the letter of offer.</p>
 					<p><strong>Supporting documents for Application of Infrastructure Support Grant</strong></p>
