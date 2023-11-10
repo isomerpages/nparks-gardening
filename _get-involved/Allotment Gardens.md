@@ -32,7 +32,7 @@ details[open] > summary {
 	
 .wrapper {
 		display: grid;
-		grid-template-columns: repeat(auto-fit, minmax(150px, 350px));
+		grid-template-columns: repeat(auto-fit, minmax(100px, 150px));
 		grid-template-rows: auto-fit;
 		column-gap: 10px;
 		row-gap: 10px;
@@ -85,55 +85,55 @@ details[open] > summary {
 		<td>1</td>
 		<td>Bedok Reservoir Park</td>
 		<td>46</td>
-		<td>Q2 2024</td>		
+		<td style="text-align:center">Q2 2024</td>		
 	</tr>
 	<tr>
 		<td>2</td>
 		<td>Bishan-Ang Mo Kio Park</td>
 		<td>34</td>
-		<td>Q2 2024</td>
+		<td style="text-align:center">Q2 2024</td>
 	</tr>
 	<tr>
 		<td>3</td>
 		<td>Clementi Woods Park</td>
 		<td>42</td>
-		<td>Q2 2024</td>
+		<td style="text-align:center">Q2 2024</td>
 	</tr>
 	<tr>
 		<td>4</td>
 		<td>HortPark</td>
 		<td>81</td>
-		<td>Q2 2024</td>
+		<td style="text-align:center">Q2 2024</td>
 	</tr>
 	<tr>
 		<td>5</td>
 		<td>Lower Seletar Reservoir (Plot 1)<br>Lower Seletar Reservoir (Plot 2)</td>
 		<td>25<br>15</td>
-		<td>Q2 2024</td>
+		<td style="text-align:center">Q2 2024</td>
 	</tr>
 	<tr>
 		<td>6</td>
 		<td>Punggol Waterway Park</td>
 		<td>63</td>
-		<td>Q1 2024</td>
+		<td style="text-align:center">Q1 2024</td>
 	</tr>
 	<tr>
 		<td>7</td>
 		<td>Villa Verde Park</td>
 		<td>53</td>
-		<td>Q1 2024</td>
+		<td style="text-align:center">Q1 2024</td>
 	</tr>
 	<tr>
 		<td>8</td>
 		<td>West Coast Park (Area 2)</td>
 		<td>48</td>
-		<td>Q2 2024</td>
+		<td style="text-align:center">Q2 2024</td>
 	</tr>
 	<tr>
 		<td>9</td>
 		<td>Yishun Neighbourhood Park</td>
 		<td>20</td>
-		<td>Q1 2024</td>
+		<td style="text-align:center">Q1 2024</td>
 	</tr>
 	</tbody>
 </table>
