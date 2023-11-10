@@ -55,7 +55,7 @@ details[open] > summary {
 			</ul>
 		</div></li>
 		<li><input type="checkbox" id="accordion4">
-		<label for="accordion4">Eligibilty Criteria</label><div>
+		<label for="accordion4">Categories</label><div>
 			<p><u>Infrastructure Support Grant</u></p>
 			<p>The Infrastructure Support Grant provides support for the infrastructure costs involved in the establishment of SECUFs. Applicants must have successfully tendered for pre-identified sites* for SECUF usage. Detailed business proposals must be submitted. Proposal must include provision for allotment gardening plots and an outreach plan of a minimum of 500 people per year. Funding amount will be 25% of the infrastructure set up costs incurred by the SE, subjected to fundable items and to a cap of $500,000 per site. Funded SEs will have to maintain and operate the SECUF for an undertaking period of 5 years, and are precluded from further applications within this period.</p>
 			<p><em>*More details on the pre-identified sites will be released soon</em></p>
