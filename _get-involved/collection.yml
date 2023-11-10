@@ -2,7 +2,6 @@ collections:
   get-involved:
     output: true
     order:
-      - Social Enterprise Community Urban Farm (SECUF) Grant.md
       - Community Gardens.md
       - Allotment Gardens.md
       - Events.md
