@@ -140,5 +140,5 @@ details[open] > summary {
 	
 <section>
 	<h3>Frequently Asked Questions</h3>
-	<p><a href="">Click Here</a> to download the list of Frequently Asked Questions.</p>
+	<p><a href="">Click here</a> to download the list of Frequently Asked Questions.</p>
 </section>
