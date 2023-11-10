@@ -2,6 +2,7 @@ collections:
   get-involved:
     output: true
     order:
+      - Community Urban Farms.md
       - Community Gardens.md
       - Allotment Gardens.md
       - Events.md
