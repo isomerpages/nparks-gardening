@@ -47,8 +47,6 @@ details[open] > summary {
 
 <p>Under NParks’ Allotment Gardening Scheme, each household may apply and ballot for one garden plot at any one location at a time. Each plot consists of a raised planter bed (2.5m x 1m) with soil and a mini storage area for tools and may be leased for a period of up to 3 years at a charge of <b>$57 per year</b> (excluding prevailing GST). </p> 
 
-
-
 <h4>How can I apply for an allotment gardening plot?</h4>
 <p>Interested to lease a plot? Check this webpage on a regular basis for more information on the upcoming plots and registration details.</p> 
 
@@ -140,7 +138,7 @@ details[open] > summary {
 				</details>
 				<details>
 					<summary>Who can I approach when there is a beehive, rodents or other wildlife present in my plot?</summary>
-						<p style="margin-top: 5px; margin-bottom: 25px">Please contact NParks via this <a href="http://www.nparks.gov.sg/feedback">Feedback Form</a> to seek assistance. For urgent animal-related matters, please call the NParks Animal Response Centre at 1800 476 1600.</p>
+						<p style="margin-top: 5px; margin-bottom: 25px">Please contact NParks via this <a href="http://www.nparks.gov.sg/feedback">Feedback Form</a> to seek assistance.</p>
 				</details>
 		</div>
 	</li>
@@ -190,7 +188,7 @@ details[open] > summary {
 			</details>
 			<details>
 				<summary>What does it mean to maintain good gardening etiquette?</summary>
-				<p style="margin-top: 5px; margin-bottom: 25px">Good gardening etiquette includes keeping the allotment garden plot tidy and clean, maintaining the plants well and keep them pest free, storing all gardening items neatly, ensure all planting structures installed are compliant with terms and conditions, and conducting regularly checks for stagnant water to prevent mosquito breeding. Having a well-kept and maintained allotment garden plot ensures that it is safe and enjoyable for everyone. For more information on good gardening etiquette, check out the <a href="/page-index/housekeeping/">garden housekeeping</a> page.</p>
+				<p style="margin-top: 5px; margin-bottom: 25px">Good gardening etiquette includes keeping the allotment garden plot tidy and clean, maintaining the plants well and keep them pest free, storing all gardening items neatly, ensure all planting structures installed are compliant with terms and conditions, and conducting regularly checks for stagnant water to prevent mosquito breeding. Having a well-kept and maintained allotment garden plot ensures that it is safe and enjoyable for everyone. For more information on good gardening etiquette, check out the <a href="/garden-management/housekeeping/">garden housekeeping</a> page.</p>
 			</details>
 			<details>
 				<summary>Why are existing gardeners being given the opportunity to continue gardening at their plots? Why not keep the existing system of computerised balloting?</summary>
