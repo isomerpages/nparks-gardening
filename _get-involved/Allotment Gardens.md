@@ -29,9 +29,27 @@ details > ol li {
 details[open] > summary {
 	font-weight: 800;
 	}
+	
+.wrapper {
+		display: grid;
+		grid-template-columns: repeat(auto-fit, minmax(100px, 150px));
+		grid-template-rows: auto-fit;
+		column-gap: 10px;
+		row-gap: 10px;
+		text-align: center;
+	}
+
+.box{
+		border: solid 1px #215732;
+		background: #215732;
+		border-radius: 10px;
+		padding: 10px;
+	}
 </style>
 
 <img src="/images/Garden%20design/allotment%20garden%20at%20jurong%20lake%20gardens%20west.jpg">
+
+<p><strong>Applications for allotment garden plots are now open. Please scroll down for more information on how to apply.</strong></p>
 
 <p>Allotment gardens are common green spaces where aspiring gardeners can lease gardening plots to hone their skills and grow their own greens. They can be found in various parks, heartlands, private estates and even organisations.</p>
 
@@ -48,9 +66,88 @@ details[open] > summary {
 <p>Under NParks’ Allotment Gardening Scheme, each household may apply and ballot for one garden plot at any one location at a time. Each plot consists of a raised planter bed (2.5m x 1m) with soil and a mini storage area for tools and may be leased for a period of up to 3 years at a charge of <b>$57 per year</b> (excluding prevailing GST). </p> 
 
 <h4>How can I apply for an allotment gardening plot?</h4>
-<p>Interested to lease a plot? Check this webpage on a regular basis for more information on the upcoming plots and registration details.</p> 
 
-<p>You can also follow us on <a href="https://www.facebook.com/nparksbuzz">Facebook</a> (turn on the page notifications!) for announcements on allotment garden plot registrations.</p>
+<p><u><strong>November 2023 Application Exercise</strong></u></p>
+
+<p>Applications for allotment garden plots are <strong>open from 15 November 2023, 10.00am to 27 November 2023, 12.00pm</strong>, for the following locations:</p>
+
+<table>
+	<thead>
+	<tr>
+		<th>S/N</th>
+		<th>Park Name</th>
+		<th>No. of plots</th>
+		<th>Estimated Temporary Occupancy Licence (TOL) Start Date</th>
+	</tr>
+	</thead>
+	<tbody>
+	<tr>
+		<td>1</td>
+		<td>Bedok Reservoir Park</td>
+		<td>46</td>
+		<td style="text-align:center">Q2 2024</td>		
+	</tr>
+	<tr>
+		<td>2</td>
+		<td>Bishan-Ang Mo Kio Park</td>
+		<td>34</td>
+		<td style="text-align:center">Q2 2024</td>
+	</tr>
+	<tr>
+		<td>3</td>
+		<td>Clementi Woods Park</td>
+		<td>42</td>
+		<td style="text-align:center">Q2 2024</td>
+	</tr>
+	<tr>
+		<td>4</td>
+		<td>HortPark</td>
+		<td>81</td>
+		<td style="text-align:center">Q2 2024</td>
+	</tr>
+	<tr>
+		<td>5</td>
+		<td>Lower Seletar Reservoir (Plot 1)<br>Lower Seletar Reservoir (Plot 2)</td>
+		<td>25<br>15</td>
+		<td style="text-align:center">Q2 2024</td>
+	</tr>
+	<tr>
+		<td>6</td>
+		<td>Punggol Waterway Park</td>
+		<td>63</td>
+		<td style="text-align:center">Q1 2024</td>
+	</tr>
+	<tr>
+		<td>7</td>
+		<td>Villa Verde Park</td>
+		<td>53</td>
+		<td style="text-align:center">Q1 2024</td>
+	</tr>
+	<tr>
+		<td>8</td>
+		<td>West Coast Park (Area 2)</td>
+		<td>48</td>
+		<td style="text-align:center">Q2 2024</td>
+	</tr>
+	<tr>
+		<td>9</td>
+		<td>Yishun Neighbourhood Park</td>
+		<td>20</td>
+		<td style="text-align:center">Q1 2024</td>
+	</tr>
+	</tbody>
+</table>
+
+<p>More information on the locations of the Allotment Gardens above can be found <a href="/files/List_of_allotment_gardens_open_for_application__Nov_2023_.pdf">here</a>.</p>
+
+<p>If you are interested to lease an allotment garden plot, please submit your application online <a href="https://go.gov.sg/ags-plot-application">here</a>. Application starts <strong>15 November 2023, 10.00am to 27 November 2023, 12.00pm</strong>.  Plots will be assigned via ballot. Successful applicants will be notified via email on the outcome of their application by February 2024.</p>
+
+<p>More information on the application terms and conditions (T&amp;Cs) are available on the application form. Do read the instructions and T&amp;Cs carefully before submitting an application.</p>
+
+<div class="wrapper">
+	<a style="text-decoration:none; color: white" href="https://go.gov.sg/ags-plot-application"><div class="box">
+		Apply Now!</div></a>
+</div>
 
 <h4>FAQs</h4>
 <p>Have a question about the Allotment Gardening Scheme? Check out the FAQs below!</p>

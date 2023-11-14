@@ -2,7 +2,11 @@
 title: Community Urban Farms
 permalink: /get-involved/community-urban-farms/
 variant: markdown
-description: ""
+description: The SECUF Grant encourages Social Enterprises (SEs) to set up and
+  operate Community Urban Farms, as well as conduct gardening programmes for
+  seniors, special needs and low-income individuals/families. With their social
+  objectives, SEs are able to impact the community positively.
+image: /images/MicrosoftTeams_image__5_.png
 ---
 <style>
 	details {
