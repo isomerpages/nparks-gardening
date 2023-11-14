@@ -140,7 +140,7 @@ details[open] > summary {
 
 <p>More information on the locations of the Allotment Gardens above can be found <a href="/files/List_of_allotment_gardens_open_for_application__Nov_2023_.pdf">here</a>.</p>
 
-<p>If you are interested to lease an allotment garden plot, please submit your application online <a href="https://go.gov.sg/ags-plot-application">here</a> from <strong>15th November 2023, 10.00am to 27th &nbsp;November 2023, 12.00pm</strong>.  Plots will be assigned via ballot. Successful applicants will be notified via email on the outcome of their application by February 2024.</p>
+<p>If you are interested to lease an allotment garden plot, please submit your application online <a href="https://go.gov.sg/ags-plot-application">here</a>. Application starts <strong>15 November 2023, 10.00am to 27 November 2023, 12.00pm</strong>.  Plots will be assigned via ballot. Successful applicants will be notified via email on the outcome of their application by February 2024.</p>
 
 <p>More information on the application terms and conditions (T&amp;Cs) are available on the application form. Do read the instructions and T&amp;Cs carefully before submitting an application.</p>
 
