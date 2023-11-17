@@ -29,7 +29,7 @@ details[open] > summary {
 
 <section>
 	<img src="/images/PXL_20230406_085506119_PORTRAIT.jpg">
-	<h4>Community Urban Farms</h4>
+	<h3>Community Urban Farms</h3>
 	<p>Community Urban Farms are gardening hubs that bring the community together through edibles gardening and curated programmes that revolve around it. Activities in Community Urban Farms could include leasing allotment gardening plots for the public to garden, organising workshops and lessons on gardening, community harvest festivals; coordinating the sale/distribution of harvests etc. Gardening together strengthens family and community bonds to build social resilience.</p>
 	<br>
 </section>
