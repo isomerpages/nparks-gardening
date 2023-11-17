@@ -63,7 +63,7 @@ variant: markdown
 
 <section>
 	<h4>Common problems &amp; solutions:</h4>
-	<img title="A passionfruit with fruit fly damage. Photo by Jacqueline Chua." src="/images/Biodiversity/fruitflydamage_jacquelinechua.jpg">
+	<img title="A passion fruit with fruit fly damage. Photo by Jacqueline Chua." src="/images/Biodiversity/fruitflydamage_jacquelinechua.jpg">
 		<p><a href="/page-index/pests/oriental-fruit-flies/">Fruit flies</a> can lay eggs in the fruit, resulting in larvae damaging the fruit and creating spots on the skin. Wrap your fruit in <a href="/page-index/hardscapes/netting/">netting</a> when it starts to develop from a fertilised flower, ideally after all the petals have dropped off.</p>
 	<p>If your vine has few to no flowers, you can fertilise the plant with <a href="/page-index/horticulture-techniques/fertilising/">fertilisers high in phosphorus and potassium</a>. These nutrients encourage root and flower growth, which are important for the plant to produce more fruit.</p>
 	<p>Many plants require <a href="/page-index/biodiversity/pollinators/">pollinators</a> to help them fruit. Bees, butterflies, birds and even beetles transport pollen from one flower to another, pollinating your crops and increasing their fruit yield. Attract some pollinators to your garden by growing <a href="/page-index/glossary/biodiversity-attracting-plants/">pollinator-attracting plants</a>.</p>
