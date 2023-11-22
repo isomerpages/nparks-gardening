@@ -29,13 +29,13 @@ details[open] > summary {
 
 <section>
 	<img src="/images/PXL_20230406_085506119_PORTRAIT.jpg">
-	<h3>Community Urban Farms</h3>
+	<h4>Community Urban Farms</h4>
 	<p>Community Urban Farms are gardening hubs that bring the community together through edibles gardening and curated programmes that revolve around it. Activities in Community Urban Farms could include leasing allotment gardening plots for the public to garden, organising workshops and lessons on gardening, community harvest festivals; coordinating the sale/distribution of harvests etc. Gardening together strengthens family and community bonds to build social resilience.</p>
 	<br>
 </section>
 
 <section>
-	<h3>Social Enterprise Community Urban Farm (SECUF) Grant</h3>
+	<h4>Social Enterprise Community Urban Farm (SECUF) Grant</h4>
 	<img src="/images/PXL_20230406_071359052_MP1.jpg">
 	<p>The SECUF Grant encourages Social Enterprises (SEs) to set up and operate Community Urban Farms, as well as conduct gardening programmes for seniors, special needs and low-income individuals/families. With their social objectives, SEs are able to impact the community positively. This grant was introduced under the Gardening with Edibles initiative which was launched by NParks in June 2020 to encourage Singaporeans to grow edibles at home as part of Singapore's vision of Growing our City in Nature.
 	</p><ul class="jekyllcodex_accordion">
@@ -135,7 +135,7 @@ details[open] > summary {
 </section>
 
 <section>
-	<h3>NParks will never send an SMS:</h3>
+	<h4>NParks will never send an SMS:</h4>
 	<ul>
 		<li>To request for payment /money transfers</li>
 		<li>With a link that does not bear '.gov.sg' at the end</li>
@@ -145,6 +145,6 @@ details[open] > summary {
 </section>
 	
 <section>
-	<h3>Frequently Asked Questions</h3>
+	<h4>Frequently Asked Questions</h4>
 	<p><a href="/files/SECUF_Grant_Website_FAQs_10Nov2023.pdf">Click here</a> to download the list of Frequently Asked Questions.</p>
 </section>
