@@ -2,6 +2,7 @@
 title: Glossary
 permalink: /learn-more-about-gardening/glossary/
 description: ""
+variant: markdown
 ---
 <style>
 		table a:link {
@@ -213,7 +214,10 @@ Pollination refers to the transport of pollen to the stigma of a plant, which is
 	<div id="stem"><b><u>Stem</u></b></div>
 	The main stalk of a plant, where leaves, flowers and fruits can grow from nodes.
 	<br><br>
-	<div id="Succulent"><b><u>Succulent</u></b></div>
+	<div id="solarisation"><b><u>Solarisation</u></b></div>
+	A method of pest control for soil — done by covering the soil with a transparent plastic sheet during the hot season, heating the soil up by sun energy, thereby controlling soil-borne pests.
+	<br><br>
+	<div id="succulent"><b><u>Succulent</u></b></div>
 	Parts of the plants that are thicken and fleshy to help retain water for plants that are in dry environments or soil conditions.
 	<br><br>
 	<div id="sucker"><b><u>Sucker</u></b></div>
