@@ -5,6 +5,7 @@ date: 2023-09-21
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 <section>
 	<img title="A seedling sitting in waterlogged soil, potentially suffering from root rot. Photo by Jacqueline Chua." src="/images/Plant%20problems/waterlogging_jacchua.jpg">
@@ -28,7 +29,7 @@ image: ""
   <p>Remove the affected plant and wash soil off the roots to check how extensive the damage is. If the roots are slimy and produce bacterial ooze when placed in water, they will need to be cut off to prevent the rot from spreading further up the plant. Remove any rotting parts with a clean pair of secateurs.</p>
 	<p>If the plant is left with little to no roots, consider repropagating it via <a href="/page-index/horticulture-techniques/propagating-by-cuttings/">cuttings</a> if appropriate, or apply rooting hormone to the remaining stump to encourage root regrowth.</p>
 	<p>Repot the plant again in new soil after it has grown new roots in <a href="/page-index/horticulture-techniques/soil/">soil</a> that drains well, and <a href="/page-index/horticulture-techniques/planting-in-containers/">in pots</a> with drainage holes.</p>
-	<p>Affected soil should be solarized, or left exposed to the sun for a month, before reuse to removing any remaining pests, fungal spores or bacteria. Drainage should be improved with the mixing in of <a href="/page-index/horticulture-techniques/soil-amendments/">organic matter or grit</a>.</p>
+	<p>Affected soil should be solarised, or left exposed to the sun for a month, before reuse to removing any remaining pests, fungal spores or bacteria. Drainage should be improved with the mixing in of <a href="/page-index/horticulture-techniques/soil-amendments/">organic matter or grit</a>.</p>
 	<br>
 </section>
 
