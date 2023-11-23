@@ -6,7 +6,14 @@ layout: post
 description: You can root cuttings to grow new plants! Learn how here.
 image: /images/Horti
   techniques/devilsivy_propagation_nodes_labelled_jacquelinechua.jpg
+variant: markdown
 ---
+<style>
+	ol li {
+	 padding: 10px;
+	}
+</style>
+
 <section>
 	<p>Many plants can be propagated by cuttings made from stems or leaves. Propagating this way is faster than growing from <a href="/page-index/horticulture-techniques/propagating-by-seed/">seeds</a> as cuttings tend to grow and establish faster, making it a useful way to get plants quickly.</p>
 	<br>
