@@ -140,7 +140,7 @@ details[open] > summary {
 
 <p><strong>Applications are now closed.</strong> Plots will be assigned via ballot. Successful applicants will be notified via email on the outcome of their application by February 2024.</p>
 
-The next application exercise will commence in 2024. Keep a lookout for more details on this webpage or follow NParks' social media for updates.
+The next application exercise will be in 2024. Keep a lookout for more details on this webpage or follow NParks' social media for updates.
 
 <h4>Frequently Asked Questions (FAQs)</h4>
 <p>Have a question about the Allotment Gardening Scheme? Check out the FAQs below!</p>
