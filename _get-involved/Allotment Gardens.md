@@ -67,7 +67,7 @@ details[open] > summary {
 
 <p><u><strong>November 2023 Application Exercise (Closed)</strong></u></p>
 
-<p>Applications for allotment garden plots are <strong>open from 15 November 2023, 10.00am to 27 November 2023, 12.00pm</strong>, for the following locations:</p>
+<p>Applications for allotment garden plots are open from 15 November 2023, 10.00am to 27 November 2023, 12.00pm, for the following locations:</p>
 
 <table>
 	<thead>
