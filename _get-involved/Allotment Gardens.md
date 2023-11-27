@@ -49,8 +49,6 @@ details[open] > summary {
 
 <img src="/images/Garden%20design/allotment%20garden%20at%20jurong%20lake%20gardens%20west.jpg">
 
-<p><strong>Applications for allotment garden plots are now open. Please scroll down for more information on how to apply.</strong></p>
-
 <p>Allotment gardens are common green spaces where aspiring gardeners can lease gardening plots to hone their skills and grow their own greens. They can be found in various parks, heartlands, private estates and even organisations.</p>
 
 <p>There are now over 2,200 allotment garden plots across 26 parks and gardens in Singapore. Check out the map below to locate an allotment garden in our parklands near you!</p> 
@@ -67,7 +65,7 @@ details[open] > summary {
 
 <h4>How can I apply for an allotment gardening plot?</h4>
 
-<p><u><strong>November 2023 Application Exercise</strong></u></p>
+<p><u><strong>November 2023 Application Exercise (Closed)</strong></u></p>
 
 <p>Applications for allotment garden plots are <strong>open from 15 November 2023, 10.00am to 27 November 2023, 12.00pm</strong>, for the following locations:</p>
 
@@ -140,14 +138,9 @@ details[open] > summary {
 
 <p>More information on the locations of the Allotment Gardens above can be found <a href="/files/List_of_allotment_gardens_open_for_application__Nov_2023_.pdf">here</a>.</p>
 
-<p>If you are interested to lease an allotment garden plot, please submit your application online <a href="https://go.gov.sg/ags-plot-application">here</a>. Application starts <strong>15 November 2023, 10.00am to 27 November 2023, 12.00pm</strong>.  Plots will be assigned via ballot. Successful applicants will be notified via email on the outcome of their application by February 2024.</p>
+<p><strong>Applications are now closed.</strong> Plots will be assigned via ballot. Successful applicants will be notified via email on the outcome of their application by February 2024.</p>
 
-<p>More information on the application terms and conditions (T&amp;Cs) are available on the application form. Do read the instructions and T&amp;Cs carefully before submitting an application.</p>
-
-<div class="wrapper">
-	<a style="text-decoration:none; color: white" href="https://go.gov.sg/ags-plot-application"><div class="box">
-		Apply Now!</div></a>
-</div>
+The next application exercise will commence in 2024. Keep a lookout for more details on this webpage or follow NParks' social media for updates.
 
 <h4>Frequently Asked Questions (FAQs)</h4>
 <p>Have a question about the Allotment Gardening Scheme? Check out the FAQs below!</p>
