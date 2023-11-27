@@ -162,7 +162,7 @@ details[open] > summary {
 		<details>
 				<summary>How many allotment garden plots are there now, and will the numbers continue to be increased?</summary>	
 				<p style="margin-top: 5px; margin-bottom: 25px">To date, over 2,200 allotment garden plots have been made available to the community with plans for further expansion.</p>
-			<p style="margin-top: 5px; margin-bottom: 25px">In tandem, NParks is working with Town Councils and Grassroot Organisations to provide advice on setting up of allotment gardens in public housing estates so that residents can garden closer to their homes. </p>
+				<p style="margin-top: 5px; margin-bottom: 25px">In tandem, NParks is working with Town Councils and Grassroot Organisations to provide advice on setting up of allotment gardens in public housing estates so that residents can garden closer to their homes. </p>
 		</details>
 		<details>
 			<summary>In which parks can allotment gardens be found?</summary>
