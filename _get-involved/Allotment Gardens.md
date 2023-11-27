@@ -149,7 +149,7 @@ details[open] > summary {
 		Apply Now!</div></a>
 </div>
 
-<h4>FAQs</h4>
+<h4>Frequently Asked Questions (FAQs)</h4>
 <p>Have a question about the Allotment Gardening Scheme? Check out the FAQs below!</p>
 <ul class="jekyllcodex_accordion">
 	<li><input type="checkbox" id="accordion1">
