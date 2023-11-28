@@ -38,6 +38,7 @@ variant: markdown
 	<li><a download="" href="/files/garden%20bees%20of%20singapore%20211110%20(rev%20b)%20digital.pdf">Garden Bees of Singapore</a></li>	
 	<li><a download="" href="/files/traditional%20composting%20(readable).pdf">Traditional Composting</a></li>
 	<li><a href="/files/know%2010%20common%20diseases%20of%20edible%20plants.pdf">Know 10 Common Diseases of Edible Plants</a></li>
+	<li><a href="/files/know%2010%20common%20pests%20of%20edible%20plants.pdf">Know 10 Common Pests of Edible Plants</a></li>
 	</ul>
 		<br>
 </section>
