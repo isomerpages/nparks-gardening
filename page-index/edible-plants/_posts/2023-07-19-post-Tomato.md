@@ -5,6 +5,7 @@ date: 2023-07-19
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 <header>
 	<h3>Tomato (<em>Solanum lycopersicum</em>)</h3>
@@ -106,7 +107,6 @@ image: ""
 	<p><a href="/page-index/pests/aphids">Aphids</a>, <a href="/page-index/pests/mealy-bugs">Mealy Bugs</a>, and <a href="/page-index/pests/scale-insects/">Scale Insects</a> often infest the plant if it is <a href="/page-index/plant-problems/waterlogging/">waterlogged</a>, <a href="/page-index/plant-problems/wilting/">wilted from heat stress</a>, or is <a href="/page-index/horticulture-techniques/watering/">inconsistently watered</a>. <a href="/page-index/horticulture-techniques/pest-control/">Mechanical pest control</a> methods like <a href="/page-index/horticulture-techniques/pruning/">pruning</a> the infested parts are the best methods for managing these pests.</p>
 	<p><a href="/page-index/plant-problems/wilting">Wilting</a> leaves during hot weather is a sign of heat stress. Increase the number of times the plant is watered daily, and apply <a href="/page-index/horticulture-techniques/mulching">mulch</a> at the base to prevent water loss. </p>
 	<p>These plants can get <a href="/page-index/plant-problems/nutrient-deficiencies/">blossom end rot</a>, which shows up as dark, sunken blotches at the end of fruits. It is a symptom of a lack of calcium reaching the fruit, which is usually caused by a lack of water or <a href="/page-index/horticulture-techniques/watering/">inconsistent watering</a>. Keep your soil moist but not waterlogged and take care to water more often during the dry season.</p>
-	<p><a href="/page-index/pests/oriental-fruit-flies/">Fruit flies</a> can lay eggs in the fruit, resulting in larvae damaging the fruit and creating spots on the skin. Wrap your fruit in netting when it starts to develop from a fertilised flower, ideally after all the petals have dropped off. </p>
 					<p>This plant is especially vulnerable to <a href="/page-index/plant-problems/root-rot/">root rot</a> caused by <a href="/page-index/plant-problems/waterlogging/">waterlogging</a>. It is best to grow the plant in <a href="/page-index/horticulture-techniques/soil/">loamy soil</a> with plenty of  <a href="/page-index/horticulture-techniques/soil-amendments/">organic soil amendments</a> and good drainage to prevent this.</p>
 	<br>
 </section>
