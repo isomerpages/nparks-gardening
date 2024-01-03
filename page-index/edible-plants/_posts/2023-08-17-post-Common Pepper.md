@@ -47,7 +47,7 @@ variant: markdown
 
 <section>
 	<h4>Harvesting:</h4>
-	<p>Plants will take 3-4 years to mature from seed and produce flowers. Flowers themselves may take up to a year to mature into ripe fruit. However, the plant will readily produce flowers and fruits all year long for many years once it is mature.</p>
+	<p>Plants will take 3-4 years to mature from seed and produce flowers. Flowers themselves may take up to a year to develop into ripe fruit. However, the plant will readily produce flowers and fruits all year long for many years once it is mature.</p>
 	<p>Immature fruits can be <a href="/page-index/horticulture-techniques/harvesting-hygiene/">harvested</a> for use as green pepper once the green fruits fill out the spike. Mature fruits are red and can be dried to produce black pepper. Alternatively, the mature fruits can be fermented to remove the flesh from the seeds to produce white pepper.</p>
 	<p>Seeds to be used for white pepper can also be used for immediate planting to grow new plants.</p>
 	<br>
