@@ -1,0 +1,60 @@
+title: GardeningSG
+url: https://gardeningsg.nparks.gov.sg
+favicon: /images/nparks logo square.png
+colors:
+  primary-color: "#7a9a01"
+  secondary-color: "#215732"
+  media-colors:
+    - title: media-color-one
+      color: "#ff9e1b"
+    - title: media-color-two
+      color: "#7a9a01"
+    - title: media-color-three
+      color: "#ff9e1b"
+    - title: media-color-four
+      color: "#215732"
+    - title: media-color-five
+      color: "#215732"
+description: The one-stop gardening portal for gardeners in Singapore!
+permalink: none
+baseurl: ""
+exclude:
+  - travis-script.js
+  - .travis.yml
+  - README.md
+  - package.json
+  - package-lock.json
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Gemfile
+  - Gemfile.lock
+include:
+  - _redirects
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: page
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
+paginate: 12
+remote_theme: isomerpages/isomerpages-template@next-gen
+safe: false
+plugins:
+  - jekyll-feed
+  - jekyll-assets
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-remote-theme
+staging: https://staging.dmhtu0pi4p9u7.amplifyapp.com
+prod: https://master.dmhtu0pi4p9u7.amplifyapp.com
+facebook-pixel: ""
+shareicon: /images/gardeningsg hero banner.JPG
+is_government: true
+google_analytics: ""
+google_analytics_ga4: G-5C364KHSH5
+linkedin-insights: ""
+resources_name: page-index

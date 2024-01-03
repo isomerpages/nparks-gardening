@@ -1,0 +1,12 @@
+collections:
+  learn-more-about-gardening:
+    output: true
+    order:
+      - Learn more about gardening.md
+      - Plants.md
+      - Horticulture Techniques.md
+      - Plant Problems.md
+      - Garden Biodiversity.md
+      - Garden Design.md
+      - Glossary.md
+      - Downloadable resources.md

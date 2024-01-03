@@ -1,0 +1,9 @@
+collections:
+  digital-tools:
+    output: true
+    order:
+      - Digital Tools.md
+      - Soil Calculator.md
+      - Sowing and Harvest Planner.md
+      - Pest Identifier.md
+      - Plant Search.md
