@@ -53,7 +53,7 @@ variant: markdown
 	<p>Tomatoes will produce more flowers and thus more fruit when fed with <a href="/page-index/horticulture-techniques/fertilising/">fertilisers high in Phosphorus and Potassium</a>. Plants can be fertilised once a month after the first flower ins produced for a fuller crop. </p>
 	<p>Depending on the cultivar, tomatoes can grow as a vine (indeterminate) or as a small shrub (determinate). Vining varieties will need <a href="/page-index/hardscapes/staking/">stakes</a> or a <a href="/page-index/hardscapes/trellises/">trellis</a> to support their growth.</p>
 	<p>As with all members of the Nightshade family, this plant is buzz-pollinated and produces the most fruit when <a href="/page-index/biodiversity/pollinators/">bees</a> are around to pollinate it. Growing more <a href="/page-index/glossary/biodiversity-attracting-plants/">bee-attracting plants</a> within the garden will encourage pollination.  </p>
-	<p>For both vining and shrub varieties, it is a good practice to <a href="/page-index/horticulture-techniques/pruning/">prune regularly</a> and remove dead leaves and stems to improve ventilation and allow light to reach more of the plant. Regular pruning also decreases the likelihood of pests quickly taking over the plant. Suckers can be removed as part of regular pruning and propagated via division.</p>
+	<p>For both vining and shrub varieties, it is a good practice to <a href="/page-index/horticulture-techniques/pruning/">prune regularly</a> and remove dead leaves and stems to improve ventilation and allow light to reach more of the plant. Regular pruning also decreases the likelihood of pests quickly taking over the plant. Cuttings can be removed as part of regular pruning and propagated.</p>
 	<br>
 </section>
 
