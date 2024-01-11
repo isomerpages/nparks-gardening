@@ -45,7 +45,7 @@ details[open] > summary {
 				<li>Promote the establishment of more Social Enterprise Community Urban Farms by providing funding support for infrastructure costs</li>
 				<li>Promote more social outreach activities by Social Enterprises Community Urban Farms through support for programming costs</li>
 				<li>Provide more space for residents to garden and in the process inspire communities to co-create and be stewards of nature</li>
-				<li>Encourage communities to grow their own edibles as part of an effort to strengthen social resilience and support Singapore's food resilience 30 by 30 goal</li>
+				<li>Encourage communities to grow their own edibles as part of an effort to strengthen social and food resilience</li>
 				<li>Encourage seniors, special needs and low-income individuals/families to remain purposefully and meaningfully engaged in the communities by engaging them with curated gardening programmes</li>
 			</ul>
 		</div></li>
