@@ -5,6 +5,7 @@ description: The key to a healthy and happy garden is effective housekeeping,
   with tasks and strategies to keep your garden neat, clean, and safe. Learn
   more about garden housekeeping here.
 image: /images/Gardeners/checkingpests_jacquelinechua.jpg
+variant: markdown
 ---
 <section>
 <img title="An Allotment Gardener checking her crops for pests. Photo by Jacqueline Chua." src="/images/Gardeners/checkingpests_jacquelinechua.jpg">
@@ -23,6 +24,7 @@ image: /images/Gardeners/checkingpests_jacquelinechua.jpg
 	</ul>
 	<p>Depending on where your garden is, you may need some specialised housekeeping methods. Browse our resources below for some tips and tricks!</p>
 	<ul>
+		<li><a>Good Allotment Gardening Practices</a></li>
 	<li><a href="/page-index/housekeeping/good-corridor-gardening-practices/">Good Corridor Gardening Practices</a></li>
 		<li><a href="/page-index/housekeeping/good-roadside-gardening-practices/">Good Roadside Gardening Practices</a></li>
 		<li><a href="/page-index/housekeeping/keeping-gardens-mosquito-free/">Keeping Gardens Mosquito free</a></li>
