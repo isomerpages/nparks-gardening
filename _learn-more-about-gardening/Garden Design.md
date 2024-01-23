@@ -43,7 +43,7 @@ variant: markdown
 				<li>There are also public parks and gardens that the public can visit to get more inspiration. Some popular gardens are:</li>
 					<ul>
 						<li>The <a href="https://www.nparks.gov.sg/juronglakegardens">Jurong Lake Gardens</a>, which has an edible garden, allotment garden and therapeutic garden;</li>
-						<li><a href="https://beta.nparks.gov.sg/visit/parks/park-detail/hortpark">HortPark</a>, with a Nature Playgarden, multiple edible gardens and ornamental show gardens;</li>
+						<li><a href="https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/hortpark">HortPark</a>, with a Nature Playgarden, multiple edible gardens and ornamental show gardens;</li>
 						<li>The <a href="https://www.nparks.gov.sg/sbg">Singapore Botanic Gardens</a>, which features extensive and unique themed gardens including an ethnobotany garden, a ginger garden, and the National Orchid Garden.</li>
 					</ul>
 			</ul>
