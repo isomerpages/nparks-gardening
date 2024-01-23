@@ -24,7 +24,7 @@ variant: markdown
 	</ul>
 	<p>Depending on where your garden is, you may need some specialised housekeeping methods. Browse our resources below for some tips and tricks!</p>
 	<ul>
-		<li><a>Good Allotment Gardening Practices</a></li>
+		<li><a download="" href="/files/good%20allotment%20gardening%20practices%20brochure.pdf">Good Allotment Gardening Practices</a></li>
 	<li><a href="/page-index/housekeeping/good-corridor-gardening-practices/">Good Corridor Gardening Practices</a></li>
 		<li><a href="/page-index/housekeeping/good-roadside-gardening-practices/">Good Roadside Gardening Practices</a></li>
 		<li><a href="/page-index/housekeeping/keeping-gardens-mosquito-free/">Keeping Gardens Mosquito free</a></li>
