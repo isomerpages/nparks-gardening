@@ -64,8 +64,17 @@ variant: markdown
 		<li><b>Overall Garden Quality</b></li>
 		<ul>
 			<li>The quality of the garden has a direct impact on how well it co-exists with its surroundings. A garden’s quality is measured by its aesthetic, good horticulture practices and standard of horticultural maintenance.</li>
-	
-	</ul></ul></section>
+		</ul>
+		<li><b>Level of Community Involvement and Inclusiveness</b></li>
+		<ul>
+			<li>The consistent involvement of participants is the foundation of a sustainable community garden. Building links and networks with the larger community encourages the sharing of resources and strategies to foster community bonding and promotes the love for gardening.</li>
+		</ul>
+		<li><b>Biodiversity and Sustainability Efforts</b></li>
+		<ul>
+			<li>Community gardens serve as engaging educational spaces with opportunities for a wide variety of audiences to learn about horticulture, sustainability, biodiversity and much more. <p></p></li></ul>
+	</ul>
+	</section>
+	<br>
 <section>
 	<h4>Results dossiers and videos</h4>
 	<p>Download the results dossiers for previous editions below:</p>
