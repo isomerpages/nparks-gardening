@@ -32,7 +32,10 @@ variant: markdown
 	<h4>Registration Period</h4>
 	<p>This competition is open for registration from 29 Jan 2024 till 25 Mar 2024, 11.59 pm.</p>
 	</section>
-
+<br>
+<section>
+	<h4>How To Participate</h4>
+	<p>Click <a href="https://go.gov.sg/ciba2024">here</a> to register online. We highly encourage participants to read through the questionnaire first and prepare the required information before submitting the form.</p>
 <section>
 	<h4>Results dossiers and videos</h4>
 	<p>Download the results dossiers for previous editions below:</p>
@@ -53,4 +56,4 @@ variant: markdown
 	<br>
 	<iframe width="100%" height="415" src="https://www.youtube.com/embed/epChDGLSbRA?si=fTAYigvkc80AV8k1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
 	<br>
-</section>
+</section></section>
