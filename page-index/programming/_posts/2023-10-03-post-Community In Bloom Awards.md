@@ -8,6 +8,7 @@ description: The Community in Bloom (CIB) Awards recognise excellence in
   to improve the standards of their gardens while continuing to enjoy gardening
   as a fun and healthy activity.
 image: /images/Gardeners/Posing (12).jpg
+variant: markdown
 ---
 <section>
 	<img title="Gardeners from West Coast CC posing in their orchid garden. West Coast CC recieved the Gardens of the Year Award in 2023. Photo by Jacqueline Chua." src="/images/Gardeners/Posing%20(12).jpg">
@@ -17,7 +18,7 @@ image: /images/Gardeners/Posing (12).jpg
 </section>
 
 <section>
-	<h4>CIB Awards 2023 (Educational Institutions and Organisations)</h4>
+	<h4>CIB Awards 2024 (Housing Estates)</h4>
 	<p>Take a peek at the Garden of the Year (GOYA) Awardees here!</p>
 	<iframe width="100%" height="415" src="https://www.youtube.com/embed/rRkCP-nlMtM?si=-MQl0qtHxnB5uLyh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
 	<p>Download and view the <a href="https://go.gov.sg/ciba2023-results-dossier">CIB Awards 2023 (Schools &amp; Organisations)</a> result dossier for full results.</p>
