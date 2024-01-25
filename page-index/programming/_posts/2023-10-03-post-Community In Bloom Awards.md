@@ -73,9 +73,12 @@ variant: markdown
 		<ul>
 			<li>Community gardens serve as engaging educational spaces with opportunities for a wide variety of audiences to learn about horticulture, sustainability, biodiversity and much more. <p></p></li></ul>
 	</ul>
+	<p>Please email <a href="mailto:communityinbloom@nparks.gov.sg">communityinbloom@nparks.gov.sg</a> or contact your CIB Managers if you need further assistance. </p>
 	</section>
+	<br>
 	<section>
 	<img src="/images/Graphics/_Upload__CIBA24_ePoster.png">
+	</section>
 	<br>
 <section>
 	<h4>Results dossiers and videos</h4>
@@ -97,4 +100,4 @@ variant: markdown
 	<br>
 	<iframe width="100%" height="415" src="https://www.youtube.com/embed/epChDGLSbRA?si=fTAYigvkc80AV8k1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
 	<br>
-</section></section>
+</section>
