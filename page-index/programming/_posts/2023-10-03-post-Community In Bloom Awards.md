@@ -27,6 +27,11 @@ variant: markdown
 	</ul>
 	<p>Entry to this competition is free but participating community gardens have to be registered under the CIB Programme and supported by their respective their respective Residents’ Committee (RC), Neighbourhood Committee (NC) or Residents’ Network (RN).</p>
 </section>
+<br>
+<section>
+	<h4>Registration Period</h4>
+	<p>This competition is open for registration from 29 Jan 2024 till 25 Mar 2024, 11.59 pm.</p>
+	</section>
 
 <section>
 	<h4>Results dossiers and videos</h4>
