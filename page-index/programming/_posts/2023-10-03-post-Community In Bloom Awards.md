@@ -79,7 +79,7 @@ variant: markdown
 <section>
 	<img src="/images/Graphics/_Upload__CIBA24_ePoster.png">
 	</section>
-	<br>
+<br>
 <section>
 	<h4>Results dossiers and videos</h4>
 	<p>Download the results dossiers for previous editions below:</p>
