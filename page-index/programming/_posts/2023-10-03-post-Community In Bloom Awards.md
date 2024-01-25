@@ -36,6 +36,16 @@ variant: markdown
 <section>
 	<h4>How To Participate</h4>
 	<p>Click <a href="https://go.gov.sg/ciba2024">here</a> to register online. We highly encourage participants to read through the questionnaire first and prepare the required information before submitting the form.</p>
+	<p>Instructions (Photos Submission)</p>
+	<ul>
+		<li>Submission of a minimum of three photographs and a maximum of 10 photographs showcasing focal points and previous gardening activities (Jan 2022 to Dec 2023) in your CIB garden.</li>
+		<li>Each photograph entry must be submitted digitally in JPEG format and be no larger than 2 MB.</li>
+		<li>Download the instructions for CIB Awards 2024 (Housing Estates) - Photo Submission <a href="/files/_Upload__CIB_Awards_2024_Instructions_Photo_Submission.pdf">here</a>.</li>
+	</ul>
+	<p><b>Terms &amp; Conditions</b></p>
+	<p>Download the terms and conditions for the competition <a href="/files/_Upload__CIBA2024_Photo_Submission_Terms_and_Conditions_24012024.pdf">here</a>.</p>
+	<p><b>Virtual Briefing on the CIB Awards 2024</b></p>
+	</section>
 <section>
 	<h4>Results dossiers and videos</h4>
 	<p>Download the results dossiers for previous editions below:</p>
@@ -56,4 +66,4 @@ variant: markdown
 	<br>
 	<iframe width="100%" height="415" src="https://www.youtube.com/embed/epChDGLSbRA?si=fTAYigvkc80AV8k1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
 	<br>
-</section></section>
+</section>
