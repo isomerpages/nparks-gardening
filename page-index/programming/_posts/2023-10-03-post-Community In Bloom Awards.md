@@ -19,17 +19,14 @@ variant: markdown
 
 <section>
 	<h4>CIB Awards 2024 (Housing Estates)</h4>
-	<p>Take a peek at the Garden of the Year (GOYA) Awardees here!</p>
-	<iframe width="100%" height="415" src="https://www.youtube.com/embed/rRkCP-nlMtM?si=-MQl0qtHxnB5uLyh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
-	<p>Download and view the <a href="https://go.gov.sg/ciba2023-results-dossier">CIB Awards 2023 (Schools &amp; Organisations)</a> result dossier for full results.</p>
-	<br>
 </section>
 
 <section>
 	<h4>Results dossiers and videos</h4>
 	<p>Download the results dossiers for previous editions below:</p>
 	<ul>
-		<li><a href="https://go.gov.sg/ciba2022-results-dossier">CIB Awards 2022 (Housing estates)</a></li>
+		<li><a href="https://go.gov.sg/ciba2023-results-dossier">CIB Awards 2023 (Schools &amp; Organisations)</a></li>
+			<li><a href="https://go.gov.sg/ciba2022-results-dossier">CIB Awards 2022 (Housing estates)</a></li>
 		<li><a href="https://go.gov.sg/ciba2021-results-dossier">CIB Awards 2021 (Schools &amp; Organisations)</a></li> 
 		<li><a href="https://go.gov.sg/ciba2020-results-dossier">CIB Awards 2020 (Housing Estates)</a></li>
 		<li><a href="https://go.gov.sg/ciba2018-results-dossier">CIB Awards 2018</a></li>
@@ -37,6 +34,7 @@ variant: markdown
 		<li><a href="https://go.gov.sg/ciba2014-results-dossier">CIB Awards 2014</a></li>
 	</ul>
 	<p>Watch videos of previous Gardens of the Year Awards winners:</p>
+		<iframe width="100%" height="415" src="https://www.youtube.com/embed/rRkCP-nlMtM?si=-MQl0qtHxnB5uLyh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
 	<iframe width="100%" height="415" src="https://www.youtube.com/embed/jB1WD0su6oU?si=TY3EsdD3dEmV3Vpu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
 	<br>
 	<iframe width="100%" height="415" src="https://www.youtube.com/embed/aj8Wb3wyOmk?si=JhTV-2y9NjNEB1jf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
