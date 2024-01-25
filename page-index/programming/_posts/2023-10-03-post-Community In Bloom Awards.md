@@ -30,13 +30,13 @@ variant: markdown
 <br>
 <section>
 	<h4>Registration Period</h4>
-	<p>This competition is open for registration from 29 Jan 2024 till 25 Mar 2024, 11.59 pm.</p>
+	<p>This competition is open for registration from <b>29 Jan 2024 till 25 Mar 2024, 11.59 pm</b>.</p>
 	</section>
 <br>
 <section>
 	<h4>How To Participate</h4>
 	<p>Click <a href="https://go.gov.sg/ciba2024">here</a> to register online. We highly encourage participants to read through the questionnaire first and prepare the required information before submitting the form.</p>
-	<p>Instructions (Photos Submission)</p>
+	<p>Instructions (Photo Submission)</p>
 	<ul>
 		<li>Submission of a minimum of three photographs and a maximum of 10 photographs showcasing focal points and previous gardening activities (Jan 2022 to Dec 2023) in your CIB garden.</li>
 		<li>Each photograph entry must be submitted digitally in JPEG format and be no larger than 2 MB.</li>
@@ -45,7 +45,27 @@ variant: markdown
 	<p><b>Terms &amp; Conditions</b></p>
 	<p>Download the terms and conditions for the competition <a href="/files/_Upload__CIBA2024_Photo_Submission_Terms_and_Conditions_24012024.pdf">here</a>.</p>
 	<p><b>Virtual Briefing on the CIB Awards 2024</b></p>
-	</section>
+	<p>Want clarifications on the registration process? Join our virtual session on either <b>3 Feb, 17 Feb, 29 Feb</b> or <b>14 Mar 2024 at 12 pm</b> where we will guide you through the registration process.</p>
+	<p>Sign up <a href="https://go.gov.sg/ciba2024virtualsession">here</a> if you are interested to attend.</p>
+	<p><b>Awards and prizes</b></p>
+	<ul>
+		<li>CIB Garden of the Year Awards</li>
+		<ul>
+			<li>$500 worth of Gardening Vouchers</li>
+		</ul>
+		<li>Top 50 CIB Gardens</li>
+		<ul>
+			<li>$300 worth of Gardening Vouchers</li>
+		</ul>
+	</ul>
+	<p><b>Judging Criteria</b></p>
+	<p>The judging criteria for the CIB Awards 2024 (Housing Estates) comprise the following:</p>
+	<ul>
+		<li><b>Overall Garden Quality</b></li>
+		<ul>
+			<li>The quality of the garden has a direct impact on how well it co-exists with its surroundings. A garden’s quality is measured by its aesthetic, good horticulture practices and standard of horticultural maintenance.</li>
+	
+	</ul></ul></section>
 <section>
 	<h4>Results dossiers and videos</h4>
 	<p>Download the results dossiers for previous editions below:</p>
