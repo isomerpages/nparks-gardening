@@ -19,6 +19,13 @@ variant: markdown
 
 <section>
 	<h4>CIB Awards 2024 (Housing Estates)</h4>
+	<p><b>Participating Categories</b></p>
+	<p>Outdoor Community Gardens in:</p>
+	<ul>
+	<li>Public Housing Estates</li>
+	<li>Private Housing Estates</li>
+	</ul>
+	<p>Entry to this competition is free but participating community gardens have to be registered under the CIB Programme and supported by their respective their respective Residents’ Committee (RC), Neighbourhood Committee (NC) or Residents’ Network (RN).</p>
 </section>
 
 <section>
