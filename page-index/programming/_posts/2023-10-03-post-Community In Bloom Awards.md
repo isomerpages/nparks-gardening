@@ -76,7 +76,7 @@ variant: markdown
 	<p>Please email <a href="mailto:communityinbloom@nparks.gov.sg">communityinbloom@nparks.gov.sg</a> or contact your CIB Managers if you need further assistance. </p>
 	</section>
 	<br>
-	<section>
+<section>
 	<img src="/images/Graphics/_Upload__CIBA24_ePoster.png">
 	</section>
 	<br>
