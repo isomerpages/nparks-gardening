@@ -40,10 +40,10 @@ variant: markdown
 	<ul>
 		<li>Submission of a minimum of three photographs and a maximum of 10 photographs showcasing focal points and previous gardening activities (Jan 2022 to Dec 2023) in your CIB garden.</li>
 		<li>Each photograph entry must be submitted digitally in JPEG format and be no larger than 2 MB.</li>
-		<li>Download the instructions for CIB Awards 2024 (Housing Estates) - Photo Submission <a href="/files/_Upload__CIB_Awards_2024_Instructions_Photo_Submission.pdf">here</a>.</li>
+		<li>Download the instructions for CIB Awards 2024 (Housing Estates) - Photo Submission <a href="https://go.gov.sg/ciba2024instructions">here</a>.</li>
 	</ul>
 	<p><b>Terms &amp; Conditions</b></p>
-	<p>Download the terms and conditions for the competition <a href="/files/_Upload__CIBA2024_Photo_Submission_Terms_and_Conditions_24012024.pdf">here</a>.</p>
+	<p>Download the terms and conditions for the competition <a href="https://go.gov.sg/ciba2024tncs">here</a>.</p>
 	<p><b>Virtual Briefing on the CIB Awards 2024</b></p>
 	<p>Want clarifications on the registration process? Join our virtual session on either <b>3 Feb, 17 Feb, 29 Feb</b> or <b>14 Mar 2024 at 12 pm</b> where we will guide you through the registration process.</p>
 	<p>Sign up <a href="https://go.gov.sg/ciba2024virtualsession">here</a> if you are interested to attend.</p>
@@ -79,9 +79,6 @@ variant: markdown
 	<p>Please email <a href="mailto:communityinbloom@nparks.gov.sg">communityinbloom@nparks.gov.sg</a> or contact your CIB Managers if you need further assistance. </p>
 	</section>
 <br>
-<section>
-	<img src="/images/Graphics/_Upload__CIBA24_ePoster.png">
-	</section><br>
 <section>
 	<h4>Results dossiers and videos</h4>
 	<p>Download the results dossiers for previous editions below:</p>
