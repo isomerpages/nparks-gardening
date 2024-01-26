@@ -82,7 +82,7 @@ variant: markdown
 	</section>
 <br>
 <section>
-	<img src="/images/Graphics/_Upload__CIBA24_ePoster.png">
+	<img src="images/Graphics/_Upload__CIBA24_ePoster.png">
 	</section><br>
 <section>
 	<h4>Results dossiers and videos</h4>
