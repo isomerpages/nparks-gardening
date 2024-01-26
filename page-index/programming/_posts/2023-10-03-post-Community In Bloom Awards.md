@@ -56,8 +56,13 @@ variant: markdown
 		<li>Top 50 CIB Gardens</li>
 		<ul>
 			<li>$300 worth of Gardening Vouchers</li>
-		</ul>
-	</ul>
+		</ul>	
+		<p><i>Please note that:</i></p>
+		<li><i>Each community garden will only be awarded one prize of the higher value.</i></li>
+		<li><i>There are no longer assessment bandings (Platinum, Gold, Silver and Bronze).</i></li>
+			
+	
+</ul>	
 	<p><b>Judging Criteria</b></p>
 	<p>The judging criteria for the CIB Awards 2024 (Housing Estates) comprise the following:</p>
 	<ul>
