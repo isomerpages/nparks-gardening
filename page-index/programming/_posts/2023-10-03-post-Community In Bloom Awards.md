@@ -11,7 +11,7 @@ image: /images/Gardeners/Posing (12).jpg
 variant: markdown
 ---
 <section>
-	<img title="A Community Garden in a public housing estate. Photo by Jacqueline Chua." src="/images/Garden%20design/YioChuKang_JacChua%20(1).jpg">
+	<img src="/images/Graphics/CIBA24_ePoster.png">
 	<p>The Community in Bloom (CIB) Awards recognise excellence in gardening efforts by community groups and aim to encourage community gardeners to improve the standards of their gardens while continuing to enjoy gardening as a fun and healthy activity.</p>
 	<p>Since 2020, the CIB Awards has been organised annually – CIB Awards (Housing Estates) for community gardens in public and private housing estates in even years (i.e. 2020, 2022), and CIB Awards (Educational Institutions and Organisations) for community gardens in schools and organisations in odd years (i.e. 2021, 2023) to accommodate increasing levels of community participation. This also ensures that due attention and recognition are accorded for each category.</p>
 	<br>
