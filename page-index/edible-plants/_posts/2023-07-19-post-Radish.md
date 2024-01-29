@@ -5,6 +5,7 @@ date: 2023-07-19
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 <header>
 	<h3>Radish (<em>Raphanus raphanistrum</em> subsp. sativus cultivar)</h3>
@@ -18,7 +19,7 @@ image: ""
 <section>
 	<img title="Radish plants growing in true ground. Photo by NParks." src="/images/Plants/Radish_JacChua%20(1).jpg">
 	<p>Radishes are a popular root vegetable that is eaten raw, steamed, in soup or in sauces. Both the fleshy root and the leaves are edible and have a slightly spicy taste. </p>
-	<p>An <a href="/learn-more-about-gardening/glossary/#a">annual</a> crop, this plant is often grown and consumed under 2 months. Its rapid harvest cycle makes it useful for <a href="/page-index/horticulture-techniques/crop-rotation/">crop rotation</a>.</p>
+	<p>An <a href="/learn-more-about-gardening/glossary/#a">annual</a> crop, this plant is often grown and consumed under 2 months, although skilled growers can also harvest them at 5 months. Its rapid harvest cycle makes it useful for <a href="/page-index/horticulture-techniques/crop-rotation/">crop rotation</a>.</p>
 	<p>Radishes are part of the Brassica or cabbage family, which also includes other popular vegetables like <a href="/page-index/edible-plants/kai-lan/">Kai Lan</a> and <a href="/page-index/edible-plants/xiao-bai-cai/">Xiao Bai Cai</a>.</p>
 	<br>
 </section>
@@ -47,7 +48,7 @@ image: ""
 
 <section>
 	<h4>Harvesting:</h4>
-	<p>The plant can be <a href="/page-index/horticulture-techniques/harvesting-hygiene/">harvested</a> for the fleshy root around a month after sowing. Leaving the plant for more than 1 ½ months usually results in a very fibrous and hard root that is unpleasant to eat. Radishes in tropical climates are usually smaller than their counterparts grown in colder climates.</p>
+	<p>The plant can be <a href="/page-index/horticulture-techniques/harvesting-hygiene/">harvested</a> for the fleshy root around a month after sowing. Leaving the plant for more than 1 ½ months usually results in a very fibrous and hard root that is unpleasant to eat, although some skilled growers are able to harvest them at 5 months. Radishes in tropical climates are usually smaller than their counterparts grown in colder climates.</p>
 	<p>Plants can be harvested for leaves at any time, with younger leaves being the most tender. However, the leaves will become tough when the plant starts to flower. Older leaves can be harvested multiple times via the <a href="/page-index/horticulture-techniques/cut-and-come-again/">cut-and-come-again method</a>. </p>
 	<p>The whole plant can be harvested once by gently digging up the fleshy root with a trowel.</p>
 	<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/f_Uoug7ZSeg" height="415" width="100%"></iframe>
