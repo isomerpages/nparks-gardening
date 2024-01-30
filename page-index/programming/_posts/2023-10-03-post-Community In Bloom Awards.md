@@ -35,7 +35,7 @@ variant: markdown
 <br>
 <section>
 	<h4>How To Participate</h4>
-	<p>Click <a href="https://go.gov.sg/ciba2024">here</a> to register online. We highly encourage participants to read through the questionnaire first and prepare the required information before submitting the form.</p>
+	<p>Click <a href="https://go.gov.sg/ciba2024submission">here</a> to register online. We highly encourage participants to read through the questionnaire first and prepare the required information before submitting the form.</p>
 	<p>Instructions (Photo Submission)</p>
 	<ul>
 		<li>Submission of a minimum of three photographs and a maximum of 10 photographs showcasing focal points and previous gardening activities (Jan 2022 to Dec 2023) in your CIB garden.</li>
