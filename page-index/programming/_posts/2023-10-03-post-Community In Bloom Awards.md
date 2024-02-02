@@ -45,7 +45,7 @@ variant: markdown
 	<p><b>Terms &amp; Conditions</b></p>
 	<p>Download the terms and conditions for the competition <a href="https://go.gov.sg/ciba2024tncs">here</a>.</p>
 	<p><b>Virtual Briefing on the CIB Awards 2024</b></p>
-	<p>Want clarifications on the registration process? Join our virtual session on either <b>3 Feb, 17 Feb, 29 Feb</b> or <b>14 Mar 2024 at 12 pm</b> where we will guide you through the registration process.</p>
+	<p>Want clarifications on the registration process? Join our virtual session on either <b> 17 Feb, 29 Feb</b> or <b>14 Mar 2024 at 12 noon</b> where we will guide you through the registration process.</p>
 	<p>Sign up <a href="https://go.gov.sg/ciba2024virtualsession">here</a> if you are interested to attend.</p>
 	<p><b>Awards and prizes</b></p>
 	<ul>
