@@ -249,4 +249,102 @@ details[open] > summary {
 			</details>
 <details>
 				<summary>Why did applications change to the AXS system?</summary>
-	</details></div></li></ul></ul>
+	<p style="margin-top: 5px; margin-bottom: 25px">This system was introduced to streamline and digitalise the application process through the incorporation of Singpass for authentication. Successful applicants will have to make payment via AXS when they are notified of their successful application, instead of manually initiated bank transfers. Unsuccessful applicants will also be notified at the end of the allocation process (about 3 months from the closing date of the application).</p> 
+				<p style="margin-top: 5px; margin-bottom: 25px">Interested applicants who do not have access to Singpass can apply via the AXS kiosks located island-wide.</p>
+			</details>
+			<details>
+				<summary>How many plots can I apply for and how many plots can I lease?</summary>
+				<p style="margin-top: 5px; margin-bottom: 25px">Applications are based on a per household basis. Each applicant is allowed to apply for only one (1) allotment garden plot at any one time. If the application is successful, only one (1) license will be issued to the applicant, regardless of the number of persons in the household.</p>
+			</details>
+			<details>
+				<summary>Will submitting multiple applications per household increase my chances of getting a plot?</summary>
+				<p style="margin-top: 5px; margin-bottom: 25px">No. Only one application per household will be accepted by the system, regardless of the number of persons in the household.</p>
+			</details>
+			<details>
+				<summary>Can I choose the plot to lease?</summary> 
+				<p style="margin-top: 5px; margin-bottom: 25px">All plots (waist- or knee-height) are assigned strictly through a balloting system.</p>
+			</details>
+			<details>
+				<summary>How would applicants know if they are successful? When can I expect to start gardening after applying for a plot?</summary>
+				<p style="margin-top: 5px; margin-bottom: 25px">All successful applicants will receive a Letter of Offer via email from AXS within three (3) months form the closing date of the application exercise. More information, such as the payment instructions and start date of gardening on-site, will be shared in the Letter. Upon payment received, a Temporary Occupation Licence (TOL) will also be issued to successful applicants in respect of the use of the allotment garden plot.</p>
+			</details>
+			<details>
+				<summary>Can you call/SMS me back when the allotment plots in the park I am interested in are open for application?</summary>
+				<p style="margin-top: 5px; margin-bottom: 25px">Please check our NParks Allotment Gardens webpage and our social media platforms for updates on available plots and registration details.</p>
+			</details>
+			<details>
+				<summary>I missed the allotment garden plot application exercise/opening, can I be placed on a waitlist?</summary>
+				<p style="margin-top: 5px; margin-bottom: 25px">There are no waiting lists as all available plots will be assigned to successfully balloted applicants. Applicants may apply for a plot when the registration opens again for other allotment gardens. Please check our NParks Allotment Gardens webpage and our social media platforms for updates on available plots and registration details.</p>
+			</details>
+			<details>
+				<summary>I am a foreigner, can I apply for an allotment garden plot?</summary>
+				<p style="margin-top: 5px; margin-bottom: 25px">Yes, but Singaporeans and Permanent Residents will be given priority.</p>
+			</details>
+			<details>
+				<summary>What is the minimum age to apply for an allotment garden plot?</summary>
+				<p style="margin-top: 5px; margin-bottom: 25px">The minimum age to apply for a plot is 18 years old at the time of application.</p>
+			</details>
+		</div>
+	</li>
+	<li><input type="checkbox" id="accordion4">
+		<label for="accordion4">For Existing Gardeners</label>
+		<div>
+			<details>
+				<summary>Can existing gardeners re-apply to continue gardening at their allotment garden plot after the end of the 3-year TOL?</summary>
+				<p style="margin-top: 5px; margin-bottom: 25px">Before the 3-year Temporary Occupation Licence (TOL) expires, existing gardeners who have maintained good gardening etiquette will be contacted by NParks officers to offer them an additonal 3-years TOL. The terms and conditions and fees for the allotment garden plot may be updated from time to time and allotment gardeners are requested to read the updated terms and conditions of the TOL.</p>
+			</details>
+			<details>
+				<summary>What does it mean to maintain good gardening etiquette?</summary>
+				<p style="margin-top: 5px; margin-bottom: 25px">Good gardening etiquette includes keeping the allotment garden plot tidy and clean, maintaining the plants well and keep them pest free, storing all gardening items neatly, ensure all planting structures installed are compliant with terms and conditions, and conducting regularly checks for stagnant water to prevent mosquito breeding. Having a well-kept and maintained allotment garden plot ensures that it is safe and enjoyable for everyone. For more information on good gardening etiquette, check out the <a href="/garden-management/housekeeping/">garden housekeeping</a> page.</p>
+			</details>
+			<details>
+				<summary>Why are existing gardeners being given the opportunity to continue gardening at their plots? Why not keep the existing system of computerised balloting?</summary>
+				<p style="margin-top: 5px; margin-bottom: 25px">We hope to continue fostering a love for gardening by allowing existing gardeners who have maintained good gardening etiquette to continue gardening at their allotment garden plots.</p>
+			</details>
+		</div>
+	</li>
+	<li><input type="checkbox" id="accordion5">
+		<label for="accordion5">For New Gardeners</label>
+		<div>
+			<details>
+				<summary>How can new gardeners get an opportunity to secure an allotment garden plot, if existing gardeners are staying on with their plots? </summary>
+				<p style="margin-top: 5px; margin-bottom: 25px">NParks will continue to roll out new allotment garden plots in more parks across Singapore to provide the community with opportunities to garden near their homes. In tandem, we are working closely with agencies, Town Councils and Grassroot Organisations to implement more allotment gardens in areas outside of parklands, as part of efforts to provide allotment gardens closer to residents for their convenience. All this will allow us to continue fostering a love for gardening among Singaporeans and nurturing a community of gardeners.</p>
+			</details>
+			<details>
+				<summary>Out of all the allotment garden plots, how many will NParks reoffer to existing gardeners and how many will be opened to new gardeners for balloting? </summary>
+				<p style="margin-top: 5px; margin-bottom: 25px">Existing gardeners who have maintained good gardening etiquette will be reoffered to continue gardening at their allotment garden plots. Should they choose not to continue gardening, their plots will be released for balloting. NParks will also continue to provide more allotment garden plots in our parks.</p>
+			</details>
+			<details>
+				<summary>When can new gardeners apply for allotment garden plots? </summary>
+				<p style="margin-top: 5px; margin-bottom: 25px">More details will be provided when ready. We will be updating this webpage and NParks' social media sites when plots are open for application.</p>
+			</details>
+		</div>
+	</li>
+	<li><input type="checkbox" id="accordion6">
+		<label for="accordion6">Temporary Occupation Licence (TOL) &amp; Payments Related</label>
+		<div>
+			<details>
+				<summary>Can I get refund of my TOL once I have made payment?</summary>
+				<p style="margin-top: 5px; margin-bottom: 25px">It is important to read all Terms and Conditions of the Temporary Occupation Licence (TOL) document. The TOL, once paid, is non-refundable. </p>
+			</details>
+			<details>
+				<summary>Can I just pay the fee for 1 year? </summary>
+				<p style="margin-top: 5px; margin-bottom: 25px">The allotment garden plot is leased on a 3-year basis. You will need to pay for 3 years at the start of your leasing period.</p>
+			</details>
+			<details>
+				<summary>Will I get a refund if I need to end the lease before the third year?</summary>
+				<p style="margin-top: 5px; margin-bottom: 25px">No refund will be given if you decide to terminate the Licence before the lease expires. </p>
+			</details>
+			<details>
+				<summary>When must I pay for the plot and what is the payment mode?</summary>
+				<p style="margin-top: 5px; margin-bottom: 25px">A Letter of Offer will be sent to all successful applicants via email from AXS. Payment mode will be via any AXS Channels – e-Station (Website at https://e-station2.axs.com.sg/), m-Station (Mobile application, or AXS Station (Kiosk) found island-wide. The payment instructions will be provided in the Letter of Offer.</p>
+			</details>
+		</div>
+	</li>
+</ul>
+
+<br>
+<p>Can't find what you're looking for? Submit your enquiries via our <a href="http://www.nparks.gov.sg/feedback">Feedback Form</a>.</p>
+<p>For questions related to the February 2024 Application Exercise (such as instructions to apply via AXS), please contact <b>AXS Customer Service at 6560 2727</b> (8.30am - 6pm daily).</p>
+
+</ul>
