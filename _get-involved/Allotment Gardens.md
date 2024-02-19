@@ -119,7 +119,7 @@ details[open] > summary {
 
 <p>If you are interested to lease a plot in any of the above parks, please submit your application by <b>5 March 2024 (Tuesday), 11.59pm</b> via any of the following AXS* Channels:</p>
 <ul>	
-<li> AXS e-Station (Website at https://e-station2.axs.com.sg/);</li>
+<li> AXS e-Station (Website at <a href="https://e-station2.axs.com.sg">https://e-station2.axs.com.sg</a>);</li>
 <li> AXS m-Station (Mobile application) available on App Store, Google Play and App Gallery; or</li>
 <li>AXS Station (Kiosk) found islandwide.</li>
 </ul>
