@@ -55,19 +55,16 @@ details[open] > summary {
 
 <iframe height="415" width="100%" src="https://www.google.com/maps/d/u/1/embed?mid=1apkeSb5QHzODZOp7DdtNxFTa61GSA9U&amp;ehbc=2E312F&amp;noprof=1"></iframe>
 
-<p>NParks will be progressively introducing more plots in various parks across Singapore, and work closely with agencies, Town Councils and Grassroots Organisations to implement more allotment gardens in areas outside of parklands to enable more people to garden closer to where they live. To support these efforts, NParks has also published ‘<a href="https://go.gov.sg/guide-to-design-allotment-gardens">A Guide to Designing and Implementing Allotment Gardens</a>', which is free for all to download.</p> 
 
-<p>Keen to kick-start an allotment garden in your estate with like-minded residents? Check out how you can do so under the <a href="https://go.gov.sg/cib-initiative">Community in Bloom</a> programme!
-
-</p><h4>About the Allotment Gardening Scheme</h4>
+<p></p><h4>About the Allotment Gardening Scheme</h4>
 
 <p>Under NParks’ Allotment Gardening Scheme, each household may apply and ballot for one garden plot at any one location at a time. Each plot consists of a raised planter bed (2.5m x 1m) with soil and a mini storage area for tools and may be leased for a period of up to 3 years at a charge of <b>$57 per year</b> (excluding prevailing GST). </p> 
 
-<h4>How can I apply for an allotment gardening plot?</h4>
+<h4>How can I apply for an allotment garden plot?</h4>
 
-<p><u><strong>November 2023 Application Exercise (Closed)</strong></u></p>
+<p><u><strong>February 2024 Application Exercise</strong></u></p>
 
-<p>Applications for allotment garden plots are open from 15 November 2023, 10.00am to 27 November 2023, 12.00pm, for the following locations:</p>
+<p>Applications for allotment garden plots are <b>open from 21 February 2024, 10.00am to 5 March 2024, 11.59pm</b>, for the following locations:</p>
 
 <table>
 	<thead>
@@ -81,66 +78,46 @@ details[open] > summary {
 	<tbody>
 	<tr>
 		<td>1</td>
-		<td>Bedok Reservoir Park</td>
-		<td>46</td>
+		<td>East Coast Park Area A</td>
+		<td>25</td>
 		<td style="text-align:center">Q2 2024</td>		
 	</tr>
 	<tr>
 		<td>2</td>
-		<td>Bishan-Ang Mo Kio Park</td>
-		<td>34</td>
+		<td>Lower Seletar Reservoir Park</td>
+		<td>9</td>
 		<td style="text-align:center">Q2 2024</td>
 	</tr>
 	<tr>
 		<td>3</td>
-		<td>Clementi Woods Park</td>
-		<td>42</td>
+		<td>Punggol Waterway Park</td>
+		<td>30</td>
 		<td style="text-align:center">Q2 2024</td>
 	</tr>
 	<tr>
 		<td>4</td>
-		<td>HortPark</td>
-		<td>81</td>
+		<td>Sun Plaza Park</td>
+		<td>60</td>
 		<td style="text-align:center">Q2 2024</td>
 	</tr>
 	<tr>
 		<td>5</td>
-		<td>Lower Seletar Reservoir (Plot 1)<br>Lower Seletar Reservoir (Plot 2)</td>
-		<td>25<br>15</td>
+		<td>West Coast Park (Area 2)</td>
+		<td>3</td>
 		<td style="text-align:center">Q2 2024</td>
 	</tr>
 	<tr>
 		<td>6</td>
-		<td>Punggol Waterway Park</td>
-		<td>63</td>
-		<td style="text-align:center">Q1 2024</td>
-	</tr>
-	<tr>
-		<td>7</td>
-		<td>Villa Verde Park</td>
-		<td>53</td>
-		<td style="text-align:center">Q1 2024</td>
-	</tr>
-	<tr>
-		<td>8</td>
-		<td>West Coast Park (Area 2)</td>
-		<td>48</td>
+		<td>Woodlands Waterfront Park</td>
+		<td>60</td>
 		<td style="text-align:center">Q2 2024</td>
-	</tr>
-	<tr>
-		<td>9</td>
-		<td>Yishun Neighbourhood Park</td>
-		<td>20</td>
-		<td style="text-align:center">Q1 2024</td>
 	</tr>
 	</tbody>
 </table>
 
-<p>More information on the locations of the Allotment Gardens above can be found <a href="/files/List_of_allotment_gardens_open_for_application__Nov_2023_.pdf">here</a>.</p>
+<p>More information on the locations of the Allotment Gardens above can be found <a href="/files/ List_of_AG_Locations___Feb_2024_Applications.pdf">here</a>.</p>
 
-<p><strong>Applications are now closed.</strong> Plots will be assigned via ballot. Successful applicants will be notified via email on the outcome of their application by February 2024.</p>
 
-The next application exercise will be in 2024. Keep a lookout for more details on this webpage or follow NParks' social media for updates.
 
 <h4>Frequently Asked Questions (FAQs)</h4>
 <p>Have a question about the Allotment Gardening Scheme? Check out the FAQs below!</p>
