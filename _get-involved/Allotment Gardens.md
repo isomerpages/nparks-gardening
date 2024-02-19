@@ -117,6 +117,25 @@ details[open] > summary {
 
 <p>More information on the locations of the Allotment Gardens above can be found <a href="/files/ List_of_AG_Locations___Feb_2024_Applications.pdf">here</a>.</p>
 
+<p>If you are interested to lease a plot in any of the above parks, please submit your application by <b>5 March 2024 (Tuesday), 11.59pm</b> via any of the following AXS* Channels:</p>
+<ul>	
+<li> AXS e-Station (Website at https://e-station2.axs.com.sg/);</li>
+<li> AXS m-Station (Mobile application) available on App Store, Google Play and App Gallery; or</li>
+<li>AXS Station (Kiosk) found islandwide.</li>
+</ul>
+
+<p>More information on the application terms and conditions (T&amp;Cs) are available in the application system. You are reminded to read the instructions and T&amp;Cs carefully before submitting an application.</p>
+<p><i>*Please note that all applications for upcoming allotment garden plots will be done via AXS platforms to streamline the application process. Successful applicants will also make payment through AXS payment channels.</i></p>
+
+<div class="wrapper">
+  <a style="text-decoration:none; color: white" href="https://go.gov.sg/ags-plot-application"><div class="box">
+    Apply Now!</div></a>
+</div> 
+
+<p>For step-by-step guides on how to apply or make payment for the allotment garden plot application via AXS Channels, please click below:</p>
+<ul>
+	<li><a href="”https://go.gov.sg/nparks-ag-plot-how-to-apply-axs”">How to apply</a></li>
+	<li> <a href="”https://go.gov.sg/nparks-ag-plot-how-to-pay-axs”">How to make payment</a> (for successful applicants only)</li>
 
 
 <h4>Frequently Asked Questions (FAQs)</h4>
@@ -304,4 +323,4 @@ details[open] > summary {
 </ul>
 
 <br>
-<p>Can't find what you're looking for? Submit your enquiries via our <a href="http://www.nparks.gov.sg/feedback">Feedback Form</a>.</p>
+<p>Can't find what you're looking for? Submit your enquiries via our <a href="http://www.nparks.gov.sg/feedback">Feedback Form</a>.</p></ul>
