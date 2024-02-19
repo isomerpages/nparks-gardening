@@ -134,8 +134,8 @@ details[open] > summary {
 
 <p>For step-by-step guides on how to apply or make payment for the allotment garden plot application via AXS Channels, please click below:</p>
 <ul>
-	<li><a href="”https://go.gov.sg/nparks-ag-plot-how-to-apply-axs”">How to apply</a></li>
-	<li> <a href="”https://go.gov.sg/nparks-ag-plot-how-to-pay-axs”">How to make payment</a> (for successful applicants only)</li>
+	<li><a href="”https://go.gov.sg/nparks-ag-plot-how-to-pay-axs.pdf”">How to apply</a></li>
+	<li> <a href="”https://go.gov.sg/nparks-ag-plot-how-to-pay-axs.pdf”">How to make payment</a> (for successful applicants only)</li>
 </ul>
 
 <h4>Frequently Asked Questions (FAQs)</h4>
