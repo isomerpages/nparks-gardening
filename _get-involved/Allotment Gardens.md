@@ -115,7 +115,7 @@ details[open] > summary {
 	</tbody>
 </table>
 
-<p>More information on the locations of the Allotment Gardens above can be found <a href="/files/ List_of_AG_Locations___Feb_2024_Applications.pdf">here</a>.</p>
+<p>For more information on the locations of the Allotment Gardens, please refer to the map above.</p>
 
 <p>If you are interested to lease a plot in any of the above parks, please submit your application by <b>5 March 2024 (Tuesday), 11.59pm</b> via any of the following AXS* Channels:</p>
 <ul>	
