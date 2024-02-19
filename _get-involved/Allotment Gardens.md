@@ -146,12 +146,12 @@ details[open] > summary {
 		<div>
 			<details>
 				<summary>What is an allotment garden?</summary>
-				<p style="margin-top: 5px; margin-bottom: 25px">Allotment gardens are areas located within parks and gardens that house gardening plots available for lease to the community to grow their own plants. With most of the population living in high-rise flats with minimal space for gardening within their household footprint, these allotment garden plots provide them with further opportunities to garden.</p>
+				<p style="margin-top: 5px; margin-bottom: 25px">Allotment gardens are areas located within parks and gardens that house gardening plots available for lease to the community to grow their own plants.</p>
 		</details>
 		<details>
 				<summary>How many allotment garden plots are there now, and will the numbers continue to be increased?</summary>	
-				<p style="margin-top: 5px; margin-bottom: 25px">To date, over 2,200 allotment garden plots have been made available to the community with plans for further expansion.</p>
-				<p style="margin-top: 5px; margin-bottom: 25px">In tandem, NParks is working with Town Councils and Grassroot Organisations to provide advice on setting up of allotment gardens in public housing estates so that residents can garden closer to their homes. </p>
+				<p style="margin-top: 5px; margin-bottom: 25px">To date, over 2,400 allotment garden plots have been made available to the community with plans for further expansion.</p>
+				<p style="margin-top: 5px; margin-bottom: 25px">NParks will be progressively introducing more plots in various parks across Singapore, and work closely with agencies, Town Councils and Grassroots Organisations to implement more allotment gardens in areas outside of parklands to enable more people to garden closer to where they live.</p>
 		</details>
 		<details>
 			<summary>In which parks can allotment gardens be found?</summary>
@@ -177,12 +177,22 @@ details[open] > summary {
 				<li>Punggol Waterway Park</li>
 				<li>Sembawang Park</li>
 				<li>Sengkang Riverside Park</li>
+				<li>Sun Plaza Park</li>
 				<li>Tiong Bahru Park</li>
 				<li>Villa Verde Park</li>
 				<li>West Coast Park</li>
+				<li>Woodlands Waterfront Park</li>
 				<li>Yishun Park</li>
 				<li>Yishun Neighbourhood Park</li>
 			</ol>
+			</details>
+			<details>
+				<summary>What should I do if I am keen to start an allotment garden in my residential estate?</summary>
+				<p style="margin-top: 5px; margin-bottom: 25px">Check out our <a href="”https://go.gov.sg/community-in-bloom”">Community in Bloom</a> programme on setting up a community garden in a public/private residential estate, school, or organisation.</p>
+			</details>
+			<details>
+				<summary>Are there guidelines to designing an allotment garden?</summary>
+				<p style="margin-top: 5px; margin-bottom: 25px">NParks has published ‘<a href="https://go.gov.sg/guide-to-design-allotment-gardens">A Guide to Designing and Implementing Allotment Gardens</a>', which is free for all to download </p>
 			</details>
 		</div>
 	</li>
@@ -191,7 +201,8 @@ details[open] > summary {
 		<div>
 			<details>
 				<summary>Can I plant anything that I like?</summary>
-				<p style="margin-top: 5px; margin-bottom: 25px">All plants and gardening structures should not exceed one (1) metre in standing height (measured from soil level in the planter bed). Gardeners are advised not to plant poisonous plants or those with sap as these plants can cause discomfort and are harmful to the public. Plants that are illegal are not allowed to be planted.</p>
+				<p style="margin-top: 5px; margin-bottom: 25px">All plants and gardening structures should not exceed one (1) metre in standing height (measured from soil level in the planter bed).</p> 
+<p style="margin-top: 5px; margin-bottom: 25px">Gardeners are advised not to plant thorny plants or plants with spikes, poisonous plants or those with sap as these plants can cause discomfort and are harmful to the public. Plants that are illegal are not allowed to be planted.</p>
 				<p style="margin-top: 5px; margin-bottom: 25px">Gardeners are to be mindful of the neighbouring plots when planting up their plots and ensure that their plants do not encroach into the neighbouring plots’ space and walking paths within the parks. Gardeners should keep their space clean and tidy for the safety of all allotment gardeners.</p>
 			</details>
 			<details>
@@ -205,7 +216,7 @@ details[open] > summary {
 				</details>
 				<details>
 					<summary>Will NParks provide fencing, security or surveillance at allotment gardens?</summary>
-					<p style="margin-top: 5px; margin-bottom: 25px">Our allotment gardens are located in publicly accessible areas to allow park visitors to appreciate our green spaces and amenities holistically. Gardeners are informed during registration on this. We also inform gardeners upfront that no CCTVs or fencing are to be installed and that a storage box is provided for their tools and gardening materials.</p>
+					<p style="margin-top: 5px; margin-bottom: 25px">Our allotment gardens are located in publicly accessible areas to allow park visitors to appreciate our green spaces and amenities holistically. We also inform gardeners upfront that no CCTVs or fencing are to be installed and that a storage box is provided for their tools and gardening materials.</p>
 					<p style="margin-top: 5px; margin-bottom: 25px">NParks would like to remind all park visitors to be considerate and keep our parks a place for everyone to enjoy, by not picking or damaging the plants in the parks including those belonging to the allotment gardeners.</p>
 					<p style="margin-top: 5px; margin-bottom: 25px">However, if there are recurrent reports on incidents of theft or vandalism at particular locations, NParks will consider additional measures to deter such occurrences. These may include putting up more signages at prominent areas of the allotment garden premises to remind public, and/or installation of CCTVs for general park surveillance.</p>
 				</details>
@@ -231,96 +242,11 @@ details[open] > summary {
 	<li><input type="checkbox" id="accordion3">
 		<label for="accordion3">Allotment Garden Plot Application Related</label>
 		<div>
-			<details>
-				<summary>How many plots can I apply for and how many plots can I lease?</summary>
-				<p style="margin-top: 5px; margin-bottom: 25px">Applications are based on a per household basis. Each applicant is allowed to apply for only one (1) allotment garden plot at any one time. If the application is successful, only one (1) license will be issued to the applicant, regardless of the number of persons in the household.</p>
+<details>
+				<summary>Other than AXS application, are there other methods to apply?</summary>
+				<p style="margin-top: 5px; margin-bottom: 25px">All applications will now have to be made through AXS. Interested members of the public may apply through AXS channels – e-Station (Website at https://e-station2.axs.com.sg/), m-Station (Mobile application) and AXS stations (Kiosk) found island-wide.</p> 
+				<p style="margin-top: 5px; margin-bottom: 25px">Applicants can contact AXS hotline at 6560 2727 (8.30am – 6pm daily) for assistance.</p>
 			</details>
-			<details>
-				<summary>Will submitting multiple applications per household increase my chances of getting a plot?</summary>
-				<p style="margin-top: 5px; margin-bottom: 25px">No. If there are multiple applications received from the same household address, only one (1) entry will be considered for balloting. All other applications made from the same household will be disregarded.</p>
-			</details>
-			<details>
-				<summary>Can I choose the plot to lease?</summary> 
-				<p style="margin-top: 5px; margin-bottom: 25px">All plots (waist- or knee-height) are assigned strictly through a balloting system.</p>
-			</details>
-			<details>
-				<summary>How would applicants know if they are successful? When can I expect to start gardening after applying for a plot?</summary>
-				<p style="margin-top: 5px; margin-bottom: 25px">All successful applicants will receive a Letter of Offer via email from NParks within three (3) months form the closing date of the application exercise. More information, such as the payment instructions and start date of gardening on-site, will be shared in the Letter. A Temporary Occupation Licence (TOL) will also be issued to successful applicants in respect of the use of the allotment garden plot.</p>
-			</details>
-			<details>
-				<summary>Can you call/SMS me back when the allotment plots in the park I am interested in are open for application?</summary>
-				<p style="margin-top: 5px; margin-bottom: 25px">Please check our NParks Allotment Gardens webpage and our social media platforms for updates on available plots and registration details.</p>
-			</details>
-			<details>
-				<summary>I missed the allotment garden plot application exercise/opening, can I be placed on a waitlist?</summary>
-				<p style="margin-top: 5px; margin-bottom: 25px">There are no waiting lists as all available plots will be assigned to successfully balloted applicants. Applicants may apply for a plot when the registration opens again for other allotment gardens. Please check our NParks Allotment Gardens webpage and our social media platforms for updates on available plots and registration details.</p>
-			</details>
-			<details>
-				<summary>I am a foreigner, can I apply for an allotment garden plot?</summary>
-				<p style="margin-top: 5px; margin-bottom: 25px">Yes, but Singaporeans and Permanent Residents will be given priority.</p>
-			</details>
-			<details>
-				<summary>What is the minimum age to apply for an allotment garden plot?</summary>
-				<p style="margin-top: 5px; margin-bottom: 25px">The minimum age to apply for a plot is 18 years old at the time of application.</p>
-			</details>
-		</div>
-	</li>
-	<li><input type="checkbox" id="accordion4">
-		<label for="accordion4">For Existing Gardeners</label>
-		<div>
-			<details>
-				<summary>Can existing gardeners re-apply to continue gardening at their allotment garden plot after the end of the 3-year TOL?</summary>
-				<p style="margin-top: 5px; margin-bottom: 25px">Before the 3-year Temporary Occupation Licence (TOL) expires, existing gardeners who have maintained good gardening etiquette will be contacted by NParks officers to offer them an additonal 3-years TOL. The terms and conditions and fees for the allotment garden plot may be updated from time to time and allotment gardeners are requested to read the updated terms and conditions of the TOL.</p>
-			</details>
-			<details>
-				<summary>What does it mean to maintain good gardening etiquette?</summary>
-				<p style="margin-top: 5px; margin-bottom: 25px">Good gardening etiquette includes keeping the allotment garden plot tidy and clean, maintaining the plants well and keep them pest free, storing all gardening items neatly, ensure all planting structures installed are compliant with terms and conditions, and conducting regularly checks for stagnant water to prevent mosquito breeding. Having a well-kept and maintained allotment garden plot ensures that it is safe and enjoyable for everyone. For more information on good gardening etiquette, check out the <a href="/garden-management/housekeeping/">garden housekeeping</a> page.</p>
-			</details>
-			<details>
-				<summary>Why are existing gardeners being given the opportunity to continue gardening at their plots? Why not keep the existing system of computerised balloting?</summary>
-				<p style="margin-top: 5px; margin-bottom: 25px">We hope to continue fostering a love for gardening by allowing existing gardeners who have maintained good gardening etiquette to continue gardening at their allotment garden plots.</p>
-			</details>
-		</div>
-	</li>
-	<li><input type="checkbox" id="accordion5">
-		<label for="accordion5">For New Gardeners</label>
-		<div>
-			<details>
-				<summary>How can new gardeners get an opportunity to secure an allotment garden plot, if existing gardeners are staying on with their plots? </summary>
-				<p style="margin-top: 5px; margin-bottom: 25px">NParks will continue to roll out new allotment garden plots in more parks across Singapore to provide the community with opportunities to garden near their homes. In tandem, we are working closely with agencies, Town Councils and Grassroot Organisations to implement more allotment gardens in areas outside of parklands, as part of efforts to provide allotment gardens closer to residents for their convenience. All this will allow us to continue fostering a love for gardening among Singaporeans and nurturing a community of gardeners.</p>
-			</details>
-			<details>
-				<summary>Out of all the allotment garden plots, how many will NParks reoffer to existing gardeners and how many will be opened to new gardeners for balloting? </summary>
-				<p style="margin-top: 5px; margin-bottom: 25px">Existing gardeners who have maintained good gardening etiquette will be reoffered to continue gardening at their allotment garden plots. Should they choose not to continue gardening, their plots will be released for balloting. NParks will also continue to provide more allotment garden plots in our parks.</p>
-			</details>
-			<details>
-				<summary>When can new gardeners apply for allotment garden plots? </summary>
-				<p style="margin-top: 5px; margin-bottom: 25px">More details will be provided when ready. We will be updating this webpage and NParks' social media sites when plots are open for application.</p>
-			</details>
-		</div>
-	</li>
-	<li><input type="checkbox" id="accordion6">
-		<label for="accordion6">Temporary Occupation Licence (TOL) &amp; Payments Related</label>
-		<div>
-			<details>
-				<summary>Can I get refund of my TOL once I have made payment?</summary>
-				<p style="margin-top: 5px; margin-bottom: 25px">It is important to read all Terms and Conditions of the Temporary Occupation Licence (TOL) document. The TOL, once paid, is non-refundable. </p>
-			</details>
-			<details>
-				<summary>Can I just pay the fee for 1 year? </summary>
-				<p style="margin-top: 5px; margin-bottom: 25px">The allotment garden plot is leased on a 3-year basis. You will need to pay for 3 years at the start of your leasing period.</p>
-			</details>
-			<details>
-				<summary>Will I get a refund if I need to end the lease before the third year?</summary>
-				<p style="margin-top: 5px; margin-bottom: 25px">No refund will be given if you decide to terminate the Licence before the lease expires. </p>
-			</details>
-			<details>
-				<summary>When must I pay for the plot and what is the payment mode?</summary>
-				<p style="margin-top: 5px; margin-bottom: 25px">A Letter of Offer will be sent to all successful applicants via email from NParks. Payment mode will be by bank transfer to an NParks bank account or by PayNow to NParks. The details will be provided in the Letter of Offer.</p>
-			</details>
-		</div>
-	</li>
-</ul>
-
-<br>
-<p>Can't find what you're looking for? Submit your enquiries via our <a href="http://www.nparks.gov.sg/feedback">Feedback Form</a>.</p></ul>
+<details>
+				<summary>Why did applications change to the AXS system?</summary>
+	</details></div></li></ul></ul>
