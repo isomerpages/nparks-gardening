@@ -192,7 +192,7 @@ details[open] > summary {
 			</details>
 			<details>
 				<summary>Are there guidelines to designing an allotment garden?</summary>
-				<p style="margin-top: 5px; margin-bottom: 25px">NParks has published ‘<a href="https://go.gov.sg/guide-to-design-allotment-gardens">A Guide to Designing and Implementing Allotment Gardens</a>', which is free for all to download </p>
+				<p style="margin-top: 5px; margin-bottom: 25px">NParks has published ‘<a href="https://go.gov.sg/guide-to-design-allotment-gardens">A Guide to Designing and Implementing Allotment Gardens</a>', which is free for all to download.</p>
 			</details>
 		</div>
 	</li>
