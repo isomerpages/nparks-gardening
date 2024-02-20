@@ -115,7 +115,7 @@ details[open] > summary {
 	</tbody>
 </table>
 
-<p>For more information on the locations of the Allotment Gardens, please refer to the map above.</p>
+<p>For the exact locations of the allotment gardens within each park, please refer to the map above.</p>
 
 <p>If you are interested to lease a plot in any of the above parks, please submit your application by <b>5 March 2024 (Tuesday), 11.59pm</b> via any of the following AXS* Channels:</p>
 <ul>	
@@ -346,4 +346,3 @@ details[open] > summary {
 <br>
 <p>Can't find what you're looking for? Submit your enquiries via our <a href="http://www.nparks.gov.sg/feedback">Feedback Form</a>.</p>
 <p>For questions related to the February 2024 Application Exercise (such as instructions to apply via AXS), please contact <b>AXS Customer Service at 6560 2727</b> (8.30am - 6pm daily).</p>
-
