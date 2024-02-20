@@ -134,8 +134,8 @@ details[open] > summary {
 
 <p>For step-by-step guides on how to apply or make payment for the allotment garden plot application via AXS Channels, please click below:</p>
 <ul>
-	<li><a href="”https://go.gov.sg/nparks-ag-plot-how-to-pay-axs.pdf”">How to apply</a></li>
-	<li> <a href="”https://go.gov.sg/nparks-ag-plot-how-to-pay-axs.pdf”">How to make payment</a> (for successful applicants only)</li>
+	<li><a href="https://go.gov.sg/nparks-ag-plot-how-to-pay-axs.pdf">How to apply</a></li>
+	<li> <a href="https://go.gov.sg/nparks-ag-plot-how-to-pay-axs.pdf">How to make payment</a> (for successful applicants only)</li>
 </ul>
 
 <h4>Frequently Asked Questions (FAQs)</h4>
@@ -188,7 +188,7 @@ details[open] > summary {
 			</details>
 			<details>
 				<summary>What should I do if I am keen to start an allotment garden in my residential estate?</summary>
-				<p style="margin-top: 5px; margin-bottom: 25px">Check out our <a href="”https://go.gov.sg/community-in-bloom”">Community in Bloom</a> programme on setting up a community garden in a public/private residential estate, school, or organisation.</p>
+				<p style="margin-top: 5px; margin-bottom: 25px">Check out our <a href="https://go.gov.sg/community-in-bloom">Community in Bloom</a> programme on setting up a community garden in a public/private residential estate, school, or organisation.</p>
 			</details>
 			<details>
 				<summary>Are there guidelines to designing an allotment garden?</summary>
