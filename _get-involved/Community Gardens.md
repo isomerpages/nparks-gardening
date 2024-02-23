@@ -47,7 +47,7 @@ variant: markdown
 	<li><input type="checkbox" id="accordion2">
 		<label for="accordion2">How do I join or visit a Community Garden?</label><div>
 		<p>To locate a Community Garden near you, please check out the map below:</p>
-		<iframe height="415" width="100%" src="https://www.google.com/maps/d/u/0/embed?mid=1Wq14XYkU955dfufw67TVKWcpEaG_d6o&amp;ehbc=2E312F"></iframe>
+		<iframe height="415" width="100%" src="https://www.google.com/maps/d/u/1/embed?mid=1IyjD6zhWArZZhDMZnE-J-lJHtYr8LEg&amp;ehbc=2E312F"></iframe>
 		<p>Once you have identified your preferred community garden(s), you may approach the gardening group directly to enquire if they have any garden visit or volunteering opportunities.</p>
 	</div></li>
 	<li><input type="checkbox" id="accordion3">
