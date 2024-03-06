@@ -62,7 +62,7 @@ details[open] > summary {
 
 <h4>How can I apply for an allotment garden plot?</h4>
 
-<p><u><strong>February 2024 Application Exercise</strong></u></p>
+<p><u><strong>February 2024 Application Exercise (Closed)</strong></u></p>
 
 <p>Applications for allotment garden plots are <b>open from 21 February 2024, 10.00am to 5 March 2024, 11.59pm</b>, for the following locations:</p>
 
@@ -126,11 +126,6 @@ details[open] > summary {
 
 <p>More information on the application terms and conditions (T&amp;Cs) are available in the application system. You are reminded to read the instructions and T&amp;Cs carefully before submitting an application.</p>
 <p><i>*Please note that all applications for upcoming allotment garden plots will be done via AXS platforms to streamline the application process. Successful applicants will also make payment through AXS payment channels.</i></p>
-
-<div class="wrapper">
-  <a style="text-decoration:none; color: white" href="https://go.gov.sg/ags-plot-application"><div class="box">
-    Apply Now!</div></a>
-</div> 
 
 <p>For step-by-step guides on how to apply or make payment for the allotment garden plot application via AXS Channels, please click below:</p>
 <ul>
