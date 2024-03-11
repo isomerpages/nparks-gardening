@@ -31,7 +31,7 @@ variant: markdown
 
 <section> 
   <h4>Growing:</h4> 
-	<p>This plant grows quickly and generally does not need fertilising, but feedinga  <a href="/page-index/horticulture-techniques/fertilising/">balanced fertiliser</a> once a year will boost its growth and make it fuller.</p>
+	<p>This plant grows quickly and generally does not need fertilising, but feeding a  <a href="/page-index/horticulture-techniques/fertilising/">balanced fertiliser</a> once a year will boost its growth and make it fuller.</p>
 	<p>Grow the plant in bright indirect light to keep the variegation on the leaves. The leaves will lose their variegation and get <a href="/page-index/plant-problems/sunburn/">burned</a> if the light is too strong.</p>
 	<p>As with all potted plants, regular repotting once a year will prevent it from becoming <a href="/page-index/plant-problems/root-bound/">root bound</a>.</p> 
 		<p>Wipe down the leaves with a soft rag to remove dust deposited to prevent pests such as <a href="/page-index/pests/spider-mites/">Spider Mites</a>. </p>
