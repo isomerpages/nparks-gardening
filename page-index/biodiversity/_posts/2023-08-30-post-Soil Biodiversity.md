@@ -5,6 +5,7 @@ date: 2023-08-30
 layout: post
 description: Learn about organisms in your soil, and how they help to improve it.
 image: /images/Biodiversity/earthworm_trueground.jpg
+variant: markdown
 ---
 <section>
 	<p>Healthy soil is made by a healthy soil biome! Animals, bacteria, and fungi in your soil all interact to make sure that lots of organic matter is made regularly and spread throughout your garden. Supporting your soil ecosystem will also improve your soil texture, reduce erosion and improve plant growth.</p>
@@ -30,7 +31,7 @@ image: /images/Biodiversity/earthworm_trueground.jpg
 
 <section>
 	<h4>Fungi</h4>
-	<img title="Fruiting bodies of fungi. Photo by Zara Chin." src="/images/Biodiversity/fungi_zarachin.jpg">
+	<img title="Fruiting bodies of fungi. Photo by Jacqueline Chua." src="/images/Biodiversity/Fungi_JacquelineChua.jpg">
 	<p>Mushrooms are the fruiting bodies of fungi, and while they look delicious it is generally not recommended that you eat them. The tropics has a massive diversity of fungi, some of which can be poisonous. It is better to be safe rather than sorry and leave them be!</p>
 	<p>Fungi are important decomposers and are key to breaking down woody plant material into nutrients that can be taken up by plants. <a href="/page-index/horticulture-techniques/soil/">Soil</a>, <a href="/page-index/horticulture-techniques/composting/">compost</a>, and <a href="/page-index/horticulture-techniques/mulching/">organic mulch</a> that has a lot of woody material will have more mushrooms appearing, particularly during the wet season, and should not cause alarm. However, mushrooms appearing in pots can be concerning as they generally need moist environments to survive; a plant pot with many mushrooms could be overly moist due to poor drainage, which may eventually lead to <a href="/page-index/plant-problems/root-rot/">root rot</a> for the plant.</p>
 	<br>
