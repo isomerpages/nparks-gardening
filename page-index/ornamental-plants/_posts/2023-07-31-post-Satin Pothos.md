@@ -5,6 +5,7 @@ date: 2023-07-31
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 <header> 
 	<h3>Satin Pothos (<em>Scindapsus pictus</em>)</h3> 
@@ -16,7 +17,7 @@ image: ""
 </section> 
  
 <section> 
-	<img title="The silvery leaves o a Satin pothos. Photo by Victoria Lim." src="/images/Plants/satinpothos_victorialim.jpg">
+	<img title="A Satin pothos in a hanging pot. Photo by Jacqueline Chua." src="/images/Plants/SatinPothos_JacquelineChua.jpg">
 	<p>Satin Pothos is a creeping shrub that can grow up to 12m long, and is <a href="/page-index/glossary/native-plants/">native</a> to Singapore. You can see them climbling on trees in nature parks like Bukit Timah Hill and the Central Catchment Nature Reserve. Its mature leathery leaves are green with white speckles and can be lance or heart shaped. Its flowers are <a href="/page-index/biodiversity/pollinators/">pollinated by insects</a> and its fruits are dispersed by birds.</p>
 	<p>A <a href="/learn-more-about-gardening/glossary/#p">perennial</a> plant, Satin Pothos are great for indoor gardens in semi shaded areas. Its attractive, white-spotted green leaves provide texture and colours to landscape designs.</p>
 	 <br> 
@@ -30,7 +31,7 @@ image: ""
 
 <section> 
   <h4>Growing:</h4> 
-	<p>This plant grows quickly and generally does not need fertilising, but feedinga  <a href="/page-index/horticulture-techniques/fertilising/">balanced fertiliser</a> once a year will boost its growth and make it fuller.</p>
+	<p>This plant grows quickly and generally does not need fertilising, but feeding a  <a href="/page-index/horticulture-techniques/fertilising/">balanced fertiliser</a> once a year will boost its growth and make it fuller.</p>
 	<p>Grow the plant in bright indirect light to keep the variegation on the leaves. The leaves will lose their variegation and get <a href="/page-index/plant-problems/sunburn/">burned</a> if the light is too strong.</p>
 	<p>As with all potted plants, regular repotting once a year will prevent it from becoming <a href="/page-index/plant-problems/root-bound/">root bound</a>.</p> 
 		<p>Wipe down the leaves with a soft rag to remove dust deposited to prevent pests such as <a href="/page-index/pests/spider-mites/">Spider Mites</a>. </p>

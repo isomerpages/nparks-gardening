@@ -12,7 +12,7 @@ image: /images/Gardeners/Kids (2).jpg
 variant: markdown
 ---
 <section>
-	<img title="Community In Bloom ambassadors at the Community Garden Festival in 2019. Photo by NParks." src="/images/Gardeners/Posing%20(2).jpg">
+	<img title="Community In Bloom ambassadors at their appreciation event in 2024. Photo by Jacqueline Chua." src="/images/Gardeners/Ambassadors_2024_JacquelineChua.jpg">
 	<p>Community in Bloom (CIB) Ambassadors are passionate volunteers with excellent horticulture and gardening skills. They actively share their knowledge with the community and lead gardening projects to improve green spaces around them.</p> 
 
 <p>Watch our CIB Ambassadors in action:
@@ -37,7 +37,7 @@ variant: markdown
 </ul></section>
 	
 <section>
-	<h4>How to be a CIB Ambassador?</h4>
+	<h4>How are CIB Ambassadors nominated?</h4>
 	<img title="A CIB Ambassador guiding children on how to water plants. Photo by NParks." src="/images/Gardeners/Kids%20(2).jpg">
 	<p>If you are part of a <a href="/get-involved/community-gardens/">Community Garden</a>, have a love for gardening outreach, and are keen to educate others, you may be the CIB Ambassador that we are looking for!</p>
 	<p>Nominations open yearly online. Watch this space for the next cycle of the CIB Ambassador Awards in 2024!</p>
