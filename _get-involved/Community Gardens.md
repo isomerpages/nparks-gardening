@@ -37,7 +37,7 @@ variant: markdown
 <ul class="jekyllcodex_accordion">
 	<li><input type="checkbox" id="accordion1">
 		<label for="accordion1">About Community in Bloom</label><div>
-		<img title="Community Gardeners working together to check plants for pests. Photo by NParks." src="/images/Gardeners/GeneralMaintainence_JacChua%20(2).jpg">
+		<img title="Community Gardeners working together to check plants for pests. Photo by Jacqueline Chua." src="/images/Gardeners/Gardeners_CozyGarden_JacquelineChua__4_.jpg">
 		<p>Community In Bloom (CIB) is a nationwide gardening programme under the <a href="https://www.nparks.gov.sg/">National Parks Board (NParks)</a> in Singapore. Since the programme’s inception in 2005, NParks has been actively engendering a gardening culture, a greater sense of civic ownership and community stewardship by facilitating the starting and development of Community Gardens islandwide. CIB provides guidance for Community Garden design, community management and site selection for new community gardens, and supports the educational development of Community Gardeners through educational resources like this website, <a href="/page-index/programming/cib-awards/">competitions</a>, and the <a href="/page-index/programming/cib-ambassadors/">CIB Ambassador programme</a>.</p>
 		<img title="A Community Garden on the roof of a multi-story carpark. Photo by Jacqueline Chua." src="/images/Garden%20design/KimTianWest_JacChua%20(1).jpg">
 		<p>Today, the CIB programme has registered over 1,900 community gardens across Singapore, engaging more than 45,000 gardening enthusiasts from all walks of life and across ages.</p> 
