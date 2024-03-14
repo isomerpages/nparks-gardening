@@ -8,6 +8,7 @@ description: Preventing mosquitos from breeding in your garden by removing
   can grow from egg to adult in about a week, so it is important to regularly
   check your garden for mosquito breeding, particularly during the wet season.
 image: /images/Horti techniques/bromeliad_mosquito_jacquelinechua.jpg
+variant: markdown
 ---
 <section>
 	<img title="An Aedes mosquito attempting to lay eggs in standing water collected in a Bromeliad. Photo by Jacqueline Chua." src="/images/Horti%20techniques/bromeliad_mosquito_jacquelinechua.jpg">
@@ -64,7 +65,7 @@ image: /images/Horti techniques/bromeliad_mosquito_jacquelinechua.jpg
 			<ul>
 				<li>Having mosquito-eating fish in ponds</li>
 				<li>Making sure that water in never stagnant in water features and hydroponic systems by using pumps</li>
-				<li>Applying <b>Bacillus thuringiensis israelensis (BTI)</b> granules to kill mosquito larvae</li>
+				<li>Applying <b><i>Bacillus thuringiensis israelensis</i> (BTI)</b> granules to kill mosquito larvae</li>
 					<ul>
 						<li>BTI only kills mosquitoes, blackflies and fungus gnats, making it safe for use in ponds with other organisms like fish</li>
 						<li>Follow product use instructions for the best results</li>
