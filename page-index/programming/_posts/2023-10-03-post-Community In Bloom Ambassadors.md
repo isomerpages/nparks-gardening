@@ -221,7 +221,6 @@ variant: markdown
 					</tr>
 					<tr>
 						<td>Joanora Ng Siew Lan</td>
-						<td>Richmond Tan</td>
 					</tr>
 				</tbody><tbody>
 			</tbody></table>
