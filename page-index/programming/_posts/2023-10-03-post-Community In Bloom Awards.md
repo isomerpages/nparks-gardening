@@ -29,24 +29,13 @@ variant: markdown
 </section>
 <br>
 <section>
-	<h4>Registration Period</h4>
+	<h4>Registration Period (Closed)</h4>
 	<p>This competition is open for registration from <b>29 Jan 2024 till 25 Mar 2024, 11.59 pm</b>.</p>
 	</section>
 <br>
 <section>
-	<h4>How To Participate</h4>
-	<p>Click <a href="https://go.gov.sg/ciba2024submission">here</a> to register online. We highly encourage participants to read through the questionnaire first and prepare the required information before submitting the form.</p>
-	<p>Instructions (Photo Submission)</p>
-	<ul>
-		<li>Submission of a minimum of three photographs and a maximum of 10 photographs showcasing focal points and previous gardening activities (Jan 2022 to Dec 2023) in your CIB garden.</li>
-		<li>Each photograph entry must be submitted digitally in JPEG format and be no larger than 2 MB.</li>
-		<li>Download the instructions for CIB Awards 2024 (Housing Estates) - Photo Submission <a href="https://go.gov.sg/ciba2024instructions">here</a>.</li>
-	</ul>
 	<p><b>Terms &amp; Conditions</b></p>
 	<p>Download the terms and conditions for the competition <a href="https://go.gov.sg/ciba2024tncs">here</a>.</p>
-	<p><b>Virtual Briefing on the CIB Awards 2024</b></p>
-	<p>Want clarifications on the registration process? Join our virtual session on either <b> 17 Feb, 29 Feb</b> or <b>14 Mar 2024 at 12 noon</b> where we will guide you through the registration process.</p>
-	<p>Sign up <a href="https://go.gov.sg/ciba2024virtualsession">here</a> if you are interested to attend.</p>
 	<p><b>Awards and prizes</b></p>
 	<ul>
 		<li>CIB Garden of the Year Awards</li>
