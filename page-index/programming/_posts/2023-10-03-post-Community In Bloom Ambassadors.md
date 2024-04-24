@@ -79,7 +79,7 @@ details[open] > summary {
 <br>
 <section>	
 <h4>About the CIB Ambassador Awards</h4>
-	<img title="A CIB Ambassador guiding children on how to water plants. Photo by NParks." src="/images/Gardeners/Kids%20(2).jpg">
+	<img title="A CIB Ambassador guiding children on how to water plants. Photo by NParks." src="/images/Gardeners/kids%20(2).jpg">
 	<p>The CIB Ambassador Awards recognises individuals who promote the love for gardening amongst the community through various initiatives such as outreach and facilitating gardening-based community projects. Since its introduction in 2008, the Awards have celebrated the efforts of our volunteers going above and beyond in contributing to Singapore's gardening movement.</p> 
 	<p>Watch our CIB Ambassadors in action:</p>
 	<iframe width="100%" height="415" src="https://www.youtube.com/embed/NjoavpXdiX4?si=tr229_ZUR517j94X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
