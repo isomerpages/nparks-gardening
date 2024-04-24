@@ -89,16 +89,16 @@ details[open] > summary {
 <section>
 	<h4>Why be a CIB Ambassador</h4>
 	<ul>
-		<li>Network with like-minded people who share your passion for gardening</li>
-		<li>Expand your gardening knowledge through various training opportunities</li>
+		<li>Connect with fellow gardening enthusiasts and expand your network within the gardening community</li>
+		<li>Access exclusive training opportunities to enhance your gardening skills and knowledge</li>
 		<li>Be invited to specially curated learning journeys</li>
-		<li>Work on gardening-related projects with NParks</li>
+		<li>Collaborate on exciting gardening-related projects with NParks, contributing to our City in Nature Vision</li>
 </ul></section>
 	
 <section>
 	<h4>How are CIB Ambassadors nominated?</h4>
 	<img title="A CIB Ambassador guiding children on how to water plants. Photo by NParks." src="/images/Gardeners/Kids%20(2).jpg">
-	<p>If you are part of a <a href="/get-involved/community-gardens/">Community Garden</a>, have a love for gardening outreach, and are keen to educate others, you may be the CIB Ambassador that we are looking for!</p>
+		<p>If you are part of a  , have a love for gardening outreach, and are keen to educate others, you may be the CIB Ambassador that we are looking for!</p>
 	<p>Nominations open yearly online. Watch this space for the next cycle of the CIB Ambassador Awards in 2024!</p>
 	<br>
 </section>
