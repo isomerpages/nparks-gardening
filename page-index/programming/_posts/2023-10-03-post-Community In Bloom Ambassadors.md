@@ -67,8 +67,7 @@ details[open] > summary {
 	</ul>		
 <p>Know someone suitable and deserving? Nominate them for the CIB Ambassador Awards today! Nominations close on <b>2 June 2024</b>.</p>		
 
-        
-
+       
 <div class="wrapper">
 
 &nbsp; <a style="text-decoration:none; color: white" href="https://go.gov.sg/cib-ambassadors-nominations-2024"><div class="box">
@@ -76,8 +75,7 @@ details[open] > summary {
 &nbsp;&nbsp;&nbsp; Nominate Now!</div></a>
 
 </div>	
-	<p>For any queries on the CIB Ambassador Awards 2024 nominations, please email us at: communityinbloom@nparks.gov.sg.</p>
-<br>	
+	<p>For any queries on the CIB Ambassador Awards 2024 nominations, please email us at: communityinbloom@nparks.gov.sg.</p>	
 </section>
 <br>
 <section>	
