@@ -13,13 +13,25 @@ variant: markdown
 ---
 <section>
 	<img title="Community In Bloom ambassadors at their appreciation event in 2024. Photo by Jacqueline Chua." src="/images/Gardeners/Ambassadors_2024_JacquelineChua.jpg">
+</section>
+<section>
+<h4>CIB Ambassador Awards 2024 – Nominations Are Now Open!</h4>
+	<p>Volunteers from community gardens under the Community in Bloom programme are eligible for nomination. We are looking for nominees that are able to: </p>
+	<ul>	
+<li>Promote the benefits of gardening to a wider community</li>
+<li>Lead and facilitate gardening-related activities</li>
+<li>Guide community groups in setting up community gardens or implementing gardening projects</li>
+</ul>
+
+	<br>
+</section>
 	<p>Community in Bloom (CIB) Ambassadors are passionate volunteers with excellent horticulture and gardening skills. They actively share their knowledge with the community and lead gardening projects to improve green spaces around them.</p> 
 
 <p>Watch our CIB Ambassadors in action:
 </p>
 	<iframe width="100%" height="415" src="https://www.youtube.com/embed/NjoavpXdiX4?si=tr229_ZUR517j94X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
 	<br>
-</section>
+
 
 <section>	
 <h4>About the CIB Ambassador Awards</h4>
