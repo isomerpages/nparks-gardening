@@ -76,6 +76,7 @@ details[open] > summary {
 &nbsp;&nbsp;&nbsp; Nominate Now!</div></a>
 
 </div>	
+	<p>For any queries on the CIB Ambassador Awards 2024 nominations, please email us at: communityinbloom@nparks.gov.sg.</p>
 <br>	
 </section>
 <br>
@@ -86,7 +87,7 @@ details[open] > summary {
 	<p>Watch our CIB Ambassadors in action:</p>
 	<iframe width="100%" height="415" src="https://www.youtube.com/embed/NjoavpXdiX4?si=tr229_ZUR517j94X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
 </section>
-
+<br>
 <section>
 	<h4>Why be a CIB Ambassador</h4>
 	<img title="Learning journey. Photo by Jacqueline Chua." src="/images/Gardeners/Ambs_on_learning_journey__OCBC_Arboretum_.jpg">
@@ -97,13 +98,7 @@ details[open] > summary {
 		<li>Collaborate on exciting gardening-related projects with NParks, contributing to our City in Nature Vision</li>
 </ul></section>
 	
-<section>
-	<h4>How are CIB Ambassadors nominated?</h4>
-	<img title="A CIB Ambassador guiding children on how to water plants. Photo by NParks." src="/images/Gardeners/Kids%20(2).jpg">
-		<p>If you are part of a  , have a love for gardening outreach, and are keen to educate others, you may be the CIB Ambassador that we are looking for!</p>
-	<p>Nominations open yearly online. Watch this space for the next cycle of the CIB Ambassador Awards in 2024!</p>
-	<br>
-</section>
+
 	
 <section>
 	<h4>Meet our New CIB Ambassadors for 2023!</h4>
@@ -127,7 +122,7 @@ details[open] > summary {
 					<tr>
 						<td>Albert Quek</td>
 						<td>John Hou Chin Yong</td>
-						<td>Roseli in Rasiman</td>
+						<td>Roseli Bin Rasiman</td>
 					</tr>
 					<tr>
 						<td>Andy Ang Hock Seng</td>
