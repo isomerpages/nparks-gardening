@@ -57,7 +57,7 @@ details[open] > summary {
 <br>
 <section>
 <h4>CIB Ambassador Awards 2024 – Nominations Are Now Open!</h4>
-	<p>Volunteers from community gardens under the Community in Bloom programme are eligible for nomination. We are looking for nominees that are able to: </p>
+	<p>Volunteers from community gardens under the <a href="/get-involved/community-gardens/">Community In bloom</a>Community in Bloom programme are eligible for nomination. We are looking for nominees that are able to: </p>
 	<ul>	
 <li>Promote the benefits of gardening to a wider community</li>
 <li>Lead and facilitate gardening-related activities</li>
@@ -81,6 +81,7 @@ details[open] > summary {
 <br>
 <section>	
 <h4>About the CIB Ambassador Awards</h4>
+	<img title="A CIB Ambassador guiding children on how to water plants. Photo by NParks." src="/images/Gardeners/Kids%20(2).jpg">
 	<p>The CIB Ambassador Awards recognises individuals who promote the love for gardening amongst the community through various initiatives such as outreach and facilitating gardening-based community projects. Since its introduction in 2008, the Awards have celebrated the efforts of our volunteers going above and beyond in contributing to Singapore's gardening movement.</p> 
 	<p>Watch our CIB Ambassadors in action:</p>
 	<iframe width="100%" height="415" src="https://www.youtube.com/embed/NjoavpXdiX4?si=tr229_ZUR517j94X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
@@ -88,6 +89,7 @@ details[open] > summary {
 
 <section>
 	<h4>Why be a CIB Ambassador</h4>
+	<img title="A CIB Ambassador guiding children on how to water plants. Photo by Jacqueline Chua." src="/images/Gardeners/Ambs_on_learning_journey__OCBC_Arboretum_.jpg">
 	<ul>
 		<li>Connect with fellow gardening enthusiasts and expand your network within the gardening community</li>
 		<li>Access exclusive training opportunities to enhance your gardening skills and knowledge</li>
