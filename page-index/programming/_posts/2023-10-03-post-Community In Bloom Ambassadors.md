@@ -76,7 +76,7 @@ details[open] > summary {
 &nbsp;&nbsp;&nbsp; Nominate Now!</div></a>
 
 </div>	
-	<p>For any queries on the CIB Ambassador Awards 2024 nominations, please email us at:<a href="_mailto:communityinbloom@nparks.gov.sg">communityin bloom@nparks.gov.sg</a>.</p>	
+	<p>For any queries on the CIB Ambassador Awards 2024 nominations, please email us at <a href="_mailto:communityinbloom@nparks.gov.sg">communityin bloom@nparks.gov.sg</a>.</p>	
 </section>
 <br>
 <section>	
