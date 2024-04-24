@@ -11,6 +11,45 @@ description: The Community in Bloom (CIB) Ambassador Awards recognises
 image: /images/Gardeners/Kids (2).jpg
 variant: markdown
 ---
+<style>
+details {
+	cursor: pointer;
+	}
+	
+details > summary {
+	text-indent:-22px;
+	margin-left:22px;
+	}
+
+details > p {
+	margin-left: 22px;
+	}
+
+details > ol li {
+	margin-left: 22px;
+	font-size:
+	}
+	
+details[open] > summary {
+	font-weight: 800;
+	}
+	
+.wrapper {
+		display: grid;
+		grid-template-columns: repeat(auto-fit, minmax(100px, 150px));
+		grid-template-rows: auto-fit;
+		column-gap: 10px;
+		row-gap: 10px;
+		text-align: left;
+	}
+
+.box{
+		border: solid 1px #215732;
+		background: #215732;
+		border-radius: 10px;
+		padding: 10px;
+	}
+</style>
 <section>
 	<img title="Community In Bloom ambassadors at their appreciation event in 2024. Photo by Jacqueline Chua." src="/images/Gardeners/Ambassadors_2024_JacquelineChua.jpg">
 </section>
@@ -30,7 +69,7 @@ variant: markdown
 
 <div class="wrapper">
 
-&nbsp; <a style="text-decoration:none; color: white" href="https://go.gov.sg/ags-plot-application"><div class="box">
+&nbsp; <a style="text-decoration:none; color: white" href="https://go.gov.sg/cib-ambassadors-nominations-2024"><div class="box">
 
 &nbsp;&nbsp;&nbsp; Nominate Now!</div></a>
 
