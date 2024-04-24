@@ -50,6 +50,7 @@ details[open] > summary {
 		padding: 10px;
 	}
 </style>
+
 <section>
 	<img title="Community In Bloom ambassadors at their appreciation event in 2024. Photo by Jacqueline Chua." src="/images/Gardeners/Ambassadors_2024_JacquelineChua.jpg">
 <p>Community in Bloom (CIB) Ambassadors are passionate volunteers with excellent horticulture and gardening skills. They actively share their knowledge with the community and lead gardening projects to improve green spaces around them.</p> 
@@ -67,7 +68,7 @@ details[open] > summary {
 		<li>Share good gardening practices</li>
 	</ul>		
 <p>Know someone suitable and deserving? Nominate them for the CIB Ambassador Awards today! Nominations close on <b>2 June 2024</b>.</p>		
-
+</section>
        
 <div class="wrapper">
 
@@ -77,7 +78,7 @@ details[open] > summary {
 
 </div>	
 	<p>For any queries on the CIB Ambassador Awards 2024 nominations, please email us at <a href="_mailto:communityinbloom@nparks.gov.sg">communityin bloom@nparks.gov.sg</a>.</p>	
-</section>
+
 <br>
 <section>	
 <h4>About the CIB Ambassador Awards</h4>
