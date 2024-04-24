@@ -89,7 +89,7 @@ details[open] > summary {
 
 <section>
 	<h4>Why be a CIB Ambassador</h4>
-	<img title="A CIB Ambassador guiding children on how to water plants. Photo by Jacqueline Chua." src="/images/Gardeners/Ambs_on_learning_journey__OCBC_Arboretum_.jpg">
+	<img title="Learning journey. Photo by Jacqueline Chua." src="/images/Gardeners/Ambs_on_learning_journey__OCBC_Arboretum_.jpg">
 	<ul>
 		<li>Connect with fellow gardening enthusiasts and expand your network within the gardening community</li>
 		<li>Access exclusive training opportunities to enhance your gardening skills and knowledge</li>
