@@ -21,9 +21,21 @@ variant: markdown
 <li>Promote the benefits of gardening to a wider community</li>
 <li>Lead and facilitate gardening-related activities</li>
 <li>Guide community groups in setting up community gardens or implementing gardening projects</li>
-</ul>
+		<li>Galvanise the community with positive conduct</li>
+		<li>Share good gardening practices</li>
+	</ul>		
+<p>Know someone suitable and deserving? Nominate them for the CIB Ambassador Awards today! Nominations close on <b>2 June 2024</b>.</p>		
 
-	<br>
+        
+
+<div class="wrapper">
+
+&nbsp; <a style="text-decoration:none; color: white" href="https://go.gov.sg/ags-plot-application"><div class="box">
+
+&nbsp;&nbsp;&nbsp; Nominate Now!</div></a>
+
+</div>	
+	
 </section>
 	<p>Community in Bloom (CIB) Ambassadors are passionate volunteers with excellent horticulture and gardening skills. They actively share their knowledge with the community and lead gardening projects to improve green spaces around them.</p> 
 
