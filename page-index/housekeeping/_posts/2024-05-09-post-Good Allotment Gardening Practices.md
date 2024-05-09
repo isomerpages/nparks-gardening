@@ -24,7 +24,7 @@ variant: markdown
 	<ol>
 		<li>Keep all plants and structures within 1m height from the top of the planter bed</li>
 		<li>Keep passageways clear of pots, plant debris and garden tools</li>
-		<li>Space out the plants for good air circulation</li>
+		<li><a href="/page-index/horticulture-techniques/plant-spacing/"> Space out the plants</a> for good air circulation</li>
 		<li>Regularly remove weeds and plants that are diseased or dead</li>
 		<li>Loosen hardened soil for better plant growth</li>
 		<li>Regularly check for stagnant water that might collect at the base of plant stems, amongst leaf litter or inside trellis poles</li>
