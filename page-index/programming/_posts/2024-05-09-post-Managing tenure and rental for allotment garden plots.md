@@ -24,6 +24,6 @@ variant: markdown
 <br>
 <h4>Tenure timelines</h4>
 <p>As plants take time to grow, most rental tenures will be between 2 - 3 years. During this period, gardeners can grow  plants and build structures that are within the rules of the garden.</p>
-<p>However, gardeners will need to return the plot in its original state to prepare it for the next gardener. Managing agents should initiate transition planning at least 3 to 6 months before the end of the tenure period. This could involve recruiting for new gardeners to join or for existing gardeners to renew their tenure, as per the community's rules. </p>
+<p>However, gardeners will need to return the plot in its original state to prepare it for the next gardener. Managing agents should initiate transition planning <b>at least 6 months</b> before the end of the tenure period. This could involve recruiting for new gardeners to join or for existing gardeners to renew their tenure, as per the community's rules. Timely reminders for existing gardeners to prepare for renewal or to transition out is crucial for communities to make the necessary preparations, and to ensure clear communications within the group. </p>
 
 <br>
