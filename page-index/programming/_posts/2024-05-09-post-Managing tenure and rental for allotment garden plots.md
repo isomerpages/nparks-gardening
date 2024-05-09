@@ -17,9 +17,13 @@ variant: markdown
 	<li>The length of time a plot can be rented</li>
 	<li>The cost of renting the plot</li>
 	<li>Rules and regulations for the rental and continued usage of a plot</li>
+	<li>Timelines and rules for how the plot should be returned to the managing agent at the end of tenure</li>
 	</ul>
-<p>As the growing of plants takes time, the recommended duration of the rental tenure for any allotment plot should be between 2 to 3 years. For reference, the NParks allotment gardens have a tenure of 3 years with a rental charge of $57 per year (excluding GST).</p>
 <p>Communities starting their own Allotment garden can reference our sample tenure agreement for terms and conditions, and modify them to suit their context. For example, some plots could be set aside for priority groups such wheelchair users for <a href="/page-index/hardscapes/planter-beds/">wheelchair-accessible planter beds</a>, or residents that live nearby.</p>
 <p>Download our <a href="">sample Allotment garden tenure agreement</a> for reference.</p>
 <br>
-&lt;
+<h4>Tenure timelines</h4>
+<p>As plants take time to grow, most rental tenures will be between 2 - 3 years. During this period, gardeners can grow  plants and build structures that are within the rules of the garden.</p>
+<p>However, gardeners will need to return the plot in its original state to prepare it for the next gardener. </p>
+
+<br>
