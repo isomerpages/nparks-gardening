@@ -15,7 +15,7 @@ variant: markdown
 	<li>The length of time a plot can be rented</li>
 	<li>The cost of renting the plot</li>
 	<li>Rules and regulations for the rental and continued usage of a plot</li>
-	<li>Timelines and rules for how the plot should be returned to the managing agent at the end of tenure</li>
+	<li>Timelines and rules for how the plot should be returned at the end of tenure</li>
 	</ul>
 <h4>Tenure guidelines</h4>
 <p>Communities starting their own allotment garden can reference our sample tenure agreement for terms and conditions, and modify them to suit their context. For example, some plots could be set aside for priority groups such wheelchair users for <a href="/page-index/hardscapes/planter-beds/">wheelchair-accessible planter beds</a>, or residents that live nearby.</p>
