@@ -10,7 +10,7 @@ variant: markdown
 ---
 <img title="A small allotment garden in a housing estate. Photo by Jacqueline Chua." src="/images/Garden%20design/OpenGarden_JacChua.jpg">
 <p>Allotment-style gardens have individual gardening plots that are rented out to the community. There are allotment gardens directly managed by <a href="/get-involved/allotment-gardens/">NParks in parklands</a> or managed by Town Councils and Grassroots Organisations in housing estates.</p>
-<p>Tenure refers to the conditions under which indivduals can rent out an allotment plot. They generally cover:</p>
+<p>Tenure refers to the conditions under which individuals can rent out an allotment plot. They generally cover:</p>
 <ul>
 	<li>The length of time a plot can be rented</li>
 	<li>The cost of renting the plot</li>
