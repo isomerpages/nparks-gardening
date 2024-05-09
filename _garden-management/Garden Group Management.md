@@ -14,4 +14,5 @@ variant: markdown
 	<li><a href="/page-index/garden-group-management/managing-a-community-garden-group/">Managing a Community Garden Group</a></li>
 	<li><a href="/page-index/garden-group-management/attracting-volunteers/">Attracting Volunteers</a></li>
 	<li><a href="/page-index/garden-group-management/sample-garden-rules/">Sample Garden Rules</a></li>
+	<li><a href="">Managing Tenure for Allotment Garden Plots</a></li>
 	</ul>
