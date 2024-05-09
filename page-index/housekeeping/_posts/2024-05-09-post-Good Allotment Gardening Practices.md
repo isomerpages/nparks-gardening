@@ -32,4 +32,21 @@ variant: markdown
 	</ol>
 </section>
 
-<p>Keeping your corridor <a href="/page-index/housekeeping/keeping-your-garden-neat/">garden neat</a></p>
+<br> 
+
+<section>
+	<h4>Choosing plants for your allotment garden plot</h4>
+	<p>One of the keys to a successful and thriving allotment garden is choosing plants that have care requirements which match your gardening schedule.</p>
+	<p>Due to the limited size of the allotment garden plots and safety considerations for gardeners and visitors to the gardens, some plants are undesirable for planting in the plots. Some fruit trees and large shrubs may damage the plot with their roots or block sunlight from neighbouring plots, while some plants may shed a lot of leaves, which would require frequent clearing from paths.</p> 
+		<ul class="jekyllcodex_accordion">
+		<li><input type="checkbox" id="accordion1">
+		<label for="accordion1">Here are some plants to avoid growing within your allotment garden plot:</label><div>
+			<ul>
+				<li>Tall fruit trees – e.g. Moringa (Moringa oleifera), Mulberry (Morus alba), Papaya (Carica papaya)</li>
+				<li>Thorny plants – e.g. Bougainvillea (Bougainvillea cultivars), Lime (Citrus x aurantiifolia), Pineapple (Ananas species and cultivars), Rose cactus (Leuenbergeria bleo)</li>
+				<li>Plants with messy form – e.g. Sugar cane (Saccharum officinarum), Banana (Musa species and cultivars)</li>
+				<li>Plants that tend to collect water – e.g. Cocoyam (Colocasia species and cultivars), Bromeliads (Aechmea and Guzmania species, and more)</li>
+			</ul>
+			<div></div></div></li>
+			
+				</ul></section>
