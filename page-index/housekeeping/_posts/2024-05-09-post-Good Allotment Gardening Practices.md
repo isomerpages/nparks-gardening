@@ -23,4 +23,13 @@ variant: markdown
 	<p>Here are some useful tips to keep your allotment garden plot well-maintained and safe:</p>
 	<ol>
 		<li>Keep all plants and structures within 1m height from the top of the planter bed</li>
-		<li></li></ol></section>
+		<li>Keep passageways clear of pots, plant debris and garden tools</li>
+		<li>Space out the plants for good air circulation</li>
+		<li>Regularly remove weeds and plants that are diseased or dead</li>
+		<li>Loosen hardened soil for better plant growth</li>
+		<li>Regularly check for stagnant water that might collect at the base of plant stems, amongst leaf litter or inside trellis poles</li>
+		<li>Choose plants that suit your needs and gardening schedule</li>
+	</ol>
+</section>
+
+<p>Keeping your corridor <a href="/page-index/housekeeping/keeping-your-garden-neat/">garden neat</a></p>
