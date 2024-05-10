@@ -88,4 +88,15 @@ variant: markdown
 				<li><a href="/page-index/edible-plants/sawtooth-coriander">Sawtooth Coriander</a> (<em>Eryngium foetidum</em>)</li>
 				<li><a href="/page-index/edible-plants/thai-basil">Thai Basil</a> (<em>Ocimum basilicum</em>)</li>
 				</ul>
-				</div></li></ul></section>
+				</div></li></ul>
+	<p>Learn more about <a href="/page-index/horticulture-techniques/choosing-plants/">choosing plants</a> for your garden and <a href="/page-index/horticulture-techniques/">horticulture techniques</a> to grow them.</p>
+</section>
+<br>
+<section>
+	<h4>Installing structures on your allotment garden plot</h4>
+		<img title="A planter bed full of edible plants. Photo by Jacqueline Chua." src="/images/Hardscapes/whitenetting_jacquelinechua.jpg">
+	<p>Some plants, such as climbers and soft-stemmed plants, may require <a href="/page-index/hardscapes/staking/">support</a> to grow. Others, such as young seedlings or plants that thrive in semi-shade, may require shade <a href="/page-index/hardscapes/staking/">netting</a> over them. It is important to ensure that any structure that is installed on allotment garden plots are stable and do not protrude out of the plot for your and other’s safety.</p>
+	<p>Check out the videos below for steps to making various structures for your plants. Feel free to adopt and customize the dimensions to suit your plot’s needs!</p>
+	
+
+				</section>
