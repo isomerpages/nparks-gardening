@@ -63,9 +63,8 @@ variant: markdown
 				<li><a href="/page-index/edible-plants/kai-lan">Kai Lan</a> (<em>Brassica oleracea</em> Alboglabra Group)</li>
 				<li><a href="/page-index/edible-plants/sissoo-spinach">Sissoo Spinach</a> (<em>Alternanthera sissoo</em>)</li>
 				<li><a href="/page-index/edible-plants/xiao-bai-cai">Xiao Bai Cai</a> (<em>Brassica rapa</em> Pak Choi Group)</li>
-			</ul>
-			</div>
-		</li><li><input type="checkbox" id="accordion2">
+			</ul></div></li>
+		<li><input type="checkbox" id="accordion2">
 		<label for="accordion2">Fruiting vegetables</label><div>
 			<ul>
 				<li><a href="/page-index/edible-plants/brinjal">Brinjal</a> (<em>Solanum melongena</em>)</li>
@@ -73,9 +72,8 @@ variant: markdown
 				<li><a href="/page-index/edible-plants/long-bean">Long Bean</a> (<em>Vigna unguiculata</em>)</li>
 				<li><a href="/page-index/edible-plants/tomato">Tomato</a> (<em>Solanum lycopersicum</em>)</li>
 				<li><a href="/page-index/edible-plants/winged-bean">Winged Bean</a> (<em>Psophocarpus tetragonolobus</em>)</li>
-				</ul>
-				</div>
-			</li><li><input type="checkbox" id="accordion3">
+				</ul></div></li>
+		<li><input type="checkbox" id="accordion3">
 		<label for="accordion3">Herbs and spices</label><div>
 			<ul>
 				<li><a href="/page-index/edible-plants/chilli">Chilli</a> (<em>Capsicum annuum</em>)</li>
