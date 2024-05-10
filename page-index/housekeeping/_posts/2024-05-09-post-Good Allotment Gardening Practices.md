@@ -49,4 +49,43 @@ variant: markdown
 			</ul>
 			<div></div></div></li>
 			
-</ul></section>
+</ul>
+</section>
+
+<section>
+	<img title="A planter bed full of edible plants. Photo by Jacqueline Chua." src="/images/Garden%20design/BishanEastZone6_JacChua%20(2).jpg">
+	<p>Edible plants can be a great choice for planting at the allotment garden plots where there is abundant sunlight. Here are some edible plants that are suitable for growing within your plot:</p>
+	<ul class="jekyllcodex_accordion">
+		<li><input type="checkbox" id="accordion1">
+		<label for="accordion1">Leafy vegetables</label><div>
+			<ul>
+				<li><a href="/page-index/edible-plants/bayam">Bayam</a> (<em>Amaranthus tricolor</em>)</li>
+				<li><a href="/page-index/edible-plants/cai-xin">Cai Xin</a> (<em>Brassica rapa</em> Caisin Group)</li>
+				<li><a href="/page-index/edible-plants/chinese-mustard">Chinese Mustard</a> (<em>Brassica juncea</em> Broad-leaf Mustard)</li>
+				<li><a href="/page-index/edible-plants/kai-lan">Kai Lan</a> (<em>Brassica oleracea</em> Alboglabra Group)</li>
+				<li><a href="/page-index/edible-plants/sissoo-spinach">Sissoo Spinach</a> (<em>Alternanthera sissoo</em>)</li>
+				<li><a href="/page-index/edible-plants/xiao-bai-cai">Xiao Bai Cai</a> (<em>Brassica rapa</em> Pak Choi Group)</li>
+			</ul>
+			</div>
+		</li><li><input type="checkbox" id="accordion2">
+		<label for="accordion2">Fruiting vegetables</label><div>
+			<ul>
+				<li><a href="/page-index/edible-plants/brinjal">Brinjal</a> (<em>Solanum melongena</em>)</li>
+				<li><a href="/page-index/edible-plants/cranberry-hibiscus">Cranberry Hibiscus</a> (<em>Hibiscus acetosella</em>)</li>
+				<li><a href="/page-index/edible-plants/long-bean">Long Bean</a> (<em>Vigna unguiculata</em>)</li>
+				<li><a href="/page-index/edible-plants/tomato">Tomato</a> (<em>Solanum lycopersicum</em>)</li>
+				<li><a href="/page-index/edible-plants/winged-bean">Winged Bean</a> (<em>Psophocarpus tetragonolobus</em>)</li>
+				</ul>
+				</div>
+			</li><li><input type="checkbox" id="accordion3">
+		<label for="accordion3">Herbs and spices</label><div>
+			<ul>
+				<li><a href="/page-index/edible-plants/chilli">Chilli</a> (<em>Capsicum annuum</em>)</li>
+				<li><a href="/page-index/edible-plants/chives">Chives</a> (<em>Allium tuberosum</em>)</li>
+				<li><a href="/page-index/edible-plants/indian-borage">Indian Borage</a> (<em>Coleus amboinicus</em>)</li>
+				<li><a href="/page-index/edible-plants/mexican-tarragon">Mexican Tarragon</a> (<em>Tagetes lucida</em>)</li>
+				<li><a href="/page-index/edible-plants/sand-ginger">Sand Ginger</a> (<em>Kaempferia galanga</em>)</li>
+				<li><a href="/page-index/edible-plants/sawtooth-coriander">Sawtooth Coriander</a> (<em>Eryngium foetidum</em>)</li>
+				<li><a href="/page-index/edible-plants/thai-basil">Thai Basil</a> (<em>Ocimum basilicum</em>)</li>
+				</ul>
+				</div></li></ul></section>
