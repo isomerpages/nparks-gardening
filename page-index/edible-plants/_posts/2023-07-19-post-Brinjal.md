@@ -5,6 +5,7 @@ date: 2023-07-19
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 <header>
 	<h3>Brinjal (<em>Solanum melongena</em>)</h3>
@@ -26,7 +27,7 @@ image: ""
 <section>
 	<h4>Sun and soil needs:</h4>
 	<img title="Photo by Jacqueline Chua." src="/images/Plants/Brinjal_JacChua%20(1).jpg">
-	<p>This vine does best in <a href="/page-index/horticulture-techniques/gauging-light">full sun gardens with a minimum of 6 hours of direct sunlight</a>. This plant can also grow with 4-5 hours of direct sunlight and at least 6 hours of indirect sunlight, but will produce less fruits.</p>
+	<p>This plant does best in <a href="/page-index/horticulture-techniques/gauging-light">full sun gardens with a minimum of 6 hours of direct sunlight</a>. This plant can also grow with 4-5 hours of direct sunlight and at least 6 hours of indirect sunlight, but will produce less fruits.</p>
 	<p>Plants do best in <a href="/page-index/horticulture-techniques/planting-in-containers/">pots</a> with <a href="/page-index/horticulture-techniques/soil/">loamy soil</a> at least 15cm deep, or in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a>.</p>
 	<br>
 </section>
