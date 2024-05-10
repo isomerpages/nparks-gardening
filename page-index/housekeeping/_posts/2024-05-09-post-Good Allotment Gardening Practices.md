@@ -45,11 +45,10 @@ variant: markdown
 				<li>Plants with messy form – e.g. Sugar cane (Saccharum officinarum), Banana (Musa species and cultivars)</li>
 				<li>Plants that tend to collect water – e.g. Cocoyam (Colocasia species and cultivars), Bromeliads (Aechmea and Guzmania species, and more)</li>
 			</ul>
-			<div></div></div></li>
-			
-</ul>
+			</div></li>
+			</ul>
 </section>
-
+<br>
 <section>
 	<img title="A planter bed full of edible plants. Photo by Jacqueline Chua." src="/images/Garden%20design/BishanEastZone6_JacChua%20(2).jpg">
 	<p>Edible plants can be a great choice for planting at the allotment garden plots where there is abundant sunlight. Here are some edible plants that are suitable for growing within your plot:</p>
@@ -63,7 +62,8 @@ variant: markdown
 				<li><a href="/page-index/edible-plants/kai-lan">Kai Lan</a> (<em>Brassica oleracea</em> Alboglabra Group)</li>
 				<li><a href="/page-index/edible-plants/sissoo-spinach">Sissoo Spinach</a> (<em>Alternanthera sissoo</em>)</li>
 				<li><a href="/page-index/edible-plants/xiao-bai-cai">Xiao Bai Cai</a> (<em>Brassica rapa</em> Pak Choi Group)</li>
-			</ul></div></li>
+			</ul></div>
+		</li>
 		<li><input type="checkbox" id="accordion2">
 		<label for="accordion2">Fruiting vegetables</label><div>
 			<ul>
@@ -72,7 +72,8 @@ variant: markdown
 				<li><a href="/page-index/edible-plants/long-bean">Long Bean</a> (<em>Vigna unguiculata</em>)</li>
 				<li><a href="/page-index/edible-plants/tomato">Tomato</a> (<em>Solanum lycopersicum</em>)</li>
 				<li><a href="/page-index/edible-plants/winged-bean">Winged Bean</a> (<em>Psophocarpus tetragonolobus</em>)</li>
-				</ul></div></li>
+			</ul></div>
+		</li>
 		<li><input type="checkbox" id="accordion3">
 		<label for="accordion3">Herbs and spices</label><div>
 			<ul>
@@ -83,10 +84,10 @@ variant: markdown
 				<li><a href="/page-index/edible-plants/sand-ginger">Sand Ginger</a> (<em>Kaempferia galanga</em>)</li>
 				<li><a href="/page-index/edible-plants/sawtooth-coriander">Sawtooth Coriander</a> (<em>Eryngium foetidum</em>)</li>
 				<li><a href="/page-index/edible-plants/thai-basil">Thai Basil</a> (<em>Ocimum basilicum</em>)</li>
-				</ul>
-				</div></li></ul>
+			</ul></div>
+		</li>
 	<p>Learn more about <a href="/page-index/horticulture-techniques/choosing-plants/">choosing plants</a> for your garden and <a href="/learn-more-about-gardening/horticulture-techniques/">horticulture techniques</a> to grow them.</p>
-</section>
+</ul></section>
 <br>
 <section>
 	<h4>Installing structures on your allotment garden plot</h4>
