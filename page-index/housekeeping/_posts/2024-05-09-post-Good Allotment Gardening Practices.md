@@ -25,9 +25,9 @@ variant: markdown
 		<li>Keep all plants and structures within 1m height from the top of the planter bed</li>
 		<li>Keep passageways clear of pots, plant debris and garden tools</li>
 		<li><a href="/page-index/horticulture-techniques/plant-spacing/"> Space out the plants</a> for good air circulation</li>
-		<li>Regularly remove weeds and plants that are diseased or dead</li>
+		<li>Regularly remove <a href="/page-index/horticulture-techniques/weeding/">weeds</a> and plants that are diseased or dead</li>
 		<li>Loosen hardened soil for better plant growth</li>
-		<li>Regularly check for stagnant water that might collect at the base of plant stems, amongst leaf litter or inside trellis poles</li>
+		<li>Regularly check for <a href="/page-index/housekeeping/keeping-gardens-mosquito-free/">stagnant water</a> that might collect at the base of plant stems, amongst leaf litter or inside trellis poles</li>
 		<li>Choose plants that suit your needs and gardening schedule</li>
 	</ol>
 </section>
@@ -40,7 +40,7 @@ variant: markdown
 	<p>Due to the limited size of the allotment garden plots and safety considerations for gardeners and visitors to the gardens, some plants are undesirable for planting in the plots. Some fruit trees and large shrubs may damage the plot with their roots or block sunlight from neighbouring plots, while some plants may shed a lot of leaves, which would require frequent clearing from paths.</p> 
 		<ul class="jekyllcodex_accordion">
 		<li><input type="checkbox" id="accordion1">
-		<label for="accordion1">Here are some plants to avoid growing within your allotment garden plot:</label><div>
+		<label for="accordion1">Here are some plants to <b>avoid</b> growing within your allotment garden plot:</label><div>
 			<ul>
 				<li>Tall fruit trees – e.g. Moringa (Moringa oleifera), Mulberry (Morus alba), Papaya (Carica papaya)</li>
 				<li>Thorny plants – e.g. Bougainvillea (Bougainvillea cultivars), Lime (Citrus x aurantiifolia), Pineapple (Ananas species and cultivars), Rose cactus (Leuenbergeria bleo)</li>
