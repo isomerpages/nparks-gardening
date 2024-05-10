@@ -91,7 +91,7 @@ variant: markdown
 <section>
 	<h4>Installing structures on your allotment garden plot</h4>
 		<img title="A planter bed full of edible plants. Photo by Jacqueline Chua." src="/images/Hardscapes/whitenetting_jacquelinechua.jpg">
-	<p>Some plants, such as climbers and soft-stemmed plants, may require <a href="/page-index/hardscapes/staking/">support</a> to grow. Others, such as young seedlings or plants that thrive in semi-shade, may require shade <a href="/page-index/hardscapes/staking/">netting</a> over them. It is important to ensure that any structure that is installed on allotment garden plots are stable and do not protrude out of the plot for your and other’s safety.</p>
+	<p>Some plants, such as climbers and soft-stemmed plants, may require <a href="/page-index/hardscapes/staking/">support</a> to grow. Others, such as young seedlings or plants that thrive in semi-shade, may require shade <a href="/page-index/hardscapes/netting/">netting</a> over them. It is important to ensure that any structure that is installed on allotment garden plots are stable and do not protrude out of the plot for your and other’s safety.</p>
 	<p>Check out the videos below for steps to making various structures for your plants. Feel free to adopt and customize the dimensions to suit your plot’s needs!</p>
 	<ul class="jekyllcodex_accordion">
 		<li><input type="checkbox" id="accordion1">
