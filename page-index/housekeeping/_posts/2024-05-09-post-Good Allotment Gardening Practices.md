@@ -96,20 +96,18 @@ variant: markdown
 	<ul class="jekyllcodex_accordion">
 		<li><input type="checkbox" id="accordion1">
 		<label for="accordion1">How to build a trellis</label><div>
-			<ul>
-				<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Dn8DsL5TNE8?si=QbPynNnHLyqVEUxu" height="315" width="560"></iframe></ul></div>
+				<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Dn8DsL5TNE8?si=QbPynNnHLyqVEUxu" height="315" width="560"></iframe></div></li>
 				<br>
-				</li><li><input type="checkbox" id="accordion2">
+		<li><input type="checkbox" id="accordion2">
 					<label for="accordion2">How to build a netting structure</label><div>
-			<ul>
-				<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/0hTJYGhBNa8?si=LYWj0zjVn2e6XWLf" height="315" width="560"></iframe></ul></div>
+				<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/0hTJYGhBNa8?si=LYWj0zjVn2e6XWLf" height="315" width="560"></iframe></div></li>
 				<br>
-				</li><li><input type="checkbox" id="accordion3">
+		<li><input type="checkbox" id="accordion3">
 					<label for="accordion3">How to build a rain shelter</label><div>
-			<ul>
-				<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/AYcnBctE27M?si=MQtnWXERTWeyjvYn" height="315" width="560"></iframe></ul></div>
+				<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/AYcnBctE27M?si=MQtnWXERTWeyjvYn" height="315" width="560"></iframe></div></li>
 				<br>
-</li></ul></section>
+</ul></section>
+<br>
 <section>
 	<p>Keen to kick-start an allotment garden within your premise? Download our <a href="https://go.gov.sg/allotment-guide">Guide to Designing and Implementing Allotment Gardens</a> to find out how you can do so under the <a href="/get-involved/community-gardens/">Community In Bloom</a> programme with your landowner's support now!</p>
 </section>
