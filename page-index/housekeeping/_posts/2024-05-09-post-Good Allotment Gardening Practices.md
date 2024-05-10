@@ -68,7 +68,7 @@ variant: markdown
 		<label for="accordion2">Fruiting vegetables</label><div>
 			<ul>
 				<li><a href="/page-index/edible-plants/brinjal">Brinjal</a> (<em>Solanum melongena</em>)</li>
-				<li><a href="/page-index/edible-plants/cranberry-hibiscus">Cranberry Hibiscus</a> (<em>Hibiscus acetosella</em>)</li>
+				<li><a href="/page-index/edible-plants/ladys-finger">Lady's Finger</a> (<em>Abelmoschus esculentus</em>)</li>
 				<li><a href="/page-index/edible-plants/long-bean">Long Bean</a> (<em>Vigna unguiculata</em>)</li>
 				<li><a href="/page-index/edible-plants/tomato">Tomato</a> (<em>Solanum lycopersicum</em>)</li>
 				<li><a href="/page-index/edible-plants/winged-bean">Winged Bean</a> (<em>Psophocarpus tetragonolobus</em>)</li>
