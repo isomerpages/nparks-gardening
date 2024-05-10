@@ -29,9 +29,7 @@ variant: markdown
 		<li>Choose plants that suit your needs and gardening schedule</li>
 	</ol>
 </section>
-
 <br> 
-
 <section>
 	<h4>Choosing plants for your allotment garden plot</h4>
 	<p>One of the keys to a successful and thriving allotment garden is choosing plants that have care requirements which match your gardening schedule.</p>
@@ -87,7 +85,8 @@ variant: markdown
 			</ul></div>
 		</li>
 	<p>Learn more about <a href="/page-index/horticulture-techniques/choosing-plants/">choosing plants</a> for your garden and <a href="/learn-more-about-gardening/horticulture-techniques/">horticulture techniques</a> to grow them.</p>
-</ul></section>
+	</ul>
+</section>
 <br>
 <section>
 	<h4>Installing structures on your allotment garden plot</h4>
