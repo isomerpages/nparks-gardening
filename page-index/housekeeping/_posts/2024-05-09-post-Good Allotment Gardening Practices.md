@@ -85,7 +85,7 @@ variant: markdown
 				<li><a href="/page-index/edible-plants/thai-basil">Thai Basil</a> (<em>Ocimum basilicum</em>)</li>
 				</ul>
 				</div></li></ul>
-	<p>Learn more about <a href="/page-index/horticulture-techniques/choosing-plants/">choosing plants</a> for your garden and <a href="/page-index/horticulture-techniques/">horticulture techniques</a> to grow them.</p>
+	<p>Learn more about <a href="/page-index/horticulture-techniques/choosing-plants/">choosing plants</a> for your garden and <a href="/learn-more-about-gardening/horticulture-techniques/">horticulture techniques</a> to grow them.</p>
 </section>
 <br>
 <section>
