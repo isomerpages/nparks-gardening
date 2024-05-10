@@ -97,6 +97,13 @@ variant: markdown
 		<img title="A planter bed full of edible plants. Photo by Jacqueline Chua." src="/images/Hardscapes/whitenetting_jacquelinechua.jpg">
 	<p>Some plants, such as climbers and soft-stemmed plants, may require <a href="/page-index/hardscapes/staking/">support</a> to grow. Others, such as young seedlings or plants that thrive in semi-shade, may require shade <a href="/page-index/hardscapes/staking/">netting</a> over them. It is important to ensure that any structure that is installed on allotment garden plots are stable and do not protrude out of the plot for your and other’s safety.</p>
 	<p>Check out the videos below for steps to making various structures for your plants. Feel free to adopt and customize the dimensions to suit your plot’s needs!</p>
-	
-
-				</section>
+	<ul class="jekyllcodex_accordion">
+		<li><input type="checkbox" id="accordion1">
+		<label for="accordion1">How to build a trellis</label><div>
+			<ul>
+				<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Dn8DsL5TNE8?si=QbPynNnHLyqVEUxu" height="315" width="560"></iframe>
+				<br>
+				<li><input type="checkbox" id="accordion2">
+					<label for="accordion2">How to build a netting structure</label><div>
+			<ul>
+				<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/0hTJYGhBNa8?si=LYWj0zjVn2e6XWLf" height="315" width="560"></iframe></ul></div></li></ul></div></li></ul></section>
