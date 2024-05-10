@@ -9,7 +9,7 @@ image: ""
 variant: markdown
 ---
 <img title="A small allotment garden in a housing estate. Photo by Jacqueline Chua." src="/images/Garden%20design/OpenGarden_JacChua.jpg">
-<p>Allotment-style gardens have individual gardening plots that are leased out to the community. There are allotment gardens directly managed by <a href="/get-involved/allotment-gardens/">NParks in parklands</a> or managed by Grassroots Organisations and Town Councils in housing estates. Communities and Grassroots Organisations interested to start allotment gardens in housing estates can indicate interest via <a href="https://form.gov.sg/64b78ef1a218a40012387fa4">this form</a> to seek guidance from NParks on site selection, garden design, and garden establishment. </p>
+<p>Allotment-style gardens have individual gardening plots that are leased out to the community. There are allotment gardens directly managed by <a href="/get-involved/allotment-gardens/">NParks in parklands</a> or managed by Grassroots Organisations and Town Councils in housing estates. Communities and Grassroots Organisations interested to start allotment gardens in housing estates can indicate their interest via <a href="https://form.gov.sg/64b78ef1a218a40012387fa4">this form</a> to seek guidance from NParks on site selection, garden design, and garden establishment. </p>
 <p>Tenure refers to the conditions under which individuals can lease out an allotment plot. They generally cover:</p>
 <ul>
 	<li>The length of time a plot can be leased</li>
