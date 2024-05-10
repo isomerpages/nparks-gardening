@@ -14,7 +14,7 @@ variant: markdown
 	
 <p>Download our <a href="/files/good%20allotment%20gardening%20practices%20brochure.pdf">Good Allotment Gardening Practices</a> brochure for more information and references. </p>
 </section>
-									 
+<br>									 
 <section>
 	<h4>Keeping a well-maintained allotment garden plot</h4>
 	<img title="An example of well-maintained allotment garden plots. Photo by Jacqueline Chua." src="/images/Hardscapes/PlanterBed%20(18).jpg">
