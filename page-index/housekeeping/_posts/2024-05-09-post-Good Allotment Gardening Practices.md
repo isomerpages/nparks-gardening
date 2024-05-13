@@ -51,8 +51,8 @@ variant: markdown
 	<img title="A planter bed full of edible plants. Photo by Jacqueline Chua." src="/images/Garden%20design/BishanEastZone6_JacChua%20(2).jpg">
 	<p>Edible plants can be a great choice for planting at the allotment garden plots where there is abundant sunlight. Here are some edible plants that are suitable for growing within your plot:</p>
 	<ul class="jekyllcodex_accordion">
-		<li><input type="checkbox" id="accordion1">
-		<label for="accordion1">Leafy vegetables</label><div>
+		<li><input type="checkbox" id="accordion2">
+		<label for="accordion2">Leafy vegetables</label><div>
 			<ul>
 				<li><a href="/page-index/edible-plants/bayam">Bayam</a> (<em>Amaranthus tricolor</em>)</li>
 				<li><a href="/page-index/edible-plants/cai-xin">Cai Xin</a> (<em>Brassica rapa</em> Caisin Group)</li>
@@ -62,8 +62,8 @@ variant: markdown
 				<li><a href="/page-index/edible-plants/xiao-bai-cai">Xiao Bai Cai</a> (<em>Brassica rapa</em> Pak Choi Group)</li>
 			</ul>
 			</div></li>
-		<li><input type="checkbox" id="accordion2">
-		<label for="accordion2">Fruiting vegetables</label><div>
+		<li><input type="checkbox" id="accordion3">
+		<label for="accordion3">Fruiting vegetables</label><div>
 			<ul>
 				<li><a href="/page-index/edible-plants/brinjal">Brinjal</a> (<em>Solanum melongena</em>)</li>
 				<li><a href="/page-index/edible-plants/ladys-finger">Lady's Finger</a> (<em>Abelmoschus esculentus</em>)</li>
@@ -72,8 +72,8 @@ variant: markdown
 				<li><a href="/page-index/edible-plants/winged-bean">Winged Bean</a> (<em>Psophocarpus tetragonolobus</em>)</li>
 			</ul></div>
 		</li>
-		<li><input type="checkbox" id="accordion3">
-		<label for="accordion3">Herbs and spices</label><div>
+		<li><input type="checkbox" id="accordion4">
+		<label for="accordion4">Herbs and spices</label><div>
 			<ul>
 				<li><a href="/page-index/edible-plants/chilli">Chilli</a> (<em>Capsicum annuum</em>)</li>
 				<li><a href="/page-index/edible-plants/chives">Chives</a> (<em>Allium tuberosum</em>)</li>
@@ -94,18 +94,18 @@ variant: markdown
 	<p>Some plants, such as climbers and soft-stemmed plants, may require <a href="/page-index/hardscapes/staking/">support</a> to grow. Others, such as young seedlings or plants that thrive in semi-shade, may require shade <a href="/page-index/hardscapes/netting/">netting</a> over them. It is important to ensure that any structure that is installed on allotment garden plots are stable and do not protrude out of the plot for your and other’s safety.</p>
 	<p>Check out the videos below for steps to making various structures for your plants. Feel free to adopt and customize the dimensions to suit your plot’s needs!</p>
 	<ul class="jekyllcodex_accordion">
-		<li><input type="checkbox" id="accordion1">
-		<label for="accordion1">How to build a trellis</label><div>
+		<li><input type="checkbox" id="accordion5">
+		<label for="accordion5">How to build a trellis</label><div>
 				<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Dn8DsL5TNE8?si=QbPynNnHLyqVEUxu" height="315" width="560"></iframe>
 			</div>
 		</li>
-		<li><input type="checkbox" id="accordion2">
-					<label for="accordion2">How to build a netting structure</label><div>
+		<li><input type="checkbox" id="accordion6">
+					<label for="accordion6">How to build a netting structure</label><div>
 				<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/0hTJYGhBNa8?si=LYWj0zjVn2e6XWLf" height="315" width="560"></iframe>
 			</div>
 		</li>
-		<li><input type="checkbox" id="accordion3">
-					<label for="accordion3">How to build a rain shelter</label><div>
+		<li><input type="checkbox" id="accordion7">
+					<label for="accordion7">How to build a rain shelter</label><div>
 				<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/AYcnBctE27M?si=MQtnWXERTWeyjvYn" height="315" width="560"></iframe>
 			</div>
 		</li>
