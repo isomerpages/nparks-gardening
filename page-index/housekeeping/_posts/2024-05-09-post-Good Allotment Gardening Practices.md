@@ -103,13 +103,14 @@ variant: markdown
 		<li><input type="checkbox" id="accordion6">
 					<label for="accordion6">How to build a netting structure</label><div>
 				<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/0hTJYGhBNa8?si=LYWj0zjVn2e6XWLf" height="315" width="560"></iframe>
-			<p>Learn more about trellises and other support structures here! </p>
+			<p>Learn more about different kinds of netting and their functions here! </p>
 			</div>
 		</li>
 		<li><input type="checkbox" id="accordion7">
 					<label for="accordion7">How to build a rain shelter</label><div>
 				<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/AYcnBctE27M?si=MQtnWXERTWeyjvYn" height="315" width="560"></iframe>
 			</div>
+						<p>Learn more about different kinds of garden shelters here! </p>
 		</li>
 	</ul>
 </section>
