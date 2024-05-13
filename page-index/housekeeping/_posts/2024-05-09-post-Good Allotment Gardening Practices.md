@@ -32,6 +32,7 @@ variant: markdown
 <br> 
 <section>
 	<h4>Choosing plants for your allotment garden plot</h4>
+	<img title="" src="">
 	<p>One of the keys to a successful and thriving allotment garden is choosing plants that have care requirements which match your gardening schedule.</p>
 	<p>Due to the limited size of the allotment garden plots and safety considerations for gardeners and visitors to the gardens, some plants are undesirable for planting in the plots. Some fruit trees and large shrubs may damage the plot with their roots or block sunlight from neighbouring plots, while some plants may shed a lot of leaves, which would require frequent clearing from paths.</p> 
 		<ul class="jekyllcodex_accordion">
