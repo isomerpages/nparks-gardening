@@ -84,8 +84,8 @@ variant: markdown
 				<li><a href="/page-index/edible-plants/thai-basil">Thai Basil</a> (<em>Ocimum basilicum</em>)</li>
 			</ul></div>
 		</li>
-	<p>Learn more about <a href="/page-index/horticulture-techniques/choosing-plants/">choosing plants</a> for your garden and <a href="/learn-more-about-gardening/horticulture-techniques/">horticulture techniques</a> to grow them.</p>
 	</ul>
+		<p>Learn more about <a href="/page-index/horticulture-techniques/choosing-plants/">choosing plants</a> for your garden and <a href="/learn-more-about-gardening/horticulture-techniques/">horticulture techniques</a> to grow them.</p>
 </section>
 <br>
 <section>
@@ -97,20 +97,20 @@ variant: markdown
 		<li><input type="checkbox" id="accordion5">
 		<label for="accordion5">How to build a trellis</label><div>
 				<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Dn8DsL5TNE8?si=QbPynNnHLyqVEUxu" height="315" width="560"></iframe>
-						<p>Learn more about trellises and other support structures here! </p>
+&gt; 						<p>Learn more about trellises and other support structures <a href="/page-index/hardscapes/trellises/">here</a>! </p>
 			</div>
 		</li>
 		<li><input type="checkbox" id="accordion6">
 					<label for="accordion6">How to build a netting structure</label><div>
 				<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/0hTJYGhBNa8?si=LYWj0zjVn2e6XWLf" height="315" width="560"></iframe>
-			<p>Learn more about different kinds of netting and their functions here! </p>
+			<p>Learn more about different kinds of netting and their functions <a href="/page-index/hardscapes/netting/">here</a>! </p>
 			</div>
 		</li>
 		<li><input type="checkbox" id="accordion7">
 					<label for="accordion7">How to build a rain shelter</label><div>
 				<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/AYcnBctE27M?si=MQtnWXERTWeyjvYn" height="315" width="560"></iframe>
+				<p>Learn more about different kinds of garden shelters <a href="/page-index/hardscapes/shelters/">here</a>! </p>
 			</div>
-						<p>Learn more about different kinds of garden shelters here! </p>
 		</li>
 	</ul>
 </section>
