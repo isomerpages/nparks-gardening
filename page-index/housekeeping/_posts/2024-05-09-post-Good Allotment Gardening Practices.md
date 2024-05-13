@@ -60,8 +60,8 @@ variant: markdown
 				<li><a href="/page-index/edible-plants/kai-lan">Kai Lan</a> (<em>Brassica oleracea</em> Alboglabra Group)</li>
 				<li><a href="/page-index/edible-plants/sissoo-spinach">Sissoo Spinach</a> (<em>Alternanthera sissoo</em>)</li>
 				<li><a href="/page-index/edible-plants/xiao-bai-cai">Xiao Bai Cai</a> (<em>Brassica rapa</em> Pak Choi Group)</li>
-			</ul></div>
-		</li>
+			</ul>
+			</div></li>
 		<li><input type="checkbox" id="accordion2">
 		<label for="accordion2">Fruiting vegetables</label><div>
 			<ul>
