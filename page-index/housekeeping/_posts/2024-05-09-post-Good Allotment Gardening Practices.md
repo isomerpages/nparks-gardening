@@ -10,7 +10,7 @@ variant: markdown
 <section>
 	<img title="An overview of an allotment garden at Villa Verde Park. Photo by Jacqueline Chua." src="/images/Garden%20design/VillaVerdeAllotments__2_JacquelineChua.jpg"> 
 	
-<p>Allotment gardens that are found in various parks, heartlands, private estates and even within organisations allow aspiring gardeners to hone their skills and grow their own greens. As they are located in common green spaces that are open for the public to visit and appreciate, it is essential to have good gardening etiquette and maintain a well-kept allotment garden plot to ensure safe and enjoyable experience for everyone.</p>
+<p>Allotment gardens that are found in various parks, heartlands, private estates and even within organisations allow aspiring gardeners to hone their skills and grow their own greens. As they are located in common green spaces that are open for the public to visit and appreciate, it is essential that gardeners adopt good gardening etiquette and maintain a well-kept garden plot to ensure safe and enjoyable experience for everyone.</p>
 	
 <p>Download our <a href="/files/good%20allotment%20gardening%20practices%20brochure.pdf">Good Allotment Gardening Practices</a> brochure for more information and references. </p>
 </section>
@@ -20,7 +20,7 @@ variant: markdown
 	<img title="An example of well-maintained allotment garden plots. Photo by Jacqueline Chua." src="/images/Hardscapes/PlanterBed%20(18).jpg">
 	<p>Here are some useful tips to keep your allotment garden plot well-maintained and safe:</p>
 	<ol>
-		<li>Keep all plants and structures within 1m height from the top of the planter bed</li>
+		<li>Keep all <a href="/page-index/horticulture-techniques/pruning/"> plants</a> and <a href="/page-index/hardscapes/hardscapes/"> structures</a> within 1m height from the top of the planter bed</li>
 		<li>Keep passageways clear of pots, plant debris and garden tools</li>
 		<li><a href="/page-index/horticulture-techniques/plant-spacing/"> Space out the plants</a> for good air circulation</li>
 		<li>Regularly remove <a href="/page-index/horticulture-techniques/weeding/">weeds</a> and plants that are diseased or dead</li>
