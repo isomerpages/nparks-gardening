@@ -39,7 +39,7 @@ variant: markdown
 		<li><input type="checkbox" id="accordion1">
 		<label for="accordion1">Here are some plants to <b>avoid</b> growing within your allotment garden plot:</label><div>
 			<ul>
-				<li>Tall fruit trees – e.g. Moringa (Moringa oleifera), Mulberry (Morus alba), Papaya (Carica papaya)</li>
+				<li>Tall fruit trees – e.g. Moringa (Moringa oleifera), Mulberry (Morus alba), Papaya (Carica papaya), Banana (Musa species and cultivars)</li>
 				<li>Thorny plants – e.g. Bougainvillea (Bougainvillea cultivars), Lime (Citrus x aurantiifolia), Pineapple (Ananas species and cultivars), Rose cactus (Leuenbergeria bleo)</li>
 				<li>Plants with messy form – e.g. Sugar cane (Saccharum officinarum), Banana (Musa species and cultivars)</li>
 				<li>Plants that tend to collect water – e.g. Cocoyam (Colocasia species and cultivars), Bromeliads (Aechmea and Guzmania species, and more)</li>
@@ -92,13 +92,13 @@ variant: markdown
 <section>
 	<h4>Installing structures on your allotment garden plot</h4>
 		<img title="A planter bed full of edible plants. Photo by Jacqueline Chua." src="/images/Hardscapes/whitenetting_jacquelinechua.jpg">
-	<p>Some plants, such as climbers and soft-stemmed plants, may require <a href="/page-index/hardscapes/staking/">support</a> to grow. Others, such as young seedlings or plants that thrive in semi-shade, may require shade <a href="/page-index/hardscapes/netting/">netting</a> over them. It is important to ensure that any structure that is installed on allotment garden plots are stable and do not protrude out of the plot for your and other’s safety.</p>
+	<p>Some plants, such as climbers and soft-stemmed plants, may require <a href="/page-index/hardscapes/staking/">support</a> to grow. Others, such as young seedlings or plants that thrive in semi-shade, may require shade <a href="/page-index/hardscapes/netting/">netting</a> over them. It is important to ensure that any structure that is installed on allotment garden plots are stable and do not protrude out of the plot for your and others' safety.</p>
 	<p>Check out the videos below for steps to making various structures for your plants. Feel free to adopt and customize the dimensions to suit your plot’s needs!</p>
 	<ul class="jekyllcodex_accordion">
 		<li><input type="checkbox" id="accordion5">
 		<label for="accordion5">How to build a trellis</label><div>
-				<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Dn8DsL5TNE8?si=QbPynNnHLyqVEUxu" height="315" width="560"></iframe>
-&gt; 						<p>Learn more about trellises and other support structures <a href="/page-index/hardscapes/trellises/">here</a>! </p>
+				<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Dn8DsL5TNE8?si=QbPynNnHLyqVEUxu" height="315" width="560"></iframe> 						
+			<p>Learn more about trellises and other support structures <a href="/page-index/hardscapes/trellises/">here</a>! </p>
 			</div>
 		</li>
 		<li><input type="checkbox" id="accordion6">
