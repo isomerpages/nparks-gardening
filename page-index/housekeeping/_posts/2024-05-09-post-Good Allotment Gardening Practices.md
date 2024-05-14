@@ -12,7 +12,7 @@ variant: markdown
 	
 <p>Allotment gardens that are found in various parks, heartlands, private estates and even within organisations allow aspiring gardeners to hone their skills and grow their own greens. As they are located in common green spaces that are open for the public to visit and appreciate, it is essential that gardeners adopt good gardening etiquette and maintain a well-kept garden plot to ensure safe and enjoyable experience for everyone.</p>
 	
-<p>Download our <a href="/files/good%20allotment%20gardening%20practices%20brochure.pdf">Good Allotment Gardening Practices</a> brochure for more information and references. </p>
+<p>Download our <a href="/files/good%20allotment%20gardening%20practices%20brochure.pdf">Good Allotment Gardening Practices</a> brochure for reference on what are some good gardening etiquette!</p>
 </section>
 <br>									 
 <section>
