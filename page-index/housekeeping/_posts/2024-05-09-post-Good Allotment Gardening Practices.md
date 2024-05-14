@@ -27,7 +27,8 @@ variant: markdown
 		<li>Loosen hardened soil for better plant growth</li>
 		<li>Regularly check for <a href="/page-index/housekeeping/keeping-gardens-mosquito-free/">stagnant water</a> that might collect at the base of plant stems, amongst leaf litter or inside trellis poles</li>
 		<li>Choose plants that suit your needs and gardening schedule</li>
-	</ol>
+		<li>Adopt <a href="/files/good%20food%20safety%20practices%20when%20growing%20edibles%20poster.pdf"> good food safety practices</a> when growing edibles
+	</li></ol>
 </section>
 <br> 
 <section>
