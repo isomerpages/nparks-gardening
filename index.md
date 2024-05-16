@@ -11,7 +11,7 @@ sections:
       subtitle: Let's get growing!
       background: /images/banner_31oct_bright1.png
   - infopic:
-      title: Buy tickets for the Singapore Garden Festival
+      title: Join us at the Singapore Garden Festival
       subtitle: 3 - 11 August 2024
       id: infopic
       description: Be enchanted by exquisite garden and floral displays, and
