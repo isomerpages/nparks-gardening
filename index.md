@@ -10,6 +10,17 @@ sections:
       title: GardeningSG
       subtitle: Let's get growing!
       background: /images/banner_31oct_bright1.png
+  - infopic:
+      title: Join us at the Singapore Garden Festival
+      subtitle: 3 - 11 August 2024
+      id: infopic
+      description: Be enchanted by exquisite garden and floral displays, and
+        experience the magic and wonder of the world of garden and floral design
+        at Suntec Singapore!
+      button: learn more
+      url: https://sgf.nparks.gov.sg/
+      image: /images/Graphics/SGF.jpg
+      alt: Image alt text
   - infobar:
       title: New to gardening?
       subtitle: sprouting green fingers
@@ -29,7 +40,7 @@ sections:
       subtitle: upskilling for gardeners
       id: infopic
       description: Looking to learn new gardening skills?
-      button: Click here
+      button: let's learn more
       url: learn-more-about-gardening/horticulture-techniques
       alt: Image alt text
       image: /images/Landing_page/updatedhorttechniques.png
@@ -38,7 +49,7 @@ sections:
       subtitle: Identify, mitigate, prevent
       id: infopic
       description: Find out what problems your plant is suffering from
-      button: Seek your answers here!
+      button: diagnose the problem now
       alt: Image alt text
       url: learn-more-about-gardening/plant-problems/
       image: /images/Landing_page/updatedplantproblems.png
@@ -47,7 +58,7 @@ sections:
       subtitle: the future is now
       description: Unsure how much soil you need or when to start sowing your seeds
         for a harvest?
-      button: try out our tools
+      button: try our tools
       url: /digital-tools/
       alt: Image alt text
       image: /images/Landing_page/plantcalculator_6oct.png
