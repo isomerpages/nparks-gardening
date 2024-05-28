@@ -146,5 +146,5 @@ details[open] > summary {
 	
 <section>
 	<h4>Frequently Asked Questions</h4>
-	<p><a href="/files/SECUF_Grant_Website_FAQs_20Mar2024.pdf">Click here</a> to download the list of Frequently Asked Questions.</p>
+	<p><a href="/files/SECUF_Grant_Website_FAQs_23May2024.pdf">Click here</a> to download the list of Frequently Asked Questions.</p>
 </section>
