@@ -115,7 +115,7 @@ details[open] > summary {
 <ul>	
 <li> AXS e-Station (Website at <a href="https://e-station2.axs.com.sg">https://e-station2.axs.com.sg</a>);</li>
 <li> AXS m-Station (Mobile application) available on App Store, Google Play and App Gallery; or</li>
-<li>AXS Station (Kiosk) found islandwide (click <a href="https://www.axs.com.sg/axsStation_locations.php">here</a> to find one nearest to you).</li>
+<li>AXS Station (Kiosk) found islandwide (click <a href="https://www.axs.com.sg/axs-station-locations/">here</a> to find one nearest to you).</li>
 </ul>
 
 <p>More information on the application terms and conditions (T&amp;Cs) are available in the application system. You are reminded to read the instructions and T&amp;Cs carefully before submitting an application.</p>
