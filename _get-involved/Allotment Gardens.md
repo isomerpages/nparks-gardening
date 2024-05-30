@@ -111,11 +111,11 @@ details[open] > summary {
 
 <p>For the exact locations of the allotment gardens within each park, please refer to the map above.</p>
 
-<p>If you are interested to lease a plot in any of the above parks, please submit your application by <b>5 March 2024 (Tuesday), 11.59pm</b> via any of the following AXS* Channels:</p>
+<p>If you are interested to lease a plot in any of the above parks, please submit your application by <b>16 June 2024 (Sunday), 11.59pm</b> via any of the following AXS* Channels:</p>
 <ul>	
 <li> AXS e-Station (Website at <a href="https://e-station2.axs.com.sg">https://e-station2.axs.com.sg</a>);</li>
 <li> AXS m-Station (Mobile application) available on App Store, Google Play and App Gallery; or</li>
-<li>AXS Station (Kiosk) found islandwide.</li>
+<li>AXS Station (Kiosk) found islandwide (click <a href="https://www.axs.com.sg/axsStation_locations.php">here</a> to find one nearest to you).</li>
 </ul>
 
 <p>More information on the application terms and conditions (T&amp;Cs) are available in the application system. You are reminded to read the instructions and T&amp;Cs carefully before submitting an application.</p>
