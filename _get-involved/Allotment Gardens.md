@@ -350,4 +350,4 @@ details[open] > summary {
 
 <br>
 <p>Can't find what you're looking for? Submit your enquiries via our <a href="http://www.nparks.gov.sg/feedback">Feedback Form</a>.</p>
-<p>For questions related to the February 2024 Application Exercise (such as instructions to apply via AXS), please contact <b>AXS Customer Service at 6560 2727</b> (8.30am - 6pm daily).</p>
+<p>For questions related to the June 2024 Application Exercise (such as instructions to apply via AXS), please contact <b>AXS Customer Service at 6560 2727</b> (8.30am - 6pm daily).</p>
