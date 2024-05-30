@@ -134,7 +134,10 @@ details[open] > summary {
 </ul>
 
 <p><strong><u>Previous Application Exercises - February 2024 Application Exercise</u></strong></p>
-<p>All applicants from the February 2024 Application  Exercise have been notified of their outcome via email. Please check your junk mail folder and contact us at <a href="_mailto:allotment_gardening@nparks.gov.sg">allotment_gardening@nparks.gov.sg</a> if you did not receive the email notification. 
+<p>All applicants from the February 2024 Application  Exercise have been notified of their outcome via email. Please check your junk mail folder and contact us at <a href="_mailto:allotment_gardening@nparks.gov.sg">allotment_gardening@nparks.gov.sg</a> if you did not receive the email notification.</p> 
+
+<h4>Implementing Allotment Gardens</h4>
+<p>Are you an organisation or grassroot leader who is keen to implement allotment gardens within your premise or housing estate? Check out the ‘<a href="https://go.gov.sg/guide-to-design-allotment-gardens">Guide to Designing and Implementing Allotment Gardens</a>’ to find out how you can do so under the <a href="https://go.gov.sg/community-in-bloom">Community in Bloom</a> programme with your landowner’s support now!
 
 </p><h4>Frequently Asked Questions (FAQs)</h4>
 <p>Have a question about the Allotment Gardening Scheme? Check out the FAQs below!</p>
