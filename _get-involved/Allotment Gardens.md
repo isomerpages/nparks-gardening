@@ -134,7 +134,7 @@ details[open] > summary {
 </ul>
 
 <p><strong><u>Previous Application Exercises - February 2024 Application Exercise</u></strong></p>
-<p>All applicants from the February 2024 Application  Exercise have been notified of their outcome via email. Please check your junk mail folder and contact us at allotment_gardening@nparks.gov.sg if you did not receive the email notification. 
+<p>All applicants from the February 2024 Application  Exercise have been notified of their outcome via email. Please check your junk mail folder and contact us at <a href="_mailto:allotment_gardening@nparks.gov.sg">allotment_gardening@nparks.gov.sg</a> if you did not receive the email notification. 
 
 </p><h4>Frequently Asked Questions (FAQs)</h4>
 <p>Have a question about the Allotment Gardening Scheme? Check out the FAQs below!</p>
