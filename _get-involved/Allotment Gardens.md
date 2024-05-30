@@ -58,13 +58,13 @@ details[open] > summary {
 
 <p></p><h4>About the Allotment Gardening Scheme</h4>
 
-<p>Under NParks’ Allotment Gardening Scheme, each household may apply and ballot for one garden plot at any one location at a time. Each plot consists of a raised planter bed (2.5m x 1m) with soil and a mini storage area for tools and may be leased for a period of up to 3 years at a charge of <b>$57 per year</b> (excluding prevailing GST). </p> 
+<p>Under NParks’ Allotment Gardening Scheme, each household may apply and ballot for one garden plot at any one location at a time. At $57 (excluding prevailing GST) per year for a period of up to three years, successful applicants will be assigned a plot consisting of a raised planter bed (2.5m x 1m) with soil and a mini storage area for tools.</p> 
 
 <h4>How can I apply for an allotment garden plot?</h4>
 
-<p><u><strong>February 2024 Application Exercise (Closed)</strong></u></p>
+<p><u><strong>June 2024 Application Exercise</strong></u>  <strong>(New!)</strong></p>
 
-<p>Applications for allotment garden plots are <b>open from 21 February 2024, 10.00am to 5 March 2024, 11.59pm</b>, for the following locations:</p>
+<p>Applications for allotment garden plots are <b>open from 3 June 2024, 10.00am to 16 June 2024, 11.59pm</b>, for the following locations:</p>
 
 <table>
 	<thead>
@@ -78,39 +78,33 @@ details[open] > summary {
 	<tbody>
 	<tr>
 		<td>1</td>
-		<td>East Coast Park Area A</td>
-		<td>25</td>
-		<td style="text-align:center">Q2 2024</td>		
+		<td>Aljunied Park</td>
+		<td>13</td>
+		<td style="text-align:center">Q3 2024</td>		
 	</tr>
 	<tr>
 		<td>2</td>
-		<td>Lower Seletar Reservoir Park</td>
-		<td>9</td>
-		<td style="text-align:center">Q2 2024</td>
+		<td>Choa Chu Kang Park</td>
+		<td>15</td>
+		<td style="text-align:center">Q3 2024</td>
 	</tr>
 	<tr>
 		<td>3</td>
-		<td>Punggol Waterway Park</td>
-		<td>30</td>
-		<td style="text-align:center">Q2 2024</td>
+		<td>Pasir Ris Park</td>
+		<td>43</td>
+		<td style="text-align:center">Q3 2024</td>
 	</tr>
 	<tr>
 		<td>4</td>
-		<td>Sun Plaza Park</td>
-		<td>60</td>
-		<td style="text-align:center">Q2 2024</td>
+		<td>Sengkang Riverside Park</td>
+		<td>73</td>
+		<td style="text-align:center">Q3 2024</td>
 	</tr>
 	<tr>
 		<td>5</td>
-		<td>West Coast Park (Area 2)</td>
-		<td>3</td>
-		<td style="text-align:center">Q2 2024</td>
-	</tr>
-	<tr>
-		<td>6</td>
-		<td>Woodlands Waterfront Park</td>
-		<td>60</td>
-		<td style="text-align:center">Q2 2024</td>
+		<td>Yishun Park (Area 2)</td>
+		<td>50</td>
+		<td style="text-align:center">Q4 2024</td>
 	</tr>
 	</tbody>
 </table>
