@@ -137,9 +137,9 @@ details[open] > summary {
 <p>All applicants from the February 2024 Application  Exercise have been notified of their outcome via email. Please check your junk mail folder and contact us at <a href="_mailto:allotment_gardening@nparks.gov.sg">allotment_gardening@nparks.gov.sg</a> if you did not receive the email notification.</p> 
 
 <h4>Implementing Allotment Gardens</h4>
-<p>Are you an organisation or grassroot leader who is keen to implement allotment gardens within your premise or housing estate? Check out the ‘<a href="https://go.gov.sg/guide-to-design-allotment-gardens">Guide to Designing and Implementing Allotment Gardens</a>’ to find out how you can do so under the <a href="https://go.gov.sg/community-in-bloom">Community in Bloom</a> programme with your landowner’s support now!
+<p>Are you an organisation or grassroot leader who is keen to implement allotment gardens within your premise or housing estate? Check out the ‘<a href="https://go.gov.sg/guide-to-design-allotment-gardens">Guide to Designing and Implementing Allotment Gardens</a>’ to find out how you can do so under the <a href="https://go.gov.sg/community-in-bloom">Community in Bloom</a> programme with your landowner’s support now!</p>
 
-</p><h4>Frequently Asked Questions (FAQs)</h4>
+<p></p><h4>Frequently Asked Questions (FAQs)</h4>
 <p>Have a question about the Allotment Gardening Scheme? Check out the FAQs below!</p>
 <ul class="jekyllcodex_accordion">
 	<li><input type="checkbox" id="accordion1">
@@ -277,6 +277,10 @@ details[open] > summary {
 				<summary>I missed the allotment garden plot application exercise/opening, can I be placed on a waitlist?</summary>
 				<p style="margin-top: 5px; margin-bottom: 25px">There are no waiting lists as all available plots will be assigned to successfully balloted applicants. Applicants may apply for a plot when the registration opens again for other allotment gardens. Please check our NParks Allotment Gardens webpage and our social media platforms for updates on available plots and registration details.</p>
 			</details>
+			<details>
+				<summary>I have missed my payment deadline for my plot application via AXS. Can I appeal to make payment for my plot now?</summary>
+				<p style="margin-top: 5px; margin-bottom: 25px">The payment deadline is as stipulated in the Letter of Offer, and we are unable to accept any payment after the deadline. You may wish to apply for an allotment gardening plot in other parks of your choice when new applications open for these locations.</p>
+				<p style="margin-top: 5px; margin-bottom: 25px">Applicants will be notified via email from AXS on the outcome of their application within three (3) months from the closing date of the application exercise. We encourage all applicants to check their email inbox and junk folders regularly.</p></details>
 			<details>
 				<summary>I am a foreigner, can I apply for an allotment garden plot?</summary>
 				<p style="margin-top: 5px; margin-bottom: 25px">Yes, but Singaporeans and Permanent Residents will be given priority.</p>
