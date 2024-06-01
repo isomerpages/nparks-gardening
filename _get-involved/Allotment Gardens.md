@@ -58,13 +58,13 @@ details[open] > summary {
 
 <p></p><h4>About the Allotment Gardening Scheme</h4>
 
-<p>Under NParks’ Allotment Gardening Scheme, each household may apply and ballot for one garden plot at any one location at a time. Each plot consists of a raised planter bed (2.5m x 1m) with soil and a mini storage area for tools and may be leased for a period of up to 3 years at a charge of <b>$57 per year</b> (excluding prevailing GST). </p> 
+<p>Under NParks’ Allotment Gardening Scheme, each household may apply and ballot for one garden plot at any one location at a time. At $57 (excluding prevailing GST) per year for a period of up to three years, successful applicants will be assigned a plot consisting of a raised planter bed (2.5m x 1m) with soil and a mini storage area for tools.</p> 
 
 <h4>How can I apply for an allotment garden plot?</h4>
 
-<p><u><strong>February 2024 Application Exercise (Closed)</strong></u></p>
+<p><u><strong>June 2024 Application Exercise</strong></u>  <strong>(New!)</strong></p>
 
-<p>Applications for allotment garden plots are <b>open from 21 February 2024, 10.00am to 5 March 2024, 11.59pm</b>, for the following locations:</p>
+<p>Applications for allotment garden plots are <b>open from 3 June 2024, 10.00am to 16 June 2024, 11.59pm</b> for the following locations:</p>
 
 <table>
 	<thead>
@@ -78,54 +78,54 @@ details[open] > summary {
 	<tbody>
 	<tr>
 		<td>1</td>
-		<td>East Coast Park Area A</td>
-		<td>25</td>
-		<td style="text-align:center">Q2 2024</td>		
+		<td>Aljunied Park</td>
+		<td>13</td>
+		<td style="text-align:center">Q3 2024</td>		
 	</tr>
 	<tr>
 		<td>2</td>
-		<td>Lower Seletar Reservoir Park</td>
-		<td>9</td>
-		<td style="text-align:center">Q2 2024</td>
+		<td>Choa Chu Kang Park</td>
+		<td>15</td>
+		<td style="text-align:center">Q3 2024</td>
 	</tr>
 	<tr>
 		<td>3</td>
-		<td>Punggol Waterway Park</td>
-		<td>30</td>
-		<td style="text-align:center">Q2 2024</td>
+		<td>Pasir Ris Park</td>
+		<td>43</td>
+		<td style="text-align:center">Q3 2024</td>
 	</tr>
 	<tr>
 		<td>4</td>
-		<td>Sun Plaza Park</td>
-		<td>60</td>
-		<td style="text-align:center">Q2 2024</td>
+		<td>Sengkang Riverside Park</td>
+		<td>73</td>
+		<td style="text-align:center">Q3 2024</td>
 	</tr>
 	<tr>
 		<td>5</td>
-		<td>West Coast Park (Area 2)</td>
-		<td>3</td>
-		<td style="text-align:center">Q2 2024</td>
-	</tr>
-	<tr>
-		<td>6</td>
-		<td>Woodlands Waterfront Park</td>
-		<td>60</td>
-		<td style="text-align:center">Q2 2024</td>
+		<td>Yishun Park</td>
+		<td>50</td>
+		<td style="text-align:center">Q4 2024</td>
 	</tr>
 	</tbody>
 </table>
 
 <p>For the exact locations of the allotment gardens within each park, please refer to the map above.</p>
 
-<p>If you are interested to lease a plot in any of the above parks, please submit your application by <b>5 March 2024 (Tuesday), 11.59pm</b> via any of the following AXS* Channels:</p>
+<p>If you are interested to lease a plot in any of the above parks, please submit your application by <b>16 June 2024 (Sunday), 11.59pm</b> via any of the following AXS* Channels:</p>
 <ul>	
 <li> AXS e-Station (Website at <a href="https://e-station2.axs.com.sg">https://e-station2.axs.com.sg</a>);</li>
 <li> AXS m-Station (Mobile application) available on App Store, Google Play and App Gallery; or</li>
-<li>AXS Station (Kiosk) found islandwide.</li>
+<li>AXS Station (Kiosk) found islandwide (click <a href="https://www.axs.com.sg/axs-station-locations/">here</a> to find one nearest to you).</li>
 </ul>
 
 <p>More information on the application terms and conditions (T&amp;Cs) are available in the application system. You are reminded to read the instructions and T&amp;Cs carefully before submitting an application.</p>
+
 <p><i>*Please note that all applications for upcoming allotment garden plots will be done via AXS platforms to streamline the application process. Successful applicants will also make payment through AXS payment channels.</i></p>
+
+<div class="wrapper">
+  <a style="text-decoration:none; color: white" href="https://go.gov.sg/ags-plot-application"><div class="box">
+    Apply Now!</div></a>
+</div>
 
 <p>For step-by-step guides on how to apply or make payment for the allotment garden plot application via AXS Channels, please click below:</p>
 <ul>
@@ -133,9 +133,13 @@ details[open] > summary {
 	<li><a href="https://go.gov.sg/nparks-ag-plot-how-to-pay-axs">How to make payment</a> (for successful applicants only)</li>
 </ul>
 
-<p><b>Applications are now closed.</b> Plots will be assigned via ballot. Applicants will be notified via email from AXS on the outcome of their application by end-May 2024.</p>
+<p><strong><u>Previous Application Exercises - February 2024 Application Exercise</u></strong></p>
+<p>All applicants from the February 2024 Application  Exercise have been notified of their outcome via email. Please check your junk mail folder and contact us at <a href="_mailto:allotment_gardening@nparks.gov.sg">allotment_gardening@nparks.gov.sg</a> if you did not receive the email notification.</p> 
 
-<h4>Frequently Asked Questions (FAQs)</h4>
+<h4>Implementing Allotment Gardens</h4>
+<p>Are you an organisation or grassroot leader who is keen to implement allotment gardens within your premise or housing estate? Check out the ‘<a href="https://go.gov.sg/guide-to-design-allotment-gardens">Guide to Designing and Implementing Allotment Gardens</a>’ to find out how you can do so under the <a href="https://go.gov.sg/community-in-bloom">Community in Bloom</a> programme with your landowner’s support now!</p>
+
+<p></p><h4>Frequently Asked Questions (FAQs)</h4>
 <p>Have a question about the Allotment Gardening Scheme? Check out the FAQs below!</p>
 <ul class="jekyllcodex_accordion">
 	<li><input type="checkbox" id="accordion1">
@@ -274,6 +278,10 @@ details[open] > summary {
 				<p style="margin-top: 5px; margin-bottom: 25px">There are no waiting lists as all available plots will be assigned to successfully balloted applicants. Applicants may apply for a plot when the registration opens again for other allotment gardens. Please check our NParks Allotment Gardens webpage and our social media platforms for updates on available plots and registration details.</p>
 			</details>
 			<details>
+				<summary>I have missed my payment deadline for my plot application via AXS. Can I appeal to make payment for my plot now?</summary>
+				<p style="margin-top: 5px; margin-bottom: 25px">The payment deadline is as stipulated in the Letter of Offer, and we are unable to accept any payment after the deadline. You may wish to apply for an allotment gardening plot in other parks of your choice when new applications open for these locations.</p>
+				<p style="margin-top: 5px; margin-bottom: 25px">Applicants will be notified via email from AXS on the outcome of their application within three (3) months from the closing date of the application exercise. We encourage all applicants to check their email inbox and junk folders regularly.</p></details>
+			<details>
 				<summary>I am a foreigner, can I apply for an allotment garden plot?</summary>
 				<p style="margin-top: 5px; margin-bottom: 25px">Yes, but Singaporeans and Permanent Residents will be given priority.</p>
 			</details>
@@ -292,7 +300,7 @@ details[open] > summary {
 			</details>
 			<details>
 				<summary>What does it mean to maintain good gardening etiquette?</summary>
-				<p style="margin-top: 5px; margin-bottom: 25px">Good gardening etiquette includes keeping the allotment garden plot tidy and clean, maintaining the plants well and keep them pest free, storing all gardening items neatly, ensure all planting structures installed are compliant with terms and conditions, and conducting regularly checks for stagnant water to prevent mosquito breeding. Having a well-kept and maintained allotment garden plot ensures that it is safe and enjoyable for everyone. For more information on good gardening etiquette, check out the <a href="/garden-management/housekeeping/">garden housekeeping</a> page.</p>
+				<p style="margin-top: 5px; margin-bottom: 25px">Good gardening etiquette includes keeping the allotment garden plot tidy and clean, maintaining the plants well and keep them pest free, storing all gardening items neatly, ensure all planting structures installed are compliant with terms and conditions, and conducting regularly checks for stagnant water to prevent mosquito breeding. Having a <a href="/good-allotment-gardening-practices/">well-kept and maintained allotment garden plot</a> ensures that it is safe and enjoyable for everyone. For more information on good gardening etiquette, check out the <a href="/garden-management/housekeeping/">garden housekeeping</a> page.</p>
 			</details>
 			<details>
 				<summary>Why are existing gardeners being given the opportunity to continue gardening at their plots? Why not keep the existing system of computerised balloting?</summary>
@@ -342,4 +350,4 @@ details[open] > summary {
 
 <br>
 <p>Can't find what you're looking for? Submit your enquiries via our <a href="http://www.nparks.gov.sg/feedback">Feedback Form</a>.</p>
-<p>For questions related to the February 2024 Application Exercise (such as instructions to apply via AXS), please contact <b>AXS Customer Service at 6560 2727</b> (8.30am - 6pm daily).</p>
+<p>For questions related to the June 2024 Application Exercise (such as instructions to apply via AXS), please contact <b>AXS Customer Service at 6560 2727</b> (8.30am - 6pm daily).</p>
