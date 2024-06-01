@@ -102,7 +102,7 @@ details[open] > summary {
 	</tr>
 	<tr>
 		<td>5</td>
-		<td>Yishun Park (Area 2)</td>
+		<td>Yishun Park</td>
 		<td>50</td>
 		<td style="text-align:center">Q4 2024</td>
 	</tr>
