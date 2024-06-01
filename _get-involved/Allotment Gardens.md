@@ -64,7 +64,7 @@ details[open] > summary {
 
 <p><u><strong>June 2024 Application Exercise</strong></u>  <strong>(New!)</strong></p>
 
-<p>Applications for allotment garden plots are <b>open from 3 June 2024, 10.00am to 16 June 2024, 11.59pm</b>, for the following locations:</p>
+<p>Applications for allotment garden plots are <b>open from 3 June 2024, 10.00am to 16 June 2024, 11.59pm</b> for the following locations:</p>
 
 <table>
 	<thead>
