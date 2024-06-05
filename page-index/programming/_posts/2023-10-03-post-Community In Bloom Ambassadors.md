@@ -57,7 +57,7 @@ details[open] > summary {
 </section>
 <br>
 <section>
-<h4>CIB Ambassador Awards 2024 – Nominations Are Now Open!</h4>
+<h4>CIB Ambassador Awards 2024</h4>
 	<img title="A CIB Ambassador and his gardening group. Photo by NParks." src="/images/Gardeners/Amb_Kareem_w_gardeners.jpg">
 	<p>Volunteers from community gardens under the <a href="/get-involved/community-gardens/">Community In bloom</a> programme are eligible for nomination. We are looking for nominees that are able to: </p>
 	<ul>	
@@ -72,7 +72,7 @@ details[open] > summary {
 
 <div class="wrapper">
   <a style="text-decoration:none; color: white" href="https://go.gov.sg/cib-ambassadors-nominations-2024"><div class="box">
-    Apply Now!</div></a>
+    Nominate Now!</div></a>
 </div>
 	<p>For any queries on the CIB Ambassador Awards 2024 nominations, please email us at <a href="_mailto:communityinbloom@nparks.gov.sg">communityin bloom@nparks.gov.sg</a>.</p>	
 </section>
