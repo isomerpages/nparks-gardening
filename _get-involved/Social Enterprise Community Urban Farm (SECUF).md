@@ -37,7 +37,7 @@ details[open] > summary {
 		<li>Organising workshops and lessons on gardening</li>
 		<li>Community harvest festivals; coordinating the sale/distribution of harvests</li>
 	</ul>
-	<p>Together with City Sprouts, we launched the first Social Enterprise Community Urban Farm (SECUF) in a park at West Coast Park, City Sprouts @ West Coast on 1 June 2024. This is NParks’ first joint effort with a Social Enterprise (SE) to pilot the concept of a gardening hub in the heartlands. </p>
+	<p>Together with City Sprouts, we launched the first Social Enterprise Community Urban Farm (SECUF) in a park at West Coast Park, <a href="https://citysprouts.com.sg/">City Sprouts @ West Coast</a> on 1 June 2024. This is NParks’ first joint effort with a Social Enterprise (SE) to pilot the concept of a gardening hub in the heartlands. </p>
 	<p>Through SECUF, we hope to bring the community to our parks to enjoy and bond over gardening activities and specially curated City in Nature-related programmes.</p>
 	<img src="/images/High%20res%20photos/Members_of_the_community_visiting_the_SECUF_at_West_Coast_Park.jpg">
 	<br>
