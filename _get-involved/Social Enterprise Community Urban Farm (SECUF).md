@@ -35,6 +35,7 @@ details[open] > summary {
 	<ul>
 		<li>Leasing allotment gardening plots for the public to garden</li>
 		<li>Organising workshops and lessons on gardening</li>
+		<li>Community harvest festivals; coordinating the sale/distribution of harvests</li>
 	</ul>
 	<br>
 </section>
