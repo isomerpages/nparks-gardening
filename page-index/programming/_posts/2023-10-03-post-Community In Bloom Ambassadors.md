@@ -67,7 +67,7 @@ details[open] > summary {
 		<li>Galvanise the community with positive conduct</li>
 		<li>Share good gardening practices</li>
 	</ul>		
-	<p>Nominations for the CIB Ambassador Awards 2024 are now closed. Only shortlisted </p>
+	<p>Nominations for the CIB Ambassador Awards 2024 are now closed. Only shortlisted nominees will be notified.</p>
 	<p>For any queries on the CIB Ambassadors, please email us at <a href="_mailto:communityinbloom@nparks.gov.sg">communityin bloom@nparks.gov.sg</a>.</p>	
 </section>
 <br>
