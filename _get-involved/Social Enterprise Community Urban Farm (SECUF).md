@@ -31,6 +31,15 @@ details[open] > summary {
 	<img src="/images/PXL_20230406_085506119_PORTRAIT.jpg">
 	<h4>Community Urban Farms</h4>
 	<p>Community Urban Farms are gardening hubs that bring the community together through edibles gardening and curated programmes that revolve around it. Activities in Community Urban Farms could include leasing allotment gardening plots for the public to garden, organising workshops and lessons on gardening, community harvest festivals; coordinating the sale/distribution of harvests etc. Gardening together strengthens family and community bonds to build social resilience.</p>
+	<p>Activities in Community Urban Farms could include:</p>
+	<ul>
+		<li>Leasing allotment gardening plots for the public to garden</li>
+		<li>Organising workshops and lessons on gardening</li>
+		<li>Community harvest festivals; coordinating the sale/distribution of harvests</li>
+	</ul>
+		<img src="/images/High%20res%20photos/Members_of_the_community_visiting_the_SECUF_at_West_Coast_Park.jpg">
+	<p>Together with City Sprouts, we launched the first Social Enterprise Community Urban Farm (SECUF) in a park at West Coast Park, <a href="https://citysprouts.com.sg/">City Sprouts @ West Coast</a> on 1 June 2024. This is NParks’ first joint effort with a Social Enterprise (SE) to pilot the concept of a gardening hub in the heartlands. </p>
+	<p>Through SECUF, we hope to bring the community to our parks to enjoy and bond over gardening activities and specially curated City in Nature-related programmes.</p>
 	<br>
 </section>
 
