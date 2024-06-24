@@ -67,14 +67,8 @@ details[open] > summary {
 		<li>Galvanise the community with positive conduct</li>
 		<li>Share good gardening practices</li>
 	</ul>		
-<p>Know someone suitable and deserving? Nominate them for the CIB Ambassador Awards today! Nominations close on <b>2 June 2024</b>.</p>		
-
-
-<div class="wrapper">
-  <a style="text-decoration:none; color: white" href="https://go.gov.sg/cib-ambassadors-nominations-2024"><div class="box">
-    Nominate Now!</div></a>
-</div>
-	<p>For any queries on the CIB Ambassador Awards 2024 nominations, please email us at <a href="_mailto:communityinbloom@nparks.gov.sg">communityin bloom@nparks.gov.sg</a>.</p>	
+	<p>Nominations for the CIB Ambassador Awards 2024 are now closed. Only shortlisted nominees will be notified.</p>
+	<p>For any queries on the CIB Ambassadors, please email us at <a href="_mailto:communityinbloom@nparks.gov.sg">communityin bloom@nparks.gov.sg</a>.</p>	
 </section>
 <br>
 <section>	
