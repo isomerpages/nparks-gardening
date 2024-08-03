@@ -19,10 +19,10 @@ variant: markdown
 
 <section>
 	<h4>CIB Awards 2024 (Housing Estates)</h4>
-	<p>Take a peek at the community gardens with the Garden of the Year Awards here!</p>
+	<p>Get a glimpse of the 10 community gardens that attained the Garden of the Year Awards 2024!</p>
 	<iframe width="100%" height="415" src="https://www.youtube.com/embed/oxBKgBmq7fI?si=3y5lrjioa5I5Sq1G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 	<p><b>Results</b></p>
-	<p>Download the results dossier for the <a href="https://go.gov.sg/ciba2024-results-dossier">CIB Awards 2024 here.</a></p>
+	<p>Download the results for the <a href="https://go.gov.sg/ciba2024-results-dossier">CIB Awards 2024 here.</a></p>
 	<p><b>Awards and prizes</b></p>
 	<ul>
 		<li>CIB Garden of the Year Awards</li>
