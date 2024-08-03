@@ -19,23 +19,10 @@ variant: markdown
 
 <section>
 	<h4>CIB Awards 2024 (Housing Estates)</h4>
-	<p><b>Participating Categories</b></p>
-	<p>Outdoor Community Gardens in:</p>
-	<ul>
-	<li>Public Housing Estates</li>
-	<li>Private Housing Estates</li>
-	</ul>
-	<p>Entry to this competition is free but participating community gardens have to be registered under the CIB Programme and supported by their respective their respective Residents’ Committee (RC), Neighbourhood Committee (NC) or Residents’ Network (RN).</p>
-</section>
-<br>
-<section>
-	<h4>Registration Period (Closed)</h4>
-	<p>This competition is open for registration from <b>29 Jan 2024 till 25 Mar 2024, 11.59 pm</b>.</p>
-	</section>
-<br>
-<section>
-	<p><b>Terms &amp; Conditions</b></p>
-	<p>Download the terms and conditions for the competition <a href="https://go.gov.sg/ciba2024tncs">here</a>.</p>
+	<p>Take a peek at the community gardens with the Garden of the Year Awards here!</p>
+	<iframe width="100%" height="415" src="https://www.youtube.com/embed/oxBKgBmq7fI?si=3y5lrjioa5I5Sq1G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+	<p><b>Results</b></p>
+	<p>Download the results dossier for the <a href="https://go.gov.sg/ciba2024-results-dossier">CIB Awards 2024 here.</a></p>
 	<p><b>Awards and prizes</b></p>
 	<ul>
 		<li>CIB Garden of the Year Awards</li>
