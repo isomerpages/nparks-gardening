@@ -10,17 +10,6 @@ sections:
       title: GardeningSG
       subtitle: Let's get growing!
       background: /images/banner_31oct_bright1.png
-  - infopic:
-      title: Join us at the Singapore Garden Festival
-      subtitle: 3 - 11 August 2024
-      id: infopic
-      description: Be enchanted by exquisite garden and floral displays, and
-        experience the magic and wonder of the world of garden and floral design
-        at Suntec Singapore!
-      button: learn more
-      url: https://sgf.nparks.gov.sg/
-      image: /images/Graphics/SGF.jpg
-      alt: Image alt text
   - infobar:
       title: New to gardening?
       subtitle: sprouting green fingers
