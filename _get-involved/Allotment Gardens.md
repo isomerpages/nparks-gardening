@@ -62,9 +62,9 @@ details[open] > summary {
 
 <h4>How can I apply for an allotment garden plot?</h4>
 
-<p><u><strong>June 2024 Application Exercise</strong></u>  <strong>(Closed)</strong></p>
+<p><u><strong>October 2024 Application Exercise (New!)</strong></u></p>
 
-<p>Applications for allotment garden plots are <b>open from 3 June 2024, 10.00am to 16 June 2024, 11.59pm</b> for the following locations:</p>
+<p>Applications for allotment garden plots are <b>open from 8 October 2024, 10.00am to 21 October 2024, 11.59pm</b> for the following locations:</p>
 
 <table>
 	<thead>
@@ -79,32 +79,80 @@ details[open] > summary {
 	<tr>
 		<td>1</td>
 		<td>Aljunied Park</td>
-		<td>13</td>
-		<td style="text-align:center">Q3 2024</td>		
+		<td>1</td>
+		<td style="text-align:center">Q1 2025</td>		
 	</tr>
 	<tr>
 		<td>2</td>
-		<td>Choa Chu Kang Park</td>
-		<td>15</td>
-		<td style="text-align:center">Q3 2024</td>
+		<td>Bedok Reservoir Park</td>
+		<td>1</td>
+		<td style="text-align:center">Q1 2025</td>
 	</tr>
 	<tr>
 		<td>3</td>
-		<td>Pasir Ris Park</td>
-		<td>43</td>
-		<td style="text-align:center">Q3 2024</td>
+		<td>Bukit Gombak Park</td>
+		<td>55</td>
+		<td style="text-align:center">Q1 2025</td>
 	</tr>
 	<tr>
 		<td>4</td>
-		<td>Sengkang Riverside Park</td>
-		<td>73</td>
-		<td style="text-align:center">Q3 2024</td>
+		<td>Choa Chu Kang Park</td>
+		<td>1</td>
+		<td style="text-align:center">Q1 2025</td>
 	</tr>
 	<tr>
 		<td>5</td>
+		<td>East Coast Park Area B</td>
+		<td>28</td>
+		<td style="text-align:center">Q1 2025</td>
+	</tr>
+		<tr>
+		<td>6</td>
+		<td>East Coast Park Area D</td>
+		<td>31</td>
+		<td style="text-align:center">Q1 2025</td>		
+	</tr>
+		<tr>
+		<td>7</td>
+		<td>Kallang Riverside Park</td>
+		<td>11</td>
+		<td style="text-align:center">Q1 2025</td>		
+	</tr>
+		<tr>
+		<td>8</td>
+		<td>one-north Park</td>
+		<td>18</td>
+		<td style="text-align:center">Q1 2025</td>		
+	</tr>
+		<tr>
+		<td>9</td>
+		<td>Pasir Ris Park</td>
+		<td>4</td>
+		<td style="text-align:center">Q1 2025</td>		
+	</tr>
+		<tr>
+		<td>10</td>
+		<td>Sengkang Riverside Park</td>
+		<td>3</td>
+		<td style="text-align:center">Q1 2025</td>		
+	</tr>
+		<tr>
+		<td>11</td>
+		<td>Sun Plaza Park</td>
+		<td>1</td>
+		<td style="text-align:center">Q1 2025</td>		
+	</tr>
+		<tr>
+		<td>12</td>
+		<td>Tiong Bahru Park</td>
+		<td>16</td>
+		<td style="text-align:center">Q1 2025</td>		
+	</tr>
+		<tr>
+		<td>13</td>
 		<td>Yishun Park</td>
-		<td>50</td>
-		<td style="text-align:center">Q4 2024</td>
+		<td>1</td>
+		<td style="text-align:center">Q1 2025</td>		
 	</tr>
 	</tbody>
 </table>
