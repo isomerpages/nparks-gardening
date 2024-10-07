@@ -79,79 +79,79 @@ details[open] > summary {
 	<tr>
 		<td>1</td>
 		<td>Aljunied Park</td>
-		<td>1</td>
+		<td style="text-align:center">1</td>
 		<td style="text-align:center">Q1 2025</td>		
 	</tr>
 	<tr>
 		<td>2</td>
 		<td>Bedok Reservoir Park</td>
-		<td>1</td>
+		<td style="text-align:center">1</td>
 		<td style="text-align:center">Q1 2025</td>
 	</tr>
 	<tr>
 		<td>3</td>
 		<td>Bukit Gombak Park</td>
-		<td>55</td>
+		<td style="text-align:center">55</td>
 		<td style="text-align:center">Q1 2025</td>
 	</tr>
 	<tr>
 		<td>4</td>
 		<td>Choa Chu Kang Park</td>
-		<td>1</td>
+		<td style="text-align:center">1</td>
 		<td style="text-align:center">Q1 2025</td>
 	</tr>
 	<tr>
 		<td>5</td>
 		<td>East Coast Park Area B</td>
-		<td>28</td>
+		<td style="text-align:center">28</td>
 		<td style="text-align:center">Q1 2025</td>
 	</tr>
 		<tr>
 		<td>6</td>
 		<td>East Coast Park Area D</td>
-		<td>31</td>
+		<td style="text-align:center">31</td>
 		<td style="text-align:center">Q1 2025</td>		
 	</tr>
 		<tr>
 		<td>7</td>
 		<td>Kallang Riverside Park</td>
-		<td>11</td>
+		<td style="text-align:center">11</td>
 		<td style="text-align:center">Q1 2025</td>		
 	</tr>
 		<tr>
 		<td>8</td>
 		<td>one-north Park</td>
-		<td>18</td>
+		<td style="text-align:center">18</td>
 		<td style="text-align:center">Q1 2025</td>		
 	</tr>
 		<tr>
 		<td>9</td>
 		<td>Pasir Ris Park</td>
-		<td>4</td>
+		<td style="text-align:center">4</td>
 		<td style="text-align:center">Q1 2025</td>		
 	</tr>
 		<tr>
 		<td>10</td>
 		<td>Sengkang Riverside Park</td>
-		<td>3</td>
+		<td style="text-align:center">3</td>
 		<td style="text-align:center">Q1 2025</td>		
 	</tr>
 		<tr>
 		<td>11</td>
 		<td>Sun Plaza Park</td>
-		<td>1</td>
+		<td style="text-align:center">1</td>
 		<td style="text-align:center">Q1 2025</td>		
 	</tr>
 		<tr>
 		<td>12</td>
 		<td>Tiong Bahru Park</td>
-		<td>16</td>
+		<td style="text-align:center">16</td>
 		<td style="text-align:center">Q1 2025</td>		
 	</tr>
 		<tr>
 		<td>13</td>
 		<td>Yishun Park</td>
-		<td>1</td>
+		<td style="text-align:center">1</td>
 		<td style="text-align:center">Q1 2025</td>		
 	</tr>
 	</tbody>
