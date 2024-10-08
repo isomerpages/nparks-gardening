@@ -62,9 +62,9 @@ details[open] > summary {
 
 <h4>How can I apply for an allotment garden plot?</h4>
 
-<p><u><strong>June 2024 Application Exercise</strong></u>  <strong>(Closed)</strong></p>
+<p><u><strong>October 2024 Application Exercise (New!)</strong></u></p>
 
-<p>Applications for allotment garden plots are <b>open from 3 June 2024, 10.00am to 16 June 2024, 11.59pm</b> for the following locations:</p>
+<p>Applications for allotment garden plots are <b>open from 8 October 2024, 10.00am to 21 October 2024, 11.59pm</b> for the following locations:</p>
 
 <table>
 	<thead>
@@ -79,39 +79,87 @@ details[open] > summary {
 	<tr>
 		<td>1</td>
 		<td>Aljunied Park</td>
-		<td>13</td>
-		<td style="text-align:center">Q3 2024</td>		
+		<td style="text-align:center">1</td>
+		<td style="text-align:center">Q1 2025</td>		
 	</tr>
 	<tr>
 		<td>2</td>
-		<td>Choa Chu Kang Park</td>
-		<td>15</td>
-		<td style="text-align:center">Q3 2024</td>
+		<td>Bedok Reservoir Park</td>
+		<td style="text-align:center">1</td>
+		<td style="text-align:center">Q1 2025</td>
 	</tr>
 	<tr>
 		<td>3</td>
-		<td>Pasir Ris Park</td>
-		<td>43</td>
-		<td style="text-align:center">Q3 2024</td>
+		<td>Bukit Gombak Park</td>
+		<td style="text-align:center">55</td>
+		<td style="text-align:center">Q1 2025</td>
 	</tr>
 	<tr>
 		<td>4</td>
-		<td>Sengkang Riverside Park</td>
-		<td>73</td>
-		<td style="text-align:center">Q3 2024</td>
+		<td>Choa Chu Kang Park</td>
+		<td style="text-align:center">1</td>
+		<td style="text-align:center">Q1 2025</td>
 	</tr>
 	<tr>
 		<td>5</td>
+		<td>East Coast Park Area B</td>
+		<td style="text-align:center">28</td>
+		<td style="text-align:center">Q1 2025</td>
+	</tr>
+		<tr>
+		<td>6</td>
+		<td>East Coast Park Area D</td>
+		<td style="text-align:center">31</td>
+		<td style="text-align:center">Q1 2025</td>		
+	</tr>
+		<tr>
+		<td>7</td>
+		<td>Kallang Riverside Park</td>
+		<td style="text-align:center">11</td>
+		<td style="text-align:center">Q1 2025</td>		
+	</tr>
+		<tr>
+		<td>8</td>
+		<td>one-north Park</td>
+		<td style="text-align:center">18</td>
+		<td style="text-align:center">Q1 2025</td>		
+	</tr>
+		<tr>
+		<td>9</td>
+		<td>Pasir Ris Park</td>
+		<td style="text-align:center">4</td>
+		<td style="text-align:center">Q1 2025</td>		
+	</tr>
+		<tr>
+		<td>10</td>
+		<td>Sengkang Riverside Park</td>
+		<td style="text-align:center">3</td>
+		<td style="text-align:center">Q1 2025</td>		
+	</tr>
+		<tr>
+		<td>11</td>
+		<td>Sun Plaza Park</td>
+		<td style="text-align:center">1</td>
+		<td style="text-align:center">Q1 2025</td>		
+	</tr>
+		<tr>
+		<td>12</td>
+		<td>Tiong Bahru Park</td>
+		<td style="text-align:center">16</td>
+		<td style="text-align:center">Q1 2025</td>		
+	</tr>
+		<tr>
+		<td>13</td>
 		<td>Yishun Park</td>
-		<td>50</td>
-		<td style="text-align:center">Q4 2024</td>
+		<td style="text-align:center">1</td>
+		<td style="text-align:center">Q1 2025</td>		
 	</tr>
 	</tbody>
 </table>
 
 <p>For the exact locations of the allotment gardens within each park, please refer to the map above.</p>
 
-<p>If you are interested to lease a plot in any of the above parks, please submit your application by <b>16 June 2024 (Sunday), 11.59pm</b> via any of the following AXS* Channels:</p>
+<p>If you are interested to lease a plot in any of the above parks, please submit your application by <b>21 October 2024 (Monday), 11.59pm</b> via any of the following AXS* Channels:</p>
 <ul>	
 <li> AXS e-Station (Website at <a href="https://e-station2.axs.com.sg">https://e-station2.axs.com.sg</a>);</li>
 <li> AXS m-Station (Mobile application) available on App Store, Google Play and App Gallery; or</li>
@@ -120,7 +168,10 @@ details[open] > summary {
 
 <p>More information on the application terms and conditions (T&amp;Cs) are available in the application system. You are reminded to read the instructions and T&amp;Cs carefully before submitting an application.</p>
 
-<p><i>*Please note that all applications for upcoming allotment garden plots will be done via AXS platforms to streamline the application process. Successful applicants will also make payment through AXS payment channels.</i></p>
+<div class="wrapper">
+  <a style="text-decoration:none; color: white" href="https://go.gov.sg/ags-plot-application"><div class="box">
+    Apply Now!</div></a>
+</div>
 
 <p>For step-by-step guides on how to apply or make payment for the allotment garden plot application via AXS Channels, please click below:</p>
 <ul>
@@ -130,8 +181,8 @@ details[open] > summary {
 
 <p><strong>Applications are now closed.</strong> Plots will be assigned via ballot. Applicants will be notified via email from AXS on the outcome of their application by mid-September 2024.</p>
 
-<p><strong><u>Previous Application Exercises - February 2024 Application Exercise</u></strong></p>
-<p>All applicants from the February 2024 Application  Exercise have been notified of their outcome via email. Please check your junk mail folder and contact us at <a href="_mailto:allotment_gardening@nparks.gov.sg">allotment_gardening@nparks.gov.sg</a> if you did not receive the email notification.</p> 
+<p><strong><u>Previous Application Exercises - June 2024 Application Exercise</u></strong></p>
+<p>All applicants from the June 2024 Application Exercise have been notified of their outcome via email from AXS. Please check your junk mail folder and contact us at <a href="_mailto:allotment_gardening@nparks.gov.sg">allotment_gardening@nparks.gov.sg</a> if you did not receive the email notification.</p> 
 
 <h4>Implementing Allotment Gardens</h4>
 <p>Are you an organisation or grassroot leader who is keen to implement allotment gardens within your premise or housing estate? Check out the ‘<a href="https://go.gov.sg/guide-to-design-allotment-gardens">Guide to Designing and Implementing Allotment Gardens</a>’ to find out how you can do so under the <a href="https://go.gov.sg/community-in-bloom">Community in Bloom</a> programme with your landowner’s support now!</p>
@@ -347,4 +398,4 @@ details[open] > summary {
 
 <br>
 <p>Can't find what you're looking for? Submit your enquiries via our <a href="http://www.nparks.gov.sg/feedback">Feedback Form</a>.</p>
-<p>For questions related to the June 2024 Application Exercise (such as instructions to apply via AXS), please contact <b>AXS Customer Service at 6560 2727</b> (8.30am - 6pm daily).</p>
+<p>For questions related to the October 2024 Application Exercise (such as instructions to apply via AXS), please contact <b>AXS Customer Service at 6560 2727</b> (8.30am - 6pm daily).</p>
