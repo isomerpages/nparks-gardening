@@ -179,8 +179,6 @@ details[open] > summary {
 	<li><a href="https://go.gov.sg/nparks-ag-plot-how-to-pay-axs">How to make payment</a> (for successful applicants only)</li>
 </ul>
 
-<p><strong>Applications are now closed.</strong> Plots will be assigned via ballot. Applicants will be notified via email from AXS on the outcome of their application by mid-September 2024.</p>
-
 <p><strong><u>Previous Application Exercises - June 2024 Application Exercise</u></strong></p>
 <p>All applicants from the June 2024 Application Exercise have been notified of their outcome via email from AXS. Please check your junk mail folder and contact us at <a href="_mailto:allotment_gardening@nparks.gov.sg">allotment_gardening@nparks.gov.sg</a> if you did not receive the email notification.</p> 
 
