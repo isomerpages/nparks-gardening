@@ -53,30 +53,17 @@ details[open] > summary {
 
 <section>
 	<img title="Community In Bloom ambassadors at their appreciation event in 2024. Photo by Jacqueline Chua." src="/images/Gardeners/Ambassadors_2024_JacquelineChua.jpg">
-<p>Community in Bloom (CIB) Ambassadors are passionate volunteers with excellent horticulture and gardening skills. They actively share their knowledge with the community and lead gardening projects to improve green spaces around them.</p> 
+<p>Community in Bloom (CIB) Ambassadors are passionate volunteers with excellent horticulture and gardening skills. They actively share their knowledge with the community and lead gardening projects to improve green spaces around them.</p>
+	
+<p>Watch our CIB Ambassadors in action:</p>
+	<iframe width="100%" height="415" src="https://www.youtube.com/embed/NjoavpXdiX4?si=tr229_ZUR517j94X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br> 
 </section>
-<br>
-<section>
-<h4>CIB Ambassador Awards 2024</h4>
-	<img title="A CIB Ambassador and his gardening group. Photo by NParks." src="/images/Gardeners/Amb_Kareem_w_gardeners.jpg">
-	<p>Volunteers from community gardens under the <a href="/get-involved/community-gardens/">Community In bloom</a> programme are eligible for nomination. We are looking for nominees that are able to: </p>
-	<ul>	
-<li>Promote the benefits of gardening to a wider community</li>
-<li>Lead and facilitate gardening-related activities</li>
-<li>Guide community groups in setting up community gardens or implementing gardening projects</li>
-		<li>Galvanise the community with positive conduct</li>
-		<li>Share good gardening practices</li>
-	</ul>		
-	<p>Nominations for the CIB Ambassador Awards 2024 are now closed. Only shortlisted nominees will be notified.</p>
-	<p>For any queries on the CIB Ambassadors, please email us at <a href="_mailto:communityinbloom@nparks.gov.sg">communityin bloom@nparks.gov.sg</a>.</p>	
-</section>
+
 <br>
 <section>	
 <h4>About the CIB Ambassador Awards</h4>
 	<img title="A CIB Ambassador guiding children on how to water plants. Photo by NParks." src="/images/Gardeners/kids%20(2).jpg">
 	<p>The CIB Ambassador Awards recognises individuals who promote the love for gardening amongst the community through various initiatives such as outreach and facilitating gardening-based community projects. Since its introduction in 2008, the Awards have celebrated the efforts of our volunteers going above and beyond in contributing to Singapore's gardening movement.</p> 
-	<p>Watch our CIB Ambassadors in action:</p>
-	<iframe width="100%" height="415" src="https://www.youtube.com/embed/NjoavpXdiX4?si=tr229_ZUR517j94X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
 </section>
 <br>
 <section>
@@ -88,11 +75,9 @@ details[open] > summary {
 		<li>Be invited to specially curated learning journeys</li>
 		<li>Collaborate on exciting gardening-related projects with NParks, contributing to our City in Nature Vision</li>
 </ul></section>
-	
-
-	
+<br>	
 <section>
-	<h4>Meet our New CIB Ambassadors for 2023!</h4>
+	<h4>Meet our New CIB Ambassadors for 2024!</h4>
 	<img src="/images/2023%20cib%20ambassadors%20collage_for%20gardeningsg.jpg">
 	<br><br>
 </section>
