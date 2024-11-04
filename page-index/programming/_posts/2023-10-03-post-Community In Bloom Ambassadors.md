@@ -78,7 +78,7 @@ details[open] > summary {
 <br>	
 <section>
 	<h4>Meet our New CIB Ambassadors for 2024!</h4>
-	<img width="75%" height="75%" src="/images/2024%20cib%20ambassadors%20collage.jpg">
+	<img style="height:75%; width:75%" alt="CIB Ambassadors 2024" src="/images/2024%20cib%20ambassadors%20collage.jpg">
 	<br><br>
 </section>
 
