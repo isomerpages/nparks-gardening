@@ -18,7 +18,7 @@ variant: markdown
 </section>
 
 <section>
-	<h4>CIB Awards 2025</h4>
+	<h4>CIB Awards</h4>
 	<p>Comms liner</p>
 
 	      
