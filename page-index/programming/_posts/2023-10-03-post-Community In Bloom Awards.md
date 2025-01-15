@@ -18,9 +18,8 @@ variant: markdown
 
 <section>
 	<h4>CIB Awards</h4>
-	<p>Comms liner</p>
-
-	      
+	<p>As we are celebrating our 20th anniversary of CIB this year, the Awards will be paused. The community can look forward to a host of celebratory CIB initiatives and festivities instead. More details on the upcoming programmes and activities will be posted on <a href="https://gardeningsg.nparks.gov.sg/](https://gardeningsg.nparks.gov.sg/)r&quot;">GardeningSG</a> when ready. </p>
+	     
 <p>Please email <a href="mailto:communityinbloom@nparks.gov.sg">communityinbloom@nparks.gov.sg</a> or contact your CIB Managers if you need further assistance. </p>
 
 <section>
