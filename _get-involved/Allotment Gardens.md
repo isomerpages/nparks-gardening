@@ -58,7 +58,7 @@ details[open] > summary {
 
 <p></p><h4>About the Allotment Gardening Scheme</h4>
 
-<p>Under NParks’ Allotment Gardening Scheme, each household may apply and ballot for one garden plot at any one location at a time. At $57 (excluding prevailing GST) per year for a period of up to three years, successful applicants will be assigned a plot consisting of a raised planter bed (2.5m x 1m) with soil and a mini storage area for tools.</p> 
+<p>Under NParks’ Allotment Gardening Scheme, each household may apply and ballot for one garden plot at any one location at a time. At $57 ($62.13 including GST) per year for a period of up to three years, successful applicants will be assigned a plot consisting of a raised planter bed (2.5m x 1m) with soil and a mini storage area for tools.</p> 
 
 <h4>How can I apply for an allotment garden plot?</h4>
 
