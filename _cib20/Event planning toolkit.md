@@ -13,6 +13,6 @@ description: Helpful references and templates to help gardening groups plan and
 <ul>
 <li><a download="" href="/files/know%2010%20culinary%20herbs%20and%20spices.pdf">Know 10 Culinary Herbs and Spices</a></li>
 <li><a download="" href="/files/know%2010%20culinary%20herbs%20and%20spices.pdf">Know 10 Culinary Herbs and Spices</a></li>
-		<li><a download="" href="/files/know%2010%20culinary%20herbs%20and%20spices.pdf">Know 10 Culinary Herbs and Spices</a></li>
-	</ul>
-	</section>
+<li><a download="" href="/files/know%2010%20culinary%20herbs%20and%20spices.pdf">Know 10 Culinary Herbs and Spices</a></li>
+</ul>
+</section>
