@@ -31,15 +31,16 @@ description: ""
 
 <div class="wrapper">
   <div class="box">
-    <h5>SG60 Concert - Garden booths and therapeutic horticulture exposure</h5>
+    <h5>Garden Tour at Jurong Central Zone D RN 'Sky Garden'</h5>
 		<img style="width:250px; display: inline" src="/images/Landing_page/Gardening101/questionmarks.png"><br>
-		<b>Organiser:</b> Bishan CC Sky Garden <br>
-		<b>Date:</b><br>
-		<b>Where:</b><br>
+		<b>Organiser:</b> Jurong Central Zone D RN <br>
+		<b>Date:</b> 1 April 2025, Tuesday<br>
+		<b>Time:</b><br>
+		<b>Where:</b> Jurong Central Zone D <i>(372 Jurong East St 32 Multi-Storey Carpark)<br>
 		<b>Enquiries:</b><br>
 		<br><br>
 			<a class="button-primary" href="/new-to-gardening/resource-suggester/">Try it now!</a>
-	</div>
+	</i></div><i>
 	<div class="box">
 		<h4>Basic Gardening Skills</h4>
 			<img style="width:250px; display: inline" src="/images/Landing_page/Gardening101/secateurs.png"><br>
@@ -52,4 +53,4 @@ description: ""
 			Almost impossible to kill!<br><br>
 			<a class="button-primary" href="/new-to-gardening/plants-for-beginners/">Tell me more!</a>
 		</div>
-</div>
+</i></div>
