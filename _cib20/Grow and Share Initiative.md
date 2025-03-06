@@ -57,6 +57,9 @@ Under this initiative, community gardening groups across Singapore, from housing
 			v) Artistic</p>
 	</ul>
 	<p>Need ideas? <a href="">Here is a list of examples for each category.</a>
-	</p><li>Social media sharing:</li>
-
-</ol></section>
+	</p>
+	<li>Social media sharing:</li>
+	<ul><li>Share your event(s) on any social media platform: Facebook, Instagram, TikTok</li>
+		<li>Use the hashtags: #CIB20 #CIBGrowandShare #CommunityinBloom</li>
+		<li>Tag @nparksbuzz in your caption or image!</li></ul>
+	</ol></section>
