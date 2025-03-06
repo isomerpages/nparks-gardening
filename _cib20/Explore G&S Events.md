@@ -7,7 +7,7 @@ description: ""
 <style>
 	.wrapper {
 		display: grid;
-		grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+		grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
 		grid-template-rows: auto-fit;
 		column-gap: 10px;
 		row-gap: 10px;
@@ -36,8 +36,8 @@ description: ""
 			<b>Where:</b> 372 Jurong East Street 32 Multi-Storey Carpark<br>
 		</div>
 		<div class="box">
-			<h5>Chewing Pests</h5>
-			<img style="display: inline" src="/images/Biodiversity/limecaterpillar_jacchua_3.jpg"><br>
+			<h5>Eco Fest</h5>
+			(insert picture)<br>
 			<ul>
 				<li><a href="/page-index/pests/caterpillars/">Caterpillars</a></li>
 				<li><a href="/page-index/pests/grasshoppers-crickets-and-katydids/">Grasshoppers, Crickets and Katydids</a></li>
