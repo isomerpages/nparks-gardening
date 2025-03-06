@@ -81,21 +81,15 @@ description: ""
 			<b>Where:</b> 112 Bishan St 12, Singapore <br>
 			<b>Enquiries:</b>
 
-</div></div></section>
-<br><header>
-	<h3>Other Plant Problems</h3>
-</header>
+</div>
+	<div class="box">
+			<h5>Sensory Node Launch at 813 Rooftop Landscape &amp; Community Garden</h5>
+			<br><br>(insert picture)
+			<br><br><br><br><br>
+			<b>Organiser:</b> Nee Soon South Zone C RN <br>
+			<b>Date:</b> 26 April 2025, Saturday<br>
+			<b>Where:</b>813 Rooftop Landscape &amp; Community Garden<br>
+			<b>Enquiries:</b>
 
-<section>
-	<p> Apart from pests, your plants may be suffering from other problems that might cause them to look sickly. Here are some for you to explore:</p>
-	<ul>
-				<li><a href="/page-index/plant-problems/etiolation/">Etiolation</a></li>
-		<li><a href="/page-index/plant-problems/nutrient-deficiencies/">Nutrient deficiency</a>
-				</li><li><a href="/page-index/plant-problems/root-bound/">Root-bound</a></li>
-		<li><a href="/page-index/plant-problems/root-rot/">Root Rot</a></li>
-		<li><a href="/page-index/plant-problems/sunburn/">Sunburn</a></li>
-		<li><a href="/page-index/plant-problems/transplanting-shock/">Transplanting Shock</a></li>
-		<li><a href="/page-index/plant-problems/waterlogging/">Waterlogging</a></li>
-				<li><a href="/page-index/plant-problems/wilting/">Wilting</a></li>
-	</ul>
-</section>
+</div></div></section>
+<br>
