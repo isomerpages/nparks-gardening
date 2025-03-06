@@ -2,5 +2,5 @@ collections:
   cib20:
     output: true
     order:
-      - Grow and Share Initiative.md
       - CIB20.md
+      - Grow and Share Initiative.md
