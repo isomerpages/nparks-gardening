@@ -54,6 +54,15 @@ description: ""
 			<b>Where:</b> Tiong Bahru Community Centre<br>
 			<b>Enquiries:</b>
 		</div>
+	<div class="box">
+			<h5>Garden Tour at Toh Yi Community Garden</h5>
+			<br><br>(insert picture)
+			<br><br><br><br><br>
+			<b>Organiser:</b> Toh Yi Community Garden<br>
+			<b>Date:</b> 13 April 2025, Sunday<br>
+			<b>Where:</b> 4 Toh Yi Drive, Singapore 590004<br>
+			<b>Enquiries:</b>
+</div>
 			<div class="box">
 			<h5>Garden Tour at Toh Yi Community Garden</h5>
 			<br><br>(insert picture)
@@ -62,6 +71,16 @@ description: ""
 			<b>Date:</b> 13 April 2025, Sunday<br>
 			<b>Where:</b> 4 Toh Yi Drive, Singapore 590004<br>
 			<b>Enquiries:</b>
+</div>
+			<div class="box">
+			<h5>Easter Green Bazaar</h5>
+			<br><br>(insert picture)
+			<br><br><br><br><br>
+			<b>Organiser:</b> Bishan East Zone 1 Green Hub<br>
+			<b>Date:</b> 19 April 2025, Saturday<br>
+			<b>Where:</b> 112 Bishan St 12, Singapore <br>
+			<b>Enquiries:</b>
+
 </div></div></section>
 <br><header>
 	<h3>Other Plant Problems</h3>
