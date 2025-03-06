@@ -2,6 +2,7 @@ collections:
   cib20:
     output: true
     order:
+      - Event planning toolkit.md
       - CIB20.md
       - Grow and Share Initiative.md
       - Explore G&S Events.md
