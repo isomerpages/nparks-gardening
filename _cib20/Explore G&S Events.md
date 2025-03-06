@@ -37,9 +37,9 @@ description: ""
 		<b>Organiser:</b> Jurong Central Zone D RN <br>
 		<b>Date:</b> 1 April 2025, Tuesday<br>
 		<b>Time:</b> 8.00am - 10.00am <br>
-		<b>Where:</b> Jurong Central Zone D <i>(372 Jurong East St 32 Multi-Storey Carpark)</i><br>
+		<b>Where:</b> Jurong Central Zone D <i><br>(372 Jurong East St 32 Multi-Storey Carpark)</i><br>
 		<b>Enquiries:</b> (insert email)<br>
-		<br><br>
+		<br>
 			<a class="button-primary" href="/new-to-gardening/resource-suggester/">Register now!</a>
 	</div><i>
 	<div class="box">
