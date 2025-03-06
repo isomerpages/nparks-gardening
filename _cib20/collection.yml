@@ -1,4 +1,5 @@
 collections:
   cib20:
     output: true
-    order: []
+    order:
+      - CIB20.md
