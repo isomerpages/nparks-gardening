@@ -32,4 +32,14 @@ Under this initiative, community gardening groups across Singapore, from housing
 		<p>Organise at least one community event in or around your community garden. The event or activity should fall under one of the five categories listed above. </p>
 	<p>The Grow and Share initiative will run from 12 March to 15 November 2025.</p>
 
-<h5>Eligibility</h5></section>
+<h5>Eligibility</h5>
+<p>Participating community gardening groups are to be registered in the CIB programme. CIB gardening groups should be supported by:
+	</p><ul>
+		<li>your respective Residents’ Network (RN), Residents’ Committee (RC), Neighbourhood Committee (NC), Condominium MCST,</li>
+		<li>your organisation, or</li>
+		<li>educational institution</li>
+<p></p>
+	
+<p>Registration for the CIB programme is free! Email <a href="mailto:communityinbloom@nparks.gov.sg">communityinbloom@nparks.gov.sg</a> if you are not registered.</p>
+
+</ul></section>
