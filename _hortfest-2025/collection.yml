@@ -1,4 +1,5 @@
 collections:
   hortfest-2025:
     output: true
-    order: []
+    order:
+      - Hortfest 2025.md
