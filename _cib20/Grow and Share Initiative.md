@@ -38,8 +38,18 @@ Under this initiative, community gardening groups across Singapore, from housing
 		<li>your respective Residents’ Network (RN), Residents’ Committee (RC), Neighbourhood Committee (NC), Condominium MCST,</li>
 		<li>your organisation, or</li>
 		<li>educational institution</li>
-<p></p>
+	</ul><p></p>
 	
 <p>Registration for the CIB programme is free! Email <a href="mailto:communityinbloom@nparks.gov.sg">communityinbloom@nparks.gov.sg</a> if you are not registered.</p>
 
-</ul></section>
+<h5>Event criteria</h5>
+<ol type="a">
+	<li>Time period:</li>
+	<ul><li>The event should take place between 12 March and 15 November 2025</li></ul>
+	<li>Community impact:</li>
+	<ul><li>Size of planning team: Encouraged to have at least 5 members, this can include 1 to 2 leaders</li>
+		<li>Participation rate: Event should cater for minimally 15 attendees, excluding the organisers</li>
+		
+
+
+</ul></ol></section>
