@@ -18,6 +18,15 @@ description: ""
 		border-radius: 5px;
 		padding: 5px 10px 15px 10px;
 	}
+	
+			  .button-primary {
+    background-color: #215732;
+    border: 2px solid #215732;
+    padding: 0.5rem 1rem;
+  	border-radius: 1rem;
+    color: white !important;
+	  text-decoration: none !important;
+  }
 </style>
 
 <section>
@@ -79,7 +88,8 @@ description: ""
 			<b>Organiser:</b> Bishan East Zone 1 Green Hub<br>
 			<b>Date:</b> 19 April 2025, Saturday<br>
 			<b>Where:</b> 112 Bishan St 12, Singapore <br>
-			<b>Enquiries:</b>
+			<b>Enquiries:</b><br><br>
+				<a class="button-primary" href="https://www.facebook.com/BE.Zone1.RN/">Find out more</a>
 
 </div>
 	<div class="box">
@@ -91,5 +101,24 @@ description: ""
 			<b>Where:</b>813 Rooftop Landscape &amp; Community Garden<br>
 			<b>Enquiries:</b>
 
-</div></div></section>
+</div><div class="box">
+			<h5>Garden Open House</h5>
+			<br><br>(insert picture)
+			<br><br><br><br><br>
+			<b>Organiser:</b> Sennett Community Harvest Hub <br>
+			<b>Date:</b> 26 April 2025, Saturday<br>
+			<b>Where:</b>69 Wan Tho Ave<br>
+			<b>Enquiries:</b>		
+
+</div></div><div class="box">
+			<h5>Central Singapore Market (CSM) in conjunction with SG60 Concert - Garden Booth and Therapeutic Horticulture</h5>
+			<br><br>(insert picture)
+			<br><br><br><br><br>
+			<b>Organisers:</b> Bishan CC Sky Garden &amp; Bishan East Zone 6 167A<br>
+			<b>Date:</b> 27 April 2025, Saturday<br>
+			<b>Where:</b> Bishan Bus Interchange<br>
+			<b>Enquiries:</b><br><br>
+		<a class="button-primary" href="https://www.facebook.com/BishanCommunityClub">Find out more</a>
+
+</div></section>
 <br>
