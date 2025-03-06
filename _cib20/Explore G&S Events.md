@@ -34,37 +34,36 @@ description: ""
 			<b>Organiser:</b> Jurong Central Zone D RN<br>
 			<b>Date:</b> 1 April 2025, Tuesday<br>
 			<b>Where:</b> 372 Jurong East Street 32 Multi-Storey Carpark<br>
+			<b>Enquiries:</b> 
 		</div>
 		<div class="box">
 			<h5>Eco Fest</h5>
-			(insert picture)<br>
-			<ul>
-				<li><a href="/page-index/pests/caterpillars/">Caterpillars</a></li>
-				<li><a href="/page-index/pests/grasshoppers-crickets-and-katydids/">Grasshoppers, Crickets and Katydids</a></li>
-				<li><a href="/page-index/pests/snails-and-slugs/">Snails and Slugs</a></li>
-			</ul>
+			<br><br>(insert picture)
+			<br><br><br><br><br>
+			<b>Organiser:</b> Compassvale Gardens RC, Compassvale RN, Compassvale Haven RC, Compassvale Villa RC, Sengkang Youth Network<br>
+			<b>Date:</b> 5 April 2025, Saturday<br>
+			<b>Where:</b> Sengkang CC Multi-purpose Hall<br>
+			<b>Enquiries:</b>
 		</div>
 		<div class="box">
-			<h5>"Burrowing" Pests</h5>
-			<img style="display: inline" src="/images/Biodiversity/LeafMiner_JacChua.jpg"><br>
-			<ul>
-				<li><a href="/page-index/pests/leaf-miner/">Leaf Miners</a></li>
-				<li><a href="/page-index/pests/oriental-fruit-flies/">Oriental Fruit Flies</a></li>
-			</ul>
+			<h5>Community Garden Tours in Tiong Bahru</h5>
+			<br><br>(insert picture)
+			<br><br><br><br><br>
+			<b>Organiser:</b> Kim Tian West RC and Tiong Bahru SCEC<br>
+			<b>Date:</b> 12 April 2025, Saturday<br>
+			<b>Where:</b> Tiong Bahru Community Centre<br>
+			<b>Enquiries:</b>
 		</div>
-		<div class="box">
-			<h5>Large Animals</h5>
-			<img style="display: inline" src="/images/Biodiversity/squirrel%20at%20hortpark%20(4)victorialim.jpg"><br>
-			<ul>
-				<li><a href="/page-index/pests/pests/#birds">Birds</a></li>
-				<li><a href="/page-index/pests/pests/#rodents">Rodents</a></li>
-			</ul>
-		</div>
-	</div>
-	<br>
-</section>
-
-<header>
+			<div class="box">
+			<h5>Garden Tour at Toh Yi Community Garden</h5>
+			<br><br>(insert picture)
+			<br><br><br><br><br>
+			<b>Organiser:</b> Toh Yi Community Garden<br>
+			<b>Date:</b> 13 April 2025, Sunday<br>
+			<b>Where:</b> 4 Toh Yi Drive, Singapore 590004<br>
+			<b>Enquiries:</b>
+</div></div></section>
+<br><header>
 	<h3>Other Plant Problems</h3>
 </header>
 
