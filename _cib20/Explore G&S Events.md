@@ -7,51 +7,77 @@ description: ""
 <style>
 	.wrapper {
 		display: grid;
-		grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+		grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
 		grid-template-rows: auto-fit;
 		column-gap: 10px;
 		row-gap: 10px;
 	}
 
-	.box {
-		border: solid 1px #215732 ;
+	.box{
+		border: solid 1px #215732;
 		border-radius: 5px;
 		padding: 5px 10px 15px 10px;
 	}
-		
-		  .button-primary {
-    background-color: #215732;
-    border: 2px solid #215732;
-    padding: 0.5rem 1rem;
-  	border-radius: 1rem;
-    color: white !important;
-	  text-decoration: none !important;
-  }
 </style>
 
-<div class="wrapper">
-  <div class="box">
-    <h5>Garden Tour at Jurong Central Zone D RN 'Sky Garden'</h5>
-		(insert image) <br><br>
-		<i>Learn how to grow edibles on a rooftop garden!</i><br><br>
-		<b>Organiser:</b> Jurong Central Zone D RN <br>
-		<b>Date:</b> 1 April 2025, Tuesday<br>
-		<b>Time:</b> 8.00am - 10.00am <br>
-		<b>Where:</b> Jurong Central Zone D<br><i>(372 Jurong East St 32 Multi-Storey Carpark)</i><br>
-		<b>Enquiries:</b> (insert email)<br>
-		<br>
-			<a class="button-primary" href="/new-to-gardening/resource-suggester/">Register now!</a>
-	</div><i>
-	<div class="box">
-		<h4>Basic Gardening Skills</h4>
-			<img style="width:250px; display: inline" src="/images/Landing_page/Gardening101/secateurs.png"><br>
-			Learn key skills for gardening<br><br>
-			<a class="button-primary" href="/new-to-gardening/basic-gardening-skills/">Start now!</a>
-	</div>
-	<div class="box">
-		<h4>Plants for Beginners</h4>
-			<img style="width:250px; display: inline" src="/images/Landing_page/Gardening101/pottedplant.png"><br>
-			Almost impossible to kill!<br><br>
-			<a class="button-primary" href="/new-to-gardening/plants-for-beginners/">Tell me more!</a>
+<section>
+	<p> Visit these community gardens to get inspired for your next Grow and Share activity! (tbc?)</p>
+	<br>
+</section>
+
+<section>
+	<div class="wrapper">
+		<div class="box">
+			<h5>Garden Tour at Jurong Central Zone D RN 'Sky Garden'</h5>
+			<br><br>(insert picture)
+			<br><br><br><br><br>
+			<b>Organiser:</b> Jurong Central Zone D RN<br>
+			<b>Date:</b> 1 April 2025, Tuesday<br>
+			<b>Where:</b> 372 Jurong East Street 32 Multi-Storey Carpark<br>
 		</div>
-</i></div>
+		<div class="box">
+			<h5>Chewing Pests</h5>
+			<img style="display: inline" src="/images/Biodiversity/limecaterpillar_jacchua_3.jpg"><br>
+			<ul>
+				<li><a href="/page-index/pests/caterpillars/">Caterpillars</a></li>
+				<li><a href="/page-index/pests/grasshoppers-crickets-and-katydids/">Grasshoppers, Crickets and Katydids</a></li>
+				<li><a href="/page-index/pests/snails-and-slugs/">Snails and Slugs</a></li>
+			</ul>
+		</div>
+		<div class="box">
+			<h5>"Burrowing" Pests</h5>
+			<img style="display: inline" src="/images/Biodiversity/LeafMiner_JacChua.jpg"><br>
+			<ul>
+				<li><a href="/page-index/pests/leaf-miner/">Leaf Miners</a></li>
+				<li><a href="/page-index/pests/oriental-fruit-flies/">Oriental Fruit Flies</a></li>
+			</ul>
+		</div>
+		<div class="box">
+			<h5>Large Animals</h5>
+			<img style="display: inline" src="/images/Biodiversity/squirrel%20at%20hortpark%20(4)victorialim.jpg"><br>
+			<ul>
+				<li><a href="/page-index/pests/pests/#birds">Birds</a></li>
+				<li><a href="/page-index/pests/pests/#rodents">Rodents</a></li>
+			</ul>
+		</div>
+	</div>
+	<br>
+</section>
+
+<header>
+	<h3>Other Plant Problems</h3>
+</header>
+
+<section>
+	<p> Apart from pests, your plants may be suffering from other problems that might cause them to look sickly. Here are some for you to explore:</p>
+	<ul>
+				<li><a href="/page-index/plant-problems/etiolation/">Etiolation</a></li>
+		<li><a href="/page-index/plant-problems/nutrient-deficiencies/">Nutrient deficiency</a>
+				</li><li><a href="/page-index/plant-problems/root-bound/">Root-bound</a></li>
+		<li><a href="/page-index/plant-problems/root-rot/">Root Rot</a></li>
+		<li><a href="/page-index/plant-problems/sunburn/">Sunburn</a></li>
+		<li><a href="/page-index/plant-problems/transplanting-shock/">Transplanting Shock</a></li>
+		<li><a href="/page-index/plant-problems/waterlogging/">Waterlogging</a></li>
+				<li><a href="/page-index/plant-problems/wilting/">Wilting</a></li>
+	</ul>
+</section>
