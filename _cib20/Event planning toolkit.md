@@ -6,7 +6,7 @@ description: Helpful references and templates to help gardening groups plan and
   organise their own events and activities
 ---
 <section>
-<p>To support you in your <a href="/grow-and-share-initiative/">Grow and Share</a> events, we have prepared a few helpful references and templates. Click on the links below to download the resources that interest you!</p>
+<p>To support you in your <a href="https://gardeningsg.nparks.gov.sg/grow-and-share-initiative/">Grow and Share</a> events, we have prepared a few helpful references and templates. Click on the links below to download the resources that interest you!</p>
 	</section>
 	<br>
 	<section>
