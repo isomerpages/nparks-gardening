@@ -32,15 +32,16 @@ description: ""
 <div class="wrapper">
   <div class="box">
     <h5>Garden Tour at Jurong Central Zone D RN 'Sky Garden'</h5>
-		<img style="width:250px; display: inline" src="/images/Landing_page/Gardening101/questionmarks.png"><br>
+		(insert image) <br><br>
+		<i>Learn how to grow edibles on a rooftop garden!</i><br><br>
 		<b>Organiser:</b> Jurong Central Zone D RN <br>
 		<b>Date:</b> 1 April 2025, Tuesday<br>
-		<b>Time:</b><br>
-		<b>Where:</b> Jurong Central Zone D <i>(372 Jurong East St 32 Multi-Storey Carpark)<br>
-		<b>Enquiries:</b><br>
+		<b>Time:</b> 8.00am - 10.00am <br>
+		<b>Where:</b> Jurong Central Zone D <i>(372 Jurong East St 32 Multi-Storey Carpark)</i><br>
+		<b>Enquiries:</b> (insert email)<br>
 		<br><br>
-			<a class="button-primary" href="/new-to-gardening/resource-suggester/">Try it now!</a>
-	</i></div><i>
+			<a class="button-primary" href="/new-to-gardening/resource-suggester/">Register now!</a>
+	</div><i>
 	<div class="box">
 		<h4>Basic Gardening Skills</h4>
 			<img style="width:250px; display: inline" src="/images/Landing_page/Gardening101/secateurs.png"><br>
