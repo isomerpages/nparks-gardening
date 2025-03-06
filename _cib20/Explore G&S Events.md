@@ -111,7 +111,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Where:</b>69 Wan Tho Ave<br>
 			<b>Enquiries:</b>		
 
-</div></div><div class="box">
+</div><div class="box">
 			<h5>Central Singapore Market (CSM) in conjunction with SG60 Concert - Garden Booth and Therapeutic Horticulture</h5>
 			<br><br>(insert picture)
 			<br><br><br><br><br>
@@ -121,5 +121,5 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Enquiries:</b><br><br>
 		<a class="button-primary" href="https://www.facebook.com/BishanCommunityClub">Find out more</a>
 
-</div></section>
+</div></div></section>
 <br>
