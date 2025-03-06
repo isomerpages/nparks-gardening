@@ -10,7 +10,7 @@ description: Celebrate 20 years of Community in Bloom by sharing the joy of
 <p> The new Grow and Share (G&amp;S) initiative was launched to celebrate two decades of Community In Bloom (CIB) by sharing the joy of gardening with the wider community. 
 Under this initiative, community gardening groups across Singapore, from housing estates, schools and organisations, are encouraged to organise wide-ranging gardening-related activities.</p>
 	
-<p>If you are part of a community gardening group, join us in celebrating 20 years of CIB from March to November this year, by organising at least one gardening-related event for your community! Be one of the first 800 groups to participate to be eligible for a starter pack and a celebration pack.</p>
+<p>If you are part of a community gardening group, join us in celebrating 20 years of CIB from March to November this year, by organising at least one gardening-related event for your community! Be one of the first 800 groups to participate to be eligible for a starter pack and a celebration pack.</p><br>
 	</section>
 	
 <section>
@@ -24,7 +24,7 @@ Under this initiative, community gardening groups across Singapore, from housing
 		<li>CULTIVATE knowledge and skills</li>
 		<ul><li>Transform our gardens into living classrooms and exchange horticultural knowledge</li></ul>
 		</ol></section>
-	<br>
+
 	
 <section>
 		<h4>How to get involved</h4>
