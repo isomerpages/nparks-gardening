@@ -2,5 +2,6 @@ collections:
   cib20:
     output: true
     order:
+      - Explore G&S Events.md
       - CIB20.md
       - Grow and Share Initiative.md
