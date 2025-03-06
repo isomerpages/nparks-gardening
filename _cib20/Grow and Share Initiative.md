@@ -12,7 +12,6 @@ Under this initiative, community gardening groups across Singapore, from housing
 	
 <p>If you are part of a community gardening group, join us in celebrating 20 years of CIB from March to November this year, by organising at least one gardening-related event for your community! Be one of the first 800 groups to participate to be eligible for a starter pack and a celebration pack.</p>
 	</section>
-	<br>
 	
 <section>
 	<h4>Objectives of Grow and Share</h4>
