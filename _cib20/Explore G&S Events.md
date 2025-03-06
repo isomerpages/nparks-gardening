@@ -31,11 +31,13 @@ description: ""
 
 <div class="wrapper">
   <div class="box">
-    <h5>SG60 Concert - Garden Booths and therapeutic horticulture exposure</h5>
+    <h5>SG60 Concert - Garden booths and therapeutic horticulture exposure</h5>
 		<img style="width:250px; display: inline" src="/images/Landing_page/Gardening101/questionmarks.png"><br>
-		<b>Organiser:</b><br>
+		<b>Organiser:</b> Bishan CC Sky Garden <br>
 		<b>Date:</b><br>
-		<b>Where:</b><br><br>
+		<b>Where:</b><br>
+		<b>Enquiries:</b><br>
+		<br><br>
 			<a class="button-primary" href="/new-to-gardening/resource-suggester/">Try it now!</a>
 	</div>
 	<div class="box">
