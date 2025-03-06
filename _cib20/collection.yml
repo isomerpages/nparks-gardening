@@ -1,0 +1,4 @@
+collections:
+  cib20:
+    output: true
+    order: []
