@@ -89,5 +89,17 @@ Under this initiative, community gardening groups across Singapore, from housing
 		<p>Want to find out more about the initiative? We are organising two virtual briefing sessions to share with you more details and how you can submit your proposals:</p>
 		<ul><li>22 March 2025, Saturday, 10am</li>
 			<li>9 April 2025, Wednesday, 12pm</li></ul>
-			<a class="button-primary" href="https://go.gov.sg/cibgrowandshareform">Register for a virtual briefing session</a>
-</ol></section>
+			<a class="button-primary" href="https://go.gov.sg/cibgrowandshareform">Register for a virtual briefing session</a><br><br>
+		<li><u>Watering &amp; growing phase</u></li>
+		<p>You will receive an email once your submission is reviewed and confirmed – your <b><i>personalised post-event form link</i></b> will be in this email, <i>please do not delete it</i>. 
+
+Proceed to implement your event and don’t forget to take plenty of photographs. Here are some pointers for taking useful photographs for your post-event submission:</p>
+		<ul><li>Showcase your community – take pictures of the organisers and participants in action</li>
+			<li>Show a broad overview or bird’s eye view of the event ongoing and the activities undertaken</li></ul>
+		<li><u>Harvest &amp; wrap-up phase</u></li>
+		<p>When your event is over, retrieve your post-event form link from your confirmation email and complete the form. You will need to submit <b>2 photographs per event</b> and a <b>screenshot of your social media post(s)</b>. 
+
+Upon the successful completion of the event(s) and form submissions, eligible gardening groups will receive a celebration pack. Delivery of the celebration pack will start from July 2025. More information will be shared with eligible groups once the delivery has been scheduled. 
+
+</p></ol>
+</section>
