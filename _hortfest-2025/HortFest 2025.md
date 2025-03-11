@@ -52,6 +52,11 @@ description: ""
 	<b>Venue:</b> HortPark, 33 Hyderabad Road, Singapore 119578<br> 
 	<b>Time:</b> 9.00am - 7.00pm</p>
 	
-<p>Note:Programme details are subject to changes. Follow our social media channels for the latest updates.</p> 
+<p>Note: Programme details are subject to changes. Follow our social media channels for the latest updates.</p> 
+</section> 
+<br>
+<section>
+	<h4>Competitions</h4>
 	
-<a class="button-primary" href="/new-to-gardening/resource-suggester/">Be a part of 'Grow and Share!'</a><p></p></section>
+		
+	</section>
