@@ -39,7 +39,7 @@ description: ""
 			<p></p>
 	</ul></ul>
 	
-<p>Please refer to the <a target="_blank" href="https://go.gov.sg/hortcomptnc">Terms and Conditions</a> and <a target="_blank" href="https://go.gov.sg/hortcomptncf">FAQs</a> for more information.</p>
+<p>Please refer to the <a target="_blank" href="https://go.gov.sg/hortcomptnc">Terms and Conditions</a> and <a target="_blank" href="https://go.gov.sg/hortcompfaqs">FAQs</a> for more information.</p>
 <p>Registration is open now and closes on 14 August 2025.</p>
 <a class="button-primary" href="https://go.gov.sg/hortcom25">Register now!</a>
 
