@@ -28,7 +28,7 @@ description: ""
 	  text-decoration: none !important;
   }
 </style>
-![HortFest 2025 event banner depicting groups of people enjoying the park](/images/HortFest%20images/HortFest_eBanner_2025_03_09_Opt_01.jpg)
+<img src="/images/HortFest%20images/HortFest_eBanner-2025_03_09_Opt_01.jpg">
 
 <header>
 <h3>Celebrating Horticultural Excellence and Community</h3>
@@ -36,8 +36,8 @@ description: ""
 
 <section>
 	<p>Join us as we celebrate horticultural excellence and the local gardening community, in conjunction with 20 years of Community in Bloom! Experience the magic  of gardening through: </p>
-	
-	<ol>
+	<p>
+	</p><ol>
 		<li>GROW community spirit</li>
 		<ul>
 			<li>Foster teamwork among gardeners through community initiatives, and encourage more people to garden together</li></ul>
@@ -46,5 +46,6 @@ description: ""
 		<li>CULTIVATE knowledge and skills</li>
 		<ul><li>Transform our gardens into living classrooms and exchange horticultural knowledge</li></ul>
 		</ol><br>
+	<p></p>
 	
 <a class="button-primary" href="/new-to-gardening/resource-suggester/">Be a part of 'Grow and Share!'</a></section>
