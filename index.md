@@ -10,6 +10,15 @@ sections:
       title: GardeningSG
       subtitle: Let's get growing!
       background: /images/banner_31oct_bright1.png
+  - infopic:
+      title: CIB20
+      subtitle: Growing community together
+      id: infopic
+      description: Celebrate 20 years of Community in Bloom
+      button: Join us now!
+      url: /cib20
+      image: /images/Landing_page/CIB20_logo_landing_page.png
+      alt: Image alt text
   - infobar:
       title: New to gardening?
       subtitle: sprouting green fingers
