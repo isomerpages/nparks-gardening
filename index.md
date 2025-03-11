@@ -20,6 +20,14 @@ sections:
       image: /images/Landing_page/CIB20_logo_landing_page_big.png
       alt: Image alt text
   - infopic:
+      title: HortFest 2025
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      image: /images/Landing_page/hortfest_logo_landing_page_clean.png
+      alt: Image alt text
+  - infopic:
       title: Not sure what to grow?
       subtitle: Grow with the flow
       description: Find a plant to grow based on your garden space!
