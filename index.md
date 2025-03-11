@@ -17,7 +17,7 @@ sections:
       description: Celebrate 20 years of Community in Bloom
       button: Join us now!
       url: /cib20
-      image: /images/Landing_page/CIB20_logo_landing_page_big.png
+      image: /images/Landing_page/CIB20_logo_landing_middle.png
       alt: Image alt text
   - infopic:
       title: HortFest 2025
@@ -25,7 +25,7 @@ sections:
       id: infopic
       description: Infopic description
       button: Button Text
-      image: /images/Landing_page/hortfest_logo_landing_page_clean.png
+      image: /images/Landing_page/hortfest_logo_landing_middle.png
       alt: Image alt text
   - infopic:
       title: Not sure what to grow?
