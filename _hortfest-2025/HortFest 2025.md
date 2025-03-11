@@ -41,8 +41,9 @@ description: ""
 		<li>Competition Displays - Marvel at the prize-winning harvests from our Community Garden Edibles and Horticulture Competitions</li>
 		<li>Be captivated by extraordinary displays of gardening excellence. From towering garden sculptures to prize-winning vegetables and meticulously cultivated ornamentals, our Community Garden Edibles and Horticultural Competitions showcase the pinnacle of both edible and ornamental horticulture.</li>
 			<li>CIB20 Celebration Display and Exhibit - Journey through two decades of community gardening milestones in this captivating showcase</li>
-	<li></li>
-	</ul>
+			<li>Vibrant Marketplace - Discover gardening treasures, sustainable products, and more</li>
+			<li>
+	</li></ul>
 
 		<br>
 	<p></p>
