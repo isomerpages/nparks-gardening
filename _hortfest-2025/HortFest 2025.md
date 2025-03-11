@@ -37,15 +37,15 @@ description: ""
 <section>
 	<p>Join us as we celebrate horticultural excellence and the local gardening community, in conjunction with 20 years of Community in Bloom! Experience the magic  of gardening through: </p>
 	<p>
-	</p><ol>
-		<li>GROW community spirit</li>
-		<ul>
-			<li>Foster teamwork among gardeners through community initiatives, and encourage more people to garden together</li></ul>
+	</p><ul>
+		<li>Competition Displays - Marvel at the prize-winning harvests from our Community Garden Edibles and Horticulture Competitions</li>
+		<li>Be
+			</li><li>Foster teamwork among gardeners through community initiatives, and encourage more people to garden together</li></ul>
 		<li>SHARE gardens and harvests</li>
 		<ul><li>Create vibrant community gardens where people can come together to share gardening experiences and enjoy the harvests</li></ul>
 		<li>CULTIVATE knowledge and skills</li>
 		<ul><li>Transform our gardens into living classrooms and exchange horticultural knowledge</li></ul>
-		</ol><br>
+		<br>
 	<p></p>
 	
 <a class="button-primary" href="/new-to-gardening/resource-suggester/">Be a part of 'Grow and Share!'</a></section>
