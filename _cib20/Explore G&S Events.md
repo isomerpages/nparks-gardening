@@ -64,16 +64,16 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Where:</b> Tiong Bahru Community Centre<br>
 			<b>Enquiries:</b>
 		</div>
-	<div class="box">
-			<h5>Garden Tour at Toh Yi Community Garden</h5>
+			<div class="box">
+			<h5>Garden Tour @ Funtasia Garden</h5>
 			<br><br>(insert picture)
 			<br><br><br><br><br>
-			<b>Organiser:</b> Toh Yi Community Garden<br>
-			<b>Date:</b> 13 April 2025, Sunday<br>
+			<b>Organiser:</b> Teban Gardens RN<br>
+			<b>Date:</b> 12 April 2025, Sunday<br>
 			<b>Where:</b> 4 Toh Yi Drive, Singapore 590004<br>
 			<b>Enquiries:</b>
 </div>
-			<div class="box">
+		<div class="box">
 			<h5>Garden Tour at Toh Yi Community Garden</h5>
 			<br><br>(insert picture)
 			<br><br><br><br><br>
