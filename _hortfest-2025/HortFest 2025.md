@@ -46,7 +46,9 @@ description: ""
 			<li>Stage Programmes - Enjoy an exciting lineup of demonstrations, talks and performances by gardening experts and enthusiasts</li>
 			<li>Family Fun - Get hands-on with DIY gardening activities, garden craft activities, and join our guided tours</li>
 	</ul><p></p>
-	<p>HortFest is a non-ticketed event so admission is free!
+	<p>HortFest is a non-ticketed event so admission is free!</p> 
+	Date: 23-31 August 2025<br>
+	Venue: HortPark, 33 Hyderabad Road, Singapore 119578<br> 
+	Time: 9.00am - 7.00pm
 	
-	
-<a class="button-primary" href="/new-to-gardening/resource-suggester/">Be a part of 'Grow and Share!'</a></p></section>
+<a class="button-primary" href="/new-to-gardening/resource-suggester/">Be a part of 'Grow and Share!'</a><p></p></section>
