@@ -45,3 +45,5 @@ description: ""
 
 <p>If you have any questions, email us at <a href="mailto:Hort_Competition2025@nparks.gov.sg">Hort_Competition2025@nparks.gov.sg</a>.</p>
 </section>
+<br>
+<img src="/images/HortFest%20images/hc2025%20poster.jpg">
