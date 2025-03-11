@@ -2,7 +2,7 @@ collections:
   hortfest-2025:
     output: true
     order:
-      - Hortfest 2025.md
+      - HortFest 2025.md
       - HortFest Marketplace.md
       - Community Garden Edibles Competition.md
       - Horticultural Competition.md
