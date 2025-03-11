@@ -29,6 +29,8 @@ description: ""
   }
 </style>
 
+![HortFest 2025 event banner depicting groups of people enjoying the park](/images/HortFest%20images/HortFest_eBanner_2025_03_09_Opt_01.jpg)
+
 <header>
 <h3>Celebrating Horticultural Excellence and Community</h3>
 </header>
