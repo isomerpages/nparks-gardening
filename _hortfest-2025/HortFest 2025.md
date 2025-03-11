@@ -39,12 +39,10 @@ description: ""
 	<p>
 	</p><ul>
 		<li>Competition Displays - Marvel at the prize-winning harvests from our Community Garden Edibles and Horticulture Competitions</li>
-		<li>Be
-			</li><li>Foster teamwork among gardeners through community initiatives, and encourage more people to garden together</li></ul>
-		<li>SHARE gardens and harvests</li>
-		<ul><li>Create vibrant community gardens where people can come together to share gardening experiences and enjoy the harvests</li></ul>
-		<li>CULTIVATE knowledge and skills</li>
-		<ul><li>Transform our gardens into living classrooms and exchange horticultural knowledge</li></ul>
+		<li>Be captivated by extraordinary displays of gardening excellence. From towering garden sculptures to prize-winning vegetables and meticulously cultivated ornamentals, our Community Garden Edibles and Horticultural Competitions showcase the pinnacle of both edible and ornamental horticulture.</li>
+			<li>CIB20 Celebration Display</li>
+	</ul>
+
 		<br>
 	<p></p>
 	
