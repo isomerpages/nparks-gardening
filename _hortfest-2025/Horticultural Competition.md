@@ -17,7 +17,7 @@ description: ""
 
 <section>
 <p>The Horticultural Competition returns for its third run since its launch in 2019. The competition invites gardening enthusiasts of all skill levels to demonstrate their green-thumbs across four plant categories: Air Plants, Aroids, Begonias and Succulents.</p>
-<p> Participants can compete for coveted awards and medals, with the ultimate prize being the prestigious City in Nature Challenge Cup. Mark your calendars and sign up to compete and display their prized plants.</p>
+<p> Participants can compete for coveted awards and medals, with the ultimate prize being the prestigious City in Nature Challenge Cup. Mark your calendars and sign up to compete and display your prized plants!</p>
 </section><br>
 
 <section>
