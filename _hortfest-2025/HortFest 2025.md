@@ -36,8 +36,7 @@ description: ""
 
 <section>
 	<p>Join us as we celebrate horticultural excellence and the local gardening community, in conjunction with 20 years of Community in Bloom! Experience the magic  of gardening through: </p>
-	<p>
-	</p><ul>
+	<p></p><ul>
 		<li>Competition Displays - Marvel at the prize-winning harvests from our Community Garden Edibles and Horticulture Competitions</li>
 		<li>Be captivated by extraordinary displays of gardening excellence. From towering garden sculptures to prize-winning vegetables and meticulously cultivated ornamentals, our Community Garden Edibles and Horticultural Competitions showcase the pinnacle of both edible and ornamental horticulture.</li>
 			<li>CIB20 Celebration Display and Exhibit - Journey through two decades of community gardening milestones in this captivating showcase</li>
@@ -46,9 +45,8 @@ description: ""
 			<li>Community Showcase - Be insipired by innovative gardens from schools, organisations, and community groups</li>
 			<li>Stage Programmes - Enjoy an exciting lineup of demonstrations, talks and performances by gardening experts and enthusiasts</li>
 			<li>Family Fun - Get hands-on with DIY gardening activities, garden craft activities, and join our guided tours</li>
-	</ul>
-
-		<br>
-	<p></p>
+	</ul><p></p>
+	<p>HortFest is a non-ticketed event so admission is free!
 	
-<a class="button-primary" href="/new-to-gardening/resource-suggester/">Be a part of 'Grow and Share!'</a></section>
+	
+<a class="button-primary" href="/new-to-gardening/resource-suggester/">Be a part of 'Grow and Share!'</a></p></section>
