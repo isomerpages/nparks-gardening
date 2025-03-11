@@ -17,14 +17,8 @@ sections:
       description: Celebrate 20 years of Community in Bloom
       button: Join us now!
       url: /cib20
-      image: /images/Landing_page/CIB20_logo_landing_page.png
+      image: /images/Landing_page/CIB20_logo_landing_page_big.png
       alt: Image alt text
-  - infobar:
-      title: New to gardening?
-      subtitle: sprouting green fingers
-      description: We've handpicked a few tips and tricks to get you going
-      button: Let's get started!
-      url: /new-to-gardening/gardening101
   - infopic:
       title: Not sure what to grow?
       subtitle: Grow with the flow
