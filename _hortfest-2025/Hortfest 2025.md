@@ -28,8 +28,8 @@ description: ""
 	  text-decoration: none !important;
   }
 </style>
-<img src="/images/HortFest%20images/HortFest_eBanner-2025_03_09_Opt_01.jpg">
-
+<img src="/images/HortFest%20images/HortFest_eBanner_2025_03_09_Opt_01.jpg">
+<br>
 <header>
 <h3>Celebrating Horticultural Excellence and Community</h3>
 </header>
