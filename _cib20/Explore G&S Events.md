@@ -132,7 +132,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 		<a class="button-primary" href="https://lu.ma/kvum8ocx">Find out more</a>
 </div>
 	<div class="box">
-			<h5>Distillation Demo session and Educational Garden tour</h5>
+			<h5>Distillation Demo Session and Educational Garden tour</h5>
 			<br><br>(insert picture)
 			<br><br><br><br><br>
 			<b>Organiser:</b> Bukit Batok Central Educational Garden <br>
