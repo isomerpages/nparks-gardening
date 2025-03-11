@@ -39,7 +39,7 @@ description: ""
 			<p></p>
 	</ul></ul>
 	
-<p>Please refer to the <a download="" href="/files/Horticultural_Competition_2025__T_C_.pdf">Terms and Conditions</a> and <a download="" href="/files/FAQs__Horticultural_Competition_2025_.pdf">FAQs</a> for more information.</p>
+<p>Please refer to the <a download="" href="/files/Horticultural%Competition%2025%TC.pdf">Terms and Conditions</a> and <a download="" href="/files/FAQs%Horticultural%Competition%2025.pdf">FAQs</a> for more information.</p>
 <p>Registration is open now and closes on 14 August 2025.</p>
 <a class="button-primary" href="https://go.gov.sg/hortcom25">Register now!</a>
 
