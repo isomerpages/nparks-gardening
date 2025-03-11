@@ -31,7 +31,7 @@ description: ""
 <img src="/images/HortFest%20images/HortFest_eBanner_2025_03_09_Opt_01.jpg">
 <br>
 <header>
-<h3>Celebrating Horticultural Excellence and Community</h3>
+<h4>Celebrating Horticultural Excellence and Community</h4>
 </header>
 
 <section>
