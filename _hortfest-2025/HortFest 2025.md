@@ -44,8 +44,9 @@ description: ""
 			<li>Vibrant Marketplace - Discover gardening treasures, sustainable products, and more</li>
 			<li>Living Lab - Having plant pests and soil health issues? Get expert advice at our Plant Health Clinic and learn practical solutions and gain insights to grow healthier plants</li>
 			<li>Community Showcase - Be insipired by innovative gardens from schools, organisations, and community groups</li>
-			
-	</ul>
+			<li>Stage programmes - Enjoy an exciting lineup of demonstrations, talks and performances by gardening experts and enthusiasts</li>
+			<li>
+	</li></ul>
 
 		<br>
 	<p></p>
