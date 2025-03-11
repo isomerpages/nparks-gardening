@@ -70,7 +70,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<br><br><br><br><br>
 			<b>Organiser:</b> Teban Gardens RN<br>
 			<b>Date:</b> 12 April 2025, Sunday<br>
-			<b>Where:</b> 4 Toh Yi Drive, Singapore 590004<br>
+			<b>Where:</b> 32 Teban Gardens Road<br>
 			<b>Enquiries:</b>
 </div>
 		<div class="box">
@@ -81,6 +81,16 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Date:</b> 13 April 2025, Sunday<br>
 			<b>Where:</b> 4 Toh Yi Drive, Singapore 590004<br>
 			<b>Enquiries:</b>
+</div>
+		<div class="box">
+			<h5>Garden Tour @ Bukit Batok Zone 2 RN Cosy Garden</h5>
+			<br><br>(insert picture)
+			<br><br><br><br><br>
+			<b>Organiser:</b> Bukit Batok Zone 2 RN<br>
+			<b>Date:</b> 13 April 2025, Sunday<br>
+			<b>Where:</b> 106 Bukit Batok Central, Singapore 650106<br>
+			<b>Enquiries:</b><br><br>
+				<a class="button-primary" href="https://form.gov.sg/67ce686ef5c0e1ac85467eb4">Find out more</a>
 </div>
 			<div class="box">
 			<h5>Easter Green Bazaar</h5>
@@ -101,8 +111,8 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Date:</b> 26 April 2025, Saturday<br>
 			<b>Where:</b>813 Rooftop Landscape &amp; Community Garden<br>
 			<b>Enquiries:</b>
-
-</div><div class="box">
+</div>
+	<div class="box">
 			<h5>Garden Open House</h5>
 			<br><br>(insert picture)
 			<br><br><br><br><br>
@@ -110,8 +120,29 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Date:</b> 26 April 2025, Saturday<br>
 			<b>Where:</b>69 Wan Tho Ave<br>
 			<b>Enquiries:</b>		
+	</div>
+	<div class="box">
+			<h5>Wonders of Waterlilies</h5>
+			<br><br>(insert picture)
+			<br><br><br><br><br>
+			<b>Organiser:</b> Woodlands Botanical Garden <br>
+			<b>Date:</b> 26 April 2025, Saturday<br>
+			<b>Where:</b> 134 Marsiling Road, Singapore 730134<br>
+			<b>Enquiries:</b>	<br><br><br>
+		<a class="button-primary" href="https://lu.ma/kvum8ocx">Find out more</a>
+</div>
+	<div class="box">
+			<h5>Distillation Demo session and Educational Garden tour</h5>
+			<br><br>(insert picture)
+			<br><br><br><br><br>
+			<b>Organiser:</b> Bukit Batok Central Educational Garden <br>
+			<b>Date:</b> 26 April 2025, Saturday<br>
+			<b>Where:</b> Sheltered Hardcourt at Blk 622B Bukit Batok Central, Singapore 652622<br>
+			<b>Enquiries:</b>	<br><br><br>
+		<a class="button-primary" href="https://www.onepa.gov.sg/events/bbz3-distillation-demo-and-educational-garden-tour-52018954">Find out more</a>
 
-</div><div class="box">
+</div>
+	<div class="box">
 			<h5>Central Singapore Market (CSM) in conjunction with SG60 Concert - Garden Booth and Therapeutic Horticulture</h5>
 			<br><br>(insert picture)
 			<br><br><br><br><br>
