@@ -37,11 +37,13 @@ description: ""
 <section>
 <p>Join us as we celebrate horticultural excellence and the local gardening community, in conjunction with <a href="https://go.gov.sg/cib20">20 years of Community in Bloom!</a></p> 
 	<p>HortFest is a non-ticketed event so admission is <u>free</u>!<br>
-		<br>
+		</p><div class="wrapper">
+	<div class="box">
 	<b>Date:</b> 23-31 August 2025<br>
 				<b>Venue:</b> HortPark, 33 Hyderabad Road, Singapore 119578 (<a href="https://go.gov.sg/how-to-get-to-hortpark">how to get here</a>)<br> 
-	<b>Time:</b> 9.00am - 7.00pm</p>
-</section>
+	<b>Time:</b> 9.00am - 7.00pm<p></p>
+	</div>
+</div></section>
 
 <h4>Festival Highlights</h4>
 <section>	
