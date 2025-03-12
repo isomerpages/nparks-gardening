@@ -35,13 +35,21 @@ description: ""
 	<h4>HortFest Marketplace: Your Gateway to Singapore's Garden Community
 </h4></header>
 <br>
+<h5>Why participate</h5>
 <section>
-	<p>Why participate
-</p><p>Join us as we celebrate horticultural excellence and the local gardening community, in conjunction with <a href="https://go.gov.sg/cib20">20 years of Community in Bloom!</a></p> 
+	<p></p><ol>
+	<li>Connect directly with passionate gardeners, plant enthusiasts and community groups in one vibrant location</li>
+	<li>Showcase and sell your latest products and innovations to a targeted, enthusiastic audience</li>
+	<li>Build valuable customer relationships and industry partnerships though face-to-face interactions</li>
+	<li>Enhance your brand presence through demonstrations and Singapore's premier gardening festival platform</li>
+	<li>Tap into the growing sustainable living and urban gardening movement</li>
+</ol></section>
+	
+<p></p><p>Join us as we celebrate horticultural excellence and the local gardening community, in conjunction with <a href="https://go.gov.sg/cib20">20 years of Community in Bloom!</a></p> 
 	<p>HortFest is a non-ticketed event so admission is <u>free</u>!<br> 
 	<b>Date:</b> 23-31 August 2025<br>
 				<b>Venue:</b> HortPark, 33 Hyderabad Road, Singapore 119578 (<a href="https://go.gov.sg/how-to-get-to-hortpark">how to get here)</a><br> 
 	<b>Time:</b> 9.00am - 7.00pm</p>
-</section>
+
 
 <h4>Festival Highlights</h4>
