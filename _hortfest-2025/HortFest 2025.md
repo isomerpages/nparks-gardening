@@ -60,13 +60,13 @@ description: ""
 	<div class="wrapper">
 	<div class="box">
 			<h5>Community Garden Edible Competition 2025</h5>
-			<img style="width:auto; display:inline" src="/images/HortFest%20images/CGEC_2025_card.jpg">
+			<img style="width:auto; display:inline" src="/images/HortFest%20images/CGEC_2025_Card.jpg">
 			<br><br>
 				<a class="button-primary" href="https://gardening.gov.sg/CGEC">Find out more</a><br>
 </div>
 		<div class="box">
 			<h5>Horticultural Competition 2025</h5>
-			<img style="width:auto; display:inline" src="/images/HortFest%20images/HortFest_eBanner_2025_03_09_Opt_01.jpg">
+			<img style="width:auto; display:inline" src="/images/HortFest%20images/Hort_Competition_Card.jpg">
 			<br><br>
 				<a class="button-primary" href="https://gardening.gov.sg/CGEC">Find out more</a>
 </div>
