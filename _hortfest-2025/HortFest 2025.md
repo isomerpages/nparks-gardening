@@ -72,3 +72,7 @@ description: ""
 </div>
 	</div>
 </section>
+<br>
+<section>
+	<p>For enquiries on HortFest, you may contact HortPark by phone at +65 6471 5601, or by email at <a href="_mailto:nparks_hortpark@nparks.gov.sg">nparks_hortpark@nparks.gov.sg.</a></p>
+	</section>
