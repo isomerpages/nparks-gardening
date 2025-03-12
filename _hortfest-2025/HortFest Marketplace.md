@@ -49,7 +49,10 @@ description: ""
 <section>
 	<p></p><ol>
 	<li><b>Garden Essentials</b> - From quality plants and nursery products to tools, furniture and water features</li>
-	<b>Lifestyle &amp; Wellness</b>
+	<li><b>Lifestyle &amp; Wellness</b> - Nature-based wellness items, botanical teas and nature-inspired fashion</li><li>
+	</li><li><b>Educational &amp; Creative</b> - Gardening publications, floral art and sustainable living solutions</li>
+	<li><b>Home &amp; Garden Décor</b> - Beautiful ornaments, furniture pieces and decorative accessories</li>
+	<li><b>F&amp;B Zone</b> - Halal-certified food and refreshments to keep you energized while you explore</li>
 <section><p>Join us as we celebrate horticultural excellence and the local gardening community, in conjunction with <a href="https://go.gov.sg/cib20">20 years of Community in Bloom!</a></p> 
 	<p>HortFest is a non-ticketed event so admission is <u>free</u>!<br> 
 	<b>Date:</b> 23-31 August 2025<br>
