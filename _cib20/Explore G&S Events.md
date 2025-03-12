@@ -91,6 +91,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 </section>
 
 <section>
+	<h5 id="1-5Apr">1 - 5 April 2025</h5>
 	<div class="wrapper">
 		<div class="box">
 			<span class="tour-tag">Tour</span>
@@ -181,24 +182,22 @@ You are encouraged to contact the organisers directly for specific queries on ev
 		<a class="button-primary" href="https://lu.ma/kvum8ocx">Register here</a>
 </div>
 	<div class="box">
-			<h5>Distillation Demo Session and Educational Garden tour</h5>
-			<br><br>(insert picture)
-			<br><br><br><br><br>
+			<span class="tour-tag">Tour</span>
+			<h5 style="margin-top:8px">Distillation Demo Session and Educational Garden tour</h5>
 			<b>Organiser:</b> Bukit Batok Central Educational Garden <br>
 			<b>Date:</b> 26 April 2025, Saturday<br>
 			<b>Where:</b> Sheltered Hardcourt at Blk 622B Bukit Batok Central, Singapore 652622<br>
-			<b>Enquiries:</b>	<br><br><br>
-		<a class="button-primary" href="https://www.onepa.gov.sg/events/bbz3-distillation-demo-and-educational-garden-tour-52018954">Find out more</a>
+			<b>Enquiries:</b> Email Danny at <a href="mailto:pa_bukitbatokcc@pa.gov.sg">pa_bukitbatokcc@pa.gov.sg</a><br><br>
+		<a class="button-primary" href="https://www.onepa.gov.sg/events/bbz3-distillation-demo-and-educational-garden-tour-52018954">Register here</a>
 
 </div>
 	<div class="box">
 			<h5>Central Singapore Market (CSM) in conjunction with SG60 Concert - Garden Booth and Therapeutic Horticulture</h5>
-			<br><br>(insert picture)
-			<br><br><br><br><br>
-			<b>Organisers:</b> Bishan CC Sky Garden &amp; Bishan East Zone 6 167A<br>
+	 <b>Organisers:</b> Bishan CC Sky Garden &amp; Bishan East Zone 6 167A<br>
 			<b>Date:</b> 27 April 2025, Saturday<br>
 			<b>Where:</b> Bishan Bus Interchange<br>
-			<b>Enquiries:</b><br><br>
+			<b>Enquiries:</b> Email Bishan Taskforce at <a href="mailto:bishan.tf@gmail.com">bishan.tf@gmail.com</a><br>
+		<b>Registration:</b> No registration needed<br><br>
 		<a class="button-primary" href="https://www.facebook.com/BishanCommunityClub">Find out more</a>
 
 </div></div></section>
