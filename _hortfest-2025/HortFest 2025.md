@@ -42,7 +42,7 @@ description: ""
 	<b>Time:</b> 9.00am - 7.00pm</p>
 </section>
 
-<h5>Festival Highlights</h5>
+<h4>Festival Highlights</h4>
 <section>	
 	<p>Experience the magic of gardening through:
 </p><ul>
@@ -62,7 +62,7 @@ description: ""
 </section>
 <br>
 <section>
-	<h5>Competitions</h5>
+	<h4>Competitions</h4>
 	<div class="wrapper">
 	<div class="box">
 			<h5>Community Garden Edible Competition 2025</h5>
