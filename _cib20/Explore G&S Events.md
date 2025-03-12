@@ -54,7 +54,8 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Organiser:</b> Compassvale Gardens RC, Compassvale RN, Compassvale Haven RC, Compassvale Villa RC, Sengkang Youth Network<br>
 			<b>Date:</b> 5 April 2025, Saturday<br>
 			<b>Where:</b> Sengkang CC Multi-purpose Hall<br>
-			<b>Enquiries:</b>
+			<b>Enquiries:</b><br>
+			<b>Registration: </b>No registration is needed]
 		</div>
 		<div class="box">
 			<h5>Community Garden Tours in Tiong Bahru</h5>
