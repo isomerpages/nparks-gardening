@@ -39,8 +39,8 @@ Under this initiative, community gardening groups across Singapore, from housing
 	
 <section>
 		<h4>How to get involved</h4>
-		<p>Organise at least one community event in or around your community garden. The event or activity should fall under one of the five categories listed above. </p>
-	<p>The Grow and Share initiative will run from 12 March to 15 November 2025.</p>
+		<p>Organise at least one community event in or around your community garden. The event or activity should fall under one of the five categories listed below. </p>
+	<p>The Grow and Share initiative will run from 13 March to 15 November 2025.</p>
 
 <h5>Eligibility</h5>
 <p>Participating community gardening groups are to be registered in the CIB programme. CIB gardening groups should be supported by:
@@ -55,7 +55,7 @@ Under this initiative, community gardening groups across Singapore, from housing
 <h5>Event criteria</h5>
 <ol>
 	<li>Time period:</li>
-	<ul><li>The event should take place between 12 March and 15 November 2025</li></ul>
+	<ul><li>The event should take place between 13 March and 15 November 2025</li></ul>
 	<li>Community impact:</li>
 	<ul><li>Size of planning team: Encouraged to have at least 5 members, this can include 1 to 2 leaders</li>
 		<li>Participation rate: Event should cater for minimally 15 attendees, excluding the organisers</li></ul>
@@ -89,7 +89,7 @@ Under this initiative, community gardening groups across Singapore, from housing
 		<p>Want to find out more about the initiative? We are organising two virtual briefing sessions to share with you more details and how you can submit your proposals:</p>
 		<ul><li>22 March 2025, Saturday, 10am</li>
 			<li>9 April 2025, Wednesday, 12pm</li></ul>
-			<a class="button-primary" href="https://go.gov.sg/cibgrowandshareform">Register for a virtual briefing session</a><br><br>
+			<a class="button-primary" href="https://go.gov.sg/cibvirtualbriefing">Register for a virtual briefing session</a><br><br>
 		<li><u>Watering &amp; growing phase</u></li>
 		<p>You will receive an email once your submission is reviewed and confirmed – your <b><i>personalised post-event form link</i></b> will be in this email, <i>please do not delete it</i>. 
 
