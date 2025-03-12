@@ -44,4 +44,5 @@ description: ""
 	<p>Click <a href="https://go.gov.sg/cgec2025-rulesandregulation">here</a> to find out more about CGEC 2025 Rules and Regulations.</p>
 	<p>Registration is open now and closes on <b>14 April 2025</b>. Join us in celebrating a decade of gardening excellence!</p>
 	<a class="button-primary" href="https://go.gov.sg/cgec2025-registration-form">Register now!</a>
+	<p>For enquiries on CGEC 2025, you may contact HortPark by phone at +65 6471 5601, or by email at <a href="_mailto:nparks_hortpark@nparks.gov.sg">nparks_hortpark@nparks.gov.sg.</a></p>
 </section>
