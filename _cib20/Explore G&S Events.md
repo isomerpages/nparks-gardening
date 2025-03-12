@@ -74,7 +74,8 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Organiser:</b> Teban Gardens RN<br>
 			<b>Date:</b> 12 April 2025, Sunday<br>
 			<b>Where:</b> 32 Teban Gardens Road<br>
-			<b>Enquiries:</b>
+				<b>Enquiries: </b>Email Mr Teoh at <a href="mailto:c.teoh65@gmail.com">c.teoh65@gmail.com</a><br><br>
+				<a class="button-primary" href="https://form.gov.sg/67cd2345299fcadc17ce1e28">Register here</a>
 </div>
 		<div class="box">
 			<h5>Garden Tour at Toh Yi Community Garden</h5>
