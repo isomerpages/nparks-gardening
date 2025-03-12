@@ -65,7 +65,7 @@ description: ""
 	<h4>Competitions</h4>
 	<div class="wrapper">
 	<div class="box">
-			<h5>Community Garden Edible Competition 2025</h5>
+			<h5>Community Garden Edibles Competition 2025</h5>
 			<img style="width:auto; display:inline" src="/images/HortFest%20images/CGEC_2025_Card.jpg">
 			<br><br>
 				<a class="button-primary" href="/community-garden-edibles-competition-2025/">Find out more</a><br>
