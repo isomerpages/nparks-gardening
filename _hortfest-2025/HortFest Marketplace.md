@@ -34,7 +34,7 @@ description: ""
 <header>
 	<h4>HortFest Marketplace: Your Gateway to Singapore's Garden Community
 </h4></header>
-<br>
+
 <h5>Why participate</h5>
 <section>
 	<p></p><ol>
