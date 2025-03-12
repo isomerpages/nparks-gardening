@@ -23,7 +23,7 @@ sections:
       title: HortFest 2025
       subtitle: See-d you there
       id: infopic
-      description: Growing Good Vibes
+      description: Celebrating horticulture excellence and community
       button: Find out more
       image: /images/Landing_page/hortfest_logo_landing_middle.png
       alt: Image alt text
