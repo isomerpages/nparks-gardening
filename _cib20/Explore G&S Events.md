@@ -32,9 +32,11 @@ description: ""
     background-color: #B4CC89;
     border: 1px solid #B4CC89;
     padding: 0.2rem 1rem;
-  	border-radius: 1rem;
+  	border-radius: 0.5rem;
     color: black !important;
 	  text-decoration: none !important;
+    display: inline-block;
+	  margin: 5px 5px 0 3px;
   }
 </style>
 
@@ -48,7 +50,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 	<div class="wrapper">
 		<div class="box">
 			<span class="tour-tag">Tour</span>
-			<h5>Garden Tour at Jurong Central Zone D RN 'Sky Garden'</h5>
+			<h5 style="margin-top:8px">Garden Tour at Jurong Central Zone D RN 'Sky Garden'</h5>
 			<br><br>(insert picture)
 			<br><br><br><br><br>
 			<b>Organiser:</b> Jurong Central Zone D RN<br>
