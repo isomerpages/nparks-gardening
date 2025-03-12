@@ -40,7 +40,7 @@ description: ""
 	</ul></ul>
 	
 <p>Please refer to the <a target="_blank" href="https://go.gov.sg/hortcomptnc">Terms and Conditions</a> and <a target="_blank" href="https://go.gov.sg/hortcompfaqs">FAQs</a> for more information.</p>
-<p>Registration is open now and closes on 14 August 2025.</p>
+	<p>Registration is open now and closes on <b>14 August 2025</b>.</p>
 <a class="button-primary" href="https://go.gov.sg/hortcomp25">Register now!</a>
 
 <p>If you have any questions, email us at <a href="mailto:Hort_Competition2025@nparks.gov.sg">Hort_Competition2025@nparks.gov.sg</a>.</p>
