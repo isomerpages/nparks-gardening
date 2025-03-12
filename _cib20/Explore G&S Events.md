@@ -231,8 +231,9 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<h5 id="27-30Apr">27 - 30 April 2025</h5>
 	<div class="wrapper">
 	<div class="box">
-			<h5>Central Singapore Market (CSM) in conjunction with SG60 Concert - Garden Booth and Therapeutic Horticulture</h5>
-	 <b>Organisers:</b> Bishan CC Sky Garden &amp; Bishan East Zone 6 167A<br>
+						<span class="booth-tag">Booth</span>
+			<h5 style="margin-top:8px">Central Singapore Market (CSM) - Garden Booth and Therapeutic Horticulture</h5>
+	 <b>Organisers:</b> Bishan CC Sky Garden &amp; Bishan East Zone 6 167A Rooftop Garden<br>
 			<b>Date:</b> 27 April 2025, Saturday<br>
 			<b>Where:</b> Bishan Bus Interchange<br>
 			<b>Enquiries:</b> Email Bishan Taskforce at <a href="mailto:bishan.tf@gmail.com">bishan.tf@gmail.com</a><br>
