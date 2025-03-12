@@ -10,7 +10,7 @@ description: Helpful references and templates to help gardening groups plan and
 	<br>
 	<ul>
 		<li><a download="" href="/files/CIB20%20Event%20Planning%20Toolkit/a__Event_planning_checklist_sample.pdf">Event planning checklist</a></li>
-		<li><a download="" href="/files/know%2010%20culinary%20herbs%20and%20spices.pdf">Know 10 Culinary Herbs and Spices</a></li>
+		<li><a download="" href="/files/CIB20%20Event%20Planning%20Toolkit/b__Event_planning_timeline_guide.pdf">Event planning timeline guide</a></li>
 		<li><a download="" href="/files/know%2010%20culinary%20herbs%20and%20spices.pdf">Know 10 Culinary Herbs and Spices</a></li>
 		</ul>
 </section>
