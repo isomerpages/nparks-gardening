@@ -159,7 +159,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<h5>Sensory Node Launch at 813 Rooftop Landscape &amp; Community Garden</h5>
 			<b>Organiser:</b> Nee Soon South Zone C RN <br>
 			<b>Date:</b> 26 April 2025, Saturday<br>
-			<b>Where:</b>813 Rooftop Landscape &amp; Community Garden<br>
+			<b>Where:</b> 813 Rooftop Landscape &amp; Community Garden<br>
 			<b>Enquiries:</b>
 </div>
 	<div class="box">
@@ -167,7 +167,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<h5 style="margin-top:8px">Garden Open House at Sennett Community Harvest Hub</h5>
 			<b>Organiser:</b> Sennett Community Harvest Hub <br>
 			<b>Date:</b> 26 April 2025, Saturday<br>
-			<b>Where:</b>69 Wan Tho Ave<br>
+			<b>Where: </b>69 Wan Tho Ave<br>
 			<b>Enquiries: </b>Email Wendy Tan at <a href="mailto:wendytanwl@gmail.com">wendytanwl@gmail.com</a><br><br>
 		<a class="button-primary" href="https://go.gov.sg/sernharvest">Register here</a>
 	</div>
@@ -177,8 +177,8 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Organiser:</b> Woodlands Botanical Garden <br>
 			<b>Date:</b> 26 April 2025, Saturday<br>
 			<b>Where:</b> 134 Marsiling Road, Singapore 730134<br>
-		<b>Enquiries:</b><br><br><br>
-		<a class="button-primary" href="https://lu.ma/kvum8ocx">Find out more</a>
+		<b>Enquiries:</b> Email Ganesh at <a href="mailto:woodlandsbotanicalgarden@gmail.com">woodlandsbotanicalgarden@gmail.com</a><br><br>
+		<a class="button-primary" href="https://lu.ma/kvum8ocx">Register here</a>
 </div>
 	<div class="box">
 			<h5>Distillation Demo Session and Educational Garden tour</h5>
