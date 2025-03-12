@@ -42,4 +42,6 @@ description: ""
 <br>
 <section>
 	<p>Click <a href="https://go.gov.sg/cgec2025-rulesandregulation">here</a> to find out more about CGEC 2025 Rules and Regulations.</p>
-	<p>Registration</p></section>
+	<p>Registration is open now and closes on <b>14 April 2025</b>. Join us in celebrating a decade of gardening excellence!</p>
+	<a class="button-primary" href="https://go.gov.sg/cgec2025-registration-form">Register now!</a>
+</section>
