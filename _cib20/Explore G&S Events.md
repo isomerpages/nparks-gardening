@@ -100,12 +100,12 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Organiser:</b> Toh Yi Community Garden<br>
 			<b>Date:</b> 13 April 2025, Sunday<br>
 			<b>Where:</b> 4 Toh Yi Drive, Singapore 590004<br>
-			<b>Enquiries:</b>
+			<b>Enquiries:</b> Email Nikki at <a href="mailto:wong_jun_nikki@pa.gov.sg">wong_jun_nikki@pa.gov.sg</a><br><br>
+			<a class="button-primary" href="https://go.gov.sg/tohyigardentour2025">Register here</a>
 </div>
 		<div class="box">
-			<h5>Garden Tour @ Bukit Batok Zone 2 RN Cosy Garden</h5>
-			<br><br>(insert picture)
-			<br><br><br><br><br>
+			<span class="tour-tag">Tour</span>
+			<h5 style="margin-top:8px">Garden Tour @ Bukit Batok Zone 2 RN Cosy Garden</h5>
 			<b>Organiser:</b> Bukit Batok Zone 2 RN<br>
 			<b>Date:</b> 13 April 2025, Sunday<br>
 			<b>Where:</b> 106 Bukit Batok Central, Singapore 650106<br>
