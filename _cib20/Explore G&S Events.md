@@ -29,11 +29,11 @@ description: ""
   }
 	
 				  .tour-tag {
-    background-color: #215732;
-    border: 2px solid #215732;
-    padding: 0.5rem 1rem;
+    background-color: #B4CC89;
+    border: 1px solid #B4CC89;
+    padding: 0.2rem 1rem;
   	border-radius: 1rem;
-    color: white !important;
+    color: black !important;
 	  text-decoration: none !important;
   }
 </style>
@@ -47,6 +47,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 <section>
 	<div class="wrapper">
 		<div class="box">
+			<span class="tour-tag">Tour</span>
 			<h5>Garden Tour at Jurong Central Zone D RN 'Sky Garden'</h5>
 			<br><br>(insert picture)
 			<br><br><br><br><br>
