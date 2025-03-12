@@ -74,14 +74,12 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Organiser:</b> Compassvale Gardens RC, Compassvale RN, Compassvale Haven RC, Compassvale Villa RC, Sengkang Youth Network<br>
 			<b>Date:</b> 5 April 2025, Saturday<br>
 			<b>Where:</b> Sengkang CC Multi-purpose Hall<br>
-			<b>Enquiries:</b><br><br>
+			<b>Enquiries:</b> <a href="https://www.facebook.com/sknyouthnetwork/">Sengkang North Youth Network</a><br><br>
 			<b>Registration: </b>No registration is needed<br>
 		</div>
 		<div class="box">
-			<h5>Community Garden Tours in Tiong Bahru</h5>
-			<br><br>(insert picture)
-			<br><br><br><br><br>
-			<b>Organiser:</b> Kim Tian West RC and Tiong Bahru SCEC<br>
+				<span class="tour-tag">Tour</span>
+			<h5 style="margin-top:8px">Community Garden Tours in Tiong Bahru</h5>Organiser: Kim Tian West RC and Tiong Bahru SCEC<br>
 			<b>Date:</b> 12 April 2025, Saturday<br>
 			<b>Where:</b> Tiong Bahru Community Centre<br>
 			<b>Enquiries: </b><a href="mailto:tcg.ktwrc@gmail.com">tcg.ktwrc@gmail.com</a><br><br>
