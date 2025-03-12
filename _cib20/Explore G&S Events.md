@@ -49,6 +49,17 @@ description: ""
     display: inline-block;
 	  margin: 5px 5px 0 3px;
   }
+	
+					  .marketplace-tag {
+    background-color: #A8B1E0;
+    border: 1px solid #A8B1E0;
+    padding: 0.2rem 1rem;
+  	border-radius: 0.5rem;
+    color: black !important;
+	  text-decoration: none !important;
+    display: inline-block;
+	  margin: 5px 5px 0 3px;
+  }
 </style>
 
 <section>
@@ -69,7 +80,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 							<a class="button-primary" href="https://form.gov.sg/67c98e93abcf635aba572001">Register here</a>
 		</div>
 		<div class="box">
-			<span class="booth-tag">Booth</span>
+			<span class="booth-tag">Booths</span><span class="marketplace-tag">Marketplace</span>
 			<h5 style="margin-top:8px">Sengkang North Eco Fest 2025</h5>
 			<b>Organiser:</b> Compassvale Gardens RC, Compassvale RN, Compassvale Haven RC, Compassvale Villa RC, Sengkang Youth Network<br>
 			<b>Date:</b> 5 April 2025, Saturday<br>
