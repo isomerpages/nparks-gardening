@@ -67,7 +67,7 @@ Under this initiative, community gardening groups across Singapore, from housing
 			iv) Community care<br>
 			v) Artistic</p>
 	</ul>
-	<p>Need ideas? <a href="">Here is a list of examples for each category.</a>
+	<p>Need ideas? <a download="" href="/files/CIB20%20Event%20Planning%20Toolkit/CIB20_Grow_and_Share___Event_Categories.pdf">Here is a list of examples for each category.</a>
 	</p>
 	<li>Social media sharing:</li>
 	<ul><li>Share your event(s) on any social media platform: Facebook, Instagram, TikTok</li>
