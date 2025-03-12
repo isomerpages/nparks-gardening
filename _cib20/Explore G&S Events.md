@@ -44,7 +44,8 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Organiser:</b> Jurong Central Zone D RN<br>
 			<b>Date:</b> 1 April 2025, Tuesday<br>
 			<b>Where:</b> 372 Jurong East Street 32 Multi-Storey Carpark<br>
-			<b>Enquiries:</b> 
+			<b>Enquiries: </b>Email Kamisah Atan at sunhabel@gmail.com<br><br>
+							<a class="button-primary" href="https://form.gov.sg/67c98e93abcf635aba572001">Register here</a>
 		</div>
 		<div class="box">
 			<h5>Eco Fest</h5>
