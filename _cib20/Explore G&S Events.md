@@ -62,8 +62,6 @@ You are encouraged to contact the organisers directly for specific queries on ev
 		<div class="box">
 			<span class="tour-tag">Tour</span>
 			<h5 style="margin-top:8px">Garden Tour at Jurong Central Zone D RN 'Sky Garden'</h5>
-			<br><br>(insert picture)
-			<br><br><br><br><br>
 			<b>Organiser:</b> Jurong Central Zone D RN<br>
 			<b>Date:</b> 1 April 2025, Tuesday<br>
 			<b>Where:</b> 372 Jurong East Street 32 Multi-Storey Carpark<br>
@@ -72,9 +70,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 		</div>
 		<div class="box">
 			<span class="booth-tag">Booth</span>
-			<h5 style="margin-top:8px">Eco Fest</h5>
-			<br><br>(insert picture)
-			<br><br><br><br><br>
+			<h5 style="margin-top:8px">Sengkang North Eco Fest 2025</h5>
 			<b>Organiser:</b> Compassvale Gardens RC, Compassvale RN, Compassvale Haven RC, Compassvale Villa RC, Sengkang Youth Network<br>
 			<b>Date:</b> 5 April 2025, Saturday<br>
 			<b>Where:</b> Sengkang CC Multi-purpose Hall<br>
