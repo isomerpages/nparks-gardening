@@ -82,6 +82,20 @@ description: ""
     display: inline-block;
 	  margin: 5px 5px 0 3px;
   }
+	
+		table a:link {
+		color:black;
+	}
+	
+	tr {
+		height:100%;
+		width: 95%;
+		display: flex;
+		flex-direction: row;
+		flex-wrap: wrap;
+		column-gap: 38px;
+		overflow: visible;
+	}
 </style>
 
 <section>
@@ -89,6 +103,18 @@ description: ""
 You are encouraged to contact the organisers directly for specific queries on events.</p>
 	<br>
 </section>
+
+<section>
+	<h5>Browse our events by date</h5>
+	<table>
+		<tbody>
+			<tr>
+				<td><a style="text-decoration:none" href="#1-5Apr">1-5 April</a></td>
+				<td><a style="text-decoration:none" href="#6-12Apr">6-12 April</a></td>
+			</tr>
+		</tbody>
+		</table>
+</section><br>
 
 <section>
 	<h5 id="1-5Apr">1 - 5 April 2025</h5>
@@ -111,6 +137,9 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Enquiries:</b> <a href="https://www.facebook.com/sknyouthnetwork/">Sengkang North Youth Network</a><br><br>
 			<b>Registration: </b>No registration is needed<br>
 		</div>
+	</div>
+		<h5 id="6-12Apr">6 - 12 April 2025</h5>
+	<div class="wrapper">
 		<div class="box">
 				<span class="tour-tag">Tour</span>
 			<h5 style="margin-top:8px">Community Garden Tours in Tiong Bahru</h5>Organiser: Kim Tian West RC and Tiong Bahru SCEC<br>
