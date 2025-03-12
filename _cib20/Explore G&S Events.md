@@ -179,8 +179,8 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Organiser:</b> Bukit Batok Zone 2 RN<br>
 			<b>Date:</b> 13 April 2025, Sunday<br>
 			<b>Where:</b> 106 Bukit Batok Central, Singapore 650106<br>
-			<b>Enquiries:</b><br><br>
-				<a class="button-primary" href="https://form.gov.sg/67ce686ef5c0e1ac85467eb4">Find out more</a>
+			<b>Enquiries:</b> Email Junaidi at <a href="mailto:pa_bukitbatokcc@pa.gov.sg">pa_bukitbatokcc@pa.gov.sg</a><br><br>
+				<a class="button-primary" href="https://form.gov.sg/67ce686ef5c0e1ac85467eb4">Register here</a>
 </div>
 			<div class="box">
 			<span class="marketplace-tag">Marketplace</span>
@@ -196,7 +196,8 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<h5 id="20-26Apr">20 - 26 April 2025</h5>
 	<div class="wrapper">
 	<div class="box">
-			<h5>Sensory Node Launch at 813 Rooftop Landscape &amp; Community Garden</h5>
+			<span class="tour-tag">Tour</span>
+			<h5 style="margin-top:8px">Sensory Node Launch at 813 Rooftop Landscape &amp; Community Garden</h5>
 			<b>Organiser:</b> Nee Soon South Zone C RN <br>
 			<b>Date:</b> 26 April 2025, Saturday<br>
 			<b>Where:</b> 813 Rooftop Landscape &amp; Community Garden<br>
