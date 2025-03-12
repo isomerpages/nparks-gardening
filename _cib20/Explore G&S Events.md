@@ -27,6 +27,15 @@ description: ""
     color: white !important;
 	  text-decoration: none !important;
   }
+	
+				  .tour-tag {
+    background-color: #215732;
+    border: 2px solid #215732;
+    padding: 0.5rem 1rem;
+  	border-radius: 1rem;
+    color: white !important;
+	  text-decoration: none !important;
+  }
 </style>
 
 <section>
