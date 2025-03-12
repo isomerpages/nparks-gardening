@@ -89,7 +89,8 @@ Under this initiative, community gardening groups across Singapore, from housing
 		<p>Want to find out more about the initiative? We are organising two virtual briefing sessions to share with you more details and how you can submit your proposals:</p>
 		<ul><li>22 March 2025, Saturday, 10am</li>
 			<li>9 April 2025, Wednesday, 12pm</li></ul>
-			<a class="button-primary" href="https://go.gov.sg/cibvirtualbriefing">Register for a virtual briefing session</a><br><br>
+			<a class="button-primary" href="https://go.gov.sg/cibvirtualbriefing">Register for a virtual briefing session</a><br>
+		<p>Can't attend the virtual briefing sessions? We've put together a <a download="" href="/files/CIB20%20Event%20Planning%20Toolkit/CIB_Grow_and_Share_submission_guide.pdf">form submission guide</a> for your reference.</p>
 		<li><u>Watering &amp; growing phase</u></li>
 		<p>You will receive an email once your submission is reviewed and confirmed – your <b><i>personalised post-event form link</i></b> will be in this email, <i>please do not delete it</i>. 
 
