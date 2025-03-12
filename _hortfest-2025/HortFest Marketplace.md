@@ -37,27 +37,27 @@ description: ""
 
 <h5>Why participate</h5>
 <section>
-	<p></p><ol>
+	<p></p><ul>
 	<li>Connect directly with passionate gardeners, plant enthusiasts and community groups in one vibrant location</li>
 	<li>Showcase and sell your latest products and innovations to a targeted, enthusiastic audience</li>
 	<li>Build valuable customer relationships and industry partnerships though face-to-face interactions</li>
 	<li>Enhance your brand presence through demonstrations and Singapore's premier gardening festival platform</li>
 	<li>Tap into the growing sustainable living and urban gardening movement</li>
-</ol><p></p></section>
+</ul><p></p></section>
 	
 <h5>Our Marketplace Categories</h5>
 <section>
 	<p></p><ol>
 	<li><b>Garden Essentials</b> - From quality plants and nursery products to tools, furniture and water features</li>
-	<li><b>Lifestyle &amp; Wellness</b> - Nature-based wellness items, botanical teas and nature-inspired fashion</li><li>
-	</li><li><b>Educational &amp; Creative</b> - Gardening publications, floral art and sustainable living solutions</li>
+	<li><b>Lifestyle &amp; Wellness</b> - Nature-based wellness items, botanical teas and nature-inspired fashion</li>
+	<li><b>Educational &amp; Creative</b> - Gardening publications, floral art and sustainable living solutions</li>
 	<li><b>Home &amp; Garden Décor</b> - Beautiful ornaments, furniture pieces and decorative accessories</li>
 	<li><b>F&amp;B Zone</b> - Halal-certified food and refreshments to keep you energized while you explore</li>
-<section><p>Join us as we celebrate horticultural excellence and the local gardening community, in conjunction with <a href="https://go.gov.sg/cib20">20 years of Community in Bloom!</a></p> 
-	<p>HortFest is a non-ticketed event so admission is <u>free</u>!<br> 
-	<b>Date:</b> 23-31 August 2025<br>
-				<b>Venue:</b> HortPark, 33 Hyderabad Road, Singapore 119578 (<a href="https://go.gov.sg/how-to-get-to-hortpark">how to get here)</a><br> 
-	<b>Time:</b> 9.00am - 7.00pm</p>
+	</ol><p></p>
+</section>
 
-
-<h4>Festival Highlights</h4></section></ol></section>
+<h5>Registration</h5>
+<section>
+	<p>Registration for the HortFest Marketplace will open soon. Stay tuned for more updates!</p>
+</section>
+	
