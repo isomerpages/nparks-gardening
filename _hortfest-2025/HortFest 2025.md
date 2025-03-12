@@ -59,7 +59,7 @@ description: ""
 <p>Note: Programme details are subject to changes. Follow our social media channels for the latest updates.</p> 
 
 <p>For enquiries on HortFest, you may contact HortPark by phone at +65 6471 5601, or by email at <a href="_mailto:nparks_hortpark@nparks.gov.sg">nparks_hortpark@nparks.gov.sg.</a></p>
- 
+</section>
 <br>
 <section>
 	<h5>Competitions</h5>
@@ -77,4 +77,4 @@ description: ""
 				<a class="button-primary" href="https://gardening.gov.sg/horticultural-competition-2025/">Find out more</a>
 </div>
 	</div>
-</section></section>
+</section>
