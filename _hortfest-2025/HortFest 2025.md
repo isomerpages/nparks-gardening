@@ -57,16 +57,18 @@ description: ""
 <br>
 <section>
 	<h4>Competitions</h4>
+	<div class="wrapper">
 	<div class="box">
 			<h5>Community Garden Edible Competition</h5>
-			<br><br><img src="/images/HortFest%20images/CGEC_2025_webpage_picture.jpg">
-			<br><br><br><br><br>
-				<a class="button-primary" href="https://gardening.gov.sg/CGEC">Find out more</a>
+			<br><img style="width:250px; display:inline" src="/images/HortFest%20images/CGEC_2025_webpage_picture.jpg">
+			<br><br>
+				<a class="button-primary" href="https://gardening.gov.sg/CGEC">Find out more</a><br>
 </div>
 		<div class="box">
 			<h5>Horticultural Competition</h5>
-			<br><br><img src="/images/HortFest%20images/HortFest_eBanner_2025_03_09_Opt_01.jpg">
-			<br><br><br><br><br>
+			<br><img style="width:250px; display:inline" src="/images/HortFest%20images/HortFest_eBanner_2025_03_09_Opt_01.jpg">
+			<br><br>
 				<a class="button-primary" href="https://gardening.gov.sg/CGEC">Find out more</a>
 </div>
+	</div>
 </section>
