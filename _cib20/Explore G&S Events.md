@@ -112,6 +112,9 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<tr>
 				<td><a style="text-decoration:none" href="#1-5Apr">1-5 April</a></td>
 				<td><a style="text-decoration:none" href="#6-12Apr">6-12 April</a></td>
+				<td><a style="text-decoration:none" href="#13-19Apr">13-19 April</a></td>
+				<td><a style="text-decoration:none" href="#20-26Apr">20-26 April</a></td>
+				<td><a style="text-decoration:none" href="#27-30Apr">27-30 April</a></td>
 			</tr>
 		</tbody>
 		</table>
