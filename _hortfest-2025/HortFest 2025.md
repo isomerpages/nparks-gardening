@@ -46,14 +46,14 @@ description: ""
 <section>	
 	<p>Experience the magic of gardening through:
 </p><ul>
-	<li>Competition Displays - Marvel at the prize-winning harvests from our Community Garden Edibles and Horticulture Competitions</li>
+	<li><b>Competition Displays</b> - Marvel at the prize-winning harvests from our Community Garden Edibles and Horticulture Competitions</li>
 	<li>Be captivated by extraordinary displays of gardening excellence. From towering garden sculptures to prize-winning vegetables and meticulously cultivated ornamentals, our Community Garden Edibles and Horticultural Competitions showcase the pinnacle of both edible and ornamental horticulture.</li>
-		<li>CIB20 Celebration Display and Exhibit - Journey through two decades of community gardening milestones in this captivating showcase</li>
-		<li>Vibrant Marketplace - Discover gardening treasures, sustainable products, and more</li>
-		<li>Living Lab - Having plant pests and soil health issues? Get expert advice at our Plant Health Clinic and learn practical solutions and gain insights to grow healthier plants</li>
-		<li>Community Showcase - Be insipired by innovative gardens from schools, organisations, and community groups</li>
-		<li>Stage Programmes - Enjoy an exciting lineup of demonstrations, talks and performances by gardening experts and enthusiasts</li>
-		<li>Family Fun - Get hands-on with DIY gardening activities, garden craft activities, and join our guided tours</li>
+	<li><b>CIB20 Celebration Display and Exhibits</b> - Journey through two decades of community gardening milestones in this captivating showcase</li>
+	<li><b>Vibrant Marketplace</b> - Discover gardening treasures, sustainable products, and more</li>
+	<li><b>Living Lab</b> - Having plant pests and soil health issues? Get expert advice at our Plant Health Clinic and learn practical solutions and gain insights to grow healthier plants</li>
+	<li><b>Community Showcase</b> - Be insipired by innovative gardens from schools, organisations, and community groups</li>
+	<li><b>Stage Programmes</b> - Enjoy an exciting lineup of demonstrations, talks and performances by gardening experts and enthusiasts</li>
+	<li><b>Family Fun</b> - Get hands-on with DIY gardening activities, garden craft activities, and join our guided tours</li>
 </ul><p></p>
 	
 <p>Note: Programme details are subject to changes. Follow our social media channels for the latest updates.</p> 
