@@ -146,7 +146,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 	<div class="wrapper">
 		<div class="box">
 				<span class="tour-tag">Tour</span>
-			<h5 style="margin-top:8px">Community Garden Tours in Tiong Bahru</h5>Organiser: Kim Tian West RC and Tiong Bahru SCEC<br>
+			<h5 style="margin-top:8px">Community Garden Tours in Tiong Bahru</h5>Organiser: The Giving Garden @ Kim Tian West<br>
 			<b>Date:</b> 12 April 2025, Saturday<br>
 			<b>Where:</b> Tiong Bahru Community Centre<br>
 			<b>Enquiries: </b><a href="mailto:tcg.ktwrc@gmail.com">tcg.ktwrc@gmail.com</a><br><br>
@@ -209,7 +209,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Organiser:</b> Sennett Community Harvest Hub <br>
 			<b>Date:</b> 26 April 2025, Saturday<br>
 			<b>Where: </b>69 Wan Tho Ave<br>
-			<b>Enquiries: </b>Email Wendy Tan at <a href="mailto:wendytanwl@gmail.com">wendytanwl@gmail.com</a><br><br>
+			<b>Enquiries: </b><a href="mailto:pa.potongpasircc@pa.gov.sg">pa.potongpasircc@pa.gov.sg</a><br><br>
 		<a class="button-primary" href="https://go.gov.sg/sernharvest">Register here</a>
 	</div>
 	<div class="box">
