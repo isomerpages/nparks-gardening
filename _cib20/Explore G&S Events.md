@@ -7,7 +7,7 @@ description: ""
 <style>
 	.wrapper {
 		display: grid;
-		grid-template-columns: repeat(auto-fill, 250px));
+		grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
 		grid-template-rows: auto-fit;
 		column-gap: 10px;
 		row-gap: 10px;
@@ -17,8 +17,7 @@ description: ""
 		border: solid 1px #215732;
 		border-radius: 5px;
 		padding: 5px 10px 15px 10px;
-	  width: 250px;
-	  box-sizing: border-box;
+	  width: 250px
 	}
 	
 			  .button-primary {
