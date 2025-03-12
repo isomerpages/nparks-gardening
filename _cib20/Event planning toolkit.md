@@ -14,3 +14,5 @@ description: Helpful references and templates to help gardening groups plan and
 		<li><a download="" href="/files/know%2010%20culinary%20herbs%20and%20spices.pdf">Know 10 Culinary Herbs and Spices</a></li>
 		</ul>
 </section>
+
+[](/files/CIB20%20Event%20Planning%20Toolkit/a%20event%20planning%20checklist%20sample.pdf)
