@@ -86,19 +86,17 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<a class="button-primary" href="https://www.onepa.gov.sg/events/community-garden-tours-at-tiong-bahru-81896847">Register here</a>
 		</div>
 			<div class="box">
-			<h5>Garden Tour @ Funtasia Garden</h5>
-			<br><br>(insert picture)
-			<br><br><br><br><br>
+			<span class="tour-tag">Tour</span>
+			<h5 style="margin-top:8px">Garden Tour @ Funtasia Garden</h5>
 			<b>Organiser:</b> Teban Gardens RN<br>
 			<b>Date:</b> 12 April 2025, Sunday<br>
 			<b>Where:</b> 32 Teban Gardens Road<br>
-				<b>Enquiries: </b>Email Mr Teoh at <a href="mailto:c.teoh65@gmail.com">c.teoh65@gmail.com</a><br><br>
+				<b>Enquiries: </b>Email Mr Teoh at <a href="mailto:c.teoh65@gmail.com">c.teoh65@gmail.com</a><br><br><br>
 				<a class="button-primary" href="https://form.gov.sg/67cd2345299fcadc17ce1e28">Register here</a>
 </div>
 		<div class="box">
-			<h5>Garden Tour at Toh Yi Community Garden</h5>
-			<br><br>(insert picture)
-			<br><br><br><br><br>
+			<span class="tour-tag">Tour</span>
+			<h5 style="margin-top:8px">Garden Tour at Toh Yi Community Garden</h5>
 			<b>Organiser:</b> Toh Yi Community Garden<br>
 			<b>Date:</b> 13 April 2025, Sunday<br>
 			<b>Where:</b> 4 Toh Yi Drive, Singapore 590004<br>
