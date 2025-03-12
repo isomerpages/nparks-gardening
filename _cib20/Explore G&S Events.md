@@ -124,20 +124,17 @@ You are encouraged to contact the organisers directly for specific queries on ev
 				<a class="button-primary" href="https://form.gov.sg/67ce686ef5c0e1ac85467eb4">Find out more</a>
 </div>
 			<div class="box">
-			<h5>Easter Green Bazaar</h5>
-			<br><br>(insert picture)
-			<br><br><br><br><br>
+			<span class="marketplace-tag">Marketplace</span>
+			<h5 style="margin-top:8px">Easter Green Bazaar</h5>
 			<b>Organiser:</b> Bishan East Zone 1 Green Hub<br>
 			<b>Date:</b> 19 April 2025, Saturday<br>
 			<b>Where:</b> 112 Bishan St 12, Singapore <br>
-			<b>Enquiries:</b><br><br>
+			<b>Enquiries:</b> Email Julie Lim at <a href="mailto:juliemylim@yahoo.com.sg">juliemylim@yahoo.com.sg</a> or Fen Ng at <a href="mailto:omgitzfen@rocketmail.com">omgitzfen@rocketmail.com</a><br><br>
 				<a class="button-primary" href="https://www.facebook.com/BE.Zone1.RN/">Find out more</a>
 
 </div>
 	<div class="box">
 			<h5>Sensory Node Launch at 813 Rooftop Landscape &amp; Community Garden</h5>
-			<br><br>(insert picture)
-			<br><br><br><br><br>
 			<b>Organiser:</b> Nee Soon South Zone C RN <br>
 			<b>Date:</b> 26 April 2025, Saturday<br>
 			<b>Where:</b>813 Rooftop Landscape &amp; Community Garden<br>
