@@ -157,6 +157,9 @@ You are encouraged to contact the organisers directly for specific queries on ev
 				<b>Enquiries: </b>Email Mr Teoh at <a href="mailto:c.teoh65@gmail.com">c.teoh65@gmail.com</a><br><br><br>
 				<a class="button-primary" href="https://form.gov.sg/67cd2345299fcadc17ce1e28">Register here</a>
 </div>
+	</div>
+		<h5 id="13-19Apr">13 - 19 April 2025</h5>
+	<div class="wrapper">
 		<div class="box">
 			<span class="tour-tag">Tour</span>
 			<h5 style="margin-top:8px">Garden Tour at Toh Yi Community Garden</h5>
@@ -185,6 +188,9 @@ You are encouraged to contact the organisers directly for specific queries on ev
 				<b>Registration:</b> No registration needed<br><br>
 				<a class="button-primary" href="https://www.facebook.com/BE.Zone1.RN/">Find out more</a>
 </div>
+	</div>
+			<h5 id="20-26Apr">20 - 26 April 2025</h5>
+	<div class="wrapper">
 	<div class="box">
 			<h5>Sensory Node Launch at 813 Rooftop Landscape &amp; Community Garden</h5>
 			<b>Organiser:</b> Nee Soon South Zone C RN <br>
@@ -218,8 +224,10 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Where:</b> Sheltered Hardcourt at Blk 622B Bukit Batok Central, Singapore 652622<br>
 			<b>Enquiries:</b> Email Danny at <a href="mailto:pa_bukitbatokcc@pa.gov.sg">pa_bukitbatokcc@pa.gov.sg</a><br><br>
 		<a class="button-primary" href="https://www.onepa.gov.sg/events/bbz3-distillation-demo-and-educational-garden-tour-52018954">Register here</a>
-
 </div>
+		</div>
+			<h5 id="27-30Apr">27 - 30 April 2025</h5>
+	<div class="wrapper">
 	<div class="box">
 			<h5>Central Singapore Market (CSM) in conjunction with SG60 Concert - Garden Booth and Therapeutic Horticulture</h5>
 	 <b>Organisers:</b> Bishan CC Sky Garden &amp; Bishan East Zone 6 167A<br>
@@ -228,6 +236,6 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Enquiries:</b> Email Bishan Taskforce at <a href="mailto:bishan.tf@gmail.com">bishan.tf@gmail.com</a><br>
 		<b>Registration:</b> No registration needed<br><br>
 		<a class="button-primary" href="https://www.facebook.com/BishanCommunityClub">Find out more</a>
-
-</div></div></section>
+</div></div>
+</section>
 <br>
