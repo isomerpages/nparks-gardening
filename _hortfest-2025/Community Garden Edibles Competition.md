@@ -46,3 +46,5 @@ description: ""
 	<a class="button-primary" href="https://go.gov.sg/cgec2025-registration-form">Register now!</a>
 	<p>For enquiries on CGEC 2025, you may contact HortPark by phone at +65 6471 5601, or by email at <a href="_mailto:nparks_hortpark@nparks.gov.sg">nparks_hortpark@nparks.gov.sg.</a></p>
 </section>
+<br>
+<img src="/images/HortFest%20images/CGEC_2025_Poster.jpg">
