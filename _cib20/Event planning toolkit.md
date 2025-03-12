@@ -15,4 +15,4 @@ description: Helpful references and templates to help gardening groups plan and
 		</ul>
 </section>
 
-[](/files/CIB20%20Event%20Planning%20Toolkit/a%20event%20planning%20checklist%20sample.pdf)[](/files/CIB20%20Event%20Planning%20Toolkit/b%20event%20planning%20timeline%20guide.pdf)[](/files/CIB20%20Event%20Planning%20Toolkit/c%20tips%20for%20creating%20a%20poster%20.pdf)
+[](/files/CIB20%20Event%20Planning%20Toolkit/a%20event%20planning%20checklist%20sample.pdf)[](/files/CIB20%20Event%20Planning%20Toolkit/b%20event%20planning%20timeline%20guide.pdf)[](/files/CIB20%20Event%20Planning%20Toolkit/c%20tips%20for%20creating%20a%20poster%20.pdf)[](/files/CIB20%20Event%20Planning%20Toolkit/d%20basic%20guide%20to%20posting%20on%20social%20media%20platforms.pdf)[](/files/CIB20%20Event%20Planning%20Toolkit/e%20good%20food%20safety%20practices%20when%20growing%20edibles%20poster.pdf)
