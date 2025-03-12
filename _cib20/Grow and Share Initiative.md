@@ -50,7 +50,7 @@ Under this initiative, community gardening groups across Singapore, from housing
 		<li>educational institution</li>
 	</ul><p></p>
 	
-<p>Registration for the CIB programme is free! Email <a href="mailto:communityinbloom@nparks.gov.sg">communityinbloom@nparks.gov.sg</a> if you are not registered.</p>
+<p>Registration for the CIB programme is free! Email <a href="mailto:communityinbloom@nparks.gov.sg">communityinbloom@nparks.gov.sg</a> if your gardening group is not registered.</p>
 
 <h5>Event criteria</h5>
 <ol>
