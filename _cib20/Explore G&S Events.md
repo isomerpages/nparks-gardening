@@ -128,7 +128,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<h5 style="margin-top:8px">Garden Tour at Jurong Central Zone D RN 'Sky Garden'</h5>
 			<b>Organiser:</b> Jurong Central Zone D RN<br>
 			<b>Date:</b> 1 April 2025, Tuesday<br>
-			<b>Where:</b> 372 Jurong East Street 32 Multi-Storey Carpark<br>
+			<b>Where:</b> 372A Jurong East Street 32 Multi-Storey Carpark<br>
 			<b>Enquiries: </b>Email Kamisah Atan at <a href="mailto:sunhabel@gmail.com">sunhabel@gmail.com</a><br><br>
 							<a class="button-primary" href="https://form.gov.sg/67c98e93abcf635aba572001">Register here</a>
 		</div>
