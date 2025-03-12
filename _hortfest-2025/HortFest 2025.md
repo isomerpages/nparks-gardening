@@ -7,7 +7,7 @@ description: ""
 <style>
 	.wrapper {
 		display: grid;
-		grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+		grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
 		grid-template-rows: auto-fit;
 		column-gap: 10px;
 		row-gap: 10px;
@@ -59,14 +59,14 @@ description: ""
 	<h4>Competitions</h4>
 	<div class="wrapper">
 	<div class="box">
-			<h5>Community Garden Edible Competition</h5>
-			<br><img style="width:250px; display:inline" src="/images/HortFest%20images/CGEC_2025_webpage_picture.jpg">
+			<h5>Community Garden Edible Competition 2025</h5>
+			<br><img style="width:auto; display:inline" src="/images/HortFest%20images/CGEC_2025_webpage_picture.jpg">
 			<br><br>
 				<a class="button-primary" href="https://gardening.gov.sg/CGEC">Find out more</a><br>
 </div>
 		<div class="box">
-			<h5>Horticultural Competition</h5>
-			<br><img style="width:250px; display:inline" src="/images/HortFest%20images/HortFest_eBanner_2025_03_09_Opt_01.jpg">
+			<h5>Horticultural Competition 2025</h5>
+			<br><img style="width:auto; display:inline" src="/images/HortFest%20images/HortFest_eBanner_2025_03_09_Opt_01.jpg">
 			<br><br>
 				<a class="button-primary" href="https://gardening.gov.sg/CGEC">Find out more</a>
 </div>
