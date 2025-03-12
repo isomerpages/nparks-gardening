@@ -45,6 +45,11 @@ description: ""
 	<li>Tap into the growing sustainable living and urban gardening movement</li>
 </ol><p></p></section>
 	
+<h5>Our Marketplace Categories</h5>
+<section>
+	<p></p><ol>
+	<li><b>Garden Essentials</b> - From quality plants and nursery products to tools, furniture and water features</li>
+	<b>Lifestyle &amp; Wellness</b>
 <section><p>Join us as we celebrate horticultural excellence and the local gardening community, in conjunction with <a href="https://go.gov.sg/cib20">20 years of Community in Bloom!</a></p> 
 	<p>HortFest is a non-ticketed event so admission is <u>free</u>!<br> 
 	<b>Date:</b> 23-31 August 2025<br>
@@ -52,4 +57,4 @@ description: ""
 	<b>Time:</b> 9.00am - 7.00pm</p>
 
 
-<h4>Festival Highlights</h4></section>
+<h4>Festival Highlights</h4></section></ol></section>
