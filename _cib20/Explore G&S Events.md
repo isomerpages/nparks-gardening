@@ -38,6 +38,17 @@ description: ""
     display: inline-block;
 	  margin: 5px 5px 0 3px;
   }
+
+					  .booth-tag {
+    background-color: #FCD094;
+    border: 1px solid #FCD094;
+    padding: 0.2rem 1rem;
+  	border-radius: 0.5rem;
+    color: black !important;
+	  text-decoration: none !important;
+    display: inline-block;
+	  margin: 5px 5px 0 3px;
+  }
 </style>
 
 <section>
@@ -60,7 +71,8 @@ You are encouraged to contact the organisers directly for specific queries on ev
 							<a class="button-primary" href="https://form.gov.sg/67c98e93abcf635aba572001">Register here</a>
 		</div>
 		<div class="box">
-			<h5>Eco Fest</h5>
+			<span class="booth-tag">Booth</span>
+			<h5 style="margin-top:8px">Eco Fest</h5>
 			<br><br>(insert picture)
 			<br><br><br><br><br>
 			<b>Organiser:</b> Compassvale Gardens RC, Compassvale RN, Compassvale Haven RC, Compassvale Villa RC, Sengkang Youth Network<br>
