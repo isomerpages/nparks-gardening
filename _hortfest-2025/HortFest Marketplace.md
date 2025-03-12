@@ -59,6 +59,5 @@ description: ""
 <h5>Registration</h5>
 <section>
 	<p>Registration for the HortFest Marketplace will open soon. Stay tuned for more updates!</p>
+	<p>For enquiries on HortFest Marketplace, you may contact HortPark by phone at +65 6471 5601, or by email at <a href="_mailto:nparks_hortpark@nparks.gov.sg">nparks_hortpark@nparks.gov.sg.</a></p>
 </section>
-
-<p>For enquiries on HortFest Marketplace, you may contact HortPark by phone at +65 6471 5601, or by email at <a href="_mailto:nparks_hortpark@nparks.gov.sg">nparks_hortpark@nparks.gov.sg.</a></p>
