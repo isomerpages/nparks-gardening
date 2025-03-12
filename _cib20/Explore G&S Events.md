@@ -44,7 +44,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Organiser:</b> Jurong Central Zone D RN<br>
 			<b>Date:</b> 1 April 2025, Tuesday<br>
 			<b>Where:</b> 372 Jurong East Street 32 Multi-Storey Carpark<br>
-			<b>Enquiries: </b>Email Kamisah Atan at sunhabel@gmail.com<br><br>
+			<b>Enquiries: </b>Email Kamisah Atan at <a href="mailto:sunhabel@gmail.com">sunhabel@gmail.com</a><br><br>
 							<a class="button-primary" href="https://form.gov.sg/67c98e93abcf635aba572001">Register here</a>
 		</div>
 		<div class="box">
@@ -54,8 +54,8 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Organiser:</b> Compassvale Gardens RC, Compassvale RN, Compassvale Haven RC, Compassvale Villa RC, Sengkang Youth Network<br>
 			<b>Date:</b> 5 April 2025, Saturday<br>
 			<b>Where:</b> Sengkang CC Multi-purpose Hall<br>
-			<b>Enquiries:</b><br>
-			<b>Registration: </b>No registration is needed]
+			<b>Enquiries:</b><br><br>
+			<b>Registration: </b>No registration is needed<br>
 		</div>
 		<div class="box">
 			<h5>Community Garden Tours in Tiong Bahru</h5>
@@ -64,7 +64,8 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Organiser:</b> Kim Tian West RC and Tiong Bahru SCEC<br>
 			<b>Date:</b> 12 April 2025, Saturday<br>
 			<b>Where:</b> Tiong Bahru Community Centre<br>
-			<b>Enquiries:</b>
+			<b>Enquiries: </b><a href="mailto:tcg.ktwrc@gmail.com">tcg.ktwrc@gmail.com</a><br><br>
+			<a class="button-primary" href="https://www.onepa.gov.sg/events/community-garden-tours-at-tiong-bahru-81896847">Register here</a>
 		</div>
 			<div class="box">
 			<h5>Garden Tour @ Funtasia Garden</h5>
