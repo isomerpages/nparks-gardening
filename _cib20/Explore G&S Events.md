@@ -60,6 +60,28 @@ description: ""
     display: inline-block;
 	  margin: 5px 5px 0 3px;
   }
+	
+						  .talk-tag {
+    background-color: #81BC96;
+    border: 1px solid #81BC96;
+    padding: 0.2rem 1rem;
+  	border-radius: 0.5rem;
+    color: black !important;
+	  text-decoration: none !important;
+    display: inline-block;
+	  margin: 5px 5px 0 3px;
+  }
+	
+							  .workshop-tag {
+    background-color: #F8ADAF;
+    border: 1px solid #F8ADAF;
+    padding: 0.2rem 1rem;
+  	border-radius: 0.5rem;
+    color: black !important;
+	  text-decoration: none !important;
+    display: inline-block;
+	  margin: 5px 5px 0 3px;
+  }
 </style>
 
 <section>
@@ -129,9 +151,9 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Organiser:</b> Bishan East Zone 1 Green Hub<br>
 			<b>Date:</b> 19 April 2025, Saturday<br>
 			<b>Where:</b> 112 Bishan St 12, Singapore <br>
-			<b>Enquiries:</b> Email Julie Lim at <a href="mailto:juliemylim@yahoo.com.sg">juliemylim@yahoo.com.sg</a> or Fen Ng at <a href="mailto:omgitzfen@rocketmail.com">omgitzfen@rocketmail.com</a><br><br>
+			<b>Enquiries:</b> Email Julie Lim at <a href="mailto:juliemylim@yahoo.com.sg">juliemylim@yahoo.com.sg</a> or Fen Ng at <a href="mailto:omgitzfen@rocketmail.com">omgitzfen@rocketmail.com</a><br>
+				<b>Registration:</b> No registration needed<br><br>
 				<a class="button-primary" href="https://www.facebook.com/BE.Zone1.RN/">Find out more</a>
-
 </div>
 	<div class="box">
 			<h5>Sensory Node Launch at 813 Rooftop Landscape &amp; Community Garden</h5>
@@ -141,22 +163,21 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Enquiries:</b>
 </div>
 	<div class="box">
-			<h5>Garden Open House</h5>
-			<br><br>(insert picture)
-			<br><br><br><br><br>
+			<span class="tour-tag">Tour</span>
+			<h5 style="margin-top:8px">Garden Open House at Sennett Community Harvest Hub</h5>
 			<b>Organiser:</b> Sennett Community Harvest Hub <br>
 			<b>Date:</b> 26 April 2025, Saturday<br>
 			<b>Where:</b>69 Wan Tho Ave<br>
-			<b>Enquiries:</b>		
+			<b>Enquiries: </b>Email Wendy Tan at <a href="mailto:wendytanwl@gmail.com">wendytanwl@gmail.com</a><br><br>
+		<a class="button-primary" href="https://go.gov.sg/sernharvest">Register here</a>
 	</div>
 	<div class="box">
-			<h5>Wonders of Waterlilies</h5>
-			<br><br>(insert picture)
-			<br><br><br><br><br>
+			<span class="talk-tag">Talk</span>
+			<h5 style="margin-top:8px">Wonders of Waterlilies</h5>
 			<b>Organiser:</b> Woodlands Botanical Garden <br>
 			<b>Date:</b> 26 April 2025, Saturday<br>
 			<b>Where:</b> 134 Marsiling Road, Singapore 730134<br>
-			<b>Enquiries:</b>	<br><br><br>
+		<b>Enquiries:</b><br><br><br>
 		<a class="button-primary" href="https://lu.ma/kvum8ocx">Find out more</a>
 </div>
 	<div class="box">
