@@ -34,5 +34,8 @@ description: ""
 <header>
 	<h4>Community Garden Edibles Competition (CGEC) 2025</h4></header>
 
-<h5>Why participate</h5>
-<section></section>
+<h5>CGEC 2025: A Decade of Growing Excellence!</h5>
+<section>
+	<p>Now in its tenth edition, the Community Garden Edibles Competition (CGEC) 2025 recognises the abilities of our local gardeners and showcase their excellent harvests, including uncommon and unique edibles.</p><p>
+	</p><p>Participants, be it an individual or together as a gardening group, can choose from nine diverse 'Best Edibles' categories plus and Open Category to send in their harvest, showcasing the remarkable variety of fruits and vegetables that can flourish in our urban environment. Winning entries will be featured at our Winners' Showcase at <a href="/hortfest-2025/">HortFest 2025</a>!
+</p></section>
