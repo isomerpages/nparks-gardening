@@ -35,7 +35,11 @@ description: ""
 </header>
 
 <section>
-<p>Join us as we celebrate horticultural excellence and the local gardening community, in conjunction with 20 years of Community in Bloom! Experience the magic  of gardening through: </p>
+<p>Join us as we celebrate horticultural excellence and the local gardening community, in conjunction with 20 years of Community in Bloom!</p> 
+	
+</section>
+	
+	Experience the magic of gardening through: <p></p>
 <p></p><ul>
 	<li>Competition Displays - Marvel at the prize-winning harvests from our Community Garden Edibles and Horticulture Competitions</li>
 	<li>Be captivated by extraordinary displays of gardening excellence. From towering garden sculptures to prize-winning vegetables and meticulously cultivated ornamentals, our Community Garden Edibles and Horticultural Competitions showcase the pinnacle of both edible and ornamental horticulture.</li>
@@ -53,7 +57,8 @@ description: ""
 	<b>Time:</b> 9.00am - 7.00pm</p>
 	
 <p>Note: Programme details are subject to changes. Follow our social media channels for the latest updates.</p> 
-</section> 
+<p>For enquiries on HortFest, you may contact HortPark by phone at +65 6471 5601, or by email at <a href="_mailto:nparks_hortpark@nparks.gov.sg">nparks_hortpark@nparks.gov.sg.</a></p>
+ 
 <br>
 <section>
 	<h4>Competitions</h4>
@@ -72,7 +77,3 @@ description: ""
 </div>
 	</div>
 </section>
-<br>
-<section>
-	<p>For enquiries on HortFest, you may contact HortPark by phone at +65 6471 5601, or by email at <a href="_mailto:nparks_hortpark@nparks.gov.sg">nparks_hortpark@nparks.gov.sg.</a></p>
-	</section>
