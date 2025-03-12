@@ -36,11 +36,16 @@ description: ""
 
 <section>
 <p>Join us as we celebrate horticultural excellence and the local gardening community, in conjunction with 20 years of Community in Bloom!</p> 
-	
+	<p>HortFest is a non-ticketed event so admission is <u>free</u>!<br> 
+	<b>Date:</b> 23-31 August 2025<br>
+				<b>Venue:</b> HortPark, 33 Hyderabad Road, Singapore 119578 (<a href="/images/HortPark_location_map_2025">how to get here)</a><br> 
+	<b>Time:</b> 9.00am - 7.00pm</p>
 </section>
-	
-	Experience the magic of gardening through: <p></p>
-<p></p><ul>
+
+<h5>Festival Highlights</h5>
+<section>	
+	<p>Experience the magic of gardening through:
+</p><ul>
 	<li>Competition Displays - Marvel at the prize-winning harvests from our Community Garden Edibles and Horticulture Competitions</li>
 	<li>Be captivated by extraordinary displays of gardening excellence. From towering garden sculptures to prize-winning vegetables and meticulously cultivated ornamentals, our Community Garden Edibles and Horticultural Competitions showcase the pinnacle of both edible and ornamental horticulture.</li>
 		<li>CIB20 Celebration Display and Exhibit - Journey through two decades of community gardening milestones in this captivating showcase</li>
@@ -51,17 +56,13 @@ description: ""
 		<li>Family Fun - Get hands-on with DIY gardening activities, garden craft activities, and join our guided tours</li>
 </ul><p></p>
 	
-<p>HortFest is a non-ticketed event so admission is <u>free</u>!<br> 
-	<b>Date:</b> 23-31 August 2025<br>
-	<b>Venue:</b> HortPark, 33 Hyderabad Road, Singapore 119578<br> 
-	<b>Time:</b> 9.00am - 7.00pm</p>
-	
 <p>Note: Programme details are subject to changes. Follow our social media channels for the latest updates.</p> 
+
 <p>For enquiries on HortFest, you may contact HortPark by phone at +65 6471 5601, or by email at <a href="_mailto:nparks_hortpark@nparks.gov.sg">nparks_hortpark@nparks.gov.sg.</a></p>
  
 <br>
 <section>
-	<h4>Competitions</h4>
+	<h5>Competitions</h5>
 	<div class="wrapper">
 	<div class="box">
 			<h5>Community Garden Edible Competition 2025</h5>
@@ -76,4 +77,4 @@ description: ""
 				<a class="button-primary" href="https://gardening.gov.sg/horticultural-competition-2025/">Find out more</a>
 </div>
 	</div>
-</section>
+</section></section>
