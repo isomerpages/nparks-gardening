@@ -60,7 +60,7 @@ description: ""
 	<div class="wrapper">
 	<div class="box">
 			<h5>Community Garden Edible Competition 2025</h5>
-			<img style="width:auto; display:inline" src="/images/HortFest%20images/CGEC_2025_webpage_picture.jpg">
+			<img style="width:auto; display:inline" src="/images/HortFest%20images/CGEC_2025_card.jpg">
 			<br><br>
 				<a class="button-primary" href="https://gardening.gov.sg/CGEC">Find out more</a><br>
 </div>
