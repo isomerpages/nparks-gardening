@@ -36,7 +36,7 @@ description: ""
 
 <h5>CGEC 2025: A Decade of Growing Excellence!</h5>
 <section>
-	<p>Now in its tenth edition, the Community Garden Edibles Competition (CGEC) 2025 recognises the abilities of our local gardeners and showcases their excellent harvests, including uncommon and unique edibles.</p>
+	<p>Now in its eighth edition, the Community Garden Edibles Competition (CGEC) 2025 recognises the abilities of our local gardeners and showcases their excellent harvests, including uncommon and unique edibles.</p>
 	<p>Participants, be it an individual or together as a gardening group, can choose from nine diverse 'Best Edibles' categories plus an Open Category to send in their harvest, showcasing the remarkable variety of fruits and vegetables that can flourish in our urban environment. Winning entries will be featured at our Winners' Showcase at <a href="/hortfest-2025/">HortFest 2025</a>!</p>
 	<p>Please refer to the <a target="_blank" href="https://go.gov.sg/cgec2025-rulesandregulations">CGEC 2025 Rules &amp; Regulations</a> to find out more.</p>
 	<p>Registration is open now and closes on <b>14 April 2025</b>. Join us in celebrating a decade of gardening excellence!</p>
