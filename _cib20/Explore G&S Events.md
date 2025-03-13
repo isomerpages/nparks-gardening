@@ -130,7 +130,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Date:</b> 1 April 2025, Tuesday<br>
 			<b>Where:</b> 372A Jurong East Street 32 Multi-Storey Carpark<br>
 			<b>Enquiries: </b>Email Kamisah Atan at <a href="mailto:sunhabel@gmail.com">sunhabel@gmail.com</a><br><br>
-							<a class="button-primary" href="https://form.gov.sg/67c98e93abcf635aba572001">Register here</a>
+							<a target="_blank" class="button-primary" href="https://form.gov.sg/67c98e93abcf635aba572001">Register here</a>
 		</div>
 		<div class="box">
 			<span class="booth-tag">Booths</span><span class="marketplace-tag">Marketplace</span>
@@ -139,7 +139,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Supported by:</b> Compassvale Gardens RC, Compassvale Plains RN, Compassvale Haven RC, Compassvale Villa RC<br>
 			<b>Date:</b> 5 April 2025, Saturday<br>
 			<b>Where:</b> Sengkang CC Multi-purpose Hall<br>
-			<b>Enquiries:</b> <a href="https://www.facebook.com/sknyouthnetwork/">Sengkang North Youth Network</a><br><br>
+			<b>Enquiries:</b> <a target="_blank" href="https://www.facebook.com/sknyouthnetwork/">Sengkang North Youth Network</a><br><br>
 			<b>Registration: </b>No registration is needed<br>
 		</div>
 	</div>
@@ -151,7 +151,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Date:</b> 12 April 2025, Saturday<br>
 			<b>Where:</b> Tiong Bahru Community Centre<br>
 			<b>Enquiries: </b><a href="mailto:tcg.ktwrc@gmail.com">tcg.ktwrc@gmail.com</a><br><br>
-			<a class="button-primary" href="https://www.onepa.gov.sg/events/community-garden-tours-at-tiong-bahru-81896847">Register here</a>
+			<a target="_blank" class="button-primary" href="https://www.onepa.gov.sg/events/community-garden-tours-at-tiong-bahru-81896847">Register here</a>
 		</div>
 			<div class="box">
 			<span class="tour-tag">Tour</span>
@@ -160,7 +160,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Date:</b> 12 April 2025, Sunday<br>
 			<b>Where:</b> 32 Teban Gardens Road<br>
 				<b>Enquiries: </b>Email Mr Teoh at <a href="mailto:c.teoh65@gmail.com">c.teoh65@gmail.com</a><br><br><br>
-				<a class="button-primary" href="https://form.gov.sg/67cd2345299fcadc17ce1e28">Register here</a>
+				<a target="_blank" class="button-primary" href="https://form.gov.sg/67cd2345299fcadc17ce1e28">Register here</a>
 </div>
 	</div>
 		<h5 id="13-19Apr">13 - 19 April 2025</h5>
@@ -172,7 +172,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Date:</b> 13 April 2025, Sunday<br>
 			<b>Where:</b> 4 Toh Yi Drive, Singapore 590004<br>
 			<b>Enquiries:</b> Email Nikki at <a href="mailto:wong_jun_nikki@pa.gov.sg">wong_jun_nikki@pa.gov.sg</a><br><br>
-			<a class="button-primary" href="https://go.gov.sg/tohyigardentour2025">Register here</a>
+			<a target="_blank" class="button-primary" href="https://go.gov.sg/tohyigardentour2025">Register here</a>
 </div>
 		<div class="box">
 			<span class="tour-tag">Tour</span>
@@ -181,7 +181,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Date:</b> 13 April 2025, Sunday<br>
 			<b>Where:</b> 106 Bukit Batok Central, Singapore 650106<br>
 			<b>Enquiries:</b> Email Junaidi at <a href="mailto:pa_bukitbatokcc@pa.gov.sg">pa_bukitbatokcc@pa.gov.sg</a><br><br>
-				<a class="button-primary" href="https://form.gov.sg/67ce686ef5c0e1ac85467eb4">Register here</a>
+				<a target="_blank" class="button-primary" href="https://form.gov.sg/67ce686ef5c0e1ac85467eb4">Register here</a>
 </div>
 			<div class="box">
 			<span class="marketplace-tag">Marketplace</span>
@@ -191,7 +191,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Where:</b> 112 Bishan St 12<br>
 			<b>Enquiries:</b> Email Julie Lim at <a href="mailto:juliemylim@yahoo.com.sg">juliemylim@yahoo.com.sg</a> or Fen Ng at <a href="mailto:omgitzfen@rocketmail.com">omgitzfen@rocketmail.com</a><br>
 				<b>Registration:</b> No registration needed<br><br>
-				<a class="button-primary" href="https://www.facebook.com/BE.Zone1.RN/">Find out more</a>
+				<a target="_blank" class="button-primary" href="https://www.facebook.com/BE.Zone1.RN/">Find out more</a>
 </div>
 	</div>
 			<h5 id="20-26Apr">20 - 26 April 2025</h5>
@@ -212,7 +212,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Date:</b> 26 April 2025, Saturday<br>
 			<b>Where: </b>69 Wan Tho Ave<br>
 			<b>Enquiries: </b><a href="mailto:pa.potongpasircc@pa.gov.sg">pa.potongpasircc@pa.gov.sg</a><br><br>
-		<a class="button-primary" href="https://go.gov.sg/sernharvest">Register here</a>
+		<a target="_blank" class="button-primary" href="https://go.gov.sg/sernharvest">Register here</a>
 	</div>
 	<div class="box">
 			<span class="talk-tag">Talk</span>
@@ -221,7 +221,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Date:</b> 26 April 2025, Saturday<br>
 			<b>Where:</b> 134 Marsiling Road, Singapore 730134<br>
 		<b>Enquiries:</b> Email Ganesh at <a href="mailto:woodlandsbotanicalgarden@gmail.com">woodlandsbotanicalgarden@gmail.com</a><br><br>
-		<a class="button-primary" href="https://lu.ma/kvum8ocx">Register here</a>
+		<a target="_blank" class="button-primary" href="https://lu.ma/kvum8ocx">Register here</a>
 </div>
 	<div class="box">
 			<span class="tour-tag">Tour</span>
@@ -230,7 +230,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Date:</b> 26 April 2025, Saturday<br>
 			<b>Where:</b> Sheltered Hardcourt at Blk 622B Bukit Batok Central, Singapore 652622<br>
 			<b>Enquiries:</b> Email Danny at <a href="mailto:pa_bukitbatokcc@pa.gov.sg">pa_bukitbatokcc@pa.gov.sg</a><br><br>
-		<a class="button-primary" href="https://www.onepa.gov.sg/events/bbz3-distillation-demo-and-educational-garden-tour-52018954">Register here</a>
+		<a target="_blank" class="button-primary" href="https://www.onepa.gov.sg/events/bbz3-distillation-demo-and-educational-garden-tour-52018954">Register here</a>
 </div>
 		</div>
 			<h5 id="27-30Apr">27 - 30 April 2025</h5>
@@ -243,7 +243,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Where:</b> Bishan Bus Interchange<br>
 			<b>Enquiries:</b> Email Bishan Taskforce at <a href="mailto:bishan.tf@gmail.com">bishan.tf@gmail.com</a><br>
 		<b>Registration:</b> No registration needed<br><br>
-		<a class="button-primary" href="https://www.facebook.com/BishanCommunityClub">Find out more</a>
+		<a target="_blank" class="button-primary" href="https://www.facebook.com/BishanCommunityClub">Find out more</a>
 </div></div>
 </section>
 <br>
