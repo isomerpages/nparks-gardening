@@ -81,7 +81,7 @@ Under this initiative, community gardening groups across Singapore, from housing
 		<p>To support you in your G&amp;S events,<br>
 		</p><ul><li>We have prepared an <a href="/event-planning-toolkit/">event planning toolkit</a>, which contains a series of references and templates</li>
 			<li>NParks will be giving out a G&amp;S starter pack</li>
-			<ul><li>Please indicate interest for the Grow and Share starter pack through the CIB Grow and Share form. Once your event details have been confirmed, NParks will reach out with information on how you can collect the starter pack.</li>
+			<ul><li>Please indicate interest for the Grow and Share starter pack through the CIB Grow and Share pre-event form. Once your event details have been confirmed, NParks will reach out with information on how you can collect the starter pack.</li>
 				<li>Each participating CIB group is only entitled to <b><u>one</u></b> starter pack.</li>
 			</ul></ul>
 		<p>Once you have confirmed the details of your event(s), submit the 🌱 <a href="https://go.gov.sg/cibgrowandshareform">pre-event form</a>🌱 for our review. You will be able to submit up to three events per form. Please look through the pre-event form and ensure that you have all your details ready before starting a submission.</p>
