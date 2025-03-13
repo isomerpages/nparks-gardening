@@ -29,13 +29,13 @@ description: Celebrate 20 years of Community in Bloom
   }
 </style>
 
+<img style="width:150px; display: inline;" src="/images/CIB20/CIB20_logo_small.png"><br>
 <header>
 <h3>Celebrating 20 Years of Community in Bloom (CIB20)</h3>
 </header>
-
+<img src="/images/CIB20/KTW_1027.jpg"><br>
 <section>
-<p><img style="width:150px; display: inline;" src="/images/CIB20/CIB20_logo_small.png"><br>
-This year marks the 20th anniversary of the Community in Bloom (CIB) programme. As part of the celebrations, the community can look forward to a host of activities at Community Gardens islandwide throughout the year with the new 'Grow and Share' initiative. The celebrations will culminate at HortFest 2025 in August 2025, where public can find out more about the stories behind these gardens and how CIB volunteers have played a part in promoting community stewardship through their love for gardening over the last two decades. </p>
+<p>This year marks the 20th anniversary of the Community in Bloom (CIB) programme. As part of the celebrations, the community can look forward to a host of activities at Community Gardens islandwide throughout the year with the new 'Grow and Share' initiative. The celebrations will culminate at HortFest 2025 in August 2025, where public can find out more about the stories behind these gardens and how CIB volunteers have played a part in promoting community stewardship through their love for gardening over the last two decades. </p>
 
 <p>In celebration of: <img style="width:70px; vertical-align:middle; display: inline; margin-left:8px" src="/images/CIB20/sg60_logo.png"></p><br>
 <a class="button-primary" href="/grow-and-share-initiative/">Be a part of Grow and Share!</a></section>
