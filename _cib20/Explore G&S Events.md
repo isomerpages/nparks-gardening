@@ -130,7 +130,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Date:</b> 1 April 2025, Tuesday<br>
 			<b>Where:</b> 372A Jurong East Street 32 Multi-Storey Carpark<br>
 			<b>Enquiries: </b>Email Kamisah Atan at <a href="mailto:sunhabel@gmail.com">sunhabel@gmail.com</a><br><br>
-							<a class="button-primary" href="https://form.gov.sg/67c98e93abcf635aba572001">Register here</a>
+							<a target="_blank" class="button-primary" href="https://form.gov.sg/67c98e93abcf635aba572001">Register here</a>
 		</div>
 		<div class="box">
 			<span class="booth-tag">Booths</span><span class="marketplace-tag">Marketplace</span>
@@ -139,7 +139,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Supported by:</b> Compassvale Gardens RC, Compassvale Plains RN, Compassvale Haven RC, Compassvale Villa RC<br>
 			<b>Date:</b> 5 April 2025, Saturday<br>
 			<b>Where:</b> Sengkang CC Multi-purpose Hall<br>
-			<b>Enquiries:</b> <a href="https://www.facebook.com/sknyouthnetwork/">Sengkang North Youth Network</a><br><br>
+			<b>Enquiries:</b> <a target="_blank" href="https://www.facebook.com/sknyouthnetwork/">Sengkang North Youth Network</a><br><br>
 			<b>Registration: </b>No registration is needed<br>
 		</div>
 	</div>
