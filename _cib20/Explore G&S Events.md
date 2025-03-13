@@ -202,8 +202,8 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Organiser:</b> Nee Soon South Zone C RN <br>
 			<b>Date:</b> 26 April 2025, Saturday<br>
 			<b>Where:</b> 813 Rooftop Landscape &amp; Community Garden<br>
-		<b>Enquiries: </b>(to be updated)<br>
-		<b>Registration:</b> (to be updated)<br>
+		<b>Enquiries: </b>(to be announced)<br>
+		<b>Registration:</b> (to be announced)<br>
 </div>
 	<div class="box">
 			<span class="tour-tag">Tour</span>
