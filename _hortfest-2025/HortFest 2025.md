@@ -78,3 +78,4 @@ description: ""
 </div>
 	</div>
 </section>
+<p>In celebration of: <img style="width:70px; vertical-align:middle; display: inline; margin-left:8px" src="/images/CIB20/sg60_logo.png"></p><br>
