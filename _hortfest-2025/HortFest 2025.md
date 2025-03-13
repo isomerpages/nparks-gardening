@@ -36,7 +36,7 @@ description: ""
 
 <section>
 <p>Join us as we celebrate horticultural excellence and the local gardening community, in conjunction with <a href="https://go.gov.sg/cib20">20 years of Community in Bloom</a>!</p> 
-	<p>HortFest is a non-ticketed event so admission is <u>free</u>!<br>
+	<p>Admission to HortFest is <u>free</u>!<br>
 	<b>📅 Date:</b> 23-31 August 2025<br>
 	<b>🌳 Venue:</b> HortPark, 33 Hyderabad Road, Singapore 119578 (<a target="_blank" href="https://go.gov.sg/how-to-get-to-hortpark">how to get here</a>)<br> 
 	<b>⌚ Time:</b> 9.00am - 7.00pm</p><p></p>
@@ -51,7 +51,7 @@ description: ""
 	<li><b>CIB20 Celebration Display and Exhibits</b> - Journey through two decades of community gardening milestones in this captivating showcase</li>
 	<li><b>Vibrant Marketplace</b> - Discover gardening treasures, sustainable products, and more</li>
 	<li><b>Living Lab</b> - Having plant pests and soil health issues? Get expert advice at our Plant Health Clinic and learn practical solutions and gain insights to grow healthier plants</li>
-	<li><b>Community Showcase</b> - Be insipired by innovative gardens from schools, organisations, and community groups</li>
+	<li><b>Community Showcase</b> - Be inspired by innovative gardens from schools, organisations, and community groups</li>
 	<li><b>Stage Programmes</b> - Enjoy an exciting lineup of demonstrations, talks and performances by gardening experts and enthusiasts</li>
 	<li><b>Family Fun</b> - Get hands-on with DIY gardening activities, garden craft activities, and join our guided tours</li>
 </ul><p></p>
