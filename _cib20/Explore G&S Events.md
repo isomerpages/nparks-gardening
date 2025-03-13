@@ -224,7 +224,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 </div>
 	<div class="box">
 			<span class="tour-tag">Tour</span>
-			<h5 style="margin-top:8px">Distillation Demo Session and Educational Garden tour</h5>
+			<h5 style="margin-top:8px">Distillation Demo Session and Educational Garden Tour</h5>
 			<b>Organiser:</b> Bukit Batok Central Educational Garden <br>
 			<b>Date:</b> 26 April 2025, Saturday<br>
 			<b>Where:</b> Sheltered Hardcourt at Blk 622B Bukit Batok Central, Singapore 652622<br>
