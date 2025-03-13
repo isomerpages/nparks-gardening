@@ -126,7 +126,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 		<div class="box">
 			<span class="tour-tag">Tour</span>
 			<h5 style="margin-top:8px">Garden Tour at Jurong Central Zone D RN 'Sky Garden'</h5>
-			<b>Organiser:</b> Jurong Central Zone D RN<br>
+			<b>Organiser:</b> Jurong Central Zone D RN 'Sky Garden'<br>
 			<b>Date:</b> 1 April 2025, Tuesday<br>
 			<b>Where:</b> 372A Jurong East Street 32 Multi-Storey Carpark<br>
 			<b>Enquiries: </b>Email Kamisah Atan at <a href="mailto:sunhabel@gmail.com">sunhabel@gmail.com</a><br><br>
@@ -177,7 +177,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 		<div class="box">
 			<span class="tour-tag">Tour</span>
 			<h5 style="margin-top:8px">Garden Tour @ Bukit Batok Zone 2 RN Cosy Garden</h5>
-			<b>Organiser:</b> Bukit Batok Zone 2 RN<br>
+			<b>Organiser:</b> Bukit Batok Zone 2 RN Cosy Garden<br>
 			<b>Date:</b> 13 April 2025, Sunday<br>
 			<b>Where:</b> 106 Bukit Batok Central, Singapore 650106<br>
 			<b>Enquiries:</b> Email Junaidi at <a href="mailto:pa_bukitbatokcc@pa.gov.sg">pa_bukitbatokcc@pa.gov.sg</a><br><br>
@@ -186,7 +186,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<div class="box">
 			<span class="marketplace-tag">Marketplace</span>
 			<h5 style="margin-top:8px">Easter Green Bazaar</h5>
-			<b>Organiser:</b> Bishan East Zone 1 Green Hub<br>
+			<b>Organiser:</b> Bishan East Zone 1 RN Green Hub<br>
 			<b>Date:</b> 19 April 2025, Saturday<br>
 			<b>Where:</b> 112 Bishan St 12<br>
 			<b>Enquiries:</b> Email Julie Lim at <a href="mailto:juliemylim@yahoo.com.sg">juliemylim@yahoo.com.sg</a> or Fen Ng at <a href="mailto:omgitzfen@rocketmail.com">omgitzfen@rocketmail.com</a><br>
@@ -238,7 +238,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 	<div class="box">
 						<span class="booth-tag">Booth</span>
 			<h5 style="margin-top:8px">Central Singapore Market (CSM) - Garden Booth and Therapeutic Horticulture</h5>
-	 <b>Organisers:</b> Bishan CC Sky Garden &amp; Bishan East Zone 6 167A Rooftop Garden<br>
+	 <b>Organisers:</b> Bishan CC Sky Garden &amp; Bishan East Zone 6 RN 167A Rooftop Garden<br>
 			<b>Date:</b> 27 April 2025, Saturday<br>
 			<b>Where:</b> Bishan Bus Interchange<br>
 			<b>Enquiries:</b> Email Bishan Taskforce at <a href="mailto:bishan.tf@gmail.com">bishan.tf@gmail.com</a><br>
