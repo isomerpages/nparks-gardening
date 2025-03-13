@@ -135,7 +135,8 @@ You are encouraged to contact the organisers directly for specific queries on ev
 		<div class="box">
 			<span class="booth-tag">Booths</span><span class="marketplace-tag">Marketplace</span>
 			<h5 style="margin-top:8px">Sengkang North Eco Fest 2025</h5>
-			<b>Organiser:</b> Compassvale Gardens RC, Compassvale Plains RN, Compassvale Haven RC, Compassvale Villa RC, Sengkang North Youth Network<br>
+			<b>Organiser:</b> Sengkang North Youth Network<br>
+			<b>Supported by:</b> Compassvale Gardens RC, Compassvale Plains RN, Compassvale Haven RC, Compassvale Villa RC<br>
 			<b>Date:</b> 5 April 2025, Saturday<br>
 			<b>Where:</b> Sengkang CC Multi-purpose Hall<br>
 			<b>Enquiries:</b> <a href="https://www.facebook.com/sknyouthnetwork/">Sengkang North Youth Network</a><br><br>
