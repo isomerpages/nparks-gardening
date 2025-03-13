@@ -167,8 +167,8 @@ You are encouraged to contact the organisers directly for specific queries on ev
 	<div class="wrapper">
 		<div class="box">
 			<span class="tour-tag">Tour</span>
-			<h5 style="margin-top:8px">Garden Tour at Toh Yi Community Garden</h5>
-			<b>Organiser:</b> Toh Yi Community Garden<br>
+			<h5 style="margin-top:8px">Garden Tour at Toh Yi RN Community Garden</h5>
+			<b>Organiser:</b> Toh Yi RN Community Garden<br>
 			<b>Date:</b> 13 April 2025, Sunday<br>
 			<b>Where:</b> 4 Toh Yi Drive, Singapore 590004<br>
 			<b>Enquiries:</b> Email Nikki at <a href="mailto:wong_jun_nikki@pa.gov.sg">wong_jun_nikki@pa.gov.sg</a><br><br>
