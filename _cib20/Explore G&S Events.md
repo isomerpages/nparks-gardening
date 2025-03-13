@@ -202,7 +202,8 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Organiser:</b> Nee Soon South Zone C RN <br>
 			<b>Date:</b> 26 April 2025, Saturday<br>
 			<b>Where:</b> 813 Rooftop Landscape &amp; Community Garden<br>
-			<b>Enquiries:</b>
+		<b>Enquiries: </b>Email Mr Toh at <a href="toh.bt@hotmail.com">toh.bt@hotmail.com</a><br>
+		<b>Registration:</b> Email Mr Toh at <a href="toh.bt@hotmail.com">toh.bt@hotmail.com</a><br>
 </div>
 	<div class="box">
 			<span class="tour-tag">Tour</span>
