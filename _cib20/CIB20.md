@@ -29,7 +29,6 @@ description: Celebrate 20 years of Community in Bloom
   }
 </style>
 
-<img style="width:150px; display: inline;" src="/images/CIB20/CIB20_logo_small.png"><br>
 <header>
 <h3>Celebrating 20 Years of Community in Bloom (CIB20)</h3>
 </header>
