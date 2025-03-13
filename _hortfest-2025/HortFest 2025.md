@@ -46,8 +46,7 @@ description: ""
 <section>	
 	<p>Experience the magic of gardening through:
 </p><ul>
-	<li><b>Competition Displays</b> - Marvel at the prize-winning harvests from our Community Garden Edibles and Horticulture Competitions</li>
-	<li>Be captivated by extraordinary displays of gardening excellence. From towering garden sculptures to prize-winning vegetables and meticulously cultivated ornamentals, our Community Garden Edibles and Horticultural Competitions showcase the pinnacle of both edible and ornamental horticulture.</li>
+	<li><b>Competition Displays</b> - Be captivated by extraordinary displays of gardening excellence. From towering garden sculptures to prize-winning vegetables and meticulously cultivated ornamentals, our Community Garden Edibles and Horticultural Competitions showcase the pinnacle of both edible and ornamental horticulture</li>
 	<li><b>CIB20 Celebration Display and Exhibits</b> - Journey through two decades of community gardening milestones in this captivating showcase</li>
 	<li><b>Vibrant Marketplace</b> - Discover gardening treasures, sustainable products, and more</li>
 	<li><b>Living Lab</b> - Having plant pests and soil health issues? Get expert advice at our Plant Health Clinic and learn practical solutions and gain insights to grow healthier plants</li>
