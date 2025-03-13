@@ -14,16 +14,16 @@ sections:
       title: CIB20
       subtitle: Growing community together
       id: infopic
-      description: Celebrate 20 years of Community in Bloom
+      description: Celebrate 20 years of Community in Bloom (CIB)
       button: Join us now!
       url: /cib20
       image: /images/Landing_page/CIB20_logo_landing_middle.png
       alt: Image alt text
   - infopic:
       title: HortFest 2025
-      subtitle: See-d you there
+      subtitle: See you there
       id: infopic
-      description: Celebrating horticulture excellence and community
+      description: Celebrating horticultural excellence and community
       button: Find out more
       image: /images/Landing_page/hortfest_logo_landing_middle.png
       alt: Image alt text
