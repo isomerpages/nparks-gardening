@@ -21,7 +21,7 @@ sections:
       alt: Image alt text
   - infopic:
       title: HortFest 2025
-      subtitle: See you there
+      subtitle: See you there!
       id: infopic
       description: Celebrating horticultural excellence and community
       button: Find out more
