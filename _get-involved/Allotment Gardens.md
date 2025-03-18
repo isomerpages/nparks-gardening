@@ -78,45 +78,45 @@ details[open] > summary {
 	<tbody>
 	<tr>
 		<td>1</td>
-		<td>Aljunied Park</td>
-		<td style="text-align:center">1</td>
-		<td style="text-align:center">Q1 2025</td>		
+		<td>Ang Mo Kio Town Garden West</td>
+		<td style="text-align:center">43</td>
+		<td style="text-align:center">Q2 2025</td>		
 	</tr>
 	<tr>
 		<td>2</td>
 		<td>Bedok Reservoir Park</td>
 		<td style="text-align:center">1</td>
-		<td style="text-align:center">Q1 2025</td>
+		<td style="text-align:center">Q2 2025</td>
 	</tr>
-	<tr>
+		<tr>
 		<td>3</td>
-		<td>Bukit Gombak Park</td>
-		<td style="text-align:center">55</td>
-		<td style="text-align:center">Q1 2025</td>
+		<td>Bishan-Ang Mo Kio Park</td>
+		<td style="text-align:center">1</td>
+		<td style="text-align:center">Q2 2025</td>
 	</tr>
 	<tr>
 		<td>4</td>
-		<td>Choa Chu Kang Park</td>
-		<td style="text-align:center">1</td>
-		<td style="text-align:center">Q1 2025</td>
+		<td>Bukit Gombak Park</td>
+		<td style="text-align:center">2</td>
+		<td style="text-align:center">Q2 2025</td>
 	</tr>
 	<tr>
 		<td>5</td>
 		<td>East Coast Park Area B</td>
-		<td style="text-align:center">28</td>
-		<td style="text-align:center">Q1 2025</td>
+		<td style="text-align:center">4</td>
+		<td style="text-align:center">Q2 2025</td>
 	</tr>
 		<tr>
 		<td>6</td>
 		<td>East Coast Park Area D</td>
-		<td style="text-align:center">31</td>
-		<td style="text-align:center">Q1 2025</td>		
+		<td style="text-align:center">4</td>
+		<td style="text-align:center">Q2 2025</td>		
 	</tr>
 		<tr>
 		<td>7</td>
-		<td>Kallang Riverside Park</td>
-		<td style="text-align:center">11</td>
-		<td style="text-align:center">Q1 2025</td>		
+		<td>HortPark</td>
+		<td style="text-align:center">4</td>
+		<td style="text-align:center">Q2 2025</td>		
 	</tr>
 		<tr>
 		<td>8</td>
