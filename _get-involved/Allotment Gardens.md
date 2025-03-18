@@ -45,6 +45,15 @@ details[open] > summary {
 		border-radius: 10px;
 		padding: 10px;
 	}
+	
+	      .button-primary {
+    background-color: #215732;
+    border: 2px solid #215732;
+    padding: 0.5rem 1rem;
+    border-radius: 1rem;
+    color: white !important;
+    text-decoration: none !important;
+  }
 </style>
 
 <img src="/images/Garden%20design/allotment%20garden%20at%20jurong%20lake%20gardens%20west.jpg">
