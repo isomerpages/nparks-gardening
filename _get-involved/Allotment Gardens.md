@@ -106,7 +106,7 @@ details[open] > summary {
 	<tr>
 		<td>4</td>
 		<td>Bukit Gombak Park</td>
-		<td style="text-align:center">2</td>
+		<td style="text-align:center">4</td>
 		<td style="text-align:center">Q2 2025</td>
 	</tr>
 	<tr>
