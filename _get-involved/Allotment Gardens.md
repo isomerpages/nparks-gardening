@@ -189,9 +189,9 @@ details[open] > summary {
 
 <p>More information on the application terms and conditions (T&amp;Cs) are available in the application system. You are reminded to read the instructions and T&amp;Cs carefully before submitting an application.</p>
 
-<p><strong>Applications are closed.</strong> Applicants will be notified of the outcome of their application via email from AXS by end-Dec 2024.</p>
+<p><a class="button-primary" href="https://e-station2.axs.com.sg">Apply now</a></p>
 
-<p></p><p>For step-by-step guides on how to apply or make payment for the allotment garden plot application via AXS Channels, please click below:</p>
+<p>For step-by-step guides on how to apply or make payment for the allotment garden plot application via AXS Channels, please click below:</p>
 <ul>
 	<li><a href="https://go.gov.sg/nparks-ag-plot-how-to-apply-axs">How to apply</a></li>
 	<li><a href="https://go.gov.sg/nparks-ag-plot-how-to-pay-axs">How to make payment</a> (for successful applicants only)</li>
