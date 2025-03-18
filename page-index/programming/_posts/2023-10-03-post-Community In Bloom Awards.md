@@ -18,7 +18,7 @@ variant: markdown
 
 <section>
 	<h4>CIB Awards</h4>
-	<p>As we are celebrating our <a href="/cib20/">20th anniversary of CIB</a> this year, the Awards will be paused. Community gardening groups can participate in the new '<a href="/grow-and-share-initiative/">Grow and Share</a>' initiative.</p>
+	<p>As we are celebrating our <a href="/cib20/">20th anniversary of CIB</a> in 2025, the Awards will be paused. Community gardening groups can participate in the new '<a href="/grow-and-share-initiative/">Grow and Share</a>' initiative and be one of the first 800 groups to be eligible for a starter pack and a celebration pack.</p>
 	     
 <p>Please email <a href="mailto:communityinbloom@nparks.gov.sg">communityinbloom@nparks.gov.sg</a> or contact your CIB Managers if you need further assistance. </p>
 
