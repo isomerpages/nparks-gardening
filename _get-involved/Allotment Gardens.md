@@ -126,33 +126,33 @@ details[open] > summary {
 	</tr>
 		<tr>
 		<td>9</td>
-		<td>Pasir Ris Park</td>
+		<td>Jurong Lake Gardens</td>
 		<td style="text-align:center">4</td>
-		<td style="text-align:center">Q1 2025</td>		
+		<td style="text-align:center">Q2 2025</td>		
 	</tr>
 		<tr>
 		<td>10</td>
-		<td>Sengkang Riverside Park</td>
-		<td style="text-align:center">3</td>
-		<td style="text-align:center">Q1 2025</td>		
+		<td>Kallang Riverside Park</td>
+		<td style="text-align:center">2</td>
+		<td style="text-align:center">Q2 2025</td>		
 	</tr>
 		<tr>
 		<td>11</td>
-		<td>Sun Plaza Park</td>
+		<td>one-north Park</td>
 		<td style="text-align:center">1</td>
-		<td style="text-align:center">Q1 2025</td>		
+		<td style="text-align:center">Q2 2025</td>		
 	</tr>
 		<tr>
 		<td>12</td>
-		<td>Tiong Bahru Park</td>
-		<td style="text-align:center">16</td>
-		<td style="text-align:center">Q1 2025</td>		
+		<td>Pasir Ris Park</td>
+		<td style="text-align:center">1</td>
+		<td style="text-align:center">Q2 2025</td>		
 	</tr>
 		<tr>
 		<td>13</td>
-		<td>Yishun Park</td>
-		<td style="text-align:center">1</td>
-		<td style="text-align:center">Q1 2025</td>		
+		<td>Punggol Park</td>
+		<td style="text-align:center">88</td>
+		<td style="text-align:center">Q2 2025</td>		
 	</tr>
 	</tbody>
 </table>
