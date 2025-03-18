@@ -120,9 +120,9 @@ details[open] > summary {
 	</tr>
 		<tr>
 		<td>8</td>
-		<td>one-north Park</td>
-		<td style="text-align:center">18</td>
-		<td style="text-align:center">Q1 2025</td>		
+		<td>Jurong Central Park</td>
+		<td style="text-align:center">41</td>
+		<td style="text-align:center">Q2 2025</td>		
 	</tr>
 		<tr>
 		<td>9</td>
