@@ -62,9 +62,9 @@ details[open] > summary {
 
 <h4>How can I apply for an allotment garden plot?</h4>
 
-<p><u><strong>October 2024 Application Exercise (Closed)</strong></u></p>
+<p><u><strong>March 2025 Application Exercise (New!)</strong></u></p>
 
-<p>Applications for allotment garden plots are <b>open from 8 October 2024, 10.00am to 21 October 2024, 11.59pm</b> for the following locations:</p>
+<p>Applications for allotment garden plots are <b>open from 19 March 2025, 10.00am to 1 April 2025, 11.59pm</b> for the following locations:</p>
 
 <table>
 	<thead>
