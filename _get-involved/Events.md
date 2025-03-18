@@ -5,6 +5,10 @@ description: Join a gardening event to meet like-minded gardeners, learn new
   skills, and buy more plants!
 variant: markdown
 ---
+<img title="Community gardeners sharing harvests. Photo by NParks." src="/images/Gardeners/Harvesting%20(4).jpg">
+<p>Discover <a href="/grow-and-share-initiative/">Grow and Share</a> activities happening across Singapore, in celebration of the 20th anniversary of the <a href="/get-involved/community-gardens/">Community in Bloom (CIB) programme</a>!</p>
+
+
 <img title="The marketplace at Gardener's Day Out. Photo by NParks." src="/images/Gardeners/gdo%20marketplace%20(4).jpg">
 <p>The <a href="https://www.nparks.gov.sg/gdo">Gardeners' Day Out</a> at HortPark features gardening bazaars, talks, workshops, tours and more! Now held 4 times a year, it is a must-go for gardeners at any skill level.</p>
 <br><br>
