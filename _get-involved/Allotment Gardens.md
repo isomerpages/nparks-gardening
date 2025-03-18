@@ -136,7 +136,7 @@ details[open] > summary {
 		<tr>
 		<td>9</td>
 		<td>Jurong Lake Gardens</td>
-		<td style="text-align:center">4</td>
+		<td style="text-align:center">164</td>
 		<td style="text-align:center">Q2 2025</td>		
 	</tr>
 		<tr>
