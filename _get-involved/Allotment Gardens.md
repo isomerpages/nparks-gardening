@@ -198,10 +198,10 @@ details[open] > summary {
 </ul>
 
 <p><strong><u>Upcoming Application Exercise</u></strong></p>
-<p>The next application exercised will be held in the 4th quarter of 2025. Follow our social media channels and stay tuned for more updates
+<p>The next application exercise will be held in the 4th quarter of 2025. Follow our social media channels and stay tuned for more updates!
 
-</p><p><strong><u>Previous Application Exercises - June 2024 Application Exercise</u></strong></p>
-<p>All applicants from the June 2024 Application Exercise have been notified of their outcome via email from AXS. Please check your junk mail folder and contact us at <a href="_mailto:allotment_gardening@nparks.gov.sg">allotment_gardening@nparks.gov.sg</a> if you did not receive the email notification.</p> 
+</p><p><strong><u>Previous Application Exercises - October 2024 Application Exercise</u></strong></p>
+<p>All applicants from the October 2024 Application Exercise have been notified of their outcome via email from AXS. Please check your junk mail folder and contact us at <a href="_mailto:allotment_gardening@nparks.gov.sg">allotment_gardening@nparks.gov.sg</a> if you did not receive the email notification.</p> 
 
 <h4>Implementing Allotment Gardens</h4>
 <p>Are you an organisation or grassroot leader who is keen to implement allotment gardens within your premise or housing estate? Check out the ‘<a href="https://go.gov.sg/guide-to-design-allotment-gardens">Guide to Designing and Implementing Allotment Gardens</a>’ to find out how you can do so under the <a href="https://go.gov.sg/community-in-bloom">Community in Bloom</a> programme with your landowner’s support now!</p>
