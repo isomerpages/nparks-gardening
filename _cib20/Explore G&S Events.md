@@ -202,7 +202,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Organiser:</b> Nee Soon South Zone C RN <br>
 			<b>Date:</b> 26 April 2025, Saturday<br>
 			<b>Where:</b> 813 Rooftop Landscape &amp; Community Garden<br>
-		<b>Enquiries: </b>Email Constance Chow at <a href="mailto:cbcskincare@gmail.com">cbcskincare@gmail.com</a> and Tony Sim <a href="mailto:tonysim94@gmail.com">tonysim94@gmail.com</a><br>
+		<b>Enquiries: </b>Email Constance Chow at <a href="mailto:cbcskincare@gmail.com">cbcskincare@gmail.com</a> and Tony Sim at <a href="mailto:tonysim94@gmail.com">tonysim94@gmail.com</a><br>
 		<b>Registration:</b> No registration needed<br>
 </div>
 	<div class="box">
