@@ -154,6 +154,18 @@ details[open] > summary {
 		<td style="text-align:center">88</td>
 		<td style="text-align:center">Q2 2025</td>		
 	</tr>
+		<tr>
+		<td>14</td>
+		<td>Tiong Bahru Park</td>
+		<td style="text-align:center">1</td>
+		<td style="text-align:center">Q2 2025</td>		
+	</tr>
+		<tr>
+		<td>15</td>
+		<td>West Coast Park</td>
+		<td style="text-align:center">2</td>
+		<td style="text-align:center">Q2 2025</td>		
+	</tr>
 	</tbody>
 </table>
 
