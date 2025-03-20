@@ -5,6 +5,31 @@ description: Join a gardening event to meet like-minded gardeners, learn new
   skills, and buy more plants!
 variant: markdown
 ---
+<style>
+	.wrapper {
+		display: grid;
+		grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+		grid-template-rows: auto-fit;
+		column-gap: 10px;
+		row-gap: 10px;
+	}
+
+	.box {
+		border: solid 1px #215732 ;
+		border-radius: 5px;
+		padding: 5px 10px 15px 10px;
+	}
+		
+		  .button-primary {
+    background-color: #215732;
+    border: 2px solid #215732;
+    padding: 0.5rem 1rem;
+  	border-radius: 1rem;
+    color: white !important;
+	  text-decoration: none !important;
+  }
+</style>
+
 <img title="Community gardeners sharing harvests. Photo by NParks." src="/images/Gardeners/Harvesting%20(4).jpg">
 <p>Discover <a href="/grow-and-share-initiative/">Grow and Share</a> activities happening across Singapore, in celebration of the 20th anniversary of the <a href="/get-involved/community-gardens/">Community in Bloom (CIB) programme</a>!</p>
 <p>Celebrate horticultural excellence and the local gardening community at the <a href="/hortfest-2025/">Horticultural Festival 2025</a> from 23 - 31 August 2025 at HortPark.</p>
