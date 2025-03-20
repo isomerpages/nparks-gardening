@@ -49,6 +49,7 @@ variant: markdown
 	</div>
 	<div class="box">
 		<h5>Community Garden Edibles Competition 2025</h5>
+		<img src="“/images/HortFest%20images/CGEC_2025_Card.jpg”"><br>
 		
 	</div>
 </div>
