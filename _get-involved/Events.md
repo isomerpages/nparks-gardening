@@ -73,8 +73,10 @@ variant: markdown
 			<li>17 May 2025</li>
 			<li>23 &amp; 24, 30 &amp; 31 August 2025</li>
 			<li>15 November 2025</li></ul>
-		<a target="“_blank”" class="button-primary" href="https://www.nparks.gov.sg/visit/parks/hortpark/activities/gardeners-day-out">Tell me more!</a>
+		<a target="_blank" class="button-primary" href="https://www.nparks.gov.sg/visit/parks/hortpark/activities/gardeners-day-out">Tell me more!</a>
 	</div>
+	<div class="“box”">
+		<h5>Singapore Garden Festival</h5>
 	</div>
 
 
@@ -84,4 +86,4 @@ variant: markdown
 
 <img title="Community Gardeners from the Northwest CDC arranging plants in their show garden at the 2016 edition of the Singapore Garden Festival. Photo by NParks." src="/images/Gardeners/GeneralMaintainence_JacChua%20(11).jpg">
 <p>The <a href="https://sgf.nparks.gov.sg/">Singapore Garden Festival</a> runs once every two years, and showcases horticultural displays by local and international landscapers, garden designers, and florists. The 2024 edition will run from 3rd-11th August at Suntec Singapore.</p>
-<p>Looking for more green activities? Check out our full list of events, activties and workshops <a href="https://www.nparks.gov.sg/visit/events">here</a>!</p>
+<p>Looking for more green activities? Check out our full list of events, activties and workshops <a href="https://www.nparks.gov.sg/visit/events">here</a>!</p></div>
