@@ -40,7 +40,9 @@ variant: markdown
 	<div class="box">
 		<h5>Horticultural Festival</h5>
 		<img src="/images/HortFest%20images/hortfest_event_card.png"><br>
-		Celebrate horticultural excellence and the local gardening community at the <a href="/hortfest-2025/">Horticultural Festival 2025</a> from 23 - 31 August 2025 at HortPark.
+		Celebrate horticultural excellence and the local gardening community at the Horticultural Festival 2025.  from 23 - 31 August 2025 at HortPark.
+		📆 <br>Date: <br>
+		🌳
 	</div>
 </div>
 
