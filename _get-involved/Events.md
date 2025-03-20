@@ -50,7 +50,7 @@ variant: markdown
 	<div class="box">
 		<h5>Community Garden Edibles Competition 2025</h5>
 		<img src="/images/HortFest%20images/CGEC_2025_Card.jpg"><br>
-		Put your gardening skills to the test in our annual competitions!
+		Put your gardening skills to the test in our annual competitions! Grow your finest fruits, vegetables or herbs and stand a chance to win fantastic prizes.<br><br>
 		<a class="button-primary" href="/community-garden-edibles-competition-2025/">Take part now</a>
 	</div>
 </div>
