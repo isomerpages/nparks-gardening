@@ -37,7 +37,7 @@ variant: markdown
 		Take part in <a href="/grow-and-share-initiative/">Grow and Share</a> activities happening across Singapore, in celebration of the 20th anniversary of the <a href="/get-involved/community-gardens/">Community in Bloom (CIB) programme</a>!<br><br>
 		📆 <b>Date: </b>13 March - 15 November 2025<br>
 		🌳 <b>Venue: </b>Islandwide<br><br>
-		<a target="_blank" class="button-primary" href="/explore-g-s-events/">Browse activities here!</a>
+		<a class="button-primary" href="/explore-g-s-events/">Browse activities here!</a>
 	</div>
 	<div class="box">
 		<h5>Horticultural Festival</h5>
@@ -45,7 +45,7 @@ variant: markdown
 		Celebrate horticultural excellence and the local gardening community at the Horticultural Festival 2025.<br><br>
 		📆 <b>Date: </b>23-31 August 2025<br>
 		🌳 <b>Venue: </b>HortPark<br><br>
-				<a target="_blank" class="button-primary" href="/hortfest-2025/">More details here!</a>
+				<a class="button-primary" href="/hortfest-2025/">More details here!</a>
 	</div>
 	<div class="box">
 		<h5>Community Garden Edibles Competition 2025</h5>
