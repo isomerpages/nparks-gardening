@@ -55,6 +55,10 @@ variant: markdown
 		🍅 <b>Submission: </b>19 August 2025<br><br>
 		<a class="button-primary" href="/community-garden-edibles-competition-2025/">Interested to compete?</a>
 	</div>
+	<div class="“box”">
+		<h5>Horticultural Competition 2025</h5>
+		<img src="“/images/HortFest%20images/Hort_Competition_Card.jpg”"><br>
+	</div>
 </div>
 
 
