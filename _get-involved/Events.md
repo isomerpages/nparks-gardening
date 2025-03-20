@@ -67,8 +67,13 @@ variant: markdown
 	<div class="box">
 		<h5>Gardeners’ Day Out</h5>
 		<img title="The marketplace at Gardener's Day Out. Photo by NParks." src="/images/Gardeners/gdo%20marketplace%20(4).jpg"><br>
-		The Gardeners’ Day Out at HortPark features gardening bazaars, talks, workshops, tours and more! Now held 4 times a year, it is a must-go for gardeners at any skill level.<br>
-		<a class="“button”" href="“https://www.nparks.gov.sg/visit/parks/hortpark/activities/gardeners-day-out”">Let’s go!</a>
+		The Gardeners’ Day Out at HortPark features gardening bazaars, talks, workshops, tours and more! Now held 4 times a year, it is a must-go for gardeners at any skill level.<br><br>
+		📆 <b>Schedule for 2025:</b>
+		<ul>
+			<li>17 May 2025</li>
+			<li>23 &amp; 24, 30 &amp; 31 August 2025</li>
+			<li>15 November 2025</li></ul>
+		<a class="button-primary" href="https://www.nparks.gov.sg/visit/parks/hortpark/activities/gardeners-day-out">Tell me more!</a>
 	</div>
 	</div>
 
