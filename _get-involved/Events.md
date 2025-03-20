@@ -83,10 +83,5 @@ variant: markdown
 	</div>
 	</div>
 
-
-
 <br>
-
-
-<p>The <a href="https://sgf.nparks.gov.sg/">Singapore Garden Festival</a> </p>
 <p>Looking for more green activities? Check out our full list of events, activties and workshops <a href="https://www.nparks.gov.sg/visit/events">here</a>!</p>
