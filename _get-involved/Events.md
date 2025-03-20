@@ -55,21 +55,16 @@ variant: markdown
 		🍅 <b>Submission: </b>19 August 2025<br><br>
 		<a class="button-primary" href="/community-garden-edibles-competition-2025/">Interested to compete?</a>
 	</div>
-	<div class="“box”">
+	<div class="box">
 		<h5>Horticultural Competition 2025</h5>
-		<img src="“/images/HortFest%20images/Hort_Competition_Card.jpg”"><br>
+		<img src="/images/HortFest%20images/Hort_Competition_Card.jpg"><br>
 	</div>
 </div>
 
 
-
-<p></p>
-<p>Keen for a challenge? Take part in the <a href="/community-garden-edibles-competition-2025/">Community Garden Edibles Competition 2025</a> and the <a href="/&quot;/horticultural-competition-2025/&quot;">Horticultural Competition 2025</a>.
-
-
 <br><br>
 <img title="The marketplace at Gardener's Day Out. Photo by NParks." src="/images/Gardeners/gdo%20marketplace%20(4).jpg">
-</p><p>The <a href="https://www.nparks.gov.sg/gdo">Gardeners' Day Out</a> at HortPark features gardening bazaars, talks, workshops, tours and more! Now held 4 times a year, it is a must-go for gardeners at any skill level.</p>
+<p></p><p>The <a href="https://www.nparks.gov.sg/gdo">Gardeners' Day Out</a> at HortPark features gardening bazaars, talks, workshops, tours and more! Now held 4 times a year, it is a must-go for gardeners at any skill level.</p>
 <br><br>
 
 
