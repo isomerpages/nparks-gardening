@@ -33,9 +33,11 @@ variant: markdown
 <div class="wrapper">
   <div class="box">
 		<h5>Grow and Share Initiative</h5>
-		<img title="Community gardeners sharing harvests. Photo by NParks." src="/images/Gardeners/Harvesting%20(4).jpg">
-		<p>Take part in <a href="/grow-and-share-initiative/">Grow and Share</a> activities happening across Singapore, in celebration of the 20th anniversary of the <a href="/get-involved/community-gardens/">Community in Bloom (CIB) programme</a>!</p>
+		<img title="Community gardeners sharing harvests. Photo by NParks." src="/images/Gardeners/Harvesting%20(4).jpg"><br>
+		Take part in <a href="/grow-and-share-initiative/">Grow and Share</a> activities happening across Singapore, in celebration of the 20th anniversary of the <a href="/get-involved/community-gardens/">Community in Bloom (CIB) programme</a>!<br><br>
 		<a class="button-primary" href="/explore-g-s-events/">Browse activities here!</a>
+	</div>
+	<div class="box">
 	</div>
 </div>
 
