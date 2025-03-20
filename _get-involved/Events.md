@@ -64,16 +64,16 @@ variant: markdown
 		<br><br>
 		<a class="button-primary" href="/horticultural-competition-2025/">Sign up now!</a>
 	</div>
-	<div class="“box”">
+	<div class="box">
 		<h5>Gardeners’ Day Out</h5>
 		<img title="The marketplace at Gardener's Day Out. Photo by NParks." src="/images/Gardeners/gdo%20marketplace%20(4).jpg"><br>
+		The Gardeners’ Day Out at HortPark features gardening bazaars, talks, workshops, tours and more! Now held 4 times a year, it is a must-go for gardeners at any skill level.<br>
 	</div>
-The <a href="https://www.nparks.gov.sg/gdo">Gardeners' Day Out</a> at HortPark features gardening bazaars, talks, workshops, tours and more! Now held 4 times a year, it is a must-go for gardeners at any skill level.
 	</div>
 
 
 
-
+<br>
 
 
 <img title="Community Gardeners from the Northwest CDC arranging plants in their show garden at the 2016 edition of the Singapore Garden Festival. Photo by NParks." src="/images/Gardeners/GeneralMaintainence_JacChua%20(11).jpg">
