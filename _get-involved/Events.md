@@ -30,8 +30,17 @@ variant: markdown
   }
 </style>
 
-<img title="Community gardeners sharing harvests. Photo by NParks." src="/images/Gardeners/Harvesting%20(4).jpg">
-<p>Discover <a href="/grow-and-share-initiative/">Grow and Share</a> activities happening across Singapore, in celebration of the 20th anniversary of the <a href="/get-involved/community-gardens/">Community in Bloom (CIB) programme</a>!</p>
+<div class="wrapper">
+  <div class="box">
+		<h5>Grow and Share Initiative</h5>
+		<img title="Community gardeners sharing harvests. Photo by NParks." src="/images/Gardeners/Harvesting%20(4).jpg">
+		<p>Take part in <a href="/grow-and-share-initiative/">Grow and Share</a> activities happening across Singapore, in celebration of the 20th anniversary of the <a href="/get-involved/community-gardens/">Community in Bloom (CIB) programme</a>!</p>
+		<a class="button-primary" href="/explore-g-s-events/">Browse activities here!</a>
+	</div>
+</div>
+
+
+
 <p>Celebrate horticultural excellence and the local gardening community at the <a href="/hortfest-2025/">Horticultural Festival 2025</a> from 23 - 31 August 2025 at HortPark.</p>
 <p>Keen for a challenge? Take part in the <a href="/community-garden-edibles-competition-2025/">Community Garden Edibles Competition 2025</a> and the <a href="/&quot;/horticultural-competition-2025/&quot;">Horticultural Competition 2025</a>.
 
