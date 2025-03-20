@@ -69,7 +69,7 @@ variant: markdown
 		<img title="The marketplace at Gardener's Day Out. Photo by NParks." src="/images/Gardeners/gdo%20marketplace%20(4).jpg"><br>
 		The Gardeners’ Day Out at HortPark features gardening bazaars, talks, workshops, tours and more! Now held 4 times a year, it is a must-go for gardeners at any skill level.<br><br>
 		📆 <b>Schedule for 2025:</b>
-		<ul style="“font-size:10px”">
+		<ul style="font-size:10px">
 			<li>17 May 2025</li>
 			<li>23 &amp; 24, 30 &amp; 31 August 2025</li>
 			<li>15 November 2025</li></ul>
@@ -79,7 +79,7 @@ variant: markdown
 		<h5>Singapore Garden Festival</h5>
 		<img title="Community Gardeners from the Northwest CDC arranging plants in their show garden at the 2016 edition of the Singapore Garden Festival. Photo by NParks." src="/images/Gardeners/GeneralMaintainence_JacChua%20(11).jpg"><br>
 		The Singapore Garden Festival runs once every two years, and showcases horticultural displays by local and international landscapers, garden designers, and florists. The 2024 edition ran from 3rd-11th August at Suntec Singapore.<br><br>
-		<a target="“_blank”" class="button-primary" href="https://sgf.nparks.gov.sg">Check out show highlights</a>
+		<a target="_blank" class="button-primary" href="https://sgf.nparks.gov.sg">Check out show highlights</a>
 	</div>
 	</div>
 
