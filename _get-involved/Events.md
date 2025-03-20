@@ -73,7 +73,7 @@ variant: markdown
 			<li>17 May 2025</li>
 			<li>23 &amp; 24, 30 &amp; 31 August 2025</li>
 			<li>15 November 2025</li></ul>
-		<a class="button-primary" href="https://www.nparks.gov.sg/visit/parks/hortpark/activities/gardeners-day-out">Tell me more!</a>
+		<a target="“_blank”" class="button-primary" href="https://www.nparks.gov.sg/visit/parks/hortpark/activities/gardeners-day-out">Tell me more!</a>
 	</div>
 	</div>
 
