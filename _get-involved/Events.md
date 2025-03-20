@@ -79,7 +79,7 @@ variant: markdown
 		<h5>Singapore Garden Festival</h5>
 		<img title="Community Gardeners from the Northwest CDC arranging plants in their show garden at the 2016 edition of the Singapore Garden Festival. Photo by NParks." src="/images/Gardeners/GeneralMaintainence_JacChua%20(11).jpg"><br>
 		The Singapore Garden Festival runs once every two years, and showcases horticultural displays by local and international landscapers, garden designers, and florists. The 2024 edition ran from 3rd-11th August at Suntec Singapore.<br><br>
-		<a class="button-primary" href="https://sgf.nparks.gov.sg">Check out show highlights</a>
+		<a target="“_blank”" class="button-primary" href="https://sgf.nparks.gov.sg">Check out show highlights</a>
 	</div>
 	</div>
 
