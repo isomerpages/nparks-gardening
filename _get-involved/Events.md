@@ -60,7 +60,7 @@ variant: markdown
 		<img src="/images/HortFest%20images/Hort_Competition_Card.jpg"><br>
 		Demonstrate your green thumbs and display your prized plants across four plant categories. Compete for coveted awards and medals, including the prestigious City in Nature Challenge Cup!<br><br>
 		📆 <b>Registration: </b> til 14 April 2025<br>
-		
+		🌿
 		<br><br>
 		<a class="“button-primary”" href="“/horticultural-competition-2025/“">Sign up now!</a>
 	</div>
