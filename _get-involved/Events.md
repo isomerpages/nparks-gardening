@@ -62,7 +62,7 @@ variant: markdown
 		📆 <b>Registration: </b> til 14 August 2025<br>
 		🌿 <b>Submission: </b>21 August 2025 (9am-5pm)
 		<br><br>
-		<a class="“button-primary”" href="/horticultural-competition-2025/">Sign up now!</a>
+		<a class="button-primary" href="/horticultural-competition-2025/">Sign up now!</a>
 	</div>
 </div>
 
