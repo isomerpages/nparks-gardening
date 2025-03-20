@@ -68,6 +68,7 @@ variant: markdown
 		<h5>Gardeners’ Day Out</h5>
 		<img title="The marketplace at Gardener's Day Out. Photo by NParks." src="/images/Gardeners/gdo%20marketplace%20(4).jpg"><br>
 		The Gardeners’ Day Out at HortPark features gardening bazaars, talks, workshops, tours and more! Now held 4 times a year, it is a must-go for gardeners at any skill level.<br>
+		<a class="“button”" href="“https://www.nparks.gov.sg/visit/parks/hortpark/activities/gardeners-day-out”">Let’s go!</a>
 	</div>
 	</div>
 
