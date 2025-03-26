@@ -115,6 +115,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 				<td><a style="text-decoration:none" href="#13-19Apr">13-19 April</a></td>
 				<td><a style="text-decoration:none" href="#20-26Apr">20-26 April</a></td>
 				<td><a style="text-decoration:none" href="#27-30Apr">27-30 April</a></td>
+				<td><a style="text-decoration:none" href="#8-14Jun">8-14 June</a></td>
 			</tr>
 		</tbody>
 		</table>
@@ -244,6 +245,17 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Enquiries:</b> Email Bishan Taskforce at <a href="mailto:bishan.tf@gmail.com">bishan.tf@gmail.com</a><br>
 		<b>Registration:</b> No registration needed<br><br>
 		<a target="_blank" class="button-primary" href="https://www.facebook.com/BishanCommunityClub">Find out more</a>
+</div></div>
+	<h5 id="8-14Jun">8 - 14 June 2025</h5>
+	<div class="wrapper">
+	<div class="box">
+						<span class="workshop-tag">Workshop</span>
+			<h5 style="margin-top:8px">Organic Compost</h5>
+	 <b>Organisers:</b> Garden Greens (Paper Innovation Pte Ltd)<br>
+			<b>Date:</b> 8 June 2025, Sunday<br>
+			<b>Where:</b> 40 Ubi Techpark, #01-04 Ubi Crescent, S(408567)<br>
+			<b>Enquiries:</b> Email Arthur at <a href="mailto:bishan.tf@gmail.com">arthur@print-it.com.sg</a><br>
+		<b>Registration:</b> No registration needed, walk-ins accepted<br>
 </div></div>
 </section>
 <br>
