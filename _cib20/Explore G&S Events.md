@@ -246,5 +246,17 @@ You are encouraged to contact the organisers directly for specific queries on ev
 		<b>Registration:</b> No registration needed<br><br>
 		<a target="_blank" class="button-primary" href="https://www.facebook.com/BishanCommunityClub">Find out more</a>
 </div></div>
+	<h5 id="8-14Jun">8 - 14 June 2025</h5>
+	<div class="wrapper">
+	<div class="box">
+						<span class="workshop-tag">Workshop</span>
+			<h5 style="margin-top:8px">Organic Compost</h5>
+	 <b>Organisers:</b> Garden Greens (Paper Innovation Pte Ltd)<br>
+			<b>Date:</b> 8 June 2025, Sunday<br>
+			<b>Where:</b> Bishan Bus Interchange<br>
+			<b>Enquiries:</b> Email Bishan Taskforce at <a href="mailto:bishan.tf@gmail.com">bishan.tf@gmail.com</a><br>
+		<b>Registration:</b> No registration needed<br><br>
+		<a target="_blank" class="button-primary" href="https://www.facebook.com/BishanCommunityClub">Find out more</a>
+</div></div>
 </section>
 <br>
