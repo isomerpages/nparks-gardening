@@ -71,7 +71,7 @@ details[open] > summary {
 
 <h4>How can I apply for an allotment garden plot?</h4>
 
-<p><strong><u>March 2025 Application Exercise</u> (New!)</strong></p>
+<p><strong><u>March 2025 Application Exercise</u> (Closed)</strong></p>
 
 <p>Applications for allotment garden plots are <b>open from 19 March 2025, 10.00am to 1 April 2025, 11.59pm</b> for the following locations:</p>
 
@@ -189,13 +189,13 @@ details[open] > summary {
 
 <p>More information on the application terms and conditions (T&amp;Cs) are available in the application system. You are reminded to read the instructions and T&amp;Cs carefully before submitting an application.</p>
 
-<p><a target="_blank" class="button-primary" href="https://e-station2.axs.com.sg">Apply now</a></p>
-
 <p>For step-by-step guides on how to apply or make payment for the allotment garden plot application via AXS Channels, please click below:</p>
 <ul>
 	<li><a href="https://go.gov.sg/nparks-ag-plot-how-to-apply-axs">How to apply</a></li>
 	<li><a href="https://go.gov.sg/nparks-ag-plot-how-to-pay-axs">How to make payment</a> (for successful applicants only)</li>
 </ul>
+
+<p><strong>Applications are now closed.</strong> Plots will be assigned by via ballot. Applicants will be notified via email from AXS on the outcome of their application by mid-June 2025.</p>
 
 <p><strong><u>Future Application Exercise</u></strong></p>
 <p>The next application exercise will be held in the 4th quarter of 2025. Follow our social media channels and stay tuned for more updates!
@@ -417,4 +417,4 @@ details[open] > summary {
 
 <br>
 <p>Can't find what you're looking for? Submit your enquiries via our <a href="http://www.nparks.gov.sg/feedback">Feedback Form</a>.</p>
-<p>For questions related to the October 2024 Application Exercise (such as instructions to apply via AXS), please contact <b>AXS Customer Service at 6560 2727</b> (8.30am - 6pm daily).</p>
+<p>For questions related to the March 2025 Application Exercise (such as instructions to apply via AXS), please contact <b>AXS Customer Service at 6560 2727</b> (8.30am - 6pm daily).</p>
