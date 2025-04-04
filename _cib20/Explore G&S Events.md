@@ -186,6 +186,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<h5 style="margin-top:8px">Garden Tour @ Bukit Batok Zone 2 RN Cosy Garden</h5>
 			<b>Organiser:</b> Bukit Batok Zone 2 RN Cosy Garden<br>
 			<b>Date:</b> 13 April 2025, Sunday<br>
+			<b>Time: </b>9.30am-11.30am<br>
 			<b>Where:</b> 106 Bukit Batok Central, Singapore 650106<br>
 			<b>Enquiries:</b> Email Junaidi at <a href="mailto:pa_bukitbatokcc@pa.gov.sg">pa_bukitbatokcc@pa.gov.sg</a><br><br>
 				<a target="_blank" class="button-primary" href="https://form.gov.sg/67ce686ef5c0e1ac85467eb4">Register here</a>
