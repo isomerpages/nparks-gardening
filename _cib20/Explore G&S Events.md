@@ -256,13 +256,13 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Registration: </b>No registration needed, walk-ins are accepted
 </div>
 				<div class="box">
-			<span class="booth-tag">Booth</span>
+			<span class="booth-tag">Booth</span><span class="workshop-tag">Workshop</span>
 			<h5 style="margin-top:8px">Nurture Nature, World Earth Day Celebration</h5>
 			<b>Organiser:</b> Garden of Bees and Blooms (Woodlands Zone 2 RN)<br>
 			<b>Date:</b> 26 April 2025, Saturday<br>
 		<b>Time: </b>9.00am-11.00am<br>
 			<b>Where:</b> Kampung Admiralty, 676 Woodlands Drive 71, Singapore 730676<br>
-			<b>Enquiries:</b> <a href="https://www.facebook.com/WoodlandsZ9/?locale=hr_HR">Woodlands Zone 9 Facebook</a> or email Rena Tan at <a href="mailto:renalianatan0@gmail.com">renalianatan0@gmail.com</a><br><br>
+			<b>Enquiries:</b> Email Lalithama Nair at <a href="mailto:pankypachan@hotmail.com">pankypachan@hotmail.com</a><br><br>
 			<b>Registration: </b>No registration needed, walk-ins are accepted
 </div>
 		</div>
