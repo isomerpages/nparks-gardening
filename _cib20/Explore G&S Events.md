@@ -245,6 +245,16 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Enquiries:</b> Email Danny at <a href="mailto:pa_bukitbatokcc@pa.gov.sg">pa_bukitbatokcc@pa.gov.sg</a><br><br>
 		<a target="_blank" class="button-primary" href="https://www.onepa.gov.sg/events/bbz3-distillation-demo-and-educational-garden-tour-52018954">Register here</a>
 </div>
+		<div class="box">
+			<span class="booth-tag">Booth</span>
+			<h5 style="margin-top:8px">Earth Day</h5>
+			<b>Organiser:</b> Blossom Cottage Community Garden and Spring Cottage Community Garden <br>
+			<b>Date:</b> 26 April 2025, Saturday<br>
+		<b>Time: </b>9.00am-11.00am<br>
+			<b>Where:</b> Kampung Admiralty, 676 Woodlands Drive 71, Singapore 730676<br>
+			<b>Enquiries:</b> <a href="https://www.facebook.com/WoodlandsZ9/?locale=hr_HR">Woodlands Zone 9 Facebook</a> or email Rena Tan at <a href="mailto:renalianatan0@gmail.com">renalianatan0@gmail.com</a><br><br>
+			<b>Registration: </b>No registration needed, walk-ins are accepted
+</div>
 		</div>
 			<h5 id="27-30Apr">27 - 30 April 2025</h5>
 	<div class="wrapper">
