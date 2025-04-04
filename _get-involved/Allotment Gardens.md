@@ -195,15 +195,15 @@ details[open] > summary {
 	<li><a href="https://go.gov.sg/nparks-ag-plot-how-to-pay-axs">How to make payment</a> (for successful applicants only)</li>
 </ul>
 
-<p><strong>Applications are now closed.</strong> Plots will be assigned by via ballot. Applicants will be notified via email from AXS on the outcome of their application by mid-June 2025.</p>
+<p><strong>Applications are now closed.</strong> Plots will be assigned by via ballot. Applicants will be notified via email from AXS on the outcome of their application by mid-June 2025.</p> 
+
+<p>For questions related to the March 2025 Application Exercise, please contact AXS Customer Service at 6560 2727 (8.30am - 6pm daily).</p>
 
 <p><strong><u>Future Application Exercise</u></strong></p>
 <p>The next application exercise will be held in the 4th quarter of 2025. Follow our social media channels and stay tuned for more updates!
 
-</p><p><strong><u>Previous Application Exercises - October 2024 Application Exercise</u></strong></p>
-<p>All applicants from the October 2024 Application Exercise have been notified of their outcome via email from AXS. Please check your junk mail folder and contact us at <a href="_mailto:allotment_gardening@nparks.gov.sg">allotment_gardening@nparks.gov.sg</a> if you did not receive the email notification.</p> 
 
-<h4>Implementing Allotment Gardens</h4>
+</p><h4>Implementing Allotment Gardens</h4>
 <p>Are you an organisation or grassroot leader who is keen to implement allotment gardens within your premise or housing estate? Check out the ‘<a href="https://go.gov.sg/guide-to-design-allotment-gardens">Guide to Designing and Implementing Allotment Gardens</a>’ to find out how you can do so under the <a href="https://go.gov.sg/community-in-bloom">Community in Bloom</a> programme with your landowner’s support now!</p>
 
 <p></p><h4>Frequently Asked Questions (FAQs)</h4>
@@ -303,7 +303,7 @@ details[open] > summary {
 				</details>
 				<details>
 					<summary>Who can I approach when there is a beehive, rodents or other wildlife present in my plot?</summary>
-						<p style="margin-top: 5px; margin-bottom: 25px">Please contact NParks via this <a href="http://www.nparks.gov.sg/feedback">Feedback Form</a> to seek assistance.</p>
+						<p style="margin-top: 5px; margin-bottom: 25px">Please contact NParks via this <a href="https://form.gov.sg/661f31fc10ad92e3036d69db">Feedback Form</a> to seek assistance. </p>
 				</details>
 		</div>
 	</li>
@@ -417,4 +417,3 @@ details[open] > summary {
 
 <br>
 <p>Can't find what you're looking for? Submit your enquiries via our <a href="http://www.nparks.gov.sg/feedback">Feedback Form</a>.</p>
-<p>For questions related to the March 2025 Application Exercise (such as instructions to apply via AXS), please contact <b>AXS Customer Service at 6560 2727</b> (8.30am - 6pm daily).</p>

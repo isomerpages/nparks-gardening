@@ -125,20 +125,12 @@ You are encouraged to contact the organisers directly for specific queries on ev
 	<h5 id="1-5Apr">1 - 5 April 2025</h5>
 	<div class="wrapper">
 		<div class="box">
-			<span class="tour-tag">Tour</span>
-			<h5 style="margin-top:8px">Garden Tour at Jurong Central Zone D RN 'Sky Garden'</h5>
-			<b>Organiser:</b> Jurong Central Zone D RN 'Sky Garden'<br>
-			<b>Date:</b> 1 April 2025, Tuesday<br>
-			<b>Where:</b> 372A Jurong East Street 32 Multi-Storey Carpark<br>
-			<b>Enquiries: </b>Email Kamisah Atan at <a href="mailto:sunhabel@gmail.com">sunhabel@gmail.com</a><br><br>
-							<a target="_blank" class="button-primary" href="https://form.gov.sg/67c98e93abcf635aba572001">Register here</a>
-		</div>
-		<div class="box">
 			<span class="booth-tag">Booths</span><span class="marketplace-tag">Marketplace</span>
 			<h5 style="margin-top:8px">Sengkang North Eco Fest 2025</h5>
 			<b>Organiser:</b> Sengkang North Youth Network<br>
 			<b>Supported by:</b> Compassvale Gardens RC, Compassvale Plains RN, Compassvale Haven RC, Compassvale Villa RC<br>
 			<b>Date:</b> 5 April 2025, Saturday<br>
+			<b>Time: </b>10.00am-2.00pm<br>
 			<b>Where:</b> Sengkang CC Multi-purpose Hall<br>
 			<b>Enquiries:</b> <a target="_blank" href="https://www.facebook.com/sknyouthnetwork/">Sengkang North Youth Network</a><br><br>
 			<b>Registration: </b>No registration is needed<br>
@@ -147,8 +139,18 @@ You are encouraged to contact the organisers directly for specific queries on ev
 		<h5 id="6-12Apr">6 - 12 April 2025</h5>
 	<div class="wrapper">
 		<div class="box">
+				<span class="workshop-tag">Workshop</span><span class="talk-tag">Talk</span>
+			<h5 style="margin-top:8px">Storytelling with Zhang Lao Shi</h5>
+			<b>Organiser:</b> 乐园<br>
+			<b>Date:</b> 6 April 2025, Sunday<br>
+			<b>Where:</b> 乐园 @ Blk 925 #01-41, Hougang St 91 Singapore 530925<br>
+			<b>Enquiries: </b><a href="mailto:catherinezj521@yahoo.com.sg">catherinezj521@yahoo.com.sg</a><br><br>
+			<b>Registration: </b> No registration is needed, walk-ins are accepted
+		</div>
+		<div class="box">
 				<span class="tour-tag">Tour</span>
-			<h5 style="margin-top:8px">Community Garden Tours in Tiong Bahru</h5>Organiser: The Giving Garden @ Kim Tian West<br>
+			<h5 style="margin-top:8px">Community Garden Tours in Tiong Bahru</h5>
+			<b>Organiser:</b> The Giving Garden @ Kim Tian West<br>
 			<b>Date:</b> 12 April 2025, Saturday<br>
 			<b>Where:</b> Tiong Bahru Community Centre<br>
 			<b>Enquiries: </b><a href="mailto:tcg.ktwrc@gmail.com">tcg.ktwrc@gmail.com</a><br><br>
