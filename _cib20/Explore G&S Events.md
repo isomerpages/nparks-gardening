@@ -139,14 +139,14 @@ You are encouraged to contact the organisers directly for specific queries on ev
 		<h5 id="6-12Apr">6 - 12 April 2025</h5>
 	<div class="wrapper">
 		<div class="box">
-				<span class="workshop-tag">Workshop</span><span class="talk-tag">Talk</span>
+				<span class="talk-tag">Talk</span>
 			<h5 style="margin-top:8px">Storytelling with Zhang Lao Shi</h5>
 			<b>Organiser:</b> 乐园<br>
 			<b>Date:</b> 6 April 2025, Sunday<br>
 			<b>Time: </b>5.00pm-6.30pm<br>
 			<b>Where:</b> 乐园 @ Blk 925 #01-41, Hougang St 91 Singapore 530925<br>
-			<b>Enquiries: </b><a href="mailto:catherinezj521@yahoo.com.sg">catherinezj521@yahoo.com.sg</a><br><br>
-			<b>Registration: </b> No registration is needed, walk-ins are accepted
+			<b>Enquiries: </b><a href="https://www.facebook.com/share/p/154EZHPVBx/">Ang Mo Kio-Hougang Lavender RN Facebook</a><br><br>
+			<b>Registration: </b> Contact Ang Mo Kio-Hougang Lavender RN at 8733 5248 (first-come-first-serve basis)
 		</div>
 		<div class="box">
 				<span class="tour-tag">Tour</span>
