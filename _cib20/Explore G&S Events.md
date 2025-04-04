@@ -151,7 +151,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 		<div class="box">
 				<span class="tour-tag">Tour</span>
 			<h5 style="margin-top:8px">Community Garden Tours in Tiong Bahru</h5>
-			<b>Organiser:</b> The Giving Garden @ Kim Tian West<br>
+			<b>Organisers:</b> TBCC GIVE Garden, Seng Poh RC GIVE Garden, Farm Gaya Community Garden &amp; The Giving Garden @ Kim Tian West<br>
 			<b>Date:</b> 12 April 2025, Saturday<br>
 			<b>Time: </b>9.00am-12.00pm<br>
 			<b>Where:</b> Tiong Bahru Community Centre<br>
