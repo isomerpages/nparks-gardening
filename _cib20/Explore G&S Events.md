@@ -147,6 +147,14 @@ You are encouraged to contact the organisers directly for specific queries on ev
 		<h5 id="6-12Apr">6 - 12 April 2025</h5>
 	<div class="wrapper">
 		<div class="box">
+				<span class="workshop-tag">Workshop</span><span class="talk-tag">Talk</span>
+			<h5 style="margin-top:8px">Storytelling with Zhang Lao Shi</h5>Organiser: The Giving Garden @ Kim Tian West<br>
+			<b>Date:</b> 12 April 2025, Saturday<br>
+			<b>Where:</b> Tiong Bahru Community Centre<br>
+			<b>Enquiries: </b><a href="mailto:tcg.ktwrc@gmail.com">tcg.ktwrc@gmail.com</a><br><br>
+			<a target="_blank" class="button-primary" href="https://www.onepa.gov.sg/events/community-garden-tours-at-tiong-bahru-81896847">Register here</a>
+		</div>
+		<div class="box">
 				<span class="tour-tag">Tour</span>
 			<h5 style="margin-top:8px">Community Garden Tours in Tiong Bahru</h5>Organiser: The Giving Garden @ Kim Tian West<br>
 			<b>Date:</b> 12 April 2025, Saturday<br>
