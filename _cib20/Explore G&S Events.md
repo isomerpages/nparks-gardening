@@ -148,7 +148,8 @@ You are encouraged to contact the organisers directly for specific queries on ev
 	<div class="wrapper">
 		<div class="box">
 				<span class="workshop-tag">Workshop</span><span class="talk-tag">Talk</span>
-			<h5 style="margin-top:8px">Storytelling with Zhang Lao Shi</h5>Organiser: The Giving Garden @ Kim Tian West<br>
+			<h5 style="margin-top:8px">Storytelling with Zhang Lao Shi</h5>
+			<b>Organiser:</b> 乐园<br>
 			<b>Date:</b> 12 April 2025, Saturday<br>
 			<b>Where:</b> Tiong Bahru Community Centre<br>
 			<b>Enquiries: </b><a href="mailto:tcg.ktwrc@gmail.com">tcg.ktwrc@gmail.com</a><br><br>
@@ -156,7 +157,8 @@ You are encouraged to contact the organisers directly for specific queries on ev
 		</div>
 		<div class="box">
 				<span class="tour-tag">Tour</span>
-			<h5 style="margin-top:8px">Community Garden Tours in Tiong Bahru</h5>Organiser: The Giving Garden @ Kim Tian West<br>
+			<h5 style="margin-top:8px">Community Garden Tours in Tiong Bahru</h5>
+			<b>Organiser:</b> The Giving Garden @ Kim Tian West<br>
 			<b>Date:</b> 12 April 2025, Saturday<br>
 			<b>Where:</b> Tiong Bahru Community Centre<br>
 			<b>Enquiries: </b><a href="mailto:tcg.ktwrc@gmail.com">tcg.ktwrc@gmail.com</a><br><br>
