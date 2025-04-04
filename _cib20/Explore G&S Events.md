@@ -248,7 +248,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 		<div class="box">
 			<span class="booth-tag">Booth</span>
 			<h5 style="margin-top:8px">Earth Day</h5>
-			<b>Organiser:</b> Blossom Cottage Community Garden and Spring Cottage Community Garden (Woodlands Zone 9 RN) <br>
+			<b>Organiser:</b> Blossom Cottage Community Garden and Spring Cottage Community Garden <br>
 			<b>Date:</b> 26 April 2025, Saturday<br>
 		<b>Time: </b>9.00am-11.00am<br>
 			<b>Where:</b> Kampung Admiralty, 676 Woodlands Drive 71, Singapore 730676<br>
