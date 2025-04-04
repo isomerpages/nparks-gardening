@@ -143,6 +143,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<h5 style="margin-top:8px">Storytelling with Zhang Lao Shi</h5>
 			<b>Organiser:</b> 乐园<br>
 			<b>Date:</b> 6 April 2025, Sunday<br>
+			<b>Time: </b>5.00pm-6.30pm<br>
 			<b>Where:</b> 乐园 @ Blk 925 #01-41, Hougang St 91 Singapore 530925<br>
 			<b>Enquiries: </b><a href="mailto:catherinezj521@yahoo.com.sg">catherinezj521@yahoo.com.sg</a><br><br>
 			<b>Registration: </b> No registration is needed, walk-ins are accepted
@@ -152,6 +153,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<h5 style="margin-top:8px">Community Garden Tours in Tiong Bahru</h5>
 			<b>Organiser:</b> The Giving Garden @ Kim Tian West<br>
 			<b>Date:</b> 12 April 2025, Saturday<br>
+			<b>Time: </b>9.00am-12.00pm<br>
 			<b>Where:</b> Tiong Bahru Community Centre<br>
 			<b>Enquiries: </b><a href="mailto:tcg.ktwrc@gmail.com">tcg.ktwrc@gmail.com</a><br><br>
 			<a target="_blank" class="button-primary" href="https://www.onepa.gov.sg/events/community-garden-tours-at-tiong-bahru-81896847">Register here</a>
@@ -161,6 +163,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<h5 style="margin-top:8px">Garden Tour @ Funtasia Garden</h5>
 			<b>Organiser:</b> Teban Gardens RN<br>
 			<b>Date:</b> 12 April 2025, Sunday<br>
+				<b>Time: </b>9.00am-10.00am<br>
 			<b>Where:</b> 32 Teban Gardens Road<br>
 				<b>Enquiries: </b>Email Mr Teoh at <a href="mailto:c.teoh65@gmail.com">c.teoh65@gmail.com</a><br><br><br>
 				<a target="_blank" class="button-primary" href="https://form.gov.sg/67cd2345299fcadc17ce1e28">Register here</a>
