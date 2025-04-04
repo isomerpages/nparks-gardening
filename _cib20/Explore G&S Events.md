@@ -220,6 +220,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<h5 style="margin-top:8px">Garden Open House at Sennett Community Harvest Hub</h5>
 			<b>Organiser:</b> Sennett Community Harvest Hub <br>
 			<b>Date:</b> 26 April 2025, Saturday<br>
+		<b>Time: </b>[to be announced]<br>
 			<b>Where: </b>69 Wan Tho Ave<br>
 			<b>Enquiries: </b><a href="mailto:pa.potongpasircc@pa.gov.sg">pa.potongpasircc@pa.gov.sg</a><br><br>
 		<a target="_blank" class="button-primary" href="https://go.gov.sg/sernharvest">Register here</a>
