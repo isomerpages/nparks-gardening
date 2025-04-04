@@ -196,6 +196,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<h5 style="margin-top:8px">Easter Green Bazaar</h5>
 			<b>Organiser:</b> Bishan East Zone 1 RN Green Hub<br>
 			<b>Date:</b> 19 April 2025, Saturday<br>
+				<b>Time: </b>9.00am-5.00pm<br>
 			<b>Where:</b> 112 Bishan St 12<br>
 			<b>Enquiries:</b> Email Julie Lim at <a href="mailto:juliemylim@yahoo.com.sg">juliemylim@yahoo.com.sg</a> or Fen Ng at <a href="mailto:omgitzfen@rocketmail.com">omgitzfen@rocketmail.com</a><br>
 				<b>Registration:</b> No registration needed<br><br>
