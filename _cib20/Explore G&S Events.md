@@ -150,8 +150,8 @@ You are encouraged to contact the organisers directly for specific queries on ev
 				<span class="workshop-tag">Workshop</span><span class="talk-tag">Talk</span>
 			<h5 style="margin-top:8px">Storytelling with Zhang Lao Shi</h5>
 			<b>Organiser:</b> 乐园<br>
-			<b>Date:</b> 12 April 2025, Saturday<br>
-			<b>Where:</b> Tiong Bahru Community Centre<br>
+			<b>Date:</b> 6 April 2025, Sunday<br>
+			<b>Where:</b> 乐园 @ Blk 925 #01-41, Hougang St 91 Singapore 530925<br>
 			<b>Enquiries: </b><a href="mailto:tcg.ktwrc@gmail.com">tcg.ktwrc@gmail.com</a><br><br>
 			<a target="_blank" class="button-primary" href="https://www.onepa.gov.sg/events/community-garden-tours-at-tiong-bahru-81896847">Register here</a>
 		</div>
