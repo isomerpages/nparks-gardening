@@ -240,6 +240,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<h5 style="margin-top:8px">Distillation Demo Session and Educational Garden Tour</h5>
 			<b>Organiser:</b> Bukit Batok Central Educational Garden <br>
 			<b>Date:</b> 26 April 2025, Saturday<br>
+		<b>Time: </b>10.00am<br>
 			<b>Where:</b> Sheltered Hardcourt at Blk 622B Bukit Batok Central, Singapore 652622<br>
 			<b>Enquiries:</b> Email Danny at <a href="mailto:pa_bukitbatokcc@pa.gov.sg">pa_bukitbatokcc@pa.gov.sg</a><br><br>
 		<a target="_blank" class="button-primary" href="https://www.onepa.gov.sg/events/bbz3-distillation-demo-and-educational-garden-tour-52018954">Register here</a>
@@ -252,6 +253,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<h5 style="margin-top:8px">Central Singapore Market (CSM) - Garden Booth and Therapeutic Horticulture</h5>
 	 <b>Organisers:</b> Bishan CC Sky Garden &amp; Bishan East Zone 6 RN 167A Rooftop Garden<br>
 			<b>Date:</b> 27 April 2025, Saturday<br>
+		<b>Time: </b>2.00pm-8.30pm<br>
 			<b>Where:</b> Bishan Bus Interchange<br>
 			<b>Enquiries:</b> Email Bishan Taskforce at <a href="mailto:bishan.tf@gmail.com">bishan.tf@gmail.com</a><br>
 		<b>Registration:</b> No registration needed<br><br>
@@ -264,8 +266,9 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<h5 style="margin-top:8px">Organic Compost</h5>
 	 <b>Organisers:</b> Garden Greens (Paper Innovation Pte Ltd)<br>
 			<b>Date:</b> 8 June 2025, Sunday<br>
+		<b>Time: </b>5.30pm-7.30pm<br>
 			<b>Where:</b> 40 Ubi Techpark, #01-04 Ubi Crescent, S(408567)<br>
-			<b>Enquiries:</b> Email Arthur at <a href="mailto:bishan.tf@gmail.com">arthur@print-it.com.sg</a><br>
+			<b>Enquiries:</b> Email Arthur at <a href="mailto:bishan.tf@gmail.com">arthur@print-it.com.sg</a><br><br>
 		<b>Registration:</b> No registration needed, walk-ins accepted<br>
 </div></div>
 </section>
