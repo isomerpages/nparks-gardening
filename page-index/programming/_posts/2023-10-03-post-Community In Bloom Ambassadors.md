@@ -11,8 +11,6 @@ description: The Community in Bloom (CIB) Ambassador Awards recognises
 image: /images/Gardeners/Kids (2).jpg
 variant: markdown
 ---
-CIB Ambassadors Webpage
-
 <style>
 details {
 	cursor: pointer;
