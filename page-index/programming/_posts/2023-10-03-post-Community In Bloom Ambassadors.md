@@ -69,7 +69,7 @@ details[open] > summary {
 <p>Know someone suitable and deserving? Nominate them for the CIB Ambassador Awards today! Nominations close on <b>18 May 2025</b>.</p>		
 
 <div class="wrapper">
-  <a style="text-decoration:none; color: white" href="https://go.gov.sg/cib-ambassadors-nominations-2025"><div class="box">
+  <a target="_blank" style="text-decoration:none; color: white" href="https://go.gov.sg/cib-ambassadors-nominations-2025"><div class="box">
     Nominate now!</div></a>
 	</div>
 	<p>For any queries on the CIB Ambassador Awards 2025 nominations, please email us at <a href="_mailto:communityinbloom@nparks.gov.sg">communityin bloom@nparks.gov.sg</a>.</p>	
