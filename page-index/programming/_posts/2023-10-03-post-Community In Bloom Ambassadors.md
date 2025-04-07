@@ -259,7 +259,7 @@ details[open] > summary {
         <tr>
             <td style="padding: 5px; text-align: left;">Teng Boon Bee</td>
             <td style="padding: 5px; text-align: left;">Tian How Ming</td>
-            <td style="padding: 5px; text-align: left;">Tony Yau Tong Ngee, PBM</td>
+            <td style="padding: 5px; text-align: left;">Tony Yau Tong Ngee, PB</td>
         </tr>
         <tr>
             <td style="padding: 5px; text-align: left;">Victor Poh</td>
