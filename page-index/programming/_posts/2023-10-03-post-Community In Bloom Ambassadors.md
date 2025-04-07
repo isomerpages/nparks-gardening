@@ -55,6 +55,7 @@ details[open] > summary {
 	<img title="Community In Bloom ambassadors at their appreciation event in 2024. Photo by Jacqueline Chua." src="/images/Gardeners/Ambassadors_2024_JacquelineChua.jpg">
 <p>Community in Bloom (CIB) Ambassadors are passionate volunteers with excellent horticulture and gardening skills. They actively share their knowledge with the community and lead gardening projects to improve green spaces around them.</p>
 </section>
+<br>
 <section>
 <h4>CIB Ambassador Awards 2025 - Nominations now open!</h4>
 	<img title="A CIB Ambassador and his gardening group. Photo by NParks." src="/images/Gardeners/Amb_Kareem_w_gardeners.jpg">
