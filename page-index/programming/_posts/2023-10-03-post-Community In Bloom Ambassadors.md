@@ -58,7 +58,6 @@ details[open] > summary {
 <br>
 <section>
 <h4>CIB Ambassador Awards 2025 - Nominations now open!</h4>
-	<img title="A CIB Ambassador and his gardening group. Photo by NParks." src="/images/Gardeners/Amb_Kareem_w_gardeners.jpg">
 	<p>Volunteers from community gardens under the <a href="/get-involved/community-gardens/">Community in Bloom</a> programme are eligible for nomination. We are looking for nominees that are able to: </p>
 	<ul>	
 		<li>Promote the benefits of gardening to a wider community</li>
@@ -86,7 +85,6 @@ details[open] > summary {
 <br>
 <section>
 	<h4>Why be a CIB Ambassador</h4>
-	<img title="Learning journey. Photo by Jacqueline Chua." src="/images/Gardeners/Ambs_on_learning_journey__OCBC_Arboretum_.jpg">
 	<ul>
 		<li>Connect with fellow gardening enthusiasts and expand your network within the gardening community</li>
 		<li>Access exclusive training opportunities to enhance your gardening skills and knowledge</li>
