@@ -71,13 +71,13 @@ details[open] > summary {
 	</ul>		
 <p>Know someone suitable and deserving? Nominate them for the CIB Ambassador Awards today! Nominations close on <b>18 May 2025</b>.</p>		
 
-
 <div class="wrapper">
   <a style="text-decoration:none; color: white" href="https://go.gov.sg/cib-ambassadors-nominations-2024"><div class="box">
     Nominate now!</div></a>
-</div>
+	</div>
 	<p>For any queries on the CIB Ambassador Awards 2024 nominations, please email us at <a href="_mailto:communityinbloom@nparks.gov.sg">communityin bloom@nparks.gov.sg</a>.</p>	
 </section>
+<br>
 <section>	
 <h4>About the CIB Ambassador Awards</h4>
 	<img title="A CIB Ambassador guiding children on how to water plants. Photo by NParks." src="/images/Gardeners/kids%20(2).jpg">
