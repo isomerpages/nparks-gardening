@@ -362,8 +362,8 @@ details[open] > summary {
 		<label for="accordion4">For Existing Gardeners</label>
 		<div>
 			<details>
-				<summary>Can existing gardeners re-apply to continue gardening at their allotment garden plot after the end of the 3-year TOL?</summary>
-				<p style="margin-top: 5px; margin-bottom: 25px">Before the 3-year Temporary Occupation Licence (TOL) expires, existing gardeners who have maintained good gardening etiquette will be contacted by NParks officers to offer them an additonal 3-years TOL. The terms and conditions and fees for the allotment garden plot may be updated from time to time and allotment gardeners are requested to read the updated terms and conditions of the TOL.</p>
+				<summary>Can existing gardeners re-apply to continue gardening at their allotment garden plot after the end of the TOL period?</summary>
+				<p style="margin-top: 5px; margin-bottom: 25px">Before the Temporary Occupation Licence (TOL) expires, existing gardeners who have maintained good gardening etiquette will be contacted by NParks officers to offer them an additonal 3-years TOL. The terms and conditions and fees for the allotment garden plot may be updated from time to time and allotment gardeners are requested to read the updated terms and conditions of the TOL.</p>
 			</details>
 			<details>
 				<summary>What does it mean to maintain good gardening etiquette?</summary>
@@ -401,10 +401,10 @@ details[open] > summary {
 			</details>
 			<details>
 				<summary>Can I just pay the fee for 1 year? </summary>
-				<p style="margin-top: 5px; margin-bottom: 25px">The allotment garden plot is leased on a 3-year basis. You will need to pay for 3 years at the start of your leasing period.</p>
+				<p style="margin-top: 5px; margin-bottom: 25px">The allotment garden plot is leased for a period of up to 3 years at a time, depending on the remaining lease period available at the allotment garden site. At the start of your lease period, you will need to pay the fee for the lease period stated in your Letter of Offer.</p>
 			</details>
 			<details>
-				<summary>Will I get a refund if I need to end the lease before the third year?</summary>
+				<summary>Will I get a refund if I need to end the end date of my lease period?</summary>
 				<p style="margin-top: 5px; margin-bottom: 25px">No refund will be given if you decide to terminate the Licence before the lease expires. </p>
 			</details>
 			<details>
