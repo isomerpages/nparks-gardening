@@ -254,6 +254,19 @@ You are encouraged to contact the organisers directly for specific queries on ev
 		<b>Registration:</b> To be updated<br>
 </div>
 	</div>
+				<h5 id="18-24May">18 - 24 May 2025</h5>
+	<div class="wrapper">
+			<div class="box">
+						<span class="workshop-tag">Workshop</span>
+			<h5 style="margin-top:8px">Composting Workshop</h5>
+	 <b>Organisers:</b> Telok Kurau Central Community Garden<br>
+			<b>Date:</b> 24 May 2025, Saturday<br>
+		<b>Time: </b>9.00am - 11.00am<br>
+			<b>Where:</b> 1205 Upper Boon Keng Road, Happy Town Childcare Pte Ltd, Geylang West Community Centre #01-05 S387311<br>
+			<b>Enquiries:</b> Email <a href="mailto:happytownteacher@gmail.com">happytownteacher@gmail.com</a><br><br>
+		<b>Registration:</b> To be updated<br>
+</div>
+	</div>
 	<h5 id="8-14Jun">8 - 14 June 2025</h5>
 	<div class="wrapper">
 	<div class="box">
