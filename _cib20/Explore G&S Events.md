@@ -110,11 +110,11 @@ You are encouraged to contact the organisers directly for specific queries on ev
 	<table>
 		<tbody>
 			<tr>
-				<td><a style="text-decoration:none" href="#1-5Apr">1-5 April</a></td>
-				<td><a style="text-decoration:none" href="#6-12Apr">6-12 April</a></td>
 				<td><a style="text-decoration:none" href="#13-19Apr">13-19 April</a></td>
 				<td><a style="text-decoration:none" href="#20-26Apr">20-26 April</a></td>
 				<td><a style="text-decoration:none" href="#27-30Apr">27-30 April</a></td>
+				<td><a style="text-decoration:none" href="#1-10May">1-10 May</a></td>
+				<td><a style="text-decoration:none" href="#18-24May">18-24 May</a></td>
 				<td><a style="text-decoration:none" href="#8-14Jun">8-14 June</a></td>
 			</tr>
 		</tbody>
@@ -122,53 +122,6 @@ You are encouraged to contact the organisers directly for specific queries on ev
 </section><br>
 
 <section>
-	<h5 id="1-5Apr">1 - 5 April 2025</h5>
-	<div class="wrapper">
-		<div class="box">
-			<span class="booth-tag">Booths</span><span class="marketplace-tag">Marketplace</span>
-			<h5 style="margin-top:8px">Sengkang North Eco Fest 2025</h5>
-			<b>Organiser:</b> Sengkang North Youth Network<br>
-			<b>Supported by:</b> Compassvale Gardens RC, Compassvale Plains RN, Compassvale Haven RC, Compassvale Villa RC<br>
-			<b>Date:</b> 5 April 2025, Saturday<br>
-			<b>Time: </b>10.00am-2.00pm<br>
-			<b>Where:</b> Sengkang CC Multi-purpose Hall<br>
-			<b>Enquiries:</b> <a target="_blank" href="https://www.facebook.com/sknyouthnetwork/">Sengkang North Youth Network</a><br><br>
-			<b>Registration: </b>No registration is needed<br>
-		</div>
-	</div>
-		<h5 id="6-12Apr">6 - 12 April 2025</h5>
-	<div class="wrapper">
-		<div class="box">
-				<span class="talk-tag">Talk</span>
-			<h5 style="margin-top:8px">Storytelling with Zhang Lao Shi</h5>
-			<b>Organiser:</b> 乐园<br>
-			<b>Date:</b> 6 April 2025, Sunday<br>
-			<b>Time: </b>5.00pm-6.30pm<br>
-			<b>Where:</b> 乐园 @ Blk 925 #01-41, Hougang St 91 Singapore 530925<br>
-			<b>Enquiries: </b><a href="https://www.facebook.com/share/p/154EZHPVBx/">Ang Mo Kio-Hougang Lavender RN Facebook</a><br><br>
-			<b>Registration: </b> Contact Ang Mo Kio-Hougang Lavender RN at 8733 5248 (first-come-first-serve basis)
-		</div>
-		<div class="box">
-				<span class="tour-tag">Tour</span>
-			<h5 style="margin-top:8px">Community Garden Tours in Tiong Bahru</h5>
-			<b>Organisers:</b> TBCC GIVE Garden, Seng Poh RC GIVE Garden, Farm Gaya Community Garden &amp; The Giving Garden @ Kim Tian West<br>
-			<b>Date:</b> 12 April 2025, Saturday<br>
-			<b>Time: </b>9.00am-12.00pm<br>
-			<b>Where:</b> Tiong Bahru Community Centre<br>
-			<b>Enquiries: </b><a href="mailto:tcg.ktwrc@gmail.com">tcg.ktwrc@gmail.com</a><br><br>
-			<a target="_blank" class="button-primary" href="https://www.onepa.gov.sg/events/community-garden-tours-at-tiong-bahru-81896847">Register here</a>
-		</div>
-			<div class="box">
-			<span class="tour-tag">Tour</span>
-			<h5 style="margin-top:8px">Garden Tour @ Funtasia Garden</h5>
-			<b>Organiser:</b> Teban Gardens RN<br>
-			<b>Date:</b> 12 April 2025, Sunday<br>
-				<b>Time: </b>9.00am-10.00am<br>
-			<b>Where:</b> 32 Teban Gardens Road<br>
-				<b>Enquiries: </b>Email Mr Teoh at <a href="mailto:c.teoh65@gmail.com">c.teoh65@gmail.com</a><br><br><br>
-				<a target="_blank" class="button-primary" href="https://form.gov.sg/67cd2345299fcadc17ce1e28">Register here</a>
-</div>
-	</div>
 		<h5 id="13-19Apr">13 - 19 April 2025</h5>
 	<div class="wrapper">
 		<div class="box">
@@ -197,10 +150,10 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Organiser:</b> Bishan East Zone 1 RN Green Hub<br>
 			<b>Date:</b> 19 April 2025, Saturday<br>
 				<b>Time: </b>9.00am-5.00pm<br>
-			<b>Where:</b> 112 Bishan St 12<br>
-			<b>Enquiries:</b> Email Julie Lim at <a href="mailto:juliemylim@yahoo.com.sg">juliemylim@yahoo.com.sg</a> or Fen Ng at <a href="mailto:omgitzfen@rocketmail.com">omgitzfen@rocketmail.com</a><br>
+			<b>Where:</b> Blk 509, Bishan Street 11 @ Amphitheater, Singapore 570509<br>
+			<b>Enquiries:</b> Contact 9067 7776<br>
 				<b>Registration:</b> No registration needed<br><br>
-				<a target="_blank" class="button-primary" href="https://www.facebook.com/BE.Zone1.RN/">Find out more</a>
+				<a target="_blank" class="button-primary" href="https://www.facebook.com/BE.Zone1.RN/photos/green-bazaar-2025-makes-a-comeback-this-april-in-a-brand-new-colab-between-z1rn-/1109555697877327/?_rdr">Find out more</a>
 </div>
 	</div>
 			<h5 id="20-26Apr">20 - 26 April 2025</h5>
@@ -220,7 +173,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<h5 style="margin-top:8px">Garden Open House at Sennett Community Harvest Hub</h5>
 			<b>Organiser:</b> Sennett Community Harvest Hub <br>
 			<b>Date:</b> 26 April 2025, Saturday<br>
-		<b>Time: </b>[to be announced]<br>
+		<b>Time: </b>8.30am-10.30am<br>
 			<b>Where: </b>69 Wan Tho Ave<br>
 			<b>Enquiries: </b><a href="mailto:pa.potongpasircc@pa.gov.sg">pa.potongpasircc@pa.gov.sg</a><br><br>
 		<a target="_blank" class="button-primary" href="https://go.gov.sg/sernharvest">Register here</a>
@@ -265,6 +218,16 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Enquiries:</b> Email Lalithama Nair at <a href="mailto:pankypachan@hotmail.com">pankypachan@hotmail.com</a><br><br>
 			<b>Registration: </b>No registration needed, walk-ins are accepted
 </div>
+						<div class="box">
+			<span class="workshop-tag">Workshop</span>
+			<h5 style="margin-top:8px">Garden Open House at Community Day</h5>
+			<b>Organiser:</b> Telok Kurau Central Community Garden<br>
+			<b>Date:</b> 26 April 2025, Saturday<br>
+		<b>Time: </b>5.00pm-7.00pm<br>
+			<b>Where:</b>Telok Kurau Park<br>
+			<b>Enquiries:</b> Email <a href="mailto:tkcentralrn@gmail.com">tkcentralrn@gmail.com</a><br><br>
+			<b>Registration: </b>To be updated<br>
+</div>
 		</div>
 			<h5 id="27-30Apr">27 - 30 April 2025</h5>
 	<div class="wrapper">
@@ -279,6 +242,32 @@ You are encouraged to contact the organisers directly for specific queries on ev
 		<b>Registration:</b> No registration needed<br><br>
 		<a target="_blank" class="button-primary" href="https://www.facebook.com/BishanCommunityClub">Find out more</a>
 </div></div>
+			<h5 id="1-10May">1 - 10 May 2025</h5>
+	<div class="wrapper">
+			<div class="box">
+						<span class="workshop-tag">Workshop</span><span class="tour-tag">Tour</span>
+			<h5 style="margin-top:8px">Harvest Sharing @ Happy Town Childcare Pte Ltd</h5>
+	 <b>Organisers:</b> Happy Town Childcare Pte Ltd<br>
+			<b>Date:</b> 2 May 2025, Friday<br>
+		<b>Time: </b>9.30am - 11.30am<br>
+			<b>Where:</b> 1205 Upper Boon Keng Road, Happy Town Childcare Pte Ltd, Geylang West Community Centre #01-05 S387311<br>
+			<b>Enquiries:</b> Email <a href="mailto:happytownteacher@gmail.com">happytownteacher@gmail.com</a><br><br>
+		<b>Registration:</b> No registration needed, walk-ins are accepted<br>
+</div>
+	</div>
+				<h5 id="18-24May">18 - 24 May 2025</h5>
+	<div class="wrapper">
+			<div class="box">
+						<span class="workshop-tag">Workshop</span>
+			<h5 style="margin-top:8px">Composting Workshop</h5>
+	 <b>Organisers:</b> Telok Kurau Central Community Garden<br>
+			<b>Date:</b> 24 May 2025, Saturday<br>
+		<b>Time: </b>9.00am - 11.00am<br>
+			<b>Where:</b> Telok Kurau Park<br>
+			<b>Enquiries:</b> Email <a href="mailto:Tkcenntralrn@gmail.com">tkcenntralrn@gmail.com</a><br><br>
+		<b>Registration:</b> To be updated<br>
+</div>
+	</div>
 	<h5 id="8-14Jun">8 - 14 June 2025</h5>
 	<div class="wrapper">
 	<div class="box">
