@@ -110,8 +110,6 @@ You are encouraged to contact the organisers directly for specific queries on ev
 	<table>
 		<tbody>
 			<tr>
-				<td><a style="text-decoration:none" href="#1-5Apr">1-5 April</a></td>
-				<td><a style="text-decoration:none" href="#6-12Apr">6-12 April</a></td>
 				<td><a style="text-decoration:none" href="#13-19Apr">13-19 April</a></td>
 				<td><a style="text-decoration:none" href="#20-26Apr">20-26 April</a></td>
 				<td><a style="text-decoration:none" href="#27-30Apr">27-30 April</a></td>
@@ -122,53 +120,6 @@ You are encouraged to contact the organisers directly for specific queries on ev
 </section><br>
 
 <section>
-	<h5 id="1-5Apr">1 - 5 April 2025</h5>
-	<div class="wrapper">
-		<div class="box">
-			<span class="booth-tag">Booths</span><span class="marketplace-tag">Marketplace</span>
-			<h5 style="margin-top:8px">Sengkang North Eco Fest 2025</h5>
-			<b>Organiser:</b> Sengkang North Youth Network<br>
-			<b>Supported by:</b> Compassvale Gardens RC, Compassvale Plains RN, Compassvale Haven RC, Compassvale Villa RC<br>
-			<b>Date:</b> 5 April 2025, Saturday<br>
-			<b>Time: </b>10.00am-2.00pm<br>
-			<b>Where:</b> Sengkang CC Multi-purpose Hall<br>
-			<b>Enquiries:</b> <a target="_blank" href="https://www.facebook.com/sknyouthnetwork/">Sengkang North Youth Network</a><br><br>
-			<b>Registration: </b>No registration is needed<br>
-		</div>
-	</div>
-		<h5 id="6-12Apr">6 - 12 April 2025</h5>
-	<div class="wrapper">
-		<div class="box">
-				<span class="talk-tag">Talk</span>
-			<h5 style="margin-top:8px">Storytelling with Zhang Lao Shi</h5>
-			<b>Organiser:</b> 乐园<br>
-			<b>Date:</b> 6 April 2025, Sunday<br>
-			<b>Time: </b>5.00pm-6.30pm<br>
-			<b>Where:</b> 乐园 @ Blk 925 #01-41, Hougang St 91 Singapore 530925<br>
-			<b>Enquiries: </b><a href="https://www.facebook.com/share/p/154EZHPVBx/">Ang Mo Kio-Hougang Lavender RN Facebook</a><br><br>
-			<b>Registration: </b> Contact Ang Mo Kio-Hougang Lavender RN at 8733 5248 (first-come-first-serve basis)
-		</div>
-		<div class="box">
-				<span class="tour-tag">Tour</span>
-			<h5 style="margin-top:8px">Community Garden Tours in Tiong Bahru</h5>
-			<b>Organisers:</b> TBCC GIVE Garden, Seng Poh RC GIVE Garden, Farm Gaya Community Garden &amp; The Giving Garden @ Kim Tian West<br>
-			<b>Date:</b> 12 April 2025, Saturday<br>
-			<b>Time: </b>9.00am-12.00pm<br>
-			<b>Where:</b> Tiong Bahru Community Centre<br>
-			<b>Enquiries: </b><a href="mailto:tcg.ktwrc@gmail.com">tcg.ktwrc@gmail.com</a><br><br>
-			<a target="_blank" class="button-primary" href="https://www.onepa.gov.sg/events/community-garden-tours-at-tiong-bahru-81896847">Register here</a>
-		</div>
-			<div class="box">
-			<span class="tour-tag">Tour</span>
-			<h5 style="margin-top:8px">Garden Tour @ Funtasia Garden</h5>
-			<b>Organiser:</b> Teban Gardens RN<br>
-			<b>Date:</b> 12 April 2025, Sunday<br>
-				<b>Time: </b>9.00am-10.00am<br>
-			<b>Where:</b> 32 Teban Gardens Road<br>
-				<b>Enquiries: </b>Email Mr Teoh at <a href="mailto:c.teoh65@gmail.com">c.teoh65@gmail.com</a><br><br><br>
-				<a target="_blank" class="button-primary" href="https://form.gov.sg/67cd2345299fcadc17ce1e28">Register here</a>
-</div>
-	</div>
 		<h5 id="13-19Apr">13 - 19 April 2025</h5>
 	<div class="wrapper">
 		<div class="box">
