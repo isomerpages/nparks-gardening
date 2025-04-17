@@ -244,11 +244,11 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<h5 id="1-10May">1 - 10 May 2025</h5>
 	<div class="wrapper">
 			<div class="box">
-						<span class="workshop-tag">Workshop</span>
-			<h5 style="margin-top:8px">Organic Compost</h5>
-	 <b>Organisers:</b> Garden Greens (Paper Innovation Pte Ltd)<br>
-			<b>Date:</b> 8 June 2025, Sunday<br>
-		<b>Time: </b>5.30pm-7.30pm<br>
+						<span class="workshop-tag">Workshop</span><span class="marketplace-tag">Marketplace</span>
+			<h5 style="margin-top:8px">Harvest Sharing @ Happy Town Childcare Pte Ltd</h5>
+	 <b>Organisers:</b> Happy Town Childcare Pte Ltd<br>
+			<b>Date:</b> 2 May 2025, Friday<br>
+		<b>Time: </b>9.30am - 11.30am<br>
 			<b>Where:</b> 40 Ubi Techpark, #01-04 Ubi Crescent, S(408567)<br>
 			<b>Enquiries:</b> Email Arthur at <a href="mailto:bishan.tf@gmail.com">arthur@print-it.com.sg</a><br><br>
 		<b>Registration:</b> No registration needed, walk-ins accepted<br>
