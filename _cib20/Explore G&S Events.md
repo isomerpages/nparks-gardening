@@ -249,9 +249,9 @@ You are encouraged to contact the organisers directly for specific queries on ev
 	 <b>Organisers:</b> Happy Town Childcare Pte Ltd<br>
 			<b>Date:</b> 2 May 2025, Friday<br>
 		<b>Time: </b>9.30am - 11.30am<br>
-			<b>Where:</b> 40 Ubi Techpark, #01-04 Ubi Crescent, S(408567)<br>
-			<b>Enquiries:</b> Email Arthur at <a href="mailto:bishan.tf@gmail.com">arthur@print-it.com.sg</a><br><br>
-		<b>Registration:</b> No registration needed, walk-ins accepted<br>
+			<b>Where:</b> 1205 Upper Boon Keng Road, Happy Town Childcare Pte Ltd, Geylang West Community Centre #01-05 S387311<br>
+			<b>Enquiries:</b> Email <a href="mailto:happytownteacher@gmail.com">happytownteacher@gmail.com</a><br><br>
+		<b>Registration:</b> To be updated<br>
 </div>
 	</div>
 	<h5 id="8-14Jun">8 - 14 June 2025</h5>
