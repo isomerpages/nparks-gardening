@@ -216,6 +216,16 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Enquiries:</b> Email Lalithama Nair at <a href="mailto:pankypachan@hotmail.com">pankypachan@hotmail.com</a><br><br>
 			<b>Registration: </b>No registration needed, walk-ins are accepted
 </div>
+						<div class="box">
+			<span class="workshop-tag">Workshop</span>
+			<h5 style="margin-top:8px">Garden Open House at Community Day</h5>
+			<b>Organiser:</b> Telok Kurau Central Community Garden<br>
+			<b>Date:</b> 26 April 2025, Saturday<br>
+		<b>Time: </b>9.00am-11.00am<br>
+			<b>Where:</b> Kampung Admiralty, 676 Woodlands Drive 71, Singapore 730676<br>
+			<b>Enquiries:</b> Email Lalithama Nair at <a href="mailto:pankypachan@hotmail.com">pankypachan@hotmail.com</a><br><br>
+			<b>Registration: </b>No registration needed, walk-ins are accepted
+</div>
 		</div>
 			<h5 id="27-30Apr">27 - 30 April 2025</h5>
 	<div class="wrapper">
