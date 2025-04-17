@@ -252,7 +252,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 		<b>Time: </b>9.30am - 11.30am<br>
 			<b>Where:</b> 1205 Upper Boon Keng Road, Happy Town Childcare Pte Ltd, Geylang West Community Centre #01-05 S387311<br>
 			<b>Enquiries:</b> Email <a href="mailto:happytownteacher@gmail.com">happytownteacher@gmail.com</a><br><br>
-		<b>Registration:</b> To be updated<br>
+		<b>Registration:</b> No registration needed, walk-ins are accepted<br>
 </div>
 	</div>
 				<h5 id="18-24May">18 - 24 May 2025</h5>
