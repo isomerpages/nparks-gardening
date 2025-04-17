@@ -114,6 +114,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 				<td><a style="text-decoration:none" href="#20-26Apr">20-26 April</a></td>
 				<td><a style="text-decoration:none" href="#27-30Apr">27-30 April</a></td>
 				<td><a style="text-decoration:none" href="#1-10May">1-10 May</a></td>
+				<td><a style="text-decoration:none" href="#18-24May">18-24 May</a></td>
 				<td><a style="text-decoration:none" href="#8-14Jun">8-14 June</a></td>
 			</tr>
 		</tbody>
