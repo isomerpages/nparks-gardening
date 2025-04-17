@@ -245,7 +245,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<h5 id="1-10May">1 - 10 May 2025</h5>
 	<div class="wrapper">
 			<div class="box">
-						<span class="workshop-tag">Workshop</span><span class="marketplace-tag">Marketplace</span>
+						<span class="workshop-tag">Workshop</span><span class="tour-tag">Tour</span>
 			<h5 style="margin-top:8px">Harvest Sharing @ Happy Town Childcare Pte Ltd</h5>
 	 <b>Organisers:</b> Happy Town Childcare Pte Ltd<br>
 			<b>Date:</b> 2 May 2025, Friday<br>
