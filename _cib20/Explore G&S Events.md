@@ -148,10 +148,10 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Organiser:</b> Bishan East Zone 1 RN Green Hub<br>
 			<b>Date:</b> 19 April 2025, Saturday<br>
 				<b>Time: </b>9.00am-5.00pm<br>
-			<b>Where:</b> 112 Bishan St 12<br>
-			<b>Enquiries:</b> Email Julie Lim at <a href="mailto:juliemylim@yahoo.com.sg">juliemylim@yahoo.com.sg</a> or Fen Ng at <a href="mailto:omgitzfen@rocketmail.com">omgitzfen@rocketmail.com</a><br>
+			<b>Where:</b> Blk 509, Bishan Street 11 @ Amphitheater, Singapore 570509<br>
+			<b>Enquiries:</b> Contact 9067 7776<br>
 				<b>Registration:</b> No registration needed<br><br>
-				<a target="_blank" class="button-primary" href="https://www.facebook.com/BE.Zone1.RN/">Find out more</a>
+				<a target="_blank" class="button-primary" href="https://www.facebook.com/BE.Zone1.RN/photos/green-bazaar-2025-makes-a-comeback-this-april-in-a-brand-new-colab-between-z1rn-/1109555697877327/?_rdr">Find out more</a>
 </div>
 	</div>
 			<h5 id="20-26Apr">20 - 26 April 2025</h5>
