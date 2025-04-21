@@ -112,7 +112,6 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<tr>
 				<td><a style="text-decoration:none" href="#13-19Apr">13-19 April</a></td>
 				<td><a style="text-decoration:none" href="#20-26Apr">20-26 April</a></td>
-				<td><a style="text-decoration:none" href="#27-30Apr">27-30 April</a></td>
 				<td><a style="text-decoration:none" href="#1-10May">1-10 May</a></td>
 				<td><a style="text-decoration:none" href="#18-24May">18-24 May</a></td>
 				<td><a style="text-decoration:none" href="#8-14Jun">8-14 June</a></td>
@@ -229,19 +228,6 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Registration: </b>To be updated<br>
 </div>
 		</div>
-			<h5 id="27-30Apr">27 - 30 April 2025</h5>
-	<div class="wrapper">
-	<div class="box">
-						<span class="booth-tag">Booth</span>
-			<h5 style="margin-top:8px">Central Singapore Market (CSM) - Garden Booth and Therapeutic Horticulture</h5>
-	 <b>Organisers:</b> Bishan CC Sky Garden &amp; Bishan East Zone 6 RN 167A Rooftop Garden<br>
-			<b>Date:</b> 27 April 2025, Saturday<br>
-		<b>Time: </b>2.00pm-8.30pm<br>
-			<b>Where:</b> Bishan Bus Interchange<br>
-			<b>Enquiries:</b> Email Bishan Taskforce at <a href="mailto:bishan.tf@gmail.com">bishan.tf@gmail.com</a><br>
-		<b>Registration:</b> No registration needed<br><br>
-		<a target="_blank" class="button-primary" href="https://www.facebook.com/BishanCommunityClub">Find out more</a>
-</div></div>
 			<h5 id="1-10May">1 - 10 May 2025</h5>
 	<div class="wrapper">
 			<div class="box">
