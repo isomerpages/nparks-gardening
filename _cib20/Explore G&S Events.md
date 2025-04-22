@@ -162,7 +162,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<h5 style="margin-top:8px">Sensory Node Launch at 813 Rooftop Landscape &amp; Community Garden</h5>
 			<b>Organiser:</b> Nee Soon South Zone C RN <br>
 			<b>Date:</b> 26 April 2025, Saturday<br>
-		<b>Time: </b>[to be announced]<br>
+		<b>Time: </b>9.30am-11.30am<br>
 			<b>Where:</b> 813 Rooftop Landscape &amp; Community Garden<br>
 		<b>Enquiries: </b>Email Constance Chow at <a href="mailto:cbcskincare@gmail.com">cbcskincare@gmail.com</a> and Tony Sim at <a href="mailto:tonysim94@gmail.com">tonysim94@gmail.com</a><br>
 		<b>Registration:</b> No registration needed<br>
