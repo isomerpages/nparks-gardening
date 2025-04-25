@@ -17,7 +17,7 @@ variant: markdown
 </section>
 
 <section>
-	<img title="To in." src="/images/Plants/XXX.jpg">
+	<img title="To in." src="/images/Plants/Roselle_JacChua.jpg">
 	<p>Roselles are a popular fruiting shrub that produces a striking red calyx that is edible. The calyx refers to the sepals surrounding the hard and inedible seed pod, and can be made into drinks, jams, or dried for direct consumption. The young shoots are also edible and can be added to salads and soups.</p>
 	<p>As large and woody <a href="/learn-more-about-gardening/glossary/#p">perennial</a> bush, this plant is a staple in edible gardens.</p>
   <p>This plant is part of the Malvaceae or Hibiscus family, which includes other edible plants like <a href="/page-index/edible-plants/ladys-finger/">Lady’s-Finger</a>, and ornamental plants like <a href="/page-index/ornamental-plants/turks-turban/">Cai Xin</a>Turk's Turban.
