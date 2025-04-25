@@ -84,7 +84,7 @@ variant: markdown
 </section>
 <section>
 	<h4>Propagation:</h4>
-		<p>This vine can be grown via <a href="/page-index/horticulture-techniques/propagating-by-seed/">seeds</a>. Seeds can be taken from mature fruit for immediate planting.</p>
+		<p>Roselles can be grown from <a href="/page-index/horticulture-techniques/propagating-by-seed/">seeds</a> or via <a href="/page-index/horticulture-techniques/propagating-by-cuttings/">stem cuttings</a> rooted in soil.</p>
 	<br>
 </section>
 
