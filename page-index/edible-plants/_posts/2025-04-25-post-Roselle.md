@@ -18,9 +18,10 @@ variant: markdown
 
 <section>
 	<img title="To in." src="/images/Plants/XXX.jpg">
-	<p>Butterfly Peas are a hardy edible flower that is used to colour drinks, desserts, and rice dishes.</p>
-	<p>An <a href="/learn-more-about-gardening/glossary/#a">annual</a> plant, Butterfly Peas are often grown in rotation with other fruiting climbers.</p>
-  <p>This plant is part of the 	Fabaceae or Bean family, which includes other popular edible fruits like <a href="/page-index/edible-plants/winged-bean/">Winged Bean</a>, <a href="/page-index/edible-plants/peanut/">Peanut</a>, and <a href="/page-index/edible-plants/long-bean/">Long Bean</a>.  All members of the bean family can be used for <a href="/page-index/horticulture-techniques/companion-planting/">companion planting</a> as they can fix nitrogen into the soil.</p>
+	<p>Roselles are a popular fruiting shrub that produces a striking red calyx that is edible. The calyx refers to the sepals surrounding the hard and inedible seed pod, and can be made into drinks, jams, or dried for direct consumption. The young shoots are also edible and can be added to salads and soups.</p>
+	<p>As large and woody <a href="/learn-more-about-gardening/glossary/#p">perennial</a> bush, this plant is a staple in edible gardens.</p>
+  <p>This plant is part of the Malvaceae or Hibiscus family, which includes other edible plants like <a href="/page-index/edible-plants/ladys-finger/">Lady’s-Finger</a>, and ornamental plants like <a href="/page-index/ornamental-plants/turks-turban/">Cai Xin</a>Turk's Turban.
+</p>
 	<br>
 </section>
 
