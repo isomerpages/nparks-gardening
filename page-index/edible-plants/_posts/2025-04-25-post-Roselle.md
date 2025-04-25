@@ -43,18 +43,19 @@ variant: markdown
 <section>
 	<h4>Transplanting:</h4>
 		<p>Seedlings will be ready for <a href="/page-index/horticulture-techniques/transplanting/">transplanting</a> into pots or <a href="/page-index/horticulture-techniques/true-ground/">true ground</a> when they have developed 4 or more leaves, or roughly a week or two after germination. Leave 15-30cm between each plant to encourage more growth and better ventilation.
-</p><section>
+</p><br><section>
 	<h4>Growing:</h4>
-		<p>Bean plants generally don’t require much fertilising because they are able to fix their own nitrogen.</p>
-		<p>Because the vines will grow on top of each other, it is a good practice to <a title="Photo by Jacqueline Chua." href=">prune regularly</a> and remove dead leaves and vines to improve ventilation and allow light to reach more of the plant.<p></p>
+		<p>Roselles will produce more flowers and thus more fruit when fed with fertilisers high in phosphorus and potassium, and more leaves when fed with fertilisers high in nitrogen. To encourage both leaves and flowers, the plants can be fed with balanced fertilisers. Plants can be <a href="/page-index/horticulture-techniques/fertilising/">fertilised</a> regularly once a month after transplanting for a fuller crop.</p>
+	<p>It is a good practice to <a href="/page-index/horticulture-techniques/pruning/">prune</a> regularly and remove dead leaves and stems to improve ventilation and allow light to reach more of the plant. Regular pruning also decreases the likelihood of pests quickly taking over the plant.</p>
+	<p>This plant can grow more than 2m tall, but for the ease of harvesting it can be pruned to a manageable hight of around 1m and continue to fruit. Taller plants can be <a href="/page-index/hardscapes/staking/">staked</a> for additioonal support and prevent the stem from snapping.</p>
 	<br>
 </section>
 
 <section>
 	<h4>Harvesting:</h4>
 		<p>Plants can be harvested for flowers at any time.</p>
-		<img src=">
-		</a></p><p><a title="Photo by Jacqueline Chua." href=">prune regularly</a> and remove dead leaves and vines to improve ventilation and allow light to reach more of the plant.<p></p>
+		<img by="" src="title=">
+		<p></p><p><a title="Photo by Jacqueline Chua." href=">prune regularly</a> and remove dead leaves and vines to improve ventilation and allow light to reach more of the plant.<p></p>
 	<br>
 </section>
 
