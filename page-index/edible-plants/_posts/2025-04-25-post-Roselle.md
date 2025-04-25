@@ -28,7 +28,8 @@ variant: markdown
 <section>
 	<h4>Sun and soil needs:</h4>
 		<img src="/images/Plants/Roselle_JacChua.jpg">
-		<p>This plant does best in full sun gardens with a <a href="/page-index/horticulture-techniques/gauging-light/">minimum of 6 hours of sunlight</a>. Plants do best in <a href="/page-index/horticulture-techniques/planting-in-containers/">pots</a> with <a href="/page-index/horticulture-techniques/soil/">loamy soil</a> at least 20cm deep, or in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a>.</p>
+		<p>This plant does best in full sun gardens with a <a href="/page-index/horticulture-techniques/gauging-light/">minimum of 6 hours of sunlight</a>. It can also grow in gardens with more than 4 hours of direct sunlight or at least 6 hours of indirect sunlight, but its growth will be slower, and it may not fruit as much.</p>
+		<p>Plants do best in <a href="/page-index/horticulture-techniques/planting-in-containers/">pots</a> with <a href="/page-index/horticulture-techniques/soil/">loamy soil</a> at least 15cm deep, or in <a href="/page-index/horticulture-techniques/true-ground/">true ground</a>. These plants are vulnerable to root rot, so ensure that your pots drain well, and that your soil has plenty of organic matter to let the roots breathe.</p>
 		<p>This vine is vulnerable to heat stress during the dry season. Water it regularly and <a href="/page-index/horticulture-techniques/mulching/">mulch</a> the base to prevent water loss.</p>
 	<p>As a fast-growing vine, this plant needs to be trained up a light <a href="/page-index/hardscapes/trellises/">trellis</a>. The vine readily produces flowers and can be used to beautify fences and arch trellises.</p>
 		<p>As with all members of the bean family, this plant is pollinated by bees. Growing more <a href="/page-index/glossary/biodiversity-attracting-plants/">bee-attracting plants</a> within the garden will encourage pollination.</p>
