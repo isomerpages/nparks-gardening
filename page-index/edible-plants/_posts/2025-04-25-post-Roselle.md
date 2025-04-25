@@ -57,7 +57,31 @@ variant: markdown
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/FuWK90da0GY?si=49_zDPlTlR6xYVcM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
 	<br>
 </section>
-
+<section>
+	<h4>Harvest cycle:</h4>
+	<table>
+		<thead>
+			<tr>
+				<th style="border-bottom:0px; border-right:solid 1px;">Growing period</th>
+				<th style="border-bottom:0px; border-right:solid 1px;">Sowing to germination</th>
+				<th style="border-bottom:0px; border-right:solid 1px;">Germination to transplanting</th>
+				<th style="border-bottom:0px; border-right:solid 1px;">Transplanting to first harvest</th>
+				<th style="border-bottom:0px; border-left:solid 1px;">Total sowing to first harvest</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<th style="border-right:solid 1px;">Approximate time</th>
+				<td style="border-right:solid 1px;">Less than 2 weeks</td>
+				<td style="border-right:solid 1px;">1 to 2 weeks</td>
+				<td style="border-right:solid 1px;">1 to 3 months</td>
+				<td style="border-left:solid 1px;">2 to 4 months</td>
+			</tr>
+		</tbody>
+	</table>
+	<p>Check out our&nbsp;<a href="/digital-tools/sowing-planner/">sowing and harvest planner</a>&nbsp;to schedule your growing! </p>
+<br>
+</section>
 <section>
 	<h4>Propagation:</h4>
 		<p>This vine can be grown via <a href="/page-index/horticulture-techniques/propagating-by-seed/">seeds</a>. Seeds can be taken from mature fruit for immediate planting.</p>
