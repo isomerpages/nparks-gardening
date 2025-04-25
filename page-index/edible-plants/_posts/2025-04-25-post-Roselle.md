@@ -42,19 +42,26 @@ variant: markdown
 </section>
 <section>
 	<h4>Transplanting:</h4>
-		<p>Seedlings will be ready for <a href="/page-index/horticulture-techniques/transplanting/">transplanting</a> into pots or true ground when they have developed 4 or more leaves, or roughly a week or two after germination. Leave 15-30cm between each plant to encourage more growth and better ventilation.
-</p><section><a href="/
+		<p>Seedlings will be ready for <a href="/page-index/horticulture-techniques/transplanting/">transplanting</a> into pots or <a href="/page-index/horticulture-techniques/true-ground/">true ground</a> when they have developed 4 or more leaves, or roughly a week or two after germination. Leave 15-30cm between each plant to encourage more growth and better ventilation.
+</p><section>
 	<h4>Growing:</h4>
 		<p>Bean plants generally don’t require much fertilising because they are able to fix their own nitrogen.</p>
-		<p>Because the vines will grow on top of each other, it is a good practice to <a href=">prune regularly</a> and remove dead leaves and vines to improve ventilation and allow light to reach more of the plant.<p></p>
+		<p>Because the vines will grow on top of each other, it is a good practice to <a title="Photo by Jacqueline Chua." href=">prune regularly</a> and remove dead leaves and vines to improve ventilation and allow light to reach more of the plant.<p></p>
 	<br>
 </section>
 
 <section>
 	<h4>Harvesting:</h4>
 		<p>Plants can be harvested for flowers at any time.</p>
-		<img title="Photo by Jacqueline Chua." src="/images/Plants/BluePeaFlower_JacChua%20(3).jpg">
-		<p>Dry, brown seed pods are mature, and can be <a href="/page-index/horticulture-techniques/propagating-by-seed/">harvested for seeds</a> to plant.</p>
+		<img src=">
+		</a></p><p><a title="Photo by Jacqueline Chua." href=">prune regularly</a> and remove dead leaves and vines to improve ventilation and allow light to reach more of the plant.<p></p>
+	<br>
+</section>
+
+<section>
+	<h4>Harvesting:</h4>
+		<p>Plants can be harvested for flowers at any time.</p>
+		<img src=">Dry, brown seed pods are mature, and can be </a><a href="/page-index/horticulture-techniques/propagating-by-seed/">harvested for seeds</a> to plant.</p>
 	<br>
 </section>
 
