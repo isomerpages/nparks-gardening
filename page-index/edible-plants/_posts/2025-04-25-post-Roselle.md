@@ -34,9 +34,9 @@ variant: markdown
 </section>
 <section>
   <h4>Sowing seeds:</h4>
-	<p><a href="/page-index/horticulture-techniques/propagating-by-seed/">Sow seeds</a> into pots or the ground around 15cm apart. Lightly water the soil until damp, once a day. Seeds should sprout within 10 days.</p>
+	<p><a href="/page-index/horticulture-techniques/propagating-by-seed/">Sow seeds</a> individually in a seedling tray filled with potting mix or seedling mix. Lightly mist the soil until damp, once a day. Seeds should sprout within 2 weeks.</p>
 		<iframe width="100%" height="415" src="https://www.youtube.com/embed/x7J87wY7U6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
-		<p>The seedlings are generally resilient to most environmental factors but may be vulnerable to being eaten by snails or birds. Protect your young plants with a DIY <a href="/page-index/horticulture-techniques/cloches/">cloche</a> or <a href="/page-index/hardscapes/netting/">netting</a>.</p>
+		<p>The seedlings will be vulnerable to high heat and heavy rain. It is best to kept them in a sheltered propagation area or a shaded space with around 4 hours of partial or direct sunlight.</p>
 	<br>
 </section>
 
