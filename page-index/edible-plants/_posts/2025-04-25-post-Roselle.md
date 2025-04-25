@@ -35,8 +35,7 @@ variant: markdown
 <section>
   <h4>Sowing seeds:</h4>
 	<p><a href="/page-index/horticulture-techniques/propagating-by-seed/">Sow seeds</a> individually in a seedling tray filled with potting mix or seedling mix. Lightly mist the soil until damp, once a day. Seeds should sprout within 2 weeks.</p>
-		<iframe width="100%" height="415" src="https://www.youtube.com/embed/x7J87wY7U6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
-		<p>The seedlings will be vulnerable to high heat and heavy rain. It is best to kept them in a sheltered propagation area or a shaded space with around 4 hours of partial or direct sunlight.</p>
+				<p>The seedlings will be vulnerable to high heat and heavy rain. It is best to kept them in a sheltered propagation area or a shaded space with around 4 hours of partial or direct sunlight.</p>
 	<p>Seeds can be sown directly into pots or the ground around 15-30cm apart. Lightly water the soil until damp, once a day. Seeds should sprout within 10 days.</p>
 	<br>
 </section>
@@ -53,16 +52,9 @@ variant: markdown
 
 <section>
 	<h4>Harvesting:</h4>
-		<p>Plants can be harvested for flowers at any time.</p>
-		<img by="" src="title=">
-		<p></p><p><a title="Photo by Jacqueline Chua." href=">prune regularly</a> and remove dead leaves and vines to improve ventilation and allow light to reach more of the plant.<p></p>
-	<br>
-</section>
-
-<section>
-	<h4>Harvesting:</h4>
-		<p>Plants can be harvested for flowers at any time.</p>
-		<img src=">Dry, brown seed pods are mature, and can be </a><a href="/page-index/horticulture-techniques/propagating-by-seed/">harvested for seeds</a> to plant.</p>
+		<p>Plants can be harvested for leaves at any time. Plants will start to flower around 3 months after sowing. The calyx can be harvested once it becomes waxy and fleshy, usually around a week after the flower blooms. Harvest the entire fruit with a sharp cutting tool, and peel the edible calyx from around the hard, inedible seed pod.</p>
+<p>Seed pods can be left on the plant to mature. Seeds are ready for harvest and planting when the seed pod is brown and dry.</p> 
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/FuWK90da0GY?si=49_zDPlTlR6xYVcM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>	<br>
 	<br>
 </section>
 
