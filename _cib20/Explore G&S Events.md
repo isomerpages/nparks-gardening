@@ -286,5 +286,5 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Date:</b> 27 April 2025, Sunday<br>
 		<b>Time: </b>8.00am-11.00am<br>
 			<b>Where:</b> Blk 350 Corporation Drive, Singapore 610350<br>
-	</div></div>
-	</section>
+	</div>
+	</div></section>
