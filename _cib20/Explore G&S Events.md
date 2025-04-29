@@ -204,8 +204,6 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Date:</b> 13 April 2025, Sunday<br>
 			<b>Time: </b>9.30am-10.30am<br>
 			<b>Where:</b> 4 Toh Yi Drive, Singapore 590004<br>
-			<b>Enquiries:</b> Email Nikki at <a href="mailto:wong_jun_nikki@pa.gov.sg">wong_jun_nikki@pa.gov.sg</a><br><br>
-			<a target="_blank" class="button-primary" href="https://go.gov.sg/tohyigardentour2025">Register here</a>
 </div>
 		<div class="box">
 			<span class="tour-tag">Tour</span>
@@ -214,8 +212,6 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Date:</b> 13 April 2025, Sunday<br>
 			<b>Time: </b>9.30am-11.30am<br>
 			<b>Where:</b> 106 Bukit Batok Central, Singapore 650106<br>
-			<b>Enquiries:</b> Email Junaidi at <a href="mailto:pa_bukitbatokcc@pa.gov.sg">pa_bukitbatokcc@pa.gov.sg</a><br><br>
-				<a target="_blank" class="button-primary" href="https://form.gov.sg/67ce686ef5c0e1ac85467eb4">Register here</a>
 </div>
 			<div class="box">
 			<span class="marketplace-tag">Marketplace</span>
@@ -224,9 +220,6 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Date:</b> 19 April 2025, Saturday<br>
 				<b>Time: </b>9.00am-5.00pm<br>
 			<b>Where:</b> Blk 509, Bishan Street 11 @ Amphitheater, Singapore 570509<br>
-			<b>Enquiries:</b> Contact 9067 7776<br>
-				<b>Registration:</b> No registration needed<br><br>
-				<a target="_blank" class="button-primary" href="https://www.facebook.com/BE.Zone1.RN/photos/green-bazaar-2025-makes-a-comeback-this-april-in-a-brand-new-colab-between-z1rn-/1109555697877327/?_rdr">Find out more</a>
 </div>
 	<div class="wrapper">
 	<div class="box">
@@ -236,8 +229,6 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Date:</b> 26 April 2025, Saturday<br>
 		<b>Time: </b>9.30am-11.30am<br>
 			<b>Where:</b> 813 Rooftop Landscape &amp; Community Garden<br>
-		<b>Enquiries: </b>Email Constance Chow at <a href="mailto:cbcskincare@gmail.com">cbcskincare@gmail.com</a> and Tony Sim at <a href="mailto:tonysim94@gmail.com">tonysim94@gmail.com</a><br>
-		<b>Registration:</b> No registration needed<br>
 </div>
 	<div class="box">
 			<span class="tour-tag">Tour</span>
@@ -246,8 +237,6 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Date:</b> 26 April 2025, Saturday<br>
 		<b>Time: </b>8.30am-10.30am<br>
 			<b>Where: </b>69 Wan Tho Ave<br>
-			<b>Enquiries: </b><a href="mailto:pa.potongpasircc@pa.gov.sg">pa.potongpasircc@pa.gov.sg</a><br><br>
-		<a target="_blank" class="button-primary" href="https://go.gov.sg/sernharvest">Register here</a>
 	</div>
 	<div class="box">
 			<span class="talk-tag">Talk</span>
@@ -256,8 +245,6 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Date:</b> 26 April 2025, Saturday<br>
 		<b>Time: </b>9.00am-12.00pm<br>
 			<b>Where:</b> 134 Marsiling Road, Singapore 730134<br>
-		<b>Enquiries:</b> Email Ganesh at <a href="mailto:woodlandsbotanicalgarden@gmail.com">woodlandsbotanicalgarden@gmail.com</a><br><br>
-		<a target="_blank" class="button-primary" href="https://lu.ma/kvum8ocx">Register here</a>
 </div>
 	<div class="box">
 			<span class="tour-tag">Tour</span>
@@ -266,8 +253,6 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Date:</b> 26 April 2025, Saturday<br>
 		<b>Time: </b>10.00am<br>
 			<b>Where:</b> Sheltered Hardcourt at Blk 622B Bukit Batok Central, Singapore 652622<br>
-			<b>Enquiries:</b> Email Danny at <a href="mailto:pa_bukitbatokcc@pa.gov.sg">pa_bukitbatokcc@pa.gov.sg</a><br><br>
-		<a target="_blank" class="button-primary" href="https://www.onepa.gov.sg/events/bbz3-distillation-demo-and-educational-garden-tour-52018954">Register here</a>
 </div>
 		<div class="box">
 			<span class="booth-tag">Booth</span>
@@ -276,8 +261,6 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Date:</b> 26 April 2025, Saturday<br>
 		<b>Time: </b>9.00am-11.00am<br>
 			<b>Where:</b> Kampung Admiralty, 676 Woodlands Drive 71, Singapore 730676<br>
-			<b>Enquiries:</b> <a href="https://www.facebook.com/WoodlandsZ9/?locale=hr_HR">Woodlands Zone 9 Facebook</a> or email Rena Tan at <a href="mailto:renalianatan0@gmail.com">renalianatan0@gmail.com</a><br><br>
-			<b>Registration: </b>No registration needed, walk-ins are accepted
 </div>
 				<div class="box">
 			<span class="booth-tag">Booth</span><span class="workshop-tag">Workshop</span>
@@ -286,8 +269,6 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Date:</b> 26 April 2025, Saturday<br>
 		<b>Time: </b>9.00am-11.00am<br>
 			<b>Where:</b> Kampung Admiralty, 676 Woodlands Drive 71, Singapore 730676<br>
-			<b>Enquiries:</b> Email Lalithama Nair at <a href="mailto:pankypachan@hotmail.com">pankypachan@hotmail.com</a><br><br>
-			<b>Registration: </b>No registration needed, walk-ins are accepted
 </div>
 						<div class="box">
 			<span class="workshop-tag">Workshop</span>
@@ -295,8 +276,13 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Organiser:</b> Telok Kurau Central Community Garden<br>
 			<b>Date:</b> 26 April 2025, Saturday<br>
 		<b>Time: </b>5.00pm-7.00pm<br>
-			<b>Where:</b>Telok Kurau Park<br>
-			<b>Enquiries:</b> Email <a href="mailto:tkcentralrn@gmail.com">tkcentralrn@gmail.com</a><br><br>
-			<b>Registration: </b>To be updated<br>
+			<b>Where:</b> Telok Kurau Park<br>
 </div>
-		</div></div>
+		</div><div class="box">
+			<span class="booth-tag">Booth</span><span class="tour-tag">Tour</span>
+			<h5 style="margin-top:8px">Taman Jurong Zone D Block Party</h5>
+			<b>Organiser:</b> Taman Jurong Zone D Gardening Interest Group<br>
+			<b>Date:</b> 27 April 2025, Sunday<br>
+		<b>Time: </b>8.00am-11.00am<br>
+			<b>Where:</b> Blk 350 Corporation Drive, Singapore 610350<br>
+	</div></div>
