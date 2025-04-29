@@ -239,7 +239,6 @@ You are encouraged to contact the organisers directly for specific queries on ev
 		<b>Time: </b>8.30am-10.30am<br>
 			<b>Where: </b>69 Wan Tho Ave <br>
 	</div>
-	</div>
 	<div class="box">
 			<span class="talk-tag">Talk</span>
 			<h5 style="margin-top:8px">Wonders of Waterlilies</h5>
@@ -248,7 +247,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 		<b>Time: </b>9.00am-12.00pm<br>
 			<b>Where:</b> 134 Marsiling Road, Singapore 730134<br>
 		</div>
-	
+
 		<div class="wrapper">
 		<div class="box">
 			<span class="tour-tag">Tour</span>
@@ -273,7 +272,8 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Date:</b> 26 April 2025, Saturday<br>
 		<b>Time: </b>9.00am-11.00am<br>
 			<b>Where:</b> Kampung Admiralty, 676 Woodlands Drive 71, Singapore 730676<br>
-			</div></div>
+			</div>
+		</div>
 	<div class="wrapper">
 			<div class="box">
 			<span class="workshop-tag">Workshop</span>
@@ -291,4 +291,4 @@ You are encouraged to contact the organisers directly for specific queries on ev
 		<b>Time: </b>8.00am-11.00am<br>
 			<b>Where:</b> Blk 350 Corporation Drive, Singapore 610350<br>
 </div><br>
-			</div></section>
+			</div></div></section>
