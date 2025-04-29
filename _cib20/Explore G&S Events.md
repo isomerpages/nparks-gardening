@@ -242,6 +242,16 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Enquiries:</b> Email <a href="mailto:happytownteacher@gmail.com">happytownteacher@gmail.com</a><br><br>
 		<b>Registration:</b> No registration needed, walk-ins are accepted<br>
 </div>
+		<div class="box">
+			<span class="booth-tag">Booth</span>
+			<h5 style="margin-top:8px">Mum's Day Out</h5>
+			<b>Organiser:</b> Centre for Fathering<br>
+			<b>Date:</b> 10 May 2025, Saturday<br>
+		<b>Time: </b>10.00am-5.00pm<br>
+			<b>Where:</b> Geylang West Community Centre, 1205 Upper Boon Keng Road S(387311)<br>
+			<b>Enquiries:</b> Email <a href="mailto:happytownteacher@gmail.com">happytownteacher@gmail.com</a><br><br>
+			<b>Registration: </b>No registration needed, walk-ins are accepted
+</div>
 	</div>
 				<h5 id="18-24May">18 - 24 May 2025</h5>
 	<div class="wrapper">
