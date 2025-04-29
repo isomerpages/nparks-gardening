@@ -247,7 +247,8 @@ You are encouraged to contact the organisers directly for specific queries on ev
 		<b>Time: </b>9.00am-12.00pm<br>
 			<b>Where:</b> 134 Marsiling Road, Singapore 730134<br>
 </div>
-	<div class="box">
+		<div class="wrapper">
+		<div class="box">
 			<span class="tour-tag">Tour</span>
 			<h5 style="margin-top:8px">Distillation Demo Session and Educational Garden Tour</h5>
 			<b>Organiser:</b> Bukit Batok Central Educational Garden <br>
@@ -271,6 +272,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 		<b>Time: </b>9.00am-11.00am<br>
 			<b>Where:</b> Kampung Admiralty, 676 Woodlands Drive 71, Singapore 730676<br>
 </div>
+					<div class="wrapper">
 						<div class="box">
 			<span class="workshop-tag">Workshop</span>
 			<h5 style="margin-top:8px">Garden Open House at Community Day</h5>
@@ -279,7 +281,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 		<b>Time: </b>5.00pm-7.00pm<br>
 			<b>Where:</b> Telok Kurau Park<br>
 </div>
-		</div><div class="box">
+		<div class="box">
 			<span class="booth-tag">Booth</span><span class="tour-tag">Tour</span>
 			<h5 style="margin-top:8px">Taman Jurong Zone D Block Party</h5>
 			<b>Organiser:</b> Taman Jurong Zone D Gardening Interest Group<br>
@@ -287,4 +289,4 @@ You are encouraged to contact the organisers directly for specific queries on ev
 		<b>Time: </b>8.00am-11.00am<br>
 			<b>Where:</b> Blk 350 Corporation Drive, Singapore 610350<br>
 	</div>
-	</div></section>
+	</div></div></div></div></section>
