@@ -280,8 +280,8 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Organiser:</b> Telok Kurau Central Community Garden<br>
 			<b>Date:</b> 26 April 2025, Saturday<br>
 		<b>Time: </b>5.00pm-7.00pm<br>
-			<b>Where:</b> Telok Kurau Park<br>
-	</div>
+			<b>Where:</b> Telok Kurau Park <br>
+</div>
 		<div class="box">
 			<span class="booth-tag">Booth</span><span class="tour-tag">Tour</span>
 			<h5 style="margin-top:8px">Taman Jurong Zone D Block Party</h5>
@@ -289,5 +289,4 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Date:</b> 27 April 2025, Sunday<br>
 		<b>Time: </b>8.00am-11.00am<br>
 			<b>Where:</b> Blk 350 Corporation Drive, Singapore 610350<br>
-						</div>
-</div>
+</div></div>
