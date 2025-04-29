@@ -126,7 +126,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<div class="box">
 						<span class="workshop-tag">Workshop</span><span class="tour-tag">Tour</span>
 			<h5 style="margin-top:8px">Harvest Sharing @ Happy Town Childcare Pte Ltd</h5>
-	 <b>Organisers:</b> Happy Town Childcare Pte Ltd<br>
+	 <b>Organiser:</b> Happy Town Childcare Pte Ltd<br>
 			<b>Date:</b> 2 May 2025, Friday<br>
 		<b>Time: </b>9.30am - 11.30am<br>
 			<b>Where:</b> 1205 Upper Boon Keng Road, Happy Town Childcare Pte Ltd, Geylang West Community Centre #01-05 S387311<br>
@@ -149,7 +149,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<div class="box">
 						<span class="workshop-tag">Workshop</span>
 			<h5 style="margin-top:8px">Composting Workshop</h5>
-	 <b>Organisers:</b> Telok Kurau Central Community Garden<br>
+	 <b>Organiser:</b> Telok Kurau Central Community Garden<br>
 			<b>Date:</b> 24 May 2025, Saturday<br>
 		<b>Time: </b>9.00am - 11.00am<br>
 			<b>Where:</b> Telok Kurau Park<br>
@@ -162,7 +162,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 	<div class="box">
 						<span class="workshop-tag">Workshop</span>
 			<h5 style="margin-top:8px">Organic Compost</h5>
-	 <b>Organisers:</b> Garden Greens (Paper Innovation Pte Ltd)<br>
+	 <b>Organiser:</b> Garden Greens (Paper Innovation Pte Ltd)<br>
 			<b>Date:</b> 8 June 2025, Sunday<br>
 		<b>Time: </b>5.30pm-7.30pm<br>
 			<b>Where:</b> 40 Ubi Techpark, #01-04 Ubi Crescent, S(408567)<br>
@@ -174,7 +174,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 	<div class="box">
 						<span class="tour-tag">Tour</span>
 			<h5 style="margin-top:8px">Garden Craft, Botanical Sketching &amp; Herbal Tea Stations</h5>
-	 <b>Organisers:</b> Happy Town Childcare Pte Ltd<br>
+	 <b>Organiser:</b> Happy Town Childcare Pte Ltd<br>
 			<b>Date:</b> 28 June 2025, Saturday<br>
 		<b>Time: </b>10.00am-12.00pm<br>
 			<b>Where:</b> 1205 Upper Boon Keng Road, Happy Town Childcare Pte Ltd, Geylang West Community Centre #01-05 S387311<br>
@@ -186,7 +186,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 	<div class="box">
 						<span class="workshop-tag">Workshop</span>
 			<h5 style="margin-top:8px">ABCs of Gardening</h5>
-	 <b>Organisers:</b> Harvey Crescent Community Garden (Sea Breeze Garden NC)<br>
+	 <b>Organiser:</b> Harvey Crescent Community Garden (Sea Breeze Garden NC)<br>
 			<b>Date:</b> 6 September 2025, Saturday<br>
 		<b>Time: </b>3.00pm-5.00pm<br>
 			<b>Where:</b> Changi-Simei Zone1 RC at Blk 107 Simei Street 1 Level 1, S(520107)<br>
