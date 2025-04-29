@@ -221,7 +221,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Date:</b> 19 April 2025, Saturday<br>
 				<b>Time: </b>9.00am-5.00pm<br>
 			<b>Where:</b> Blk 509, Bishan Street 11 @ Amphitheater, Singapore 570509<br>
-		</div></div><br>
+		</div></div>
 		<div class="wrapper">
 	<div class="box">
 			<span class="tour-tag">Tour</span>
@@ -246,7 +246,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Date:</b> 26 April 2025, Saturday<br>
 		<b>Time: </b>9.00am-12.00pm<br>
 			<b>Where:</b> 134 Marsiling Road, Singapore 730134<br>
-			</div></div><br>
+			</div></div>
 		<div class="wrapper">
 		<div class="box">
 			<span class="tour-tag">Tour</span>
