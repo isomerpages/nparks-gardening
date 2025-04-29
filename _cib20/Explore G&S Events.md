@@ -239,6 +239,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 		<b>Time: </b>8.30am-10.30am<br>
 			<b>Where: </b>69 Wan Tho Ave <br>
 	</div>
+	</div>
 	<div class="box">
 			<span class="talk-tag">Talk</span>
 			<h5 style="margin-top:8px">Wonders of Waterlilies</h5>
@@ -247,7 +248,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 		<b>Time: </b>9.00am-12.00pm<br>
 			<b>Where:</b> 134 Marsiling Road, Singapore 730134<br>
 		</div>
-	</div>
+	
 		<div class="wrapper">
 		<div class="box">
 			<span class="tour-tag">Tour</span>
