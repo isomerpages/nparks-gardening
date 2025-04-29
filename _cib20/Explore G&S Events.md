@@ -272,7 +272,6 @@ You are encouraged to contact the organisers directly for specific queries on ev
 		<b>Time: </b>9.00am-11.00am<br>
 			<b>Where:</b> Kampung Admiralty, 676 Woodlands Drive 71, Singapore 730676<br>
 			</div></div><br>
-			</section>
 					<div class="wrapper">
 						<div class="box">
 			<span class="workshop-tag">Workshop</span>
@@ -289,4 +288,4 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Date:</b> 27 April 2025, Sunday<br>
 		<b>Time: </b>8.00am-11.00am<br>
 			<b>Where:</b> Blk 350 Corporation Drive, Singapore 610350<br>
-</div></div>
+</div></div></section>
