@@ -247,6 +247,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 		<b>Time: </b>9.00am-12.00pm<br>
 			<b>Where:</b> 134 Marsiling Road, Singapore 730134<br>
 		</div>
+	</div>
 		<div class="wrapper">
 		<div class="box">
 			<span class="tour-tag">Tour</span>
@@ -289,4 +290,4 @@ You are encouraged to contact the organisers directly for specific queries on ev
 		<b>Time: </b>8.00am-11.00am<br>
 			<b>Where:</b> Blk 350 Corporation Drive, Singapore 610350<br>
 </div><br>
-			</div></div></section>
+			</div></section>
