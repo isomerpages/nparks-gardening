@@ -221,8 +221,8 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Date:</b> 19 April 2025, Saturday<br>
 				<b>Time: </b>9.00am-5.00pm<br>
 			<b>Where:</b> Blk 509, Bishan Street 11 @ Amphitheater, Singapore 570509<br>
-</div>
-	<div class="wrapper">
+		</div></div><br>
+		<div class="wrapper">
 	<div class="box">
 			<span class="tour-tag">Tour</span>
 			<h5 style="margin-top:8px">Sensory Node Launch at 813 Rooftop Landscape &amp; Community Garden</h5>
@@ -246,7 +246,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Date:</b> 26 April 2025, Saturday<br>
 		<b>Time: </b>9.00am-12.00pm<br>
 			<b>Where:</b> 134 Marsiling Road, Singapore 730134<br>
-</div>
+			</div></div><br>
 		<div class="wrapper">
 		<div class="box">
 			<span class="tour-tag">Tour</span>
@@ -271,7 +271,8 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Date:</b> 26 April 2025, Saturday<br>
 		<b>Time: </b>9.00am-11.00am<br>
 			<b>Where:</b> Kampung Admiralty, 676 Woodlands Drive 71, Singapore 730676<br>
-</div>
+			</div></div><br>
+			</section>
 					<div class="wrapper">
 						<div class="box">
 			<span class="workshop-tag">Workshop</span>
@@ -280,7 +281,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Date:</b> 26 April 2025, Saturday<br>
 		<b>Time: </b>5.00pm-7.00pm<br>
 			<b>Where:</b> Telok Kurau Park<br>
-</div>
+	</div>
 		<div class="box">
 			<span class="booth-tag">Booth</span><span class="tour-tag">Tour</span>
 			<h5 style="margin-top:8px">Taman Jurong Zone D Block Party</h5>
@@ -288,6 +289,5 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Date:</b> 27 April 2025, Sunday<br>
 		<b>Time: </b>8.00am-11.00am<br>
 			<b>Where:</b> Blk 350 Corporation Drive, Singapore 610350<br>
+						</div>
 	</div>
-	</div></div></div></div>
-	</section>
