@@ -115,7 +115,8 @@ You are encouraged to contact the organisers directly for specific queries on ev
 				<td><a style="text-decoration:none" href="#1-10May">1-10 May</a></td>
 				<td><a style="text-decoration:none" href="#18-24May">18-24 May</a></td>
 				<td><a style="text-decoration:none" href="#8-14Jun">8-14 June</a></td>
-				<td><a style="text-decoration:none" href="#8-14Jun">22-28 June</a></td>
+				<td><a style="text-decoration:none" href="#22-28Jun">22-28 June</a></td>
+				<td><a style="text-decoration:none" href="#1-6Sep">1-6 September</a></td>
 			</tr>
 		</tbody>
 		</table>
@@ -278,6 +279,18 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Where:</b> 1205 Upper Boon Keng Road, Happy Town Childcare Pte Ltd, Geylang West Community Centre #01-05 S387311<br>
 			<b>Enquiries:</b> Email <a href="mailto:happytownteacher@gmail.com">happytownteacher@gmail.com</a><br><br>
 		<a target="_blank" class="button-primary" href="https://forms.gle/8XLZ6cAffap1QjDk9">Register here</a>
+</div></div>
+	<h5 id="1-6Sep">1 - 6 September 2025</h5>
+	<div class="wrapper">
+	<div class="box">
+						<span class="workshop-tag">Workshop</span>
+			<h5 style="margin-top:8px">ABCs of Gardening</h5>
+	 <b>Organisers:</b> Harvey Crescent Community Garden (Sea Breeze Garden NC)<br>
+			<b>Date:</b> 6 September 2025, Saturday<br>
+		<b>Time: </b>3.00pm-5.00pm<br>
+			<b>Where:</b> Changi-Simei Zone1 RC at Blk 107 Simei Street 1 Level 1, S(520107)<br>
+			<b>Enquiries:</b> Email <a href="PA_changisimeicc@pa.gov.sg">PA_changisimeicc@pa.gov.sg</a><br><br>
+		<b>Registration:</b> No registration needed, walk-ins accepted<br>
 </div></div>
 </section>
 <br>
