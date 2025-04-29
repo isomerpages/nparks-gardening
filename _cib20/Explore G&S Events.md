@@ -195,6 +195,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 </div></div>
 </section>
 <br>
+<section>
 <h5>Past events</h5>
 	<div class="wrapper">
 		<div class="box">
@@ -286,3 +287,4 @@ You are encouraged to contact the organisers directly for specific queries on ev
 		<b>Time: </b>8.00am-11.00am<br>
 			<b>Where:</b> Blk 350 Corporation Drive, Singapore 610350<br>
 	</div></div>
+	</section>
