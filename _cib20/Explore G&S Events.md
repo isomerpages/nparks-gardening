@@ -273,7 +273,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Where:</b> Kampung Admiralty, 676 Woodlands Drive 71, Singapore 730676<br>
 			</div>
 	<div class="wrapper">
-						<div class="box">
+			<div class="box">
 			<span class="workshop-tag">Workshop</span>
 			<h5 style="margin-top:8px">Garden Open House at Community Day</h5>
 			<b>Organiser:</b> Telok Kurau Central Community Garden<br>
