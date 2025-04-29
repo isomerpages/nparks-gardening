@@ -230,7 +230,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Date:</b> 26 April 2025, Saturday<br>
 		<b>Time: </b>9.30am-11.30am<br>
 			<b>Where:</b> 813 Rooftop Landscape &amp; Community Garden<br>
-</div>
+			</div></div>
 	<div class="box">
 			<span class="tour-tag">Tour</span>
 			<h5 style="margin-top:8px">Garden Open House at Sennett Community Harvest Hub</h5>
@@ -246,7 +246,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Date:</b> 26 April 2025, Saturday<br>
 		<b>Time: </b>9.00am-12.00pm<br>
 			<b>Where:</b> 134 Marsiling Road, Singapore 730134<br>
-			</div></div>
+			</div>
 		<div class="wrapper">
 		<div class="box">
 			<span class="tour-tag">Tour</span>
@@ -255,7 +255,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Date:</b> 26 April 2025, Saturday<br>
 		<b>Time: </b>10.00am<br>
 			<b>Where:</b> Sheltered Hardcourt at Blk 622B Bukit Batok Central, Singapore 652622<br>
-</div>
+</div></div>
 		<div class="box">
 			<span class="booth-tag">Booth</span>
 			<h5 style="margin-top:8px">Earth Day</h5>
@@ -287,5 +287,5 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Date:</b> 27 April 2025, Sunday<br>
 		<b>Time: </b>8.00am-11.00am<br>
 			<b>Where:</b> Blk 350 Corporation Drive, Singapore 610350<br>
-</div></div><br>
+</div><br>
 			</section>
