@@ -192,7 +192,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Where:</b> Changi-Simei Zone1 RC at Blk 107 Simei Street 1 Level 1, S(520107)<br>
 			<b>Enquiries:</b> Email <a href="PA_changisimeicc@pa.gov.sg">PA_changisimeicc@pa.gov.sg</a><br><br>
 		<b>Registration:</b> No registration needed, walk-ins accepted<br>
-</div></div>
+		</div></div>
 </section>
 <br>
 <section>
@@ -221,7 +221,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Date:</b> 19 April 2025, Saturday<br>
 				<b>Time: </b>9.00am-5.00pm<br>
 			<b>Where:</b> Blk 509, Bishan Street 11 @ Amphitheater, Singapore 570509<br>
-		</div></div>
+		</div>
 		<div class="wrapper">
 	<div class="box">
 			<span class="tour-tag">Tour</span>
@@ -255,7 +255,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Date:</b> 26 April 2025, Saturday<br>
 		<b>Time: </b>10.00am<br>
 			<b>Where:</b> Sheltered Hardcourt at Blk 622B Bukit Batok Central, Singapore 652622<br>
-</div></div>
+</div>
 		<div class="box">
 			<span class="booth-tag">Booth</span>
 			<h5 style="margin-top:8px">Earth Day</h5>
@@ -288,4 +288,4 @@ You are encouraged to contact the organisers directly for specific queries on ev
 		<b>Time: </b>8.00am-11.00am<br>
 			<b>Where:</b> Blk 350 Corporation Drive, Singapore 610350<br>
 </div><br>
-			</section>
+			</div></div></section>
