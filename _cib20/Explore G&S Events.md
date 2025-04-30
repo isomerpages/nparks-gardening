@@ -136,7 +136,8 @@ You are encouraged to contact the organisers directly for specific queries on ev
 		<div class="box">
 			<span class="booth-tag">Booth</span>
 			<h5 style="margin-top:8px">Mum's Day Out</h5>
-			<b>Organiser:</b> Happy Town Childcare Pte Ltd and Kelantan RN (in collaboration with Centre for Fathering) <br>
+			<b>Organiser:</b> Centre for Fathering <br>
+			<b>Participating groups:</b> Happy Town Childcare Pte Ltd and Kelantan RN <br>
 			<b>Date:</b> 10 May 2025, Saturday<br>
 		<b>Time: </b>10.00am-5.00pm<br>
 			<b>Where:</b> Geylang West Community Centre, 1205 Upper Boon Keng Road S(387311)<br>
