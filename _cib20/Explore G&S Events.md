@@ -263,7 +263,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Date:</b> 26 April 2025, Saturday<br>
 		<b>Time: </b>9.00am-11.00am<br>
 			<b>Where:</b> Kampung Admiralty, 676 Woodlands Drive 71, Singapore 730676<br>
-		</div>
+</div>
 				<div class="box">
 			<span class="booth-tag">Booth</span><span class="workshop-tag">Workshop</span>
 			<h5 style="margin-top:8px">Nurture Nature, World Earth Day Celebration</h5>
@@ -271,8 +271,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Date:</b> 26 April 2025, Saturday<br>
 		<b>Time: </b>9.00am-11.00am<br>
 			<b>Where:</b> Kampung Admiralty, 676 Woodlands Drive 71, Singapore 730676<br>
-			</div>
-		</div><div>
+</div>
 	<div class="wrapper">
 			<div class="box">
 			<span class="workshop-tag">Workshop</span>
@@ -281,7 +280,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Date:</b> 26 April 2025, Saturday<br>
 		<b>Time: </b>5.00pm-7.00pm<br>
 			<b>Where:</b> Telok Kurau Park <br>
-		</div></div>
+</div>
 	<div class="box">
 			<span class="booth-tag">Booth</span><span class="tour-tag">Tour</span>
 			<h5 style="margin-top:8px">Taman Jurong Zone D Block Party</h5>
@@ -290,4 +289,4 @@ You are encouraged to contact the organisers directly for specific queries on ev
 		<b>Time: </b>8.00am-11.00am<br>
 			<b>Where:</b> Blk 350 Corporation Drive, Singapore 610350<br>
 </div><br>
-			</div></section>
+			</div></div></section>
