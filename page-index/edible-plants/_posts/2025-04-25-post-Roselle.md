@@ -1,6 +1,6 @@
 ---
 title: Roselle
-permalink: /roselle/
+permalink: /page-index/edible-plants/roselle/
 date: 2025-04-25
 layout: post
 description: ""
