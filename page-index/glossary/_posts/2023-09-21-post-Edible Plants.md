@@ -211,7 +211,7 @@ variant: markdown
 <section>
 <h4 id="r">R</h4>
 	<a class="body" href="/page-index/edible-plants/radish/">Radish</a><br>
-	<a class="body" href="https://gardeningsg.nparks.gov.sg/roselle/">Roselle</a><br>
+	<a class="body" href="/page-index/edible-plants/roselle/">Roselle</a><br>
 <br><br>
 </section>
 
