@@ -15,6 +15,6 @@ variant: markdown
 </ul>
 <p>NParks has a suite of programmes and events just for gardeners. Come and garden with us!</p>
 <ul>
-	<li> Visit <a href="https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/hortpark/gdo-details">Gardener's Day Out</a> at HortPark or <a href="https://www.nparks.gov.sg/juronglakegardens/whats-happening/bazaar-in-the-garden">Bazaar In the Garden</a> at the Jurong Lake Gardens to attend tours, workshops, talks and a gardener's bazaar on the 3<sup>rd</sup> and last Saturday of the month</li>
-	<li><a href="https://www.volunteer.gov.sg/volunteer/agencies/agency_details?code=NParks">Volunteer</a> as a gardener in a public park</li>
+	<li> Visit <a href="https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/hortpark/gdo-details">Gardener's Day Out</a> at HortPark  to attend tours, workshops, talks and a gardener's bazaar on the 3<sup>rd</sup> and last Saturday of the month</li>
+	<li><a href="https://www.volunteer.gov.sg/volunteer/agencies/agency_details?code=NParks">Volunteer</a> as a gardener in a public park or join a community garden near you</li>
 </ul>
