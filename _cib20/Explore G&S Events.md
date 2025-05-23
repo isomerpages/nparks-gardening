@@ -205,86 +205,82 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Organiser:</b> Pelatok Art Farm (Changi Simei CCC)<br>
 			<b>Date:</b> 1 April 2025, Tuesday<br>
 			<b>Where:</b> URA Centre<br>
-</div>
-		<div class="wrapper">
+		</div>
 		<div class="box">
 			<span class="tour-tag">Tour</span>
 			<h5 style="margin-top:8px">Garden Tour at Toh Yi RN Community Garden</h5>
 			<b>Organiser:</b> Toh Yi RN Community Garden<br>
 			<b>Date:</b> 13 April 2025, Sunday<br>
 			<b>Where:</b> 4 Toh Yi Drive, Singapore 590004<br>
-</div>
+		</div>
 		<div class="box">
 			<span class="tour-tag">Tour</span>
 			<h5 style="margin-top:8px">Garden Tour @ Bukit Batok Zone 2 RN Cosy Garden</h5>
 			<b>Organiser:</b> Bukit Batok Zone 2 RN Cosy Garden<br>
 			<b>Date:</b> 13 April 2025, Sunday<br>
 			<b>Where:</b> 106 Bukit Batok Central, Singapore 650106<br>
-</div>
-			<div class="box">
+		</div>
+		<div class="box">
 			<span class="marketplace-tag">Marketplace</span>
 			<h5 style="margin-top:8px">Easter Green Bazaar</h5>
 			<b>Organiser:</b> Bishan East Zone 1 RN Green Hub<br>
 			<b>Date:</b> 19 April 2025, Saturday<br>
 			<b>Where:</b> Blk 509, Bishan Street 11 @ Amphitheater, Singapore 570509<br>
 		</div>
-		<div class="wrapper">
-	<div class="box">
+		<div class="box">
 			<span class="tour-tag">Tour</span>
 			<h5 style="margin-top:8px">Sensory Node Launch at 813 Rooftop Landscape &amp; Community Garden</h5>
 			<b>Organiser:</b> Nee Soon South Zone C RN <br>
 			<b>Date:</b> 26 April 2025, Saturday<br>
 			<b>Where:</b> 813 Rooftop Landscape &amp; Community Garden<br>
-			</div></div>
-	<div class="box">
+		</div>
+		<div class="box">
 			<span class="tour-tag">Tour</span>
 			<h5 style="margin-top:8px">Garden Open House at Sennett Community Harvest Hub</h5>
 			<b>Organiser:</b> Sennett Community Harvest Hub <br>
 			<b>Date:</b> 26 April 2025, Saturday<br>
 			<b>Where: </b>69 Wan Tho Ave <br>
-	</div>
-	<div class="box">
+		</div>
+		<div class="box">
 			<span class="talk-tag">Talk</span>
 			<h5 style="margin-top:8px">Wonders of Waterlilies</h5>
 			<b>Organiser:</b> Woodlands Botanical Garden <br>
 			<b>Date:</b> 26 April 2025, Saturday<br>
 			<b>Where:</b> 134 Marsiling Road, Singapore 730134<br>
 		</div>
-			<div class="wrapper">
 		<div class="box">
 			<span class="tour-tag">Tour</span>
 			<h5 style="margin-top:8px">Distillation Demo Session and Educational Garden Tour</h5>
 			<b>Organiser:</b> Bukit Batok Central Educational Garden <br>
 			<b>Date:</b> 26 April 2025, Saturday<br>
 			<b>Where:</b> Sheltered Hardcourt at Blk 622B Bukit Batok Central, Singapore 652622<br>
-</div>
+		</div>
 		<div class="box">
 			<span class="booth-tag">Booth</span>
 			<h5 style="margin-top:8px">Earth Day</h5>
 			<b>Organiser:</b> Blossom Cottage Community Garden and Spring Cottage Community Garden <br>
 			<b>Date:</b> 26 April 2025, Saturday<br>
 			<b>Where:</b> Kampung Admiralty, 676 Woodlands Drive 71, Singapore 730676<br>
-</div>
-				<div class="box">
+		</div>
+		<div class="box">
 			<span class="booth-tag">Booth</span><span class="workshop-tag">Workshop</span>
 			<h5 style="margin-top:8px">Nurture Nature, World Earth Day Celebration</h5>
 			<b>Organiser:</b> Garden of Bees and Blooms (Woodlands Zone 2 RN)<br>
 			<b>Date:</b> 26 April 2025, Saturday<br>
 			<b>Where:</b> Kampung Admiralty, 676 Woodlands Drive 71, Singapore 730676<br>
-</div>
-	<div class="wrapper">
-			<div class="box">
+		</div>
+		<div class="box">
 			<span class="workshop-tag">Workshop</span>
 			<h5 style="margin-top:8px">Garden Open House at Community Day</h5>
 			<b>Organiser:</b> Telok Kurau Central Community Garden<br>
 			<b>Date:</b> 26 April 2025, Saturday<br>
 			<b>Where:</b> Telok Kurau Park <br>
-</div>
-	<div class="box">
+		</div>
+		<div class="box">
 			<span class="booth-tag">Booth</span><span class="tour-tag">Tour</span>
 			<h5 style="margin-top:8px">Taman Jurong Zone D Block Party</h5>
 			<b>Organiser:</b> Taman Jurong Zone D Gardening Interest Group<br>
 			<b>Date:</b> 27 April 2025, Sunday<br>
 			<b>Where:</b> Blk 350 Corporation Drive, Singapore 610350<br>
-</div><br>
-			</div></div></div></div></section>
+		</div><br>
+			</div></section>
