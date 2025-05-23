@@ -288,6 +288,13 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Where:</b> Telok Kurau Park <br>
 		</div>
 		<div class="box">
+			<span class="tour-tag">Tour</span><span class="workshop-tag">Workshop</span>
+			<h5 style="margin-top:8px">Garden Chills @ Arcadia Garden</h5>
+			<b>Organiser:</b> Tampines Arcadia RN<br>
+			<b>Date:</b> 26 April 2025, Saturday<br>
+			<b>Where:</b> Arcadia Community Garden &amp; Coffee Corner, Blk 842G Tampiness St 82 <br>
+		</div>
+		<div class="box">
 			<span class="booth-tag">Booth</span><span class="tour-tag">Tour</span>
 			<h5 style="margin-top:8px">Taman Jurong Zone D Block Party</h5>
 			<b>Organiser:</b> Taman Jurong Zone D Gardening Interest Group<br>
