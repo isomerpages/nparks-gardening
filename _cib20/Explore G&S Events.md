@@ -85,8 +85,8 @@ description: ""
   }
 	
 							  .harvestsharing-tag {
-    background-color: #F8ADAF;
-    border: 1px solid #F8ADAF;
+    background-color: #FFF176;
+    border: 1px solid #FFF176;
     padding: 0.2rem 1rem;
   	border-radius: 0.5rem;
     color: black !important;
