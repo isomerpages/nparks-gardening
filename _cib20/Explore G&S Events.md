@@ -84,6 +84,17 @@ description: ""
 	  margin: 5px 5px 0 3px;
   }
 	
+							  .harvestsharing-tag {
+    background-color: #F8ADAF;
+    border: 1px solid #F8ADAF;
+    padding: 0.2rem 1rem;
+  	border-radius: 0.5rem;
+    color: black !important;
+	  text-decoration: none !important;
+    display: inline-block;
+	  margin: 5px 5px 0 3px;
+  }
+	
 		table a:link {
 		color:black;
 	}
@@ -282,5 +293,12 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Organiser:</b> Taman Jurong Zone D Gardening Interest Group<br>
 			<b>Date:</b> 27 April 2025, Sunday<br>
 			<b>Where:</b> Blk 350 Corporation Drive, Singapore 610350<br>
+		</div>
+		<div class="box">
+			<span class="workshop-tag">Workshop</span><span class="harvestsharing-tag">Harvest Sharing</span>
+			<h5 style="margin-top:8px">Gardening with the Seniors</h5>
+			<b>Organiser:</b> My First Skool @ 197D Boon Lay Drive<br>
+			<b>Date:</b> 21 May 2025, Wednesday<br>
+			<b>Where:</b> Blooming Love Garden @ Blk 200 Boon Lay Drive<br>
 		</div><br>
 			</div></section>
