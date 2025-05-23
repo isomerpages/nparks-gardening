@@ -165,8 +165,8 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Time: </b>9.00am - 12.00pm<br>
 			<b>Where:</b> 134 Marsiling Road, Singapore 730134<br>
 			<b>Enquiries:</b> Email Ganesh at <a href="mailto:woodlandsbotanicalgarden@gmail.com">woodlandsbotanicalgarden@gmail.com</a><br><br>
-		<a target="_blank" class="button-primary" href="https://lu.ma/z8epq61c">Register here</a>
-</div>
+		<a target="_blank" class="button-primary" href="https://lu.ma/x9nkjn8b">Register here</a>
+	</div>
 	</div>
 	<h5 id="8-14Jun">8 - 14 June 2025</h5>
 	<div class="wrapper">
@@ -191,7 +191,18 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Where:</b> 1205 Upper Boon Keng Road, Happy Town Childcare Pte Ltd, Geylang West Community Centre #01-05 S387311<br>
 			<b>Enquiries:</b> Email <a href="mailto:happytownteacher@gmail.com">happytownteacher@gmail.com</a><br><br>
 		<a target="_blank" class="button-primary" href="https://forms.gle/8XLZ6cAffap1QjDk9">Register here</a>
-</div></div>
+	</div>
+	<div class="box">
+						<span class="talk-tag">Talk</span>
+			<h5 style="margin-top:8px">BioBlitz and Therapeutic Horticulture</h5>
+	 <b>Organiser:</b> Woodlands Botanical Garden<br>
+			<b>Date:</b> 28 June 2025, Saturday<br>
+			<b>Time: </b>9.00am - 12.00pm<br>
+			<b>Where:</b> 134 Marsiling Road, Singapore 730134<br>
+			<b>Enquiries:</b> Email Ganesh at <a href="mailto:woodlandsbotanicalgarden@gmail.com">woodlandsbotanicalgarden@gmail.com</a><br><br>
+		<a target="_blank" class="button-primary" href="https://lu.ma/z8epq61c">Register here</a>
+	</div>
+</div>
 	<h5 id="1-6Sep">1 - 6 September 2025</h5>
 	<div class="wrapper">
 	<div class="box">
