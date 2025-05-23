@@ -278,7 +278,6 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<h5 style="margin-top:8px">Garden Open House at Community Day</h5>
 			<b>Organiser:</b> Telok Kurau Central Community Garden<br>
 			<b>Date:</b> 26 April 2025, Saturday<br>
-		<b>Time: </b>5.00pm-7.00pm<br>
 			<b>Where:</b> Telok Kurau Park <br>
 </div>
 	<div class="box">
@@ -286,7 +285,6 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<h5 style="margin-top:8px">Taman Jurong Zone D Block Party</h5>
 			<b>Organiser:</b> Taman Jurong Zone D Gardening Interest Group<br>
 			<b>Date:</b> 27 April 2025, Sunday<br>
-		<b>Time: </b>8.00am-11.00am<br>
 			<b>Where:</b> Blk 350 Corporation Drive, Singapore 610350<br>
 </div><br>
 			</div></div></div></div></section>
