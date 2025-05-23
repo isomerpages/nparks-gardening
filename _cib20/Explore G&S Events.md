@@ -121,8 +121,8 @@ You are encouraged to contact the organisers directly for specific queries on ev
 	<table>
 		<tbody>
 			<tr>
-				<td><a style="text-decoration:none" href="#1-10May">1-10 May</a></td>
 				<td><a style="text-decoration:none" href="#18-24May">18-24 May</a></td>
+				<td><a style="text-decoration:none" href="#25-31May">25-31 May</a></td>
 				<td><a style="text-decoration:none" href="#8-14Jun">8-14 June</a></td>
 				<td><a style="text-decoration:none" href="#22-28Jun">22-28 June</a></td>
 				<td><a style="text-decoration:none" href="#1-6Sep">1-6 September</a></td>
@@ -132,30 +132,6 @@ You are encouraged to contact the organisers directly for specific queries on ev
 </section><br>
 
 <section>
-			<h5 id="1-10May">1 - 10 May 2025</h5>
-	<div class="wrapper">
-			<div class="box">
-						<span class="workshop-tag">Workshop</span><span class="tour-tag">Tour</span>
-			<h5 style="margin-top:8px">Harvest Sharing @ Happy Town Childcare Pte Ltd</h5>
-	 <b>Organiser:</b> Happy Town Childcare Pte Ltd<br>
-			<b>Date:</b> 2 May 2025, Friday<br>
-		<b>Time: </b>9.30am - 11.30am<br>
-			<b>Where:</b> 1205 Upper Boon Keng Road, Happy Town Childcare Pte Ltd, Geylang West Community Centre #01-05 S387311<br>
-			<b>Enquiries:</b> Email <a href="mailto:happytownteacher@gmail.com">happytownteacher@gmail.com</a><br><br>
-		<b>Registration:</b> No registration needed, walk-ins are accepted<br>
-</div>
-		<div class="box">
-			<span class="booth-tag">Booth</span>
-			<h5 style="margin-top:8px">Mum's Day Out</h5>
-			<b>Organiser:</b> Centre for Fathering <br>
-			<b>Participating groups:</b> Happy Town Childcare Pte Ltd and Kelantan RN <br>
-			<b>Date:</b> 10 May 2025, Saturday<br>
-		<b>Time: </b>10.00am-5.00pm<br>
-			<b>Where:</b> Geylang West Community Centre, 1205 Upper Boon Keng Road S(387311)<br>
-			<b>Enquiries:</b> Email <a href="mailto:happytownteacher@gmail.com">happytownteacher@gmail.com</a><br><br>
-			<b>Registration: </b>No registration needed, walk-ins are accepted
-</div>
-	</div>
 				<h5 id="18-24May">18 - 24 May 2025</h5>
 	<div class="wrapper">
 			<div class="box">
@@ -167,6 +143,19 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Where:</b> Telok Kurau Park<br>
 			<b>Enquiries:</b> Email <a href="mailto:Tkcenntralrn@gmail.com">tkcenntralrn@gmail.com</a><br><br>
 		<b>Registration:</b> To be updated<br>
+</div>
+	</div>
+		<h5 id="25-31May">25 - 31 May 2025</h5>
+	<div class="wrapper">
+			<div class="box">
+						<span class="talk-tag">Talk</span>
+			<h5 style="margin-top:8px">BioBlitz and Growing Microgreens</h5>
+	 <b>Organiser:</b> Woodlands Botanical Garden<br>
+			<b>Date:</b> 31 May 2025, Saturday<br>
+			<b>Time: </b>9.00am - 12.00pm<br>
+			<b>Where:</b> 134 Marsiling Road, Singapore 730134<br>
+			<b>Enquiries:</b> Email <a href="mailto:woodlandsbotanicalgarden@gmail.com">woodlandsbotanicalgarden@gmail.com</a><br><br>
+		<a target="_blank" class="button-primary" href="https://lu.ma/z8epq61c">Register here</a>
 </div>
 	</div>
 	<h5 id="8-14Jun">8 - 14 June 2025</h5>
@@ -322,4 +311,19 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Date:</b> 21 May 2025, Wednesday<br>
 			<b>Where:</b> Blooming Love Garden @ Blk 200 Boon Lay Drive<br>
 		</div><br>
+		<div class="box">
+				<span class="workshop-tag">Workshop</span><span class="tour-tag">Tour</span>
+			<h5 style="margin-top:8px">Harvest Sharing @ Happy Town Childcare Pte Ltd</h5>
+			 <b>Organiser:</b> Happy Town Childcare Pte Ltd<br>
+			<b>Date:</b> 2 May 2025, Friday<br>
+			<b>Where:</b> 1205 Upper Boon Keng Road, Happy Town Childcare Pte Ltd, Geylang West Community Centre #01-05 S387311<br>
+		</div>
+		<div class="box">
+			<span class="booth-tag">Booth</span>
+			<h5 style="margin-top:8px">Mum's Day Out</h5>
+			<b>Organiser:</b> Centre for Fathering <br>
+			<b>Participating groups:</b> Happy Town Childcare Pte Ltd and Kelantan RN <br>
+			<b>Date:</b> 10 May 2025, Saturday<br>
+			<b>Where:</b> Geylang West Community Centre, 1205 Upper Boon Keng Road S(387311)<br>
+		</div>
 			</div></section>
