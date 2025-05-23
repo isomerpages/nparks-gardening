@@ -84,6 +84,17 @@ description: ""
 	  margin: 5px 5px 0 3px;
   }
 	
+							  .harvestsharing-tag {
+    background-color: #FFF176;
+    border: 1px solid #FFF176;
+    padding: 0.2rem 1rem;
+  	border-radius: 0.5rem;
+    color: black !important;
+	  text-decoration: none !important;
+    display: inline-block;
+	  margin: 5px 5px 0 3px;
+  }
+	
 		table a:link {
 		color:black;
 	}
@@ -110,8 +121,8 @@ You are encouraged to contact the organisers directly for specific queries on ev
 	<table>
 		<tbody>
 			<tr>
-				<td><a style="text-decoration:none" href="#1-10May">1-10 May</a></td>
 				<td><a style="text-decoration:none" href="#18-24May">18-24 May</a></td>
+				<td><a style="text-decoration:none" href="#25-31May">25-31 May</a></td>
 				<td><a style="text-decoration:none" href="#8-14Jun">8-14 June</a></td>
 				<td><a style="text-decoration:none" href="#22-28Jun">22-28 June</a></td>
 				<td><a style="text-decoration:none" href="#1-6Sep">1-6 September</a></td>
@@ -121,30 +132,6 @@ You are encouraged to contact the organisers directly for specific queries on ev
 </section><br>
 
 <section>
-			<h5 id="1-10May">1 - 10 May 2025</h5>
-	<div class="wrapper">
-			<div class="box">
-						<span class="workshop-tag">Workshop</span><span class="tour-tag">Tour</span>
-			<h5 style="margin-top:8px">Harvest Sharing @ Happy Town Childcare Pte Ltd</h5>
-	 <b>Organiser:</b> Happy Town Childcare Pte Ltd<br>
-			<b>Date:</b> 2 May 2025, Friday<br>
-		<b>Time: </b>9.30am - 11.30am<br>
-			<b>Where:</b> 1205 Upper Boon Keng Road, Happy Town Childcare Pte Ltd, Geylang West Community Centre #01-05 S387311<br>
-			<b>Enquiries:</b> Email <a href="mailto:happytownteacher@gmail.com">happytownteacher@gmail.com</a><br><br>
-		<b>Registration:</b> No registration needed, walk-ins are accepted<br>
-</div>
-		<div class="box">
-			<span class="booth-tag">Booth</span>
-			<h5 style="margin-top:8px">Mum's Day Out</h5>
-			<b>Organiser:</b> Centre for Fathering <br>
-			<b>Participating groups:</b> Happy Town Childcare Pte Ltd and Kelantan RN <br>
-			<b>Date:</b> 10 May 2025, Saturday<br>
-		<b>Time: </b>10.00am-5.00pm<br>
-			<b>Where:</b> Geylang West Community Centre, 1205 Upper Boon Keng Road S(387311)<br>
-			<b>Enquiries:</b> Email <a href="mailto:happytownteacher@gmail.com">happytownteacher@gmail.com</a><br><br>
-			<b>Registration: </b>No registration needed, walk-ins are accepted
-</div>
-	</div>
 				<h5 id="18-24May">18 - 24 May 2025</h5>
 	<div class="wrapper">
 			<div class="box">
@@ -157,6 +144,29 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Enquiries:</b> Email <a href="mailto:Tkcenntralrn@gmail.com">tkcenntralrn@gmail.com</a><br><br>
 		<b>Registration:</b> To be updated<br>
 </div>
+		<div class="box">
+						<span class="booth-tag">Booth</span><span class="workshop-tag">Workshop</span>
+			<h5 style="margin-top:8px">Our Green Day in the Community</h5>
+			<b>Organiser:</b> Garden by the Breeze (Nee Soon South Zone H RN)<br>
+			<b>Date:</b> 24 May 2025, Saturday<br>
+			<b>Time: </b>10.30am-2.30pm<br>
+			<b>Where:</b> Blk 506 Yishun Ave 4 MSCP Lvl 1 Pavilion, Singapore 760506<br>
+			<b>Enquiries:</b> Email <a href="mailto:neesszonehrc@gmail.com">neesszonehrc@gmail.com</a><br><br>
+		<b>Registration:</b> No registration needed, walk-ins accepted<br>
+	</div>
+	</div>
+		<h5 id="25-31May">25 - 31 May 2025</h5>
+	<div class="wrapper">
+			<div class="box">
+						<span class="talk-tag">Talk</span>
+			<h5 style="margin-top:8px">BioBlitz and Growing Microgreens</h5>
+	 <b>Organiser:</b> Woodlands Botanical Garden<br>
+			<b>Date:</b> 31 May 2025, Saturday<br>
+			<b>Time: </b>9.00am - 12.00pm<br>
+			<b>Where:</b> 134 Marsiling Road, Singapore 730134<br>
+			<b>Enquiries:</b> Email Ganesh at <a href="mailto:woodlandsbotanicalgarden@gmail.com">woodlandsbotanicalgarden@gmail.com</a><br><br>
+		<a target="_blank" class="button-primary" href="https://lu.ma/x9nkjn8b">Register here</a>
+	</div>
 	</div>
 	<h5 id="8-14Jun">8 - 14 June 2025</h5>
 	<div class="wrapper">
@@ -181,7 +191,18 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Where:</b> 1205 Upper Boon Keng Road, Happy Town Childcare Pte Ltd, Geylang West Community Centre #01-05 S387311<br>
 			<b>Enquiries:</b> Email <a href="mailto:happytownteacher@gmail.com">happytownteacher@gmail.com</a><br><br>
 		<a target="_blank" class="button-primary" href="https://forms.gle/8XLZ6cAffap1QjDk9">Register here</a>
-</div></div>
+	</div>
+	<div class="box">
+						<span class="talk-tag">Talk</span>
+			<h5 style="margin-top:8px">BioBlitz and Therapeutic Horticulture</h5>
+	 <b>Organiser:</b> Woodlands Botanical Garden<br>
+			<b>Date:</b> 28 June 2025, Saturday<br>
+			<b>Time: </b>9.00am - 12.00pm<br>
+			<b>Where:</b> 134 Marsiling Road, Singapore 730134<br>
+			<b>Enquiries:</b> Email Ganesh at <a href="mailto:woodlandsbotanicalgarden@gmail.com">woodlandsbotanicalgarden@gmail.com</a><br><br>
+		<a target="_blank" class="button-primary" href="https://lu.ma/z8epq61c">Register here</a>
+	</div>
+</div>
 	<h5 id="1-6Sep">1 - 6 September 2025</h5>
 	<div class="wrapper">
 	<div class="box">
@@ -200,94 +221,130 @@ You are encouraged to contact the organisers directly for specific queries on ev
 <h5>Past events</h5>
 	<div class="wrapper">
 		<div class="box">
+			<span class="booth-tag">Booth</span>
+			<h5 style="margin-top:8px">URA Healthy Cities Exhibition</h5>
+			<b>Organiser:</b> Pelatok Art Farm (Changi Simei CCC)<br>
+			<b>Date:</b> 1 April 2025, Tuesday<br>
+			<b>Where:</b> URA Centre<br>
+		</div>
+		<div class="box">
 			<span class="tour-tag">Tour</span>
 			<h5 style="margin-top:8px">Garden Tour at Toh Yi RN Community Garden</h5>
 			<b>Organiser:</b> Toh Yi RN Community Garden<br>
 			<b>Date:</b> 13 April 2025, Sunday<br>
-			<b>Time: </b>9.30am-10.30am<br>
 			<b>Where:</b> 4 Toh Yi Drive, Singapore 590004<br>
-</div>
+		</div>
 		<div class="box">
 			<span class="tour-tag">Tour</span>
 			<h5 style="margin-top:8px">Garden Tour @ Bukit Batok Zone 2 RN Cosy Garden</h5>
 			<b>Organiser:</b> Bukit Batok Zone 2 RN Cosy Garden<br>
 			<b>Date:</b> 13 April 2025, Sunday<br>
-			<b>Time: </b>9.30am-11.30am<br>
 			<b>Where:</b> 106 Bukit Batok Central, Singapore 650106<br>
-</div>
-			<div class="box">
+		</div>
+		<div class="box">
 			<span class="marketplace-tag">Marketplace</span>
 			<h5 style="margin-top:8px">Easter Green Bazaar</h5>
 			<b>Organiser:</b> Bishan East Zone 1 RN Green Hub<br>
 			<b>Date:</b> 19 April 2025, Saturday<br>
-				<b>Time: </b>9.00am-5.00pm<br>
 			<b>Where:</b> Blk 509, Bishan Street 11 @ Amphitheater, Singapore 570509<br>
 		</div>
-		<div class="wrapper">
-	<div class="box">
+		<div class="box">
 			<span class="tour-tag">Tour</span>
 			<h5 style="margin-top:8px">Sensory Node Launch at 813 Rooftop Landscape &amp; Community Garden</h5>
 			<b>Organiser:</b> Nee Soon South Zone C RN <br>
 			<b>Date:</b> 26 April 2025, Saturday<br>
-		<b>Time: </b>9.30am-11.30am<br>
 			<b>Where:</b> 813 Rooftop Landscape &amp; Community Garden<br>
-			</div></div>
-	<div class="box">
+		</div>
+		<div class="box">
 			<span class="tour-tag">Tour</span>
 			<h5 style="margin-top:8px">Garden Open House at Sennett Community Harvest Hub</h5>
 			<b>Organiser:</b> Sennett Community Harvest Hub <br>
 			<b>Date:</b> 26 April 2025, Saturday<br>
-		<b>Time: </b>8.30am-10.30am<br>
 			<b>Where: </b>69 Wan Tho Ave <br>
-	</div>
-	<div class="box">
+		</div>
+		<div class="box">
 			<span class="talk-tag">Talk</span>
 			<h5 style="margin-top:8px">Wonders of Waterlilies</h5>
 			<b>Organiser:</b> Woodlands Botanical Garden <br>
 			<b>Date:</b> 26 April 2025, Saturday<br>
-		<b>Time: </b>9.00am-12.00pm<br>
 			<b>Where:</b> 134 Marsiling Road, Singapore 730134<br>
 		</div>
-			<div class="wrapper">
 		<div class="box">
 			<span class="tour-tag">Tour</span>
 			<h5 style="margin-top:8px">Distillation Demo Session and Educational Garden Tour</h5>
 			<b>Organiser:</b> Bukit Batok Central Educational Garden <br>
 			<b>Date:</b> 26 April 2025, Saturday<br>
-		<b>Time: </b>10.00am<br>
 			<b>Where:</b> Sheltered Hardcourt at Blk 622B Bukit Batok Central, Singapore 652622<br>
-</div>
+		</div>
 		<div class="box">
 			<span class="booth-tag">Booth</span>
 			<h5 style="margin-top:8px">Earth Day</h5>
 			<b>Organiser:</b> Blossom Cottage Community Garden and Spring Cottage Community Garden <br>
 			<b>Date:</b> 26 April 2025, Saturday<br>
-		<b>Time: </b>9.00am-11.00am<br>
 			<b>Where:</b> Kampung Admiralty, 676 Woodlands Drive 71, Singapore 730676<br>
-</div>
-				<div class="box">
+		</div>
+		<div class="box">
 			<span class="booth-tag">Booth</span><span class="workshop-tag">Workshop</span>
 			<h5 style="margin-top:8px">Nurture Nature, World Earth Day Celebration</h5>
 			<b>Organiser:</b> Garden of Bees and Blooms (Woodlands Zone 2 RN)<br>
 			<b>Date:</b> 26 April 2025, Saturday<br>
-		<b>Time: </b>9.00am-11.00am<br>
 			<b>Where:</b> Kampung Admiralty, 676 Woodlands Drive 71, Singapore 730676<br>
-</div>
-	<div class="wrapper">
-			<div class="box">
+		</div>
+		<div class="box">
 			<span class="workshop-tag">Workshop</span>
 			<h5 style="margin-top:8px">Garden Open House at Community Day</h5>
 			<b>Organiser:</b> Telok Kurau Central Community Garden<br>
 			<b>Date:</b> 26 April 2025, Saturday<br>
-		<b>Time: </b>5.00pm-7.00pm<br>
 			<b>Where:</b> Telok Kurau Park <br>
-</div>
-	<div class="box">
+		</div>
+		<div class="box">
+			<span class="tour-tag">Tour</span><span class="workshop-tag">Workshop</span>
+			<h5 style="margin-top:8px">Garden Chills @ Arcadia Garden</h5>
+			<b>Organiser:</b> Tampines Arcadia RN<br>
+			<b>Date:</b> 26 April 2025, Saturday<br>
+			<b>Where:</b> Arcadia Community Garden &amp; Coffee Corner, Blk 842G Tampiness St 82 <br>
+		</div>
+		<div class="box">
+			<span class="booth-tag">Booth</span>
+			<h5 style="margin-top:8px">World Earth Day</h5>
+			<b>Organiser:</b> Sky Harvest Garden @ Woodlands (Woodlands RN Zone 9)<br>
+			<b>Date:</b> 26 April 2025, Saturday<br>
+			<b>Where:</b> Kampung Admiralty<br>
+		</div>
+		<div class="box">
+			<span class="tour-tag">Tour</span><span class="workshop-tag">Workshop</span>
+			<h5 style="margin-top:8px">Launching Sensory Node</h5>
+			<b>Organiser:</b> Nee Soon South Zone C RN<br>
+			<b>Date:</b> 26 April 2025, Saturday<br>
+			<b>Where:</b> 813 Rooftop Landscape &amp; Community Garden, Yishun Ring Road<br>
+		</div>
+		<div class="box">
 			<span class="booth-tag">Booth</span><span class="tour-tag">Tour</span>
 			<h5 style="margin-top:8px">Taman Jurong Zone D Block Party</h5>
 			<b>Organiser:</b> Taman Jurong Zone D Gardening Interest Group<br>
 			<b>Date:</b> 27 April 2025, Sunday<br>
-		<b>Time: </b>8.00am-11.00am<br>
 			<b>Where:</b> Blk 350 Corporation Drive, Singapore 610350<br>
-</div><br>
-			</div></div></div></section>
+		</div>
+		<div class="box">
+			<span class="workshop-tag">Workshop</span><span class="harvestsharing-tag">Harvest Sharing</span>
+			<h5 style="margin-top:8px">Gardening with the Seniors</h5>
+			<b>Organiser:</b> My First Skool @ 197D Boon Lay Drive<br>
+			<b>Date:</b> 21 May 2025, Wednesday<br>
+			<b>Where:</b> Blooming Love Garden @ Blk 200 Boon Lay Drive<br>
+		</div>
+		<div class="box">
+			<span class="workshop-tag">Workshop</span><span class="tour-tag">Tour</span>
+			<h5 style="margin-top:8px">Harvest Sharing @ Happy Town Childcare Pte Ltd</h5>
+			<b>Organiser:</b> Happy Town Childcare Pte Ltd<br>
+			<b>Date:</b> 2 May 2025, Friday<br>
+			<b>Where:</b> 1205 Upper Boon Keng Road, Happy Town Childcare Pte Ltd, Geylang West Community Centre #01-05 S387311<br>
+		</div>
+		<div class="box">
+			<span class="booth-tag">Booth</span>
+			<h5 style="margin-top:8px">Mum's Day Out</h5>
+			<b>Organiser:</b> Centre for Fathering <br>
+			<b>Participating groups:</b> Happy Town Childcare Pte Ltd and Kelantan RN <br>
+			<b>Date:</b> 10 May 2025, Saturday<br>
+			<b>Where:</b> Geylang West Community Centre, 1205 Upper Boon Keng Road S(387311)<br>
+		</div>
+			</div></section>

@@ -58,7 +58,7 @@ description: ""
 
 <h5>Application</h5>
 <section>
-	<p>Applications for the HortFest Marketplace will open from 1 July 2025, 10.00am to 10 July 2025, 5.00pm via the <a target="_blank" href="https://www.nparks.gov.sg/visit/parks/hortpark/activities/gardeners-day-out#marketplacebooth">Gardeners' Day Out</a> webpage.</p>
+	<p>Applications for the HortFest Marketplace will open from <b>17 June 2025, 10.00am to 24 June 2025, 5.00pm</b> via the <a target="_blank" href="https://www.nparks.gov.sg/visit/parks/hortpark/activities/gardeners-day-out#marketplacebooth">Gardeners' Day Out</a> webpage.</p>
 	<a target="_blank" class="button-primary" href="https://www.nparks.gov.sg/visit/parks/hortpark/activities/gardeners-day-out#marketplacebooth">Find out more</a>
 	<p>For enquiries on HortFest Marketplace, you may contact HortPark by phone at +65 6471 5601, or by email at <a href="_mailto:nparks_hortpark@nparks.gov.sg">nparks_hortpark@nparks.gov.sg</a>.</p>
 </section>
