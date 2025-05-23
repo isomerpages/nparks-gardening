@@ -144,6 +144,16 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Enquiries:</b> Email <a href="mailto:Tkcenntralrn@gmail.com">tkcenntralrn@gmail.com</a><br><br>
 		<b>Registration:</b> To be updated<br>
 </div>
+		<div class="box">
+						<span class="booth-tag">Booth</span><span class="workshop-tag">Workshop</span>
+			<h5 style="margin-top:8px">Our Green Day in the Community</h5>
+			<b>Organiser:</b> Garden by the Breeze (Nee Soon South Zone H RN)<br>
+			<b>Date:</b> 24 May 2025, Saturday<br>
+			<b>Time: </b>10.30am-2.30pm<br>
+			<b>Where:</b> Blk 506 Yishun Ave 4 MSCP Lvl 1 Pavilion, Singapore 760506<br>
+			<b>Enquiries:</b> Email <a href="mailto:neesszonehrc@gmail.com">neesszonehrc@gmail.com</a><br><br>
+		<b>Registration:</b> No registration needed, walk-ins accepted<br>
+	</div>
 	</div>
 		<h5 id="25-31May">25 - 31 May 2025</h5>
 	<div class="wrapper">
@@ -154,7 +164,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Date:</b> 31 May 2025, Saturday<br>
 			<b>Time: </b>9.00am - 12.00pm<br>
 			<b>Where:</b> 134 Marsiling Road, Singapore 730134<br>
-			<b>Enquiries:</b> Email <a href="mailto:woodlandsbotanicalgarden@gmail.com">woodlandsbotanicalgarden@gmail.com</a><br><br>
+			<b>Enquiries:</b> Email Ganesh at <a href="mailto:woodlandsbotanicalgarden@gmail.com">woodlandsbotanicalgarden@gmail.com</a><br><br>
 		<a target="_blank" class="button-primary" href="https://lu.ma/z8epq61c">Register here</a>
 </div>
 	</div>
