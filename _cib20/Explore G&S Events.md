@@ -331,7 +331,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Organiser:</b> My First Skool @ 197D Boon Lay Drive<br>
 			<b>Date:</b> 21 May 2025, Wednesday<br>
 			<b>Where:</b> Blooming Love Garden @ Blk 200 Boon Lay Drive<br>
-		</div><br>
+		</div>
 		<div class="box">
 			<span class="workshop-tag">Workshop</span><span class="tour-tag">Tour</span>
 			<h5 style="margin-top:8px">Harvest Sharing @ Happy Town Childcare Pte Ltd</h5>
