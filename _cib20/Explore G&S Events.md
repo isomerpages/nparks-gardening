@@ -333,9 +333,9 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Where:</b> Blooming Love Garden @ Blk 200 Boon Lay Drive<br>
 		</div><br>
 		<div class="box">
-				<span class="workshop-tag">Workshop</span><span class="tour-tag">Tour</span>
+			<span class="workshop-tag">Workshop</span><span class="tour-tag">Tour</span>
 			<h5 style="margin-top:8px">Harvest Sharing @ Happy Town Childcare Pte Ltd</h5>
-			 <b>Organiser:</b> Happy Town Childcare Pte Ltd<br>
+			<b>Organiser:</b> Happy Town Childcare Pte Ltd<br>
 			<b>Date:</b> 2 May 2025, Friday<br>
 			<b>Where:</b> 1205 Upper Boon Keng Road, Happy Town Childcare Pte Ltd, Geylang West Community Centre #01-05 S387311<br>
 		</div>
