@@ -57,7 +57,7 @@ details[open] > summary {
 </section>
 <br>
 <section>
-<h4>CIB Ambassador Awards 2025 - Nominations now open!</h4>
+<h4>CIB Ambassador Awards 2025</h4>
 	<p>Volunteers from community gardens under the <a href="/get-involved/community-gardens/">Community in Bloom</a> programme are eligible for nomination. We are looking for nominees that are able to: </p>
 	<ul>	
 		<li>Promote the benefits of gardening to a wider community</li>
@@ -66,13 +66,7 @@ details[open] > summary {
 		<li>Galvanise the community with positive conduct</li>
 		<li>Share good gardening practices</li>
 	</ul>		
-<p>Know someone suitable and deserving? Nominate them for the CIB Ambassador Awards today! Nominations close on <b>18 May 2025</b>.</p>		
-
-<div class="wrapper">
-  <a target="_blank" style="text-decoration:none; color: white" href="https://go.gov.sg/cib-ambassadors-nominations-2025"><div class="box">
-    Nominate now!</div></a>
-	</div>
-	<p>For any queries on the CIB Ambassador Awards 2025 nominations, please email us at <a href="_mailto:communityinbloom@nparks.gov.sg">communityin bloom@nparks.gov.sg</a>.</p>	
+<p>Nominations have closed. For any queries on the CIB Ambassador Awards 2025 nominations, please email us at <a href="_mailto:communityinbloom@nparks.gov.sg">communityin bloom@nparks.gov.sg</a>.</p>	
 </section>
 <br>
 <section>	
