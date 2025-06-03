@@ -171,16 +171,6 @@ You are encouraged to contact the organisers directly for specific queries on ev
 	<h5 id="8-14Jun">8 - 14 June 2025</h5>
 	<div class="wrapper">
 	<div class="box">
-						<span class="workshop-tag">Workshop</span>
-			<h5 style="margin-top:8px">Organic Compost</h5>
-	 <b>Organiser:</b> Garden Greens (Paper Innovation Pte Ltd)<br>
-			<b>Date:</b> 8 June 2025, Sunday<br>
-		<b>Time: </b>5.30pm-7.30pm<br>
-			<b>Where:</b> 40 Ubi Techpark, #01-04 Ubi Crescent, S(408567)<br>
-			<b>Enquiries:</b> Email Arthur at <a href="mailto:arthur@print-it.com">arthur@print-it.com.sg</a><br><br>
-		<b>Registration:</b> No registration needed, walk-ins accepted<br>
-</div>
-	<div class="box">
 						<span class="marketplace-tag">Marketplace</span><span class="workshop-tag">Workshop</span>
 			<h5 style="margin-top:8px">Garden Expansion Open House at Spottiswoode Park Community Garden</h5>
 	 <b>Organiser:</b> Spottiswoode Park Community Garden<br>
