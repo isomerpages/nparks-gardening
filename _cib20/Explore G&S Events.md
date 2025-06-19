@@ -129,34 +129,6 @@ You are encouraged to contact the organisers directly for specific queries on ev
 </section><br>
 
 <section>
-				<h5 id="18-24May">18 - 24 May 2025</h5>
-	<div class="wrapper">
-	</div>
-		<h5 id="25-31May">25 - 31 May 2025</h5>
-	<div class="wrapper">
-			<div class="box">
-						<span class="talk-tag">Talk</span>
-			<h5 style="margin-top:8px">BioBlitz and Growing Microgreens</h5>
-	 <b>Organiser:</b> Woodlands Botanical Garden<br>
-			<b>Date:</b> 31 May 2025, Saturday<br>
-			<b>Time: </b>9.00am - 12.00pm<br>
-			<b>Where:</b> 134 Marsiling Road, Singapore 730134<br>
-			<b>Enquiries:</b> Email Ganesh at <a href="mailto:woodlandsbotanicalgarden@gmail.com">woodlandsbotanicalgarden@gmail.com</a><br><br>
-		<a target="_blank" class="button-primary" href="https://lu.ma/x9nkjn8b">Register here</a>
-	</div>
-	</div>
-	<h5 id="8-14Jun">8 - 14 June 2025</h5>
-	<div class="wrapper">
-	<div class="box">
-						<span class="marketplace-tag">Marketplace</span><span class="workshop-tag">Workshop</span>
-			<h5 style="margin-top:8px">Garden Expansion Open House at Spottiswoode Park Community Garden</h5>
-	 <b>Organiser:</b> Spottiswoode Park Community Garden<br>
-			<b>Date:</b> 14 June 2025, Sunday<br>
-		<b>Time: </b>9am - 11am<br>
-			<b>Where:</b> Spottiswoode Park Community Garden, beside Blk 101, Spottiswoode Park Road, Singapore 080101<br>
-			<b>Enquiries:</b> Email <a href="mailto:fungkahwai@yahoo.com.sg">fungkahwai@yahoo.com.sg</a><br><br>
-		<b>Registration:</b> No registration needed, walk-ins accepted<br>
-</div></div>
 	<h5 id="22-28Jun">22 - 28 June 2025</h5>
 	<div class="wrapper">
 	<div class="box">
@@ -338,4 +310,18 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Date:</b> 24 May 2025, Saturday<br>
 			<b>Where:</b> Blk 506 Yishun Ave 4 MSCP Lvl 1 Pavilion, Singapore 760506<br>
 	</div>
+		<div class="box">
+						<span class="talk-tag">Talk</span>
+			<h5 style="margin-top:8px">BioBlitz and Growing Microgreens</h5>
+	 <b>Organiser:</b> Woodlands Botanical Garden<br>
+			<b>Date:</b> 31 May 2025, Saturday<br>
+			<b>Where:</b> 134 Marsiling Road, Singapore 730134<br>
+	</div>
+<div class="box">
+						<span class="marketplace-tag">Marketplace</span><span class="workshop-tag">Workshop</span>
+			<h5 style="margin-top:8px">Garden Expansion Open House at Spottiswoode Park Community Garden</h5>
+	 <b>Organiser:</b> Spottiswoode Park Community Garden<br>
+			<b>Date:</b> 14 June 2025, Sunday<br>
+			<b>Where:</b> Spottiswoode Park Community Garden, beside Blk 101, Spottiswoode Park Road, Singapore 080101<br>
+</div>
 			</div></section>
