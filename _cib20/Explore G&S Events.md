@@ -121,73 +121,35 @@ You are encouraged to contact the organisers directly for specific queries on ev
 	<table>
 		<tbody>
 			<tr>
-				<td><a style="text-decoration:none" href="#18-24May">18-24 May</a></td>
-				<td><a style="text-decoration:none" href="#25-31May">25-31 May</a></td>
-				<td><a style="text-decoration:none" href="#8-14Jun">8-14 June</a></td>
-				<td><a style="text-decoration:none" href="#22-28Jun">22-28 June</a></td>
-				<td><a style="text-decoration:none" href="#1-6Sep">1-6 September</a></td>
+				<td><a style="text-decoration:none" href="#16-22Jun">16-22 June</a></td>
+				<td><a style="text-decoration:none" href="#23-29Jun">23-29 June</a></td>
+				<td><a style="text-decoration:none" href="#1-7Sep">1-7 September</a></td>
 			</tr>
 		</tbody>
 		</table>
 </section><br>
 
 <section>
-				<h5 id="18-24May">18 - 24 May 2025</h5>
+	<h5 id="16-22Jun">16 - 22 June 2025</h5>
 	<div class="wrapper">
 			<div class="box">
-						<span class="workshop-tag">Workshop</span>
-			<h5 style="margin-top:8px">Composting Workshop</h5>
-	 <b>Organiser:</b> Telok Kurau Central Community Garden<br>
-			<b>Date:</b> 24 May 2025, Saturday<br>
-		<b>Time: </b>9.00am - 11.00am<br>
-			<b>Where:</b> Telok Kurau Park<br>
-			<b>Enquiries:</b> Email <a href="mailto:Tkcenntralrn@gmail.com">tkcenntralrn@gmail.com</a><br><br>
-		<b>Registration:</b> To be updated<br>
-</div>
-		<div class="box">
-						<span class="booth-tag">Booth</span><span class="workshop-tag">Workshop</span>
-			<h5 style="margin-top:8px">Our Green Day in the Community</h5>
-			<b>Organiser:</b> Garden by the Breeze (Nee Soon South Zone H RN)<br>
-			<b>Date:</b> 24 May 2025, Saturday<br>
-			<b>Time: </b>10.30am-2.30pm<br>
-			<b>Where:</b> Blk 506 Yishun Ave 4 MSCP Lvl 1 Pavilion, Singapore 760506<br>
-			<b>Enquiries:</b> Email <a href="mailto:neesszonehrc@gmail.com">neesszonehrc@gmail.com</a><br><br>
-		<b>Registration:</b> No registration needed, walk-ins accepted<br>
-	</div>
-	</div>
-		<h5 id="25-31May">25 - 31 May 2025</h5>
-	<div class="wrapper">
-			<div class="box">
-						<span class="talk-tag">Talk</span>
-			<h5 style="margin-top:8px">BioBlitz and Growing Microgreens</h5>
-	 <b>Organiser:</b> Woodlands Botanical Garden<br>
-			<b>Date:</b> 31 May 2025, Saturday<br>
-			<b>Time: </b>9.00am - 12.00pm<br>
-			<b>Where:</b> 134 Marsiling Road, Singapore 730134<br>
-			<b>Enquiries:</b> Email Ganesh at <a href="mailto:woodlandsbotanicalgarden@gmail.com">woodlandsbotanicalgarden@gmail.com</a><br><br>
-		<a target="_blank" class="button-primary" href="https://lu.ma/x9nkjn8b">Register here</a>
-	</div>
-	</div>
-	<h5 id="8-14Jun">8 - 14 June 2025</h5>
-	<div class="wrapper">
-	<div class="box">
-						<span class="marketplace-tag">Marketplace</span><span class="workshop-tag">Workshop</span>
-			<h5 style="margin-top:8px">Garden Expansion Open House at Spottiswoode Park Community Garden</h5>
-	 <b>Organiser:</b> Spottiswoode Park Community Garden<br>
-			<b>Date:</b> 14 June 2025, Sunday<br>
-		<b>Time: </b>9am - 11am<br>
-			<b>Where:</b> Spottiswoode Park Community Garden, beside Blk 101, Spottiswoode Park Road, Singapore 080101<br>
-			<b>Enquiries:</b> Email <a href="mailto:fungkahwai@yahoo.com.sg">fungkahwai@yahoo.com.sg</a><br><br>
-		<b>Registration:</b> No registration needed, walk-ins accepted<br>
-</div></div>
-	<h5 id="22-28Jun">22 - 28 June 2025</h5>
+						<span class="tour-tag">Tour</span>
+			<h5 style="margin-top:8px">Community Rooftop Garden Open House</h5>
+	 <b>Organiser:</b> Sembawang West Zone G RN<br>
+			<b>Date:</b> 21 June 2025, Saturday<br>
+		<b>Time: </b>8.00am-11.00am<br>
+			<b>Where:</b> 759A Woodlands Ave 6, Level 6A &amp; 6B, Multi-Storey Carpark, Singapore 731759<br>
+			<b>Enquiries:</b> Email <a href="gladys.hoyq@gmail.com">gladys.hoyq@gmail.com</a><br><br>
+		<a target="_blank" class="button-primary" href="https://go.gov.sg/zoneggardenopenhouse">Register here</a>
+		</div></div>
+	<h5 id="23-29Jun">23 - 29 June 2025</h5>
 	<div class="wrapper">
 	<div class="box">
 						<span class="tour-tag">Tour</span>
 			<h5 style="margin-top:8px">Garden Craft, Botanical Sketching &amp; Herbal Tea Stations</h5>
 	 <b>Organiser:</b> Happy Town Childcare Pte Ltd<br>
 			<b>Date:</b> 28 June 2025, Saturday<br>
-		<b>Time: </b>10.00am-12.00pm<br>
+		<b>Time:</b> 10.00am-12.00pm<br>
 			<b>Where:</b> 1205 Upper Boon Keng Road, Happy Town Childcare Pte Ltd, Geylang West Community Centre #01-05 S387311<br>
 			<b>Enquiries:</b> Email <a href="mailto:happytownteacher@gmail.com">happytownteacher@gmail.com</a><br><br>
 		<a target="_blank" class="button-primary" href="https://forms.gle/8XLZ6cAffap1QjDk9">Register here</a>
@@ -203,7 +165,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 		<a target="_blank" class="button-primary" href="https://lu.ma/z8epq61c">Register here</a>
 	</div>
 </div>
-	<h5 id="1-6Sep">1 - 6 September 2025</h5>
+	<h5 id="1-7Sep">1 - 7 September 2025</h5>
 	<div class="wrapper">
 	<div class="box">
 						<span class="workshop-tag">Workshop</span>
@@ -347,4 +309,32 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Date:</b> 10 May 2025, Saturday<br>
 			<b>Where:</b> Geylang West Community Centre, 1205 Upper Boon Keng Road S(387311)<br>
 		</div>
+		<div class="box">
+						<span class="workshop-tag">Workshop</span>
+			<h5 style="margin-top:8px">Composting Workshop</h5>
+	 <b>Organiser:</b> Telok Kurau Central Community Garden<br>
+			<b>Date:</b> 24 May 2025, Saturday<br>
+			<b>Where:</b> Telok Kurau Park<br>
+</div>
+		<div class="box">
+						<span class="booth-tag">Booth</span><span class="workshop-tag">Workshop</span>
+			<h5 style="margin-top:8px">Our Green Day in the Community</h5>
+			<b>Organiser:</b> Garden by the Breeze (Nee Soon South Zone H RN)<br>
+			<b>Date:</b> 24 May 2025, Saturday<br>
+			<b>Where:</b> Blk 506 Yishun Ave 4 MSCP Lvl 1 Pavilion, Singapore 760506<br>
+	</div>
+		<div class="box">
+						<span class="talk-tag">Talk</span>
+			<h5 style="margin-top:8px">BioBlitz and Growing Microgreens</h5>
+	 <b>Organiser:</b> Woodlands Botanical Garden<br>
+			<b>Date:</b> 31 May 2025, Saturday<br>
+			<b>Where:</b> 134 Marsiling Road, Singapore 730134<br>
+	</div>
+<div class="box">
+						<span class="marketplace-tag">Marketplace</span><span class="workshop-tag">Workshop</span>
+			<h5 style="margin-top:8px">Garden Expansion Open House at Spottiswoode Park Community Garden</h5>
+	 <b>Organiser:</b> Spottiswoode Park Community Garden<br>
+			<b>Date:</b> 14 June 2025, Sunday<br>
+			<b>Where:</b> Spottiswoode Park Community Garden, beside Blk 101, Spottiswoode Park Road, Singapore 080101<br>
+</div>
 			</div></section>
