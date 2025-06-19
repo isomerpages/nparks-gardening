@@ -123,7 +123,6 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<tr>
 				<td><a style="text-decoration:none" href="#16-22Jun">16-22 June</a></td>
 				<td><a style="text-decoration:none" href="#23-29Jun">23-29 June</a></td>
-				<td><a style="text-decoration:none" href="#1-6Jul">1-6 July</a></td>
 				<td><a style="text-decoration:none" href="#1-7Sep">1-7 September</a></td>
 			</tr>
 		</tbody>
@@ -166,18 +165,6 @@ You are encouraged to contact the organisers directly for specific queries on ev
 		<a target="_blank" class="button-primary" href="https://lu.ma/z8epq61c">Register here</a>
 	</div>
 </div>
-	<h5 id="1-6Jul">1 - 6 July 2025</h5>
-	<div class="wrapper">
-			<div class="box">
-						<span class="workshop-tag">Workshop</span>
-			<h5 style="margin-top:8px">Bukit Batok Zone 10 Residents Sharing Session</h5>
-	 <b>Organiser:</b> Bukit Batok Zone 10 RN<br>
-			<b>Date:</b> 6 July 2025, Sunday<br>
-		<b>Time:</b> 9.00am-11.00am<br>
-			<b>Where:</b> Bukit Batok West Ave 6, Singapore<br>
-			<b>Enquiries:</b> Email <a href="neo_sweebee@yahoo.com.sg">neo_sweebee@yahoo.com.sg</a><br><br>
-				<b>Registration:</b> No registration needed, walk-ins accepted
-		</div></div>
 	<h5 id="1-7Sep">1 - 7 September 2025</h5>
 	<div class="wrapper">
 	<div class="box">
