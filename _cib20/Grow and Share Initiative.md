@@ -101,4 +101,4 @@ Upon the successful completion of the event(s) and form submissions, eligible ga
 </p></ol>
 </section>
 
-<img alt="poster for the Grow and Share initiative" src="/images/CIB20/G_S_poster_13mar.png">
+<img src="/images/CIB20/CIB_G_S_poster__with_celebration_pack_photo_">
