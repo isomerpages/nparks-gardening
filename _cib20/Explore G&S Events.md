@@ -121,15 +121,28 @@ You are encouraged to contact the organisers directly for specific queries on ev
 	<table>
 		<tbody>
 			<tr>
-				<td><a style="text-decoration:none" href="#22-28Jun">22-28 June</a></td>
-				<td><a style="text-decoration:none" href="#1-6Sep">1-6 September</a></td>
+				<td><a style="text-decoration:none" href="#16-22Jun">16-22 June</a></td>
+				<td><a style="text-decoration:none" href="#23-29Jun">23-29 June</a></td>
+				<td><a style="text-decoration:none" href="#1-7Sep">1-7 September</a></td>
 			</tr>
 		</tbody>
 		</table>
 </section><br>
 
 <section>
-	<h5 id="22-28Jun">22 - 28 June 2025</h5>
+	<h5 id="16-22Jun">16 - 22 June 2025</h5>
+	<div class="wrapper">
+			<div class="box">
+						<span class="tour-tag">Tour</span>
+			<h5 style="margin-top:8px">Community Rooftop Garden Open House</h5>
+	 <b>Organiser:</b> Sembawang West Zone G RN<br>
+			<b>Date:</b> 21 June 2025, Saturday<br>
+		<b>Time: </b>8.00am-11.00am<br>
+			<b>Where:</b> 759A Woodlands Ave 6, Level 6A &amp; 6B, Multi-Storey Carpark, Singapore 731759<br>
+			<b>Enquiries:</b> Email <a href="gladys.hoyq@gmail.com">gladys.hoyq@gmail.com</a><br><br>
+		<a target="_blank" class="button-primary" href="https://go.gov.sg/zoneggardenopenhouse">Register here</a>
+	</div>
+	<h5 id="23-29Jun">23 - 29 June 2025</h5>
 	<div class="wrapper">
 	<div class="box">
 						<span class="tour-tag">Tour</span>
@@ -152,7 +165,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 		<a target="_blank" class="button-primary" href="https://lu.ma/z8epq61c">Register here</a>
 	</div>
 </div>
-	<h5 id="1-6Sep">1 - 6 September 2025</h5>
+	<h5 id="1-7Sep">1 - 7 September 2025</h5>
 	<div class="wrapper">
 	<div class="box">
 						<span class="workshop-tag">Workshop</span>
@@ -164,7 +177,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Enquiries:</b> Email <a href="PA_changisimeicc@pa.gov.sg">PA_changisimeicc@pa.gov.sg</a><br><br>
 		<b>Registration:</b> No registration needed, walk-ins accepted<br>
 		</div></div>
-</section>
+</div></section>
 <br>
 <section>
 <h5>Past events</h5>
