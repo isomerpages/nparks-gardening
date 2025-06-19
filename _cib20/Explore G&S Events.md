@@ -174,9 +174,9 @@ You are encouraged to contact the organisers directly for specific queries on ev
 	 <b>Organiser:</b> Bukit Batok Zone 10 RN<br>
 			<b>Date:</b> 6 July 2025, Sunday<br>
 		<b>Time:</b> 9.00am-11.00am<br>
-			<b>Where:</b> Bukit Batok West Ave 6, Singapire<br>
-			<b>Enquiries:</b> Email <a href="gladys.hoyq@gmail.com">gladys.hoyq@gmail.com</a><br><br>
-		<a target="_blank" class="button-primary" href="https://go.gov.sg/zoneggardenopenhouse">Register here</a>
+			<b>Where:</b> Bukit Batok West Ave 6, Singapore<br>
+			<b>Enquiries:</b> Email <a href="neo_sweebee@yahoo.com.sg">neo_sweebee@yahoo.com.sg</a><br><br>
+				<b>Registration:</b> No registration needed, walk-ins accepted
 		</div></div>
 	<h5 id="1-7Sep">1 - 7 September 2025</h5>
 	<div class="wrapper">
