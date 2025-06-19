@@ -123,6 +123,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<tr>
 				<td><a style="text-decoration:none" href="#16-22Jun">16-22 June</a></td>
 				<td><a style="text-decoration:none" href="#23-29Jun">23-29 June</a></td>
+				<td><a style="text-decoration:none" href="#1-6Jul">1-6 July</a></td>
 				<td><a style="text-decoration:none" href="#1-7Sep">1-7 September</a></td>
 			</tr>
 		</tbody>
@@ -141,7 +142,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Where:</b> 759A Woodlands Ave 6, Level 6A &amp; 6B, Multi-Storey Carpark, Singapore 731759<br>
 			<b>Enquiries:</b> Email <a href="gladys.hoyq@gmail.com">gladys.hoyq@gmail.com</a><br><br>
 		<a target="_blank" class="button-primary" href="https://go.gov.sg/zoneggardenopenhouse">Register here</a>
-	</div>
+		</div></div>
 	<h5 id="23-29Jun">23 - 29 June 2025</h5>
 	<div class="wrapper">
 	<div class="box">
@@ -149,7 +150,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<h5 style="margin-top:8px">Garden Craft, Botanical Sketching &amp; Herbal Tea Stations</h5>
 	 <b>Organiser:</b> Happy Town Childcare Pte Ltd<br>
 			<b>Date:</b> 28 June 2025, Saturday<br>
-		<b>Time: </b>10.00am-12.00pm<br>
+		<b>Time:</b> 10.00am-12.00pm<br>
 			<b>Where:</b> 1205 Upper Boon Keng Road, Happy Town Childcare Pte Ltd, Geylang West Community Centre #01-05 S387311<br>
 			<b>Enquiries:</b> Email <a href="mailto:happytownteacher@gmail.com">happytownteacher@gmail.com</a><br><br>
 		<a target="_blank" class="button-primary" href="https://forms.gle/8XLZ6cAffap1QjDk9">Register here</a>
@@ -165,6 +166,18 @@ You are encouraged to contact the organisers directly for specific queries on ev
 		<a target="_blank" class="button-primary" href="https://lu.ma/z8epq61c">Register here</a>
 	</div>
 </div>
+	<h5 id="1-6Jul">1 - 6 July 2025</h5>
+	<div class="wrapper">
+			<div class="box">
+						<span class="workshop-tag">Workshop</span>
+			<h5 style="margin-top:8px">Bukit Batok Zone 10 Residents Sharing Session</h5>
+	 <b>Organiser:</b> Bukit Batok Zone 10 RN<br>
+			<b>Date:</b> 6 July 2025, Sunday<br>
+		<b>Time:</b> 9.00am-11.00am<br>
+			<b>Where:</b> Bukit Batok West Ave 6, Singapire<br>
+			<b>Enquiries:</b> Email <a href="gladys.hoyq@gmail.com">gladys.hoyq@gmail.com</a><br><br>
+		<a target="_blank" class="button-primary" href="https://go.gov.sg/zoneggardenopenhouse">Register here</a>
+		</div></div>
 	<h5 id="1-7Sep">1 - 7 September 2025</h5>
 	<div class="wrapper">
 	<div class="box">
@@ -177,7 +190,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Enquiries:</b> Email <a href="PA_changisimeicc@pa.gov.sg">PA_changisimeicc@pa.gov.sg</a><br><br>
 		<b>Registration:</b> No registration needed, walk-ins accepted<br>
 		</div></div>
-</div></section>
+</section>
 <br>
 <section>
 <h5>Past events</h5>
