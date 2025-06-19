@@ -101,4 +101,4 @@ Upon the successful completion of the event(s) and form submissions, eligible ga
 </p></ol>
 </section>
 
-<img src="/images/CIB20/gns_poster_w_celebration_pack">
+<img src="/images/CIB20/gns_poster_w_celebration_pack.jpg">
