@@ -12,7 +12,6 @@ sections:
       title: GardeningSG
       subtitle: Let's get growing!
       background: /images/banner_31oct_bright1.png
-      url: https://www.scamshield.gov.sg/
   - infopic:
       title: CIB20
       subtitle: Growing community together
