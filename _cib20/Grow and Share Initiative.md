@@ -86,11 +86,7 @@ Under this initiative, community gardening groups across Singapore, from housing
 			</ul></ul>
 		<p>Once you have confirmed the details of your event(s), submit the 🌱 <a target="_blank" href="https://go.gov.sg/cibgrowandshareform">pre-event form</a>🌱 for our review. You will be able to submit up to three events per form. Please look through the pre-event form and ensure that you have all your details ready before starting a submission.</p>
 		<a target="_blank" class="button-primary" href="https://go.gov.sg/cibgrowandshareform">Submit the pre-event form</a>
-		<p>Want to find out more about the initiative? We are organising two virtual briefing sessions to share with you more details and how you can submit your proposals:</p>
-		<ul><li>22 March 2025, Saturday, 10am</li>
-			<li>9 April 2025, Wednesday, 12pm</li></ul>
-			<a target="_blank" class="button-primary" href="https://go.gov.sg/cibvirtualbriefing">Register for a session</a><br>
-		<p>Can't attend the virtual briefing sessions? We've put together a <a download="" href="/files/CIB20%20Event%20Planning%20Toolkit/CIB_Grow_and_Share_submission_guide.pdf">form submission guide</a> for your reference.</p>
+		<p>Need help with filling up the form? We've put together a <a download="" href="/files/CIB20%20Event%20Planning%20Toolkit/CIB_Grow_and_Share_submission_guide.pdf">form submission guide</a> for your reference.</p>
 		<li><u>Watering &amp; growing phase</u></li>
 		<p>You will receive an email once your submission is reviewed and confirmed – your <b><i>personalised post-event form link</i></b> will be in this email, <i>please do not delete it</i>. 
 
