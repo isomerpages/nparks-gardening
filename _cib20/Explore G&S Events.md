@@ -121,9 +121,6 @@ You are encouraged to contact the organisers directly for specific queries on ev
 	<table>
 		<tbody>
 			<tr>
-				<td><a style="text-decoration:none" href="#18-24May">18-24 May</a></td>
-				<td><a style="text-decoration:none" href="#25-31May">25-31 May</a></td>
-				<td><a style="text-decoration:none" href="#8-14Jun">8-14 June</a></td>
 				<td><a style="text-decoration:none" href="#22-28Jun">22-28 June</a></td>
 				<td><a style="text-decoration:none" href="#1-6Sep">1-6 September</a></td>
 			</tr>
@@ -134,26 +131,6 @@ You are encouraged to contact the organisers directly for specific queries on ev
 <section>
 				<h5 id="18-24May">18 - 24 May 2025</h5>
 	<div class="wrapper">
-			<div class="box">
-						<span class="workshop-tag">Workshop</span>
-			<h5 style="margin-top:8px">Composting Workshop</h5>
-	 <b>Organiser:</b> Telok Kurau Central Community Garden<br>
-			<b>Date:</b> 24 May 2025, Saturday<br>
-		<b>Time: </b>9.00am - 11.00am<br>
-			<b>Where:</b> Telok Kurau Park<br>
-			<b>Enquiries:</b> Email <a href="mailto:Tkcenntralrn@gmail.com">tkcenntralrn@gmail.com</a><br><br>
-		<b>Registration:</b> To be updated<br>
-</div>
-		<div class="box">
-						<span class="booth-tag">Booth</span><span class="workshop-tag">Workshop</span>
-			<h5 style="margin-top:8px">Our Green Day in the Community</h5>
-			<b>Organiser:</b> Garden by the Breeze (Nee Soon South Zone H RN)<br>
-			<b>Date:</b> 24 May 2025, Saturday<br>
-			<b>Time: </b>10.30am-2.30pm<br>
-			<b>Where:</b> Blk 506 Yishun Ave 4 MSCP Lvl 1 Pavilion, Singapore 760506<br>
-			<b>Enquiries:</b> Email <a href="mailto:neesszonehrc@gmail.com">neesszonehrc@gmail.com</a><br><br>
-		<b>Registration:</b> No registration needed, walk-ins accepted<br>
-	</div>
 	</div>
 		<h5 id="25-31May">25 - 31 May 2025</h5>
 	<div class="wrapper">
@@ -347,4 +324,18 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Date:</b> 10 May 2025, Saturday<br>
 			<b>Where:</b> Geylang West Community Centre, 1205 Upper Boon Keng Road S(387311)<br>
 		</div>
+		<div class="box">
+						<span class="workshop-tag">Workshop</span>
+			<h5 style="margin-top:8px">Composting Workshop</h5>
+	 <b>Organiser:</b> Telok Kurau Central Community Garden<br>
+			<b>Date:</b> 24 May 2025, Saturday<br>
+			<b>Where:</b> Telok Kurau Park<br>
+</div>
+		<div class="box">
+						<span class="booth-tag">Booth</span><span class="workshop-tag">Workshop</span>
+			<h5 style="margin-top:8px">Our Green Day in the Community</h5>
+			<b>Organiser:</b> Garden by the Breeze (Nee Soon South Zone H RN)<br>
+			<b>Date:</b> 24 May 2025, Saturday<br>
+			<b>Where:</b> Blk 506 Yishun Ave 4 MSCP Lvl 1 Pavilion, Singapore 760506<br>
+	</div>
 			</div></section>
