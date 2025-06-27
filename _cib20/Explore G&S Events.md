@@ -215,7 +215,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			</div></div>
 		<br>
 				<h5 id="21-27Jul">21 - 27 July 2025</h5>
-			<div class="wrapper">
+		<div class="wrapper">
 	<div class="box">
 						<span class="booth-tag">Booth</span>
 			<span class="harvestsharing-tag">Harvest Sharing</span>
