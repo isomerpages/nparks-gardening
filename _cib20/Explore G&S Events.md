@@ -134,7 +134,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 				<td><a style="text-decoration:none" href="#23-29Jun">23-29 June</a></td>
 					<td><a style="text-decoration:none" href="#7-13Jul">7-13 July</a></td>
 				<td><a style="text-decoration:none" href="#14-20Jul">14-21 July</a></td>
-					<td><a style="text-decoration:none" href="#21-27Jul">7-13 July</a></td>
+					<td><a style="text-decoration:none" href="#21-27Jul">21-27 July</a></td>
 				<td><a style="text-decoration:none" href="#1-7Sep">1-7 September</a></td>
 					<td><a style="text-decoration:none" href="#29Sep-5oct">29 September -5 October</a></td>
 						<td><a style="text-decoration:none" href="#6-12oct">6 - 12 October</a></td>
@@ -216,13 +216,13 @@ You are encouraged to contact the organisers directly for specific queries on ev
 				<h5 id="21-27jul">21 - 27 July 2025</h5>
 			<div class="wrapper">
 	<div class="box">
-						<span class="crafts-tag">Crafts</span>
+						<span class="booth-tag">Booth</span>
 			<span class="harvestsharing-tag">Harvest Sharing</span>
 		<span class="workshop-tag">Workshop</span>
-			<h5 style="margin-top:8px">SG60 Garden Expansion project at The Giving Garden @ Kim Tian West</h5>
+			<h5 style="margin-top:8px">Kim Tian West SG60 National Day Celebration</h5>
 	 <b>Organiser:</b> The Giving Garden @ Kim Tian West<br>
-			<b>Date:</b> 11 July 2025, Friday<br>
-		<b>Time: </b>2.00pm-3.00pm<br>
+			<b>Date:</b> 26 July 2025, Saturday<br>
+		<b>Time: </b>5.00pm-6.00pm<br>
 			<b>Where:</b> Blk 119A Kim Tian Road Deck 5 Singapore161119 Rooftop of MSCP<br>
 			<b>Enquiries:</b> Email Kim Tian West RN at <a href="tcg.ktwrc@gmail.com">tcg.ktwrc@gmail.com</a><br><br>
 		<b>Registration:</b> No registration needed, walk-ins accepted<br>
@@ -239,6 +239,19 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Enquiries:</b> Email <a href="PA_changisimeicc@pa.gov.sg">PA_changisimeicc@pa.gov.sg</a><br><br>
 		<b>Registration:</b> No registration needed, walk-ins accepted<br>
 		</div></div>
+	<h5 id="29sep-5oct">29 September - 5 October 2025</h5>
+	<div class="wrapper">
+	<div class="box">
+						<span class="tour-tag">Tour</span>
+			<span class="workshop-tag">Workshop</span>
+			<h5 style="margin-top:8px">Children's Day Garden party</h5>
+	 <b>Organiser:</b> Zootopian Garden<br>
+			<b>Date:</b> 5 October 2025, Saturday<br>
+		<b>Time: </b>5.00pm-7.00pm<br>
+			<b>Where:</b> 80 Chartwell Dr Singapore 558774<br>
+			<b>Enquiries:</b> Email Victor Koh at <a href="vict316@gmail.com">vict316@gmail.com</a><br><br>
+		<b>Registration:</b> No registration needed, walk-ins accepted<br>
+		</div></div>			
 </div></div></div></div></section>
 <br>
 <section>
