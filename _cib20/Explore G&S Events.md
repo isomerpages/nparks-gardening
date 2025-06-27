@@ -136,8 +136,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 				<td><a style="text-decoration:none" href="#14-20Jul">14-21 July</a></td>
 					<td><a style="text-decoration:none" href="#21-27Jul">21-27 July</a></td>
 				<td><a style="text-decoration:none" href="#1-7Sep">1-7 September</a></td>
-					<td><a style="text-decoration:none" href="#29Sep-5oct">29 September -5 October</a></td>
-						<td><a style="text-decoration:none" href="#6-12oct">6 - 12 October</a></td>
+					<td><a style="text-decoration:none" href="#29Sep-5Oct">29 September - 5 October</a></td>
 			</tr>
 		</tbody>
 		</table>
@@ -189,7 +188,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Registration:</b> No registration is needed, walk-ins are accepted<br><br>
 		</div></div>
 	<br>
-		<h5 id="7-13jul">7 - 13 July 2025</h5>
+		<h5 id="7-13Jul">7 - 13 July 2025</h5>
 	<div class="wrapper">
 	<div class="box">
 						<span class="crafts-tag">Crafts</span>
@@ -215,7 +214,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 		<b>Registration:</b> No registration needed, walk-ins accepted<br>
 			</div></div>
 		<br>
-				<h5 id="21-27jul">21 - 27 July 2025</h5>
+				<h5 id="21-27Jul">21 - 27 July 2025</h5>
 			<div class="wrapper">
 	<div class="box">
 						<span class="booth-tag">Booth</span>
@@ -243,7 +242,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 		<b>Registration:</b> No registration needed, walk-ins accepted<br>
 		</div></div>
 		<br><br>
-	<h5 id="29sep-5oct">29 September - 5 October 2025</h5>
+	<h5 id="29Sep-5Oct">29 September - 5 October 2025</h5>
 	<div class="wrapper">
 	<div class="box">
 						<span class="tour-tag">Tour</span>
