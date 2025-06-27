@@ -187,7 +187,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Where:</b> 892A Woodlands Drive 50, Singapore 730892<br>
 			<b>Enquiries:</b> Email Huey Shyan at <a href="mailto:Huey_Shyan_TAN_from.TP@pa.gov.sg">Huey_Shyan_TAN_from.TP@pa.gov.sg</a><br><br>
 			<b>Registration:</b> No registration is needed, walk-ins are accepted<br><br>
-</div>
+		</div></div>
 		<h5 id="7-13jul">7 - 13 July 2025</h5>
 	<div class="wrapper">
 	<div class="box">
@@ -212,7 +212,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Where:</b> Blk 119A Kim Tian Road Deck 5 Singapore161119 Rooftop of MSCP<br>
 			<b>Enquiries:</b> Email Kim Tian West RN at <a href="tcg.ktwrc@gmail.com">tcg.ktwrc@gmail.com</a><br><br>
 		<b>Registration:</b> No registration needed, walk-ins accepted<br>
-		</div>
+			</div></div>
 				<h5 id="21-27jul">21 - 27 July 2025</h5>
 			<div class="wrapper">
 	<div class="box">
@@ -226,7 +226,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Where:</b> Blk 119A Kim Tian Road Deck 5 Singapore161119 Rooftop of MSCP<br>
 			<b>Enquiries:</b> Email Kim Tian West RN at <a href="tcg.ktwrc@gmail.com">tcg.ktwrc@gmail.com</a><br><br>
 		<b>Registration:</b> No registration needed, walk-ins accepted<br>
-		</div>
+				</div></div>
 	<h5 id="1-7Sep">1 - 7 September 2025</h5>
 	<div class="wrapper">
 	<div class="box">
@@ -252,7 +252,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Enquiries:</b> Email Victor Koh at <a href="vict316@gmail.com">vict316@gmail.com</a><br><br>
 		<b>Registration:</b> No registration needed, walk-ins accepted<br>
 		</div></div>			
-</div></div></div></div></section>
+</div></section>
 <br>
 <section>
 <h5>Past events</h5>
