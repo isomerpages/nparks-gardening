@@ -13,6 +13,10 @@ description: ""
 		row-gap: 10px;
 	}
 
+	    .wrapper .box:only-child {
+        grid-column: 1;
+	}
+	
 	.box{
 		border: solid 1px #215732;
 		border-radius: 5px;
