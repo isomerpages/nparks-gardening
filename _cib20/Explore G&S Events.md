@@ -201,7 +201,6 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Enquiries:</b> Email Kim Tian West RN at <a href="tcg.ktwrc@gmail.com">tcg.ktwrc@gmail.com</a><br><br>
 		<b>Registration:</b> No registration needed, walk-ins accepted<br>
 		</div>
-		<div class="wrapper">
 	<div class="box">
 						<span class="crafts-tag">Crafts</span>
 		<span class="workshop-tag">Workshop</span>
@@ -255,7 +254,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Enquiries:</b> Email Victor Koh at <a href="vict316@gmail.com">vict316@gmail.com</a><br><br>
 		<b>Registration:</b> No registration needed, walk-ins accepted<br>
 		</div></div>			
-</div></section>
+</section>
 <br>
 <section>
 <h5>Past events</h5>
