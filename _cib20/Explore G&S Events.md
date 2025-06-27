@@ -419,14 +419,14 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Where:</b> Spottiswoode Park Community Garden, beside Blk 101, Spottiswoode Park Road, Singapore 080101<br>
 </div>
 		<div class="box">
-						<span class="Tour-tag">Crafts</span>
+						<span class="tour-tag">Tour</span>
 			<h5 style="margin-top:8px">Community Rooftop Garden Open House</h5>
 	 <b>Organiser:</b> Sembawang West Zone G Rooftop Community Garden<br>
 			<b>Date:</b> 21 June 2025, Saturday<br>
 			<b>Where:</b> 759A Woodlands Ave 6, Level 6A &amp; 6B, Multi-Storey Carpark Singapore 731759<br>
 		</div>
 		<div class="box">
-						<span class="Crafts-tag">Crafts</span><span class="workshop-tag">Workshop</span>
+						<span class="crafts-tag">Crafts</span><span class="workshop-tag">Workshop</span>
 			<h5 style="margin-top:8px">Mandala Art painting at The Giving Garden @ Kim Tian West</h5>
 	 <b>Organiser:</b> The Giving Garden @ Kim Tian West<br>
 			<b>Date:</b> 22 June 2025, Sunday<br>
