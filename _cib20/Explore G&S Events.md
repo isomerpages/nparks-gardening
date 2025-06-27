@@ -216,7 +216,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			</div></div>
 		<br>
 				<h5 id="21-27jul">21 - 27 July 2025</h5>
-		<br>
+		<br><br>
 			<div class="wrapper">
 	<div class="box">
 						<span class="booth-tag">Booth</span>
@@ -230,9 +230,9 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Enquiries:</b> Email Kim Tian West RN at <a href="tcg.ktwrc@gmail.com">tcg.ktwrc@gmail.com</a><br><br>
 		<b>Registration:</b> No registration needed, walk-ins accepted<br>
 				</div></div>
-		<br>
+		<br><br>
 	<h5 id="1-7Sep">1 - 7 September 2025</h5>
-		<br>
+		<br><br>
 	<div class="wrapper">
 	<div class="box">
 						<span class="workshop-tag">Workshop</span>
@@ -244,9 +244,9 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Enquiries:</b> Email <a href="PA_changisimeicc@pa.gov.sg">PA_changisimeicc@pa.gov.sg</a><br><br>
 		<b>Registration:</b> No registration needed, walk-ins accepted<br>
 		</div></div>
-		<br>
+		<br><br>
 	<h5 id="29sep-5oct">29 September - 5 October 2025</h5>
-		<br>
+		<br><br>
 	<div class="wrapper">
 	<div class="box">
 						<span class="tour-tag">Tour</span>
