@@ -216,7 +216,6 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			</div></div>
 		<br>
 				<h5 id="21-27jul">21 - 27 July 2025</h5>
-		<br><br>
 			<div class="wrapper">
 	<div class="box">
 						<span class="booth-tag">Booth</span>
@@ -232,7 +231,6 @@ You are encouraged to contact the organisers directly for specific queries on ev
 				</div></div>
 		<br><br>
 	<h5 id="1-7Sep">1 - 7 September 2025</h5>
-		<br><br>
 	<div class="wrapper">
 	<div class="box">
 						<span class="workshop-tag">Workshop</span>
@@ -246,7 +244,6 @@ You are encouraged to contact the organisers directly for specific queries on ev
 		</div></div>
 		<br><br>
 	<h5 id="29sep-5oct">29 September - 5 October 2025</h5>
-		<br><br>
 	<div class="wrapper">
 	<div class="box">
 						<span class="tour-tag">Tour</span>
