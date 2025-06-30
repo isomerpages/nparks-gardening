@@ -13,6 +13,10 @@ description: ""
 		row-gap: 10px;
 	}
 
+	    .wrapper .box:only-child {
+        grid-column: 1;
+	}
+	
 	.box{
 		border: solid 1px #215732;
 		border-radius: 5px;
@@ -95,6 +99,16 @@ description: ""
 	  margin: 5px 5px 0 3px;
   }
 	
+	.crafts-tag {
+    background-color: #87ceeb;
+    border: 1px solid #87ceeb;
+    padding: 0.2rem 1rem;
+  	border-radius: 0.5rem;
+    color: black !important;
+	  text-decoration: none !important;
+    display: inline-block;
+	  margin: 5px 5px 0 3px;
+	
 		table a:link {
 		color:black;
 	}
@@ -121,27 +135,18 @@ You are encouraged to contact the organisers directly for specific queries on ev
 	<table>
 		<tbody>
 			<tr>
-				<td><a style="text-decoration:none" href="#16-22Jun">16-22 June</a></td>
 				<td><a style="text-decoration:none" href="#23-29Jun">23-29 June</a></td>
+					<td><a style="text-decoration:none" href="#7-13Jul">7-13 July</a></td>
+				<td><a style="text-decoration:none" href="#14-20Jul">14-21 July</a></td>
+					<td><a style="text-decoration:none" href="#21-27Jul">21-27 July</a></td>
 				<td><a style="text-decoration:none" href="#1-7Sep">1-7 September</a></td>
+					<td><a style="text-decoration:none" href="#29Sep-5Oct">29 September - 5 October</a></td>
 			</tr>
 		</tbody>
 		</table>
 </section><br>
 
 <section>
-	<h5 id="16-22Jun">16 - 22 June 2025</h5>
-	<div class="wrapper">
-			<div class="box">
-						<span class="tour-tag">Tour</span>
-			<h5 style="margin-top:8px">Community Rooftop Garden Open House</h5>
-	 <b>Organiser:</b> Sembawang West Zone G RN<br>
-			<b>Date:</b> 21 June 2025, Saturday<br>
-		<b>Time: </b>8.00am-11.00am<br>
-			<b>Where:</b> 759A Woodlands Ave 6, Level 6A &amp; 6B, Multi-Storey Carpark, Singapore 731759<br>
-			<b>Enquiries:</b> Email <a href="gladys.hoyq@gmail.com">gladys.hoyq@gmail.com</a><br><br>
-		<a target="_blank" class="button-primary" href="https://go.gov.sg/zoneggardenopenhouse">Register here</a>
-		</div></div>
 	<h5 id="23-29Jun">23 - 29 June 2025</h5>
 	<div class="wrapper">
 	<div class="box">
@@ -164,7 +169,69 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Enquiries:</b> Email Ganesh at <a href="mailto:woodlandsbotanicalgarden@gmail.com">woodlandsbotanicalgarden@gmail.com</a><br><br>
 		<a target="_blank" class="button-primary" href="https://lu.ma/z8epq61c">Register here</a>
 	</div>
-</div>
+		<div class="box">
+						<span class="harvestsharing-tag">Harvest Sharing</span>
+			<span class="tour-tag">Tour</span>
+			<h5 style="margin-top:8px">Jurong Spring Green Market</h5>
+	 <b>Organiser:</b> Jurong Spring Community Garden Blk 518<br>
+			<b>Date:</b> 28 June 2025, Saturday<br>
+			<b>Time: </b>10.00am - 3.00pm<br>
+			<b>Where:</b> 517F Jurong West St 52 Pavilion<br>
+			<b>Enquiries:</b> Email Sariyati at <a href="mailto:sariyati_saripin_from.TP@pa.gov.sg">sariyati_saripin_from.TP@pa.gov.sg</a><br><br>
+			<b>Registration:</b> No registration is needed, walk-ins are accepted<br><br>
+			</div>
+			<div class="box">
+						<span class="harvestsharing-tag">Harvest Sharing</span>
+			<span class="tour-tag">Tour</span>
+			<h5 style="margin-top:8px">Grow and Share @ Garden of Tranquility</h5>
+	 <b>Organiser:</b> Woodgrove Zone 5 RN Community Garden<br>
+			<b>Date:</b> 29 June 2025, Sunday<br>
+			<b>Time: </b>11.00am - 1.00pm<br>
+			<b>Where:</b> 892A Woodlands Drive 50, Singapore 730892<br>
+			<b>Enquiries:</b> Email Huey Shyan at <a href="mailto:Huey_Shyan_TAN_from.TP@pa.gov.sg">Huey_Shyan_TAN_from.TP@pa.gov.sg</a><br><br>
+			<b>Registration:</b> No registration is needed, walk-ins are accepted<br><br>
+		</div></div>
+	<br>
+		<h5 id="7-13Jul">7 - 13 July 2025</h5>
+	<div class="wrapper">
+	<div class="box">
+						<span class="crafts-tag">Crafts</span>
+		<span class="workshop-tag">Workshop</span>
+			<h5 style="margin-top:8px">SG60 Garden Expansion project at The Giving Garden @ Kim Tian West</h5>
+	 <b>Organiser:</b> The Giving Garden @ Kim Tian West<br>
+			<b>Date:</b> 11 July 2025, Friday<br>
+		<b>Time: </b>2.00pm-3.00pm<br>
+			<b>Where:</b> Blk 119A Kim Tian Road Deck 5 Singapore161119 Rooftop of MSCP<br>
+			<b>Enquiries:</b> Email Kim Tian West RN at <a href="tcg.ktwrc@gmail.com">tcg.ktwrc@gmail.com</a><br><br>
+		<b>Registration:</b> No registration needed, walk-ins accepted<br>
+		</div>
+	<div class="box">
+						<span class="crafts-tag">Crafts</span>
+		<span class="workshop-tag">Workshop</span>
+			<h5 style="margin-top:8px">SG60 Garden Expansion project at The Giving Garden @ Kim Tian West</h5>
+	 <b>Organiser:</b> The Giving Garden @ Kim Tian West<br>
+			<b>Date:</b> 18 July 2025, Friday<br>
+		<b>Time: </b>2.00pm-3.00pm<br>
+			<b>Where:</b> Blk 119A Kim Tian Road Deck 5 Singapore161119 Rooftop of MSCP<br>
+			<b>Enquiries:</b> Email Kim Tian West RN at <a href="tcg.ktwrc@gmail.com">tcg.ktwrc@gmail.com</a><br><br>
+		<b>Registration:</b> No registration needed, walk-ins accepted<br>
+			</div></div>
+		<br>
+				<h5 id="21-27Jul">21 - 27 July 2025</h5>
+		<div class="wrapper">
+	<div class="box">
+						<span class="booth-tag">Booth</span>
+			<span class="harvestsharing-tag">Harvest Sharing</span>
+		<span class="workshop-tag">Workshop</span>
+			<h5 style="margin-top:8px">Kim Tian West SG60 National Day Celebration</h5>
+	 <b>Organiser:</b> The Giving Garden @ Kim Tian West<br>
+			<b>Date:</b> 26 July 2025, Saturday<br>
+		<b>Time: </b>5.00pm-6.00pm<br>
+			<b>Where:</b> Blk 119A Kim Tian Road Deck 5 Singapore161119 Rooftop of MSCP<br>
+			<b>Enquiries:</b> Email Kim Tian West RN at <a href="tcg.ktwrc@gmail.com">tcg.ktwrc@gmail.com</a><br><br>
+		<b>Registration:</b> No registration needed, walk-ins accepted<br>
+				</div></div>
+		<br><br>
 	<h5 id="1-7Sep">1 - 7 September 2025</h5>
 	<div class="wrapper">
 	<div class="box">
@@ -177,6 +244,20 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Enquiries:</b> Email <a href="PA_changisimeicc@pa.gov.sg">PA_changisimeicc@pa.gov.sg</a><br><br>
 		<b>Registration:</b> No registration needed, walk-ins accepted<br>
 		</div></div>
+		<br><br>
+	<h5 id="29Sep-5Oct">29 September - 5 October 2025</h5>
+	<div class="wrapper">
+	<div class="box">
+						<span class="tour-tag">Tour</span>
+			<span class="workshop-tag">Workshop</span>
+			<h5 style="margin-top:8px">Children's Day Garden party</h5>
+	 <b>Organiser:</b> Zootopian Garden<br>
+			<b>Date:</b> 5 October 2025, Saturday<br>
+		<b>Time: </b>5.00pm-7.00pm<br>
+			<b>Where:</b> 80 Chartwell Dr Singapore 558774<br>
+			<b>Enquiries:</b> Email Victor Koh at <a href="vict316@gmail.com">vict316@gmail.com</a><br><br>
+		<b>Registration:</b> No registration needed, walk-ins accepted<br>
+		</div></div>			
 </section>
 <br>
 <section>
@@ -337,4 +418,24 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Date:</b> 14 June 2025, Sunday<br>
 			<b>Where:</b> Spottiswoode Park Community Garden, beside Blk 101, Spottiswoode Park Road, Singapore 080101<br>
 </div>
-			</div></section>
+		<div class="box">
+						<span class="tour-tag">Tour</span>
+			<h5 style="margin-top:8px">Community Rooftop Garden Open House</h5>
+	 <b>Organiser:</b> Sembawang West Zone G Rooftop Community Garden<br>
+			<b>Date:</b> 21 June 2025, Saturday<br>
+			<b>Where:</b> 759A Woodlands Ave 6, Level 6A &amp; 6B, Multi-Storey Carpark Singapore 731759<br>
+		</div>
+		<div class="box">
+						<span class="crafts-tag">Crafts</span><span class="workshop-tag">Workshop</span>
+			<h5 style="margin-top:8px">Mandala Art painting at The Giving Garden @ Kim Tian West</h5>
+	 <b>Organiser:</b> The Giving Garden @ Kim Tian West<br>
+			<b>Date:</b> 22 June 2025, Sunday<br>
+			<b>Where:</b> Blk 119A Kim Tian Road Deck 5 Singapore 161119 Rooftop of MSCP<br>
+		</div>
+		<div class="box">
+						<span class="crafts-tag">Crafts</span><span class="workshop-tag">Workshop</span>
+			<h5 style="margin-top:8px">Mandala Art painting at The Giving Garden @ Kim Tian West</h5>
+	 <b>Organiser:</b> The Giving Garden @ Kim Tian West<br>
+			<b>Date:</b> 27 June 2025, Sunday<br>
+			<b>Where:</b> Blk 119A Kim Tian Road Deck 5 Singapore 161119 Rooftop of MSCP<br>	
+		</div></div></section>
