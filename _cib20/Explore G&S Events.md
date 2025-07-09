@@ -448,5 +448,36 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<h5 style="margin-top:8px">Mandala Art painting at The Giving Garden @ Kim Tian West</h5>
 	 <b>Organiser:</b> The Giving Garden @ Kim Tian West<br>
 			<b>Date:</b> 27 June 2025, Sunday<br>
-			<b>Where:</b> Blk 119A Kim Tian Road Deck 5 Singapore 161119 Rooftop of MSCP<br>	
-		</div></div></section>
+			<b>Where:</b> Blk 119A Kim Tian Road Deck 5 Singapore 161119 Rooftop of MSCP<br>
+		</div>
+	<div class="box">
+						<span class="tour-tag">Tour</span>
+			<h5 style="margin-top:8px">Garden Craft, Botanical Sketching &amp; Herbal Tea Stations</h5>
+	 <b>Organiser:</b> Happy Town Childcare Pte Ltd<br>
+			<b>Date:</b> 28 June 2025, Saturday<br>
+			<b>Where:</b> 1205 Upper Boon Keng Road, Happy Town Childcare Pte Ltd, Geylang West Community Centre #01-05 S387311<br>
+	</div>
+	<div class="box">
+						<span class="talk-tag">Talk</span>
+			<h5 style="margin-top:8px">BioBlitz and Therapeutic Horticulture</h5>
+	 <b>Organiser:</b> Woodlands Botanical Garden<br>
+			<b>Date:</b> 28 June 2025, Saturday<br>
+			<b>Where:</b> 134 Marsiling Road, Singapore 730134<br>
+	</div>
+		<div class="box">
+						<span class="harvestsharing-tag">Harvest Sharing</span>
+			<span class="tour-tag">Tour</span>
+			<h5 style="margin-top:8px">Jurong Spring Green Market</h5>
+	 <b>Organiser:</b> Jurong Spring Community Garden Blk 518<br>
+			<b>Date:</b> 28 June 2025, Saturday<br>
+			<b>Where:</b> 517F Jurong West St 52 Pavilion<br>
+			</div>
+			<div class="box">
+						<span class="harvestsharing-tag">Harvest Sharing</span>
+			<span class="tour-tag">Tour</span>
+			<h5 style="margin-top:8px">Grow and Share @ Garden of Tranquility</h5>
+	 <b>Organiser:</b> Woodgrove Zone 5 RN Community Garden<br>
+			<b>Date:</b> 29 June 2025, Sunday<br>
+			<b>Where:</b> 892A Woodlands Drive 50, Singapore 730892<br>
+		</div></div>
+		</section>
