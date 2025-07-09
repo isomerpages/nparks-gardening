@@ -205,6 +205,17 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Enquiries:</b> Email Kim Tian West RN at <a href="tcg.ktwrc@gmail.com">tcg.ktwrc@gmail.com</a><br><br>
 		<b>Registration:</b> No registration needed, walk-ins accepted<br>
 		</div>
+		<div class="box"> 
+			<span class="harvestsharing-tag">Harvest Sharing</span> 
+			<span class="tour-tag">Tour</span> 
+			<h5 style="margin-top:8px">Open Farm Session @ Bishan Swimming Complex</h5> 
+			<b>Organiser:</b> Bishan Active Farming<br> 
+			<b>Date:</b> 16 July 2025, Friday<br> 
+			<b>Time: </b>8.00am-10.00pm<br> 
+			<b>Where:</b> Bishan Swimming Complex 1 Bishan Street 14 Singapore 579778 Singapore 579778<br> 
+			<b>Enquiries:</b> Email Team Nila at <a href="team_nila@sport.gov.sg">team_nila@sport.gov.sg</a><br><br> 
+			<b>Registration:</b> <a href="https://go.gov.sg/openfarm2025">https://go.gov.sg/openfarm2025</a><br> 
+		</div>
 	<div class="box">
 						<span class="crafts-tag">Crafts</span>
 		<span class="workshop-tag">Workshop</span>
