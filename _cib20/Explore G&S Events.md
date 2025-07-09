@@ -179,7 +179,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Time: </b>8.00am-10.00pm<br> 
 			<b>Where:</b> Bishan Swimming Complex 1 Bishan Street 14 Singapore 579778 Singapore 579778<br> 
 			<b>Enquiries:</b> Email Team Nila at <a href="team_nila@sport.gov.sg">team_nila@sport.gov.sg</a><br><br> 
-			<b>Registration:</b> <a href="https://go.gov.sg/openfarm2025">https://go.gov.sg/openfarm2025</a><br> 
+			<a target="_blank" class="button-primary" href="https://go.gov.sg/openfarm2025">Register here!</a><br>
 		</div>
 	<div class="box">
 						<span class="crafts-tag">Crafts</span>
