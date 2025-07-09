@@ -151,6 +151,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 					<td><a style="text-decoration:none" href="#21-27Jul">21-27 July</a></td>
 				<td><a style="text-decoration:none" href="#1-7Sep">1-7 September</a></td>
 					<td><a style="text-decoration:none" href="#29Sep-5Oct">29 September - 5 October</a></td>
+								<td><a style="text-decoration:none" href="#pastevents">Past events</a></td>
 			</tr>
 		</tbody>
 		</table>
@@ -237,7 +238,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 </section>
 <br>
 <section>
-<h5>Past events</h5>
+<h5 id="pastevents">Past events</h5>
 	<div class="wrapper">
 		<div class="box">
 			<span class="booth-tag">Booth</span>
