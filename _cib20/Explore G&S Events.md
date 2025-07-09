@@ -99,6 +99,17 @@ description: ""
 	  margin: 5px 5px 0 3px;
   }
 	
+	.wellness-tag {
+    background-color: #CF9C63;
+    border: 1px solid #CF9C63;
+    padding: 0.2rem 1rem;
+  	border-radius: 0.5rem;
+    color: black !important;
+	  text-decoration: none !important;
+    display: inline-block;
+	  margin: 5px 5px 0 3px;
+  }
+	
 	.crafts-tag {
     background-color: #87ceeb;
     border: 1px solid #87ceeb;
@@ -433,5 +444,13 @@ You are encouraged to contact the organisers directly for specific queries on ev
 	 <b>Organiser:</b> Woodgrove Zone 5 RN Community Garden<br>
 			<b>Date:</b> 29 June 2025, Sunday<br>
 			<b>Where:</b> 892A Woodlands Drive 50, Singapore 730892<br>
+		</div>
+		<div class="box">
+						<span class="harvestsharing-tag">Harvest Sharing</span>
+			<span class="wellness-tag">Wellness</span>
+			<h5 style="margin-top:8px">Open Farm Session @ Woodlands</h5>
+	 <b>Organiser:</b> Woodlands Active Farming<br>
+			<b>Date:</b> 2 July 2025, Wednesday<br>
+			<b>Where:</b> Woodlands Sport Centre 3 Woodlands Street 13, Singapore 738600<br>
 		</div></div>
 		</section>
