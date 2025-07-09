@@ -135,7 +135,6 @@ You are encouraged to contact the organisers directly for specific queries on ev
 	<table>
 		<tbody>
 			<tr>
-				<td><a style="text-decoration:none" href="#23-29Jun">23-29 June</a></td>
 					<td><a style="text-decoration:none" href="#7-13Jul">7-13 July</a></td>
 				<td><a style="text-decoration:none" href="#14-20Jul">14-21 July</a></td>
 					<td><a style="text-decoration:none" href="#21-27Jul">21-27 July</a></td>
@@ -147,51 +146,6 @@ You are encouraged to contact the organisers directly for specific queries on ev
 </section><br>
 
 <section>
-	<h5 id="23-29Jun">23 - 29 June 2025</h5>
-	<div class="wrapper">
-	<div class="box">
-						<span class="tour-tag">Tour</span>
-			<h5 style="margin-top:8px">Garden Craft, Botanical Sketching &amp; Herbal Tea Stations</h5>
-	 <b>Organiser:</b> Happy Town Childcare Pte Ltd<br>
-			<b>Date:</b> 28 June 2025, Saturday<br>
-		<b>Time:</b> 10.00am-12.00pm<br>
-			<b>Where:</b> 1205 Upper Boon Keng Road, Happy Town Childcare Pte Ltd, Geylang West Community Centre #01-05 S387311<br>
-			<b>Enquiries:</b> Email <a href="mailto:happytownteacher@gmail.com">happytownteacher@gmail.com</a><br><br>
-		<a target="_blank" class="button-primary" href="https://forms.gle/8XLZ6cAffap1QjDk9">Register here</a>
-	</div>
-	<div class="box">
-						<span class="talk-tag">Talk</span>
-			<h5 style="margin-top:8px">BioBlitz and Therapeutic Horticulture</h5>
-	 <b>Organiser:</b> Woodlands Botanical Garden<br>
-			<b>Date:</b> 28 June 2025, Saturday<br>
-			<b>Time: </b>9.00am - 12.00pm<br>
-			<b>Where:</b> 134 Marsiling Road, Singapore 730134<br>
-			<b>Enquiries:</b> Email Ganesh at <a href="mailto:woodlandsbotanicalgarden@gmail.com">woodlandsbotanicalgarden@gmail.com</a><br><br>
-		<a target="_blank" class="button-primary" href="https://lu.ma/z8epq61c">Register here</a>
-	</div>
-		<div class="box">
-						<span class="harvestsharing-tag">Harvest Sharing</span>
-			<span class="tour-tag">Tour</span>
-			<h5 style="margin-top:8px">Jurong Spring Green Market</h5>
-	 <b>Organiser:</b> Jurong Spring Community Garden Blk 518<br>
-			<b>Date:</b> 28 June 2025, Saturday<br>
-			<b>Time: </b>10.00am - 3.00pm<br>
-			<b>Where:</b> 517F Jurong West St 52 Pavilion<br>
-			<b>Enquiries:</b> Email Sariyati at <a href="mailto:sariyati_saripin_from.TP@pa.gov.sg">sariyati_saripin_from.TP@pa.gov.sg</a><br><br>
-			<b>Registration:</b> No registration is needed, walk-ins are accepted<br><br>
-			</div>
-			<div class="box">
-						<span class="harvestsharing-tag">Harvest Sharing</span>
-			<span class="tour-tag">Tour</span>
-			<h5 style="margin-top:8px">Grow and Share @ Garden of Tranquility</h5>
-	 <b>Organiser:</b> Woodgrove Zone 5 RN Community Garden<br>
-			<b>Date:</b> 29 June 2025, Sunday<br>
-			<b>Time: </b>11.00am - 1.00pm<br>
-			<b>Where:</b> 892A Woodlands Drive 50, Singapore 730892<br>
-			<b>Enquiries:</b> Email Huey Shyan at <a href="mailto:Huey_Shyan_TAN_from.TP@pa.gov.sg">Huey_Shyan_TAN_from.TP@pa.gov.sg</a><br><br>
-			<b>Registration:</b> No registration is needed, walk-ins are accepted<br><br>
-		</div></div>
-	<br>
 		<h5 id="7-13Jul">7 - 13 July 2025</h5>
 	<div class="wrapper">
 	<div class="box">
