@@ -52,7 +52,7 @@ description: ""
 	<li><b>Lifestyle &amp; Wellness</b> - Nature-based wellness items, botanical teas and nature-inspired fashion</li>
 	<li><b>Educational &amp; Creative</b> - Gardening publications, floral art and sustainable living solutions</li>
 	<li><b>Home &amp; Garden Décor</b> - Beautiful ornaments, furniture pieces and decorative accessories</li>
-	<li><b>F&amp;B Zone</b> - Halal-certified food and refreshments to keep you energized while you explore</li>
+	<li><b>F&amp;B Zone</b> - Food and refreshments to keep you energized while you explore</li>
 	</ol><p></p>
 </section>
 
