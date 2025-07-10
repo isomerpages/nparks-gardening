@@ -52,13 +52,12 @@ description: ""
 	<li><b>Lifestyle &amp; Wellness</b> - Nature-based wellness items, botanical teas and nature-inspired fashion</li>
 	<li><b>Educational &amp; Creative</b> - Gardening publications, floral art and sustainable living solutions</li>
 	<li><b>Home &amp; Garden Décor</b> - Beautiful ornaments, furniture pieces and decorative accessories</li>
-	<li><b>F&amp;B Zone</b> - Halal-certified food and refreshments to keep you energized while you explore</li>
+	<li><b>F&amp;B Zone</b> - Food and refreshments to keep you energized while you explore</li>
 	</ol><p></p>
 </section>
 
 <h5>Application</h5>
 <section>
-	<p>Applications for the HortFest Marketplace will open from <b>17 June 2025, 10.00am to 24 June 2025, 5.00pm</b> via the <a target="_blank" href="https://www.nparks.gov.sg/visit/parks/hortpark/activities/gardeners-day-out#marketplacebooth">Gardeners' Day Out</a> webpage.</p>
-	<a target="_blank" class="button-primary" href="https://www.nparks.gov.sg/visit/parks/hortpark/activities/gardeners-day-out#marketplacebooth">Find out more</a>
+	<p>Applications for the HortFest Marketplace have closed.</p>
 	<p>For enquiries on HortFest Marketplace, you may contact HortPark by phone at +65 6471 5601, or by email at <a href="_mailto:nparks_hortpark@nparks.gov.sg">nparks_hortpark@nparks.gov.sg</a>.</p>
 </section>
