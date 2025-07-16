@@ -170,13 +170,15 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Where:</b> Blk 119A Kim Tian Road Deck 5 Singapore161119 Rooftop of MSCP<br>
 			<b>Enquiries:</b> Email Kim Tian West RN at <a href="tcg.ktwrc@gmail.com">tcg.ktwrc@gmail.com</a><br><br>
 		<b>Registration:</b> No registration needed, walk-ins accepted<br>
-		</div>
+		</div></div>
+	<h5 id="14-21Jul">14 - 21 July 2025</h5>
+	<div class="wrapper">
 		<div class="box"> 
 			<span class="harvestsharing-tag">Harvest Sharing</span> 
 			<span class="tour-tag">Tour</span> 
 			<h5 style="margin-top:8px">Open Farm Session @ Bishan Swimming Complex</h5> 
 			<b>Organiser:</b> Bishan Active Farming<br> 
-			<b>Date:</b> 16 July 2025, Friday<br> 
+			<b>Date:</b> 16 July 2025, Wednesday<br> 
 			<b>Time: </b>8.00am-10.00pm<br> 
 			<b>Where:</b> Bishan Swimming Complex 1 Bishan Street 14 Singapore 579778 Singapore 579778<br> 
 			<b>Enquiries:</b> Email Team Nila at <a href="team_nila@sport.gov.sg">team_nila@sport.gov.sg</a><br><br> 
@@ -246,6 +248,42 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Organiser:</b> Pelatok Art Farm (Changi Simei CCC)<br>
 			<b>Date:</b> 1 April 2025, Tuesday<br>
 			<b>Where:</b> URA Centre<br>
+		</div>
+		<div class="box">
+			<span class="tour-tag">Tour</span>
+			<h5 style="margin-top:8px">Garden Tour at Jurong Central Zone D RN Sky Garden</h5>
+			<b>Organiser:</b> Jurong Central Zone D RN<br>
+			<b>Date:</b> 1 April 2025, Tuesday<br>
+			<b>Where:</b> Blk 372 Jurong East St 32 MSCP<br>
+		</div>
+		<div class="box">
+			<span class="booth-tag">Booth</span>
+			<h5 style="margin-top:8px">Sengkang North Eco Fest 2025</h5>
+			<b>Organiser:</b> Sengkang Youth Network<br>
+			<b> Participating Groups:</b> Compassvale Plains RN, Compassvale Villa RN, Compassvale Haven RC, Compassvale Gardens RC<br>
+			<b>Date:</b> 5 April 2025, Saturday<br>
+			<b>Where:</b> Sengkang CC Multi-Purpose Hall<br>
+		</div>
+		<div class="box">
+			<span class="workshop-tag">Workshop</span>
+			<h5 style="margin-top:8px">Storytelling with Zhang Lao Shi</h5>
+			<b>Organiser:</b> Ang Mo Kio Hougang Zone 8 RN (Happy Garden)<br>
+			<b>Date:</b> 6 April 2025, Sunday<br>
+			<b>Where:</b> blk 925, hougang St 91 Singapore 530925<br>
+		</div>
+		<div class="box">
+			<span class="tour-tag">Tour</span>
+			<h5 style="margin-top:8px">Commnunity Garden Tours in Tiong Bahru </h5>
+			<b>Organiser:</b> Kim Tian West RN, Tiong Bahru CC, Seng Poh RC and Tiong Bahru SCEC<br>
+			<b>Date:</b> 12 April 2025, Saturday<br>
+			<b>Where:</b> Tiong Bahru Community Centre<br>
+		</div>
+		<div class="box">
+			<span class="tour-tag">Tour</span>
+			<h5 style="margin-top:8px">Garden Tour @ Funtasia Garden (Teban Gardens RN)</h5>
+			<b>Organiser:</b>Teban Gardens RN<br>
+			<b>Date:</b> 12 April 2025, Saturday<br>
+			<b>Where:</b> Blk 32 Teban Gardens Road<br>
 		</div>
 		<div class="box">
 			<span class="tour-tag">Tour</span>
@@ -332,11 +370,11 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Where:</b> Kampung Admiralty<br>
 		</div>
 		<div class="box">
-			<span class="tour-tag">Tour</span><span class="workshop-tag">Workshop</span>
-			<h5 style="margin-top:8px">Launching Sensory Node</h5>
-			<b>Organiser:</b> Nee Soon South Zone C RN<br>
-			<b>Date:</b> 26 April 2025, Saturday<br>
-			<b>Where:</b> 813 Rooftop Landscape &amp; Community Garden, Yishun Ring Road<br>
+			<span class="harvestsharing-tag">Harvest Sharing</span><span class="booth-tag">Booth</span>
+			<h5 style="margin-top:8px">Central Singapore Market (CSM) in conjunction with SG60 Concert - Garden Booth and Therapeutic Horticulture</h5>
+			<b>Organiser:</b> Bishan CC Sky Garden &amp; Bishan East Zone 6 167A<br>
+			<b>Date:</b> 27 April 2025, Sunday<br>
+			<b>Where:</b> Bishan Bus Interchange<br>
 		</div>
 		<div class="box">
 			<span class="booth-tag">Booth</span><span class="tour-tag">Tour</span>
