@@ -179,7 +179,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<h5 style="margin-top:8px">Open Farm Session @ Bishan Swimming Complex</h5> 
 			<b>Organiser:</b> Bishan Active Farming<br> 
 			<b>Date:</b> 16 July 2025, Wednesday<br> 
-			<b>Time: </b>8.00am-10.00pm<br> 
+			<b>Time: </b>8.00am-10.00am<br> 
 			<b>Where:</b> Bishan Swimming Complex 1 Bishan Street 14 Singapore 579778 Singapore 579778<br> 
 			<b>Enquiries:</b> Email Team Nila at <a href="team_nila@sport.gov.sg">team_nila@sport.gov.sg</a><br><br> 
 			<a target="_blank" class="button-primary" href="https://go.gov.sg/openfarm2025">Register here!</a><br>
@@ -205,7 +205,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<h5 style="margin-top:8px">Kim Tian West SG60 National Day Celebration</h5>
 	 <b>Organiser:</b> The Giving Garden @ Kim Tian West<br>
 			<b>Date:</b> 26 July 2025, Saturday<br>
-		<b>Time: </b>5.00pm-6.00pm<br>
+		<b>Time: </b>5.00pm-7.00pm<br>
 			<b>Where:</b> Blk 119A Kim Tian Road Deck 5 Singapore161119 Rooftop of MSCP<br>
 			<b>Enquiries:</b> Email Kim Tian West RN at <a href="tcg.ktwrc@gmail.com">tcg.ktwrc@gmail.com</a><br><br>
 		<b>Registration:</b> No registration needed, walk-ins accepted<br>
