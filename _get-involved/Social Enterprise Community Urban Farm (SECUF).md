@@ -34,11 +34,11 @@ details[open] > summary {
 	<p>Activities in Community Urban Farms could include:</p>
 	<ul>
 		<li>Leasing allotment gardening plots for the public to garden</li>
-		<li>Organising workshops and lessons on gardening</li>
+		<li>Organising workshops and lessons on gardening and horticulture-related activities</li>
 		<li>Community harvest festivals; coordinating the sale/distribution of harvests</li>
 	</ul>
 		<img src="/images/High%20res%20photos/Members_of_the_community_visiting_the_SECUF_at_West_Coast_Park.jpg">
-	<p>Together with City Sprouts, we launched the first Social Enterprise Community Urban Farm (SECUF) in a park at West Coast Park, <a href="https://citysprouts.com.sg/">City Sprouts @ West Coast</a> on 1 June 2024. This is NParks’ first joint effort with a Social Enterprise (SE) to pilot the concept of a gardening hub in the heartlands. </p>
+	<p>Together with City Sprouts, we launched the first Social Enterprise Community Urban Farm (SECUF) in a park at West Coast Park, <a href="https://citysprouts.com.sg/">City Sprouts @ West Coast</a> on 1 June 2024. This is NParks’ first joint effort with a Social Enterprise (SE) to pilot the concept of a regional gardening and programming hub in the heartlands. </p>
 	<p>Through SECUF, we hope to bring the community to our parks to enjoy and bond over gardening activities and specially curated City in Nature-related programmes.</p>
 	<br>
 </section>
@@ -46,7 +46,7 @@ details[open] > summary {
 <section>
 	<h4>Social Enterprise Community Urban Farm (SECUF) Grant</h4>
 	<img src="/images/PXL_20230406_071359052_MP1.jpg">
-	<p>The SECUF Grant encourages Social Enterprises (SEs) to set up and operate Community Urban Farms, as well as conduct gardening programmes for seniors, special needs and low-income individuals/families. With their social objectives, SEs are able to impact the community positively. This grant was introduced under the Gardening with Edibles initiative which was launched by NParks in June 2020 to encourage Singaporeans to grow edibles at home as part of Singapore's vision of Growing our City in Nature.
+	<p>The SECUF Grant encourages Social Enterprises (SEs) to set up and operate Community Urban Farms, as well as conduct gardening and horticulture-related programmes for seniors, persons with special needs and/or low-income individuals/families. With their social objectives, SEs are able to impact the community positively. This grant was introduced under the Gardening with Edibles initiative which was launched by NParks in June 2020 to encourage Singaporeans to grow edibles at home as part of Singapore's vision of Growing our City in Nature.
 	</p><ul class="jekyllcodex_accordion">
 		<li><input type="checkbox" id="accordion1">
 		<label for="accordion1">Objectives</label><div>
@@ -75,7 +75,7 @@ details[open] > summary {
 			<p>The Infrastructure Support Grant provides support for the infrastructure costs involved in the establishment of SECUFs. Applicants must have successfully tendered for pre-identified sites* for SECUF usage. Detailed business proposals must be submitted. Proposal must include provision for allotment gardening plots and an outreach plan of a minimum of 500 people per year. Funding amount will be 25% of the infrastructure set up costs incurred by the SE, subjected to fundable items and to a cap of $500,000 per site. Funded SEs will have to maintain and operate the SECUF for an undertaking period of 5 years, and are precluded from further applications within this period.</p>
 			<p><em>*More details on the pre-identified sites will be released soon</em></p>
 			<p><u>Programming Support Grant</u></p>
-			<p>The Programming Support Grant provides funding support for costs incurred in the conducting of hands-on edible gardening workshops for seniors, special needs and low income individuals/ families. Applicants must submit a proposal of their programming plan for at least 120 unique participants per application. Up to 50% of the set up and programming cost can be funded, subjected to fundable items only and a cap of $50,000 per SE. Applicants for the Programming Support Grant must not have tapped onto the same Grant within the past 6 months or before fulfilling the targets of the previous application.</p>
+			<p>The Programming Support Grant provides funding support for costs incurred in the conducting of hands-on gardening or horticulture-related workshops for seniors, persons with special needs and/or low income individuals/ families. Applicants must submit a proposal of their programming plan for at least 120 unique participants per application. Up to 50% of the set up and programming cost can be funded, subjected to fundable items only and a cap of $50,000 per SE. Applicants for the Programming Support Grant must not have tapped onto the same Grant within the past 6 months or before fulfilling the targets of the previous application.</p>
 		</div></li>
 		<li><input type="checkbox" id="accordion5">
 		<label for="accordion5">Application Procedure</label><div>
