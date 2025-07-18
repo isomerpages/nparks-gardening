@@ -30,15 +30,15 @@ details[open] > summary {
 <section>
 	<img src="/images/PXL_20230406_085506119_PORTRAIT.jpg">
 	<h4>Community Urban Farms</h4>
-	<p>Community Urban Farms are gardening hubs that bring the community together through edibles gardening and curated programmes that revolve around it. Activities in Community Urban Farms could include leasing allotment gardening plots for the public to garden, organising workshops and lessons on gardening, community harvest festivals; coordinating the sale/distribution of harvests etc. Gardening together strengthens family and community bonds to build social resilience.</p>
+	<p>Community Urban Farms are gardening hubs that bring the community together through edibles gardening and curated horticulture programmes that revolve around it. Activities in Community Urban Farms could include leasing allotment gardening plots for the public to garden, organising workshops and lessons on gardening, horticulture, community harvest festivals, or coordinating the sale/distribution of harvests etc. Gardening together strengthens family and community bonds to build social resilience.</p>
 	<p>Activities in Community Urban Farms could include:</p>
 	<ul>
 		<li>Leasing allotment gardening plots for the public to garden</li>
-		<li>Organising workshops and lessons on gardening</li>
+		<li>Organising workshops and lessons on gardening and horticulture-related activities</li>
 		<li>Community harvest festivals; coordinating the sale/distribution of harvests</li>
 	</ul>
 		<img src="/images/High%20res%20photos/Members_of_the_community_visiting_the_SECUF_at_West_Coast_Park.jpg">
-	<p>Together with City Sprouts, we launched the first Social Enterprise Community Urban Farm (SECUF) in a park at West Coast Park, <a href="https://citysprouts.com.sg/">City Sprouts @ West Coast</a> on 1 June 2024. This is NParks’ first joint effort with a Social Enterprise (SE) to pilot the concept of a gardening hub in the heartlands. </p>
+	<p>Together with City Sprouts, we launched the first Social Enterprise Community Urban Farm (SECUF) in a park at West Coast Park, <a href="https://citysprouts.com.sg/">City Sprouts @ West Coast</a> on 1 June 2024. This is NParks’ first joint effort with a Social Enterprise (SE) to pilot the concept of a regional gardening and programming hub in the heartlands. </p>
 	<p>Through SECUF, we hope to bring the community to our parks to enjoy and bond over gardening activities and specially curated City in Nature-related programmes.</p>
 	<br>
 </section>
@@ -46,7 +46,7 @@ details[open] > summary {
 <section>
 	<h4>Social Enterprise Community Urban Farm (SECUF) Grant</h4>
 	<img src="/images/PXL_20230406_071359052_MP1.jpg">
-	<p>The SECUF Grant encourages Social Enterprises (SEs) to set up and operate Community Urban Farms, as well as conduct gardening programmes for seniors, special needs and low-income individuals/families. With their social objectives, SEs are able to impact the community positively. This grant was introduced under the Gardening with Edibles initiative which was launched by NParks in June 2020 to encourage Singaporeans to grow edibles at home as part of Singapore's vision of Growing our City in Nature.
+	<p>The SECUF Grant encourages Social Enterprises (SEs) to set up and operate Community Urban Farms, as well as conduct gardening and horticulture-related programmes for seniors, persons with special needs and/or low-income individuals/families. With their social objectives, SEs are able to impact the community positively. This grant was introduced under the Gardening with Edibles initiative which was launched by NParks in June 2020 to encourage Singaporeans to grow edibles at home as part of Singapore's vision of Growing our City in Nature.
 	</p><ul class="jekyllcodex_accordion">
 		<li><input type="checkbox" id="accordion1">
 		<label for="accordion1">Objectives</label><div>
@@ -75,14 +75,14 @@ details[open] > summary {
 			<p>The Infrastructure Support Grant provides support for the infrastructure costs involved in the establishment of SECUFs. Applicants must have successfully tendered for pre-identified sites* for SECUF usage. Detailed business proposals must be submitted. Proposal must include provision for allotment gardening plots and an outreach plan of a minimum of 500 people per year. Funding amount will be 25% of the infrastructure set up costs incurred by the SE, subjected to fundable items and to a cap of $500,000 per site. Funded SEs will have to maintain and operate the SECUF for an undertaking period of 5 years, and are precluded from further applications within this period.</p>
 			<p><em>*More details on the pre-identified sites will be released soon</em></p>
 			<p><u>Programming Support Grant</u></p>
-			<p>The Programming Support Grant provides funding support for costs incurred in the conducting of hands-on edible gardening workshops for seniors, special needs and low income individuals/ families. Applicants must submit a proposal of their programming plan for at least 120 unique participants per application. Up to 50% of the set up and programming cost can be funded, subjected to fundable items only and a cap of $50,000 per SE. Applicants for the Programming Support Grant must not have tapped onto the same Grant within the past 6 months or before fulfilling the targets of the previous application.</p>
+			<p>The Programming Support Grant provides funding support for costs incurred in the conducting of hands-on gardening or horticulture-related workshops for seniors, persons with special needs and/or low income individuals/ families. Applicants must submit a proposal of their programming plan for at least 120 unique participants per application. Up to 50% of the set up and programming cost can be funded, subjected to fundable items only and a cap of $50,000 per SE. Applicants for the Programming Support Grant must not have tapped onto the same Grant within the past 6 months or before fulfilling the targets of the previous application.</p>
 		</div></li>
 		<li><input type="checkbox" id="accordion5">
 		<label for="accordion5">Application Procedure</label><div>
 			<p>There are 2 stages:</p>
 			<details>
 				<summary>Stage 1: Application</summary>
-					<p style="margin-top:10px; margin-bottom:25px">Applicants who are interested in the grant are welcome to fill in a query form <a href="https://form.gov.sg/613ee1537ca28500127562b2">here</a>.</p>
+					<p style="margin-top:10px; margin-bottom:25px">Applicants who are interested in the grant are welcome to fill in a query form <a target="_blank" href="https://go.gov.sg/secuf-interestform">here</a>.</p>
 					<p>Upon receiving your query, our Manager In-Charge will assess your eligibility and guide you on the application process thereafter. Do note that the application needs to be approved before any works begin, to ensure that the SECUF or programmes qualify for funding.</p>
 					<p>After the application has been approved, applicants will receive a letter of offer from NParks. This letter of offer is valid for 12 months during which the funds will be reserved. The funded infrastructure and gardening programmes must be completed within this period. Do note that the applicant can only commence with their works only upon receiving the letter of offer.</p>
 					<p><strong>Supporting documents for Application of Infrastructure Support Grant</strong></p>
@@ -155,5 +155,5 @@ details[open] > summary {
 	
 <section>
 	<h4>Frequently Asked Questions</h4>
-	<p><a href="/files/SECUF_Grant_Website_FAQs_23May2024.pdf">Click here</a> to download the list of Frequently Asked Questions.</p>
+	<p><a target="_blank" href="/files/SECUF_Grant_Website_FAQs_17Jul2025.pdf">Click here</a> to download the list of Frequently Asked Questions.</p>
 </section>
