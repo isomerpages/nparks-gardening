@@ -147,6 +147,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 		<tbody>
 			<tr>
 				<td><a style="text-decoration:none" href="#4-10Aug">4-10 August</a></td>
+				<td><a style="text-decoration:none" href="#25-31Aug">25-31 August</a></td>
 				<td><a style="text-decoration:none" href="#1-7Sep">1-7 September</a></td>
 					<td><a style="text-decoration:none" href="#29Sep-5Oct">29 September - 5 October</a></td>
 								<td><a style="text-decoration:none" href="#pastevents">Past events</a></td>
@@ -182,6 +183,8 @@ You are encouraged to contact the organisers directly for specific queries on ev
 		<b>Registration:</b> No registration needed, walk-ins accepted<br>
 		</div></div>
 <br>
+	<h5 id="25-31Aug">25 - 31 August 2025</h5>
+	<div class="wrapper">
 	<div class="box">
 						<span class="talk-tag">Talk</span>
 			<h5 style="margin-top:8px">BioBlitz and Cooking with Herbs</h5>
@@ -207,7 +210,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Enquiries:</b> Email Victor Koh at <a href="vict316@gmail.com">vict316@gmail.com</a><br><br>
 		<b>Registration:</b> No registration needed, walk-ins accepted<br>
 		</div></div>			
-</section>
+</div></section>
 <br><br>
 <section>
 <h5 id="pastevents">Past events</h5>
