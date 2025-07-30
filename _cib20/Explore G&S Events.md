@@ -149,6 +149,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 				<td><a style="text-decoration:none" href="#4-10Aug">4-10 August</a></td>
 				<td><a style="text-decoration:none" href="#25-31Aug">25-31 August</a></td>
 				<td><a style="text-decoration:none" href="#1-7Sep">1-7 September</a></td>
+				<td><a style="text-decoration:none" href="#8-14Sep">8-14 September</a></td>
 					<td><a style="text-decoration:none" href="#29Sep-5Oct">29 September - 5 October</a></td>
 								<td><a style="text-decoration:none" href="#pastevents">Past events</a></td>
 			</tr>
@@ -197,6 +198,19 @@ You are encouraged to contact the organisers directly for specific queries on ev
 		<br>
 	</div>
 		<br><br>
+		<h5 id="8-14Sep">8 - 14 September 2025</h5>
+	<div class="wrapper">
+	<div class="box">
+						<span class="talk-tag">Talk</span>
+			<h5 style="margin-top:8px">BioBlitz and Butterflies &amp; Bees</h5>
+	 <b>Organiser:</b> Woodlands Botanical Garden<br>
+			<b>Date:</b> 13 September 2025, Saturday<br>
+		<b>Time:</b> 9.00am - 12.00pm<br>
+			<b>Where:</b> 134 Marsiling Road, Singapore 730134<br>
+		<b>Enquiries:</b> Email Ganesh at <a href="woodlandsbotanicalgarden@gmail.com">woodlandsbotanicalgarden@gmail.com</a><br><br>
+		<a class="button-primary" href="https://lu.ma/ys4e7kkw">Register</a>
+		</div></div>
+		<br>
 	<h5 id="29Sep-5Oct">29 September - 5 October 2025</h5>
 	<div class="wrapper">
 	<div class="box">
