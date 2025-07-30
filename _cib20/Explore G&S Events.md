@@ -224,7 +224,20 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Where:</b> 80 Chartwell Dr Singapore 558774<br>
 			<b>Enquiries:</b> Email Victor Koh at <a href="vict316@gmail.com">vict316@gmail.com</a><br><br>
 		<b>Registration:</b> No registration needed, walk-ins accepted<br>
-		</div></div>			
+		</div></div>
+	<h5 id="20-26Oct">20 - 26 October 2025</h5>
+	<div class="wrapper">
+	<div class="box">
+						<span class="talk-tag">Talk</span>
+			<h5 style="margin-top:8px">BioBlitz and Dragonflies &amp; Birds</h5>
+	 <b>Organiser:</b> Woodlands Botanical Garden<br>
+			<b>Date:</b> 25 September 2025, Saturday<br>
+		<b>Time:</b> 9.00am - 12.00pm<br>
+			<b>Where:</b> 134 Marsiling Road, Singapore 730134<br>
+		<b>Enquiries:</b> Email Ganesh at <a href="woodlandsbotanicalgarden@gmail.com">woodlandsbotanicalgarden@gmail.com</a><br><br>
+		<a class="button-primary" href="https://lu.ma/edvrcvi3">Register</a>
+		</div></div>
+		<br><br>
 </section>
 <br><br>
 <section>
