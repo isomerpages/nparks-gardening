@@ -51,8 +51,7 @@ description: ""
 	<li><b>Vibrant Marketplace</b> - Discover gardening treasures, sustainable products, and more (<a href="/hortfest-marketplace/">view Marketplace categories</a>)</li>
 	<li><b>Living Lab</b> - Having plant pests and soil health issues? Get expert advice at our Plant Health Clinic and learn practical solutions and gain insights to grow healthier plants</li>
 	<li><b>School Showcase</b> - Be inspired by innovative gardens from schools. </li>
-	<li><b>Festival Programmes</b> - Enjoy an exciting line-up of demonstrations, talks and performances by gardening experts and enthusiasts. <br>
-		See information on <b>Talks and Workshops</b></li>
+	<li><b>Festival Programmes</b> - Enjoy an exciting line-up of demonstrations, talks and performances by gardening experts and enthusiasts (view information on <a href="https://go.gov.sg/hortfest-calendar">Talks and Workshops</a> and Satellite Programme)</li>
 	<li><b>Family Fun</b> - Get hands-on with DIY gardening activities, garden craft activities, and join our guided tours</li>
 </ul><p></p>
 	
