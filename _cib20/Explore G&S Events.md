@@ -219,7 +219,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<span class="workshop-tag">Workshop</span>
 			<h5 style="margin-top:8px">Children's Day Garden party</h5>
 	 <b>Organiser:</b> Zootopian Garden<br>
-			<b>Date:</b> 5 October 2025, Saturday<br>
+			<b>Date:</b> 5 October 2025, Sunday<br>
 		<b>Time: </b>5.00pm-7.00pm<br>
 			<b>Where:</b> 80 Chartwell Dr Singapore 558774<br>
 			<b>Enquiries:</b> Email Victor Koh at <a href="vict316@gmail.com">vict316@gmail.com</a><br><br>
