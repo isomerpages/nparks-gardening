@@ -48,7 +48,7 @@ description: ""
 </p><ul>
 	<li><b>Competition Displays</b> - Be captivated by extraordinary displays of gardening excellence. From towering garden sculptures to prize-winning vegetables and meticulously cultivated ornamentals, our Community Garden Edibles and Horticultural Competitions showcase the pinnacle of both edible and ornamental horticulture</li>
 	<li><b>CIB20 Celebration Display and Exhibits</b> - Journey through two decades of community gardening milestones in this captivating showcase</li>
-	<li><b>Vibrant Marketplace</b> - Discover gardening treasures, sustainable products, and more (<a target="_blank" href="/hortfest-marketplace/">view Marketplace categories</a>)</li>
+	<li><b>Vibrant Marketplace</b> - Discover gardening treasures, sustainable products, and more (view <a target="_blank" href="/hortfest-marketplace/">Marketplace categories</a>)</li>
 	<li><b>Living Lab</b> - Having plant pests and soil health issues? Get expert advice at our Plant Health Clinic and learn practical solutions and gain insights to grow healthier plants</li>
 	<li><b>School Showcase</b> - Be inspired by innovative gardens from schools. </li>
 	<li><b>Festival Programmes</b> - Enjoy an exciting line-up of demonstrations, talks and performances by gardening experts and enthusiasts (view information on <a target="_blank" href="https://go.gov.sg/hortfest-calendar">Talks and Workshops</a> and Satellite Programme)</li>
