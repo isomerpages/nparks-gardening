@@ -150,8 +150,9 @@ You are encouraged to contact the organisers directly for specific queries on ev
 				<td><a style="text-decoration:none" href="#25-31Aug">25-31 August</a></td>
 				<td><a style="text-decoration:none" href="#1-7Sep">1-7 September</a></td>
 				<td><a style="text-decoration:none" href="#8-14Sep">8-14 September</a></td>
-					<td><a style="text-decoration:none" href="#29Sep-5Oct">29 September - 5 October</a></td>
-								<td><a style="text-decoration:none" href="#pastevents">Past events</a></td>
+				<td><a style="text-decoration:none" href="#29Sep-5Oct">29 September - 5 October</a></td>
+				<td><a style="text-decoration:none" href="#20-26Oct">20 - 26 October</a></td>
+				<td><a style="text-decoration:none" href="#pastevents">Past events</a></td>
 			</tr>
 		</tbody>
 		</table>
