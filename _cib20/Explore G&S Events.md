@@ -252,7 +252,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 		<b>Registration:</b> No registration needed, walk-ins accepted<br>
 		</div></div>			
 </section>
-<br>
+<br><br>
 <section>
 <h5 id="pastevents">Past events</h5>
 	<div class="wrapper">
