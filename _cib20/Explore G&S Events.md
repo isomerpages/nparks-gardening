@@ -195,7 +195,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 		<b>Time:</b> 9.00am - 12.00pm<br>
 			<b>Where:</b> 134 Marsiling Road, Singapore 730134<br>
 		<b>Enquiries:</b> Email Ganesh at <a href="woodlandsbotanicalgarden@gmail.com">woodlandsbotanicalgarden@gmail.com</a><br><br>
-		<a target="_blank" class="button-primary" href="https://lu.ma/bnaf8omj">Register</a>
+		<a target="_blank" class="button-primary" href="https://lu.ma/bnaf8omj">Register here!</a>
 		<br>
 		</div></div>
 		<br><br>
@@ -209,7 +209,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 		<b>Time:</b> 9.00am - 12.00pm<br>
 			<b>Where:</b> 134 Marsiling Road, Singapore 730134<br>
 		<b>Enquiries:</b> Email Ganesh at <a href="woodlandsbotanicalgarden@gmail.com">woodlandsbotanicalgarden@gmail.com</a><br><br>
-		<a target="_blank" class="button-primary" href="https://lu.ma/ys4e7kkw">Register</a>
+		<a target="_blank" class="button-primary" href="https://lu.ma/ys4e7kkw">Register here!</a>
 		</div></div>
 		<br><br>
 	<h5 id="29Sep-5Oct">29 September - 5 October 2025</h5>
@@ -235,7 +235,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 		<b>Time:</b> 9.00am - 12.00pm<br>
 			<b>Where:</b> 134 Marsiling Road, Singapore 730134<br>
 		<b>Enquiries:</b> Email Ganesh at <a href="woodlandsbotanicalgarden@gmail.com">woodlandsbotanicalgarden@gmail.com</a><br><br>
-		<a target="_blank" class="button-primary" href="https://lu.ma/edvrcvi3">Register</a>
+		<a target="_blank" class="button-primary" href="https://lu.ma/edvrcvi3">Register here!</a>
 		</div></div>
 		<br><br>
 </section>
