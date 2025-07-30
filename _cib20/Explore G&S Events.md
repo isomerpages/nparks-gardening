@@ -153,23 +153,8 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			</tr>
 		</tbody>
 		</table>
-</section><br>
-
+</section>
 <section>
-		<h5 id="21-27Jul">21 - 27 July 2025</h5>
-		<div class="wrapper">
-	<div class="box">
-						<span class="booth-tag">Booth</span>
-			<span class="harvestsharing-tag">Harvest Sharing</span>
-		<span class="workshop-tag">Workshop</span>
-			<h5 style="margin-top:8px">Kim Tian West SG60 National Day Celebration</h5>
-	 <b>Organiser:</b> The Giving Garden @ Kim Tian West<br>
-			<b>Date:</b> 26 July 2025, Saturday<br>
-		<b>Time: </b>5.00pm-7.00pm<br>
-			<b>Where:</b> Blk 119A Kim Tian Road Deck 5 Singapore161119 Rooftop of MSCP<br>
-			<b>Enquiries:</b> Email Kim Tian West RN at <a href="tcg.ktwrc@gmail.com">tcg.ktwrc@gmail.com</a><br><br>
-		<b>Registration:</b> No registration needed, walk-ins accepted<br>
-				</div></div>
 		<br><br>
 	<h5 id="4-10Aug">4 - 10 August 2025</h5>
 		<div class="wrapper">
@@ -489,4 +474,13 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Date:</b> 18 July 2025, Friday<br>
 			<b>Where:</b> Blk 119A Kim Tian Road Deck 5 Singapore161119 Rooftop of MSCP<br>
 			</div>
-		</div></section>
+	<div class="box">
+						<span class="booth-tag">Booth</span>
+			<span class="harvestsharing-tag">Harvest Sharing</span>
+		<span class="workshop-tag">Workshop</span>
+			<h5 style="margin-top:8px">Kim Tian West SG60 National Day Celebration</h5>
+	 <b>Organiser:</b> The Giving Garden @ Kim Tian West<br>
+			<b>Date:</b> 26 July 2025, Saturday<br>
+			<b>Where:</b> Blk 119A Kim Tian Road Deck 5 Singapore161119 Rooftop of MSCP<br>
+				</div></div>
+		</section>
