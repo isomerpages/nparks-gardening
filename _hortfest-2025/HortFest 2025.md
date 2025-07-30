@@ -48,12 +48,14 @@ description: ""
 </p><ul>
 	<li><b>Competition Displays</b> - Be captivated by extraordinary displays of gardening excellence. From towering garden sculptures to prize-winning vegetables and meticulously cultivated ornamentals, our Community Garden Edibles and Horticultural Competitions showcase the pinnacle of both edible and ornamental horticulture</li>
 	<li><b>CIB20 Celebration Display and Exhibits</b> - Journey through two decades of community gardening milestones in this captivating showcase</li>
-	<li><b>Vibrant Marketplace</b> - Discover gardening treasures, sustainable products, and more (view <a target="_blank" href="/hortfest-marketplace/">Marketplace categories</a>)</li>
+	<li><b>Vibrant Marketplace</b> - Discover gardening treasures, sustainable products, and more. View <a target="_blank" href="/hortfest-marketplace/">Marketplace categories</a></li>
 	<li><b>Living Lab</b> - Having plant pests and soil health issues? Get expert advice at our Plant Health Clinic and learn practical solutions and gain insights to grow healthier plants</li>
 	<li><b>School Showcase</b> - Be inspired by innovative gardens from schools. </li>
-	<li><b>Festival Programmes</b> - Enjoy an exciting line-up of demonstrations, talks and performances by gardening experts and enthusiasts (view information on <a target="_blank" href="https://go.gov.sg/hortfest-calendar">Talks and Workshops</a> and Satellite Programme)</li>
+	<li><b>Festival Programmes</b> - Enjoy an exciting line-up of demonstrations, talks and performances by gardening experts and enthusiasts. View information on <a target="_blank" href="https://go.gov.sg/hortfest-calendar">Talks and Workshops</a> and Satellite Programme</li>
 	<li><b>Family Fun</b> - Get hands-on with DIY gardening craft activities and join our <a target="_blank" download="" href="/files/HortFest%20files/HortFest2025_Guided_Tours.pdf"> guided tours</a> </li>
-</ul><p></p>
+	<li><b>Twilight Evening</b> - A Magical Music Performance featuring local artists Budak Pantai (23 Aug) and Alicia Pan with Munir Alsagoff (24 Aug). View information on <a href="https://www.nparks.gov.sg/visit/events/event-detail/HFHP_59/1360_HortFest-2025-Twilight-Evening"> Twilight Evening at Event Lawn</a></li>
+	<li><b>Movie Screening</b> - Featuring <i>How to Train Your Dragon</i> (30 Aug) and <i>Night at The Museum</i> (31 Aug). View information on <a href="https://www.nparks.gov.sg/visit/events/event-detail/HFHP_61/1369_HortFest-2025-Movie-screening-Event-Lawn"> Movie Screening at Event Lawn</a></li>
+	</ul><p></p>
 	
 <p>Note: Programme details are subject to change. Follow our social media channels for the latest updates.</p> 
 
