@@ -149,6 +149,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 					<td><a style="text-decoration:none" href="#7-13Jul">7-13 July</a></td>
 				<td><a style="text-decoration:none" href="#14-20Jul">14-21 July</a></td>
 					<td><a style="text-decoration:none" href="#21-27Jul">21-27 July</a></td>
+				<td><a style="text-decoration:none" href="#4-10Aug">4-10 August</a></td>
 				<td><a style="text-decoration:none" href="#1-7Sep">1-7 September</a></td>
 					<td><a style="text-decoration:none" href="#29Sep-5Oct">29 September - 5 October</a></td>
 								<td><a style="text-decoration:none" href="#pastevents">Past events</a></td>
@@ -209,6 +210,19 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Where:</b> Blk 119A Kim Tian Road Deck 5 Singapore161119 Rooftop of MSCP<br>
 			<b>Enquiries:</b> Email Kim Tian West RN at <a href="tcg.ktwrc@gmail.com">tcg.ktwrc@gmail.com</a><br><br>
 		<b>Registration:</b> No registration needed, walk-ins accepted<br>
+				</div></div>
+		<br><br>
+	<h5 id="4-10Aug">4 - 10 August 2025</h5>
+		<div class="wrapper">
+	<div class="box">
+		<span class="workshop-tag">Workshop</span>
+			<h5 style="margin-top:8px">Upcycling T-Shirt into Tote Bag: Reducing Waste &amp; Engaging the Community</h5>
+	 <b>Organiser:</b> Institute of Mental Health<br>
+			<b>Date:</b> 9 August 2025, Saturday<br>
+		<b>Time: </b>2.30pm-3.30pm<br>
+			<b>Where:</b> 10 Buangkok View, Buangkok Green Medical Park, Singapore 539747<br>
+			<b>Enquiries:</b> Email IMH at <a href="imh_community_garden@imh.com.sg">imh_community_garden@imh.com.sg</a><br><br>
+		<b>Registration:</b> To be updated<br>
 				</div></div>
 		<br><br>
 	<h5 id="1-7Sep">1 - 7 September 2025</h5>
