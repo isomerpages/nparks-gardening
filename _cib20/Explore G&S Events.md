@@ -146,69 +146,30 @@ You are encouraged to contact the organisers directly for specific queries on ev
 	<table>
 		<tbody>
 			<tr>
-					<td><a style="text-decoration:none" href="#7-13Jul">7-13 July</a></td>
-				<td><a style="text-decoration:none" href="#14-20Jul">14-21 July</a></td>
-					<td><a style="text-decoration:none" href="#21-27Jul">21-27 July</a></td>
+				<td><a style="text-decoration:none" href="#4-10Aug">4-10 August</a></td>
+				<td><a style="text-decoration:none" href="#25-31Aug">25-31 August</a></td>
 				<td><a style="text-decoration:none" href="#1-7Sep">1-7 September</a></td>
-					<td><a style="text-decoration:none" href="#29Sep-5Oct">29 September - 5 October</a></td>
-								<td><a style="text-decoration:none" href="#pastevents">Past events</a></td>
+				<td><a style="text-decoration:none" href="#8-14Sep">8-14 September</a></td>
+				<td><a style="text-decoration:none" href="#29Sep-5Oct">29 September - 5 October</a></td>
+				<td><a style="text-decoration:none" href="#20-26Oct">20 - 26 October</a></td>
+				<td><a style="text-decoration:none" href="#pastevents">Past events</a></td>
 			</tr>
 		</tbody>
 		</table>
-</section><br>
-
+</section>
 <section>
-		<h5 id="7-13Jul">7 - 13 July 2025</h5>
-	<div class="wrapper">
-	<div class="box">
-						<span class="crafts-tag">Crafts</span>
-		<span class="workshop-tag">Workshop</span>
-			<h5 style="margin-top:8px">SG60 Garden Expansion project at The Giving Garden @ Kim Tian West</h5>
-	 <b>Organiser:</b> The Giving Garden @ Kim Tian West<br>
-			<b>Date:</b> 11 July 2025, Friday<br>
-		<b>Time: </b>2.00pm-3.00pm<br>
-			<b>Where:</b> Blk 119A Kim Tian Road Deck 5 Singapore161119 Rooftop of MSCP<br>
-			<b>Enquiries:</b> Email Kim Tian West RN at <a href="tcg.ktwrc@gmail.com">tcg.ktwrc@gmail.com</a><br><br>
-		<b>Registration:</b> No registration needed, walk-ins accepted<br>
-		</div></div>
-	<h5 id="14-21Jul">14 - 21 July 2025</h5>
-	<div class="wrapper">
-		<div class="box"> 
-			<span class="harvestsharing-tag">Harvest Sharing</span> 
-			<span class="tour-tag">Tour</span> 
-			<h5 style="margin-top:8px">Open Farm Session @ Bishan Swimming Complex</h5> 
-			<b>Organiser:</b> Bishan Active Farming<br> 
-			<b>Date:</b> 16 July 2025, Wednesday<br> 
-			<b>Time: </b>8.00am-10.00am<br> 
-			<b>Where:</b> Bishan Swimming Complex 1 Bishan Street 14 Singapore 579778 Singapore 579778<br> 
-			<b>Enquiries:</b> Email Team Nila at <a href="team_nila@sport.gov.sg">team_nila@sport.gov.sg</a><br><br> 
-			<a target="_blank" class="button-primary" href="https://go.gov.sg/openfarm2025">Register here!</a><br>
-		</div>
-	<div class="box">
-						<span class="crafts-tag">Crafts</span>
-		<span class="workshop-tag">Workshop</span>
-			<h5 style="margin-top:8px">SG60 Garden Expansion project at The Giving Garden @ Kim Tian West</h5>
-	 <b>Organiser:</b> The Giving Garden @ Kim Tian West<br>
-			<b>Date:</b> 18 July 2025, Friday<br>
-		<b>Time: </b>2.00pm-3.00pm<br>
-			<b>Where:</b> Blk 119A Kim Tian Road Deck 5 Singapore161119 Rooftop of MSCP<br>
-			<b>Enquiries:</b> Email Kim Tian West RN at <a href="tcg.ktwrc@gmail.com">tcg.ktwrc@gmail.com</a><br><br>
-		<b>Registration:</b> No registration needed, walk-ins accepted<br>
-			</div></div>
-		<br>
-				<h5 id="21-27Jul">21 - 27 July 2025</h5>
+		<br><br>
+	<h5 id="4-10Aug">4 - 10 August 2025</h5>
 		<div class="wrapper">
 	<div class="box">
-						<span class="booth-tag">Booth</span>
-			<span class="harvestsharing-tag">Harvest Sharing</span>
 		<span class="workshop-tag">Workshop</span>
-			<h5 style="margin-top:8px">Kim Tian West SG60 National Day Celebration</h5>
-	 <b>Organiser:</b> The Giving Garden @ Kim Tian West<br>
-			<b>Date:</b> 26 July 2025, Saturday<br>
-		<b>Time: </b>5.00pm-7.00pm<br>
-			<b>Where:</b> Blk 119A Kim Tian Road Deck 5 Singapore161119 Rooftop of MSCP<br>
-			<b>Enquiries:</b> Email Kim Tian West RN at <a href="tcg.ktwrc@gmail.com">tcg.ktwrc@gmail.com</a><br><br>
-		<b>Registration:</b> No registration needed, walk-ins accepted<br>
+			<h5 style="margin-top:8px">Upcycling T-Shirt into Tote Bag: Reducing Waste &amp; Engaging the Community</h5>
+	 <b>Organiser:</b> Institute of Mental Health<br>
+			<b>Date:</b> 9 August 2025, Saturday<br>
+		<b>Time: </b>2.30pm-3.30pm<br>
+			<b>Where:</b> 10 Buangkok View, Buangkok Green Medical Park, Singapore 539747<br>
+			<b>Enquiries:</b> Email IMH at <a href="imh_community_garden@imh.com.sg">imh_community_garden@imh.com.sg</a><br><br>
+		<b>Registration:</b> To be updated<br>
 				</div></div>
 		<br><br>
 	<h5 id="1-7Sep">1 - 7 September 2025</h5>
@@ -223,6 +184,33 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Enquiries:</b> Email <a href="PA_changisimeicc@pa.gov.sg">PA_changisimeicc@pa.gov.sg</a><br><br>
 		<b>Registration:</b> No registration needed, walk-ins accepted<br>
 		</div></div>
+<br>
+	<h5 id="25-31Aug">25 - 31 August 2025</h5>
+	<div class="wrapper">
+	<div class="box">
+						<span class="talk-tag">Talk</span>
+			<h5 style="margin-top:8px">BioBlitz and Cooking with Herbs</h5>
+	 <b>Organiser:</b> Woodlands Botanical Garden<br>
+			<b>Date:</b> 30 August 2025, Saturday<br>
+		<b>Time:</b> 9.00am - 12.00pm<br>
+			<b>Where:</b> 134 Marsiling Road, Singapore 730134<br>
+		<b>Enquiries:</b> Email Ganesh at <a href="woodlandsbotanicalgarden@gmail.com">woodlandsbotanicalgarden@gmail.com</a><br><br>
+		<a target="_blank" class="button-primary" href="https://lu.ma/bnaf8omj">Register</a>
+		<br>
+		</div></div>
+		<br><br>
+	<h5 id="8-14Sep">8 - 14 September 2025</h5>
+	<div class="wrapper">
+	<div class="box">
+						<span class="talk-tag">Talk</span>
+			<h5 style="margin-top:8px">BioBlitz and Butterflies &amp; Bees</h5>
+	 <b>Organiser:</b> Woodlands Botanical Garden<br>
+			<b>Date:</b> 13 September 2025, Saturday<br>
+		<b>Time:</b> 9.00am - 12.00pm<br>
+			<b>Where:</b> 134 Marsiling Road, Singapore 730134<br>
+		<b>Enquiries:</b> Email Ganesh at <a href="woodlandsbotanicalgarden@gmail.com">woodlandsbotanicalgarden@gmail.com</a><br><br>
+		<a target="_blank" class="button-primary" href="https://lu.ma/ys4e7kkw">Register</a>
+		</div></div>
 		<br><br>
 	<h5 id="29Sep-5Oct">29 September - 5 October 2025</h5>
 	<div class="wrapper">
@@ -231,14 +219,27 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<span class="workshop-tag">Workshop</span>
 			<h5 style="margin-top:8px">Children's Day Garden party</h5>
 	 <b>Organiser:</b> Zootopian Garden<br>
-			<b>Date:</b> 5 October 2025, Saturday<br>
+			<b>Date:</b> 5 October 2025, Sunday<br>
 		<b>Time: </b>5.00pm-7.00pm<br>
 			<b>Where:</b> 80 Chartwell Dr Singapore 558774<br>
 			<b>Enquiries:</b> Email Victor Koh at <a href="vict316@gmail.com">vict316@gmail.com</a><br><br>
 		<b>Registration:</b> No registration needed, walk-ins accepted<br>
-		</div></div>			
+		</div></div>
+	<h5 id="20-26Oct">20 - 26 October 2025</h5>
+	<div class="wrapper">
+	<div class="box">
+						<span class="talk-tag">Talk</span>
+			<h5 style="margin-top:8px">BioBlitz and Dragonflies &amp; Birds</h5>
+	 <b>Organiser:</b> Woodlands Botanical Garden<br>
+			<b>Date:</b> 25 October 2025, Saturday<br>
+		<b>Time:</b> 9.00am - 12.00pm<br>
+			<b>Where:</b> 134 Marsiling Road, Singapore 730134<br>
+		<b>Enquiries:</b> Email Ganesh at <a href="woodlandsbotanicalgarden@gmail.com">woodlandsbotanicalgarden@gmail.com</a><br><br>
+		<a target="_blank" class="button-primary" href="https://lu.ma/edvrcvi3">Register</a>
+		</div></div>
+		<br><br>
 </section>
-<br>
+<br><br>
 <section>
 <h5 id="pastevents">Past events</h5>
 	<div class="wrapper">
@@ -491,5 +492,45 @@ You are encouraged to contact the organisers directly for specific queries on ev
 	 <b>Organiser:</b> Woodlands Active Farming<br>
 			<b>Date:</b> 2 July 2025, Wednesday<br>
 			<b>Where:</b> Woodlands Sport Centre 3 Woodlands Street 13, Singapore 738600<br>
-		</div></div>
+		</div>
+	<div class="box">
+						<span class="crafts-tag">Crafts</span>
+		<span class="workshop-tag">Workshop</span>
+			<h5 style="margin-top:8px">SG60 Garden Expansion project at The Giving Garden @ Kim Tian West</h5>
+	 <b>Organiser:</b> The Giving Garden @ Kim Tian West<br>
+			<b>Date:</b> 11 July 2025, Friday<br>
+			<b>Where:</b> Blk 119A Kim Tian Road Deck 5 Singapore161119 Rooftop of MSCP<br>
+	</div>
+		<div class="box"> 
+			<span class="harvestsharing-tag">Harvest Sharing</span> 
+			<span class="tour-tag">Tour</span> 
+			<h5 style="margin-top:8px">Open Farm Session @ Bishan Swimming Complex</h5> 
+			<b>Organiser:</b> Bishan Active Farming<br> 
+			<b>Date:</b> 16 July 2025, Wednesday<br> 
+			<b>Where:</b> Bishan Swimming Complex 1 Bishan Street 14 Singapore 579778 Singapore 579778<br> 
+		</div>
+	<div class="box">
+						<span class="crafts-tag">Crafts</span>
+		<span class="workshop-tag">Workshop</span>
+			<h5 style="margin-top:8px">SG60 Garden Expansion project at The Giving Garden @ Kim Tian West</h5>
+	 <b>Organiser:</b> The Giving Garden @ Kim Tian West<br>
+			<b>Date:</b> 18 July 2025, Friday<br>
+			<b>Where:</b> Blk 119A Kim Tian Road Deck 5 Singapore161119 Rooftop of MSCP<br>
+			</div>
+	<div class="box">
+						<span class="booth-tag">Booth</span>
+			<span class="harvestsharing-tag">Harvest Sharing</span>
+		<span class="workshop-tag">Workshop</span>
+			<h5 style="margin-top:8px">Kim Tian West SG60 National Day Celebration</h5>
+	 <b>Organiser:</b> The Giving Garden @ Kim Tian West<br>
+			<b>Date:</b> 26 July 2025, Saturday<br>
+			<b>Where:</b> Blk 119A Kim Tian Road Deck 5 Singapore161119 Rooftop of MSCP<br>
+				</div>
+	<div class="box">
+						<span class="talk-tag">Talk</span>
+			<h5 style="margin-top:8px">Woodlands Botanical Garden and Pollinators</h5>
+	 <b>Organiser:</b> Woodlands Botanical Garden<br>
+			<b>Date:</b> 26 July 2025, Saturday<br>
+			<b>Where:</b> 134 Marsiling Road, Singapore 730134<br>
+	</div></div>
 		</section>
