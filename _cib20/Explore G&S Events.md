@@ -196,9 +196,9 @@ You are encouraged to contact the organisers directly for specific queries on ev
 		<b>Enquiries:</b> Email Ganesh at <a href="woodlandsbotanicalgarden@gmail.com">woodlandsbotanicalgarden@gmail.com</a><br><br>
 		<a class="button-primary" href="https://lu.ma/bnaf8omj">Register</a>
 		<br>
-	</div>
+		</div></div>
 		<br><br>
-		<h5 id="8-14Sep">8 - 14 September 2025</h5>
+	<h5 id="8-14Sep">8 - 14 September 2025</h5>
 	<div class="wrapper">
 	<div class="box">
 						<span class="talk-tag">Talk</span>
@@ -210,7 +210,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 		<b>Enquiries:</b> Email Ganesh at <a href="woodlandsbotanicalgarden@gmail.com">woodlandsbotanicalgarden@gmail.com</a><br><br>
 		<a class="button-primary" href="https://lu.ma/ys4e7kkw">Register</a>
 		</div></div>
-		<br>
+		<br><br>
 	<h5 id="29Sep-5Oct">29 September - 5 October 2025</h5>
 	<div class="wrapper">
 	<div class="box">
@@ -224,7 +224,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Enquiries:</b> Email Victor Koh at <a href="vict316@gmail.com">vict316@gmail.com</a><br><br>
 		<b>Registration:</b> No registration needed, walk-ins accepted<br>
 		</div></div>			
-</div></section>
+</section>
 <br><br>
 <section>
 <h5 id="pastevents">Past events</h5>
