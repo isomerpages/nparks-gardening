@@ -231,7 +231,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 		<span class="workshop-tag">Workshop</span>
 			<h5 style="margin-top:8px">Upcycling T-Shirt into Tote Bag: Reducing Waste &amp; Engaging the Community</h5>
 	 <b>Organiser:</b> Institute of Mental Health<br>
-			<b>Date:</b> 9 August 2025, Saturday<br>
+			<b>Date:</b> 9 September 2025, Tuesday<br>
 		<b>Time: </b>2.30pm-3.30pm<br>
 			<b>Where:</b> 10 Buangkok View, Buangkok Green Medical Park, Singapore 539747<br>
 			<b>Enquiries:</b> Email IMH at <a href="imh_community_garden@imh.com.sg">imh_community_garden@imh.com.sg</a><br><br>
