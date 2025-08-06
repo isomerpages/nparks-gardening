@@ -147,6 +147,8 @@ You are encouraged to contact the organisers directly for specific queries on ev
 		<tbody>
 			<tr>
 				<td><a style="text-decoration:none" href="#4-10Aug">4-10 August</a></td>
+				<td><a style="text-decoration:none" href="#11-17Aug">11-17 August</a></td>
+				<td><a style="text-decoration:none" href="#18-24Aug">18-24 August</a></td>
 				<td><a style="text-decoration:none" href="#25-31Aug">25-31 August</a></td>
 				<td><a style="text-decoration:none" href="#1-7Sep">1-7 September</a></td>
 				<td><a style="text-decoration:none" href="#8-14Sep">8-14 September</a></td>
@@ -161,17 +163,30 @@ You are encouraged to contact the organisers directly for specific queries on ev
 		<br><br>
 	<h5 id="4-10Aug">4 - 10 August 2025</h5>
 		<div class="wrapper">
-	<div class="box">
-		<span class="workshop-tag">Workshop</span>
-			<h5 style="margin-top:8px">Upcycling T-Shirt into Tote Bag: Reducing Waste &amp; Engaging the Community</h5>
-	 <b>Organiser:</b> Institute of Mental Health<br>
-			<b>Date:</b> 9 August 2025, Saturday<br>
-		<b>Time: </b>2.30pm-3.30pm<br>
-			<b>Where:</b> 10 Buangkok View, Buangkok Green Medical Park, Singapore 539747<br>
-			<b>Enquiries:</b> Email IMH at <a href="imh_community_garden@imh.com.sg">imh_community_garden@imh.com.sg</a><br><br>
-		<b>Registration:</b> To be updated<br>
-				</div></div>
+			<div class="box">
+		<span class="harvestsharing-tag">Harvest Sharing</span>
+			<h5 style="margin-top:8px">National Day Healthy Meal: Harvest Sharing</h5>
+	 <b>Organiser:</b> Sheffield Kidsworld (ST ANNE) Pte Ltd<br>
+			<b>Date:</b> 8 August 2025, Friday<br>
+		<b>Time: </b>10.00am-11.00am<br>
+			<b>Where:</b> 1, St Anne’s Wood, Singapore 545271<br>
+			<b>Enquiries:</b> Email IMH at <a href="skw@sheffieldkidsworld.com">skw@sheffieldkidsworld.com</a><br><br>
+		<b>Registration:</b> No registration is needed, walk-ins are accepted<br>
+			</div></div>
 		<br><br>
+	<h5 id="11-17Aug">11 - 17 August 2025</h5>
+	<div class="wrapper">
+		<div class="box">
+		<span class="crafts-tag">Garden Crafts</span>
+			<span class="harvestsharing-tag">Harvest Sharing</span>
+			<h5 style="margin-top:8px">Garden Crafts and Harvest Sharing at Garden of Love </h5>
+	 <b>Organiser:</b> Kampung Glam Kelantan RN (Garden of Love)<br>
+			<b>Date:</b> 15 August 2025, Friday<br>
+		<b>Time: </b>4.00pm-6.00pm<br>
+			<b>Where:</b> 25 Jalan Berseh, Singapore 200025<br>
+			<b>Enquiries:</b> Contact Kelantan RN: 62912880  <br><br>
+		<b>Registration:</b> No registration is needed, walk-ins are accepted<br>
+		</div></div>
 	<h5 id="1-7Sep">1 - 7 September 2025</h5>
 	<div class="wrapper">
 	<div class="box">
@@ -185,6 +200,17 @@ You are encouraged to contact the organisers directly for specific queries on ev
 		<b>Registration:</b> No registration needed, walk-ins accepted<br>
 		</div></div>
 <br>
+		<h5 id="8-15Sep">8 - 15 September 2025</h5>
+	<div class="wrapper">
+	<div class="box">
+		<span class="workshop-tag">Workshop</span>
+			<h5 style="margin-top:8px">Upcycling T-Shirt into Tote Bag: Reducing Waste &amp; Engaging the Community</h5>
+	 <b>Organiser:</b> Institute of Mental Health<br>
+			<b>Date:</b> 9 August 2025, Saturday<br>
+		<b>Time: </b>2.30pm-3.30pm<br>
+			<b>Where:</b> 10 Buangkok View, Buangkok Green Medical Park, Singapore 539747<br>
+			<b>Enquiries:</b> Email IMH at <a href="imh_community_garden@imh.com.sg">imh_community_garden@imh.com.sg</a><br><br>
+		<b>Registration:</b> To be updated<br>
 	<h5 id="25-31Aug">25 - 31 August 2025</h5>
 	<div class="wrapper">
 	<div class="box">
@@ -238,7 +264,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 		<a target="_blank" class="button-primary" href="https://lu.ma/edvrcvi3">Register here!</a>
 		</div></div>
 		<br><br>
-</section>
+</div></div></section>
 <br><br>
 <section>
 <h5 id="pastevents">Past events</h5>
