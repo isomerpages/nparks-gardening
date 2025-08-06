@@ -1,5 +1,5 @@
 ---
-title: HortFest Marketplace
+title: HortFest MarketPlace
 permalink: /hortfest-marketplace/
 variant: markdown
 description: ""
@@ -32,7 +32,7 @@ description: ""
 <img src="/images/HortFest%20images/HortPark_MarketPlace.jpg">
 <br>
 <header>
-	<h4>HortFest Marketplace: Your Gateway to Singapore's Garden Community
+	<h4>HortFest MarketPlace: Your Gateway to Singapore's Garden Community
 </h4></header>
 
 <h5>Why participate</h5>
@@ -45,7 +45,7 @@ description: ""
 	<li>Tap into the growing sustainable living and urban gardening movement</li>
 </ul><p></p></section>
 	
-<h5>Our Marketplace Categories</h5>
+<h5>Our MarketPlace Categories</h5>
 <section>
 	<p></p><ol>
 	<li><b>Garden Essentials</b> - From quality plants and nursery products to tools, furniture and water features</li>
@@ -58,6 +58,6 @@ description: ""
 
 <h5>Application</h5>
 <section>
-	<p>Applications for the HortFest Marketplace have closed.</p>
-	<p>For enquiries on HortFest Marketplace, you may contact HortPark by phone at +65 6471 5601, or by email at <a href="_mailto:nparks_hortpark@nparks.gov.sg">nparks_hortpark@nparks.gov.sg</a>.</p>
+	<p>Applications for the HortFest MarketPlace have closed.</p>
+	<p>For enquiries on HortFest MarketPlace, you may contact HortPark by phone at +65 6471 5601, or by email at <a href="_mailto:nparks_hortpark@nparks.gov.sg">nparks_hortpark@nparks.gov.sg</a>.</p>
 </section>
