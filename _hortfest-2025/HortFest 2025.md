@@ -55,7 +55,7 @@ description: ""
 	<li><b>Family Fun</b> - Get hands-on with DIY gardening craft activities and join our <a download="target=" href="/files/HortFest%20files/HortFest2025_Guided_Tours.pdf"> guided tours</a> </li>
 	<li><b>Twilight Evening</b> - A Magical Music Performance featuring local artists Budak Pantai (23 Aug) and Alicia Pan with Munir Alsagoff (24 Aug). View information on <a target="_blank" href="https://www.nparks.gov.sg/visit/events/event-detail/HFHP_59/1360_HortFest-2025-Twilight-Evening"> Twilight Evening at Event Lawn</a></li>
 	<li><b>Movie Screening</b> - Featuring <i>How to Train Your Dragon</i> (30 Aug) and <i>Night at The Museum</i> (31 Aug). View information on <a target="_blank" href="https://www.nparks.gov.sg/visit/events/event-detail/HFHP_61/1369_HortFest-2025-Movie-screening-Event-Lawn"> Movie Screening at Event Lawn</a></li>
-	<li><b>Promotions</b> - Check out exclusive dining, recreation or retail promotions in our Parks and Gardens. View <a target="_blank" href="https://www.nparks.gov.sg/visit/activities/festivities-and-promotions">HortFest 2025 promotions</a></li>
+	<li><b>Promotions</b> - Check out exclusive dining, recreation or retail promotions in our Parks and Gardens. View <a target="_blank" href="https://www.nparks.gov.sg/visit/activities/hortfest-promotions">HortFest 2025 promotions</a></li>
 	</ul>
 	
 <p>Note: Programme details are subject to change. Follow our social media channels for the latest updates.</p> 
