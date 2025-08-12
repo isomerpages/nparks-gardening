@@ -5,9 +5,10 @@ date: 2023-07-27
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 <header>
-	<h3>Globe Amaranth (<em>Gomphrena globose</em>)</h3>
+	<h3>Globe Amaranth (<em>Gomphrena globosa</em>)</h3>
 </header>
 	
 <section>
