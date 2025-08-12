@@ -19,7 +19,7 @@ variant: markdown
 <section>
 	<img title="Globe amaranth flowers. Photo by Victoria Lim." src="/images/Plants/globeamaranth%20(2)_victorialim.jpg">
 	<p>Globe Amaranths produce small, striking white, purple or pink flowers that can be boiled into tea, or preserved to be used in cut flower arrangements. The flowers also attract a variety of bees and butterflies.</p>
-	<p>A small <a href="/learn-more-about-gardening/glossary/#a">annual</a> shrub, Globe Amaranths are typically grown as part of perimeter planting, or in ornamental gardens, edible gardens, and biodiversity-attracting gardens.</p>
+	<p>A small <a href="/learn-more-about-gardening/glossary/#a">annual</a> herbaceous plant, Globe Amaranths are typically grown as part of perimeter planting, or in ornamental gardens, edible gardens, and biodiversity-attracting gardens.</p>
 	<br>
 </section>
 
