@@ -180,7 +180,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 		<span class="crafts-tag">Garden Crafts</span>
 			<span class="harvestsharing-tag">Harvest Sharing</span>
 			<h5 style="margin-top:8px">Garden Crafts and Harvest Sharing at Garden of Love </h5>
-	 <b>Organiser:</b> Kampung Glam Kelantan RN (Garden of Love)<br>
+	 <b>Organiser:</b> Kampong Glam Kelantan RN (Garden of Love)<br>
 			<b>Date:</b> 15 August 2025, Friday<br>
 		<b>Time: </b>4.00pm-6.00pm<br>
 			<b>Where:</b> 25 Jalan Berseh, Singapore 200025<br>
@@ -221,7 +221,6 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Date:</b> 6 September 2025, Saturday<br>
 		<b>Time: </b>3.00pm-5.00pm<br>
 			<b>Where:</b> Changi-Simei Zone1 RC at Blk 107 Simei Street 1 Level 1, S(520107)<br>
-			<b>Enquiries:</b> Email <a href="PA_changisimeicc@pa.gov.sg">PA_changisimeicc@pa.gov.sg</a><br><br>
 		<b>Registration:</b> No registration needed, walk-ins accepted<br>
 		</div></div>
 <br>
@@ -312,7 +311,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 		</div>
 		<div class="box">
 			<span class="tour-tag">Tour</span>
-			<h5 style="margin-top:8px">Commnunity Garden Tours in Tiong Bahru </h5>
+			<h5 style="margin-top:8px">Community Garden Tours in Tiong Bahru </h5>
 			<b>Organiser:</b> Kim Tian West RN, Tiong Bahru CC, Seng Poh RC and Tiong Bahru SCEC<br>
 			<b>Date:</b> 12 April 2025, Saturday<br>
 			<b>Where:</b> Tiong Bahru Community Centre<br>
