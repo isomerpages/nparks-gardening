@@ -116,7 +116,7 @@ description: ""
                 <img alt="GCF logo" style="width:200px; display:inline" src="/images/HortFest%20images/Sponsors%20and%20Partners%20Logos/GCF_logo.png">
             </div>
         </div>
-        <div style="display:flex; gap:80px;">
+        <div style="display:flex; flex-wrap:wrap; gap:80px; margin-bottom:50px; margin-top:30px; justify-content:center;">
             <div class="partner">
                 <img alt="NAC logo" style="width:200px; display:inline" src="/images/HortFest%20images/Sponsors%20and%20Partners%20Logos/NAC_logo.png">
             </div>
