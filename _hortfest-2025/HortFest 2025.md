@@ -85,14 +85,14 @@ description: ""
 <p>
 </p><div class="section">
     <h4>GOLD Sponsor</h4>
-    <div>
-        <img alt="Bioflora logo" style="width:210px; display:inline; margin-bottom:30px;" src="/images/HortFest%20images/Sponsors%20and%20Partners%20Logos/Bioflora_logo.png">
+        <div style="display:flex; justify-content:center;">
+        <img alt="Bioflora logo" style="width:220px; display:inline; margin-bottom:30px;" src="/images/HortFest%20images/Sponsors%20and%20Partners%20Logos/Bioflora_logo.png">
     </div>
 </div>
 
 <div class="section">
     <h4>SILVER Sponsors</h4>
-    <div style="display:flex; flex-wrap:nowrap; gap:70px; margin-top:30px; justify-content:center;" class="ssponsors-grid">
+    <div style="display:flex; flex-wrap:wrap; gap:80px; margin-top:30px; justify-content:center;" class="ssponsors-grid">
         <div class="ssponsors">
             <img alt="Baba logo" style="width:180px; display:inline" src="/images/HortFest%20images/Sponsors%20and%20Partners%20Logos/Baba_logo.png">
         </div>
@@ -108,7 +108,7 @@ description: ""
 <div style="margin-top:60px;" class="section">
     <h4>Supporting Partners</h4>
     <div class="partners-grid">
-        <div style="display:flex; gap:80px; margin-bottom:50px; margin-top:30px;">
+        <div style="display:flex; flex-wrap:wrap; gap:80px; margin-bottom:50px; margin-top:30px; justify-content:center;">
             <div class="partner">
                 <img alt="City Sprouts logo" style="width:200px; display:inline" src="/images/HortFest%20images/Sponsors%20and%20Partners%20Logos/City_Sprouts_logo.png">
             </div>
