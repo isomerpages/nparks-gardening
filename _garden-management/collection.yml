@@ -1,0 +1,6 @@
+collections:
+  garden-management:
+    output: true
+    order:
+      - Housekeeping.md
+      - Garden Group Management.md

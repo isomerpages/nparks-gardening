@@ -1,0 +1,8 @@
+collections:
+  new-to-gardening:
+    output: true
+    order:
+      - Gardening 101.md
+      - Resource Suggester.md
+      - Basic Gardening Skills.md
+      - Plants for Beginners.md

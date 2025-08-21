@@ -1,0 +1,45 @@
+logo: /images/picture7.png
+links:
+  - title: Get Involved
+    url: /get-involved/community-gardens
+    sublinks:
+      - title: Grow and Share Initiative
+        url: /grow-and-share-initiative
+      - title: Community Gardens
+        url: /get-involved/community-gardens
+      - title: Allotment Gardens
+        url: /get-involved/allotment-gardens
+      - title: Events
+        url: /get-involved/events
+      - title: Community Urban Farms (SECUF)
+        url: /get-involved/community-urban-farms/
+      - title: Volunteer
+        url: https://www.volunteer.gov.sg/volunteer/agencies/agency_details?code=NParks#tab-mccy
+  - title: Learn more about gardening
+    url: /learn-more-about-gardening
+    sublinks:
+      - title: Plants
+        url: /learn-more-about-gardening/plants
+      - title: Horticulture Techniques
+        url: /learn-more-about-gardening/horticulture-techniques
+      - title: Plant Problems
+        url: /learn-more-about-gardening/plant-problems/
+      - title: Garden Biodiversity
+        url: /learn-more-about-gardening/garden-biodiversity
+      - title: Garden Design
+        url: /learn-more-about-gardening/garden-design
+      - title: Glossary
+        url: /learn-more-about-gardening/glossary/
+      - title: Professional Development
+        url: https://www.nparks.gov.sg/cuge
+      - title: Downloadable Resources
+        url: /learn-more-about-gardening/downloads
+  - title: Garden Management
+    url: /garden-management/housekeeping
+    sublinks:
+      - title: Housekeeping
+        url: /garden-management/housekeeping
+      - title: Garden Group Management
+        url: /garden-management/garden-group-management
+  - title: Contact Us
+    url: /contact-us/

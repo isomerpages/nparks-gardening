@@ -1,0 +1,8 @@
+collections:
+  hortfest-2025:
+    output: true
+    order:
+      - HortFest 2025.md
+      - HortFest MarketPlace.md
+      - Community Garden Edibles Competition.md
+      - Horticultural Competition.md
