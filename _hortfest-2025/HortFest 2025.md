@@ -44,7 +44,7 @@ description: ""
 
 <h4>Festival Highlights</h4>
 <section>	
-	<p>View <a target="_blank" href="https://go.gov.sg/hortfest25map">Festival Map</a> <br>
+	<p>View <a target="_blank" href="files/HortFest%20files/HortFest_2025_Map_and_Programme.pdf">Festival Map and Programme listing</a> <br>
 		Experience the magic of gardening through:
 </p><ul>
 	<li><b>Competition Displays</b> - Be captivated by extraordinary displays of gardening excellence. From towering garden sculptures to prize-winning vegetables and meticulously cultivated ornamentals, our Community Garden Edibles and Horticultural Competitions showcase the pinnacle of both edible and ornamental horticulture at the Harvest Hall</li>
