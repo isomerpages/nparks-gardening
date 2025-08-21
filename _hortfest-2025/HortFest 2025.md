@@ -129,4 +129,4 @@ description: ""
         </div>
     </div>
 </div>
-<p>In celebration of: <img style="width:70px; vertical-align:middle; display: inline; margin-left:8px;margin-top:30px;" src="/images/CIB20/sg60_logo.png"></p><br>
+<p>In celebration of: <img style="width:100px; vertical-align:middle; display: inline; margin-left:8px;margin-top:30px;" src="/images/CIB20/sg60_logo.png"></p><br>
