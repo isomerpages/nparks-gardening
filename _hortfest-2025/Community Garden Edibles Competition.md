@@ -45,4 +45,4 @@ description: ""
 </section>
 <br>
 <img src="/images/HortFest%20images/cgec_2025_poster_extended_deadline.jpg"> 
-	<p>Find out more about the <a target="_blank" href="https://go.gov.sg/cgec2025-rulesandregulations">CGEC 2025 Rules &amp; Regulations</a> and <a target="_blank" href="https://go.gov.sg/cgec2025-faq">FAQs</a>.</p>
+<p>Find out more about the <a target="_blank" href="https://go.gov.sg/cgec2025-rulesandregulations">CGEC 2025 Rules &amp; Regulations</a> and <a target="_blank" href="https://go.gov.sg/cgec2025-faq">FAQs</a>.</p>
