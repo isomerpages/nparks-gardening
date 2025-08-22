@@ -42,6 +42,6 @@ description: Celebrate 20 years of Community in Bloom
        
 
 <div style="text-align:center;"> <img style="width:200px;" src="/images/CIB20/cib20book.png"> </div>	
-	<p></p><div style="text-align:center;">Download a copy of <a href="/files/Community%20in%20Bloom%20-%20Stories%20in%20Our%20Community%20Gardens.pdf">  'Community in Bloom - Stories of Our Community in Bloom' (50mb)</a>! <p></p> </div>  
+<p></p><div style="text-align:center;">Download a copy of <a href="/files/Community%20in%20Bloom%20-%20Stories%20in%20Our%20Community%20Gardens.pdf">  'Community in Bloom - Stories of Our Community in Bloom' (50mb)</a>! <p></p> </div>  
   <br><br>
 <p>In celebration of: <img style="width:70px; vertical-align:middle; display: inline; margin-left:8px" src="/images/CIB20/sg60_logo.png"></p><br></section>
