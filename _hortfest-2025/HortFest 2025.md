@@ -44,7 +44,7 @@ description: ""
 
 <h4>Festival Highlights</h4>
 <section>	
-	<p>View <a target="_blank" href="https://go.gov.sg/hortfest25map">Festival Map</a> <br>
+	<p>View <a target="_blank" href="/files/HortFest%20files/HortFest_2025_Map_and_Programme.pdf">Festival Map and Programme listing</a> <br>
 		Experience the magic of gardening through:
 </p><ul>
 	<li><b>Competition Displays</b> - Be captivated by extraordinary displays of gardening excellence. From towering garden sculptures to prize-winning vegetables and meticulously cultivated ornamentals, our Community Garden Edibles and Horticultural Competitions showcase the pinnacle of both edible and ornamental horticulture at the Harvest Hall</li>
@@ -81,4 +81,52 @@ description: ""
 </div>
 	</div>
 </section>
-<p>In celebration of: <img style="width:70px; vertical-align:middle; display: inline; margin-left:8px" src="/images/CIB20/sg60_logo.png"></p><br>
+
+<p>
+</p><div class="section">
+    <h4>GOLD Sponsor</h4>
+        <div style="display:flex; justify-content:center;">
+        <img alt="Bioflora logo" style="width:220px; display:inline; margin-bottom:30px;" src="/images/HortFest%20images/Sponsors%20and%20Partners%20Logos/Bioflora_logo.png">
+    </div>
+</div>
+
+<div class="section">
+    <h4>SILVER Sponsors</h4>
+    <div style="display:flex; flex-wrap:wrap; gap:80px; margin-top:30px; justify-content:center;" class="ssponsors-grid">
+        <div class="ssponsors">
+            <img alt="Baba logo" style="width:180px; display:inline" src="/images/HortFest%20images/Sponsors%20and%20Partners%20Logos/Baba_logo.png">
+        </div>
+        <div class="ssponsors">
+            <img alt="Nanyang Inc logo" style="width:180px; display:inline" src="/images/HortFest%20images/Sponsors%20and%20Partners%20Logos/Nanyang_Inc_logo.png">
+        </div>
+        <div class="ssponsors">
+            <img alt="Singapore Pool logo" style="width:180px; display:inline" src="/images/HortFest%20images/Sponsors%20and%20Partners%20Logos/Singapore_Pool_logo.png">
+        </div>
+    </div>
+</div>
+
+<div style="margin-top:60px;" class="section">
+    <h4>Supporting Partners</h4>
+    <div class="partners-grid">
+        <div style="display:flex; flex-wrap:wrap; gap:80px; margin-bottom:50px; margin-top:30px; justify-content:center;">
+            <div class="partner">
+                <img alt="City Sprouts logo" style="width:200px; display:inline" src="/images/HortFest%20images/Sponsors%20and%20Partners%20Logos/City_Sprouts_logo.png">
+            </div>
+            <div class="partner">
+                <img alt="GCF logo" style="width:200px; display:inline" src="/images/HortFest%20images/Sponsors%20and%20Partners%20Logos/GCF_logo.png">
+            </div>
+        </div>
+        <div style="display:flex; flex-wrap:wrap; gap:80px; margin-bottom:50px; margin-top:30px; justify-content:center;">
+            <div class="partner">
+                <img alt="NAC logo" style="width:200px; display:inline" src="/images/HortFest%20images/Sponsors%20and%20Partners%20Logos/NAC_logo.png">
+            </div>
+            <div class="partner">
+                <img alt="NGS logo" style="width:200px; display:inline" src="/images/HortFest%20images/Sponsors%20and%20Partners%20Logos/NGS_logo.png">
+            </div>
+            <div class="partner">
+                <img alt="PICO logo" style="width:200px; display:inline" src="/images/HortFest%20images/Sponsors%20and%20Partners%20Logos/PICO_logo.png">
+            </div>
+        </div>
+    </div>
+</div>
+<p>In celebration of: <img style="width:100px; vertical-align:middle; display: inline; margin-left:8px;margin-top:30px;" src="/images/CIB20/sg60_logo.png"></p><br>
