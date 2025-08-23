@@ -33,7 +33,7 @@ description: Celebrate 20 years of Community in Bloom
 <h3>Celebrating 20 Years of Community in Bloom (CIB20)</h3>
 </header>
 
-<div align="center">
+<div style="display: flex; justify-content: center;">
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/aplk35BXwgA?si=DJ4H7sIBnbPY6AJw" height="315" width="560"></iframe>
 </div>
 
