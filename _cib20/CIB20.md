@@ -37,6 +37,7 @@ description: Celebrate 20 years of Community in Bloom
   <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/aplk35BXwgA?si=DJ4H7sIBnbPY6AJw">
   </iframe>
 </div>
+<br>
 
 <section>
 <p>This year marks the 20th anniversary of the <a href="/get-involved/community-gardens/">Community in Bloom (CIB) programme</a>. As part of the celebrations, the community can look forward to a host of activities at community gardens islandwide throughout the year with the new <a href="/grow-and-share-initiative/">'Grow and Share' initiative</a>. The celebrations will culminate at <a href="/hortfest-2025/">HortFest 2025</a> in August 2025, where members of public can find out more about the stories behind these gardens and how CIB volunteers have played a part in promoting community stewardship through their love for gardening over the last two decades. </p>
