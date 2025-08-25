@@ -35,15 +35,8 @@ description: ""
 	<h4>HortFest MarketPlace: Your Gateway to Singapore's Garden Community
 </h4></header>
 
-<h5>Why participate</h5>
-<section>
-	<p></p><ul>
-	<li>Connect directly with passionate gardeners, plant enthusiasts and community groups in one vibrant location</li>
-	<li>Showcase and sell your latest products and innovations to a targeted, enthusiastic audience</li>
-	<li>Build valuable customer relationships and industry partnerships though face-to-face interactions</li>
-	<li>Enhance your brand presence through demonstrations and Singapore's premier gardening festival platform</li>
-	<li>Tap into the growing sustainable living and urban gardening movement</li>
-</ul><p></p></section>
+<p>View HortFest 2025 MarketPlace <a target="_blank" href="/files/HortFest%20files/HortFest_2025_Marketplace_Vendor_Listin.pdf">vendor listing</a></p>
+
 	
 <h5>Our MarketPlace Categories</h5>
 <section>
@@ -55,6 +48,16 @@ description: ""
 	<li><b>F&amp;B Zone</b> - Food and refreshments to keep you energized while you explore</li>
 	</ol><p></p>
 </section>
+
+<h5>For Vendors: Why participate</h5>
+<section>
+	<p></p><ul>
+	<li>Connect directly with passionate gardeners, plant enthusiasts and community groups in one vibrant location</li>
+	<li>Showcase and sell your latest products and innovations to a targeted, enthusiastic audience</li>
+	<li>Build valuable customer relationships and industry partnerships though face-to-face interactions</li>
+	<li>Enhance your brand presence through demonstrations and Singapore's premier gardening festival platform</li>
+	<li>Tap into the growing sustainable living and urban gardening movement</li>
+</ul><p></p></section>
 
 <h5>Application</h5>
 <section>
