@@ -35,7 +35,7 @@ description: ""
 	<h4>HortFest MarketPlace: Your Gateway to Singapore's Garden Community
 </h4></header>
 
-<p>View HortFest 2025 MarketPlace <a target="_blank" href="/files/HortFest%20files/HortFest_2025_Marketplace_Vendor_Listin.pdf">vendor listing</a></p>
+<p>View HortFest 2025 MarketPlace <a target="_blank" href="/files/HortFest%20files/HortFest_2025_Marketplace_Vendor_Listing.pdf">vendor listing</a></p>
 
 	
 <h5>Our MarketPlace Categories</h5>
