@@ -150,7 +150,6 @@ You are encouraged to contact the organisers directly for specific queries on ev
 				<td><a style="text-decoration:none" href="#11-17Aug">11-17 August</a></td>
 				<td><a style="text-decoration:none" href="#18-24Aug">18-24 August</a></td>
 				<td><a style="text-decoration:none" href="#25-31Aug">25-31 August</a></td>
-				<td><a style="text-decoration:none" href="#1-7Sep">1-7 September</a></td>
 				<td><a style="text-decoration:none" href="#8-14Sep">8-14 September</a></td>
 				<td><a style="text-decoration:none" href="#29Sep-5Oct">29 September - 5 October</a></td>
 				<td><a style="text-decoration:none" href="#20-26Oct">20 - 26 October</a></td>
@@ -211,17 +210,6 @@ You are encouraged to contact the organisers directly for specific queries on ev
 		<b>Enquiries:</b> Email Ganesh at <a href="woodlandsbotanicalgarden@gmail.com">woodlandsbotanicalgarden@gmail.com</a><br><br>
 		<a target="_blank" class="button-primary" href="https://lu.ma/bnaf8omj">Register here!</a>
 		<br>
-		</div></div>
-		<h5 id="1-7Sep">1 - 7 September 2025</h5>
-	<div class="wrapper">
-	<div class="box">
-						<span class="workshop-tag">Workshop</span>
-			<h5 style="margin-top:8px">ABCs of Gardening</h5>
-	 <b>Organiser:</b> Harvey Crescent Community Garden (Sea Breeze Garden NC)<br>
-			<b>Date:</b> 6 September 2025, Saturday<br>
-		<b>Time: </b>3.00pm-5.00pm<br>
-			<b>Where:</b> Changi-Simei Zone1 RC at Blk 107 Simei Street 1 Level 1, S(520107)<br>
-		<b>Registration:</b> No registration needed, walk-ins accepted<br>
 		</div></div>
 <br>
 		<h5 id="8-15Sep">8 - 15 September 2025</h5>

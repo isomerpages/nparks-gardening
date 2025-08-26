@@ -1,10 +1,11 @@
 ---
 title: Predators
 permalink: /page-index/biodiversity/predators/
-date: 2023-08-30
+date: 2025-08-26
 layout: post
 description: Learn about garden predators, and what pests they prey on.
 image: /images/Biodiversity/ladybird on solanum - ppn 3victorialim.jpg
+variant: markdown
 ---
 <section>
 	<p>All healthy ecosystems support complex food webs of predators and prey, and gardens are no exception. Garden predators can help to keep pest populations down as part of integrated pest management. Learn to recognize these garden heroes and watch them get to work! </p>
@@ -25,7 +26,7 @@ image: /images/Biodiversity/ladybird on solanum - ppn 3victorialim.jpg
 	<img title="Photo by Jacqueline Chua." src="/images/Biodiversity/Wasp_PotterWasp_JacChua%20(2).jpg">
 	<p>Wasps come in a variety of shapes, sizes and colours, and are often mistaken for bees, which they are closely related to. In addition to being pollinators, wasps help to control garden pest populations, including <a href="/page-index/pests/aphids/">Aphids</a> and <a href="/page-index/pests/caterpillars/">caterpillars</a>.</p>
 	<img title="Caterpillars collected by potter wasps to feed their larvae. Photo by Jacqueline Chua." src="/images/Biodiversity/CaterpillarInPotterWaspNest_JacChua%20(2).jpg">
-	<p>Read our wasp advisory <a href="https://www.nparks.gov.sg/gardens-parks-and-nature/dos-and-donts/animal-advisories/bees-,-a-,-wasps">here</a>.</p>
+	<p>Read our wasp advisory <a href="https://www.nparks.gov.sg/avs/animals/wildlife-in-singapore/bees-,-a-,-wasps">here</a>.</p>
 	<br>
 </section>
 <section>
