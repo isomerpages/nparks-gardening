@@ -6,6 +6,7 @@ layout: post
 description: Learn more about pollinators in your garden, and what you can grow
   to support them.
 image: /images/Biodiversity/bee_apiscerana_zestinsoh.jpg
+variant: markdown
 ---
 <section>
 	<img title="A Carpenter Bee visiting a Clockvine. Photo by Zestin Soh." src="/images/Biodiversity/bee_carpenter%20bee_zestinsoh.jpg"> 
@@ -22,7 +23,7 @@ image: /images/Biodiversity/bee_apiscerana_zestinsoh.jpg
 	<img title="A Pearly Banded Nomia pollinates a brinjal. Photo by Zestin Soh." src="/images/Biodiversity/bee_nomia%20strigata_brinjal_zestinsoh.jpg">
 	<p>Some bees, like Carpenter bees, Pearly banded Nomias and Blue-Banded Digger bees perform buzz pollination, in which they buzz at a special frequency that causes certain flowers to release more pollen. <a href="/page-index/edible-plants/tomato/">Tomatoes</a>, <a href="/page-index/edible-plants/chilli/">Chillies</a>, and <a href="/page-index/edible-plants/brinjal/">Brinjals</a> are buzz-pollinated, and have higher yields of fruit when they are pollinated by bees as compared to hand-pollination.</p>
 	<p>Learn more about common garden bee species in our downloadable bee brochure <a download="" href="/files/garden%20bees%20of%20singapore%20211110%20(rev%20b)%20digital.pdf">here</a>.</p>
-	<p>Almost all bees seen busily working in the garden are female, with most of them being Honey Bee workers. Foraging worker bees are not dangerous if left alone while collecting pollen, but they can become aggressive if their hive is disturbed. Hives that are within reach of children or gardeners should be removed or relocated by a licensed professional for safety. Please visit our <a href="https://www.nparks.gov.sg/gardens-parks-and-nature/dos-and-donts/animal-advisories/bees-,-a-,-wasps">bee advisory page</a> to learn more about how you can safely interact with bees.</p>
+	<p>Almost all bees seen busily working in the garden are female, with most of them being Honey Bee workers. Foraging worker bees are not dangerous if left alone while collecting pollen, but they can become aggressive if their hive is disturbed. Hives that are within reach of children or gardeners should be removed or relocated by a licensed professional for safety. Please visit our <a href="https://www.nparks.gov.sg/avs/animals/wildlife-in-singapore/bees-,-a-,-wasps">bee advisory page</a> to learn more about how you can safely interact with bees.</p>
 	<br>
 </section>
 
