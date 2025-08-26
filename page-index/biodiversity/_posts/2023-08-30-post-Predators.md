@@ -5,6 +5,7 @@ date: 2023-08-30
 layout: post
 description: Learn about garden predators, and what pests they prey on.
 image: /images/Biodiversity/ladybird on solanum - ppn 3victorialim.jpg
+variant: markdown
 ---
 <section>
 	<p>All healthy ecosystems support complex food webs of predators and prey, and gardens are no exception. Garden predators can help to keep pest populations down as part of integrated pest management. Learn to recognize these garden heroes and watch them get to work! </p>
