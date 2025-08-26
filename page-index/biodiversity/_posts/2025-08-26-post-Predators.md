@@ -26,7 +26,7 @@ variant: markdown
 	<img title="Photo by Jacqueline Chua." src="/images/Biodiversity/Wasp_PotterWasp_JacChua%20(2).jpg">
 	<p>Wasps come in a variety of shapes, sizes and colours, and are often mistaken for bees, which they are closely related to. In addition to being pollinators, wasps help to control garden pest populations, including <a href="/page-index/pests/aphids/">Aphids</a> and <a href="/page-index/pests/caterpillars/">caterpillars</a>.</p>
 	<img title="Caterpillars collected by potter wasps to feed their larvae. Photo by Jacqueline Chua." src="/images/Biodiversity/CaterpillarInPotterWaspNest_JacChua%20(2).jpg">
-	<p>Read our wasp advisory <a href="https://www.nparks.gov.sg/gardens-parks-and-nature/dos-and-donts/animal-advisories/bees-,-a-,-wasps">here</a>.</p>
+	<p>Read our wasp advisory <a href="https://www.nparks.gov.sg/avs/animals/wildlife-in-singapore/bees-,-a-,-wasps">here</a>.</p>
 	<br>
 </section>
 <section>
