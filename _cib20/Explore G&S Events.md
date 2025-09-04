@@ -169,7 +169,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Date:</b> 8 August 2025, Friday<br>
 		<b>Time: </b>10.00am-11.00am<br>
 			<b>Where:</b> 1, St Anne’s Wood, Singapore 545271<br>
-			<b>Enquiries:</b> Email IMH at <a href="skw@sheffieldkidsworld.com">skw@sheffieldkidsworld.com</a><br><br>
+			<b>Enquiries:</b> Email skw preschool at <a href="skw@sheffieldkidsworld.com">skw@sheffieldkidsworld.com</a><br><br>
 		<b>Registration:</b> No registration is needed, walk-ins are accepted<br>
 			</div></div>
 		<br><br>
@@ -222,7 +222,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 		<b>Time: </b>2.30pm-3.30pm<br>
 			<b>Where:</b> 10 Buangkok View, Buangkok Green Medical Park, Singapore 539747<br>
 			<b>Enquiries:</b> Email IMH at <a href="imh_community_garden@imh.com.sg">imh_community_garden@imh.com.sg</a><br><br>
-		<b>Registration:</b> To be updated<br>
+		<b>Registration:</b> <a href="https://form.gov.sg/689e905fb9b0b892b9238f5f">https://form.gov.sg/689e905fb9b0b892b9238f5f</a><br>
 		</div></div>
 	<h5 id="8-14Sep">8 - 14 September 2025</h5>
 	<div class="wrapper">
