@@ -220,6 +220,16 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Enquiries:</b> Email Buona Vista CC at <a href="pa_buonavistacc@pa.gov.sg">pa_buonavistacc@pa.gov.sg</a><br><br>
 		<b>Registration:</b> <a href="https://www.eventbrite.sg/e/guided-tour-of-lively-places-fund-buona-vista-green-eye-view-tickets-1654601831619">Guided Tour of Lively Places Fund - Buona Vista Green-Eye View </a> <br>
 		</div></div>
+		<div class="box">
+						<span class="harvestsharing-tag">Harvest Sharing</span>
+			<h5 style="margin-top:8px">Garden Fiesta - Distilled Floral water / Cuttings sharing</h5>
+	 <b>Organiser:</b> Bukit Batok Central Educational Garden<br>
+			<b>Date:</b> 12 October 2025, Sunday<br>
+		<b>Time: </b>10.00am -11.00am<br>
+			<b>Where:</b> 621/622 Bukit Batok Central Singapore 650621<br>
+			<b>Enquiries:</b> Email Bukit Batok CC at <a href="pa_bukitbatokcc@pa.gov.sg">pa_bukitbatokcc@pa.gov.sg</a><br><br>
+		<b>Registration:</b> <a href="https://go.gov.sg/bbgardenfiesta">https://go.gov.sg/bbgardenfiesta </a> <br>
+		</div></div>
 	<h5 id="20-26Oct">20 - 26 October 2025</h5>
 	<div class="wrapper">
 	<div class="box">
@@ -233,7 +243,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 		<a target="_blank" class="button-primary" href="https://lu.ma/edvrcvi3">Register here!</a>
 		</div></div>
 		<br><br>
-</div></section>
+</section>
 <br><br>
 <section>
 <h5 id="pastevents">Past events</h5>
