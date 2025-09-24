@@ -144,10 +144,10 @@ You are encouraged to contact the organisers directly for specific queries on ev
 <section>
 	<h5>Browse our events by date</h5>
 	
-				31 August<table>
+<table>
 		<tbody>
 			<tr>
-				<td><a style="text-decoration:none" href="#8-14Sep">8-14 September</a></td>
+				<td><a style="text-decoration:none" href="#22-28Sep">22-28 September</a></td>
 				<td><a style="text-decoration:none" href="#29Sep-5Oct">29 September - 5 October</a></td>
 				<td><a style="text-decoration:none" href="#20-26Oct">20 - 26 October</a></td>
 				<td><a style="text-decoration:none" href="#pastevents">Past events</a></td>
@@ -158,17 +158,17 @@ You are encouraged to contact the organisers directly for specific queries on ev
 <section>
 			
 <br>
-		<h5 id="8-15Sep">8 - 15 September 2025</h5>
+		<h5 id="22-28Sep">22 - 28 September 2025</h5>
 	<div class="wrapper">
 	<div class="box">
-		<span class="workshop-tag">Workshop</span>
-			<h5 style="margin-top:8px">Upcycling T-Shirt into Tote Bag: Reducing Waste &amp; Engaging the Community</h5>
-	 <b>Organiser:</b> Institute of Mental Health<br>
-			<b>Date:</b> 9 September 2025, Tuesday<br>
-		<b>Time: </b>2.30pm-3.30pm<br>
-			<b>Where:</b> 10 Buangkok View, Buangkok Green Medical Park, Singapore 539747<br>
-			<b>Enquiries:</b> Email IMH at <a href="imh_community_garden@imh.com.sg">imh_community_garden@imh.com.sg</a><br><br>
-		<b>Registration:</b> <a href="https://form.gov.sg/689e905fb9b0b892b9238f5f">https://form.gov.sg/689e905fb9b0b892b9238f5f</a><br>
+		<span class="tour-tag">Tour</span>
+			<h5 style="margin-top:8px">&nbsp;Draft Master Plan 2025 Fringe Events: Guided tour on Lively Places Fund - Green Gaia</h5>
+	 <b>Organiser:</b> Spottiswoode Park RN (Green Gaia)<br>
+			<b>Date:</b> 26 September 2025, Friday<br>
+		<b>Time: </b>5.00pm-6.00pm<br>
+			<b>Where:</b> 101 Spottiswoode Park Road Singapore, 080101<br>
+			<b>Enquiries:</b> Email Roy Fung at <a href="fungkahwai@yahoo.com.sg">fungkahwai@yahoo.com.sg</a><br><br>
+		<b>Registration:</b> <a href="https://www.eventbrite.sg/e/guided-tour-on-lively-places-fund-green-gaia-tickets-1653758970599">Guided tour on Lively Places Fund - Green Gaia</a><br>
 		</div></div>
 	<h5 id="8-14Sep">8 - 14 September 2025</h5>
 	<div class="wrapper">
@@ -536,4 +536,20 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Where:</b> 134 Marsiling Road, Singapore 730134<br>
 		<br>
 		</div>
-		</div></section>
+		<div class="box">
+		<span class="workshop-tag">Workshop</span>
+			<h5 style="margin-top:8px">Upcycling T-Shirt into Tote Bag: Reducing Waste &amp; Engaging the Community</h5>
+	 <b>Organiser:</b> Institute of Mental Health<br>
+			<b>Date:</b> 9 September 2025, Tuesday<br>
+			<b>Where:</b> 10 Buangkok View, Buangkok Green Medical Park, Singapore 539747<br>
+		</div></div>
+	<br>
+	<div class="box">
+						<span class="talk-tag">Talk</span>
+			<h5 style="margin-top:8px">BioBlitz and Butterflies &amp; Bees</h5>
+	 <b>Organiser:</b> Woodlands Botanical Garden<br>
+			<b>Date:</b> 13 September 2025, Saturday<br>
+			<b>Where:</b> 134 Marsiling Road, Singapore 730134<br>
+		</div>
+		<br>
+		</section>
