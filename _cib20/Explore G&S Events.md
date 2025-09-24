@@ -591,8 +591,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 	 <b>Organiser:</b> Institute of Mental Health<br>
 			<b>Date:</b> 8 September 2025, Monday<br>
 			<b>Where:</b> 10 Buangkok View, Buangkok Green Medical Park, Singapore 539747<br>
-		</div></div>
-	<br>
+		</div>
 	<div class="box">
 						<span class="talk-tag">Talk</span>
 			<h5 style="margin-top:8px">BioBlitz and Butterflies &amp; Bees</h5>
@@ -601,4 +600,4 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Where:</b> 134 Marsiling Road, Singapore 730134<br>
 		</div>
 		<br>
-		</section>
+		</div></section>
