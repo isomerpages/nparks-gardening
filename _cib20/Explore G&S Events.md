@@ -149,6 +149,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<tr>
 				<td><a style="text-decoration:none" href="#22-28Sep">22-28 September</a></td>
 				<td><a style="text-decoration:none" href="#29Sep-5Oct">29 September - 5 October</a></td>
+				<td><a style="text-decoration:none" href="#29Sep-5Oct">29 September - 5 October</a></td>
 				<td><a style="text-decoration:none" href="#20-26Oct">20 - 26 October</a></td>
 				<td><a style="text-decoration:none" href="#pastevents">Past events</a></td>
 			</tr>
@@ -162,21 +163,33 @@ You are encouraged to contact the organisers directly for specific queries on ev
 	<div class="wrapper">
 	<div class="box">
 		<span class="tour-tag">Tour</span>
-			<h5 style="margin-top:8px">&nbsp;Draft Master Plan 2025 Fringe Events: Guided tour on Lively Places Fund - Green Gaia</h5>
+			<h5 style="margin-top:8px">Draft Master Plan 2025 Fringe Events: Guided tour on Lively Places Fund - Green Gaia</h5>
 	 <b>Organiser:</b> Spottiswoode Park RN (Green Gaia)<br>
 			<b>Date:</b> 26 September 2025, Friday<br>
-		<b>Time: </b>5.00pm-6.00pm<br>
+		<b>Time: </b>5.00pm -6.00pm<br>
 			<b>Where:</b> 101 Spottiswoode Park Road Singapore, 080101<br>
 			<b>Enquiries:</b> Email Roy Fung at <a href="fungkahwai@yahoo.com.sg">fungkahwai@yahoo.com.sg</a><br><br>
 		<b>Registration:</b> <a href="https://www.eventbrite.sg/e/guided-tour-on-lively-places-fund-green-gaia-tickets-1653758970599">Guided tour on Lively Places Fund - Green Gaia</a>
 		<br>
 		</div>
 		<div class="box">
+		<span class="booth-tag">Booth</span>
+				<span class="marketplace-tag">Marketplace</span>
+			<h5 style="margin-top:8px">Bishan East Zone 1 Mid-Autumn Green Bazaar</h5>
+	 <b>Organiser:</b> Bishan East Zone 1 Green Hub<br>
+			<b>Date:</b> 27 September 2025, Saturday<br>
+		<b>Time: </b>12.00pm -8.00pm<br>
+			<b>Where:</b>Blk 112 Bishan St 12, S570113<br>
+			<b>Enquiries:</b><a> https://www.facebook.com/BE.Zone1.RNa</a><br><br>
+		<b>Registration:</b>No registration needed, walk-ins accepted
+		<br>
+		</div>
+		<div class="box">
 		<span class="tour-tag">Tour</span>
-			<h5 style="margin-top:8px">&nbsp;Draft Master Plan 2025 Fringe Events: Guided tour on Lively Places Fund - Green Gaia</h5>
+			<h5 style="margin-top:8px">Draft Master Plan 2025 Fringe Events: Guided tour on Lively Places Fund - Green Gaia</h5>
 	 <b>Organiser:</b> Spottiswoode Park RN (Green Gaia)<br>
 			<b>Date:</b> 28 September 2025, Friday<br>
-		<b>Time: </b>9.00am-10.00am<br>
+		<b>Time: </b>9.00am -10.00am<br>
 			<b>Where:</b> 101 Spottiswoode Park Road Singapore, 080101<br>
 			<b>Enquiries:</b> Email Roy Fung at <a href="fungkahwai@yahoo.com.sg">fungkahwai@yahoo.com.sg</a><br><br>
 		<b>Registration:</b> <a href="eventbrite.sg/e/guided-tour-on-lively-places-fund-green-gaia-tickets-1654622413179">Guided tour on Lively Places Fund - Green Gaia</a><br>
@@ -194,6 +207,18 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Where:</b> 80 Chartwell Dr Singapore 558774<br>
 			<b>Enquiries:</b> Email Victor Koh at <a href="vict316@gmail.com">vict316@gmail.com</a><br><br>
 		<b>Registration:</b> No registration needed, walk-ins accepted<br>
+		</div></div>
+		<h5 id="6Oct-12Oct">6 October - 12 October 2025</h5>
+	<div class="wrapper">
+	<div class="box">
+						<span class="tour-tag">Tour</span>
+			<h5 style="margin-top:8px">Guided Tours of LPC 2023 Building Projects for Draft Master Plan 2025 Roving Exhibitions</h5>
+	 <b>Organiser:</b> Buona Vista’s Green-Eye-View<br>
+			<b>Date:</b> 8 October 2025, Wednesday<br>
+		<b>Time: </b>6.00pm-7.00pm<br>
+			<b>Where:</b> Blk 7B Commonwealth Avenue (MSCP) Singapore 142007<br>
+			<b>Enquiries:</b> Email Buona Vista CC at <a href="pa_buonavistacc@pa.gov.sg">pa_buonavistacc@pa.gov.sg</a><br><br>
+		<b>Registration:</b> <a href="https://www.eventbrite.sg/e/guided-tour-of-lively-places-fund-buona-vista-green-eye-view-tickets-1654601831619">Guided Tour of Lively Places Fund - Buona Vista Green-Eye View </a> <br>
 		</div></div>
 	<h5 id="20-26Oct">20 - 26 October 2025</h5>
 	<div class="wrapper">
