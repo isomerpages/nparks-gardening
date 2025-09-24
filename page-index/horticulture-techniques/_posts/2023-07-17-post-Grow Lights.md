@@ -6,6 +6,7 @@ layout: post
 description: Want to grow plants but have no sunlight? Consider getting a grow
   light! Learn more about them here.
 image: /images/Hardscapes/Growlight_JacChua.jpg
+variant: markdown
 ---
 <section>
 	<p>The biggest hurdle to growing plants indoor is having enough light. Using a grow light can remedy many issues with indoor gardening. It can give you the flexibility of growing anywhere in your home and not be reliant on sunlight coming through your windows. </p>
@@ -33,8 +34,5 @@ image: /images/Hardscapes/Growlight_JacChua.jpg
 		<li><input type="checkbox" id="accordion2">
 		<label for="accordion2">LED Growlights: for plants that need more light</label><div>
 			<img title="Red, blue and white LED growlights to grow a variety of plants indoors. Photo by Jacqueline Chua." src="/images/Hardscapes/Growlight_JacChua%20(2).jpg">
-			<p>LED grow lights are specially modified to produce more light in the red and blue wavelengths which allows for better plant growth, with PPFD values high enough to be equivalent to <a href="/page-index/horticulture-techniques/gauging-light/">direct sunlight</a> . They are usually tailored to maximising the growth of edible plants grown indoors, with custom lights making it possible to grow cold weather crops in air conditioned rooms. These systems can get very expensive, but can also yield a variety of crops when used well.</p>
-			<p>For more information on grow lights and indoor gardening, download our <a download="" href="/files/introduction%20to%20indoor%20gardening.pdf">indoor gardening brochure</a>!</p>
-		</div></li>
-	</ul>
-</section>
+			<p>LED grow lights are specially modified to produce more light in the red and blue wavelengths which allows for better plant growth, with PPFD values high enough to be equivalent to <a href="/page-index/horticulture-techniques/gauging-light/">direct sunlight</a> . They are usually tailored to maximising the growth of edible plants grown indoors, with custom lights making it possible to grow cold weather crops in air conditioned rooms. These systems can get very expensive, but can also yield a variety of crops when used well.</p></div></li></ul>
+			<p>For more information on grow lights and indoor gardening, download our <a href="/files/introduction_to_indoor_gardening.pdf">Introduction to Indoor Gardening brochure!</a></p></section>
