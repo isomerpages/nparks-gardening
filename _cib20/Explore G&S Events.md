@@ -221,7 +221,8 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Where:</b> Blk 7B Commonwealth Avenue (MSCP) Singapore 142007<br>
 			<b>Enquiries:</b> Email Buona Vista CC at <a href="pa_buonavistacc@pa.gov.sg">pa_buonavistacc@pa.gov.sg</a><br><br>
 			<a target="_blank" class="button-primary" href="https://www.eventbrite.sg/e/guided-tour-of-lively-places-fund-buona-vista-green-eye-view-tickets-1654601831619">Register here!</a>
-		</div></div>
+		<br>
+		</div>
 	<br>
 		<div class="box">
 						<span class="harvestsharing-tag">Harvest Sharing</span>
@@ -252,13 +253,13 @@ You are encouraged to contact the organisers directly for specific queries on ev
 						<span class="talk-tag">Talk</span>
 			<h5 style="margin-top:8px">Bukit Batok Educational garden tour</h5>
 	 <b>Organiser:</b> Bukit Batok Central Educational Garden<br>
-			<b>Date:</b> 2 November 2025, Sunay<br>
+			<b>Date:</b> 1 November 2025, Saturday<br>
 		<b>Time:</b> 9.00am - 10.00am<br>
 			<b>Where:</b> 621/622 Bukit Batok Central Singapore 650621<br>
 		<b>Enquiries:</b> Email Jon Tay at <a href="jon@thelifestyleassociate.com">jon@thelifestyleassociate.com</a><br><br>
 		<b>Registration:</b> No registration is needed, walk-ins are accepted
 		</div></div>
-</section>
+</div></section>
 <br><br>
 <section>
 <h5 id="pastevents">Past events</h5>
