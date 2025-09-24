@@ -168,21 +168,20 @@ You are encouraged to contact the organisers directly for specific queries on ev
 		<b>Time: </b>5.00pm-6.00pm<br>
 			<b>Where:</b> 101 Spottiswoode Park Road Singapore, 080101<br>
 			<b>Enquiries:</b> Email Roy Fung at <a href="fungkahwai@yahoo.com.sg">fungkahwai@yahoo.com.sg</a><br><br>
-		<b>Registration:</b> <a href="https://www.eventbrite.sg/e/guided-tour-on-lively-places-fund-green-gaia-tickets-1653758970599">Guided tour on Lively Places Fund - Green Gaia</a><br>
-		</div></div>
-	<h5 id="8-14Sep">8 - 14 September 2025</h5>
-	<div class="wrapper">
-	<div class="box">
-						<span class="talk-tag">Talk</span>
-			<h5 style="margin-top:8px">BioBlitz and Butterflies &amp; Bees</h5>
-	 <b>Organiser:</b> Woodlands Botanical Garden<br>
-			<b>Date:</b> 13 September 2025, Saturday<br>
-		<b>Time:</b> 9.00am - 12.00pm<br>
-			<b>Where:</b> 134 Marsiling Road, Singapore 730134<br>
-		<b>Enquiries:</b> Email Ganesh at <a href="woodlandsbotanicalgarden@gmail.com">woodlandsbotanicalgarden@gmail.com</a><br><br>
-		<a target="_blank" class="button-primary" href="https://lu.ma/ys4e7kkw">Register here!</a>
-		</div></div>
-		<br><br>
+		<b>Registration:</b> <a href="https://www.eventbrite.sg/e/guided-tour-on-lively-places-fund-green-gaia-tickets-1653758970599">Guided tour on Lively Places Fund - Green Gaia</a>
+		<br>
+		</div>
+		<div class="box">
+		<span class="tour-tag">Tour</span>
+			<h5 style="margin-top:8px">&nbsp;Draft Master Plan 2025 Fringe Events: Guided tour on Lively Places Fund - Green Gaia</h5>
+	 <b>Organiser:</b> Spottiswoode Park RN (Green Gaia)<br>
+			<b>Date:</b> 28 September 2025, Friday<br>
+		<b>Time: </b>9.00am-10.00am<br>
+			<b>Where:</b> 101 Spottiswoode Park Road Singapore, 080101<br>
+			<b>Enquiries:</b> Email Roy Fung at <a href="fungkahwai@yahoo.com.sg">fungkahwai@yahoo.com.sg</a><br><br>
+		<b>Registration:</b> <a href="eventbrite.sg/e/guided-tour-on-lively-places-fund-green-gaia-tickets-1654622413179">Guided tour on Lively Places Fund - Green Gaia</a><br>
+		</div>
+		<br>
 	<h5 id="29Sep-5Oct">29 September - 5 October 2025</h5>
 	<div class="wrapper">
 	<div class="box">
@@ -209,7 +208,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 		<a target="_blank" class="button-primary" href="https://lu.ma/edvrcvi3">Register here!</a>
 		</div></div>
 		<br><br>
-</section>
+</div></section>
 <br><br>
 <section>
 <h5 id="pastevents">Past events</h5>
