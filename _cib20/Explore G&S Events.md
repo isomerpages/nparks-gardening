@@ -189,7 +189,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 		<span class="tour-tag">Tour</span>
 			<h5 style="margin-top:8px">Draft Master Plan 2025 Fringe Events: Guided tour on Lively Places Fund - Green Gaia</h5>
 	 <b>Organiser:</b> Spottiswoode Park RN (Green Gaia)<br>
-			<b>Date:</b> 28 September 2025, Friday<br>
+			<b>Date:</b> 28 September 2025, Sunday<br>
 		<b>Time: </b>9.00am -10.00am<br>
 			<b>Where:</b> 101 Spottiswoode Park Road Singapore, 080101<br>
 			<b>Enquiries:</b> Email Roy Fung at <a href="fungkahwai@yahoo.com.sg">fungkahwai@yahoo.com.sg</a><br><br>
@@ -589,7 +589,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 		<span class="workshop-tag">Workshop</span>
 			<h5 style="margin-top:8px">Upcycling T-Shirt into Tote Bag: Reducing Waste &amp; Engaging the Community</h5>
 	 <b>Organiser:</b> Institute of Mental Health<br>
-			<b>Date:</b> 9 September 2025, Tuesday<br>
+			<b>Date:</b> 8 September 2025, Monday<br>
 			<b>Where:</b> 10 Buangkok View, Buangkok Green Medical Park, Singapore 539747<br>
 		</div></div>
 	<br>
