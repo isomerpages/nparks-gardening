@@ -233,7 +233,8 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Where:</b> 621/622 Bukit Batok Central Singapore 650621<br>
 			<b>Enquiries:</b> Email Bukit Batok CC at <a href="pa_bukitbatokcc@pa.gov.sg">pa_bukitbatokcc@pa.gov.sg</a><br><br>
 				<a target="_blank" class="button-primary" href="https://go.gov.sg/bbgardenfiesta">Register here!</a>
-		</div>
+		</div><br>
+	</div>
 	<h5 id="20-26Oct">20 - 26 October 2025</h5>
 	<div class="wrapper">
 	<div class="box">
@@ -259,7 +260,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 		<b>Enquiries:</b> Email Jon Tay at <a href="jon@thelifestyleassociate.com">jon@thelifestyleassociate.com</a><br><br>
 		<b>Registration:</b> No registration is needed, walk-ins are accepted
 		</div></div>
-</div></section>
+</section>
 <br><br>
 <section>
 <h5 id="pastevents">Past events</h5>
