@@ -144,12 +144,14 @@ You are encouraged to contact the organisers directly for specific queries on ev
 <section>
 	<h5>Browse our events by date</h5>
 	
-				31 August<table>
+<table>
 		<tbody>
 			<tr>
-				<td><a style="text-decoration:none" href="#8-14Sep">8-14 September</a></td>
+				<td><a style="text-decoration:none" href="#22-28Sep">22-28 September</a></td>
 				<td><a style="text-decoration:none" href="#29Sep-5Oct">29 September - 5 October</a></td>
-				<td><a style="text-decoration:none" href="#20-26Oct">20 - 26 October</a></td>
+				<td><a style="text-decoration:none" href="#6Oct-12Oct">6 October - 12 October</a></td>
+								<td><a style="text-decoration:none" href="#20-26Oct">20 - 26 October</a></td>
+								<td><a style="text-decoration:none" href="#27Oct-2Nov">27 October - 2 November</a></td>
 				<td><a style="text-decoration:none" href="#pastevents">Past events</a></td>
 			</tr>
 		</tbody>
@@ -158,32 +160,43 @@ You are encouraged to contact the organisers directly for specific queries on ev
 <section>
 			
 <br>
-		<h5 id="8-15Sep">8 - 15 September 2025</h5>
+		<h5 id="22-28Sep">22 - 28 September 2025</h5>
 	<div class="wrapper">
 	<div class="box">
-		<span class="workshop-tag">Workshop</span>
-			<h5 style="margin-top:8px">Upcycling T-Shirt into Tote Bag: Reducing Waste &amp; Engaging the Community</h5>
-	 <b>Organiser:</b> Institute of Mental Health<br>
-			<b>Date:</b> 9 September 2025, Tuesday<br>
-		<b>Time: </b>2.30pm-3.30pm<br>
-			<b>Where:</b> 10 Buangkok View, Buangkok Green Medical Park, Singapore 539747<br>
-			<b>Enquiries:</b> Email IMH at <a href="imh_community_garden@imh.com.sg">imh_community_garden@imh.com.sg</a><br><br>
-		<b>Registration:</b> <a href="https://form.gov.sg/689e905fb9b0b892b9238f5f">https://form.gov.sg/689e905fb9b0b892b9238f5f</a><br>
+		<span class="tour-tag">Tour</span>
+			<h5 style="margin-top:8px">Draft Master Plan 2025 Fringe Events: Guided tour on Lively Places Fund - Green Gaia</h5>
+	 <b>Organiser:</b> Spottiswoode Park RN (Green Gaia)<br>
+			<b>Date:</b> 26 September 2025, Friday<br>
+		<b>Time: </b>5.00pm -6.00pm<br>
+			<b>Where:</b> 101 Spottiswoode Park Road Singapore, 080101<br>
+			<b>Enquiries:</b> Email Roy Fung at <a href="fungkahwai@yahoo.com.sg">fungkahwai@yahoo.com.sg</a><br><br>
+		<a target="_blank" class="button-primary" href="https://www.eventbrite.sg/e/guided-tour-on-lively-places-fund-green-gaia-tickets-1653758970599">Register here!</a>
+		<br>
+		</div>
+		<div class="box">
+		<span class="booth-tag">Booth</span>
+				<span class="marketplace-tag">Marketplace</span>
+			<h5 style="margin-top:8px">Bishan East Zone 1 Mid-Autumn Green Bazaar</h5>
+	 <b>Organiser:</b> Bishan East Zone 1 Green Hub<br>
+			<b>Date:</b> 27 September 2025, Saturday<br>
+		<b>Time: </b>12.00pm -8.00pm<br>
+			<b>Where:</b>Blk 112 Bishan St 12, S570113<br>
+			<b>Enquiries:</b><a> https://www.facebook.com/BE.Zone1.RNa</a><br><br>
+		<b>Registration:</b> No registration needed, walk-ins accepted
+		<br>
+		</div>
+		<div class="box">
+		<span class="tour-tag">Tour</span>
+			<h5 style="margin-top:8px">Draft Master Plan 2025 Fringe Events: Guided tour on Lively Places Fund - Green Gaia</h5>
+	 <b>Organiser:</b> Spottiswoode Park RN (Green Gaia)<br>
+			<b>Date:</b> 28 September 2025, Sunday<br>
+		<b>Time: </b>9.00am -10.00am<br>
+			<b>Where:</b> 101 Spottiswoode Park Road Singapore, 080101<br>
+			<b>Enquiries:</b> Email Roy Fung at <a href="fungkahwai@yahoo.com.sg">fungkahwai@yahoo.com.sg</a><br><br>
+					<a target="_blank" class="button-primary" href="eventbrite.sg/e/guided-tour-on-lively-places-fund-green-gaia-tickets-1654622413179">Register here!</a>
 		</div></div>
-	<h5 id="8-14Sep">8 - 14 September 2025</h5>
-	<div class="wrapper">
-	<div class="box">
-						<span class="talk-tag">Talk</span>
-			<h5 style="margin-top:8px">BioBlitz and Butterflies &amp; Bees</h5>
-	 <b>Organiser:</b> Woodlands Botanical Garden<br>
-			<b>Date:</b> 13 September 2025, Saturday<br>
-		<b>Time:</b> 9.00am - 12.00pm<br>
-			<b>Where:</b> 134 Marsiling Road, Singapore 730134<br>
-		<b>Enquiries:</b> Email Ganesh at <a href="woodlandsbotanicalgarden@gmail.com">woodlandsbotanicalgarden@gmail.com</a><br><br>
-		<a target="_blank" class="button-primary" href="https://lu.ma/ys4e7kkw">Register here!</a>
-		</div></div>
-		<br><br>
-	<h5 id="29Sep-5Oct">29 September - 5 October 2025</h5>
+		<br>
+		<h5 id="29Sep-5Oct">29 September - 5 October 2025</h5>
 	<div class="wrapper">
 	<div class="box">
 						<span class="tour-tag">Tour</span>
@@ -196,6 +209,30 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Enquiries:</b> Email Victor Koh at <a href="vict316@gmail.com">vict316@gmail.com</a><br><br>
 		<b>Registration:</b> No registration needed, walk-ins accepted<br>
 		</div></div>
+	<br>
+		<h5 id="6Oct-12Oct">6 October - 12 October 2025</h5>
+	<div class="wrapper">
+	<div class="box">
+						<span class="tour-tag">Tour</span>
+			<h5 style="margin-top:8px">Guided Tours of LPC 2023 Building Projects for Draft Master Plan 2025 Roving Exhibitions</h5>
+	 <b>Organiser:</b> Buona Vista’s Green-Eye-View<br>
+			<b>Date:</b> 8 October 2025, Wednesday<br>
+		<b>Time: </b>6.00pm-7.00pm<br>
+			<b>Where:</b> Blk 7B Commonwealth Avenue (MSCP) Singapore 142007<br>
+			<b>Enquiries:</b> Email Buona Vista CC at <a href="pa_buonavistacc@pa.gov.sg">pa_buonavistacc@pa.gov.sg</a><br><br>
+			<a target="_blank" class="button-primary" href="https://www.eventbrite.sg/e/guided-tour-of-lively-places-fund-buona-vista-green-eye-view-tickets-1654601831619">Register here!</a>
+		</div></div>
+	<br>
+		<div class="box">
+						<span class="harvestsharing-tag">Harvest Sharing</span>
+			<h5 style="margin-top:8px">Garden Fiesta - Distilled Floral water / Cuttings sharing</h5>
+	 <b>Organiser:</b> Bukit Batok Central Educational Garden<br>
+			<b>Date:</b> 12 October 2025, Sunday<br>
+		<b>Time: </b>10.00am -11.00am<br>
+			<b>Where:</b> 621/622 Bukit Batok Central Singapore 650621<br>
+			<b>Enquiries:</b> Email Bukit Batok CC at <a href="pa_bukitbatokcc@pa.gov.sg">pa_bukitbatokcc@pa.gov.sg</a><br><br>
+				<a target="_blank" class="button-primary" href="https://go.gov.sg/bbgardenfiesta">Register here!</a>
+		</div>
 	<h5 id="20-26Oct">20 - 26 October 2025</h5>
 	<div class="wrapper">
 	<div class="box">
@@ -209,6 +246,18 @@ You are encouraged to contact the organisers directly for specific queries on ev
 		<a target="_blank" class="button-primary" href="https://lu.ma/edvrcvi3">Register here!</a>
 		</div></div>
 		<br><br>
+		<h5 id="27Oct-2Nov">27 October - 2 November 2025</h5>
+	<div class="wrapper">
+	<div class="box">
+						<span class="talk-tag">Talk</span>
+			<h5 style="margin-top:8px">Bukit Batok Educational garden tour</h5>
+	 <b>Organiser:</b> Bukit Batok Central Educational Garden<br>
+			<b>Date:</b> 2 November 2025, Sunay<br>
+		<b>Time:</b> 9.00am - 10.00am<br>
+			<b>Where:</b> 621/622 Bukit Batok Central Singapore 650621<br>
+		<b>Enquiries:</b> Email Jon Tay at <a href="jon@thelifestyleassociate.com">jon@thelifestyleassociate.com</a><br><br>
+		<b>Registration:</b> No registration is needed, walk-ins are accepted
+		</div></div>
 </section>
 <br><br>
 <section>
@@ -536,4 +585,19 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Where:</b> 134 Marsiling Road, Singapore 730134<br>
 		<br>
 		</div>
+		<div class="box">
+		<span class="workshop-tag">Workshop</span>
+			<h5 style="margin-top:8px">Upcycling T-Shirt into Tote Bag: Reducing Waste &amp; Engaging the Community</h5>
+	 <b>Organiser:</b> Institute of Mental Health<br>
+			<b>Date:</b> 8 September 2025, Monday<br>
+			<b>Where:</b> 10 Buangkok View, Buangkok Green Medical Park, Singapore 539747<br>
+		</div>
+	<div class="box">
+						<span class="talk-tag">Talk</span>
+			<h5 style="margin-top:8px">BioBlitz and Butterflies &amp; Bees</h5>
+	 <b>Organiser:</b> Woodlands Botanical Garden<br>
+			<b>Date:</b> 13 September 2025, Saturday<br>
+			<b>Where:</b> 134 Marsiling Road, Singapore 730134<br>
+		</div>
+		<br>
 		</div></section>
