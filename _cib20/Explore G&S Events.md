@@ -250,13 +250,13 @@ You are encouraged to contact the organisers directly for specific queries on ev
 	<div class="wrapper">
 	<div class="box">
 						<span class="talk-tag">Talk</span>
-			<h5 style="margin-top:8px">BioBlitz and Dragonflies &amp; Birds</h5>
-	 <b>Organiser:</b> Woodlands Botanical Garden<br>
-			<b>Date:</b> 25 October 2025, Saturday<br>
-		<b>Time:</b> 9.00am - 12.00pm<br>
-			<b>Where:</b> 134 Marsiling Road, Singapore 730134<br>
-		<b>Enquiries:</b> Email Ganesh at <a href="woodlandsbotanicalgarden@gmail.com">woodlandsbotanicalgarden@gmail.com</a><br><br>
-		<a target="_blank" class="button-primary" href="https://lu.ma/edvrcvi3">Register here!</a>
+			<h5 style="margin-top:8px">Bukit Batok Educational garden tour</h5>
+	 <b>Organiser:</b> Bukit Batok Central Educational Garden<br>
+			<b>Date:</b> 2 November 2025, Sunay<br>
+		<b>Time:</b> 9.00am - 10.00am<br>
+			<b>Where:</b> 621/622 Bukit Batok Central Singapore 650621<br>
+		<b>Enquiries:</b> Email Jon Tay at <a href="jon@thelifestyleassociate.com">jon@thelifestyleassociate.com</a><br><br>
+		<b>Registration:</b> No registration is needed, walk-ins are accepted
 		</div></div>
 </section>
 <br><br>
