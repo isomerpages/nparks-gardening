@@ -194,6 +194,18 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Where:</b> 101 Spottiswoode Park Road Singapore, 080101<br>
 			<b>Enquiries:</b> Email Roy Fung at <a href="fungkahwai@yahoo.com.sg">fungkahwai@yahoo.com.sg</a><br><br>
 					<a target="_blank" class="button-primary" href="eventbrite.sg/e/guided-tour-on-lively-places-fund-green-gaia-tickets-1654622413179">Register here!</a>
+			<br>
+		</div>
+		<div class="box">
+		<span class="tour-tag">Tour</span>
+			<span class="harvestsharing-tag">Harvest Sharing</span>
+			<h5 style="margin-top:8px">Garden Fiesta @ Bukit Batok</h5>
+	 <b>Organiser:</b> Happy Ville Community Garden<br>
+			<b>Date:</b> 28 September 2025, Sunday<br>
+		<b>Time: </b>9.00am -10.00am<br>
+			<b>Where:</b> Happy Ville Community Garden @ Blk 219 Bukit Batok St 21 Singapore 650219<br>
+			<b>Enquiries:</b> Email Chin Kion at <a href="ckng0130@gmail.com">ckng0130@gmail.com</a><br><br>
+			<b>Registration:</b> No registration is needed, walk-ins are accepted
 		</div></div>
 		<br>
 		<h5 id="29Sep-5Oct">29 September - 5 October 2025</h5>
@@ -258,6 +270,17 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Where:</b> 621/622 Bukit Batok Central Singapore 650621<br>
 		<b>Enquiries:</b> Email Jon Tay at <a href="jon@thelifestyleassociate.com">jon@thelifestyleassociate.com</a><br><br>
 		<b>Registration:</b> No registration is needed, walk-ins are accepted
+		<br>
+		</div>
+			<div class="box">
+						<span class="harvestsharing-tag">Harvest Sharing</span>
+			<h5 style="margin-top:8px">Harvest and Herb Sharing</h5>
+	 <b>Organiser:</b> Bukit Batok Zone 10 RN (Skyline 1 MSCP Rooftop Garden)<br>
+			<b>Date:</b> 15 November 2025, Saturday<br>
+		<b>Time:</b> 9.00am - 10.00am<br>
+			<b>Where:</b> 194 MSCP rooftop Bukit Batok West Ave 6 S650194<br>
+		<b>Enquiries:</b> Email Bukit Batok Zone 10 RN at <a href="bbz10rc@gmail.com">bbz10rc@gmail.com</a><br><br>
+		<b>Registration:</b> To be updated
 		</div></div>
 </section>
 <br><br>
