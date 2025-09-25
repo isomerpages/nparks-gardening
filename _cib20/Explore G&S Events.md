@@ -223,7 +223,6 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<a target="_blank" class="button-primary" href="https://www.eventbrite.sg/e/guided-tour-of-lively-places-fund-buona-vista-green-eye-view-tickets-1654601831619">Register here!</a>
 		<br>
 		</div>
-	<br>
 		<div class="box">
 						<span class="harvestsharing-tag">Harvest Sharing</span>
 			<h5 style="margin-top:8px">Garden Fiesta - Distilled Floral water / Cuttings sharing</h5>
