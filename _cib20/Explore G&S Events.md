@@ -180,7 +180,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Where:</b> 621/622 Bukit Batok Central Singapore 650621<br>
 			<b>Enquiries:</b> Email Bukit Batok CC at <a href="pa_bukitbatokcc@pa.gov.sg">pa_bukitbatokcc@pa.gov.sg</a><br><br>
 				<a target="_blank" class="button-primary" href="https://go.gov.sg/bbgardenfiesta">Register here!</a><br>
-		</div>
+		</div></div>
 		<h5 id="13Oct-19Oct">13 October - 19 October 2025</h5>
 	<div class="wrapper">
 		<div class="box">
@@ -193,7 +193,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Where:</b>Sennett Estate Residents Network Hub Beside Wan Tho Avenue Singapore 347601 at 
 			<b>Enquiries:</b> Contact Potong Pasir CC at 62801182; Bidadari CC at 63203566<br><br>
 				<a target="_blank" class="button-primary" href="https://go.gov.sg/schhgrowandshare">Register here!</a><br>
-	</div>
+		</div></div>
 	<h5 id="20-26Oct">20 - 26 October 2025</h5>
 	<div class="wrapper">
 	<div class="box">
@@ -204,7 +204,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 		<b>Time:</b> 9.00am - 12.00pm<br>
 			<b>Where:</b> 134 Marsiling Road, Singapore 730134<br>
 		<b>Enquiries:</b> Email Ganesh at <a href="woodlandsbotanicalgarden@gmail.com">woodlandsbotanicalgarden@gmail.com</a><br><br>
-		<a target="_blank" class="button-primary" href="https://lu.ma/edvrcvi3">Register here!</a>
+		<a target="_blank" class="button-primary" href="https://lu.ma/edvrcvi3">Register here!</a><br>
 		</div></div>
 		<br><br>
 		<h5 id="27Oct-2Nov">27 October - 2 November 2025</h5>
@@ -230,7 +230,8 @@ You are encouraged to contact the organisers directly for specific queries on ev
 		<b>Enquiries:</b> Email Bukit Batok Zone 10 RN at <a href="bbz10rc@gmail.com">bbz10rc@gmail.com</a><br><br>
 		<b>Registration:</b> To be updated<br>
 		</div></div>
-</div></div></section>
+	<br>
+</section>
 <br><br>
 <section>
 <h5 id="pastevents">Past events</h5>
