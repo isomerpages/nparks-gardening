@@ -230,7 +230,6 @@ You are encouraged to contact the organisers directly for specific queries on ev
 		<b>Enquiries:</b> Email Bukit Batok Zone 10 RN at <a href="bbz10rc@gmail.com">bbz10rc@gmail.com</a><br><br>
 		<b>Registration:</b> To be updated<br>
 		</div></div>
-	<br>
 </section>
 <br><br>
 <section>
