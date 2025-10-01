@@ -148,6 +148,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 		<tbody>
 			<tr>
 				<td><a style="text-decoration:none" href="#6Oct-12Oct">6 October - 12 October</a></td>
+				<td><a style="text-decoration:none" href="#13Oct-19Oct">13 October - 19 October</a></td>
 								<td><a style="text-decoration:none" href="#20-26Oct">20 - 26 October</a></td>
 								<td><a style="text-decoration:none" href="#27Oct-2Nov">27 October - 2 November</a></td>
 				<td><a style="text-decoration:none" href="#pastevents">Past events</a></td>
@@ -179,7 +180,9 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Where:</b> 621/622 Bukit Batok Central Singapore 650621<br>
 			<b>Enquiries:</b> Email Bukit Batok CC at <a href="pa_bukitbatokcc@pa.gov.sg">pa_bukitbatokcc@pa.gov.sg</a><br><br>
 				<a target="_blank" class="button-primary" href="https://go.gov.sg/bbgardenfiesta">Register here!</a><br>
-		</div><br>
+		</div>
+		<h5 id="13Oct-19Oct">13 October - 19 October 2025</h5>
+	<div class="wrapper">
 		<div class="box">
 						<span class="tour-tag">Tour</span>
 				<span class="harvestsharing-tag">Harvest Sharing</span>
@@ -227,7 +230,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 		<b>Enquiries:</b> Email Bukit Batok Zone 10 RN at <a href="bbz10rc@gmail.com">bbz10rc@gmail.com</a><br><br>
 		<b>Registration:</b> To be updated<br>
 		</div></div>
-</div></section>
+</div></div></section>
 <br><br>
 <section>
 <h5 id="pastevents">Past events</h5>
