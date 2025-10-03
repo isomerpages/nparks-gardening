@@ -147,9 +147,8 @@ You are encouraged to contact the organisers directly for specific queries on ev
 <table>
 		<tbody>
 			<tr>
-				<td><a style="text-decoration:none" href="#22-28Sep">22-28 September</a></td>
-				<td><a style="text-decoration:none" href="#29Sep-5Oct">29 September - 5 October</a></td>
 				<td><a style="text-decoration:none" href="#6Oct-12Oct">6 October - 12 October</a></td>
+				<td><a style="text-decoration:none" href="#13Oct-19Oct">13 October - 19 October</a></td>
 								<td><a style="text-decoration:none" href="#20-26Oct">20 - 26 October</a></td>
 								<td><a style="text-decoration:none" href="#27Oct-2Nov">27 October - 2 November</a></td>
 				<td><a style="text-decoration:none" href="#pastevents">Past events</a></td>
@@ -158,70 +157,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 		</table>
 </section>
 <section>
-			
-<br>
-		<h5 id="22-28Sep">22 - 28 September 2025</h5>
-	<div class="wrapper">
-	<div class="box">
-		<span class="tour-tag">Tour</span>
-			<h5 style="margin-top:8px">Draft Master Plan 2025 Fringe Events: Guided tour on Lively Places Fund - Green Gaia</h5>
-	 <b>Organiser:</b> Spottiswoode Park RN (Green Gaia)<br>
-			<b>Date:</b> 26 September 2025, Friday<br>
-		<b>Time: </b>5.00pm -6.00pm<br>
-			<b>Where:</b> 101 Spottiswoode Park Road Singapore, 080101<br>
-			<b>Enquiries:</b> Email Roy Fung at <a href="fungkahwai@yahoo.com.sg">fungkahwai@yahoo.com.sg</a><br><br>
-		<a target="_blank" class="button-primary" href="https://www.eventbrite.sg/e/guided-tour-on-lively-places-fund-green-gaia-tickets-1653758970599">Register here!</a>
 		<br>
-		</div>
-		<div class="box">
-		<span class="booth-tag">Booth</span>
-				<span class="marketplace-tag">Marketplace</span>
-			<h5 style="margin-top:8px">Bishan East Zone 1 Mid-Autumn Green Bazaar</h5>
-	 <b>Organiser:</b> Bishan East Zone 1 Green Hub<br>
-			<b>Date:</b> 27 September 2025, Saturday<br>
-		<b>Time: </b>12.00pm -8.00pm<br>
-			<b>Where:</b>Blk 112 Bishan St 12, S570113<br>
-			<b>Enquiries:</b><a> https://www.facebook.com/BE.Zone1.RNa</a><br><br>
-		<b>Registration:</b> No registration needed, walk-ins accepted
-		<br>
-		</div>
-		<div class="box">
-		<span class="tour-tag">Tour</span>
-			<h5 style="margin-top:8px">Draft Master Plan 2025 Fringe Events: Guided tour on Lively Places Fund - Green Gaia</h5>
-	 <b>Organiser:</b> Spottiswoode Park RN (Green Gaia)<br>
-			<b>Date:</b> 28 September 2025, Sunday<br>
-		<b>Time: </b>9.00am -10.00am<br>
-			<b>Where:</b> 101 Spottiswoode Park Road Singapore, 080101<br>
-			<b>Enquiries:</b> Email Roy Fung at <a href="fungkahwai@yahoo.com.sg">fungkahwai@yahoo.com.sg</a><br><br>
-					<a target="_blank" class="button-primary" href="eventbrite.sg/e/guided-tour-on-lively-places-fund-green-gaia-tickets-1654622413179">Register here!</a>
-			<br>
-		</div>
-		<div class="box">
-		<span class="tour-tag">Tour</span>
-			<span class="harvestsharing-tag">Harvest Sharing</span>
-			<h5 style="margin-top:8px">Garden Fiesta @ Bukit Batok</h5>
-	 <b>Organiser:</b> Happy Ville Community Garden<br>
-			<b>Date:</b> 28 September 2025, Sunday<br>
-		<b>Time: </b>9.00am -10.00am<br>
-			<b>Where:</b> Happy Ville Community Garden @ Blk 219 Bukit Batok St 21 Singapore 650219<br>
-			<b>Enquiries:</b> Email Chin Kion at <a href="ckng0130@gmail.com">ckng0130@gmail.com</a><br><br>
-			<b>Registration:</b> No registration is needed, walk-ins are accepted
-		</div></div>
-		<br>
-		<h5 id="29Sep-5Oct">29 September - 5 October 2025</h5>
-	<div class="wrapper">
-	<div class="box">
-						<span class="tour-tag">Tour</span>
-			<span class="workshop-tag">Workshop</span>
-			<h5 style="margin-top:8px">Children's Day Garden party</h5>
-	 <b>Organiser:</b> Zootopian Garden<br>
-			<b>Date:</b> 5 October 2025, Sunday<br>
-		<b>Time: </b>5.00pm-7.00pm<br>
-			<b>Where:</b> 80 Chartwell Dr Singapore 558774<br>
-			<b>Enquiries:</b> Email Victor Koh at <a href="vict316@gmail.com">vict316@gmail.com</a><br><br>
-		<b>Registration:</b> No registration needed, walk-ins accepted<br>
-		</div></div>
-	<br>
 		<h5 id="6Oct-12Oct">6 October - 12 October 2025</h5>
 	<div class="wrapper">
 	<div class="box">
@@ -243,9 +179,21 @@ You are encouraged to contact the organisers directly for specific queries on ev
 		<b>Time: </b>10.00am -11.00am<br>
 			<b>Where:</b> 621/622 Bukit Batok Central Singapore 650621<br>
 			<b>Enquiries:</b> Email Bukit Batok CC at <a href="pa_bukitbatokcc@pa.gov.sg">pa_bukitbatokcc@pa.gov.sg</a><br><br>
-				<a target="_blank" class="button-primary" href="https://go.gov.sg/bbgardenfiesta">Register here!</a>
-		</div><br>
-	</div>
+				<a target="_blank" class="button-primary" href="https://go.gov.sg/bbgardenfiesta">Register here!</a><br>
+		</div></div>
+		<h5 id="13Oct-19Oct">13 October - 19 October 2025</h5>
+	<div class="wrapper">
+		<div class="box">
+						<span class="tour-tag">Tour</span>
+				<span class="harvestsharing-tag">Harvest Sharing</span>
+			<h5 style="margin-top:8px">Sennett Community Harvest Hub: Grow and Share</h5>
+	 <b>Organiser:</b> Sennett Community Harvest Hub<br>
+			<b>Date:</b> 18 October 2025, Saturday<br>
+		<b>Time: </b>9.00am -11.00am<br>
+			<b>Where:</b>Sennett Estate Residents Network Hub Beside Wan Tho Avenue Singapore 347601 at 
+			<b>Enquiries:</b> Contact Potong Pasir CC at 62801182; Bidadari CC at 63203566<br><br>
+				<a target="_blank" class="button-primary" href="https://go.gov.sg/schhgrowandshare">Register here!</a><br>
+		</div></div>
 	<h5 id="20-26Oct">20 - 26 October 2025</h5>
 	<div class="wrapper">
 	<div class="box">
@@ -256,7 +204,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 		<b>Time:</b> 9.00am - 12.00pm<br>
 			<b>Where:</b> 134 Marsiling Road, Singapore 730134<br>
 		<b>Enquiries:</b> Email Ganesh at <a href="woodlandsbotanicalgarden@gmail.com">woodlandsbotanicalgarden@gmail.com</a><br><br>
-		<a target="_blank" class="button-primary" href="https://lu.ma/edvrcvi3">Register here!</a>
+		<a target="_blank" class="button-primary" href="https://lu.ma/edvrcvi3">Register here!</a><br>
 		</div></div>
 		<br><br>
 		<h5 id="27Oct-2Nov">27 October - 2 November 2025</h5>
@@ -272,15 +220,15 @@ You are encouraged to contact the organisers directly for specific queries on ev
 		<b>Registration:</b> No registration is needed, walk-ins are accepted
 		<br>
 		</div>
-			<div class="box">
+		<div class="box">
 						<span class="harvestsharing-tag">Harvest Sharing</span>
-			<h5 style="margin-top:8px">Harvest and Herb Sharing</h5>
+			<h5 style="margin-top:8px">Garden Fiesta Harvest and Herb Sharing</h5>
 	 <b>Organiser:</b> Bukit Batok Zone 10 RN (Skyline 1 MSCP Rooftop Garden)<br>
 			<b>Date:</b> 15 November 2025, Saturday<br>
 		<b>Time:</b> 9.00am - 10.00am<br>
 			<b>Where:</b> 194 MSCP rooftop Bukit Batok West Ave 6 S650194<br>
 		<b>Enquiries:</b> Email Bukit Batok Zone 10 RN at <a href="bbz10rc@gmail.com">bbz10rc@gmail.com</a><br><br>
-		<b>Registration:</b> To be updated
+		<b>Registration:</b> To be updated<br>
 		</div></div>
 </section>
 <br><br>
@@ -622,6 +570,36 @@ You are encouraged to contact the organisers directly for specific queries on ev
 	 <b>Organiser:</b> Woodlands Botanical Garden<br>
 			<b>Date:</b> 13 September 2025, Saturday<br>
 			<b>Where:</b> 134 Marsiling Road, Singapore 730134<br>
+		</div>
+		<div class="box">
+		<span class="tour-tag">Tour</span>
+			<h5 style="margin-top:8px">Draft Master Plan 2025 Fringe Events: Guided tour on Lively Places Fund - Green Gaia</h5>
+	 <b>Organiser:</b> Spottiswoode Park RN (Green Gaia)<br>
+			<b>Date:</b> 26 September 2025, Friday<br>
+			<b>Where:</b> 101 Spottiswoode Park Road Singapore, 080101<br>
+		</div>
+		<div class="box">
+		<span class="booth-tag">Booth</span>
+				<span class="marketplace-tag">Marketplace</span>
+			<h5 style="margin-top:8px">Bishan East Zone 1 Mid-Autumn Green Bazaar</h5>
+	 <b>Organiser:</b> Bishan East Zone 1 Green Hub<br>
+			<b>Date:</b> 27 September 2025, Saturday<br>
+			<b>Where:</b>Blk 112 Bishan St 12, S570113<br>
+		</div>
+		<div class="box">
+		<span class="tour-tag">Tour</span>
+			<h5 style="margin-top:8px">Draft Master Plan 2025 Fringe Events: Guided tour on Lively Places Fund - Green Gaia</h5>
+	 <b>Organiser:</b> Spottiswoode Park RN (Green Gaia)<br>
+			<b>Date:</b> 28 September 2025, Sunday<br>
+			<b>Where:</b> 101 Spottiswoode Park Road Singapore, 080101<br>
+		</div>
+		<div class="box">
+		<span class="tour-tag">Tour</span>
+			<span class="harvestsharing-tag">Harvest Sharing</span>
+			<h5 style="margin-top:8px">Garden Fiesta @ Bukit Batok</h5>
+	 <b>Organiser:</b> Happy Ville Community Garden<br>
+			<b>Date:</b> 28 September 2025, Sunday<br>
+			<b>Where:</b> Happy Ville Community Garden @ Blk 219 Bukit Batok St 21 Singapore 650219<br>
 		</div>
 		<br>
 		</div></section>
