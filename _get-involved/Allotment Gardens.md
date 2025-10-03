@@ -413,7 +413,12 @@ details[open] > summary {
 			</details>
 			<details>
 				<summary>Is the price of the allotment garden plot lease fixed at $62.13 (inclusive of GST) per year?</summary>
-				<p style="margin-top: 5px; margin-bottom: 25px">The allotment garden plot fees are subject to annual market valuation. Once you have paid for your lease period, your annual fee will remain fixed at the rate you signed up for until your lease expires.</p>
+				<p style="margin-top: 5px; margin-bottom: 25px">The allotment garden plot fees are subject to annual market valuation. Once you have paid for your lease period, your annual fee will remain fixed at the rate you signed up for until your lease expires.</p> 
+				<p>For example: 
+				</p><ul>
+				<li>If you sign up when the annual fee is $62.13, you will continue to pay this amount for your entire 3-year lease period</li>
+					<li>When your lease expires, the renewal fee will be based on the prevailing rate for that year</li>
+					<li>New gardeners will pay the prevailing rate at the time of their registration</li><li></li></ul><p></p>
 			</details>
 		</div>
 	</li>
