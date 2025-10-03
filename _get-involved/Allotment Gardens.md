@@ -418,7 +418,7 @@ details[open] > summary {
 				</p><ul>
 				<li>If you sign up when the annual fee is $62.13, you will continue to pay this amount for your entire 3-year lease period</li>
 					<li>When your lease expires, the renewal fee will be based on the prevailing rate for that year</li>
-					<li>New gardeners will pay the prevailing rate at the time of their registration</li><li></li></ul><p></p>
+					<li>New gardeners will pay the prevailing rate at the time of their registration</li></ul><p></p>
 			</details>
 		</div>
 	</li>
