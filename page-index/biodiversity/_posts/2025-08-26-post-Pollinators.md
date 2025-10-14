@@ -34,7 +34,7 @@ variant: markdown
 	<p>However, their larval form or <a href="/page-index/pests/caterpillars/">caterpillars</a>, are generally not as well liked as they tend to rapidly eat the leaves of their host plant, leading to them being considered garden pests.</p>
 	<p>Some caterpillars are host specific, like how lime butterfly caterpillars feeding exclusively on citrus plants and diamondback moths will only eat the leaves of the cabbage family. Some species like the tussock moth caterpillar are generalists, and will eat a wide range of plants.  Identifying the species of caterpillar and the adult butterfly will help gardeners decide if they want to keep the caterpillar as part of their garden’s biodiversity, or to remove them to preserve crop yield.</p>
 	<p>Download a list of common butterflies <a download="" href="/files/a%20guide%20to%20common%20butterflies%20in%20singapore,%20and%20creating%20a%20butterfly%20friendly%20gardenv3.pdf">here</a>.</p>
-	<p>Interested to learn how to spot and document butterflies? Join the <a href="https://www.nparks.gov.sg/biodiversity/community-in-nature-initiative/nparks-butterfly-watch">NParks Butterfly Watch</a> and become a citizen scientist!</p>
+	<p>Interested to learn how to spot and document butterflies? Join the <a href="https://www.nparks.gov.sg/nature/community-in-nature/butterfly-watch">NParks Butterfly Watch</a> and become a citizen scientist!</p>
 	<br>
 </section>
 
