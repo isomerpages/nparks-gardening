@@ -4,6 +4,7 @@ permalink: /learn-more-about-gardening/garden-biodiversity/
 description: Gardens are bustling places for biodiversity! Learn about the
   animals that live in Singapore's gardens here.
 image: /images/Biodiversity/OliveBackedSunbird_VictoriaLim.jpg
+variant: markdown
 ---
 <img title="A male Olive-backed sunbird feeding on nectar from Devil's Backbone flowers. Photo by Victoria Lim." src="/images/Biodiversity/OliveBackedSunbird_VictoriaLim.jpg">
 <p>Biodiversity refers to all the different kinds of life you can find, including plants, animals, fungi and microorganisms. Healthy gardens will support a variety of plants and animals, and together they make up complex ecosystems that enrich our City in Nature.</p>
@@ -11,4 +12,4 @@ image: /images/Biodiversity/OliveBackedSunbird_VictoriaLim.jpg
 <img title="A Glassy Tiger butterfly feeding on nectar from bloodflowers. Photo by Jacqueline Chua." src="/images/Biodiversity/glassy%20tiger_jacchua.jpg">
 <p>How we relate to animals is complex, and is dependent on what we expect out of our green spaces, and how we use them. For example, <a href="/page-index/pests/caterpillars/">caterpillars</a> are generally considered a garden pest as they are voracious eaters, and can quickly consume leafy plants. However, they will eventually become <a href="/page-index/biodiversity/pollinators/">butterflies</a>, which are a beautiful sight in any garden and are also pollinators. This tends to make caterpillars valuable in biodiversity-attracting gardens but a pest in edible gardens! </p>
 <p>Outdoor gardens will always attract animals, and supporting local biodiversity by growing <a href="/page-index/glossary/native-plants/">native plants</a> and <a href="/page-index/glossary/biodiversity-attracting-plants/">biodiversity-attracting plants</a> is an excellent way to bring nature closer to home. </p>
-<p>Want to learn more about biodiversity in Singapore? Consider joining a <a href="https://www.nparks.gov.sg/biodiversity/community-in-nature-initiative/citizen-science-programmes">Citizen Science survey</a> to learn about birds, butterflies, dragonflies, and more!</p>
+<p>Want to learn more about biodiversity in Singapore? Consider joining a <a href="https://www.nparks.gov.sg/nature/community-in-nature">Citizen Science survey</a> to learn about birds, butterflies, dragonflies, and more!</p>
