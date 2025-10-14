@@ -42,7 +42,7 @@ variant: markdown
 		<img title="A Community Garden on the roof of a multi-story carpark. Photo by Jacqueline Chua." src="/images/Garden%20design/KimTianWest_JacChua%20(1).jpg">
 		<p>Today, the CIB programme has registered over 2,000 community gardening groups across Singapore, engaging more than 48,000 gardening enthusiasts from all walks of life and across ages.</p> 
 		<img title="Community Gardeners examining a Lady's-finger plant. Photo by NParks." src="/images/Gardeners/GeneralMaintainence_JacChua%20(12).jpg">
-		<p>In addition to being part of <a href="https://www.nparks.gov.sg/about-us/city-in-nature-key-strategies">NPark’s City In Nature vision</a>, community gardeners are also active participants in other nationwide programmes, including the Ministry of Sustainability and Environment’s <a href="https://www.greenplan.gov.sg/">Singapore Green Plan</a>, which is a whole-of-nation movement to advance Singapore’s national agenda on sustainable development.</p>
+		<p>In addition to being part of <a href="https://www.nparks.gov.sg/who-we-are/city-in-nature-key-strategies">NPark’s City In Nature vision</a>, community gardeners are also active participants in other nationwide programmes, including the Ministry of Sustainability and Environment’s <a href="https://www.greenplan.gov.sg/">Singapore Green Plan</a>, which is a whole-of-nation movement to advance Singapore’s national agenda on sustainable development.</p>
 	</div></li>
 	<li><input type="checkbox" id="accordion2">
 		<label for="accordion2">How do I join or visit a Community Garden?</label><div>
