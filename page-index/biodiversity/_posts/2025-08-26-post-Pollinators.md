@@ -44,6 +44,6 @@ variant: markdown
 	<p>Nectivorous or nectar-loving birds like sunbirds and flowerpeckers are also pollinators as they readily visit flowers to drink nectar. Like butterflies, these birds love long tubular flowers like <a href="/page-index/edible-plants/torch-ginger/">Torch Ginger</a>, <a href="/page-index/ornamental-plants/lipstick-plant/">Lipstick Plant</a> and <a href="/page-index/ornamental-plants/turks-turban/">Turk’s Turban</a> that produce lots of nectar.</p>
 	<img title="A female Olive-backed sunbird in her nest. Photo by Jacqueline Chua." src="/images/Biodiversity/OliveBackedSunbird_JacChua%20(2).jpg">
 	<p>These colourful birds are often feeding and displaying in the morning while calling, making them an engaging visitor to any garden. Sunbirds are commonly found nesting in gardens, including those along corridors!</p>
-	<p>Interested to learn how to spot and document birds? Join the <a href="https://www.nparks.gov.sg/biodiversity/community-in-nature-initiative/nparks-garden-bird-watch">NParks Garden Bird Watch</a> and become a citizen scientist!</p>
+	<p>Interested to learn how to spot and document birds? Join the <a href="https://www.nparks.gov.sg/nature/community-in-nature/garden-bird-watch">NParks Garden Bird Watch</a> and become a citizen scientist!</p>
 	<br>
 </section>
