@@ -190,7 +190,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 	 <b>Organiser:</b> Sennett Community Harvest Hub<br>
 			<b>Date:</b> 18 October 2025, Saturday<br>
 		<b>Time:</b> 9.00am -11.00am<br>
-			<b>Where:</b> Sennett Estate Residents Network Hub Beside Wan Tho Avenue Singapore 347601 <br>
+			<b>Where:</b> Sennett Estate Residents Network Hub Beside Wan Tho Avenue Singapore 347601<br>
 			<b>Enquiries:</b> Contact Potong Pasir CC at 62801182; Bidadari CC at 63203566<br><br>
 				<a target="_blank" class="button-primary" href="https://go.gov.sg/schhgrowandshare">Register here!</a><br>
 		</div></div>
