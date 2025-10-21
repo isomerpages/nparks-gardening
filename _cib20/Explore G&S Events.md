@@ -189,12 +189,24 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<h5 style="margin-top:8px">Sennett Community Harvest Hub: Grow and Share</h5>
 	 <b>Organiser:</b> Sennett Community Harvest Hub<br>
 			<b>Date:</b> 18 October 2025, Saturday<br>
-		<b>Time: </b>9.00am -11.00am<br>
-			<b>Where:</b>Sennett Estate Residents Network Hub Beside Wan Tho Avenue Singapore 347601 at 
+		<b>Time:</b> 9.00am -11.00am<br>
+			<b>Where:</b> Sennett Estate Residents Network Hub Beside Wan Tho Avenue Singapore 347601 at 
 			<b>Enquiries:</b> Contact Potong Pasir CC at 62801182; Bidadari CC at 63203566<br><br>
 				<a target="_blank" class="button-primary" href="https://go.gov.sg/schhgrowandshare">Register here!</a><br>
 		</div></div>
 	<h5 id="20-26Oct">20 - 26 October 2025</h5>
+		<div class="wrapper">
+	<div class="box">
+						<span class="workshop-tag">Workshop</span>
+			<h5 style="margin-top:8px">Clean &amp; Green Week - Eco Garden</h5>
+	 <b>Organiser:</b> Nee Soon Central Zone 3 Community Garden<br>
+			<b>Date:</b> 22 October 2025, Wednesday<br>
+		<b>Time:</b> 8.30am - 9.30am<br>
+			<b>Where:</b> Blk 701C Yishun Ave 5, Singapore 763701<br>
+		<b>Enquiries:</b> Email Yee Hui at <a href="lua_yee_hui@pa.gov.sg">lua_yee_hui@pa.gov.sg</a><br><br>
+		<a target="_blank" class="button-primary" href="https://go.gov.sg/nscz3ecogarden">Register here!</a><br>
+		</div></div>
+		<br><br>
 	<div class="wrapper">
 	<div class="box">
 						<span class="talk-tag">Talk</span>
