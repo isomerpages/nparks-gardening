@@ -185,7 +185,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 	 <b>Organiser:</b> Bukit Batok Zone 2 Residents' Network<br>
 			<b>Date:</b> 15 November 2025, Saturday<br>
 		<b>Time:</b> 10.00am - 11.00am<br>
-			<b>Where:</b> Behind Blk 106 Bukit Batok Central<br>
+			<b>Where:</b> Behind Blk 106 Bukit Batok Central, S650106<br>
 		<b>Enquiries:</b> Email Bukit Batok Zone 2 RN at <a href="PA_BukitBatokcc@pa.gov.sg">PA_BukitBatokcc@pa.gov.sg</a><br><br>
 		<a href="https://form.gov.sg/68fc2e54804f2ecada80d8db" class="button-primary" target="_blank">Register here!</a><br>
 		</div></div>
