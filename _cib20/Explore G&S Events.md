@@ -231,6 +231,16 @@ You are encouraged to contact the organisers directly for specific queries on ev
 		<b>Enquiries:</b> Email Jon Tay at <a href="jon@thelifestyleassociate.com">jon@thelifestyleassociate.com</a><br><br>
 		<a href="go.gov.sg/bbgardenfiesta" class="button-primary" target="_blank">Register here!</a><br>
 		</div>
+		<div class="box">
+						<span class="booth-tag">Booth</span>
+			<h5 style="margin-top:8px">Green Sundays</h5>
+	 <b>Organiser:</b> Woodlands Zone 2 Residents' Network<br>
+			<b>Date:</b> 30 November 2025, Sunday<br>
+		<b>Time:</b> 8.30am - 10.30am<br>
+			<b>Where:</b> Fu Shan Garden Pavilion, Behind Blk 819 Woodlands Street 82<br>
+		<b>Enquiries:</b> Call Woodlands RC Centre at 63628832<br><br>
+		<a href="go.gov.sg/wlnne" class="button-primary" target="_blank">Register here!</a><br>
+		</div>
 	</div>
 </section>
 <br><br>
