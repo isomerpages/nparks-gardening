@@ -221,6 +221,16 @@ You are encouraged to contact the organisers directly for specific queries on ev
 		<b>Enquiries:</b> Email Bukit Batok Zone 10 RN at <a href="bbz10rc@gmail.com">bbz10rc@gmail.com</a><br><br>
 		<a href="go.gov.sg/bbgardenfiesta" class="button-primary" target="_blank">Register here!</a><br>
 		</div>
+		<div class="box">
+						<span class="talk-tag">Talk</span><span class="tour-tag">Tour</span>
+			<h5 style="margin-top:8px">Distilled Floral Water &amp; Garden Tour</h5>
+	 <b>Organiser:</b> Bukit Batok Zone 3 Residents' Network<br>
+			<b>Date:</b> 23 November 2025, Sunday<br>
+		<b>Time:</b> 10.00am<br>
+			<b>Where:</b> Cosy Garden &amp; Educational Garden Blk 106 Bukit Batok Central<br>
+		<b>Enquiries:</b> Email Jon Tay at <a href="jon@thelifestyleassociate.com">jon@thelifestyleassociate.com</a><br><br>
+		<a href="go.gov.sg/bbgardenfiesta" class="button-primary" target="_blank">Register here!</a><br>
+		</div>
 	</div>
 </section>
 <br><br>
