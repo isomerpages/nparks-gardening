@@ -213,12 +213,12 @@ You are encouraged to contact the organisers directly for specific queries on ev
 		</div>
 		<div class="box">
 						<span class="harvestsharing-tag">Harvest Sharing</span>
-			<h5 style="margin-top:8px">Garden Fiesta Harvest and Herb Sharing</h5>
-	 <b>Organiser:</b> Bukit Batok Zone 10 RN (Skyline 1 MSCP Rooftop Garden)<br>
+			<h5 style="margin-top:8px">Harvest Cooking &amp; Cuttings Sharing</h5>
+	 <b>Organiser:</b> Bukit Batok Zone 10 RN (Blk 194)<br>
 			<b>Date:</b> 15 November 2025, Saturday<br>
 		<b>Time:</b> 9.00am - 10.00am<br>
-			<b>Where:</b> 194 MSCP rooftop Bukit Batok West Ave 6 S650194<br>
-		<b>Enquiries:</b> Email Bukit Batok Zone 10 RN at <a href="bbz10rc@gmail.com">bbz10rc@gmail.com</a><br><br>
+			<b>Where:</b> Bukit Batok Zone 11 RN Centre Blk 296B Bukit Batok St 22<br>
+		<b>Enquiries:</b> Email Suresh at <a href="bbz10rc@gmail.com">bbz10rc@gmail.com</a><br><br>
 		<a href="go.gov.sg/bbgardenfiesta" class="button-primary" target="_blank">Register here!</a><br>
 		</div>
 		<div class="box">
