@@ -150,8 +150,8 @@ You are encouraged to contact the organisers directly for specific queries on ev
 				<td><a style="text-decoration:none" href="#6Oct-12Oct">6 October - 12 October</a></td>
 				<td><a style="text-decoration:none" href="#13Oct-19Oct">13 October - 19 October</a></td>
 				<td><a style="text-decoration:none" href="#20-26Oct">20 - 26 October</a></td>
-				<td><a style="text-decoration:none" href="#27-31Oct">27 - 31 October</a></td>
-				<td><a style="text-decoration:none" href="#3-9Nov"> November</a></td>
+				<td><a style="text-decoration:none" href="#October">October</a></td>
+				<td><a style="text-decoration:none" href="#November"> November</a></td>
 				<td><a style="text-decoration:none" href="#pastevents">Past events</a></td>
 			</tr>
 		</tbody>
@@ -159,29 +159,6 @@ You are encouraged to contact the organisers directly for specific queries on ev
 </section>
 <section>
 		<br>
-		<h5 id="6Oct-12Oct">6 October - 12 October 2025</h5>
-	<div class="wrapper">
-	<div class="box">
-						<span class="tour-tag">Tour</span>
-			<h5 style="margin-top:8px">Guided Tours of LPC 2023 Building Projects for Draft Master Plan 2025 Roving Exhibitions</h5>
-	 <b>Organiser:</b> Buona Vista’s Green-Eye-View<br>
-			<b>Date:</b> 8 October 2025, Wednesday<br>
-		<b>Time: </b>6.00pm-7.00pm<br>
-			<b>Where:</b> Blk 7B Commonwealth Avenue (MSCP) Singapore 142007<br>
-			<b>Enquiries:</b> Email Buona Vista CC at <a href="pa_buonavistacc@pa.gov.sg">pa_buonavistacc@pa.gov.sg</a><br><br>
-			<a target="_blank" class="button-primary" href="https://www.eventbrite.sg/e/guided-tour-of-lively-places-fund-buona-vista-green-eye-view-tickets-1654601831619">Register here!</a>
-		<br>
-		</div>
-		<div class="box">
-						<span class="harvestsharing-tag">Harvest Sharing</span>
-			<h5 style="margin-top:8px">Garden Fiesta - Distilled Floral water / Cuttings sharing</h5>
-	 <b>Organiser:</b> Bukit Batok Central Educational Garden<br>
-			<b>Date:</b> 12 October 2025, Sunday<br>
-		<b>Time: </b>10.00am -11.00am<br>
-			<b>Where:</b> 621/622 Bukit Batok Central Singapore 650621<br>
-			<b>Enquiries:</b> Email Bukit Batok CC at <a href="pa_bukitbatokcc@pa.gov.sg">pa_bukitbatokcc@pa.gov.sg</a><br><br>
-				<a target="_blank" class="button-primary" href="https://go.gov.sg/bbgardenfiesta">Register here!</a><br>
-		</div></div>
 		<h5 id="13Oct-19Oct">13 October - 19 October 2025</h5>
 	<div class="wrapper">
 		<div class="box">
@@ -636,6 +613,27 @@ You are encouraged to contact the organisers directly for specific queries on ev
 	 <b>Organiser:</b> Happy Ville Community Garden<br>
 			<b>Date:</b> 28 September 2025, Sunday<br>
 			<b>Where:</b> Happy Ville Community Garden @ Blk 219 Bukit Batok St 21 Singapore 650219<br>
+		</div>
+		<div class="box">
+						<span class="tour-tag">Tour</span>
+			<h5 style="margin-top:8px">Guided Tours of LPC 2023 Building Projects for Draft Master Plan 2025 Roving Exhibitions</h5>
+	 <b>Organiser:</b> Buona Vista’s Green-Eye-View<br>
+			<b>Date:</b> 8 October 2025, Wednesday<br>
+		<b>Time: </b>6.00pm-7.00pm<br>
+			<b>Where:</b> Blk 7B Commonwealth Avenue (MSCP) Singapore 142007<br>
+			<b>Enquiries:</b> Email Buona Vista CC at <a href="pa_buonavistacc@pa.gov.sg">pa_buonavistacc@pa.gov.sg</a><br><br>
+			<a target="_blank" class="button-primary" href="https://www.eventbrite.sg/e/guided-tour-of-lively-places-fund-buona-vista-green-eye-view-tickets-1654601831619">Register here!</a>
+		<br>
+		</div>
+		<div class="box">
+						<span class="harvestsharing-tag">Harvest Sharing</span>
+			<h5 style="margin-top:8px">Garden Fiesta - Distilled Floral water / Cuttings sharing</h5>
+	 <b>Organiser:</b> Bukit Batok Central Educational Garden<br>
+			<b>Date:</b> 12 October 2025, Sunday<br>
+		<b>Time: </b>10.00am -11.00am<br>
+			<b>Where:</b> 621/622 Bukit Batok Central Singapore 650621<br>
+			<b>Enquiries:</b> Email Bukit Batok CC at <a href="pa_bukitbatokcc@pa.gov.sg">pa_bukitbatokcc@pa.gov.sg</a><br><br>
+				<a target="_blank" class="button-primary" href="https://go.gov.sg/bbgardenfiesta">Register here!</a><br>
 		</div>
 		<br>
 		</div></section>
