@@ -188,6 +188,17 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Where:</b> Behind Blk 106 Bukit Batok Central, S650106<br>
 		<b>Enquiries:</b> Email Bukit Batok Zone 2 RN at <a href="PA_BukitBatokcc@pa.gov.sg">PA_BukitBatokcc@pa.gov.sg</a><br><br>
 		<a href="https://form.gov.sg/68fc2e54804f2ecada80d8db" class="button-primary" target="_blank">Register here!</a><br>
+		</div>
+	<div class="box">
+						<span class="tour-tag">Tour</span>
+			<h5 style="margin-top:8px">Sustainable Garden Tour at Sennett Community Harvest Hub</h5>
+	 <b>Organiser:</b> Sennett Estate Community Harvest Hub<br>
+			<b>Date:</b> 15 November 2025, Saturday<br>
+		<b>Time:</b> 10.00am - 11.30am<br>
+			<b>Where:</b> Beside 46 Wan Tho Avenue <br>
+		<b>Enquiries:</b> Email <a href="pa_potongpasircc@pa.gov.sg">pa_potongpasircc@pa.gov.sg</a><br><br>
+		<b>Registration:</b> No registration is needed, walk-ins are accepted
+		<br>
 		</div></div>
 </section>
 <br><br>
