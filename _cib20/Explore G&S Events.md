@@ -149,8 +149,9 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<tr>
 				<td><a style="text-decoration:none" href="#6Oct-12Oct">6 October - 12 October</a></td>
 				<td><a style="text-decoration:none" href="#13Oct-19Oct">13 October - 19 October</a></td>
-								<td><a style="text-decoration:none" href="#20-26Oct">20 - 26 October</a></td>
-								<td><a style="text-decoration:none" href="#27Oct-2Nov">27 October - 2 November</a></td>
+				<td><a style="text-decoration:none" href="#20-26Oct">20 - 26 October</a></td>
+				<td><a style="text-decoration:none" href="#27-31Oct">27 - 31 October</a></td>
+				<td><a style="text-decoration:none" href="#3-9Nov"> November</a></td>
 				<td><a style="text-decoration:none" href="#pastevents">Past events</a></td>
 			</tr>
 		</tbody>
@@ -219,7 +220,30 @@ You are encouraged to contact the organisers directly for specific queries on ev
 		<a target="_blank" class="button-primary" href="https://lu.ma/edvrcvi3">Register here!</a><br>
 		</div></div>
 		<br><br>
-		<h5 id="27Oct-2Nov">27 October - 2 November 2025</h5>
+		<h5 id="27-31Oct">27 - 31 October 2025</h5>
+	<div class="wrapper">
+	<div class="box">
+						<span class="talk-tag">Talk</span>
+			<h5 style="margin-top:8px">Bukit Batok Educational garden tour</h5>
+	 <b>Organiser:</b> Bukit Batok Central Educational Garden<br>
+			<b>Date:</b> 1 November 2025, Saturday<br>
+		<b>Time:</b> 9.00am - 10.00am<br>
+			<b>Where:</b> 621/622 Bukit Batok Central Singapore 650621<br>
+		<b>Enquiries:</b> Email Jon Tay at <a href="jon@thelifestyleassociate.com">jon@thelifestyleassociate.com</a><br><br>
+		<b>Registration:</b> No registration is needed, walk-ins are accepted
+		<br>
+		</div>
+		<div class="box">
+						<span class="harvestsharing-tag">Harvest Sharing</span>
+			<h5 style="margin-top:8px">Garden Fiesta Harvest and Herb Sharing</h5>
+	 <b>Organiser:</b> Bukit Batok Zone 10 RN (Skyline 1 MSCP Rooftop Garden)<br>
+			<b>Date:</b> 15 November 2025, Saturday<br>
+		<b>Time:</b> 9.00am - 10.00am<br>
+			<b>Where:</b> 194 MSCP rooftop Bukit Batok West Ave 6 S650194<br>
+		<b>Enquiries:</b> Email Bukit Batok Zone 10 RN at <a href="bbz10rc@gmail.com">bbz10rc@gmail.com</a><br><br>
+		<b>Registration:</b> To be updated<br>
+		</div></div>
+	<h5 id="November">November 2025 (in conjunction with Clean and Green Singapore celebrations)</h5>
 	<div class="wrapper">
 	<div class="box">
 						<span class="talk-tag">Talk</span>
