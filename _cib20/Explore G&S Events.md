@@ -588,21 +588,14 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<h5 style="margin-top:8px">Guided Tours of LPC 2023 Building Projects for Draft Master Plan 2025 Roving Exhibitions</h5>
 	 <b>Organiser:</b> Buona Vista’s Green-Eye-View<br>
 			<b>Date:</b> 8 October 2025, Wednesday<br>
-		<b>Time: </b>6.00pm-7.00pm<br>
 			<b>Where:</b> Blk 7B Commonwealth Avenue (MSCP) Singapore 142007<br>
-			<b>Enquiries:</b> Email Buona Vista CC at <a href="pa_buonavistacc@pa.gov.sg">pa_buonavistacc@pa.gov.sg</a><br><br>
-			<a target="_blank" class="button-primary" href="https://www.eventbrite.sg/e/guided-tour-of-lively-places-fund-buona-vista-green-eye-view-tickets-1654601831619">Register here!</a>
-		<br>
 		</div>
 		<div class="box">
 						<span class="harvestsharing-tag">Harvest Sharing</span>
 			<h5 style="margin-top:8px">Garden Fiesta - Distilled Floral water / Cuttings sharing</h5>
 	 <b>Organiser:</b> Bukit Batok Central Educational Garden<br>
 			<b>Date:</b> 12 October 2025, Sunday<br>
-		<b>Time: </b>10.00am -11.00am<br>
 			<b>Where:</b> 621/622 Bukit Batok Central Singapore 650621<br>
-			<b>Enquiries:</b> Email Bukit Batok CC at <a href="pa_bukitbatokcc@pa.gov.sg">pa_bukitbatokcc@pa.gov.sg</a><br><br>
-				<a target="_blank" class="button-primary" href="https://go.gov.sg/bbgardenfiesta">Register here!</a><br>
 		</div>
 		<div class="box">
 						<span class="tour-tag">Tour</span>
@@ -610,30 +603,21 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<h5 style="margin-top:8px">Sennett Community Harvest Hub: Grow and Share</h5>
 	 <b>Organiser:</b> Sennett Community Harvest Hub<br>
 			<b>Date:</b> 18 October 2025, Saturday<br>
-		<b>Time:</b> 9.00am -11.00am<br>
 			<b>Where:</b> Sennett Estate Residents Network Hub Beside Wan Tho Avenue Singapore 347601<br>
-			<b>Enquiries:</b> Contact Potong Pasir CC at 62801182; Bidadari CC at 63203566<br><br>
-				<a target="_blank" class="button-primary" href="https://go.gov.sg/schhgrowandshare">Register here!</a><br>
 		</div>
 		<div class="box">
 						<span class="workshop-tag">Workshop</span>
 			<h5 style="margin-top:8px">Clean &amp; Green Week - Eco Garden</h5>
 	 <b>Organiser:</b> Nee Soon Central Zone 3 Community Garden<br>
 			<b>Date:</b> 22 October 2025, Wednesday<br>
-		<b>Time:</b> 8.30am - 9.30am<br>
 			<b>Where:</b> Blk 701C Yishun Ave 5, Singapore 763701<br>
-		<b>Enquiries:</b> Email Yee Hui at <a href="lua_yee_hui@pa.gov.sg">lua_yee_hui@pa.gov.sg</a><br><br>
-		<a target="_blank" class="button-primary" href="https://go.gov.sg/nscz3ecogarden">Register here!</a><br>
 		</div>
 		<div class="box">
 						<span class="talk-tag">Talk</span>
 			<h5 style="margin-top:8px">BioBlitz and Dragonflies &amp; Birds</h5>
 	 <b>Organiser:</b> Woodlands Botanical Garden<br>
 			<b>Date:</b> 25 October 2025, Saturday<br>
-		<b>Time:</b> 9.00am - 12.00pm<br>
 			<b>Where:</b> 134 Marsiling Road, Singapore 730134<br>
-		<b>Enquiries:</b> Email Ganesh at <a href="woodlandsbotanicalgarden@gmail.com">woodlandsbotanicalgarden@gmail.com</a><br><br>
-		<a target="_blank" class="button-primary" href="https://lu.ma/edvrcvi3">Register here!</a><br>
 		</div>
 		<br>
 		</div></section>
