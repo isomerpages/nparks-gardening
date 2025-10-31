@@ -147,7 +147,6 @@ You are encouraged to contact the organisers directly for specific queries on ev
 <table>
 		<tbody>
 			<tr>
-				<td><a style="text-decoration:none" href="#October">October</a></td>
 				<td><a style="text-decoration:none" href="#November"> November</a></td>
 				<td><a style="text-decoration:none" href="#pastevents">Past events</a></td>
 			</tr>
@@ -188,7 +187,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 		<b>Time:</b> 4.00pm<br>
 			<b>Where:</b> Sustainability Corner at Blk 175 Bukit Batok West Ave 8<br>
 		<b>Enquiries:</b> Email Bukit Batok Zone 6 RN at <a href="bbzone6rn@gmail.com">bbzone6rn@gmail.com</a><br><br>
-		<a href="go.gov.sg/bbgardenfiesta" class="button-primary" target="_blank">Register here!</a><br>
+		<a href="https://go.gov.sg/bbgardenfiesta" class="button-primary" target="_blank">Register here!</a><br>
 		</div>
 		<div class="box">
 						<span class="tour-tag">Tour</span>
@@ -219,7 +218,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 		<b>Time:</b> 9.00am - 10.00am<br>
 			<b>Where:</b> Bukit Batok Zone 11 RN Centre Blk 296B Bukit Batok St 22<br>
 		<b>Enquiries:</b> Email Suresh at <a href="bbz10rc@gmail.com">bbz10rc@gmail.com</a><br><br>
-		<a href="go.gov.sg/bbgardenfiesta" class="button-primary" target="_blank">Register here!</a><br>
+		<a href="https://go.gov.sg/bbgardenfiesta" class="button-primary" target="_blank">Register here!</a><br>
 		</div>
 		<div class="box">
 						<span class="talk-tag">Talk</span><span class="tour-tag">Tour</span>
@@ -229,7 +228,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 		<b>Time:</b> 10.00am<br>
 			<b>Where:</b> Cosy Garden &amp; Educational Garden Blk 106 Bukit Batok Central<br>
 		<b>Enquiries:</b> Email Jon Tay at <a href="jon@thelifestyleassociate.com">jon@thelifestyleassociate.com</a><br><br>
-		<a href="go.gov.sg/bbgardenfiesta" class="button-primary" target="_blank">Register here!</a><br>
+		<a href="https://go.gov.sg/bbgardenfiesta" class="button-primary" target="_blank">Register here!</a><br>
 		</div>
 		<div class="box">
 						<span class="booth-tag">Booth</span>
@@ -239,7 +238,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 		<b>Time:</b> 8.30am - 10.30am<br>
 			<b>Where:</b> Fu Shan Garden Pavilion, Behind Blk 819 Woodlands Street 82<br>
 		<b>Enquiries:</b> Call Woodlands RC Centre at 63628832<br><br>
-		<a href="go.gov.sg/wlnne" class="button-primary" target="_blank">Register here!</a><br>
+		<a href="https://go.gov.sg/wlnne" class="button-primary" target="_blank">Register here!</a><br>
 		</div>
 	</div>
 </section>
