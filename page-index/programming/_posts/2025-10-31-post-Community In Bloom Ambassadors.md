@@ -87,8 +87,8 @@ details[open] > summary {
 </ul></section>
 <br>	
 <section>
-	<h4>Meet our New CIB Ambassadors for 2024!</h4>
-	<img style="height:75%; width:75%" alt="CIB Ambassadors 2024" src="/images/CIB%20ambassadors/2024%20cib%20ambassadors%20collage.jpg">
+	<h4>Meet our 2025 CIB Ambassadors!</h4>
+	<img style="height:100%; width:100%" alt="CIB Ambassadors 2025" src="/images/CIB%20ambassadors/2025%20cib%20ambassadors%20collage.jpg">
 	<br><br>
 </section>
 
