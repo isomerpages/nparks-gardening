@@ -55,19 +55,7 @@ details[open] > summary {
 	<img title="Community In Bloom ambassadors at their appreciation event in 2024. Photo by Jacqueline Chua." src="/images/Gardeners/Ambassadors_2024_JacquelineChua.jpg">
 <p>Community in Bloom (CIB) Ambassadors are passionate volunteers with excellent horticulture and gardening skills. They actively share their knowledge with the community and lead gardening projects to improve green spaces around them.</p>
 </section>
-<br>
-<section>
-<h4>CIB Ambassador Awards 2025</h4>
-	<p>Volunteers from community gardens under the <a href="/get-involved/community-gardens/">Community in Bloom</a> programme are eligible for nomination. We are looking for nominees that are able to: </p>
-	<ul>	
-		<li>Promote the benefits of gardening to a wider community</li>
-		<li>Lead and facilitate gardening-related activities</li>
-		<li>Guide community groups in setting up community gardens or implementing gardening projects</li>
-		<li>Galvanise the community with positive conduct</li>
-		<li>Share good gardening practices</li>
-	</ul>		
-<p>Nominations have closed. For any queries on the CIB Ambassador Awards 2025 nominations, please email us at <a href="_mailto:communityinbloom@nparks.gov.sg">communityin bloom@nparks.gov.sg</a>.</p>	
-</section>
+
 <br>
 <section>	
 <h4>About the CIB Ambassador Awards</h4>
@@ -85,6 +73,11 @@ details[open] > summary {
 		<li>Be invited to specially curated learning journeys</li>
 		<li>Collaborate on exciting gardening-related projects with NParks, contributing to our City in Nature Vision</li>
 </ul></section>
+<section>
+	<h4>How are CIB Ambassadors Nominated?</h4>
+<p>If you are part of a <a href="https://go.gov.sg/cib-programme"> Community Garden</a>, have a love for gardening outreach and are keen to educate others, you may be the CIB Ambassador that we are looking for!</p>
+<p>Follow our social media channels and watch this space for the next cycle of the CIB Ambassador Awards in 2026 onwards.</p>
+</section>	
 <br>	
 <section>
 	<h4>Meet our 2025 CIB Ambassadors!</h4>
