@@ -1,14 +1,14 @@
 ---
 title: Community In Bloom Ambassadors
 permalink: /page-index/programming/cib-ambassadors/
-date: 2025-05-30
+date: 2025-10-31
 layout: post
 description: The Community in Bloom (CIB) Ambassador Awards recognises
   individuals who promote the love for gardening amongst the community through
   various initiatives such as outreach, starting gardens, and more. Since its
   introduction in 2008, the Awards have celebrated the efforts of our volunteers
   going above and beyond in contributing to Singapore's gardening movement.
-image: /images/Gardeners/Kids (2).jpg
+image: /images/Gardeners/Ambassadors_2024_JacquelineChua.jpg
 variant: markdown
 ---
 <style>
@@ -55,19 +55,7 @@ details[open] > summary {
 	<img title="Community In Bloom ambassadors at their appreciation event in 2024. Photo by Jacqueline Chua." src="/images/Gardeners/Ambassadors_2024_JacquelineChua.jpg">
 <p>Community in Bloom (CIB) Ambassadors are passionate volunteers with excellent horticulture and gardening skills. They actively share their knowledge with the community and lead gardening projects to improve green spaces around them.</p>
 </section>
-<br>
-<section>
-<h4>CIB Ambassador Awards 2025</h4>
-	<p>Volunteers from community gardens under the <a href="/get-involved/community-gardens/">Community in Bloom</a> programme are eligible for nomination. We are looking for nominees that are able to: </p>
-	<ul>	
-		<li>Promote the benefits of gardening to a wider community</li>
-		<li>Lead and facilitate gardening-related activities</li>
-		<li>Guide community groups in setting up community gardens or implementing gardening projects</li>
-		<li>Galvanise the community with positive conduct</li>
-		<li>Share good gardening practices</li>
-	</ul>		
-<p>Nominations have closed. For any queries on the CIB Ambassador Awards 2025 nominations, please email us at <a href="_mailto:communityinbloom@nparks.gov.sg">communityin bloom@nparks.gov.sg</a>.</p>	
-</section>
+
 <br>
 <section>	
 <h4>About the CIB Ambassador Awards</h4>
@@ -85,10 +73,15 @@ details[open] > summary {
 		<li>Be invited to specially curated learning journeys</li>
 		<li>Collaborate on exciting gardening-related projects with NParks, contributing to our City in Nature Vision</li>
 </ul></section>
+<section>
+	<h4>How are CIB Ambassadors Nominated?</h4>
+<p>If you are part of a <a href="https://go.gov.sg/cib-programme"> Community Garden</a>, have a love for gardening outreach and are keen to educate others, you may be the CIB Ambassador that we are looking for!</p>
+<p>Follow our social media channels and watch this space for the next cycle of the CIB Ambassador Awards in 2026 onwards.</p>
+</section>	
 <br>	
 <section>
-	<h4>Meet our New CIB Ambassadors for 2024!</h4>
-	<img style="height:75%; width:75%" alt="CIB Ambassadors 2024" src="/images/CIB%20ambassadors/2024%20cib%20ambassadors%20collage.jpg">
+	<h4>Meet our 2025 CIB Ambassadors!</h4>
+	<img style="height:100%; width:100%" alt="CIB Ambassadors 2025" src="/images/CIB%20ambassadors/2025%20cib%20ambassadors%20collage.jpg">
 	<br><br>
 </section>
 
@@ -126,38 +119,43 @@ details[open] > summary {
             <td style="padding: 5px; text-align: left;">Darren Ng Boon Kiang</td>
         </tr>
         <tr>
+            <td style="padding: 5px; text-align: left;">David Mong Keng Weng</td>
             <td style="padding: 5px; text-align: left;">David Yu, PBM</td>
             <td style="padding: 5px; text-align: left;">Desmond Tan Soon Keong</td>
-            <td style="padding: 5px; text-align: left;">Dominic Seow Eng Poo</td>
         </tr>
         <tr>
+            <td style="padding: 5px; text-align: left;">Dominic Seow Eng Poo</td>
             <td style="padding: 5px; text-align: left;">Doris Yuen Kum Yeng</td>
             <td style="padding: 5px; text-align: left;">Elsie Chua Guek Muay</td>
-            <td style="padding: 5px; text-align: left;">Felicia Tan Bee Lay</td>
         </tr>
         <tr>
+            <td style="padding: 5px; text-align: left;">Felicia Tan Bee Lay</td>
             <td style="padding: 5px; text-align: left;">Fen Ng</td>
             <td style="padding: 5px; text-align: left;">Foo Jit Leang</td>
-            <td style="padding: 5px; text-align: left;">Foziah Yeon</td>
         </tr>
         <tr>
+            <td style="padding: 5px; text-align: left;">Foziah Yeon</td>
             <td style="padding: 5px; text-align: left;">Frankie Tan Teck Siong</td>
             <td style="padding: 5px; text-align: left;">Fung Kah Wai, Roy</td>
-            <td style="padding: 5px; text-align: left;">Gina Ong Liat Wah, PBM</td>
         </tr>
         <tr>
+            <td style="padding: 5px; text-align: left;">Gina Ong Liat Wah, PBM</td>
             <td style="padding: 5px; text-align: left;">Hamzah Bin Osman</td>
             <td style="padding: 5px; text-align: left;">Har Kiet Leng</td>
-            <td style="padding: 5px; text-align: left;">Hashim Shariff</td>
         </tr>
         <tr>
+            <td style="padding: 5px; text-align: left;">Hashim Shariff</td>
             <td style="padding: 5px; text-align: left;">Hay Qing Hui</td>
             <td style="padding: 5px; text-align: left;">Iris Ho Sow Kheng</td>
-            <td style="padding: 5px; text-align: left;">Ismail Bin Haji Suratman</td>
         </tr>
         <tr>
+            <td style="padding: 5px; text-align: left;">Ismail Bin Haji Suratman</td>
             <td style="padding: 5px; text-align: left;">James Lam Mong Wai</td>
+            <td style="padding: 5px; text-align: left;">Jason Tan Chuan Chuan</td>
+        </tr>
+        <tr>
             <td style="padding: 5px; text-align: left;">Jennifer Tan Swee Eng</td>
+            <td style="padding: 5px; text-align: left;">Jewel Chang Xuan Ning</td>
             <td style="padding: 5px; text-align: left;">Joanora Ng Siew Lan</td>
         </tr>
         <tr>
@@ -187,63 +185,68 @@ details[open] > summary {
         </tr>
         <tr>
             <td style="padding: 5px; text-align: left;">Lalithama Nair, PBM</td>
+            <td style="padding: 5px; text-align: left;">Lau Lee Leng, Nancy</td>
             <td style="padding: 5px; text-align: left;">Lee Wei Ming</td>
-            <td style="padding: 5px; text-align: left;">Leow Boon Geok Peggy</td>
         </tr>
         <tr>
+            <td style="padding: 5px; text-align: left;">Leow Boon Geok Peggy</td>
             <td style="padding: 5px; text-align: left;">Lim Bee-Lee</td>
             <td style="padding: 5px; text-align: left;">Lim Keng Tiong</td>
-            <td style="padding: 5px; text-align: left;">Lim Kian Lam</td>
         </tr>
         <tr>
+            <td style="padding: 5px; text-align: left;">Lim Kian Lam</td>
             <td style="padding: 5px; text-align: left;">Lynnette Terh</td>
             <td style="padding: 5px; text-align: left;">May Lee May La</td>
-            <td style="padding: 5px; text-align: left;">Mohan s/o Krishnamoorthy</td>
         </tr>
         <tr>
+            <td style="padding: 5px; text-align: left;">Mohan s/o Krishnamoorthy</td>
             <td style="padding: 5px; text-align: left;">Mohd Fairus Abd Manaf</td>
             <td style="padding: 5px; text-align: left;">Ng Jia Wei</td>
-            <td style="padding: 5px; text-align: left;">Norasikin Bte Supelan</td>
         </tr>
         <tr>
+            <td style="padding: 5px; text-align: left;">Norasikin Bte Supelan</td>
             <td style="padding: 5px; text-align: left;">Normala Bte Alias</td>
             <td style="padding: 5px; text-align: left;">Oh Kee Swee</td>
-            <td style="padding: 5px; text-align: left;">Oh Lee Huat, Jimmy</td>
         </tr>
         <tr>
+            <td style="padding: 5px; text-align: left;">Oh Lee Huat, Jimmy</td>
             <td style="padding: 5px; text-align: left;">Ong Joo Heng Jason</td>
             <td style="padding: 5px; text-align: left;">Peter Sequeira</td>
-            <td style="padding: 5px; text-align: left;">Philip Li Chia Hui</td>
         </tr>
         <tr>
+            <td style="padding: 5px; text-align: left;">Philip Li Chia Hui</td>
             <td style="padding: 5px; text-align: left;">Phoon Lyvenne</td>
             <td style="padding: 5px; text-align: left;">Prakash Lalit Chandra Jethwa</td>
-            <td style="padding: 5px; text-align: left;">Ramasamy Sangaralingam</td>
         </tr>
         <tr>
+            <td style="padding: 5px; text-align: left;">Ramasamy Sangaralingam</td>
             <td style="padding: 5px; text-align: left;">Rehna Mohammed Minhaj</td>
             <td style="padding: 5px; text-align: left;">Richard Ashworth</td>
-            <td style="padding: 5px; text-align: left;">Rosalind Tan</td>
         </tr>
         <tr>
+            <td style="padding: 5px; text-align: left;">Rosalind Tan</td>
             <td style="padding: 5px; text-align: left;">Roseli Bin Rasiman</td>
             <td style="padding: 5px; text-align: left;">Rosita Mary Cedillo</td>
-            <td style="padding: 5px; text-align: left;">Salbiah Bte Osman, PBM</td>
         </tr>
         <tr>
+            <td style="padding: 5px; text-align: left;">Salbiah Bte Osman, PBM</td>
+            <td style="padding: 5px; text-align: left;">Selena Ang Lay Kim</td>
             <td style="padding: 5px; text-align: left;">Shaji Maroli Varada</td>
+        </tr>
+        <tr>
             <td style="padding: 5px; text-align: left;">Shariff Bin Ahmad Jusuf</td>
             <td style="padding: 5px; text-align: left;">Siva Rajoo, PBM</td>
+            <td style="padding: 5px; text-align: left;">Syaiful Hakim Bin Muslim</td>
         </tr>
         <tr>
-            <td style="padding: 5px; text-align: left;">Syaiful Hakim Bin Muslim</td>
             <td style="padding: 5px; text-align: left;">Sylvia Chua Bee Choo</td>
             <td style="padding: 5px; text-align: left;">Tan Khai Cher, Daryl, PBM</td>
+            <td style="padding: 5px; text-align: left;">Tan Siew Gek</td>
         </tr>
         <tr>
-            <td style="padding: 5px; text-align: left;">Tan Siew Gek</td>
             <td style="padding: 5px; text-align: left;">Tan Thean Teng</td>
             <td style="padding: 5px; text-align: left;">Tan Wai Loon</td>
+            <td style="padding: 5px; text-align: left;">Tay Seng Tong Jon</td>
         </tr>
         <tr>
             <td style="padding: 5px; text-align: left;">Tay Sock Lyn Sharon</td>
@@ -253,27 +256,29 @@ details[open] > summary {
         <tr>
             <td style="padding: 5px; text-align: left;">Teng Boon Bee</td>
             <td style="padding: 5px; text-align: left;">Tian How Ming</td>
-            <td style="padding: 5px; text-align: left;">Tony Yau Tong Ngee, PB</td>
+            <td style="padding: 5px; text-align: left;">Toh Mei Xuan</td>
         </tr>
         <tr>
+            <td style="padding: 5px; text-align: left;">Tony Yau Tong Ngee, PB</td>
             <td style="padding: 5px; text-align: left;">Victor Poh</td>
             <td style="padding: 5px; text-align: left;">Wee Ngah Leng Cheryl</td>
-            <td style="padding: 5px; text-align: left;">Wendy Looi Lay Choo</td>
         </tr>
         <tr>
+            <td style="padding: 5px; text-align: left;">Wendy Looi Lay Choo</td>
             <td style="padding: 5px; text-align: left;">Wendy Tan Wan Li</td>
             <td style="padding: 5px; text-align: left;">Wilson Wong Shih Peng</td>
-            <td style="padding: 5px; text-align: left;">Yeap Khek Teong</td>
         </tr>
         <tr>
+            <td style="padding: 5px; text-align: left;">Yeap Khek Teong</td>
             <td style="padding: 5px; text-align: left;">Yip Foong Yee</td>
             <td style="padding: 5px; text-align: left;">Zhang Jing</td>
+        </tr>
+        <tr>
             <td style="padding: 5px; text-align: left;">Zuhir Bin Taib</td>
+            <td style="padding: 5px; text-align: left;"></td>
+            <td style="padding: 5px; text-align: left;"></td>
         </tr>
     </tbody>
-</table>
-				
-			
-		</div></li>
+</table></div></li>
 	</ul>
 </section>
