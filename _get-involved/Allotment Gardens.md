@@ -60,7 +60,7 @@ details[open] > summary {
 
 <p>Allotment gardens are common green spaces where aspiring gardeners can lease gardening plots to hone their skills and grow their own greens. They can be found in various parks, heartlands, private estates and even organisations.</p>
 
-<p>There are now over 2,400 allotment garden plots across 28 parks and gardens in Singapore. Check out the map below to locate an allotment garden in our parklands near you!</p> 
+<p>There are now over 2,500 allotment garden plots across 29 parks and gardens in Singapore. Check out the map below to locate an allotment garden in our parklands near you!</p> 
 
 <iframe height="415" width="100%" src="https://www.google.com/maps/d/u/1/embed?mid=1apkeSb5QHzODZOp7DdtNxFTa61GSA9U&amp;ehbc=2E312F&amp;noprof=1"></iframe>
 
@@ -71,9 +71,9 @@ details[open] > summary {
 
 <h4>How can I apply for an allotment garden plot?</h4>
 
-<p><strong><u>March 2025 Application Exercise</u> (Closed)</strong></p>
+<p><strong><u>December 2025 Application Exercise</u> (New!)</strong></p>
 
-<p>Applications for allotment garden plots are <b>open from 19 March 2025, 10.00am to 1 April 2025, 11.59pm</b> for the following locations:</p>
+<p>Applications for allotment garden plots are <b>open from 2 December 2025, 10.00am to 15 December 2025, 11.59pm</b> for the following locations:</p>
 
 <table>
 	<thead>
@@ -88,99 +88,105 @@ details[open] > summary {
 	<tr>
 		<td>1</td>
 		<td>Ang Mo Kio Town Garden West</td>
-		<td style="text-align:center">43</td>
-		<td style="text-align:center">Q2 2025</td>		
+		<td style="text-align:center">2</td>
+		<td style="text-align:center">Q1 2026</td>		
 	</tr>
 	<tr>
 		<td>2</td>
 		<td>Bedok Reservoir Park</td>
 		<td style="text-align:center">1</td>
-		<td style="text-align:center">Q2 2025</td>
+		<td style="text-align:center">Q1 2026</td>
 	</tr>
-		<tr>
+	<tr>
 		<td>3</td>
 		<td>Bishan-Ang Mo Kio Park</td>
-		<td style="text-align:center">1</td>
-		<td style="text-align:center">Q2 2025</td>
+		<td style="text-align:center">2</td>
+		<td style="text-align:center">Q1 2026</td>
 	</tr>
 	<tr>
 		<td>4</td>
-		<td>Bukit Gombak Park</td>
-		<td style="text-align:center">4</td>
-		<td style="text-align:center">Q2 2025</td>
+		<td>Bukit Canberra (New!)</td>
+		<td style="text-align:center">50</td>
+		<td style="text-align:center">Q1 2026</td>
 	</tr>
 	<tr>
 		<td>5</td>
-		<td>East Coast Park Area B</td>
-		<td style="text-align:center">4</td>
-		<td style="text-align:center">Q2 2025</td>
+		<td>Bukit Gombak Park</td>
+		<td style="text-align:center">1</td>
+		<td style="text-align:center">Q1 2026</td>
 	</tr>
-		<tr>
+	<tr>
 		<td>6</td>
-		<td>East Coast Park Area D</td>
-		<td style="text-align:center">4</td>
-		<td style="text-align:center">Q2 2025</td>		
+		<td>East Coast Park Area A</td>
+		<td style="text-align:center">34</td>
+		<td style="text-align:center">Q1 2026</td>
 	</tr>
-		<tr>
+	<tr>
 		<td>7</td>
-		<td>HortPark</td>
-		<td style="text-align:center">4</td>
-		<td style="text-align:center">Q2 2025</td>		
+		<td>East Coast Park Area D</td>
+		<td style="text-align:center">1</td>
+		<td style="text-align:center">Q1 2026</td>		
 	</tr>
-		<tr>
+	<tr>
 		<td>8</td>
 		<td>Jurong Central Park</td>
-		<td style="text-align:center">41</td>
-		<td style="text-align:center">Q2 2025</td>		
+		<td style="text-align:center">2</td>
+		<td style="text-align:center">Q1 2026</td>		
 	</tr>
-		<tr>
+	<tr>
 		<td>9</td>
 		<td>Jurong Lake Gardens</td>
-		<td style="text-align:center">164</td>
-		<td style="text-align:center">Q2 2025</td>		
+		<td style="text-align:center">8</td>
+		<td style="text-align:center">Q1 2026</td>		
 	</tr>
-		<tr>
+	<tr>
 		<td>10</td>
-		<td>Kallang Riverside Park</td>
-		<td style="text-align:center">2</td>
-		<td style="text-align:center">Q2 2025</td>		
+		<td>Kent Ridge Park</td>
+		<td style="text-align:center">14</td>
+		<td style="text-align:center">Q1 2026</td>		
 	</tr>
-		<tr>
+	<tr>
 		<td>11</td>
 		<td>one-north Park</td>
 		<td style="text-align:center">1</td>
-		<td style="text-align:center">Q2 2025</td>		
+		<td style="text-align:center">Q1 2026</td>				
 	</tr>
-		<tr>
+	<tr>
 		<td>12</td>
-		<td>Pasir Ris Park</td>
-		<td style="text-align:center">1</td>
-		<td style="text-align:center">Q2 2025</td>		
-	</tr>
-		<tr>
-		<td>13</td>
 		<td>Punggol Park</td>
-		<td style="text-align:center">88</td>
-		<td style="text-align:center">Q2 2025</td>		
+		<td style="text-align:center">5</td>
+		<td style="text-align:center">Q1 2026</td>		
 	</tr>
-		<tr>
+	<tr>
+		<td>13</td>
+		<td>Sembawang Park</td>
+		<td style="text-align:center">21</td>
+		<td style="text-align:center">Q1 2026</td>		
+	</tr>
+	<tr>
 		<td>14</td>
-		<td>Tiong Bahru Park</td>
-		<td style="text-align:center">1</td>
-		<td style="text-align:center">Q2 2025</td>		
-	</tr>
-		<tr>
-		<td>15</td>
 		<td>West Coast Park</td>
 		<td style="text-align:center">2</td>
-		<td style="text-align:center">Q2 2025</td>		
+		<td style="text-align:center">Q1 2026</td>		
+	</tr>
+	<tr>
+		<td>15</td>
+		<td>Woodlands Waterfront Park</td>
+		<td style="text-align:center">1</td>
+		<td style="text-align:center">Q1 2026</td>		
+	</tr>
+	<tr>
+		<td>16</td>
+		<td>Yishun Park</td>
+		<td style="text-align:center">3</td>
+		<td style="text-align:center">Q1 2026</td>		
 	</tr>
 	</tbody>
 </table>
 
 <p>For the exact locations of the allotment gardens within each park, please refer to the map above.</p>
 
-<p>If you are interested to lease a plot in any of the above parks, please submit your application by <b>1 April 2025 (Tuesday), 11.59pm</b> via any of the following AXS* Channels:</p>
+<p>If you are interested to lease a plot in any of the above parks, please submit your application by <b>15 December 2025 (Monday), 11.59pm</b> via any of the following AXS Channels:</p>
 <ul>	
 <li> AXS e-Station (Website at <a href="https://e-station2.axs.com.sg">https://e-station2.axs.com.sg</a>);</li>
 <li> AXS m-Station (Mobile application) available on App Store, Google Play and App Gallery; or</li>
@@ -189,18 +195,23 @@ details[open] > summary {
 
 <p>More information on the application terms and conditions (T&amp;Cs) are available in the application system. You are reminded to read the instructions and T&amp;Cs carefully before submitting an application.</p>
 
+<div class="wrapper">
+  <a style="text-decoration:none; color: white" href="https://go.gov.sg/ags-plot-application"><div class="box">
+    Apply Now!</div></a>
+</div> 
+
 <p>For step-by-step guides on how to apply or make payment for the allotment garden plot application via AXS Channels, please click below:</p>
 <ul>
 	<li><a href="https://go.gov.sg/nparks-ag-plot-how-to-apply-axs">How to apply</a></li>
 	<li><a href="https://go.gov.sg/nparks-ag-plot-how-to-pay-axs">How to make payment</a> (for successful applicants only)</li>
 </ul>
 
-<p><strong>Applications are now closed.</strong> Plots will be assigned by via ballot. Applicants will be notified via email from AXS on the outcome of their application by mid-June 2025.</p> 
+<p>Successful applicants will be notified via email from AXS within 1 month from the application closing date, whilst unsuccessful applicants will be notified within 3 months. <strong>Applicants are encouraged to check their email inbox and junk folders regularly.</strong></p>
 
-<p>For questions related to the March 2025 Application Exercise, please contact AXS Customer Service at 6560 2727 (8.30am - 6pm daily).</p>
+<p>For questions related to the December 2025 Application Exercise, please contact AXS Customer Service at 6560 2727 (8.30am - 6pm daily).</p>
 
 <p><strong><u>Future Application Exercise</u></strong></p>
-<p>The next application exercise will be held in the 4th quarter of 2025. Follow our social media channels and stay tuned for more updates!
+<p>More details will be shared when ready. Follow our social media channels and stay tuned for more updates!
 
 
 </p><h4>Implementing Allotment Gardens</h4>
@@ -218,7 +229,7 @@ details[open] > summary {
 		</details>
 		<details>
 				<summary>How many allotment garden plots are there now, and will the numbers continue to be increased?</summary>	
-				<p style="margin-top: 5px; margin-bottom: 25px">To date, over 2,400 allotment garden plots have been made available to the community with plans for further expansion.</p>
+				<p style="margin-top: 5px; margin-bottom: 25px">To date, over 2,500 allotment garden plots have been made available to the community with plans for further expansion.</p>
 				<p style="margin-top: 5px; margin-bottom: 25px">NParks will be progressively introducing more plots in various parks across Singapore, and work closely with agencies, Town Councils and Grassroots Organisations to implement more allotment gardens in areas outside of parklands to enable more people to garden closer to where they live.</p>
 		</details>
 		<details>
@@ -334,7 +345,8 @@ details[open] > summary {
 			</details>
 			<details>
 				<summary>How would applicants know if they are successful? When can I expect to start gardening after applying for a plot?</summary>
-				<p style="margin-top: 5px; margin-bottom: 25px">All successful applicants will receive a Letter of Offer via email from AXS within three (3) months form the closing date of the application exercise. More information, such as the payment instructions and start date of gardening on-site, will be shared in the Letter. Upon payment received, a Temporary Occupation Licence (TOL) will also be issued to successful applicants in respect of the use of the allotment garden plot.</p>
+				<p style="margin-top: 5px; margin-bottom: 25px">All successful applicants will receive a Letter of Offer via email from AXS within one (1) month form the closing date of the application exercise. More information, such as the payment instructions and start date of gardening on-site, will be shared in the Letter. Upon payment received, a Temporary Occupation Licence (TOL) will also be issued to successful applicants in respect of the use of the allotment garden plot. </p>
+					<p>Unsuccessful applicants will be notified within three (3) months from the closing of application exercise. Applicants are encouraged to check their email inbox and junk folders regularly.</p>
 			</details>
 			<details>
 				<summary>Can you call/SMS me back when the allotment plots in the park I am interested in are open for application?</summary>
