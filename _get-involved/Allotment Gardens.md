@@ -206,7 +206,7 @@ details[open] > summary {
 	<li><a href="https://go.gov.sg/nparks-ag-plot-how-to-pay-axs">How to make payment</a> (for successful applicants only)</li>
 </ul>
 
-<p>Successful applicants will be notified via email from AXS within 1 month from the application closing date, whilst unsuccessful applicants will be notified within 3 months. Applicants are encouraged to check their email inbox and junk folders regularly.</p>
+<p>Successful applicants will be notified via email from AXS within 1 month from the application closing date, whilst unsuccessful applicants will be notified within 3 months. <strong>Applicants are encouraged to check their email inbox and junk folders regularly.</strong></p>
 
 <p>For questions related to the December 2025 Application Exercise, please contact AXS Customer Service at 6560 2727 (8.30am - 6pm daily).</p>
 
