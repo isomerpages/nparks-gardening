@@ -197,8 +197,9 @@ details[open] > summary {
 
 <div class="wrapper">
   <a style="text-decoration:none; color: white" href="https://go.gov.sg/ags-plot-application"><div class="box">
- pply Now!</div></a>
+ Apply Now!</div></a>
 	</div> 
+<i>Applicants may experience intermittent issues with SingPass login via AXS e-Station (Website) and m-Station (Mobile Application). Applicants are encouraged to apply via the AXS Station (Kiosk) found islandwide, or check back later.</i>	
 
 <p>For step-by-step guides on how to apply or make payment for the allotment garden plot application via AXS Channels, please click below:</p>
 <ul>
