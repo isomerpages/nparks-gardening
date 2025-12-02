@@ -198,8 +198,7 @@ details[open] > summary {
 <div class="wrapper">
   <a style="text-decoration:none; color: white" href="https://go.gov.sg/ags-plot-application"><div class="box">
  pply Now!</div></a>
-	**
-</div> 
+	</div> 
 
 <p>For step-by-step guides on how to apply or make payment for the allotment garden plot application via AXS Channels, please click below:</p>
 <ul>
