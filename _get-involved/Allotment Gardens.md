@@ -209,7 +209,7 @@ details[open] > summary {
 
 <p>Successful applicants will be notified via email from AXS within 1 month from the application closing date, whilst unsuccessful applicants will be notified within 3 months. <strong>Applicants are encouraged to check their email inbox and junk folders regularly.</strong></p>
 
-<p>For questions related to the December 2025 Application Exercise, please contact AXS Customer Service at 6560 2727 (8.30am - 6pm daily).</p>
+<p>For questions related to the December 2025 Application Exercise, please contact <strong>AXS Customer Service at 6560 2727 (8.30am - 6pm daily).</strong></p>
 
 <p><strong><u>Future Application Exercise</u></strong></p>
 <p>More details will be shared when ready. Follow our social media channels and stay tuned for more updates!
