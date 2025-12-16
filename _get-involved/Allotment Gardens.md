@@ -71,7 +71,7 @@ details[open] > summary {
 
 <h4>How can I apply for an allotment garden plot?</h4>
 
-<p><strong><u>December 2025 Application Exercise</u> (New!)</strong></p>
+<p><strong><u>December 2025 Application Exercise</u> (Closed)</strong></p>
 
 <p>Applications for allotment garden plots are <b>open from 2 December 2025, 10.00am to 15 December 2025, 11.59pm</b> for the following locations:</p>
 
@@ -194,12 +194,7 @@ details[open] > summary {
 </ul>
 
 <p>More information on the application terms and conditions (T&amp;Cs) are available in the application system. You are reminded to read the instructions and T&amp;Cs carefully before submitting an application.</p>
-
-<div class="wrapper">
-  <a style="text-decoration:none; color: white" href="https://go.gov.sg/ags-plot-application"><div class="box">
- Apply Now!</div></a>
-	</div> 
-<i>Applicants may experience intermittent issues with SingPass login via AXS e-Station (Website) and m-Station (Mobile Application). Applicants are encouraged to apply via the AXS Station (Kiosk) found islandwide, or check back later.</i>	
+	
 
 <p>For step-by-step guides on how to apply or make payment for the allotment garden plot application via AXS Channels, please click below:</p>
 <ul>
@@ -207,7 +202,9 @@ details[open] > summary {
 	<li><a href="https://go.gov.sg/nparks-ag-plot-how-to-pay-axs">How to make payment</a> (for successful applicants only)</li>
 </ul>
 
-<p>Successful applicants will be notified via email from AXS within 1 month from the application closing date, whilst unsuccessful applicants will be notified within 3 months. <strong>Applicants are encouraged to check their email inbox and junk folders regularly.</strong></p>
+<p><strong>Applications are now closed.</strong> Plots will be assigned by via ballot.
+
+</p><p>Successful applicants will be notified via email from AXS within 1 month from the application closing date, whilst unsuccessful applicants will be notified within 3 months. <strong>Applicants are encouraged to check their email inbox and junk folders regularly.</strong></p>
 
 <p>For questions related to the December 2025 Application Exercise, please contact <strong>AXS Customer Service at 6560 2727 (8.30am - 6pm daily).</strong></p>
 
