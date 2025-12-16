@@ -156,91 +156,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 <br>
 <section>
 	<h5 id="November">November 2025 (in conjunction with Clean and Green Singapore celebrations)</h5>
-	<div class="wrapper">
-		<div class="box">
-						<span class="talk-tag">Talk</span>
-			<h5 style="margin-top:8px">Bukit Batok Educational garden tour</h5>
-	 <b>Organiser:</b> Bukit Batok Central Educational Garden<br>
-			<b>Date:</b> 1 November 2025, Saturday<br>
-		<b>Time:</b> 9.00am - 10.00am<br>
-			<b>Where:</b> 621/622 Bukit Batok Central Singapore 650621<br>
-		<b>Enquiries:</b> Email Jon Tay at <a href="jon@thelifestyleassociate.com">jon@thelifestyleassociate.com</a><br><br>
-		<b>Registration:</b> No registration is needed, walk-ins are accepted
-		<br>
-		</div>
-		<div class="box">
-						<span class="harvestsharing-tag">Harvest Sharing</span>
-			<h5 style="margin-top:8px">Adopt an Orchid</h5>
-	 <b>Organiser:</b> Let's Grow Orchid Garden @ West Coast CC<br>
-			<b>Date:</b> 2 November 2025, Sunday<br>
-		<b>Time:</b> 10.00am - 12.00pm<br>
-			<b>Where:</b> West Coast CC<br>
-		<b>Enquiries:</b> Email <a href="pa_westcoast@pa.gov.sg">pa_westcoast@pa.gov.sg</a><br><br>
-		<b>Registration:</b> No registration is needed, walk-ins are accepted
-		<br>
-		</div>
-		<div class="box">
-						<span class="workshop-tag">Workshop</span>
-			<h5 style="margin-top:8px">Terrarium Making</h5>
-	 <b>Organiser:</b> Bukit Batok Zone 6 Residents' Network<br>
-			<b>Date:</b> 15 November 2025, Saturday<br>
-		<b>Time:</b> 4.00pm<br>
-			<b>Where:</b> Sustainability Corner at Blk 175 Bukit Batok West Ave 8<br>
-		<b>Enquiries:</b> Email Bukit Batok Zone 6 RN at <a href="bbzone6rn@gmail.com">bbzone6rn@gmail.com</a><br><br>
-		<a href="https://go.gov.sg/bbgardenfiesta" class="button-primary" target="_blank">Register here!</a><br>
-		</div>
-		<div class="box">
-						<span class="tour-tag">Tour</span>
-			<h5 style="margin-top:8px">Garden Tour at Culture and Arts Garden</h5>
-	 <b>Organiser:</b> Bukit Batok Zone 2 Residents' Network<br>
-			<b>Date:</b> 15 November 2025, Saturday<br>
-		<b>Time:</b> 10.00am - 11.00am<br>
-			<b>Where:</b> Behind Blk 106 Bukit Batok Central, S650106<br>
-		<b>Enquiries:</b> Email Bukit Batok Zone 2 RN at <a href="PA_BukitBatokcc@pa.gov.sg">PA_BukitBatokcc@pa.gov.sg</a><br><br>
-		<a href="https://form.gov.sg/68fc2e54804f2ecada80d8db" class="button-primary" target="_blank">Register here!</a><br>
-		</div>
-		<div class="box">
-						<span class="tour-tag">Tour</span>
-			<h5 style="margin-top:8px">Sustainable Garden Tour at Sennett Community Harvest Hub</h5>
-	 <b>Organiser:</b> Sennett Estate Community Harvest Hub<br>
-			<b>Date:</b> 15 November 2025, Saturday<br>
-		<b>Time:</b> 10.00am - 11.30am<br>
-			<b>Where:</b> Beside 46 Wan Tho Avenue <br>
-		<b>Enquiries:</b> Email <a href="pa_potongpasircc@pa.gov.sg">pa_potongpasircc@pa.gov.sg</a><br><br>
-		<b>Registration:</b> No registration is needed, walk-ins are accepted
-		<br>
-		</div>
-		<div class="box">
-						<span class="harvestsharing-tag">Harvest Sharing</span>
-			<h5 style="margin-top:8px">Harvest Cooking &amp; Cuttings Sharing</h5>
-	 <b>Organiser:</b> Bukit Batok Zone 10 RN (Blk 194)<br>
-			<b>Date:</b> 15 November 2025, Saturday<br>
-		<b>Time:</b> 9.00am - 10.00am<br>
-			<b>Where:</b> Bukit Batok Zone 11 RN Centre Blk 296B Bukit Batok St 22<br>
-		<b>Enquiries:</b> Email Suresh at <a href="bbz10rc@gmail.com">bbz10rc@gmail.com</a><br><br>
-		<a href="https://go.gov.sg/bbgardenfiesta" class="button-primary" target="_blank">Register here!</a><br>
-		</div>
-		<div class="box">
-						<span class="talk-tag">Talk</span><span class="tour-tag">Tour</span>
-			<h5 style="margin-top:8px">Distilled Floral Water &amp; Garden Tour</h5>
-	 <b>Organiser:</b> Bukit Batok Zone 3 Residents' Network<br>
-			<b>Date:</b> 23 November 2025, Sunday<br>
-		<b>Time:</b> 10.00am<br>
-			<b>Where:</b> Cosy Garden &amp; Educational Garden Blk 106 Bukit Batok Central<br>
-		<b>Enquiries:</b> Email Jon Tay at <a href="jon@thelifestyleassociate.com">jon@thelifestyleassociate.com</a><br><br>
-		<a href="https://go.gov.sg/bbgardenfiesta" class="button-primary" target="_blank">Register here!</a><br>
-		</div>
-		<div class="box">
-						<span class="booth-tag">Booth</span>
-			<h5 style="margin-top:8px">Green Sundays</h5>
-	 <b>Organiser:</b> Woodlands Zone 2 Residents' Network<br>
-			<b>Date:</b> 30 November 2025, Sunday<br>
-		<b>Time:</b> 8.30am - 10.30am<br>
-			<b>Where:</b> Fu Shan Garden Pavilion, Behind Blk 819 Woodlands Street 82<br>
-		<b>Enquiries:</b> Call Woodlands RC Centre at 63628832<br><br>
-		<a href="https://go.gov.sg/wlnne" class="button-primary" target="_blank">Register here!</a><br>
-		</div>
-	</div>
+	
 </section>
 <br><br>
 <section>
@@ -648,5 +564,63 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Date:</b> 25 October 2025, Saturday<br>
 			<b>Where:</b> 134 Marsiling Road, Singapore 730134<br>
 		</div>
+		<div class="wrapper">
+		<div class="box">
+						<span class="talk-tag">Talk</span>
+			<h5 style="margin-top:8px">Bukit Batok Educational garden tour</h5>
+	 <b>Organiser:</b> Bukit Batok Central Educational Garden<br>
+			<b>Date:</b> 1 November 2025, Saturday<br>
+			<b>Where:</b> 621/622 Bukit Batok Central Singapore 650621<br>
+		</div>
+		<div class="box">
+						<span class="harvestsharing-tag">Harvest Sharing</span>
+			<h5 style="margin-top:8px">Adopt an Orchid</h5>
+	 <b>Organiser:</b> Let's Grow Orchid Garden @ West Coast CC<br>
+			<b>Date:</b> 2 November 2025, Sunday<br>
+			<b>Where:</b> West Coast CC<br>
+		</div>
+		<div class="box">
+						<span class="workshop-tag">Workshop</span>
+			<h5 style="margin-top:8px">Terrarium Making</h5>
+	 <b>Organiser:</b> Bukit Batok Zone 6 Residents' Network<br>
+			<b>Date:</b> 15 November 2025, Saturday<br>
+			<b>Where:</b> Sustainability Corner at Blk 175 Bukit Batok West Ave 8<br>
+		</div>
+		<div class="box">
+						<span class="tour-tag">Tour</span>
+			<h5 style="margin-top:8px">Garden Tour at Culture and Arts Garden</h5>
+	 <b>Organiser:</b> Bukit Batok Zone 2 Residents' Network<br>
+			<b>Date:</b> 15 November 2025, Saturday<br>
+			<b>Where:</b> Behind Blk 106 Bukit Batok Central, S650106<br>
+		</div>
+		<div class="box">
+						<span class="tour-tag">Tour</span>
+			<h5 style="margin-top:8px">Sustainable Garden Tour at Sennett Community Harvest Hub</h5>
+	 <b>Organiser:</b> Sennett Estate Community Harvest Hub<br>
+			<b>Date:</b> 15 November 2025, Saturday<br>
+			<b>Where:</b> Beside 46 Wan Tho Avenue <br>
+		</div>
+		<div class="box">
+						<span class="harvestsharing-tag">Harvest Sharing</span>
+			<h5 style="margin-top:8px">Harvest Cooking &amp; Cuttings Sharing</h5>
+	 <b>Organiser:</b> Bukit Batok Zone 10 RN (Blk 194)<br>
+			<b>Date:</b> 15 November 2025, Saturday<br>
+			<b>Where:</b> Bukit Batok Zone 11 RN Centre Blk 296B Bukit Batok St 22<br>
+		</div>
+		<div class="box">
+						<span class="talk-tag">Talk</span><span class="tour-tag">Tour</span>
+			<h5 style="margin-top:8px">Distilled Floral Water &amp; Garden Tour</h5>
+	 <b>Organiser:</b> Bukit Batok Zone 3 Residents' Network<br>
+			<b>Date:</b> 23 November 2025, Sunday<br>
+			<b>Where:</b> Cosy Garden &amp; Educational Garden Blk 106 Bukit Batok Central<br>
+		</div>
+		<div class="box">
+						<span class="booth-tag">Booth</span>
+			<h5 style="margin-top:8px">Green Sundays</h5>
+	 <b>Organiser:</b> Woodlands Zone 2 Residents' Network<br>
+			<b>Date:</b> 30 November 2025, Sunday<br>
+			<b>Where:</b> Fu Shan Garden Pavilion, Behind Blk 819 Woodlands Street 82<br>
+		</div>
+	</div>
 		<br>
 		</div></section>
