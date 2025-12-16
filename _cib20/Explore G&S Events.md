@@ -142,24 +142,6 @@ You are encouraged to contact the organisers directly for specific queries on ev
 </section>
 
 <section>
-	<h5>Browse our events by date</h5>
-	
-<table>
-		<tbody>
-			<tr>
-				<td><a style="text-decoration:none" href="#November"> November</a></td>
-				<td><a style="text-decoration:none" href="#pastevents">Past events</a></td>
-			</tr>
-		</tbody>
-		</table>
-</section>
-<br>
-<section>
-	<h5 id="November">November 2025 (in conjunction with Clean and Green Singapore celebrations)</h5>
-	
-</section>
-<br><br>
-<section>
 <h5 id="pastevents">Past events</h5>
 	<div class="wrapper">
 		<div class="box">
