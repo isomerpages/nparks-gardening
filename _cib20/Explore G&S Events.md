@@ -546,7 +546,6 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Date:</b> 25 October 2025, Saturday<br>
 			<b>Where:</b> 134 Marsiling Road, Singapore 730134<br>
 		</div>
-		<div class="wrapper">
 		<div class="box">
 						<span class="talk-tag">Talk</span>
 			<h5 style="margin-top:8px">Bukit Batok Educational garden tour</h5>
@@ -605,4 +604,4 @@ You are encouraged to contact the organisers directly for specific queries on ev
 		</div>
 	</div>
 		<br>
-		</div></section>
+		</section>
