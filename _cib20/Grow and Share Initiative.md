@@ -39,8 +39,9 @@ Under this initiative, community gardening groups across Singapore, from housing
 	
 <section>
 		<h4>How to get involved</h4>
-		<p>Organise at least one community event in or around your community garden. The event or activity should fall under one of the five categories listed below. </p>
-	<p>The Grow and Share initiative will run from 13 March to 15 November 2025.</p>
+	<p><strong>The 2025 Grow and Share initiative has concluded. Stay tuned for future updates!</strong></p>
+	<p>Organise at least one community event in or around your community garden. The event or activity should fall under one of the five categories listed below. </p>
+	<p>The Grow and Share initiative ran from 13 March to 15 November 2025.</p>
 
 <h5>Eligibility</h5>
 <p>Participating community gardening groups are to be registered in the CIB programme. CIB gardening groups should be supported by:
@@ -55,7 +56,7 @@ Under this initiative, community gardening groups across Singapore, from housing
 <h5>Event criteria</h5>
 <ol>
 	<li>Time period:</li>
-	<ul><li>The event should take place between 13 March and 15 November 2025</li></ul>
+	<ul><li>Events that took place between 13 March and 15 November 2025</li></ul>
 	<li>Community impact:</li>
 	<ul><li>Size of planning team: Encouraged to have at least 5 members, this can include 1 to 2 leaders</li>
 		<li>Participation rate: Event should cater for minimally 15 attendees, excluding the organisers</li></ul>
@@ -84,8 +85,7 @@ Under this initiative, community gardening groups across Singapore, from housing
 			<ul><li>Please indicate interest for the Grow and Share starter pack through the CIB Grow and Share pre-event form. Once your event details have been confirmed, NParks will reach out with information on how you can collect the starter pack.</li>
 				<li>Each participating CIB group is only entitled to <b><u>one</u></b> starter pack.</li>
 			</ul></ul>
-		<p>Once you have confirmed the details of your event(s), submit the 🌱 <a target="_blank" href="https://go.gov.sg/cibgrowandshareform">pre-event form</a>🌱 for our review. You will be able to submit up to three events per form. Please look through the pre-event form and ensure that you have all your details ready before starting a submission.</p>
-		<a target="_blank" class="button-primary" href="https://go.gov.sg/cibgrowandshareform">Submit the pre-event form</a>
+		<p>Once you have confirmed the details of your event(s), submit the 🌱 pre-event form 🌱 for our review. You will be able to submit up to three events per form. Please look through the pre-event form and ensure that you have all your details ready before starting a submission.</p>
 		<p>Need help with filling up the form? We've put together a <a download="" href="/files/CIB20%20Event%20Planning%20Toolkit/CIB_Grow_and_Share_submission_guide.pdf">form submission guide</a> for your reference.</p>
 		<li><u>Watering &amp; growing phase</u></li>
 		<p>You will receive an email once your submission is reviewed and confirmed – your <b><i>personalised post-event form link</i></b> will be in this email, <i>please do not delete it</i>. 
@@ -96,9 +96,9 @@ Proceed to implement your event and don’t forget to take plenty of photographs
 		<li><u>Harvest &amp; wrap-up phase</u></li>
 		<p>When your event is over, retrieve your post-event form link from your confirmation email and complete the form. You will need to submit <b>2 photographs per event</b> and a <b>screenshot of your social media post(s)</b>. 
 
-Upon the successful completion of the event(s) and form submissions, eligible gardening groups will receive a celebration pack. Delivery of the celebration pack will start from July 2025. More information will be shared with eligible groups once the delivery has been scheduled. 
+</p><p>Upon the successful completion of the event(s) and form submissions, eligible gardening groups will receive a celebration pack.</p> 
 
-</p></ol>
+<p></p></ol>
 </section>
 
 <img src="/images/CIB20/gns_poster_w_celebration_pack.jpg">
