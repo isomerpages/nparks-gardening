@@ -238,6 +238,7 @@ details[open] > summary {
 				<li>Bedok Reservoir Park</li>
 				<li>Bedok Town Park</li>
 				<li>Bishan-Ang Mo Kio Park</li>
+				<li>Bukit Canberra</li>
 				<li>Bukit Gombak Park</li>
 				<li>Choa Chu Kang Park</li>
 				<li>Clementi Woods Park</li>
