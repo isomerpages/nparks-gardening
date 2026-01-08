@@ -16,7 +16,7 @@ sections:
       title: CGEC 2025
       subtitle: See you there!
       id: infopic
-      description: Celebrating horticultural excellence and community
+      description: Put your gardening skills to the test!
       button: Find out more
       image: /images/HortFest images/CGEC_2025_webpage_picture.jpg
       alt: Image alt text
