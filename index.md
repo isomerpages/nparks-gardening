@@ -13,17 +13,17 @@ sections:
       subtitle: Let's get growing!
       background: /images/banner_31oct_bright1.png
   - infopic:
-      title: HortFest 2025
+      title: CGEC 2025
       subtitle: See you there!
       id: infopic
       description: Celebrating horticultural excellence and community
       button: Find out more
-      image: /images/Landing_page/hortfest_logo_landing_middle.png
+      image: /images/HortFest images/CGEC_2025_webpage_picture.jpg
       alt: Image alt text
-      url: /hortfest-2025
+      url: /community-garden-edibles-competition
   - infopic:
       title: CIB20
-      subtitle: Growing together since 2025
+      subtitle: Growing together since 2005
       id: infopic
       description: Celebrating 20 years of Community in Bloom (CIB)
       button: View highlights
