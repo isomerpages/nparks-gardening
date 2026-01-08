@@ -20,6 +20,7 @@ sections:
       image: /images/Graphics/grow_together.png
       alt: Image alt text
       url: /community-garden-edibles-competition
+      subtitle: Ready, set, grow!
   - infopic:
       title: CIB20
       subtitle: Growing together since 2005
