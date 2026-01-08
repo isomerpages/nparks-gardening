@@ -47,4 +47,7 @@ variant: markdown
 	<p>For enquiries on CGEC 2026, you may contact HortPark by phone at +65 6471 5601, or by email at <a href="mailto:nparks_hortpark@nparks.gov.sg">nparks_hortpark@nparks.gov.sg</a>.</p>
 </section>
 <br>
-<img src="/images/Events/CGEC/cgec 2026 poster.jpg"> 
+<img src="/images/Events/CGEC/cgec 2026 poster.jpg">
+
+<h5>Past Winners</h5>
+<p>View our CGEC 2025 winners <a target="_blank" href="https://go.gov.sg/cgec2025-results">here</a>!</p>
