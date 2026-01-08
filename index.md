@@ -13,8 +13,7 @@ sections:
       subtitle: Let's get growing!
       background: /images/banner_31oct_bright1.png
   - infopic:
-      title: CGEC 2025
-      subtitle: See you there!
+      title: Community Garden Edibles Competition 2026
       id: infopic
       description: Put your gardening skills to the test!
       button: Find out more
