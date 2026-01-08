@@ -18,7 +18,7 @@ sections:
       id: infopic
       description: Put your gardening skills to the test!
       button: Find out more
-      image: /images/HortFest images/CGEC_2025_webpage_picture.jpg
+      image: /images/Graphics/grow_together.png
       alt: Image alt text
       url: /community-garden-edibles-competition
   - infopic:
