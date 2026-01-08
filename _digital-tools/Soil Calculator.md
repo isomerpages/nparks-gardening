@@ -2,13 +2,16 @@
 title: Soil Calculator
 permalink: /digital-tools/soilcalculator/
 description: ""
+variant: markdown
 ---
-To calculate:
-- The amount of soil required for a rectangular planter
-- The estimated cost of the required soil (for budgeting)
+<h5><i>Soil Calculator - Temporary Unavailable</i></h5>
 
-*Please note that the calculation of the soil volume and cost provided is an estimation based on the input provided by the user. The result provided should be taken as a reference only. It is recommended to consult with a professional for a more accurate assessment.* 
+<p>Our soil calculator tool is currently unavailable due to the decommissioning of the CheckFirst platform on 29 December 2025.</p>
 
-<img src="/images/Digital%20Tools/planter_diagram_lwd1.png">				
+<img src="/images/Digital%20Tools/planter_diagram_lwd1.png">	
 
-<iframe style="width:100%;height:1600px" src="https://www.checkfirst.gov.sg/c/0d75a8a5-f1a3-46d5-8b08-2182bfba6277"></iframe>
+<p><strong>Alternative resources:</strong>
+</p><ul><li>Use the formula: Length x Width x Depth = Volume (in cubic metres)</li>
+	<li>Contact your local nursery for soil calculation estimates and pricing</li>
+	<li>Consult gardening professionals for accurate assessments</li>
+<p></p></ul>
