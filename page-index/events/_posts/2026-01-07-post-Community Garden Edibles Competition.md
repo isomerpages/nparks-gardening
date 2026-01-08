@@ -44,6 +44,7 @@ variant: markdown
 	<p>Find out more about the <a target="_blank" href="https://go.gov.sg/cgec-rulesandregulation2026">CGEC 2026 Rules &amp; Regulations</a> and <a target="_blank" href="https://go.gov.sg/cgec-faq2026">FAQs</a>.</p>
 	<p>Registration is open from <strong>12 January 2026 to 13 May 2026.</strong></p>
 	<a class="button-primary" target="_blank" href="https://go.gov.sg/cgec2026-registration-form">Register now!</a>
+	<br><br>
 	<p>For enquiries on CGEC 2026, you may contact HortPark by phone at +65 6471 5601, or by email at <a href="mailto:nparks_hortpark@nparks.gov.sg">nparks_hortpark@nparks.gov.sg</a>.</p>
 </section>
 <br>
