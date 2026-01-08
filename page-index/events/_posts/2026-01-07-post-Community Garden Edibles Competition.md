@@ -42,8 +42,9 @@ variant: markdown
 	<p>Launched in 2015, the Community Garden Edibles Competition (CGEC) 2026 recognises the abilities of our local gardeners and showcases their excellent harvests, including uncommon and unique edibles.</p>
 	<p>Participants, be it an individual or together as a gardening group, can choose from 10 diverse 'Best Edibles' categories plus an Open Category to send in their harvest(s), showcasing the remarkable varieties of fruits and vegetables that can flourish in our urban environment.</p>
 	<p>Find out more about the <a target="_blank" href="https://go.gov.sg/cgec-rulesandregulation2026">CGEC 2026 Rules &amp; Regulations</a> and <a target="_blank" href="https://go.gov.sg/cgec-faq2026">FAQs</a>.</p>
+	<p>Registration is open from <strong>12 January 2026 to 13 May 2026.</strong></p>
+	<a class="button-primary" href="https://go.gov.sg/cgec2026-registration-form">Register now!</a>
 	<p>For enquiries on CGEC 2026, you may contact HortPark by phone at +65 6471 5601, or by email at <a href="mailto:nparks_hortpark@nparks.gov.sg">nparks_hortpark@nparks.gov.sg</a>.</p>
 </section>
 <br>
-<img src="/images/HortFest%20images/cgec_2025_poster_extended_deadline.jpg"> 
-<p>Find out more about the <a target="_blank" href="https://go.gov.sg/cgec2025-rulesandregulations">CGEC 2025 Rules &amp; Regulations</a> and <a target="_blank" href="https://go.gov.sg/cgec2025-faq">FAQs</a>.</p>
+<img src="/images/Events/CGEC/cgec 2026 poster.jpg"> 
