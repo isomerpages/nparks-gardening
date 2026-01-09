@@ -1,5 +1,4 @@
 collections:
   hortfest-2025:
     output: true
-    order:
-      - Horticultural Competition.md
+    order: []
