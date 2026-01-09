@@ -75,10 +75,10 @@ variant: markdown
 	<div class="box">
 		<h5>Horticultural Festival</h5>
 		<img src="/images/HortFest%20images/hortfest_event_card.png"><br>
-		Celebrate horticultural excellence and the local gardening community at the Horticultural Festival 2025.<br><br>
+		The Horticultural Festival 2025 celebrated horticultural excellence and the local gardening community.<br><br>
 		📆 <b>Date: </b>23-31 August 2025<br>
 		🌳 <b>Venue: </b>HortPark<br><br>
-				<a class="button-primary" href="/hortfest-2025/">More details here!</a>
+				<a class="button-primary" href="/hortfest-2025/">View highlights</a>
 	</div>
 	<div class="box">
 		<h5>Horticultural Competition 2025</h5>
