@@ -1,8 +1,11 @@
 ---
-title: HortFest 2025
-permalink: /hortfest-2025/
-variant: markdown
+title: HortFest
+permalink: /hortfest/
+date: 2025-08-23
+layout: post
 description: ""
+image: ""
+variant: markdown
 ---
 <style>
 	.wrapper {
@@ -71,13 +74,13 @@ description: ""
 			<h5>Community Garden Edibles Competition 2025</h5>
 			<img style="width:auto; display:inline" src="/images/HortFest%20images/CGEC_2025_Card.jpg">
 			<br><br>
-				<a class="button-primary" href="/community-garden-edibles-competition-2025/">Find out more</a><br>
+				<a class="button-primary" href="/community-garden-edibles-competition/">Find out more</a><br>
 </div>
 		<div class="box">
 			<h5>Horticultural Competition 2025</h5>
 			<img style="width:auto; display:inline" src="/images/HortFest%20images/Hort_Competition_Card.jpg">
 			<br><br>
-				<a class="button-primary" href="/horticultural-competition-2025/">Find out more</a>
+				<a class="button-primary" href="/horticultural-competition/">Find out more</a>
 </div>
 	</div>
 </section>

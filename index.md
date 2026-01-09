@@ -13,23 +13,23 @@ sections:
       subtitle: Let's get growing!
       background: /images/banner_31oct_bright1.png
   - infopic:
-      title: CIB20
-      subtitle: Growing community together
+      title: Community Garden Edibles Competition 2026
       id: infopic
-      description: Celebrate 20 years of Community in Bloom (CIB)
-      button: Join us now!
+      description: Put your gardening skills to the test!
+      button: Find out more
+      image: /images/Graphics/grow_together.png
+      alt: Image alt text
+      url: /community-garden-edibles-competition
+      subtitle: Ready, set, grow!
+  - infopic:
+      title: CIB20
+      subtitle: Growing together since 2005
+      id: infopic
+      description: Celebrating 20 years of Community in Bloom (CIB)
+      button: View highlights
       url: /cib20
       image: /images/Landing_page/CIB20_logo_landing_middle.png
       alt: Image alt text
-  - infopic:
-      title: HortFest 2025
-      subtitle: See you there!
-      id: infopic
-      description: Celebrating horticultural excellence and community
-      button: Find out more
-      image: /images/Landing_page/hortfest_logo_landing_middle.png
-      alt: Image alt text
-      url: /hortfest-2025
   - infopic:
       title: Not sure what to grow?
       subtitle: Grow with the flow

@@ -2,16 +2,13 @@
 title: Sowing and Harvest Planner
 permalink: /digital-tools/sowing-planner/
 description: ""
+variant: markdown
 ---
-<section>
-	<p>Looking to plan your gardening schedule? Use our planners to:</p>
-	<ul>
-		<li>Find the estimated day you should sow seeds in relation to your planned harvest date</li>
-		<li>Find your estimated harvest date in relation to when you started your seeds</li>
-	</ul>
-	<p>Please note that all planner calculations are suggestions, and that the environmental conditions of your garden, like the <a href="/page-index/horticulture-techniques/gauging-light/">amount of light</a> you receive, how much <a href="/page-index/horticulture-techniques/plant-spacing/">space</a> you have, and your <a href="/page-index/horticulture-techniques/fertilising/">fertilising</a> schedule, may affect the rate at which your plant reaches its harvesting stage. Different crops will have different signs for when they are harvestable, so it is best to <a href="/page-index/glossary/edible-plants/">read up on your plants</a> to determine when you should harvest.</p>
+<h5><i>Sowing and Harvest Planner - Temporarily Unavailable</i></h5>
 
-<iframe style="width:100%;height:700px" src="https://www.checkfirst.gov.sg/c/46cbf5a5-b931-4d90-8ac9-d0e2f37fbbfb"></iframe>
+<p>Our sowing and harvest planners are currently unavailable due to the decommissioning of the CheckFirst platform on 29 December 2025.</p>
 
-<iframe style="width:100%;height:800px" src="https://www.checkfirst.gov.sg/c/da481a2d-9842-4e71-b39a-3a0702cd6a2f"></iframe>
-</section>
+<p>Looking to plan your gardening schedule? Use these alternative resources:
+</p><ul><li>Our <a target="_blank" href="https://go.gov.sg/best-practices-edible-gardening">Horticulture Best Practices for Edible Gardening</a> e-guide and the <a href="https://gardeningsg.nparks.gov.sg/page-index/glossary/edible-plants/">individual plant pages</a></li>
+	<li>Seed packet instructions on growing timelines</li>
+	<li>Local nursery advice for your specific conditions</li></ul>
