@@ -83,10 +83,10 @@ variant: markdown
 	<div class="box">
 		<h5>Horticultural Competition 2025</h5>
 		<img src="/images/HortFest%20images/Hort_Competition_Card.jpg"><br>
-		Demonstrate your green thumbs and display your prized plants across four plant categories. Compete for coveted awards and medals, including the prestigious City in Nature Challenge Cup!<br><br>
+		Gardeners demonstrated their green thumbs and displayed their prized plants across four plant categories, competing for coveted awards and medals, including the prestigious City in Nature Challenge Cup!<br><br>
 		📆 <b>Registration: </b> til 14 August 2025<br>
 		🌿 <b>Submission: </b>21 August 2025 (9am-5pm)
 		<br><br>
-		<a class="button-primary" href="/horticultural-competition-2025/">Sign up now!</a>
+		<a class="button-primary" href="/horticultural-competition-2025/">View results</a>
 	</div>
 	</div>
