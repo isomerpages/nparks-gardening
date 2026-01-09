@@ -67,10 +67,10 @@ variant: markdown
   <div class="box">
 		<h5>Grow and Share Initiative</h5>
 		<img src="/images/CIB20/grownshare_event_card.png"><br>
-		Take part in <a href="/grow-and-share-initiative/">Grow and Share</a> activities happening across Singapore, in celebration of the 20th anniversary of the <a href="/get-involved/community-gardens/">Community in Bloom (CIB) programme</a>!<br><br>
+		 <a href="/grow-and-share-initiative/">Grow and Share</a> activities took place across Singapore in celebration of the 20th anniversary of the <a href="/get-involved/community-gardens/">Community in Bloom (CIB) programme</a>!<br><br>
 		📆 <b>Date: </b>13 March - 15 November 2025<br>
 		🌳 <b>Venue: </b>Islandwide<br><br>
-		<a class="button-primary" href="/explore-g-s-events/">Browse activities here!</a>
+		<a class="button-primary" href="/explore-g-s-events/">Browse activities</a>
 	</div>
 	<div class="box">
 		<h5>Horticultural Festival</h5>
