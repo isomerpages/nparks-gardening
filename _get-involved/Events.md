@@ -78,7 +78,7 @@ variant: markdown
 		The Horticultural Festival 2025 celebrated horticultural excellence and the local gardening community.<br><br>
 		📆 <b>Date: </b>23-31 August 2025<br>
 		🌳 <b>Venue: </b>HortPark<br><br>
-				<a class="button-primary" href="/hortfest-2025/">View highlights</a>
+				<a class="button-primary" href="/hortfest/">View highlights</a>
 	</div>
 	<div class="box">
 		<h5>Horticultural Competition 2025</h5>
@@ -87,6 +87,6 @@ variant: markdown
 		📆 <b>Registration: </b> til 14 August 2025<br>
 		🌿 <b>Submission: </b>21 August 2025 (9am-5pm)
 		<br><br>
-		<a class="button-primary" href="/horticultural-competition-2025/">View results</a>
+		<a class="button-primary" href="/horticultural-competition/">View results</a>
 	</div>
 	</div>
