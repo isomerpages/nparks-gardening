@@ -35,7 +35,7 @@ variant: markdown
 <img src="/images/HortFest%20images/HortPark_MarketPlace.jpg">
 <br>
 <header>
-	<h4>HortFest MarketPlace: Your Gateway to Singapore's Garden Community
+	<h4>HortFest MarketPlace 2025: Your Gateway to Singapore's Garden Community
 </h4></header>
 
 <p>View HortFest 2025 MarketPlace <a target="_blank" href="/files/HortFest%20files/HortFest_2025_Marketplace_Vendor_Listing.pdf">vendor listing</a></p>
