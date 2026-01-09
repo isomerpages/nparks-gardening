@@ -37,7 +37,7 @@ variant: markdown
 		Put your gardening skills to the test in our annual competition! Grow your finest fruits, vegetables or herbs and stand a chance to win fantastic prizes.<br><br>
 		📆 <b>Registration: </b> til 13 May 2026<br>
 		🍅 <b>Submission: </b>29 June 2026<br><br>
-		<a class="button-primary" href="/community-garden-edibles-competition-2025/">Interested to compete?</a>
+		<a class="button-primary" href="/community-garden-edibles-competition/">Interested to compete?</a>
 	</div>
 	<div class="box">
 		<h5>Gardeners’ Day Out</h5>
