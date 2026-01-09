@@ -22,7 +22,7 @@ variant: markdown
 <p>The Horticultural Competition 2025 returns for its third run since its launch in 2019. The competition invites gardening enthusiasts of all skill levels to demonstrate their green-thumbs across four plant categories: Air Plants, Aroids, Begonias and Succulents.</p>
 <p> Participants can compete for coveted awards and medals, with the ultimate prize being the prestigious City in Nature Challenge Cup.</p> 
 <h5>Results</h5>
-<p>View our Horticultural Competition 2025 winners <a target="_blank" href="https://go.gov.sg/hortcompetition2025-results">here</a> and come check out the winning entries featured at our Winners' Showcase at <a href="/hortfest-2025/">HortFest 2025</a>!</p>	
+<p>View our Horticultural Competition 2025 winners <a target="_blank" href="https://go.gov.sg/hortcompetition2025-results">here</a> and come check out the winning entries featured at our Winners' Showcase at <a href="/hortfest/">HortFest 2025</a>!</p>	
 <p>If you have any questions, email us at <a href="mailto:Hort_Competition2025@nparks.gov.sg">Hort_Competition2025@nparks.gov.sg</a>.</p>
 </section>
 <br>
