@@ -76,6 +76,12 @@ details[open] > summary {
 
 <p>Follow our social media channels and stay tuned for more updates!</p>
 
+<p><strong><u>Previous Application Exercise - December 2025</u></strong></p>
+	
+<p>All applicants from the December 2025 Application Exercise have been notified of their application outcome via email from AXS. Applicants are encouraged to check their email inbox and junk folders.</p>
+
+<p>For questions related to the December 2025 Application Exercise, please contact <strong>AXS Customer Service at 6560 2727 (8.30am - 6pm daily).</strong></p>
+
 
 <p></p><h4>Implementing Allotment Gardens</h4>
 <p>Are you an organisation or grassroot leader who is keen to implement allotment gardens within your premise or housing estate? Check out the ‘<a href="https://go.gov.sg/guide-to-design-allotment-gardens">Guide to Designing and Implementing Allotment Gardens</a>’ to find out how you can do so under the <a href="https://go.gov.sg/community-in-bloom">Community in Bloom</a> programme with your landowner’s support now!</p>
