@@ -71,7 +71,7 @@ details[open] > summary {
 
 <h4>How can I apply for an allotment garden plot?</h4>
 
-
+<p>Information on the application exercise will available on this webpage when there is an upcoming exercise.</p>
 
 <p><strong><u>Future Application Exercise</u></strong></p>
 <p>The next application exercise will be in the 4th Quarter of 2026. Follow our social media channels and stay tuned for more updates!
