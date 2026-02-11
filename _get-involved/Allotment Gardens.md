@@ -72,13 +72,13 @@ details[open] > summary {
 <h4>How can I apply for an allotment garden plot?</h4>
 
 <p><strong><u>Future Application Exercise</u></strong></p>
-<p>The next application exercise will be in the 4th Quarter of 2026. More information on the application process will available on this webpage.</p>
+<p>The next application exercise will be in the 4th Quarter of 2026. More information on the application process will available on this webpage closer to the application period.</p>
 
 <p>Follow our social media channels and stay tuned for more updates!</p>
 
 <p><strong><u>Previous Application Exercise - December 2025</u></strong></p>
 	
-<p>All applicants from the December 2025 Application Exercise have been notified of their application outcome via email from AXS. Applicants are encouraged to check their email inbox and junk folders.</p>
+<p>All applicants from the December 2025 Application Exercise have been notified of their application outcome via email from AXS. Applicants are encouraged to check their email inbox and junk folders for the notification.</p>
 
 <p>For questions related to the December 2025 Application Exercise, please contact <strong>AXS Customer Service at 6560 2727 (8.30am - 6pm daily).</strong></p>
 
