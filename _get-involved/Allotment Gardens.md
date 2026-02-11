@@ -71,13 +71,13 @@ details[open] > summary {
 
 <h4>How can I apply for an allotment garden plot?</h4>
 
-<p>Information on the application exercise will available on this webpage when there is an upcoming exercise.</p>
-
 <p><strong><u>Future Application Exercise</u></strong></p>
-<p>The next application exercise will be in the 4th Quarter of 2026. Follow our social media channels and stay tuned for more updates!
+<p>The next application exercise will be in the 4th Quarter of 2026. More information on the application process will available on this webpage.</p>
+
+<p>Follow our social media channels and stay tuned for more updates!</p>
 
 
-</p><h4>Implementing Allotment Gardens</h4>
+<p></p><h4>Implementing Allotment Gardens</h4>
 <p>Are you an organisation or grassroot leader who is keen to implement allotment gardens within your premise or housing estate? Check out the ‘<a href="https://go.gov.sg/guide-to-design-allotment-gardens">Guide to Designing and Implementing Allotment Gardens</a>’ to find out how you can do so under the <a href="https://go.gov.sg/community-in-bloom">Community in Bloom</a> programme with your landowner’s support now!</p>
 
 <p></p><h4>Frequently Asked Questions (FAQs)</h4>
