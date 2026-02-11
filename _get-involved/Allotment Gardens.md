@@ -71,148 +71,19 @@ details[open] > summary {
 
 <h4>How can I apply for an allotment garden plot?</h4>
 
-<p><strong><u>December 2025 Application Exercise</u> (Closed)</strong></p>
+<p><strong><u>Future Application Exercise</u></strong></p>
+<p>The next application exercise will be in the 4th Quarter of 2026. More information on the application process will available on this webpage closer to the application period.</p>
 
-<p>Applications for allotment garden plots are <b>open from 2 December 2025, 10.00am to 15 December 2025, 11.59pm</b> for the following locations:</p>
+<p>Follow our social media channels and stay tuned for more updates!</p>
 
-<table>
-	<thead>
-	<tr>
-		<th>S/N</th>
-		<th>Park Name</th>
-		<th>No. of plots</th>
-		<th>Estimated Temporary Occupancy Licence (TOL) Start Date</th>
-	</tr>
-	</thead>
-	<tbody>
-	<tr>
-		<td>1</td>
-		<td>Ang Mo Kio Town Garden West</td>
-		<td style="text-align:center">2</td>
-		<td style="text-align:center">Q1 2026</td>		
-	</tr>
-	<tr>
-		<td>2</td>
-		<td>Bedok Reservoir Park</td>
-		<td style="text-align:center">1</td>
-		<td style="text-align:center">Q1 2026</td>
-	</tr>
-	<tr>
-		<td>3</td>
-		<td>Bishan-Ang Mo Kio Park</td>
-		<td style="text-align:center">2</td>
-		<td style="text-align:center">Q1 2026</td>
-	</tr>
-	<tr>
-		<td>4</td>
-		<td>Bukit Canberra (New!)</td>
-		<td style="text-align:center">50</td>
-		<td style="text-align:center">Q1 2026</td>
-	</tr>
-	<tr>
-		<td>5</td>
-		<td>Bukit Gombak Park</td>
-		<td style="text-align:center">1</td>
-		<td style="text-align:center">Q1 2026</td>
-	</tr>
-	<tr>
-		<td>6</td>
-		<td>East Coast Park Area A</td>
-		<td style="text-align:center">34</td>
-		<td style="text-align:center">Q1 2026</td>
-	</tr>
-	<tr>
-		<td>7</td>
-		<td>East Coast Park Area D</td>
-		<td style="text-align:center">1</td>
-		<td style="text-align:center">Q1 2026</td>		
-	</tr>
-	<tr>
-		<td>8</td>
-		<td>Jurong Central Park</td>
-		<td style="text-align:center">2</td>
-		<td style="text-align:center">Q1 2026</td>		
-	</tr>
-	<tr>
-		<td>9</td>
-		<td>Jurong Lake Gardens</td>
-		<td style="text-align:center">8</td>
-		<td style="text-align:center">Q1 2026</td>		
-	</tr>
-	<tr>
-		<td>10</td>
-		<td>Kent Ridge Park</td>
-		<td style="text-align:center">14</td>
-		<td style="text-align:center">Q1 2026</td>		
-	</tr>
-	<tr>
-		<td>11</td>
-		<td>one-north Park</td>
-		<td style="text-align:center">1</td>
-		<td style="text-align:center">Q1 2026</td>				
-	</tr>
-	<tr>
-		<td>12</td>
-		<td>Punggol Park</td>
-		<td style="text-align:center">5</td>
-		<td style="text-align:center">Q1 2026</td>		
-	</tr>
-	<tr>
-		<td>13</td>
-		<td>Sembawang Park</td>
-		<td style="text-align:center">21</td>
-		<td style="text-align:center">Q1 2026</td>		
-	</tr>
-	<tr>
-		<td>14</td>
-		<td>West Coast Park</td>
-		<td style="text-align:center">2</td>
-		<td style="text-align:center">Q1 2026</td>		
-	</tr>
-	<tr>
-		<td>15</td>
-		<td>Woodlands Waterfront Park</td>
-		<td style="text-align:center">1</td>
-		<td style="text-align:center">Q1 2026</td>		
-	</tr>
-	<tr>
-		<td>16</td>
-		<td>Yishun Park</td>
-		<td style="text-align:center">3</td>
-		<td style="text-align:center">Q1 2026</td>		
-	</tr>
-	</tbody>
-</table>
-
-<p>For the exact locations of the allotment gardens within each park, please refer to the map above.</p>
-
-<p>If you are interested to lease a plot in any of the above parks, please submit your application by <b>15 December 2025 (Monday), 11.59pm</b> via any of the following AXS Channels:</p>
-<ul>	
-<li> AXS e-Station (Website at <a href="https://e-station2.axs.com.sg">https://e-station2.axs.com.sg</a>);</li>
-<li> AXS m-Station (Mobile application) available on App Store, Google Play and App Gallery; or</li>
-<li>AXS Station (Kiosk) found islandwide (click <a href="https://www.axs.com.sg/axs-station-locations/">here</a> to find one nearest to you).</li>
-</ul>
-
-<p>More information on the application terms and conditions (T&amp;Cs) are available in the application system. You are reminded to read the instructions and T&amp;Cs carefully before submitting an application.</p>
+<p><strong><u>Previous Application Exercise - December 2025</u></strong></p>
 	
-
-<p>For step-by-step guides on how to apply or make payment for the allotment garden plot application via AXS Channels, please click below:</p>
-<ul>
-	<li><a href="https://go.gov.sg/nparks-ag-plot-how-to-apply-axs">How to apply</a></li>
-	<li><a href="https://go.gov.sg/nparks-ag-plot-how-to-pay-axs">How to make payment</a> (for successful applicants only)</li>
-</ul>
-
-<p><strong>Applications are now closed.</strong> Plots will be assigned by via ballot.
-
-</p><p>Successful applicants will be notified via email from AXS within 1 month from the application closing date, whilst unsuccessful applicants will be notified within 3 months. <strong>Applicants are encouraged to check their email inbox and junk folders regularly.</strong></p>
+<p>All applicants from the December 2025 Application Exercise have been notified of their application outcome via email from AXS. Applicants are encouraged to check their email inbox and junk folders for the notification.</p>
 
 <p>For questions related to the December 2025 Application Exercise, please contact <strong>AXS Customer Service at 6560 2727 (8.30am - 6pm daily).</strong></p>
 
-<p><strong><u>Future Application Exercise</u></strong></p>
-<p>More details will be shared when ready. Follow our social media channels and stay tuned for more updates!
 
-
-</p><h4>Implementing Allotment Gardens</h4>
+<p></p><h4>Implementing Allotment Gardens</h4>
 <p>Are you an organisation or grassroot leader who is keen to implement allotment gardens within your premise or housing estate? Check out the ‘<a href="https://go.gov.sg/guide-to-design-allotment-gardens">Guide to Designing and Implementing Allotment Gardens</a>’ to find out how you can do so under the <a href="https://go.gov.sg/community-in-bloom">Community in Bloom</a> programme with your landowner’s support now!</p>
 
 <p></p><h4>Frequently Asked Questions (FAQs)</h4>
