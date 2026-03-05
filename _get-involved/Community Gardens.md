@@ -90,7 +90,7 @@ variant: markdown
 		</ul>
 		<strong>Gardens in the South East CDC:</strong>
 		<ul>
-			<li><a href="https://southeast.cdc.gov.sg/what-we-do/future-ready/sustainable-living-south-east/"> Sustainable Living @ South East Grant </a></li>
+			<li><a href="https://southeast.cdc.gov.sg/what-we-do/sustainable-living-south-east/"> Sustainable Living @ South East Grant </a></li>
 		</ul>																																															
 	</div></li>
 	<li><input type="checkbox" id="accordion6">
