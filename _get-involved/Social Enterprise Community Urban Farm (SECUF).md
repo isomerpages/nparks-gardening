@@ -60,7 +60,7 @@ details[open] > summary {
 		</div></li>
 		<li><input type="checkbox" id="accordion2">
 		<label for="accordion2">Effective Date</label><div>
-			<p>The grant is effective from 15 November 2021 and will expire on 31 March 2026 or when the grant funds are fully disbursed, whichever is earlier. Participation in the scheme will be on a first-come, first-serve basis, subject to the availability of funds.</p>
+			<p>The grant is effective from 15 November 2021 and will expire on 31 March 2028 or when the grant funds are fully disbursed, whichever is earlier. Participation in the scheme will be on a first-come, first-serve basis, subject to the availability of funds.</p>
 		</div></li>
 		<li><input type="checkbox" id="accordion3">
 		<label for="accordion3">Eligibilty Criteria</label><div>
