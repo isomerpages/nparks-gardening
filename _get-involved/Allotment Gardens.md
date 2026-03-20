@@ -294,11 +294,11 @@ details[open] > summary {
 				<p style="margin-top: 5px; margin-bottom: 25px">A Letter of Offer will be sent to all successful applicants via email from AXS. Payment mode will be via any AXS Channels – e-Station (Website at https://e-station2.axs.com.sg/), m-Station (Mobile application, or AXS Station (Kiosk) found island-wide. The payment instructions will be provided in the Letter of Offer.</p>
 			</details>
 			<details>
-				<summary>Is the price of the allotment garden plot lease fixed at $62.13 (inclusive of GST) per year?</summary>
+				<summary>Is the price of the allotment garden plot lease fixed at $65.40 (inclusive of GST) per year?</summary>
 				<p style="margin-top: 5px; margin-bottom: 25px">The allotment garden plot fees are subject to annual market valuation. Once you have paid for your lease period, your annual fee will remain fixed at the rate you signed up for until your lease expires.</p> 
 				<p>For example: 
 				</p><ul>
-				<li>If you sign up when the annual fee is $62.13, you will continue to pay this amount for your entire 3-year lease period</li>
+				<li>If you sign up when the annual fee is $65.40, you will continue to pay this amount for your entire 3-year lease period</li>
 					<li>When your lease expires, the renewal fee will be based on the prevailing rate for that year</li>
 					<li>New gardeners will pay the prevailing rate at the time of their registration</li></ul><p></p>
 			</details>
