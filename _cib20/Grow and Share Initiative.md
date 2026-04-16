@@ -49,7 +49,8 @@ Registration for the CIB programme is free! <a href="https://gardeningsg.nparks.
 					 <li> Sustainability</li>
 					 <li>Community sharing</li>
 					 <li>Artistry</li></ol></ul>
-
+<h4><b>Timeline</b></h4>
+		
 		
 		You may submit details of event(s) that take place between 1 January and 31 December 2026
 2. Community impact
