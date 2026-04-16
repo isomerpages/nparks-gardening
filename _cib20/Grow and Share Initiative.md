@@ -93,4 +93,16 @@ Eligible gardening groups which have completed the above will receive a G&amp;S 
 		<li><b>CULTIVATE</b> knowledge and skills</li>
 		<ul><li>Transform our gardens into living classrooms and exchange horticultural knowledge</li></ul>
 		</ol><br></section>
-
+<section>
+	<h3><b>Frequently asked questions for G&amp;S Initiative 2026</b></h3>	
+		<ul class="jekyllcodex_accordion">
+	<li><input type="checkbox" id="accordion1">
+		<label for="accordion1">Can my planning team have less than 5 people? </label><div>
+		<p>The minimum group size is 5 to promote collective planning and continuity of a gardening group. If you have reasons for having a smaller group, please contact your CIB district manager.</p></div></li>
+			<li><input type="checkbox" id="accordion2">
+				<label for="accordion2">Can I submit events that were conducted before 17 April 2026? </label><div>
+					<p>Yes, all events between 1 January 2026 and 31 December 2026 are eligible for participation in G&amp;S Initiative 2026. </p></div></li>
+			<li><input type="checkbox" id="accordion3">
+				<label for="accordion3">I don’t have space to conduct the workshop in the garden. Can I hold it in the RC or void deck?</label><div>
+					<p>You can use any space as long as garden elements are featured during the event (e.g. soil, leaves, pots, cuttings). Do remember to obtain permission from the relevant authorities before using public spaces.</p></div></li>
+</ul></section>
