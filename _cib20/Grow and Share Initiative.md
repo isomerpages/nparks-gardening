@@ -31,24 +31,32 @@ description: Celebrate 20 years of Community in Bloom by sharing the joy of
 Registration for the CIB programme is free! <a href="https://gardeningsg.nparks.gov.sg/contact-us/">Reach out to us</a> if you have not registered. 
 </p>
 <h4><b>Event criteria</b></h4>
-	<p>1. Time period: 
--	You may submit details of event(s) that take place between 1 January and 31 December 2026.
-		
-		You may submit details of event(s) that take place between 1 January and 31 December 2026
-2. Community impact
-•	Planning team: A minimum of 5 members, including at least 1 garden leader.
-•	Participant outreach: The event should cater for minimally 15 attendees excluding the organisers. 
-3. Garden event category 
-•	Your event should fall under one of the 6 garden event categories listed:
+	<ol>
+<li>Time period</li> 
+		<ul>
+		<li>You may submit details of event(s) that take place between 1 January and 31 December 2026.</li></ul>
+		<li>Community impact</li>	
+		<ul>
+			<li>Planning team: A minimum of 5 members, including at least 1 garden leader.</li>
+			<li>Participant outreach: The event should cater for minimally 15 attendees</li></ul>
+		<li>Garden event category</li>
+		<ul>
+			<li>Your event should fall under one of the 6 garden event categories listed:</li></ul>
 i)	Educational 
 ii)	Cultural celebration
 iii)	Health &amp; wellness
 iv)	Sustainability
 v)	Community sharing 
 vi)	Artistry
+		
+		You may submit details of event(s) that take place between 1 January and 31 December 2026
+2. Community impact
+•	Planning team: A minimum of 5 members, including at least 1 garden leader.
+•	Participant outreach: The event should cater for minimally 15 attendees excluding the organisers. 
 
-</p>
-	</section>
+
+<p></p>
+	</ol></section>
 	
 <section>
 	<h4>Objectives of Grow and Share</h4>
