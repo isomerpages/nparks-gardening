@@ -20,8 +20,14 @@ description: Celebrate 20 years of Community in Bloom by sharing the joy of
 <section>
 	<h4><b>How to participate?</b></h4>
 <p> Organise at least <b> 1 gardening-related community event</b> in or around your community garden. </p>
-<h4><b>Eligibility criteria</b></h4>
-<p>If you are part of a community gardening group, join us in celebrating 20 years of CIB from March to November this year, by organising at least one gardening-related event for your community! Be one of the first 800 groups to participate to be eligible for a starter pack and a celebration pack.</p><br>
+<h4><b>Eligibility</b></h4>
+<p>To participate, your group must be registered in the Community In Bloom (CIB) programme, and should be supported by a managing group. The list of managing groups includes:
+	
+-	Residents’ Networks (RNs) and Residents’ Committees (RCs),
+-	Neighbourhood Committees (NCs) and Condominium MCSTs,
+-	Organisations, including other government agencies, private companies, healthcare facilities or
+-	Educational institutions, including preschools, primary schools, secondary schools and tertiary institutions
+</p><br>
 	</section>
 	
 <section>
