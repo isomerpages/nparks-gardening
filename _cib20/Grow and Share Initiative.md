@@ -22,14 +22,14 @@ description: Celebrate 20 years of Community in Bloom by sharing the joy of
 <p> Organise at least <b> 1 gardening-related community event</b> in or around your community garden. </p>
 <h4><b>Eligibility</b></h4>
 <p>To participate, your group must be registered in the Community In Bloom (CIB) programme, and should be supported by a managing group. The list of managing groups includes:
-	
--	Residents’ Networks (RNs) and Residents’ Committees (RCs),
--	Neighbourhood Committees (NCs) and Condominium MCSTs,
--	Organisations, including other government agencies, private companies, healthcare facilities or
--	Educational institutions, including preschools, primary schools, secondary schools and tertiary institutions
+</p><ul>	
+	<li>Residents’ Networks (RNs) and Residents’ Committees (RCs),</li>
+	<li>Neighbourhood Committees (NCs) and Condominium MCSTs,</li>
+<li>Organisations, including other government agencies, private companies, healthcare facilities or</li>
+<li>Educational institutions, including preschools, primary schools, secondary schools and tertiary institutions</li></ul>
 	
 Registration for the CIB programme is free! <a href="https://gardeningsg.nparks.gov.sg/contact-us/">Reach out to us</a> if you have not registered. 
-</p>
+<p></p>
 <h4><b>Event criteria</b></h4>
 	<ol>
 <li>Time period</li> 
@@ -49,8 +49,8 @@ Registration for the CIB programme is free! <a href="https://gardeningsg.nparks.
 					 <li> Sustainability</li>
 					 <li>Community sharing</li>
 					 <li>Artistry</li></ol></ul>
-		</ol></section>
-	<br><br>	
+</ol></section>
+	<p></p>	
 <section>
 <h3><b>Timeline</b></h3>
 	<img src="/images/CIB20/G_S_Timeline_ppt.png">	
@@ -75,7 +75,7 @@ Eligible gardening groups which have completed the above will receive a G&amp;S 
 		 <li>Batch 3 (for post-event forms submitted after 2 November 2026): receive by January 2027</li></ul></ul>
 </section>
 <h3><b>G&amp;S resources and support</b></h3>
-	We are here to support you every step of the way! Here are the resources available to help make your G&amp;S journey successful:
+	<p>We are here to support you every step of the way! Here are the resources available to help make your G&amp;S journey successful:</p>
 	<ul>
 <li>Getting started guide – New to G&amp;S? Check out our <a href="https://go.gov/sg/cibgrowandsharebriefingslides"> briefing slides</a> for helpful tips on planning your event and completing the registration form.</li> 
 <li>Your starter pack – Once your garden group registers <a href="https://go.gov/sg/cibgrowandshareeventcategories">an eligible event</a>, our CIB team will contact you with details on collecting your G&amp;S starter pack. Each garden group receives one starter pack, regardless of how many events you organise.</li>
