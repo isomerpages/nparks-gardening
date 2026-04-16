@@ -62,6 +62,18 @@ Registration for the CIB programme is free! <a href="https://gardeningsg.nparks.
 If your event is open to the public, we would love to help you reach more people! We can feature your event information on our Explore G&amp;S page to boost visibility and encourage community participation.
 				 <li>Receive your G&amp;S starter pack</li> 
 To support you in your G&amp;S events, NParks will be giving out a G&amp;S starter pack. Please indicate interest for the G&amp;S starter pack through the registration form. Once your event details have been confirmed by NParks, the CIB team will reach out with information on how you can collect the G&amp;S starter pack.</ol></ul>
+	<h4><b>Step 2: Conduct your event </b></h4>
+	Time to bring your gardening event to life! Remember to capture those special moments with plenty of photographs.
+		<h4><b>Step 3: Submit your event entries </b></h4>
+	After the event, submit a post-event form with <b>2 photographs</b> and event details by <b>11 January 2027</b>. The post-event form link will be sent to garden groups who have completed a G&amp;S event.
+	  <ul style="margin-left: 20px;"><ol style="list-style-type: lower-alpha;">
+			<li>Receive your G&amp;S appreciation pack</li>
+Eligible gardening groups which have completed the above will receive a G&amp;S appreciation pack and an e-certificate. The G&amp;S appreciation pack will be delivered in three batches:</ol></ul>
+	 <ul style="margin-left: 30px;"><ul style="list-style-type: disc;">
+		 <li>Batch 1 (for post-event forms submitted before 18 May 2026): receive by May 2026</li>
+		 <li>Batch 2 (for post-event forms submitted by 2 November 2026): receive by November 2026</li>
+		 <li>Batch 3 (for post-event forms submitted after 2 November 2026): receive by January 2027</li></ul></ul>
+
 
 2. Community impact
 •	Planning team: A minimum of 5 members, including at least 1 garden leader.
