@@ -105,4 +105,10 @@ Eligible gardening groups which have completed the above will receive a G&amp;S 
 			<li><input type="checkbox" id="accordion3">
 				<label for="accordion3">I don’t have space to conduct the workshop in the garden. Can I hold it in the RC or void deck?</label><div>
 					<p>You can use any space as long as garden elements are featured during the event (e.g. soil, leaves, pots, cuttings). Do remember to obtain permission from the relevant authorities before using public spaces.</p></div></li>
+			<li><input type="checkbox" id="accordion4">
+				<label for="accordion4">Will I get any support from NParks to organise my events? </label><div>
+					<p>The first 300 CIB groups to complete the registration form will be entitled to one G&amp;S starter pack to support event preparations. Please refer to details within the <a href="https://go.gov.sg/cibgrowandshareregistration"> registration form</a> on how to collect the starter pack. Please note that each CIB group can only receive one starter pack, regardless of the number of events submitted.</p></div></li>
+			<li><input type="checkbox" id="accordion5">
+				<label for="accordion5">What events are suitable for publicity on the <a href="https://go.gov.sg/exploregsevents"> Explore G&amp;S</a> webpage? </label><div>
+					<p>Only events that are open to the general public will be featured on the G&amp;S webpage. Please also note that events submitted with less than three weeks lead time may not be featured.</p></div></li>
 </ul></section>
