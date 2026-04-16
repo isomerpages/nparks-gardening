@@ -49,6 +49,7 @@ Registration for the CIB programme is free! <a href="https://gardeningsg.nparks.
 					 <li> Sustainability</li>
 					 <li>Community sharing</li>
 					 <li>Artistry</li></ol></ul>
+		</ol></section>
 <h4><b>Timeline</b></h4>
 		
 		
@@ -59,7 +60,7 @@ Registration for the CIB programme is free! <a href="https://gardeningsg.nparks.
 
 
 <p></p>
-	</ol></section>
+	
 	
 <section>
 	<h4>Objectives of Grow and Share</h4>
