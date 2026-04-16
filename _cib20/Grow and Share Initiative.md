@@ -111,4 +111,19 @@ Eligible gardening groups which have completed the above will receive a G&amp;S 
 			<li><input type="checkbox" id="accordion5">
 				<label for="accordion5">What events are suitable for publicity on the <a href="https://go.gov.sg/exploregsevents"> Explore G&amp;S</a> webpage? </label><div>
 					<p>Only events that are open to the general public will be featured on the G&amp;S webpage. Please also note that events submitted with less than three weeks lead time may not be featured.</p></div></li>
+				<li><input type="checkbox" id="accordion6">
+				<label for="accordion6">Will NParks help to manage registrations for my event if it is publicised on the <a href="https://go.gov.sg/exploregsevents">Explore G&amp;S</a> webpage? </label><div>
+					<p>Event registrations will be directed to garden leaders or the point-of-contact listed in the G&amp;S registration form. NParks is unable to manage registrations on your behalf. </p></div></li>
+			<li><input type="checkbox" id="accordion7">
+				<label for="accordion7">How can I view the registration details that I've previously submitted? </label><div>
+					<p>You can review your submitted details through the email sent via FormSG. If not, you can reach out to the CIB team to extract the event details. </p></div></li>
+			<li><input type="checkbox" id="accordion8">
+				<label for="accordion8">Do I need to include CIB/NParks’ logo when publicising my event poster?</label><div>
+					<p>There is no need to include CIB/NParks-related logos on your community event posters. However, we encourage you and your garden leaders/volunteers to wear CIB-related identity items such as the CIB t-shirt and CIB hat while conducting your events. </p></div>
+						</li><li><input type="checkbox" id="accordion9">
+				<label for="accordion9">What is in the G&amp;S starter and appreciation pack?</label><div>
+					<p>The G&amp;S starter pack consists of outreach materials for use at your G&amp;S event. The G&amp;S appreciation pack consists of CIB20 collaterals and gardening products to support your future community gardening activities.</p></div></li>
+									<li><input type="checkbox" id="accordion10">
+				<label for="accordion10">Who can I reach out to if I have any other questions? </label><div>
+					<p>You can approach your CIB district manager or <a href="https://gardeningsg.nparks.gov.sg/contact-us/"> reach out to us.</a></p></div></li>
 </ul></section>
