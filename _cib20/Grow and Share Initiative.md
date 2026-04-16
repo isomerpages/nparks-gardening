@@ -50,10 +50,11 @@ Registration for the CIB programme is free! <a href="https://gardeningsg.nparks.
 					 <li>Community sharing</li>
 					 <li>Artistry</li></ol></ul>
 		</ol></section>
+		<section>
 <h4><b>Timeline</b></h4>
-		
-		
-		You may submit details of event(s) that take place between 1 January and 31 December 2026
+	<img src="/images/CIB20/G_S_Timeline_ppt.png">	
+	<h5><b>Step 1: Grow and Share 2026 Registration </b></h5>
+<p>Ready to bring your community together through gardening? Join us by organising at least <b>1 gardening-related event</b> for your community this year! Be among the first 300 groups to participate and receive both a Grow and Share (G&amp;S) starter pack and appreciation pack.</p>
 2. Community impact
 •	Planning team: A minimum of 5 members, including at least 1 garden leader.
 •	Participant outreach: The event should cater for minimally 15 attendees excluding the organisers. 
@@ -139,4 +140,4 @@ Proceed to implement your event and don’t forget to take plenty of photographs
 <p></p></ol>
 </section>
 
-<img src="/images/CIB20/gns_poster_w_celebration_pack.jpg">
+<img src="/images/CIB20/gns_poster_w_celebration_pack.jpg"></section>
