@@ -50,7 +50,7 @@ description: Celebrate 20 years of Community in Bloom by sharing the joy of
 					 <li>Community sharing</li>
 					 <li>Artistry</li></ol></ul>
 </ol></section>
-
+<br>
 <section>
 <h3><b>Timeline</b></h3>
 	<img src="/images/CIB20/G_S_Timeline_ppt.png">	
