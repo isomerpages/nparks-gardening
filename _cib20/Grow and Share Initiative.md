@@ -28,8 +28,8 @@ description: Celebrate 20 years of Community in Bloom by sharing the joy of
 <li>Organisations, including other government agencies, private companies, healthcare facilities or</li>
 <li>Educational institutions, including preschools, primary schools, secondary schools and tertiary institutions</li></ul>
 	
-Registration for the CIB programme is free! <a href="https://gardeningsg.nparks.gov.sg/contact-us/">Reach out to us</a> if you have not registered. 
-<p></p>
+<p></p><h5>Registration for the CIB programme is free! <a href="https://gardeningsg.nparks.gov.sg/contact-us/">Reach out to us</a> if you have not registered.</h5><p></p>
+
 <h4><b>Event criteria</b></h4>
 	<ol>
 <li>Time period</li> 
@@ -50,7 +50,7 @@ Registration for the CIB programme is free! <a href="https://gardeningsg.nparks.
 					 <li>Community sharing</li>
 					 <li>Artistry</li></ol></ul>
 </ol></section>
-	<p></p>	
+
 <section>
 <h3><b>Timeline</b></h3>
 	<img src="/images/CIB20/G_S_Timeline_ppt.png">	
@@ -63,9 +63,9 @@ If your event is open to the public, we would love to help you reach more people
 				 <li>Receive your G&amp;S starter pack</li> 
 To support you in your G&amp;S events, NParks will be giving out a G&amp;S starter pack. Please indicate interest for the G&amp;S starter pack through the registration form. Once your event details have been confirmed by NParks, the CIB team will reach out with information on how you can collect the G&amp;S starter pack.</ol></ul>
 	<h4><b>Step 2: Conduct your event </b></h4>
-	Time to bring your gardening event to life! Remember to capture those special moments with plenty of photographs.
+	<p>Time to bring your gardening event to life! Remember to capture those special moments with plenty of photographs.</p>
 		<h4><b>Step 3: Submit your event entries </b></h4>
-	After the event, submit a post-event form with <b>2 photographs</b> and event details by <b>11 January 2027</b>. The post-event form link will be sent to garden groups who have completed a G&amp;S event.
+<p>After the event, submit a post-event form with <b>2 photographs</b> and event details by <b>11 January 2027</b>. The post-event form link will be sent to garden groups who have completed a G&amp;S event.</p>
 	  <ul style="margin-left: 20px;"><ol style="list-style-type: lower-alpha;">
 			<li>Receive your G&amp;S appreciation pack</li>
 Eligible gardening groups which have completed the above will receive a G&amp;S appreciation pack and an e-certificate. The G&amp;S appreciation pack will be delivered in three batches:</ol></ul>
@@ -75,12 +75,13 @@ Eligible gardening groups which have completed the above will receive a G&amp;S 
 		 <li>Batch 3 (for post-event forms submitted after 2 November 2026): receive by January 2027</li></ul></ul>
 </section>
 <h3><b>G&amp;S resources and support</b></h3>
-	<p>We are here to support you every step of the way! Here are the resources available to help make your G&amp;S journey successful:</p>
-	<ul>
+<p>We are here to support you every step of the way! Here are the resources available to help make your G&amp;S journey successful:</p>
+<ul style="list-style-type: disc;">
 <li>Getting started guide – New to G&amp;S? Check out our <a href="https://go.gov/sg/cibgrowandsharebriefingslides"> briefing slides</a> for helpful tips on planning your event and completing the registration form.</li> 
 <li>Your starter pack – Once your garden group registers <a href="https://go.gov/sg/cibgrowandshareeventcategories">an eligible event</a>, our CIB team will contact you with details on collecting your G&amp;S starter pack. Each garden group receives one starter pack, regardless of how many events you organise.</li>
 <li>Event planning made easy – Take advantage of our <a href="https://go.gov/sg/cibgrowandshareeventplanningtoolkit">event planning toolkit</a>, complete with templates and resources to help you create memorable community gardening experiences.</li></ul><br>
-<section><h3><b>About G&amp;S Initiative</b></h3>
+<section>
+	<h3><b>About G&amp;S Initiative</b></h3>
 <p>The G&amp;S initiative was launched in 2025 to celebrate two decades of CIB by sharing the joy of gardening with the wider community. Under this initiative, community gardening groups across Singapore, from housing estates, schools and organisations, are encouraged to organise wide-ranging gardening-related activities.</p>
 	
 <h5><b>Objectives of Grow and Share</b></h5>
