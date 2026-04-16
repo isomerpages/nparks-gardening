@@ -42,12 +42,14 @@ Registration for the CIB programme is free! <a href="https://gardeningsg.nparks.
 		<li>Garden event category</li>
 		<ul>
 			<li>Your event should fall under one of the 6 garden event categories listed:</li></ul>
-i)	Educational 
-ii)	Cultural celebration
-iii)	Health &amp; wellness
-iv)	Sustainability
-v)	Community sharing 
-vi)	Artistry
+         <ul style="margin-left: 20px;"><ol style="list-style-type: lower-roman;">
+			<li>Educational</li> 
+			<li>Cultural celebration</li>
+			<li>Health &amp; wellness</li>
+					 <li> Sustainability</li>
+					 <li>Community sharing</li>
+					 <li>Artistry</li></ol></ul>
+
 		
 		You may submit details of event(s) that take place between 1 January and 31 December 2026
 2. Community impact
