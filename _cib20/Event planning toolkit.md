@@ -21,10 +21,8 @@ description: Helpful references and templates to help gardening groups plan and
 				<li><a download="" href="/files/CIB20%20Event%20Planning%20Toolkit/d%20basic%20guide%20to%20posting%20on%20social%20media%20platforms.pdf">Basic guide to posting on social media platforms</a></li></ul>
 	<h5>Programme support</h5>
 	<ul>
-				<li><a download="" href="/files/CIB20%20Event%20Planning%20Toolkit/CIB20_Grow_and_Share___Event_Categories.pdf">CIB Grow and Share event categories</a></li>
+				<li><a download="" href="/files/CIB20%20Event%20Planning%20Toolkit/grow%20and%20share%20event%20categories.pdf">Grow and Share event categories</a></li>
 		<li><a download="" href="/files/CIB20%20Event%20Planning%20Toolkit/e%20good%20food%20safety%20practices%20when%20growing%20edibles%20poster.pdf">Good food safety practices when growing edibles</a></li>
 				<li><a download="" href="/files/CIB20%20Event%20Planning%20Toolkit/f%20garden%20tour%20template.pdf">Garden tour template</a></li>
 	</ul>
 	</section>
-				
-				
