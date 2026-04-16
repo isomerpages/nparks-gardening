@@ -27,7 +27,27 @@ description: Celebrate 20 years of Community in Bloom by sharing the joy of
 -	Neighbourhood Committees (NCs) and Condominium MCSTs,
 -	Organisations, including other government agencies, private companies, healthcare facilities or
 -	Educational institutions, including preschools, primary schools, secondary schools and tertiary institutions
-</p><br>
+	
+Registration for the CIB programme is free! <a href="https://gardeningsg.nparks.gov.sg/contact-us/">Reach out to us</a> if you have not registered. 
+</p>
+<h4><b>Event criteria</b></h4>
+	<p>1. Time period: 
+-	You may submit details of event(s) that take place between 1 January and 31 December 2026.
+		
+		You may submit details of event(s) that take place between 1 January and 31 December 2026
+2. Community impact
+•	Planning team: A minimum of 5 members, including at least 1 garden leader.
+•	Participant outreach: The event should cater for minimally 15 attendees excluding the organisers. 
+3. Garden event category 
+•	Your event should fall under one of the 6 garden event categories listed:
+i)	Educational 
+ii)	Cultural celebration
+iii)	Health &amp; wellness
+iv)	Sustainability
+v)	Community sharing 
+vi)	Artistry
+
+</p>
 	</section>
 	
 <section>
