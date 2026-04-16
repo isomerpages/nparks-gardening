@@ -56,7 +56,7 @@ description: Celebrate 20 years of Community in Bloom by sharing the joy of
 	<img src="/images/CIB20/G_S_Timeline_ppt.png">	
 	<h4><b>Step 1: Grow and Share 2026 Registration </b></h4>
 <p>Ready to bring your community together through gardening? Join us by organising at least <b>1 gardening-related event</b> for your community this year! Be among the first 300 groups to participate and receive both a Grow and Share (G&amp;S) starter pack and appreciation pack.</p>
-	<h4><a target="_blank" class="button-primary" href="https://go.gov/sg/cibgrowandshareregistration">Register now!</a></h4><br>
+	<h4><a target="_blank" class="button-primary" href="https://go.gov.sg/cibgrowandshareregistration">Register now!</a></h4><br>
 	     <ul style="margin-left: 20px;"><ol style="list-style-type: lower-alpha;">
 				<li>Spread the word</li>
 If your event is open to the public, we would love to help you reach more people! We can feature your event information on our Explore G&amp;S page to boost visibility and encourage community participation.
@@ -77,9 +77,9 @@ Eligible gardening groups which have completed the above will receive a G&amp;S 
 <h3><b>G&amp;S resources and support</b></h3>
 <p>We are here to support you every step of the way! Here are the resources available to help make your G&amp;S journey successful:</p>
 <ul style="list-style-type: disc;">
-<li>Getting started guide – New to G&amp;S? Check out our <a href="https://go.gov/sg/cibgrowandsharebriefingslides"> briefing slides</a> for helpful tips on planning your event and completing the registration form.</li> 
-<li>Your starter pack – Once your garden group registers <a href="https://go.gov/sg/cibgrowandshareeventcategories">an eligible event</a>, our CIB team will contact you with details on collecting your G&amp;S starter pack. Each garden group receives one starter pack, regardless of how many events you organise.</li>
-<li>Event planning made easy – Take advantage of our <a href="https://go.gov/sg/cibgrowandshareeventplanningtoolkit">event planning toolkit</a>, complete with templates and resources to help you create memorable community gardening experiences.</li></ul><br>
+<li>Getting started guide – New to G&amp;S? Check out our <a href="https://go.gov.sg/cibgrowandsharebriefingslides"> briefing slides</a> for helpful tips on planning your event and completing the registration form.</li> 
+<li>Your starter pack – Once your garden group registers <a href="https://go.gov.sg/cibgrowandshareeventcategories">an eligible event</a>, our CIB team will contact you with details on collecting your G&amp;S starter pack. Each garden group receives one starter pack, regardless of how many events you organise.</li>
+<li>Event planning made easy – Take advantage of our <a href="https://go.gov.sg/cibgrowandshareeventplanningtoolkit">event planning toolkit</a>, complete with templates and resources to help you create memorable community gardening experiences.</li></ul><br>
 <section>
 	<h3><b>About G&amp;S Initiative</b></h3>
 <p>The G&amp;S initiative was launched in 2025 to celebrate two decades of CIB by sharing the joy of gardening with the wider community. Under this initiative, community gardening groups across Singapore, from housing estates, schools and organisations, are encouraged to organise wide-ranging gardening-related activities.</p>
