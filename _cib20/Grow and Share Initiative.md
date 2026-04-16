@@ -21,7 +21,7 @@ description: Celebrate 20 years of Community in Bloom by sharing the joy of
 	<h3><b>How to participate?</b></h3>
 <p> Organise at least <b> 1 gardening-related community event</b> in or around your community garden. </p>
 <h4><b>Eligibility</b></h4>
-<p>To participate, your group must be registered in the Community In Bloom (CIB) programme, and should be supported by a managing group. The list of managing groups includes:
+<p>To participate, your group must be registered in the <a href="https://gardeningsg.nparks.gov.sg/get-involved/community-gardens/"> Community In Bloom (CIB) programme</a>, and should be supported by a managing group. The list of managing groups includes:
 </p><ul>	
 	<li>Residents’ Networks (RNs) and Residents’ Committees (RCs),</li>
 	<li>Neighbourhood Committees (NCs) and Condominium MCSTs,</li>
