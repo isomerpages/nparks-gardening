@@ -28,7 +28,7 @@ sections:
       description: Bring your community together through gardening!
       button: Find out more
       url: /Grow_and_Share_Initiative
-      image: /images/Landing_page/Bee_friendly_Icon_edited_gimp.png
+      image: /images/Landing_page/Bee_friendly_Icon_edited_gimp_resized.png
       alt: Bee pollinating a flower
   - infopic:
       title: Not sure what to grow?
