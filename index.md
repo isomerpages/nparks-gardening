@@ -27,7 +27,7 @@ sections:
       id: infopic
       description: Bring your community together through gardening!
       button: Find out more
-      url: /Grow_and_Share_initiative
+      url: /grow-and-share-initiative/
       image: /images/Landing_page/2Bee_friendly_Icon_edited_gimp_resized.png
       alt: Bee pollinating a flower
   - infopic:
