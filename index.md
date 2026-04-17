@@ -22,12 +22,12 @@ sections:
       url: /community-garden-edibles-competition
       subtitle: Ready, set, grow!
   - infopic:
-      title: CIB20
+      title: Grow and Share Initiative
       subtitle: Growing together since 2005
       id: infopic
-      description: Celebrating 20 years of Community in Bloom (CIB)
-      button: View highlights
-      url: /cib20
+      description: Bring your community together through gardening!
+      button: Find out more
+      url: /Grow and Share Initiative
       image: /images/Landing_page/CIB20_logo_landing_middle.png
       alt: Image alt text
   - infopic:
