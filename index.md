@@ -28,8 +28,8 @@ sections:
       description: Bring your community together through gardening!
       button: Find out more
       url: /Grow and Share Initiative
-      image: /images/Landing_page/CIB20_logo_landing_middle.png
-      alt: Image alt text
+      image: /images/Landing_page/Bee_friendly_Icon_edited_gimp.png
+      alt: Bee pollinating a flower
   - infopic:
       title: Not sure what to grow?
       subtitle: Grow with the flow
