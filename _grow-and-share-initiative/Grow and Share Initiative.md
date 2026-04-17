@@ -28,7 +28,7 @@ description: Celebrate 20 years of Community in Bloom by sharing the joy of
 <li>Organisations, including other government agencies, private companies, healthcare facilities or</li>
 <li>Educational institutions, including preschools, primary schools, secondary schools and tertiary institutions</li></ul>
 	
-<p></p><h5>Registration for the CIB programme is free! <a href="https://gardeningsg.nparks.gov.sg/contact-us/">Reach out to us</a> if you have not registered.</h5><p></p>
+<p></p><h5>Registration for the CIB programme is free! <a href="https://form.gov.sg/64b78ef1a218a40012387fa4">Reach out to us</a> if you have not registered.</h5><p></p>
 
 <h4><b>Event criteria</b></h4>
 	<ol>
@@ -59,7 +59,7 @@ description: Celebrate 20 years of Community in Bloom by sharing the joy of
 	<h4><a target="_blank" class="button-primary" href="https://go.gov.sg/cibgrowandshareregistration">Register now!</a></h4><br>
 	     <ul style="margin-left: 20px;"><ol style="list-style-type: lower-alpha;">
 				<li>Spread the word</li>
-If your event is open to the public, we would love to help you reach more people! We can feature your event information on our Explore G&amp;S page to boost visibility and encourage community participation.
+If your event is open to the public, we would love to help you reach more people! We can feature your event information on our <a href="https://go.gov.sg/exploregsevents"> Explore G&amp;S</a> page to boost visibility and encourage community participation.
 				 <li>Receive your G&amp;S starter pack</li> 
 To support you in your G&amp;S events, NParks will be giving out a G&amp;S starter pack. Please indicate interest for the G&amp;S starter pack through the registration form. Once your event details have been confirmed by NParks, the CIB team will reach out with information on how you can collect the G&amp;S starter pack.</ol></ul>
 	<h4><b>Step 2: Conduct your event </b></h4>
@@ -126,5 +126,5 @@ Eligible gardening groups which have completed the above will receive a G&amp;S 
 					<p>The G&amp;S starter pack consists of outreach materials for use at your G&amp;S event. The G&amp;S appreciation pack consists of CIB20 collaterals and gardening products to support your future community gardening activities.</p></div></li>
 									<li><input type="checkbox" id="accordion10">
 				<label for="accordion10">Who can I reach out to if I have any other questions? </label><div>
-					<p>You can approach your CIB district manager or <a href="https://gardeningsg.nparks.gov.sg/contact-us/"> reach out to us.</a></p></div></li>
+					<p>You can approach your CIB district manager or <a href="https://form.gov.sg/64b78ef1a218a40012387fa4"> reach out to us.</a></p></div></li>
 </ul></section>
