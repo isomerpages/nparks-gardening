@@ -1,7 +1,7 @@
 ---
 title: Community In Bloom Awards
 permalink: /page-index/programming/cib-awards/
-date: 2023-10-03
+date: 2026-04-17
 layout: post
 description: The Community in Bloom (CIB) Awards recognise excellence in
   gardening efforts by community groups and aim to encourage community gardeners
@@ -18,9 +18,9 @@ variant: markdown
 
 <section>
 	<h4>CIB Awards</h4>
-	<p>As we are celebrating our <a href="/cib20/">20th anniversary of CIB</a> in 2025, the Awards will be paused. Community gardening groups can participate in the new '<a href="/grow-and-share-initiative/">Grow and Share</a>' initiative and be one of the first 800 groups to be eligible for a starter pack and a celebration pack.</p>
-	     
-<p>Please email <a href="mailto:communityinbloom@nparks.gov.sg">communityinbloom@nparks.gov.sg</a> or contact your CIB Managers if you need further assistance. </p>
+	<p>The CIB Awards will continue to take a pause in 2026 as we are developing new approaches to recognise and support our gardening community's efforts. Stay tuned for the updates!</p> 
+	<p>In the meantime, gardening groups can participate in this year's cycle of the  '<a href="/grow-and-share-initiative/">Grow and Share</a>' initiative and be one of the first 300 groups to be eligible for a starter pack and an appreciation pack.</p>
+	<p>If you and your gardening groups are up for a challenge, please participate in the <a href="/community-garden-edibles-competition/">Community Garden Edibles Competition 2026</a> and put your gardening skills to the test!</p><br>
 
 <section>
 	<h4>Results dossiers and videos</h4>
