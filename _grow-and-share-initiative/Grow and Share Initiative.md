@@ -25,8 +25,8 @@ description: Celebrate 20 years of Community in Bloom by sharing the joy of
 </p><ul>	
 	<li>Residents’ Networks (RNs) and Residents’ Committees (RCs),</li>
 	<li>Neighbourhood Committees (NCs) and Condominium MCSTs,</li>
-<li>Organisations, including other government agencies, private companies, healthcare facilities or</li>
-<li>Educational institutions, including preschools, primary schools, secondary schools and tertiary institutions</li></ul>
+<li>Organisations, including but not limited to other government agencies, private companies, places of worship, healthcare facilities or</li>
+<li>Educational institutions, including but not limited to preschools, primary schools, secondary schools and tertiary institutions</li></ul>
 	
 <p></p><h5>Registration for the CIB programme is free! <a href="https://form.gov.sg/64b78ef1a218a40012387fa4">Reach out to us</a> if you have not registered.</h5><p></p>
 
