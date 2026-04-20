@@ -65,7 +65,7 @@ details[open] > summary {
 		<li><input type="checkbox" id="accordion3">
 		<label for="accordion3">Eligibilty Criteria</label><div>
 			<ul>
-				<li>Applicants must be a Social Enterprise registered with the Singapore Centre for Social Enterprise (raiSE)</li>
+				<li>Applicants must be a Social Enterprise member with the Singapore Centre for Social Enterprise (raiSE)</li>
 				<li>Applicants must not have tapped onto any other government grants of a similar nature for the same project. Applicants can still seek funding from other non-government sources and will be required to submit a declaration on their funding sources in the application form</li>
 			</ul>
 		</div></li>
@@ -155,5 +155,5 @@ details[open] > summary {
 	
 <section>
 	<h4>Frequently Asked Questions</h4>
-	<p><a target="_blank" href="/files/SECUF_Grant_Website_FAQs_17Jul2025.pdf">Click here</a> to download the list of Frequently Asked Questions.</p>
+	<p><a target="_blank" href="/files/SECUF_Grant_Website_FAQs_20Apr2026">Click here</a> to download the list of Frequently Asked Questions.</p>
 </section>
