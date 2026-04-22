@@ -136,8 +136,8 @@ description: ""
 </style>
 
 <section>
-	<p> Discover Grow and Share activities happening across Singapore! This page features some of the events and activities organised by the participating CIB Community Gardening groups.<br>
-
+	<p> Discover Grow and Share activities happening across Singapore! This page features some of the events and activities organised by the participating CIB Community Gardening groups.</p><br>
+<p>
 You are encouraged to contact the organisers directly for specific queries on events. Please note that charges may apply for some events.</p>
 
 <section>
@@ -174,6 +174,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Where:</b> Angsana Community Garden, Blk 537 Hougang St 52<br>
 			<b>Contact:</b> whizkids.hg@gmail.com<br>
 		</div>
+		<br>
 		<br>
 <section>
 	<h5 id="pastevents">Past events</h5>
