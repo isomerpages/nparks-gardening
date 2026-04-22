@@ -175,6 +175,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Contact:</b> whizkids.hg@gmail.com<br>
 		</div>
 		<br>
+		</div></section>
 		<br>
 <section>
 	<h5 id="pastevents">Past events</h5>
@@ -645,4 +646,4 @@ You are encouraged to contact the organisers directly for specific queries on ev
 		</div>
 	</div>
 		<br>
-		</section></div></section></section>
+		</section></section>
