@@ -136,7 +136,7 @@ description: ""
 </style>
 
 <section>
-	<p> Discover Grow and Share activities happening across Singapore! This page features some of the events and activities organised by the participating CIB Community Gardening groups.</p><br>
+	<p> Discover Grow and Share activities happening across Singapore! This page features some of the events and activities organised by the participating CIB Community Gardening groups.</p>
 <p>
 You are encouraged to contact the organisers directly for specific queries on events. Please note that charges may apply for some events.</p>
 
