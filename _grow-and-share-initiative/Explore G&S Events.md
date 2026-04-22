@@ -144,8 +144,9 @@ You are encouraged to contact the organisers directly for specific queries on ev
 	<div class="wrapper">
 			<div class="box">
 			<span class="harvestsharing-tag">Harvest Sharing</span>
-			<h5 style="margin-top:8px">SKNYN Eco Fest 2026</h5>
+			<h5 style="margin-top:8px">Sengkang North Eco Fest 2026</h5>
 			<b>Organiser:</b> Compassvale Plain Community Garden<br>
+				<b>Participating Groups:</b> Compassvale Villa RN, Compassvale Gardens RC<br>
 			<b>Date:</b> 11 April 2026, Saturday<br>
 			<b>Where:</b> Multi-Purpose Hall, Sengkang CC<br>
 		</div>
