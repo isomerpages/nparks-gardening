@@ -156,7 +156,8 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Organiser:</b> Ridvan Garden @ Mount Emily<br>
 			<b>Date:</b> 25 April 2026, Saturday<br>
 			<b>Where:</b> 19 Upper Wilkie Road<br>
-			<b>Contact:</b> Jlkleong9@gmail.com; Sothie9@gmail.com<br>
+			<b>Enquiries:</b> Email Janice at <a href="mailto:Jlkleong9@gmail.com">Jlkleong9@gmail.com</a> and Sothie at <a href="mailto:Sothie9@gmail.com">Sothie9@gmail.com</a><br>
+			<b>Registration:</b> No registration is needed, walk-ins are accepted<br>
 		</div>
 		<div class="box">
 			<span class="harvestsharing-tag">Harvest Sharing</span>
@@ -164,7 +165,8 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Organiser:</b> Gerald Mugliston Community Garden<br>
 			<b>Date:</b> 16 August 2026, Sunday<br>
 			<b>Where:</b> Mugliston Park<br>
-			<b>Contact:</b> fwong18@gmail.com<br>
+			<b>Enquiries:</b> Email Freddy at <a href="mailto:fwong18@gmail.com">fwong18@gmail.com</a> <br>
+			<b>Registration:</b> No registration is needed, walk-ins are accepted<br>
 		</div>
 		<div class="box">
 			<span class="harvestsharing-tag">Harvest Sharing</span>
@@ -172,7 +174,8 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Organiser:</b> Whiz Kids Montessori@Hougang Pte Ltd<br>
 			<b>Date:</b> 20 December 2026, Sunday<br>
 			<b>Where:</b> Angsana Community Garden, Blk 537 Hougang St 52<br>
-			<b>Contact:</b> whizkids.hg@gmail.com<br>
+			<b>Enquiries:</b> Email <a href="mailto:whizkids.hg@gmail.com">whizkids.hg@gmail.com</a><br>
+			<b>Registration:</b> No registration is needed, walk-ins are accepted<br>
 		</div>
 		<br>
 		</div></section>
