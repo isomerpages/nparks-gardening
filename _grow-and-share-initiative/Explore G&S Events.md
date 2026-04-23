@@ -181,8 +181,9 @@ You are encouraged to contact the organisers directly for specific queries on ev
 		<br>
 		</div></section>
 		<br>
+	<br>
 <section>
-	<h5 id="pastevents">Past events</h5>
+	<h4 id="pastevents">Past events</h4>
 	<p> Explore the happenings that brought communities together across Singapore during our Grow and Share initiative in 2025! This page features some of the events and activities organised by the participating CIB Community Gardening groups throughout 2025.</p>
 <p>These past events serve as wonderful examples and ideas for communities looking to organise their own gardening programmes. Feel free to use them as inspiration to spark your own community gardening initiatives!</p>
 	<br>
