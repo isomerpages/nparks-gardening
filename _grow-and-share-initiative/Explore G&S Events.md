@@ -136,13 +136,60 @@ description: ""
 </style>
 
 <section>
-	<p> Explore the happenings that brought communities together across Singapore during our Grow and Share initiative in 2025! This page features some of the events and activities organised by the participating CIB Community Gardening groups throughout the year.</p>
+	<p> Discover Grow and Share activities happening across Singapore! This page features some of the events and activities organised by the participating CIB Community Gardening groups.</p>
+<p>
+You are encouraged to contact the organisers directly for specific queries on events. Please note that charges may apply for some events.</p>
+
+<section>
+	<div class="wrapper">
+			<div class="box">
+			<span class="harvestsharing-tag">Harvest Sharing</span>
+			<h5 style="margin-top:8px">Sengkang North Eco Fest 2026</h5>
+			<b>Organiser:</b> Compassvale Plain Community Garden<br>
+				<b>Participating Groups:</b> Compassvale Villa RN, Compassvale Gardens RC<br>
+			<b>Date:</b> 11 April 2026, Saturday<br>
+			<b>Where:</b> Multi-Purpose Hall, Sengkang CC<br>
+				<b>Registration:</b> No registration is needed, walk-ins are accepted<br>
+		</div>
+		<div class="box">
+			<span class="crafts-tag">Crafts</span>
+			<h5 style="margin-top:8px">Ridvan Festival</h5>
+			<b>Organiser:</b> Ridvan Garden @ Mount Emily<br>
+			<b>Date:</b> 25 April 2026, Saturday<br>
+			<b>Where:</b> 19 Upper Wilkie Road<br>
+			<b>Enquiries:</b> Email Janice at <a href="mailto:Jlkleong9@gmail.com">Jlkleong9@gmail.com</a> and Sothie at <a href="mailto:Sothie9@gmail.com">Sothie9@gmail.com</a><br>
+			<b>Registration:</b> No registration is needed, walk-ins are accepted<br>
+		</div>
+		<div class="box">
+			<span class="harvestsharing-tag">Harvest Sharing</span>
+			<h5 style="margin-top:8px">National Day Community Garden Activities</h5>
+			<b>Organiser:</b> Gerald Mugliston Community Garden<br>
+			<b>Date:</b> 16 August 2026, Sunday<br>
+			<b>Where:</b> Mugliston Park<br>
+			<b>Enquiries:</b> Email Freddy at <a href="mailto:fwong18@gmail.com">fwong18@gmail.com</a> <br>
+			<b>Registration:</b> Registration link will be shared at a later date<br>
+		</div>
+		<div class="box">
+			<span class="harvestsharing-tag">Harvest Sharing</span>
+			<h5 style="margin-top:8px">We Share Our Harvest</h5>
+			<b>Organiser:</b> Whiz Kids Montessori@Hougang Pte Ltd<br>
+			<b>Date:</b> 20 December 2026, Sunday<br>
+			<b>Where:</b> Angsana Community Garden, Blk 537 Hougang St 52<br>
+			<b>Enquiries:</b> Email <a href="mailto:whizkids.hg@gmail.com">whizkids.hg@gmail.com</a><br>
+			<b>Registration:</b> No registration is needed, walk-ins are accepted<br>
+		</div>
+		<br>
+		</div></section>
+		<br>
+	<br>
+<section>
+	<h4 id="pastevents">Past events</h4>
+	<p> Explore the happenings that brought communities together across Singapore during our Grow and Share initiative in 2025! This page features some of the events and activities organised by the participating CIB Community Gardening groups throughout 2025.</p>
 <p>These past events serve as wonderful examples and ideas for communities looking to organise their own gardening programmes. Feel free to use them as inspiration to spark your own community gardening initiatives!</p>
 	<br>
 </section>
 
 <section>
-<h5 id="pastevents">Past events</h5>
 	<div class="wrapper">
 		<div class="box">
 			<span class="booth-tag">Booth</span>
@@ -604,4 +651,4 @@ description: ""
 		</div>
 	</div>
 		<br>
-		</section>
+		</section></section>
