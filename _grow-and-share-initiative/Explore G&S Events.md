@@ -149,6 +149,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 				<b>Participating Groups:</b> Compassvale Villa RN, Compassvale Gardens RC<br>
 			<b>Date:</b> 11 April 2026, Saturday<br>
 			<b>Where:</b> Multi-Purpose Hall, Sengkang CC<br>
+				<b>Registration:</b> No registration is needed, walk-ins are accepted<br>
 		</div>
 		<div class="box">
 			<span class="crafts-tag">Crafts</span>
@@ -166,7 +167,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Date:</b> 16 August 2026, Sunday<br>
 			<b>Where:</b> Mugliston Park<br>
 			<b>Enquiries:</b> Email Freddy at <a href="mailto:fwong18@gmail.com">fwong18@gmail.com</a> <br>
-			<b>Registration:</b> No registration is needed, walk-ins are accepted<br>
+			<b>Registration:</b> Registration link will be shared at a later date<br>
 		</div>
 		<div class="box">
 			<span class="harvestsharing-tag">Harvest Sharing</span>
