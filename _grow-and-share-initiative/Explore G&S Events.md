@@ -148,6 +148,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Organiser:</b> Compassvale Plain Community Garden<br>
 				<b>Participating Groups:</b> Compassvale Villa RN, Compassvale Gardens RC<br>
 			<b>Date:</b> 11 April 2026, Saturday<br>
+				<b>Time:</b> 10.00am - 1.00pm<br>
 			<b>Where:</b> Multi-Purpose Hall, Sengkang CC<br>
 				<b>Registration:</b> No registration is needed, walk-ins are accepted<br>
 		</div>
@@ -156,6 +157,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<h5 style="margin-top:8px">Ridvan Festival</h5>
 			<b>Organiser:</b> Ridvan Garden @ Mount Emily<br>
 			<b>Date:</b> 25 April 2026, Saturday<br>
+			<b>Time:</b> 4.00pm - 7.00pm<br>
 			<b>Where:</b> 19 Upper Wilkie Road<br>
 			<b>Enquiries:</b> Email Janice at <a href="mailto:Jlkleong9@gmail.com">Jlkleong9@gmail.com</a> and Sothie at <a href="mailto:Sothie9@gmail.com">Sothie9@gmail.com</a><br>
 			<b>Registration:</b> No registration is needed, walk-ins are accepted<br>
@@ -165,6 +167,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<h5 style="margin-top:8px">National Day Community Garden Activities</h5>
 			<b>Organiser:</b> Gerald Mugliston Community Garden<br>
 			<b>Date:</b> 16 August 2026, Sunday<br>
+			<b>Time:</b> 4.00pm - 6.00pm<br>
 			<b>Where:</b> Mugliston Park<br>
 			<b>Enquiries:</b> Email Freddy at <a href="mailto:fwong18@gmail.com">fwong18@gmail.com</a> <br>
 			<b>Registration:</b> Registration link will be shared at a later date<br>
@@ -174,6 +177,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<h5 style="margin-top:8px">We Share Our Harvest</h5>
 			<b>Organiser:</b> Whiz Kids Montessori@Hougang Pte Ltd<br>
 			<b>Date:</b> 20 December 2026, Sunday<br>
+			<b>Time:</b> 9.00am - 10.30am<br>
 			<b>Where:</b> Angsana Community Garden, Blk 537 Hougang St 52<br>
 			<b>Enquiries:</b> Email <a href="mailto:whizkids.hg@gmail.com">whizkids.hg@gmail.com</a><br>
 			<b>Registration:</b> No registration is needed, walk-ins are accepted<br>
