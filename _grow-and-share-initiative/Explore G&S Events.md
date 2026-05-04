@@ -688,5 +688,4 @@ You are encouraged to contact the organisers directly for specific queries on ev
 		</div>
 	</div>
 	</section>
-		</div></li></ul>
-		</section></section>
+		</div></li></ul></section></section>
