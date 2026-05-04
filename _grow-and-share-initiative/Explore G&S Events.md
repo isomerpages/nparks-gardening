@@ -143,24 +143,14 @@ You are encouraged to contact the organisers directly for specific queries on ev
 <section>
 	<div class="wrapper">
 			<div class="box">
-			<span class="harvestsharing-tag">Harvest Sharing</span>
-			<h5 style="margin-top:8px">Sengkang North Eco Fest 2026</h5>
-			<b>Organiser:</b> Compassvale Plain Community Garden<br>
-				<b>Participating Groups:</b> Compassvale Villa RN, Compassvale Gardens RC<br>
-			<b>Date:</b> 11 April 2026, Saturday<br>
-				<b>Time:</b> 10.00am - 1.00pm<br>
-			<b>Where:</b> Multi-Purpose Hall, Sengkang CC<br>
-				<b>Registration:</b> No registration is needed, walk-ins are accepted<br>
-		</div>
-		<div class="box">
-			<span class="crafts-tag">Crafts</span>
-			<h5 style="margin-top:8px">Ridvan Festival</h5>
-			<b>Organiser:</b> Ridvan Garden @ Mount Emily<br>
-			<b>Date:</b> 25 April 2026, Saturday<br>
-			<b>Time:</b> 4.00pm - 7.00pm<br>
-			<b>Where:</b> 19 Upper Wilkie Road<br>
-			<b>Enquiries:</b> Email Janice at <a href="mailto:Jlkleong9@gmail.com">Jlkleong9@gmail.com</a> and Sothie at <a href="mailto:Sothie9@gmail.com">Sothie9@gmail.com</a><br>
-			<b>Registration:</b> No registration is needed, walk-ins are accepted<br>
+			<span class="tour-tag">Tour</span>
+			<h5 style="margin-top:8px">CIB Grow and Share at Sennett Community Harvest Hub</h5>
+			<b>Organiser:</b> Sennett Community Harvest Hub<br>
+			<b>Date:</b> 24 May 2026, Saturday<br>
+				<b>Time:</b> 2.00pm - 3.00pm<br>
+			<b>Where:</b> Area beside 69 Wantho Ave<br>
+				<b>Enquiries</b> Email Wendy at <a href="mailto:wendytanwl@gmail.com">wendytanwl@gmail.com</a>
+				<b>Registration:</b> Registration link will be shared at a later date<br>
 		</div>
 		<div class="box">
 			<span class="harvestsharing-tag">Harvest Sharing</span>
@@ -187,11 +177,54 @@ You are encouraged to contact the organisers directly for specific queries on ev
 		<br>
 	<br>
 <section>
-	<h4 id="pastevents">Past events</h4>
-	<p> Explore the happenings that brought communities together across Singapore during our Grow and Share initiative in 2025! This page features some of the events and activities organised by the participating CIB Community Gardening groups throughout 2025.</p>
+	<h4 id="pastevents">Past events in 2026</h4>
 <p>These past events serve as wonderful examples and ideas for communities looking to organise their own gardening programmes. Feel free to use them as inspiration to spark your own community gardening initiatives!</p>
 	<br>
 </section>
+
+<section>
+	<div class="wrapper">
+				<div class="box">
+			<span class="workshop-tag">Workshop</span>
+			<h5 style="margin-top:8px">Gardeners Get-Together</h5>
+			<b>Organiser:</b> Chua Chu Kang Park Community Garden<br>
+			<b>Date:</b> 11 January 2026, Sunday<br>
+			<b>Time:</b> 8.00am - 10.30am<br>
+			<b>Where:</b> Chua Chu Kang Park<br>
+		</div>	
+		<div class="box">
+			<span class="harvestsharing-tag">Harvest Sharing</span>
+			<h5 style="margin-top:8px">Sengkang North Eco Fest 2026</h5>
+			<b>Organiser:</b> Compassvale Plain Community Garden<br>
+				<b>Participating Groups:</b> Compassvale Villa RN, Compassvale Gardens RC<br>
+			<b>Date:</b> 11 April 2026, Saturday<br>
+				<b>Time:</b> 10.00am - 1.00pm<br>
+			<b>Where:</b> Multi-Purpose Hall, Sengkang CC<br>
+		</div>
+			<div class="box">
+			<span class="booth-tag">Booth</span>
+			<h5 style="margin-top:8px">Tampines Changkat Zone 5 Butterfly Garden Booth at Tampines Changkat Day</h5>
+			<b>Organiser:</b> Compassvale Plain Community Garden<br>
+			<b>Date:</b> 25 April 2026, Saturday<br>
+				<b>Time:</b> 9.00am - 12.00pm<br>
+			<b>Where:</b> Tampines Changkat CC<br>
+		</div>
+		<div class="box">
+			<span class="crafts-tag">Crafts</span>
+			<h5 style="margin-top:8px">Ridvan Festival</h5>
+			<b>Organiser:</b> Ridvan Garden @ Mount Emily<br>
+			<b>Date:</b> 25 April 2026, Saturday<br>
+			<b>Time:</b> 4.00pm - 7.00pm<br>
+			<b>Where:</b> 19 Upper Wilkie Road<br>
+		</div>
+		<br>
+		</div></section>
+
+<section>
+<ul class="jekyllcodex_accordion">
+	<li><input type="checkbox" id="accordion1">
+		<label for="accordion1">Past events in 2025</label><div>
+	<p> Explore the happenings that brought communities together across Singapore during our Grow and Share initiative in 2025! The list below features some of the events and activities organised by the participating CIB Community Gardening groups throughout 2025.</p>
 
 <section>
 	<div class="wrapper">
@@ -654,5 +687,6 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Where:</b> Fu Shan Garden Pavilion, Behind Blk 819 Woodlands Street 82<br>
 		</div>
 	</div>
-		<br>
-		</section></section>
+	</section>
+		</div></li></ul></section>
+</section>
