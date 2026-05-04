@@ -687,5 +687,6 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Where:</b> Fu Shan Garden Pavilion, Behind Blk 819 Woodlands Street 82<br>
 		</div>
 	</div>
-	</section></div></li></ul>
+	</section>
+		</div></li></ul>
 		</section></section>
