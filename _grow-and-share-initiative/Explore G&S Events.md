@@ -177,7 +177,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 		<br>
 	<br>
 <section>
-	<h4 id="pastevents">Past events</h4>
+	<h4 id="pastevents">Past events in 2026</h4>
 <p>These past events serve as wonderful examples and ideas for communities looking to organise their own gardening programmes. Feel free to use them as inspiration to spark your own community gardening initiatives!</p>
 	<br>
 </section>
