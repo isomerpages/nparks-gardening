@@ -226,8 +226,7 @@ You are encouraged to contact the organisers directly for specific queries on ev
 		<label for="accordion1">Past events in 2025</label><div>
 	<p> Explore the happenings that brought communities together across Singapore during our Grow and Share initiative in 2025! The list below features some of the events and activities organised by the participating CIB Community Gardening groups throughout 2025.</p>
 <br>
-</div></li></ul></section>
-	
+
 <section>
 	<div class="wrapper">
 		<div class="box">
@@ -689,5 +688,5 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Where:</b> Fu Shan Garden Pavilion, Behind Blk 819 Woodlands Street 82<br>
 		</div>
 	</div>
-	
-		</section></section>
+	</section></div></li></ul></section>
+		</section>
