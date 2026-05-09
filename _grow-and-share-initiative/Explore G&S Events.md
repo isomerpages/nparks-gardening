@@ -149,7 +149,18 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Date:</b> 24 May 2026, Saturday<br>
 				<b>Time:</b> 2.00pm - 3.00pm<br>
 			<b>Where:</b> Area beside 69 Wantho Ave<br>
-				<b>Enquiries</b> Email Wendy at <a href="mailto:wendytanwl@gmail.com">wendytanwl@gmail.com</a>
+				<b>Enquiries:</b> Email Wendy at <a href="mailto:wendytanwl@gmail.com">wendytanwl@gmail.com</a>
+				<b>Registration:</b> Registration link will be shared at a later date<br>
+		</div>
+			<div class="box">
+			<span class="workshop-tag">Workshop</span>
+							<span class="crafts-tag">Crafts</span>
+			<h5 style="margin-top:8px">Natural Ink Painting</h5>
+			<b>Organiser:</b> Clementi Green Community Garden<br>
+			<b>Date:</b> 16 June 2026, Saturday<br>
+				<b>Time:</b> 10.00am - 11.00am<br>
+			<b>Where:</b> RN Activity Room at Blk 343 Clementi Ave 5<br>
+				<b>Enquiries:</b> Email <a href="mailto:clementizone2rc@gmail.com">clementizone2rc@gmail.com</a>
 				<b>Registration:</b> Registration link will be shared at a later date<br>
 		</div>
 		<div class="box">
@@ -210,7 +221,9 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Where:</b> Tampines Changkat CC<br>
 		</div>
 		<div class="box">
-			<span class="crafts-tag">Crafts</span>
+			<span class="harvestsharing-tag">Harvest Sharing</span>
+			<span class="booth-tag">Booth</span>
+			<span class="workshop-tag">Workshop</span>
 			<h5 style="margin-top:8px">Ridvan Festival</h5>
 			<b>Organiser:</b> Ridvan Garden @ Mount Emily<br>
 			<b>Date:</b> 25 April 2026, Saturday<br>
