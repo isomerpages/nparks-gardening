@@ -143,16 +143,6 @@ You are encouraged to contact the organisers directly for specific queries on ev
 <section>
 	<div class="wrapper">
 			<div class="box">
-			<span class="tour-tag">Tour</span>
-			<h5 style="margin-top:8px">CIB Grow and Share at Sennett Community Harvest Hub</h5>
-			<b>Organiser:</b> Sennett Community Harvest Hub<br>
-			<b>Date:</b> 24 May 2026, Saturday<br>
-				<b>Time:</b> 2.00pm - 3.00pm<br>
-			<b>Where:</b> Area beside 69 Wantho Ave<br>
-				<b>Enquiries:</b> Email Wendy at <a href="mailto:wendytanwl@gmail.com">wendytanwl@gmail.com</a>
-				<b>Registration:</b> Registration link will be shared at a later date<br>
-		</div>
-			<div class="box">
 			<span class="workshop-tag">Workshop</span>
 							<span class="crafts-tag">Crafts</span>
 			<h5 style="margin-top:8px">Natural Ink Painting</h5>
