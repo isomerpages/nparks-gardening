@@ -30,7 +30,7 @@ variant: markdown
 <section>
 			<img title="A Community Gardener and NParks staff posing with freshly harvested corn. Photo by Jacqueline Chua." src="/images/Gardeners/Jurong%20Central%20Zone%20D%20Skygarden_20220125%20(72).jpg">
 	<p>Community Gardens are common green spaces managed by volunteers. They can be found in the heartlands, in private estates, schools, and organisations. These gardens come in many forms, and serve a wide variety of functions. Some examples include edible gardens where the community grows a wide variety of <a href="/page-index/glossary/edible-plants/">edible plant species</a> for self-consumption, sharing with community, or promoting food resilience; habitat-enhancing gardens where they grow plants to support <a href="/learn-more-about-gardening/garden-biodiversity/">local biodiversity</a>; and ornamental gardens where they showcase expertise like orchid cultivation or bonsai growing. These gardens also support community bonding and other social activities, making them hubs for collaboration for residents, students, teachers, researchers and more.</p>
-	<p>Community gardeners can seek horticultural and management advice from Community In Bloom, an NParks programme that helps to start and develop community gardens islandwide.</p>
+	<p>Community gardeners can seek horticultural and management advice from Community in Bloom, an NParks programme that helps to start and develop community gardens islandwide.</p>
 	<br>
 </section>
 
@@ -38,7 +38,7 @@ variant: markdown
 	<li><input type="checkbox" id="accordion1">
 		<label for="accordion1">About Community in Bloom</label><div>
 		<img title="Community Gardeners working together to check plants for pests. Photo by Jacqueline Chua." src="/images/Gardeners/Gardeners_CozyGarden_JacquelineChua__4_.jpg">
-		<p>Community In Bloom (CIB) is a nationwide gardening programme under the <a href="https://www.nparks.gov.sg/">National Parks Board (NParks)</a> in Singapore. Since the programme’s inception in 2005, NParks has been actively engendering a gardening culture, a greater sense of civic ownership and community stewardship by facilitating the starting and development of Community Gardens islandwide. CIB provides guidance for Community Garden design, community management and site selection for new community gardens, and supports the educational development of Community Gardeners through educational resources like this website, <a href="/page-index/programming/cib-awards/">competitions</a>, and the <a href="/page-index/programming/cib-ambassadors/">CIB Ambassador programme</a>.</p>
+		<p>Community in Bloom (CIB) is a nationwide gardening programme under the <a href="https://www.nparks.gov.sg/">National Parks Board (NParks)</a> in Singapore. Since the programme’s inception in 2005, NParks has been actively engendering a gardening culture, a greater sense of civic ownership and community stewardship by facilitating the starting and development of Community Gardens islandwide. CIB provides guidance for Community Garden design, community management and site selection for new community gardens, and supports the educational development of Community Gardeners through educational resources like this website, <a href="/page-index/programming/cib-awards/">competitions</a>, and the <a href="/page-index/programming/cib-ambassadors/">CIB Ambassador programme</a>.</p>
 		<img title="A Community Garden on the roof of a multi-story carpark. Photo by Jacqueline Chua." src="/images/Garden%20design/KimTianWest_JacChua%20(1).jpg">
 		<p>Today, the CIB programme has registered over 2,000 community gardening groups across Singapore, engaging more than 48,000 gardening enthusiasts from all walks of life and across ages.</p> 
 		<img title="Community Gardeners examining a Lady's-finger plant. Photo by NParks." src="/images/Gardeners/GeneralMaintainence_JacChua%20(12).jpg">
@@ -54,7 +54,7 @@ variant: markdown
 		<label for="accordion3">How do I start a Community Garden?</label><div>
 		<img src="/images/Gardeners/Outreach%20(3).jpg">
 		<p>While the starting process will be different depending on where your garden is sited at, a gardening group must first be formed. All community gardens must also be supported by a managing body (for example, a Residents' Committee or Network, Neighbourhood Committee, School or Organisation), and permission from the relevant landowner must be sought. To aid these community efforts, NParks has also published '<a href="https://go.gov.sg/guide-to-design-community-gardens">A Guide to Designing and Implementing Community Garden</a>', which is free for all to download.</p>
-		<p>Ready to start a community garden? Fill out the form below and a Community In Bloom staff will get in touch with you!</p>
+		<p>Ready to start a community garden? Fill out the form below and a Community in Bloom staff will get in touch with you!</p>
 		<div class="wrapper">
 			<a style="text-decoration:none; color: white" href="https://form.gov.sg/64b78ef1a218a40012387fa4"><div class="box">
 				Start a Community Garden now!</div></a>
@@ -94,8 +94,8 @@ variant: markdown
 		</ul>																																															
 	</div></li>
 	<li><input type="checkbox" id="accordion6">
-	<label for="accordion6">About the Community In Bloom Awards and Community In Bloom Ambassadors</label><div>
-		<p>Looking to showcase your garden or see some inspiring award-winners? Check out the <a href="/page-index/programming/cib-awards/">Community In Bloom Awards</a> to see the best Community Gardens in Singapore, and aim to join their ranks!</p>
-		<p>Do you know a Community Gardener that goes above and beyond in educating others and spreading their love for gardening? Nominate them to be a <a href="/page-index/programming/cib-ambassadors/">Community In Bloom Ambassador</a>!</p>
+	<label for="accordion6">About the Community in Bloom Awards and Community in Bloom Ambassadors</label><div>
+		<p>Looking to showcase your garden or see some inspiring award-winners? Check out the <a href="/page-index/programming/cib-awards/">Community in Bloom Awards</a> to see the best Community Gardens in Singapore, and aim to join their ranks!</p>
+		<p>Do you know a Community Gardener that goes above and beyond in educating others and spreading their love for gardening? Nominate them to be a <a href="/page-index/programming/cib-ambassadors/">Community in Bloom Ambassador</a>!</p>
 	</div></li>
 </ul>
