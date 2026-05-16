@@ -163,6 +163,17 @@ You are encouraged to contact the organisers directly for specific queries on ev
 			<b>Enquiries:</b> Email Freddy at <a href="mailto:fwong18@gmail.com">fwong18@gmail.com</a> <br>
 			<b>Registration:</b> Registration link will be shared at a later date<br>
 		</div>
+				<div class="box">
+							<span class="tour-tag">Tour</span>
+			<span class="harvestsharing-tag">Harvest Sharing</span>
+			<h5 style="margin-top:8px">Grow &amp; Share at Sennett Communiy Harvest Hub</h5>
+			<b>Organiser:</b> Sennett Community Harvest Hub<br>
+			<b>Date:</b> 23 August 2026, Sunday<br>
+				<b>Time:</b> 2.00pm - 3.30pm<br>
+			<b>Where:</b> Beside 69 Wantho Ave<br>
+				<b>Enquiries:</b> Email Wendy at <a href="mailto:Wendytanwl@gmail.com">Wendytanwl@gmail.com</a>
+				<b>Registration:</b> Registration link will be shared at a later date<br>
+		</div>
 		<div class="box">
 			<span class="harvestsharing-tag">Harvest Sharing</span>
 			<h5 style="margin-top:8px">We Share Our Harvest</h5>
