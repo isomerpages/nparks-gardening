@@ -155,5 +155,5 @@ details[open] > summary {
 	
 <section>
 	<h4>Frequently Asked Questions</h4>
-	<p><a target="_blank" href="/files/SECUF_Grant_Website_FAQs_20Apr2026">Click here</a> to download the list of Frequently Asked Questions.</p>
+	<p><a target="_blank" href="https://go.gov.sg/secuf-faq">Click here</a> to view the list of Frequently Asked Questions.</p>
 </section>
