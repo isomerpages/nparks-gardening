@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="Image of the front cover of the booked titled 1001 Garden Plants in Singapore" src="/images/1001book.png">
+<img style="width: 65%;" height="auto" width="100%" alt="Image of the front cover of the booked titled 1001 Garden Plants in Singapore" src="/images/1001book.png">
 </div>
 <p>The ‘1001 Garden Plants in Singapore: A New Compendium’ is the latest
 edition of one of the most popular gardening resources in Singapore.</p>
