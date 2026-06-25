@@ -21,41 +21,42 @@ variant: markdown
 	<img title="A roadside garden in a private estate. Photo by Jacqueline Chua." src="/images/Hardscapes/Nim%20roadside%20(2).jpg">
 	<p>Roadside gardening with your community is a fun way to add colour and character to roadside verges in your neighbourhood. If you would like to start a roadside community garden within your estate, you can read about the <a href="/get-involved/community-gardens/#accordion3">starting process</a> and contact NParks to get guidance and advice.</p> 
 		
-<p>Gardening in this small space needs a keen eye for aesthetics, knowledge of hardy plants and lots of passion to keep your green space neat and tidy. Because road verges are near foot traffic and vehicles, it is important to keep your garden safe and accessible.</p>
+<p>Gardening in this small space needs a keen eye for aesthetics, knowledge of hardy plants and lots of passion to keep the green space neat and tidy. Because road verges are near foot traffic and vehicles, it is important to keep the area safe and accessible.</p>
 <p>Download our <a href="/files/good%20roadside%20gardening%20practices.pdf">Good Roadside Gardening Practices here</a>.</p>
 
 <br>
 </section>
 
 <section>
-	<h4>Designing your roadside garden to be safe</h4>
-	<p>Here are the golden rules to keeping your roadside garden safe:</p>
+	<h4>Designing a safe roadside garden</h4>
+	<p>Here are the golden rules to keeping the roadside garden safe:</p>
 	<ol>
-		<li>Do not garden along road junctions as your plants can obstruct the view of oncoming traffic</li>
-		<li>Choose plants that are smaller than 1m to ensure that pedestrians remain visible for drivers</li>
-		<li>Choose plants that don’t have thorns, irritating sap, or other characteristics that could harm passerby</li>
-		<li>Keep pedestrian walkways and bin areas clear of pots, plants and other materials so that passerby can walk past your garden, and so that you have space to squat, move plants and prune as you garden</li>
+		<li>Do not cultivate plants at or along road junctions as plants may obstruct the view of traffic.</li>
+		<li>Choose plants that will generally grow up to 1m in height to ensure that visibility of drivers is not obstructed.</li>
+		<li>Choose plants that do not have thorns, irritating sap or other characteristics that harm passers-by and other users of the road.</li>
+		<li>Keep pedestrian walkways and bin areas clear of pots, plants and other materials so that passers-by can walk past the garden, and so that you have space to squat, move plants and prune as you garden</li>
+		<li>Do not plant fruit-bearing trees, such as mangoes, jambu and papayas. There are public safety risks such as fruit falling on passers-by and vehicles, and also risk of attracting pest insects and animals.</li>
 	</ol>
 	<br>
 </section>
 
 <section>
-	<h4>Maintaining your roadside garden</h4>
-	<p>A garden is only as good as its maintenance schedule, and since your roadside garden is often the first thing visitors see of your home, it is worth taking time to groom your garden regularly.</p>
-	<p>The most important things you can do for your roadside garden are:</p>
+	<h4>Maintaining the roadside garden</h4>
+	<p>A garden is only as good as its maintenance schedule, and since the roadside garden is often the first thing visitors see of the estate, it is important to groom the garden regularly.</p>
+	<p>These are the key things you can do for the roadside garden:</p>
 	<ol>
-		<li>Regular <a href="/page-index/horticulture-techniques/pruning/">pruning</a> to keep your plants lush and bushy</li>
-		<li><a href="/page-index/horticulture-techniques/fertilising/">Fertilising</a> your plants to encourage more leaves and flowers</li>
-		<li><a href="/page-index/housekeeping/keeping-gardens-mosquito-free/">Removing mosquito breeding habitats</a> within your verge</li>
+		<li>Regular <a href="/page-index/horticulture-techniques/pruning/">pruning</a> to keep  plants healthy</li>
+		<li><a href="/page-index/horticulture-techniques/fertilising/">Fertilising</a> the plants to encourage more leaves and flowers</li>
+		<li><a href="/page-index/housekeeping/keeping-gardens-mosquito-free/">Removing mosquito breeding habitats</a></li>
 	<ol>
 	<br>
 </ol></ol></section>
 	
 <section>
-	<h4>Choosing plants for your roadside garden</h4>
-	<p>Roadside garden plants should ideally be smaller than 1m, be colourful and easy to maintain. Do take note of how much light and space your plants will get and factor that into your plant choice to aid your planning.</p>
-	<p>Because roadsides have a lot of traffic, it is also important to choose plants that are not thorny, sharp, or otherwise dangerous to keep you and your neighbours safe.</p>
-	<p>Here are some plants to grow along your roadside:</p>
+	<h4>Choosing plants for the roadside garden</h4>
+	<p>Roadside garden plants should ideally be smaller than 1m, be aethestically pleasing and easy to maintain. Do take note of how much light and space your plants will get and factor that into your plant choice to aid your planning.</p>
+	<p>Because roadsides have a lot of pedestrian and vehicular traffic, it is also important to choose plants that are not thorny, sharp, or otherwise dangerous to keep you, your neighbours and passers-by safe.</p>
+	<p>Here are some plants to grow along the roadside:</p>
 	<ul class="jekyllcodex_accordion">
 		<li><input type="checkbox" id="accordion1">
 		<label for="accordion1">For 4-8 hours of direct sunlight:</label><div>
